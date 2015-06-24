@@ -1,0 +1,1397 @@
+focq001mini02_01.TEI.2.text.body.div.head.227.s.1	De min in 't Lazarus-huys .	None
+focq001mini02_01.TEI.2.text.body.div.head.227.s.2	Blyspel .	None
+focq001mini02_01.TEI.2.text.body.div.sp.speaker.230.s.1	CUPIDO doet de Voor-Reeden .	None
+focq001mini02_01.TEI.2.text.body.div.sp.speaker.230.s.2	Zittende in een Stoel met Rinkels , in Zots Kleeren , met een Blikke Slabbe voor .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.1	Gy Troep van Juffers , en van Heeren !	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.2	Die andersins myn slaven bend , Ik zouw schier wel derven zweeren , Dat gy uw Meester niet meer kend .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.3	Wie meent gy dat hier zit te kyken ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.4	Wie meent gy , dat gy in dees Kap , En in dees Rinkel-stoel ziet pryken , Geharnast met dees Blikke Slabb ' ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.5	Ik weet wel , dat gy noit verzinnen , Noch denken zult met uw verstandt , Dat gy den Grooten God der Minnnen Hier ziet in 't Laasrus-huis geplant : Maar evenwel , al lyken 't droomen , Ik ben het zelver , dat gy 't weet : Doch hoe ik hier toe ben gekoomen , Vraagt dat alleeenig den Poëet Die dees Comedie doet vertoonen ; Vermits dat hy ( wyl dat hy zweert Dat door lang in zyn Buurt te woonen , Hy myn Natuur wel heeft geleert ) My voor zo Gek , en Zot , derft schelden , Dat hy , als per playsier quansuis , Op 't lest my by de Zotten stelde , In 't Amsterdamsche Laasrus-huis .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.6	'k Beken , ik ben geensins de wyste , Schoon ik een God ben ; maar , wat raad ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.7	Ik zie , dat dikwils d'aldergryste De grootste zotheid wel begaat .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.8	Ben ik dan daarom te veragten , Een jongen zynde , als ik ben ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.9	Wanneer de luy van myn verwachten , Meer Wysheid , als ik geven ken ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.10	De Kinders werken Kinder geuren ; De zotheid is een eigenschap , Die van de Jeugt niet is te scheuren , Want ieder draagt zyn Narre-Kap .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.11	My daarom , die 't gebied der herten Van al de Jeugt is toevertrouwt , My wyt men al die zotte parten , Die dagelyks de jonkheid brouwt : En 'k weet , men wytse my met reden , Mits ik myn zelven oorzaak vind , Van hondert duizent Zottigheden , Die ik doe doen , aan die bemint .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.12	Hoe vaak doe ik een party gekken , Uit zotte razerny alleen , Haar hair uit Kop en Kneevels trekken , Door 't loopen van een Blaauwe Scheen ?	EmotionalAction_BodyPart_Despair
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.13	Hoe vaak doe ik ' er een verlieven , Die 't minnen in gedachten pleegt , Of met een tal van zotte Brieven , Daar zyn Matres haar Poort aan veegt ?	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.14	Hoe vaak doe ik een Zots-Kap draven , Voorby een huis , daar 't alles rust , En elk al leit in slaap begraven , Wyl hy de Stoep of Klopper kust ?	EmotionalAction_Love
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.15	Hoe dikmaals doe ik Serenades Op zagen , voor een zotte sloor ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.16	Die , spyt Couranten , en Ballades , Al leid te ronken op een Oor ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.17	Hoe dikmaals doe ik hair , en lokken , Besmeurt , beplakt , en styf van Gom , Of uitgevallen door de pokken , Bewaren voor een Heiligdom ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.18	Hoe vaak heb ik een party dwazen , Tot teeken van haar zotte brandt , Een tal van Fluyten en van Glazen , Doen kauwen na haar ingewandt ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.19	Hoe vaak heb ik een Zot bevoolen , Gestyft door dwaze Minne-vlam , Te zuipen uit gelaân Pistoolen , Op de gezontheid van Madam ?	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.20	Terwyl een ander , meenigmalen , Als hem die zelfde drift bekruipt , Uit Pispot en uit Urinalen , Een zotte sloofs gezontheid zuipt : Een ander , zyn Matres ter eeren , Smyt door een al-te-dulle kuur , Zyn Wambuis , Broek , en Hoedt , en Kleeren , En al den Preutel op het vuur .	Emotion_Desire
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.21	Een ander maakt weer andre geuren ; Die licht de Rymer van dit Spel , ( Vermits zy alle daag gebeuren ) Zou konnen noemen , buiten tel .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.22	Gelyk , wanneer men by de Vrinden Hier licht eens om vroeg by de Rey , Men licht hier wel zouw Zielen vinden , Die 't beter weten noch als hy .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.23	Dies ist om deze fraaije zaaken , ( Waar van hy my als Baas uitscheldt ) Dat hy my heeft dees stoel doen maaken , En hier in 't Laasrus-huis gesteldt ; Om u al t'zamen te doen weten , Of hy met reden sprak , of niet , Toen hy myn Gek , en Zot dorst heten , Met al dat leeft in myn gebiet .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.24	Of my dees vodden dan niet passen , En al dat Lasarus-livrey , Als of 'k ' er was in opgewassen , Dat toont hy u voor eerst in my , Terstondt , zal , om u te vernoegen , Hy u doen zien , met vreemt gedruis , Hoe zich de Minneryen voegen In de Messieurs van 't Laasrus-huis .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.25	Vermits hy voor heeft , u te toonen , Dat nooit de Min in beter plaats , Dan in het Gekken-huis kan woonen , En by een tal van zotte Maats .	None
+focq001mini02_01.TEI.2.text.body.div.sp.351.s.26	Nadien de Zotheid , en het minnen , Zo vast aan een gekoppelt zyn , Dat hy berooft moet zyn van zinnen , Of voor het minste zot in schyn , Die zich tot minnen gaat begeven ; Want , of in schyn , of in der daat , Is , en de Min , en 't Minnaars leven , Slechts puure Zotheid , op een draat .	None
+focq001mini02_01.TEI.2.text.body.div.p.353.s.1	UYT .	None
+focq001mini02_01.TEI.2.text.body.div.head.356.s.1	Eerste bedryf .	None
+focq001mini02_01.TEI.2.text.body.div.head.357.s.1	Eerste tooneel .	None
+focq001mini02_01.TEI.2.text.body.div.stage.359.s.1	Ferdinand , Valerius .	None
+focq001mini02_01.TEI.2.text.body.div.sp.speaker.361.s.1	Ferdinand .	None
+focq001mini02_01.TEI.2.text.body.div.sp.363.s.1	Zo even kom ik eerst , gelyk gy ziet , in Stad .	None
+focq001mini02_01.TEI.2.text.body.div.sp.speaker.365.s.1	Valerius .	None
+focq001mini02_01.TEI.2.text.body.div.sp.368.s.1	Maar 'k bid u , zeg my , wat verandering , en wat Verbleekte en dootsche Verf bespeur ik in uw weezen ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.373.s.1	Ach ! 't schynt gy uit myn oog myn onluk weet te leezen .	Emotion_BodyPart_Unhappiness
+focq001mini02_01.TEI.2.text.body.div.sp.373.s.2	Helaas !	None
+focq001mini02_01.TEI.2.text.body.div.sp.373.s.3	Valerius !	None
+focq001mini02_01.TEI.2.text.body.div.sp.373.s.4	myn lyf staat in uw hand .	None
+focq001mini02_01.TEI.2.text.body.div.sp.377.s.1	Hoe dat ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.383.s.1	Myn waardste Vriend !	None
+focq001mini02_01.TEI.2.text.body.div.sp.383.s.2	die met zo waarden band Van Broederlyke Trouw , steets waart aan my verbonden , Ik heb , helaas !...	None
+focq001mini02_01.TEI.2.text.body.div.sp.387.s.1	Spreek op .	None
+focq001mini02_01.TEI.2.text.body.div.sp.391.s.1	Ik heb ....	None
+focq001mini02_01.TEI.2.text.body.div.sp.395.s.1	Wel nu ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.400.s.1	Gezonden Ten Afgrond , een ...	None
+focq001mini02_01.TEI.2.text.body.div.sp.404.s.1	Wie toch ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.408.s.1	Zagt , hoort men ons hier niet ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.413.s.1	Ik zie geen mensch , spreek uit .	None
+focq001mini02_01.TEI.2.text.body.div.sp.418.s.1	Ach !	None
+focq001mini02_01.TEI.2.text.body.div.sp.418.s.2	tot myn leet , doorstiet Ik gistren zeekren Heer , die myn ...	None
+focq001mini02_01.TEI.2.text.body.div.sp.423.s.1	Verlaat dit vrezen , Hier is geen mensch omtrent die u verdacht kan wezen .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.sp.428.s.1	Myn angst , Valerius , verbaast my zo , dat ik Voor 't ruissen van de wind , ja voor myn schaduw , schrik .	Fear_Emotion_BodilyProcess_Wonder
+focq001mini02_01.TEI.2.text.body.div.sp.432.s.1	Ik bid , zeg my zyn Naam , laat my uw voorval hooren .	None
+focq001mini02_01.TEI.2.text.body.div.sp.437.s.1	'k Vrees dat men overal myn stappen na zal spooren : Zo dat ik , waar ik ben , beducht ben in myn nood .	None
+focq001mini02_01.TEI.2.text.body.div.sp.443.s.1	Gy schynt my door dees schrik reets doder dan de dood .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.sp.443.s.2	Zeg my , wie is het doch ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.443.s.3	laat my zyn Naam toch weten : Wat is hy ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.443.s.4	Edelman of niet ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.447.s.1	't Is my vergeten .	None
+focq001mini02_01.TEI.2.text.body.div.sp.453.s.1	ô Twyffelmoedig hart !	Suspicion_Emotion_BodyPart
+focq001mini02_01.TEI.2.text.body.div.sp.453.s.2	voorwaar ik zie in 't end , Dat gy de trouwheid van uw Vrind niet meer en kent , Of dat gy met my spot .	None
+focq001mini02_01.TEI.2.text.body.div.sp.458.s.1	Wel aan nu , ik zal spreken : Weet dat ik Reynoud heb in 's Gravenhaag doorsteken .	None
+focq001mini02_01.TEI.2.text.body.div.sp.462.s.1	Hoe !	None
+focq001mini02_01.TEI.2.text.body.div.sp.462.s.2	Reynoud , zegt gy ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.462.s.3	ach !	None
+focq001mini02_01.TEI.2.text.body.div.sp.462.s.4	wat droever ongeluk !	None
+focq001mini02_01.TEI.2.text.body.div.sp.469.s.1	Te zwaren slag , helaas !	None
+focq001mini02_01.TEI.2.text.body.div.sp.469.s.2	te vol van smert en druk : Zo braven Edelman , die ik zelfs nooit te vooren Gezien had , dus bedroeft , en deerlyk te doen smooren In 't bloeijenst van zyn tyd !	HeavyHeartedness_Emotion_Sadness
+focq001mini02_01.TEI.2.text.body.div.sp.477.s.1	Uw onluk is te klaar !	None
+focq001mini02_01.TEI.2.text.body.div.sp.477.s.2	Gewis dit toeval , Vrind , dreigt u met veel gevaar ; Mits gy de Vrinden van uw Vyand hebt te vreezen , Wiens macht en groot gezach u doodlyk zullen weezen .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.sp.487.s.1	Ach ! 't schynt dat my de Ziel uit schrik en angst begeeft ; En zo zy noch de macht van u te spreeken heeft , Is door uw Vriendschap , die myn hoop noch houd in 't leeven , Van dat gy in dees nood my niet en zult begeeven .	Fear_Emotion_Hope_BodyPart_BodilyProcess
+focq001mini02_01.TEI.2.text.body.div.sp.487.s.3	Vrind Valerius , berg my het leeven dan , Of zonder u ben ik gewis een lyfloos Man .	None
+focq001mini02_01.TEI.2.text.body.div.sp.487.s.4	Maar hoe !	None
+focq001mini02_01.TEI.2.text.body.div.sp.487.s.5	gy antwoord niet .	None
+focq001mini02_01.TEI.2.text.body.div.sp.500.s.1	'k Sta op uw staat te denken : Geen lastigheid zal ooit myn plicht van Vriendschap krenken .	None
+focq001mini02_01.TEI.2.text.body.div.sp.500.s.2	ô Neen !	None
+focq001mini02_01.TEI.2.text.body.div.sp.500.s.3	ik sta alleen te peinzen wat voor raat My in dit ongeval aan u te geeven staat .	None
+focq001mini02_01.TEI.2.text.body.div.sp.500.s.4	Het feit dat is geschied , en is niet te herhaalen .	None
+focq001mini02_01.TEI.2.text.body.div.sp.500.s.5	Voorzichtigheid alleen , die is 't , die menigmaalen De sterkste Vyand door haar listen heeft verheert , Die door de Dapperheid vergeefs zou zyn gekeert .	None
+focq001mini02_01.TEI.2.text.body.div.sp.500.s.6	Dees is 't dan boven al die ons hier hulp moet geeven : Maar , hoe , en om wat reên benaamt gy hem het leeven ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.533.s.1	Na dat ik gisteren een goet deel van de nacht Had by myn Leonoor in wellust doorgebracht , Die ik ( gelyk gy weet ) al over lang beminde , Kwam ik , in 't uitgaan van haar deur , een man te vinden ; Die , na ik merkte , met een knecht twee drie verzelt , Zich midden op de straat tot myn verspieder stelt : 't Geen Leonoor de deur deed sluiten , en vertrekken , En 't geen myn jalouzy zo hevig op kwam wekken , Dat na veel woorden , tot verdubbeling van spyt , Met het ontbloote staal de rest wierd afgepleyt .	Emotion_Envy_Desire_Remorse
+focq001mini02_01.TEI.2.text.body.div.sp.533.s.2	Dees was Heer Reynoud ; mits 'k hem met zyn eigen woorden , ( Op 't vragen wie hy was ) zig zelfs zo noemen hoorden : Dees Naam , my wel bekent , doch door de Faam alleen , ( Vermits ik Reynoud zelf noit had gezien voorheen ) Kon niet beletten , spyt zyn staat en groot vermogen , Dat ik hem ging te keer .	None
+focq001mini02_01.TEI.2.text.body.div.sp.533.s.3	Doch wyl de nacht onze oogen Zodanig hield bedekt , dat eerder by 't gevoel , Dan 't licht gevochten wierd , zo trof in dit gewoel , Doch tot myn ongeluk , dees kling myn Vyands leeven , Die , door myn razerny ten boezem ingedreeven , Hem met een naare schreeuw ter aarde storten deê .	Emotion_EmotionalAction_BodyPart_Anger
+focq001mini02_01.TEI.2.text.body.div.sp.533.s.4	Ik hier door gantsch ontroert , vermits ik prykel leê Van , door zyn knechts geparst , myn leeven meê te laten , Begeef my op de vlucht , en door verscheide straten , Geraak ik in 't Voorhout , en zo voort Boswaart in , En eer de morgenstond dees dag noch gaf begin , Had ik reets zeven myl door Bos en Duyn gelopen : Zo kan de dootsche vrees een mensch met sporen nopen : In 't end ziet gy my hier dus vluchtig t'Amsterdam .	Fear_Emotion_Moved
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.1	ô Dolle jalouzy !	Emotion_Envy
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.2	ô zotte Minne-vlam !	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.3	De schuld van 't meeste bloed dat daag'lyks word vergooten , Is uit uw Kooker , en uw zotte drift gesprooten .	Emotion_Anger
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.4	Maar ach !	None
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.5	myn waarde Vrind !	None
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.6	waar loopt , waar vlucht gy best Voor uw Vervolgers ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.7	die zo wel in 't Oost , als West , ( Vermits 't onmoog'lyk is de wraakzugt te bepalen ) U door haar groot gezag zyn machtig t'achterhalen .	Emotion_Vindictiveness
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.9	Vriend !	None
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.10	uw dapperheid , en 't edelmoedig vier , Dat in uw Aders leeft , dat staat u al te dier .	None
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.11	Myn geest staat duizenden van vonden t'overwegen , Ik denk , en overpeyns vast hondert duizent wegen , Om u te helpen , maar ik vind slechts ydelheid .	None
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.12	Want hoewel dat gy ryk , en groot van vrinden zyt , Zo is 't onmogelyk u zelven te bewaaren Voor haar , die in gezag schier Prinsen evenaren .	None
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.13	Maar zagt , daar schiet my iet , na dat my dunkt , in 't zin : De beste raad die valt zomtyds het eersten in .	None
+focq001mini02_01.TEI.2.text.body.div.sp.555.s.14	Zoud gy wel machtig zyn een Zotte Rol te speelen ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.559.s.1	Of zot of wys te zyn , kan my thans weinig scheelen .	None
+focq001mini02_01.TEI.2.text.body.div.sp.572.s.1	't Is nodig dat gy u stelt in zo zotten schyn , Dat ieder die u ziet u waant puur zot te zyn ; En zo zult gy uw staat voor ieders oog bedekken .	None
+focq001mini02_01.TEI.2.text.body.div.sp.572.s.2	Dat huis is , als gy weet , een Gasthuis , daar de Gekken Geherbergt worden , in haar zotte razerny : Indien gy 't wagen durft , en by aldien dat gy , Als een onzinnige , u durft daar in begeeven , Zo acht ik u bevryd van het gevaar van 't leeven : Want , en dees zotheid , en het Lazarus habyt , Zal nooit doen denken dat gy Ferdinandus zyt .	None
+focq001mini02_01.TEI.2.text.body.div.sp.579.s.1	Uw raad behaagt my zeer .	None
+focq001mini02_01.TEI.2.text.body.div.sp.579.s.2	Om dan myn doot te my den , Ga ik my van dees uur tot Zot te zyn bereiden : En zweer , dat ik my zelfs ga veinzen zo ontzind , Dat gy zelf geen verschil in schyn en waarheid vind .	None
+focq001mini02_01.TEI.2.text.body.div.sp.584.s.1	'k Geloof schier 't geen gy zegt ; mits hier in , na myn oordeel , Een Minnaar de Natuur niet weinig heeft tot voordeel .	None
+focq001mini02_01.TEI.2.text.body.div.div.head.585.s.1	Tweede tooneel .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.587.s.1	Isabella , Leonard , Valerius , Ferdinand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.589.s.1	Leonard .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.596.s.1	Hier ziet gy , Isabel , dat machtig Amsterdam : Dit is de Poort , wiens naam van Sint Antony kwam , Gints ziet gy langs de straat de steile Zuider Tooren : In 't kort , dit is die Stad , die , uit Moeras gebooren , Aan heele Waerelden byna de wetten stelt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.598.s.1	Isabella .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.601.s.1	Ik vind die schoonder noch dan men my had vertelt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.601.s.2	'k Beken , ik sta verbaast , door veel verwonderingen .	Emotion_Wonder
+focq001mini02_01.TEI.2.text.body.div.div.sp.605.s.1	Gy ziet het slechtste deel .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.609.s.1	Dit schynen vreemdelingen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.616.s.1	My dunkt het ook : 't is best hier niet te blyven staan ; Maar laat ons dadelyk ons spel beginnen gaan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.616.s.2	Treên wy in 't Lasrus-huis , om den Regent te spreeken , En om u met der vaart in 't Gekke-kleed te steeken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.621.s.1	Wel aan , wyl 't wezen moet , treê dan ter deuren in ; En zo neemt van dees uur myn zotheid een begin .	None
+focq001mini02_01.TEI.2.text.body.div.div.head.623.s.1	Derde tooneel .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.625.s.1	Isabella , Leonard .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.629.s.1	Het is een schoone Stadt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.633.s.1	'k Zag beter noit myn leven .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.642.s.1	De Hemel , Leonard , heeft ons veel luk gegeven , Van voor de nacht noch hier in Stadt geraakt te zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.642.s.2	Maar , ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.642.s.3	hoe zwemt myn hart nog tussen vrees en pyn : Wyl ik met u ontvlucht myn land , en huys te gader ; Want laas !	Fear_Emotion_BodyPart_BodilyProcess_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.642.s.4	wat of uit spyt myn over-ouden Vader Nu niet wel vloekt , en zeid ?	Emotion_EmotionalAction_Anger
+focq001mini02_01.TEI.2.text.body.div.div.sp.651.s.1	Al 't geen een Edelman In bloed , en eer gequetst , uit gramschap zeggen kan : My dunkt ik zie hem al uit dolheid loopen razen , En langs de straat het volk door zyn gezicht verbazen , U noemende de hoon , en smaat van zyn geslacht , En my een trouwloos knecht , die u tot oneer bracht .	Emotion_EmotionalAction_Wonder_Anger
+focq001mini02_01.TEI.2.text.body.div.div.sp.657.s.1	Zo hy de dwaasheid oit heeft van myn Min geweten , 't Is zeker dat hy my wel Zot , en dol zal heten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.668.s.1	Schoon dat het Zotheid was in uw verdoolde zin , Een ongelyk portuur te kiezen door uw Min ; Zo wild my daarom nu , in 't minste niet verachten , Noch stoot myn nieuw geluk niet om , in uw gedachten ; Vermits de Liefde , die my nu uw Bruigom maakt , Doet , dat met een myn staat zo hoog als d ' uwe raakt , En schoon ik , als uit niet , ben tot dit luk gereezen , Denk dat ik nu niet meer ben die ik plag te weezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.673.s.1	Wat reeden hebt gy toch , myn waarde Leonard , Dat gy door deze reên , op nieuws , myn ziel benard ?	Fear_Emotion_BodyPart
+focq001mini02_01.TEI.2.text.body.div.div.sp.677.s.1	Uw woorden , Isabel , doen my verandring vreezen .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.681.s.1	En wat verandering kund g ' uit myn woorden leezen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.686.s.1	'k Merk dat gy my veracht , en u dees vlugt berouwt .	Emotion_Dissapointment_Disgust
+focq001mini02_01.TEI.2.text.body.div.div.sp.686.s.2	Mits ongelyke Min noit vaste stand en hout .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.692.s.2	zyt gy minder nu , dan toen ik u myn leven , Ja toen ik u myn Eer quam in uw handen geven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.692.s.3	Waard gy myn Dienaar niet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.696.s.1	Wel ja .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.705.s.1	Wat ongelyk Kan u die Eer dan doen waar meê ik u verryk ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.705.s.2	Van uit dien staat u tot myn Bruigom te verhoogen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.705.s.3	Maar neen , gy hebt my zelf , na dat ik zie , bedroogen : Uw inborst veinzende , ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.705.s.4	in met my weg te vliên : Helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.705.s.5	ik merk het wel .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.713.s.1	Hebt gy dat kunnen zien ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.713.s.2	En wist gy zelver niet dat het u zou berouwen ?	Emotion_Remorse
+focq001mini02_01.TEI.2.text.body.div.div.sp.713.s.3	En dat ik dat berouw zou voor verachting houwen ?	Emotion_Disgust_Remorse
+focq001mini02_01.TEI.2.text.body.div.div.sp.713.s.4	Gewislyk , Isabel gy haat my .	Emotion_Hatred
+focq001mini02_01.TEI.2.text.body.div.div.sp.717.s.1	Zyt gy Zot ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.723.s.1	Ik ben wel Zot geweest , door 't zamen-spannen tot Dees schandelyke vlucht , verleyd door uw gebeeden , Waar door ik dagelyks my vond van u bestreeden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.735.s.1	Een teeken , dat ik u beminde , boven hem , Die door myn Vaders wil , en zyn gegeven stem , Ik zonder deze vlugt , te trouwen was gedwongen : Maar 't schynt , dat enkle woord , dat my flus is ontsprongen , ( Toen ik my zelven Zot dorst noemen door myn Min ) Dat quetst u het verstand , en speelt u in den zin .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.735.s.2	Noemt gy dan Leonard verachting u te minnen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.735.s.3	En door de Min alleen berooft te zyn van zinnen !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.735.s.4	Gewis , die naam komt met myn hart niet over-een .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.739.s.1	Uw hart is my bekend , spyt dees versierde reên .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.748.s.2	wie zouw myn hart oit beter kunnen weten , Dan gy , die door de Min daar vast zyt in gezeten ; Maar neen , Vrind Leonard !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.748.s.3	het schynt dat gy met list , Quansuys een oorzaak zoekt van opgeworpe twist , Om onder dezen schyn my schandig te verlaten : Maar , ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.748.s.4	wat reden is 't , die u my dus doen haten .	Emotion_Hatred
+focq001mini02_01.TEI.2.text.body.div.div.sp.762.s.1	Ontrouwe ! 't blykt genoeg , hoe dat gy my versmaat , En steets veracht hebt , om 't verschil van onze staat : Waar door gy my uw Min onwaardig denkt te wezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.762.s.2	Want zo uw liefde was zo hoog in top gerezen , Gelykerwys gy veynst , hoe zoud g ' op myn begeer , My kunnen weig'ren dat , het geen gy noemt uw eer ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.762.s.3	Maar neen , onbuigbaar voor myn smecken , en gebeden , Blyft gy steets even koel , en houd verstand , en reden , Waar dat men anders , in een Ziel , die recht bemind , Noit zo veel achterdocht , en zo veel oordeel vind .	Suspicion_Emotion_BodyPart_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.777.s.1	Weet gy niet dat de deugt de driften moet verwinnen , Wanneer zy twisten om de Heerschappy der zinnen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.777.s.2	En dat ik , eer de Trouw ons ' liefde wettig maakt , De Kuysheid eeren moet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.777.s.3	ô Leonard !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.777.s.4	gy laakt , 't Geen in my , als een deugt , veel eerder is te pryzen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.777.s.5	Wat kan ik anders , dan met woorden u bewyzen , Dat ik u min ?	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.777.s.6	gewis had ik my zelfs zo bloot , En u het geyl genot gegeven van myn schoot , 'k Weet die lichtvaardigheid , had reets in uw gedachten , Na die genoten gunst , my doen van u verachten .	Emotion_Disgust
+focq001mini02_01.TEI.2.text.body.div.div.sp.777.s.7	Vermits men in 't gemeen , na 't Wetteloos genot , Van wien men wierd bemind , veracht wort en bespot .	Emotion_Love_Disgust
+focq001mini02_01.TEI.2.text.body.div.div.sp.786.s.1	Een schoont , die voor 't genot , had macht ons te doen blaken , Zal , na 't genot , veel eer ons ' vlammen heeter maken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.786.s.2	Maar neen , ô Isabel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.786.s.3	dees uw wantrouwigheid Spruit uit dees oorzaak niet daar gy uw deugt meê vleid : Maar uit iet anders , 't geen my zien doet uit uw oogen , Dat ik van u veracht , bespot ben , en bedroogen .	Emotion_Disgust
+focq001mini02_01.TEI.2.text.body.div.div.sp.790.s.1	ô Onverstandige !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.790.s.2	spaar deze woorden toch .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.794.s.1	Zeg Ongelukkige veel eer , door uw bedrog .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.801.s.1	Hoe nu !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.801.s.2	is dit bedrog ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.801.s.3	en noemt gy het dan haten Om uwe liefde , Land , en Ouders te verlaten ?	Emotion_Hatred
+focq001mini02_01.TEI.2.text.body.div.div.sp.801.s.4	En Eer , ja leven zelfs , te stellen in uw hand ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.801.s.5	Is dit d'ontrouwigheid die gy my steld tot schand ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.810.s.1	Geen reden , Isabel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.810.s.2	kan myn geloof verbreeken Van uw bedrog : Vermits dat ik uw vlucht eer reeken Te zyn veroorzaakt , uit een haat tot Constantyn , ( Met wien gy vreesde haast door dwang getrouwt te zyn ) Dan wel uit liefde daar gy my meê kost verleyen .	Fear_Emotion_Hatred_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.822.s.2	dees beschuldiging meld my uw schelmeryen : 't Is waar , Verrader !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.822.s.3	dat de min van Constantyn My ( spyt myn 's Vaders dwang ) noit kon dan haatlyk zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.822.s.4	Maar wat was d'oorzaak van dit haatlyk tegenstreven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.822.s.5	Was 't niet , om dat ik u myn hart al had gegeven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.822.s.7	myn Leonard , wat onrecht doet gy my Door dees uw achterdocht ?	Suspicion_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.822.s.8	myn Ziel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.822.s.9	zet die ter zy , En keer my toch weer toe uw minnelyke oogen , Zo gy de tranen , die ik uitstort , op wild droogen .	BodilyProcess_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.829.s.1	Weg met uw tranen , weg met uw geveinsde min ; Maar geef my daadlyk de Juweelen , die gy in Uw kleederen verbergt , en al de rest met eenen , Die voor een dag of twee , gy my liet zien te Rheenen .	Emotion_BodilyProcess_Love_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.833.s.2	myn Juweelen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.838.s.1	Ja , op dat gy ze op de straat , Of in de Herberg , u die niet ontstelen laat .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.842.s.1	Waar toe begeert gy die ?	Emotion_Desire
+focq001mini02_01.TEI.2.text.body.div.div.sp.846.s.1	'k Zal 't u daar na ontknoopen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.850.s.1	Is licht ons gelt verteert , dat gy die wilt verkoopen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.854.s.1	Neen , ik begeer die slechtt om dat ik ze begeer .	Emotion_Desire
+focq001mini02_01.TEI.2.text.body.div.div.sp.858.s.1	Verkoop indien gy wilt dees Krop-boot dan veel eer .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.862.s.1	Neen : geef my alles hier .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.867.s.2	alles ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.872.s.1	Zonder praten , Geef op .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.876.s.2	myn Vrind , gy wilt my licht verlaten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.880.s.1	Dit tegen-prevelen zal u niet wel vergaan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.885.s.2	myn Leonard , wat heb ik u misdaan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.885.s.3	Zyn dees Juweelen u , zo wel als my niet eigen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.890.s.1	Verraderes , zo ist , dat gy uw loon zult krygen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.890.s.2	Onkuysche , geef my hier , al wat gy hebt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.896.s.1	Hoe nu : Onkuysche ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.896.s.4	kryg ik dees naam van u ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.896.s.5	Myn waarde Bruidegom !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.901.s.1	Ik wil die naam niet hooren : Geef uw Juweelen , of dees Pook zal u doorbooren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.905.s.1	Daar zyn zy ; Hemel , ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.905.s.2	nu zien ik u noit weer .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.909.s.1	Sa , daadlyk , geef de rest .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.913.s.1	Myn lief , ik heb niet meer .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.917.s.1	Uw Reis-rok , met uw Keurs , schud uit , en zonder spreken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.921.s.2	Keurs - en Reys-rok , Lief ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.926.s.1	Dees hand zal u doorsteken , Maakt gy het minst gerucht , en gy niet alles geeft .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.932.s.2	myn hart dat klopt , myn lichaam lilt en beeft Van enkle schrik .	Fear_Emotion_BodyPart_BodilyProcess
+focq001mini02_01.TEI.2.text.body.div.div.sp.936.s.1	Schud uit , tot 't hembd toe , al uw Kleeren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.940.s.1	Waar wil dit heen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.944.s.1	Schud uit , eer ik begin te zweeren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.948.s.1	Daar hebt gy 't al : helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.948.s.2	wat wilt gy nu , myn hart ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.952.s.1	Ik heb genoeg : vaar wel : denk eens om Leonard .	None
+focq001mini02_01.TEI.2.text.body.div.div.head.954.s.1	Vierde tooneel .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.957.s.1	Isabella alleen , in haar onder-kleeren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.1	Verrader , gaat gy my zo trouweloos begeven !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.2	Keer weer , keer weer , en neem met eene tog myn leven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.3	Wyl gy my alles , daar 'k van leven zou ontneemt : Ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.4	ik rampzalige !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.5	dus arm , en naakt , en vreemt , Wat droever ongeval zie ik thans voor myn oogen !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.6	Maar , schoon dat my dien schelm dus deerlyk heeft bedroogen , 't Is my noch troost genoeg , schoon hy myn schatten stal , Dat hem myn liefde , noch myn hart niet volgen zal .	Emotion_BodyPart_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.7	Want schoon dat ik met hem , myn Ouders , Huys , en Vrinden , Ontvloden ben , geen min ( vermits ik nooit beminde ) Gaf my daar oorzaak toe , maar enkle afschrik van Een Minnaar , die men my wouw geven tot een man .	Emotion_Disgust
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.8	Dees dwang alleenig dan die porde my te vluchten : Hoewel daar door gebracht tot zwaarder ongenuchten , Want hoe het een bedrog door 't ander word betaalt , Dat ziet men hier in my na 't leven afgemaalt , Mits ik die zotheid van dien afkeer nu moet boeten ; Waar door dat ik een man , die eertyds aan myn voeten Uit eerbied ley geknielt , te schendig heb veracht .	Emotion_EmotionalAction_Awe_Disgust
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.9	Maar laas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.10	waar zal ik heen in 't vallen van de nacht , Dus naakt , en onbekend ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.11	wat zullen die my vinden Van my gelooven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.13	hoe gaat gy dus verzwinden Myn Rykdom , Staat en Eer die ik zo haast verloor , Door zotte koppigheid .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.984.s.14	Maar zagt , my dunkt ik hoor Al volk : Ik zal my hier een weinig neder zetten .	None
+focq001mini02_01.TEI.2.text.body.div.div.head.986.s.1	Vyfde tooneel .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.988.s.1	Joris-vaar , Valerius , Klaasje , Marten , Isabella .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.990.s.1	Joris-vaar .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.992.s.1	'k Beloof u , van op hem in alles wel te letten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.998.s.1	Maar zou 't niet nodig zyn , dat men zo dra men kon Voor hem een zeekre soort van tegen-gist verzon , En dat men hem te met wat dee medicineeren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1005.s.1	'k Zal met den Doctor daar eens over consuleeren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1005.s.2	Maar wyl hy menigmaal puur dol is als gy zegt , Zal 't goet zyn , dat men hem aan ysre Keetens legt , Op dat hy door zyn quaal al d'and're niet verhindert .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1013.s.1	Terwyl dat nu de maan vast alle daag vermindert , Waar mee , gelyk gy weet , de zotheid ook vergaat , Zo is 't niet noodig , dat men hem noch binden laat ; Maar laat hem nu slechts in de lange Rok wat loopen , Tot dat men zie wat goets men uit hem heeft te hoopen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1017.s.1	Zeer wel ; maar hoe 's zyn Naam ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1022.s.1	Zyn naam is Karel .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1027.s.1	En Waar is hy toch van daan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1031.s.1	Van Utrecht .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1038.s.1	Ik beken , Dat ik hem eerst had voor een Delvenaar genomen , Vermits my uit die Plek veel luy bezoeken komen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1038.s.2	Maar wat was zyn bedryf ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1038.s.3	en wat is 't voor een geest ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1043.s.1	Hy is voor dezen een geleert Student geweest , Doch al te vuurig in de boeken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1048.s.1	Na uw meenen , Komt het hem daar van daan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1052.s.1	En van wat min met eenen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1057.s.1	Zo is zyn zotheid dan een dubbelt quaad , alzo 't Van Jonker Pluto komt , en Monsieur Cupido .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1062.s.1	Gewislyk , elk alleen , is machtig , om by tyen , De wyste man het hooft op stelten te doen ryen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1067.s.1	Ja , d'overdaat , zo wel in studie , als in min , Berooft ons het verstand , en blaast ons zotheid in .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1072.s.1	Hoe veel te meer dan , als die twee te zamen komen , Word door de dubble kracht de reden ons ontnomen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1078.s.1	Zie hier , daar ziet g'er twee , die door die zelfde kracht , Ook zot geworden , laatst my meê zyn t'huys gebracht : Schoon zy te naaste by daar van nu zyn genezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1082.s.1	Wat zyn zy ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1094.s.1	't Plachten eer geleerde luy te wezen , Maar al te diep verwart door haar Philosophie , Wierd elk van haar zo zot , voor 't minst , als andre drie , Doch eind'lyk , door de zorg , die voor haar is gedragen , Ziet men haar zelden meer in d'oude zotte vlagen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1094.s.2	Zo dat ik hen gebruik , in 't passen op de Poort , En in om boodschappen te loopen , en zo voort .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1094.s.3	Kom Klaasje , kom eens hier .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1098.s.2	ik begin te vrezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.1100.s.1	Klaasje .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1102.s.1	Hier ben ik .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1106.s.1	Dat 's een zeun .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1112.s.1	Dat loof ik kan niet wezen ; Vermits ik met myn Vaâr gansch niet recipocreer , Want die is lang al doot , ik ben geen zeun dan meer .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1116.s.1	Ik hoor zyn Logica .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1121.s.1	En jy Me-Jonker Marten !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1121.s.2	Jy bent een Edelman .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.1123.s.1	Marten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1126.s.1	Zo slechts myn moer geen parten Gespeelt heeft met een Boer , terwyl ik wierd gemaakt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1131.s.1	Dees is den Adeldom zo zeer in 't hooft geraakt , Dat hy zich schier van 't bloed van Held Achilles rekent .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1135.s.1	Ik heb hun beyder soort van zotheid al getekent .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1139.s.1	Maar zeg eens Joris-vaar , het Vuur , is 't kout of heet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1143.s.1	Kout is het altyd niet .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1150.s.1	Hoe droes of hy dat weet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1150.s.2	En waar of hy de kracht van 't vuur zo wel geleert heeft ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1150.s.3	Of is 't , om dat hy 't door een Brantmerk geprobeert heeft ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1154.s.1	Jouw Gauwdief !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1154.s.2	als je bend .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1160.s.1	Ha ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1160.s.2	ha , wel Joris-vaar !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1160.s.3	Daar heeft hy u gehad .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1160.s.4	Maar zie wat Vrouw zit daar Gints op de straat ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1165.s.1	Ik wed 't zal Sinte Tisbe wezen , Die om haar Pyramus is uit de doot verrezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1174.s.2	na dat ik merk , zo heeft men my gezien , Nu is het al te laat , om hier van daan te vliên : 't Zal best zyn , dat ik door myn zuchten , en myn klagen Doe blyken , dat men my heeft al myn goet ontdragen , Of ik noch licht'lyk in 't meêdogend Amsterdam , In dit myn ongeluk , of troost , of hulp bequam .	EmotionalAction_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.1178.s.1	Zeg vrouw-mensch sta eens op , wat zit gy hier te stenen ?	EmotionalAction_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.1183.s.1	ô Hemel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1183.s.2	wil my wraak op dezen schelm verleenen , Die met myn kleeren my zo veel juweelen stal .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1187.s.1	Wy komen recht te pas .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1191.s.1	Ik kenze wel ; ze is mal .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1196.s.1	Ach ongelukkige !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1196.s.2	noch nauwlyks hier gekomen , Word u op eenen sprong , al wat gy hebt ontnomen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1200.s.1	ô Schepsel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1204.s.1	Wat is dit ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1209.s.1	Houd u een weinig stil .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1213.s.1	En waarom dat ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1217.s.1	Om dat ik u eens zoenen wil .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1221.s.1	Staat af van my , gy Fiel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1225.s.1	Ik ken dit zotte wezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1229.s.1	Kom Susje !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1229.s.2	sta jy op , en wild voor ons niet vrezen .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.1234.s.2	is ter wereld dan geen meer erbarmenis , Voor een die al haar goed terstont ontstolen is ?	Emotion_Compassion
+focq001mini02_01.TEI.2.text.body.div.div.sp.1239.s.1	Indien 't haar harssens zyn , daar zy van leyd te praten , Zo zweer ik dat men haar heel weinig heeft gelaten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1244.s.1	Acht duizent Kroonen , was voor 't minste de waardy , 't Geen in Juweelen men ontstolen heeft van my .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1249.s.1	Ik hoor wel uit de Text waar op haar zinnen speelen , Dat dees haar zotheit spruit uit Rykdom en Juweelen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1254.s.1	Dat hebje wel gevat , ik ken haar heele staat , Houd haar om mynentwil van nacht slegts van de straat .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1258.s.1	Za jongens , pak haar aan , en leyd haar dan na binnen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1262.s.2	ga jy mee .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1267.s.1	Kom aan myn kind van minnen , Tree zagjes voort .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1272.s.1	Waar heen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1272.s.2	wat wilt gy met my doen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1272.s.3	Laat los , gy Fielen !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1272.s.4	los .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1277.s.1	Gans bloed !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1277.s.2	dat was een zoen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1282.s.1	Hoe vrou-mensch , sla je my ? 'k zweer , ik zal jou die parten Vorleeren , kom je t'huis .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1287.s.1	Zeg dat je Sinte Marten Of van zyn Maagschap , bent .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1291.s.1	Die ben ik , maar te Paard .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1297.s.1	Indien gy , die gy zegt , of van zyn Vrinden waatd , Zo zoud gy zo barbaars en wreed niet met my leven ; Maar zoud my eer de helft van al uw kleeren geven .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1303.s.1	Kom Dochter , gaa jy slechts , men zal u , hebt gedult , Ter plaatse brengen daar gy kleeren krygen zult .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1303.s.2	Kom gaa , waar wacht gy na ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1303.s.3	gy hebt hier niet te vrezen .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.1307.s.1	'k Zeg andermaal ga voort ; het zal niet anders wezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1311.s.1	Wel wat zal dit dog zyn ; waar brengt gy my hier in ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1315.s.1	Gaa slechts , gy zult het zien .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1320.s.1	Sa , Neegersche Heydin !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1320.s.2	Tree in 't Gevangen-huys .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1325.s.2	ben ik dan gevangen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1325.s.3	Wat heb ik toch misdaan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1329.s.1	Ga slechts , gy zult niet hangen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1334.s.1	Laas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1334.s.2	is dit helpen die , die men het zyn ontnam .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1334.s.3	Zyn dit de deugden van 't barmhertig Amsteldam ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1338.s.1	Des Stads Barmhertigheid zal u tot voordeel komen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1343.s.1	Hoe , vangt gy dan een vrouw die 't haren is ontnomen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1347.s.1	Ga slechts , en teemt daar na uw text zo lang gy wild .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1351.s.1	't Was beter , gy myn dief , dan my , gevangen hield .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1355.s.1	Och !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1355.s.2	die Juweelen zyn die sloof in 't hooft geslagen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1359.s.1	Kom , als een meyd , stap voort .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1364.s.2	myn gelt t'ontdragen , En my te vangen , ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1364.s.3	rampzalig ' als ik ben !	None
+focq001mini02_01.TEI.2.text.body.div.div.head.1366.s.1	Zesde tooneel .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.1368.s.1	Joris-vaar , Valerius .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1376.s.1	Terwyl gy ziet , myn Heer , dat ik niet blyven ken , Maar my genootzaakt vind wat order te gaan stellen , Omtrent den toestant van myn zotte huisgezellen , Zo ga ik nu , wyl ik u morgen weer verwacht , Zo gy my spreeken wild .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1384.s.1	Wel Joris-vaar goe nacht .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1384.s.2	En wilt voor al toch zorg voor onze Karel dragen ; En wyl hy , als gy ziet , nu vry is van zyn vlagen , Zo zal 't genoeg zyn , dat gy in dees lange Rok Hem slechts wat loopen laat .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1392.s.1	Zeer wel ; of anders , 't hok Is al gereet gemaakt , daar , zo zy willen baren , Plaats zullen vinden , om hun zelven te bedaren ; Want in dit huis , myn Heer , is alle ding gereet , Voor die baldadig is , of die niet beter weet .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1400.s.1	Goe nagt : ik ga : wilt toch dat vroumensch wel bewaren , En schoon dat zy wat vremt en yss'lyk komt te baren , En acht dat niet , maar hout haar dichjes in de val , Door dien men u hier af heel wel beloonen zal .	None
+focq001mini02_01.TEI.2.text.body.div.div.head.1402.s.1	Zevende tooneel .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.1405.s.1	Valerius , alleen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.1	Tot morgen toe heel vroeg .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.2	ô Grootste myner Vrinden !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.3	Gy zult hier zekerlyk een heerlyke uitkomst vinden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.4	Ik ben gelukkig , ja gelukkig ben ik wis , Dat d'uitkomst van myn raad zo wel bevallen is !	Emotion_Happiness
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.5	Vermits ik tot ' er doot was met myn Vrind verlegen ; Doch nauwlyks heb ik hem in 't Laz'rus - huis gekregen , Daar hy gezond , en wys , ontvlucht zyn dreigend lot , Of zelver keer ik daar weer uyt , zo ziek als zot .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.6	Nauw heb ik die zottin terstond daar in zien halen , Of straks ontfing myn ziel zo felle Blixem-stralen Uyt haar Lasuur gezicht , dat in die zelfde tyt Ik myn verstand verloor , en wierd myn zinnen quyt ; Pas of myn zotheit uit de hare was verrezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.8	wat bevalligheit bevond ik in haar wezen !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.9	Haar zoete treurigheit , en minnelyke spraak , Ontsteeken in myn ziel een zotheid vol vermaak .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.10	Zo dat ik van de min , door varsch-ontsteeken hetten , My met de zotheit reets voel van dees Vrou besmetten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.11	ô Spoorelooze min !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.12	wat is het dat gy maakt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.13	Dat gy op 't onvoorzienst my met dees zotheid raakt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1430.s.14	Die my dwingt morgen vroeg weer na dit huis te keeren , Op dat ik door een list volvoer myn zot begeeren ; Of , op dat men met een , de dwaasheit van myn Geest Met het ontstelde Brein van al de rest geneest .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.1432.s.1	Einde van het Eerste Bedryf .	None
+focq001mini02_01.TEI.2.text.body.div.head.1436.s.1	Tweede bedryf .	None
+focq001mini02_01.TEI.2.text.body.div.stage.1439.s.1	Anna , Catryn .	None
+focq001mini02_01.TEI.2.text.body.div.sp.speaker.1441.s.1	Anna .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1446.s.1	Zo weet gy dan Catryn my zo ver te bepraten Dat ik om uwent wil myn Kamer heb verlaten , En hier tot op de plaats met u gekomen ben. Zeg op , wat wild gy nu ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.speaker.1448.s.1	Catryn .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1458.s.1	Me-Juffer !	None
+focq001mini02_01.TEI.2.text.body.div.sp.1458.s.2	ik beken Dat ik eer waardig ben gelastert dan gepresen , En dat myn zotheit wis van u bespot moet wezen ; Als ik u zeggen gaa de dooling van myn zin ; En dat ik hier in huis een nieuwe zot bemin : Maar egter , wyl uw Oom straks 't huis is uitgetreden , Zo hoor in vryigheit , dat ik u eens in 't breede Myn min verhalen gaa : terwyl wy hier misschien Myn aangename zot terstondt wel zullen zien .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1465.s.1	Hoe nu , Catryn !	None
+focq001mini02_01.TEI.2.text.body.div.sp.1465.s.2	wat 's dit ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.1465.s.3	Wat koorts ontstelt uw zinnen , Dat gy vervoerd word om een Laz'ruszot te minnen ?	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.sp.1465.s.4	Maar neen , ik ben verdoolt : 'k denk dat gy met my spot , Vermits men noit een mensch verliefd zag op een zot .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1470.s.1	De min is zelver zot , dat moet Me-Juffer weeten , En die niet zot en is , die mag geen minnaar heeten .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1474.s.1	Een teeken , dat hy u niet heel veel wysheid laat .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1478.s.1	Wie ziet ' er dat de min met wysheid zamen gaat ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.1484.s.2	een vreemde zot , hier korts eerst ingekomen , Die heeft u dan alree al uw verstand ontnomen ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.1484.s.3	't Is goed te zien , dat gy niet veel te missen had .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1493.s.1	Zyn wezen , en gedaant bedrogen my , zo dat Ik hem daar door in 't eerst lang heb voor wys gerekent .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1493.s.2	Want 't was zyn zotheid niet , Me-juffer , die al sprekend , My dus betoovert heeft ; maar 't was terwyl hy zweeeg , Dat ik het minne-vuur eerst in myn boezem kreeg .	Emotion_BodyPart_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.sp.1497.s.1	Hoe kan een wys mensch tog verlieven door het zwygen ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.1504.s.1	Gelyk men liefde tot een schildery kan krygen , Waar in een Beeltenis , die ons de zinnen streelt , Ons , al stilz wygende , vaak hart en ziel ontsteelt , Zo ben ik door een beelt meê gants ontrooft van zinnen .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1508.s.1	Wat grooter dolligheid , een stomme steen te minnen .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1512.s.1	ô Ja , 'k heb aan een steen gegeven ziel en hart .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1516.s.1	Maar wat genot of heil verwagt gy uit dees smart ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.1520.s.1	Myn heil bestaat alleen in op geen heil te passen .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1524.s.1	Gy zyt , geloof ik , dol ; de maan die is aan 't wassen .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1529.s.1	Myn dolheid hangt misschien van 't groeyen van de Maan ; Maar , met de Zon van 't luk groeit ook myn liefde aan .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1537.s.1	Gy zyt door Zon en Maan alleen niet zot te heeten ; Maar gy zyt Gek en Dol , door al de acht Planeeten .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1537.s.2	't Zal best zyn , dat myn Oom u mee een hok vergunt , Waar dat gy uw verstandt weer wat vergaren kunt ; Wyl ik alleen weerom zal na myn Ouders keeren .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1547.s.1	Eer ik het waard gezicht van Karel zou ontbeeren , Zo heb ik liever hier puur zot , ja dol te zyn .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1547.s.2	Keert gy daarom vry weer na Haarlem zonder myn : Want , wyl ik , als gy zegt , van liefde zot moet wezen , Zo blyf ik liever hier , om my te doen genezen .	None
+focq001mini02_01.TEI.2.text.body.div.sp.1547.s.3	Maar ziet daar komt hy aan .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.1552.s.1	Ferdinand in Sots-kleeren , Anna , Catryn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1556.s.1	Is dit uw Minnaar dan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1568.s.1	Hoe , ik geboeyent !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1568.s.2	wie deê my dees keten an ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1568.s.3	Of hebt gy dit gedaan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1568.s.4	hebt gy my binden laten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1568.s.5	ô Groote Casteleyn van 't Slot van Damiaten !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1568.s.6	Zo zweer ik , dat ik my hier over wreeken zal .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1568.s.7	Want , schoon dat gy dien Reus , pas als een Maly-bal , Lest met een Vuist-slag hebt gestiert na d'Antipoden , Zo zal ik , Agters-kind van d'Opperbaas der Goden , U dadelyk het hert doen zinken in uw broek , En u doorbooren met een Amsterdamsche Koek .	Fear_BodyPart_BodilyProcess
+focq001mini02_01.TEI.2.text.body.div.div.sp.1572.s.2	laat ons vliên , Catryn !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1577.s.1	Neen Juffer , laat ons blyven ; Ik weet , hy zal op ons geen overlast bedryven .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1597.s.1	Zie hier uw dienstbre slaaf , die om uw min verbrand .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.1597.s.2	ô Schoone !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1597.s.3	ontvlugt my niet : Het zwart Egypten-land , Noch het Barbaars gewest der Platgeneusde Mooren , Heeft my niet voortgebracht , om hier uw rust te stooren ; Maar , zo gy 't weten wild '; de min die stelt my hier , Als tot een Voorbeelt van zyn Edel-aardig vier .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1597.s.4	Ik ben , en ik ben 't niet : want zyn is niet van nooden , Dien 't best is niet te zyn , des kom ik hier gevlooden , Om 't zyn te myden , en om niemendal te zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1597.s.5	Wel eer was ik Student , maar zeker Maagdelyn Dêe voor de Boeken my de les van Venus kiezen , Waar door ik eindelyk moest al myn zin verliezen : Want , schoon dat zy aan elk den vryen toegang gaf Zo stak myn Edelheid aan elk de loef noch af .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1597.s.6	En , of ik haar geviel , dat geef ik u te gissen , Wyl zy op zeekren tyd my juyst eens had zien pissen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1601.s.1	ô Onbeschaamde zot !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1601.s.2	en Buffel die ' er leeft !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1609.s.1	'k Bid dat uw Majesteit my toch haar voeten geeft , Dat ik die kussen mag ; wyl gy , gelyk de Goden , ( Nadien gy Godlyk zyt ) geen voeten hebt van noden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1609.s.2	Gewis , ik zie in u 't schets van die serafyn , Die my in Amsterdam nu zot , en dol doet zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1614.s.1	Wat jammer is 't , Catryn !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1614.s.2	dat zulke brave leden Niet na hun waardigheid bestiert zyn van de reden ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1623.s.2	gy hebt myn hart geraakt met zo veel viers , Dat ik om u al meer als slaaf ben in Algiers .	BodyPart_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.1623.s.3	In 't end het vuur dat kruipt van 't hooft tot in myn zolen , En blaakt veel felder als in Etna's zulfer holen ; Des zo gy my in 't kort geen gunstig woord vereert , Zo ben ik in een uur tot Asch gecalcineert .	BodyPart_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.1627.s.2	ik vrees dat hy u meê al zal behagen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1632.s.1	Wat Maan , zeg , ô Catryn !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1632.s.2	regeert ' er in dees dagen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1632.s.3	Die zo besmettelyk in min en zotheid is ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1636.s.1	Gewis gy zyt gevat , indien ik niet en mis .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1640.s.2	dat ik met myn bloed zyn wysheid weer kon kopen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1644.s.1	Wat baat het u , helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1644.s.2	tot zulk een wensch te lopen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1649.s.1	'k Beken 't en baat my niet , maar , 't wenschen staat my vry .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1653.s.1	Ach Juffer !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1653.s.2	deze wensch verwekt myn jalouzy .	Emotion_Envy
+focq001mini02_01.TEI.2.text.body.div.div.sp.1671.s.1	In 't punt van jalouzy , een koppel kneppel-slagen , Geplant op 't Achterstuk , kan al die drift verjagen ; Doch wyl de jalouzy in Hoorens meest bestaat , Zo bid ik , zeg my eens , wie dat daar vry van gaat ?	Emotion_Envy_BodyPart
+focq001mini02_01.TEI.2.text.body.div.div.sp.1671.s.2	Lang leeft de groene min , lang moeten d'horens leven !	Emotion_Envy_BodyPart
+focq001mini02_01.TEI.2.text.body.div.div.sp.1671.s.3	Op dat men die malkaar noch lang om sunst mag geven .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1671.s.4	Doch twyffelt gy misschien aan zulken fraayen zaak , Zo hoor hoe ik hier op myn Sylogismus maak .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1671.s.5	Elk Minnaar is jaloers , de jalouzy maakt Hoorens , Ergo , de Hoorens zyn in Steden meer als Toorens : Indien gy schoone !	Emotion_Envy_BodyPart
+focq001mini02_01.TEI.2.text.body.div.div.sp.1671.s.6	hier de Minor op negeert , Zo hoor , hoe die in 't kort word van my geprobeert : De Hoorens , zo die door de jalouzy niet komen , Hoe krygt men die dan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1671.s.7	door alleen daar van te dromen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1671.s.8	Wat dunkt u ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1671.s.9	antwoord eens .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1676.s.2	verdwaalde Geest !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1676.s.3	'k Geloof dat hy voor dees wel wys moet zyn geweest .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1681.s.1	Wild gy m ' een vrindschap doen , om te requiesceeren In Pace ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1685.s.1	En waar mee ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1693.s.1	Wild my die strik vereeren , Waar ik de Roozen van den Ezel Apulé Op afgeschildert zie ; misschien dat zy my meê , Gelyk als hem wel eer , weer geven 't oude wezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1693.s.2	Dit zal myn Antidoot , gy myn Apollo wezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1698.s.2	had het zulk een kracht !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1702.s.1	Het zal myn Noort-star zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1706.s.1	Dees zal u beter staan , van Geel , en Carmozyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1711.s.1	Het zal u beter staan , dat gy u met myn zaken , Gy kleuter , niet en moeyt , door 't sluiten van uw kaken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1715.s.1	Neen , dees zal beter zyn , want gy zyt beide groen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1721.s.1	Ja , op dat dit myn hoop weer mag herleven doen ; Doch in de plaats van u hier weer wat voor te schenken , Zo zal ik daaglyks drie minuten aan u denken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1725.s.1	Voorwaar , dit is te lang .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1730.s.1	'k Beken het is wat veel , Maar schat het , zo gy wild , slechts op het derden deel .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1734.s.1	Ik dacht , me Juffer , dat gy voor dees zot woud vlugten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1742.s.1	Zwyg stil Catryn !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1742.s.2	zyn praat verdryft myn ongenugten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1742.s.3	Want schoon hy menigmaal veel zotte grillen spreekt , Zo vind ik echter dat daar veel vermaak in steekt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1742.s.4	Maar zagt , daar hoor ik volk .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1742.s.5	Catryn , laat ons vertrekken , Om door die zamen-spraak geen opspraak te verwekken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1750.s.1	Gy gaat myn schoone zon !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1750.s.2	helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1750.s.3	wat droever nacht , Of wat voor Nevel , uit den Afgrond voortgebracht , Ontrooft my toch den dag , my door uw licht gegeven ; Maar zagt , zy zyn al weg .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1750.s.4	Wie komt hier herwaarts streven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1750.s.6	waar ben ik hier gebracht door 't ongeval !	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.1755.s.1	Isabella , Ferdinand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1767.s.1	Waar ik hier kom , ik vind slechts zotten overal .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1767.s.2	Zo dat het vruchtloos is hier reden te gebruiken , Want daar geen reden woont , daar moet de reden duiken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1767.s.3	't Zal best zyn , dat ik my meê puur uitzinnig maak , Wyl 'k aârs geen middel zie hoe 'k hier van daan geraak ; Want daar de zotheid heerscht , daar word 't verstand verwezen : Dies is het noodig by dees zotten zot te wezen , Hoewel van d'and're kant , door zo veel ongeval , Myn dolheid licht van zelfs zyn Rol wel speelen zal .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1778.s.2	wat is dit ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1778.s.3	wat zie ik voor myn oogen !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1778.s.4	Wat aangenamer licht !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1778.s.5	wat Blixem uit den hoogen , Treft my door dees zottin met zulk een gloejend vuur ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1778.s.6	ô Noyt-geziene schoone !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1778.s.7	ô wonder der natuur !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1778.s.8	Hoe komt gy in dees staat my zo volmaakt te vooren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1778.s.10	ben ik noch my zelfs , of heb ik my verlooren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1778.s.11	Gewis ik voel myn brein ontroert door dees zottin , En myn verstand verhuist op 't komen van de min .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1783.s.2	wat deert dien zot , dat hy dus opgetoogen , En dus aandachtig staat , en ziet my onder d'oogen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1794.s.1	Voorwaar een gantsche reeks van jaren achter een , Was noch te kort een tyd , om zo veel wonderheên Recht te bezichtigen , vermits de Hemelingen , Om 't zien van zo een beeld , zelfs vol verwonderingen , En opgetogen , ja betooverd zouden staan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1794.s.2	Wel aan , ik voeg m'er by , en spreek haar eenmaal aan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1794.s.4	ik sta bedeest , wyl dat ik gaa beginnen Te spreeken met een steen , ontbloot van ziel , en zinnen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1802.s.1	Waar sta ik op en denk ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1802.s.2	en waarom vlucht ik niet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1802.s.3	Het schynt dat zyn gezicht het vluchten my verbiet .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1802.s.4	Wat wel gemaakter man !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1802.s.5	wat aangenamer wezen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1802.s.7	ik min hem eer , dan dat ik hem zou vrezen .	Fear_Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.1807.s.1	ô Hemelsch schepzel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1807.s.2	dat myn ziel vol vuur ontsteekt !	BodyPart_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.1807.s.3	Myn tonge blyft verstomt , terwyl myn liefde spreekt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1812.s.1	Wat heerelyker stal van lichaam !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1812.s.2	door wat reden , ô Hemel , is 't verstand geen meester van dees Leden ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1817.s.1	De gantsche wereld zou schier sterven van verdriet , Als hy zo schoonen Beeld berooft van zinnen ziet .	Emotion_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.1826.s.1	Rampzalige !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1826.s.2	gy zyt gelyk vergulde vaten , Die in der daat gemaakt , om Amber in te laten , Recht tegen alle reên , vervult zyn met fenyn ; Hoewel dat ik gevoel , dat gy , helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1826.s.3	in myn , Schoon gy uw zinnen mist , myn ziel berooft van zinnen , Vermids dat gy my dwingt , uw zotheid zelf te minnen .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.1833.s.2	uit wat kooker , zeg , ô spoorelooze liefd !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1833.s.3	Hebt gy den pyl gezocht , waar meê gy my doorgrieft ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1833.s.4	En in wat zotter nat hebt gy uw punt gaan doopen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1833.s.5	Waar van ik het vergift voel door myn aders loopen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1837.s.2	dat ik hem toch mocht spreken van myn min .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1845.s.2	byaldien ik wist , ô Hemelsche zottin !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1845.s.3	Dat u een zot , wiens lot alleen hem zot doet wezen , U aangenaam zou zyn , wanneer hy was genezen , Zo wierd ik daadlyk wys , in spyt zelfs van myn noot , Nadien dat ik by u geen vrees heb voor de doot .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1856.s.2	ben ik niet die geen , die door myn knecht bedroogen , En arm geplundert ben ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1856.s.3	na dat ik eerst uit d'oogen Van bey myn Ouders zo stoutmoedig was gevlucht ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1856.s.4	En sta ik nu bedeest , verwonnen , en beducht , Door 't aanzien van een zot , berooft van ziel en reden , Niet waardig van op hem myn oogen te besteden ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1856.s.6	wat twyffel ik ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1856.s.7	ben ik meê zot , in 't end .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.1859.s.1	Ferdinand , spreekt haar aan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1863.s.2	daar verdwynt myn zon , wyl zy haar oogen wend .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1863.s.3	ô Nachtverwekster !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1863.s.4	ey , doet toch de mist verdwynen , En laat toch uw gezicht op nieuws myn Ziel beschynen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1867.s.1	Dus spraakzaam , en beleeft !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1874.s.1	Myn schoone !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1874.s.2	noch myn Geest , Noch myn verstand is nooit voor dezen zot geweest .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1874.s.3	Maar wyl uit u te zien myn zotheid is gereezen , Zo zweer ik eeuwiglyk met u meê zot te wezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1878.s.1	Sa Pagies !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1878.s.2	haast u wat , breng al het volk by een .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1883.s.2	daar holt haar geest weer buiten alle reên .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1883.s.3	Ik wil my meê , als zy , in volle zotheid stellen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1888.s.1	Breng my zo daadlyk hier een van myn beste tellen , Die my vereert zyn van myn Ridder Mandrikart .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1900.s.1	't Schynt als of door Romans haar brein dus is verwart , Die zeker heden-daags veel nieuwe zotheid teelen : Wel aan , 't lust my met haar die zelfde Rol te speelen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1900.s.2	Sa , breng my hier een paard , myn sabel , schild en speer , Want daar meê trek ik dien doorluchten Reus te keer , Die lestmaal Sacripant tweemaal den zaal deed ruimen ; Sa , breng my myn helmet , beschâut met groene pluimen , Vermits myn oude min voortaan als rook verdwynt , Terwyl een nieuwe hoop weerom myn ziel beschynt .	Emotion_Hope_BodyPart
+focq001mini02_01.TEI.2.text.body.div.div.sp.1904.s.1	Gy Ridder , wie gy zyt , wild my den beugel houwen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1910.s.1	Dat ik uw dienaar ben , dat moogt gy vast vertrouwen , Want gy , gy zyt de ziel , waar door myn lichaam leeft .	Emotion_Trust
+focq001mini02_01.TEI.2.text.body.div.div.sp.1914.s.1	Hoe Fiel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1914.s.2	byt gy my in de voeten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1920.s.1	Waarom geeft Gy dus de naam van Fiel , Princes , aan uw gevangen , Die uit ootmoedigheid blyft aan uw voeten hangen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1924.s.1	Weet gy wel Ridder , dat ik Doralize ben ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1929.s.1	Uw groote schoonheid maakt dat ik u daar voor ken ; Maar leid , dat ik met een uw Mandricart mag wezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1935.s.1	Wel aan , ik sta 't u toe ; schoon Mandricart voor dezen In wysheid plag te zyn een Phenix van zyn tyt ; Daar gy de grootste zot van heel Europa zyt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1940.s.1	'k Boken , ik ben een zot ; maar zaagt gy my van binnen , 'k Weet dat ik Mandricart in wysheid zou verwinnen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1944.s.1	Ga vraag myn schildknaap of Rogier is hier geweest .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1950.s.1	Hy zeid , dat met zyn schip door zeker zwaar tempeest , Hier op de kust gejaagt , hy quam flus aangevlogen , Maar dat hy nu by 't vuur zyn schoenen zit te drogen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1954.s.1	Hoe is uw Naam ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1958.s.1	Myn Naam ? 'k loof dat die Karel is .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1962.s.1	Zo zyt gy dan geen neef van Jonker Amadis ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1967.s.1	Zyn neef ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1967.s.2	wel degelyk : 't is nog geen maant geleden , Dat ik en hy ter jacht op Kabbeljauwen reden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1971.s.1	Zeg , kend gy Roeland wel ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1977.s.1	Zeer wel , zo 'k aars niet weet ; Is het die man niet die zo graag Pompoenen eet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1981.s.1	Het is een eerlyk man .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1985.s.1	Wel , heet ik u dat liegen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1991.s.1	‘ Neen , neen , dees is niet zot , of 'k moet my wel bedriegen , ‘ En zelve zotter zyn dan ik hem heb geacht .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1991.s.2	‘ Helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1991.s.3	waar heeft de min in zotheid zo veel macht ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1999.s.1	‘ 't Schynt schier , als of zy iet van myn verstant moet peinzen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1999.s.2	‘ Daarom volhard ik best in my noch zot te veinzen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1999.s.3	Wel aan , ik wil ter jacht ; men zadelt my myn Paardt : Waar zyn de brakken ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.1999.s.4	dat men straks de honden paart : Breng hier de valken , met de winden , en de fretten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2003.s.1	Waar zyn de vuur-roers , met de hoorens en de netten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2010.s.1	Waar zyn de Jagers ; sa , wy moeten op den tril .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2010.s.2	Maar , breng geen valken , mits ik zelver vliegen wil ; Ja , zo hoog , dat ik zelfs de Starren en Planeeten Zal kunnen vangen , om voor wild-braad op te vreeten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2015.s.1	Sa , geef my garen aan , op dat ik netten braay , Want ginder in 't verschiet , daar komt een Papegaay .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.2019.s.1	Joris-vaar , Isabella , Ferdinand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2029.s.1	Ik heb u , Juffrou , hier een nieuwe rok doen maken , Die ik u passen wil ; wilt dan die praatjes staken , En gaat met my in huis : en gy , heer Karel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2029.s.2	zult , Zo 't u belieft , aan my toereekenen de schult , Dat 'k u beletten ga , u niet met haar te moeyen : Want zotten hoeven hier geen zotten voort te broeyen :	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2033.s.1	Hoe komt die wysheid jou toch uit de bokke-baart ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2037.s.1	Gans bloet !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2037.s.2	wat is je mont met zulk een neus bewaart !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2044.s.1	Gelyk gy zeer wel zegt , de wysheid hoor ik garen : Maar of dat gintse hok u meê wel zal bewaren , Om u die praatjens met malkander te verbiên , Dat zult gy lichtelyk in 't korte meé eens zien .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2050.s.1	Ik lach met u , ja toch , 'k ben vry in alle zaken : Want ik heb vryheid van myn huik een broek te maken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2050.s.2	Ja zelver , van myn hart een knap-sak , als ik wil .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2054.s.1	Kom , kom , al praats genoeg ; ga met my , en zwyg stil .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2058.s.1	Vaar wel dan , waarde zot !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2063.s.1	ô Hemelsche zottinne !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2063.s.2	Ik zeg u duizentmaal vaar wel .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2067.s.1	Kom , kom na binnen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.2072.s.1	Ferdinand , alleen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2094.s.1	Houd stand , gaa langzaam , myn gedacht !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2094.s.2	Wild gy niet door de wind verzwinden , 't Is noodig , dat gy zyt verdacht , Zo gy het rechte spoor wilt vinden , Dat gy 't verstand tot leyds-man wacht .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2094.s.3	Gy gaat wel , daar de wil u leyd , Door d'eerste driften aangedreven ; Maar laas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2094.s.4	de reden die beschreyt 't Gevaar , waar in g ' u hebt begeven , Door 't hollen van uw lossigheit ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2094.s.5	ô Neen , ô neen , keer liever weer : Want de berooving van uw zinnen , Ontrooft uw ziel haar glans en eer , En voorts , door een zottin te minnen , Stort al de vreugt van 't minnen neer .	Joy_Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2094.s.6	Weg min , wiens dwang my tegenstreeft ; Weg dwaas , en al te zot verkiezen ; Vermits het gansch geen reden geeft , Zyn brein en reden te verliezen , Om een die brein nog reden heeft .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.2098.s.1	Valerius , Ferdinand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2106.s.1	'k Weet , Ferdinand , dat gy myn zotheid eer zult vloeken , Dan my bedanken voor dat ik u kom bezoeken : Want , vrind , om uwentwil kom ik nu herwaarts niet , Maar om myn zelven , die door zeker vreemt verdriet , Helaas !	Emotion_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.2106.s.2	het leven , met myn vryheid heb verlooren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2112.s.2	vriend Valerius , wat doet gy my hier hooren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2112.s.3	Heeft iemant my verspied ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2112.s.4	weet iemant waar ik ben ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2112.s.5	En dat ik in dit huis my niet verbergen ken ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2121.s.1	Tot noch toe , waarde vrind , is uw verblyf verborgen ; En voor ontdekt te zyn en hebt gy niet te zorgen , Vermits dat u dit kleed bewaart tot beter lot ; Maar ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2121.s.2	myn Ferdinand !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2121.s.3	ik zelf , ik zelf ben zot ; En wyl myn zotheid zich niet langer kan verschuilen , Zou 't ons wel noodig zyn van klederen te ruilen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2129.s.1	Zeg my , Valerius , wat voorval dat dit is , Dat dus uw brein verdraait uit zyn gestaltenis ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2129.s.3	wat doet uw verf , wat doet uw geest verdwynen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2129.s.4	Wat heeft in 't end uw staat verandert in de myne ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2136.s.1	Heeft men hier gisteren , in 't vallen van de nacht , Geen zekere zottin in 't Laz'rus - huis gebracht , Wiens schoonheid , by de Zon , by Hemel en Planeeten , Ja by d'onsterff'lykheid schier niet is af te meeten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2140.s.2	is zy d'uwe licht , dees hemelsche zottin ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2144.s.1	Was zy de myne , als ik me , eilaas , de haare vin .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2149.s.1	Kom , gaat met my in huis , om u wat neer te stellen , Waar gy my , zo 't u lust , uw voorval zult vertellen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2157.s.2	gy zucht .	BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2162.s.1	Ik zucht , myn vrind , met reên ; Nadien ik met myn hart , myn brein verlies , met een .	BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.stage.2164.s.1	Einde van het Tweede Bedryf .	None
+focq001mini02_01.TEI.2.text.body.div.head.2168.s.1	Derde bedryf .	None
+focq001mini02_01.TEI.2.text.body.div.sp.2210.s.1	Is dan 't geval noch niet vermoeit , Van , in myn onluk , zo verbolgen , My met een quelling te vervolgen , Die alle daag nog wast , en groeit ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.2210.s.3	in de plaats van hier t'ontvluchten Het dreigend onluk van myn dood , Zo strekt dit huis my , in myn nood , Een dood van duizend ongenuchten .	None
+focq001mini02_01.TEI.2.text.body.div.sp.2210.s.4	Want pas , als of door vlaag op vlaag , Myn ziel nooit smarts genoeg kan vinden , Zo word de waardste van myn vrinden , Op nieuws my tot een dubble plaag .	None
+focq001mini02_01.TEI.2.text.body.div.sp.2210.s.5	Valerius , wien myn gedachten Bekend zyn , als zyn eigen hart , Komt en vermeerdert noch myn smart , In plaats van hulp van hem te wachten .	Emotion_Sadness
+focq001mini02_01.TEI.2.text.body.div.sp.2210.s.6	Vermids hy meê door myn zottin , Met my , in eenen staat gebracht is ; En zweerd dat hem de ziel verkracht is , Door 't vuur van deze zelfde min .	Emotion_BodyPart_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.sp.2210.s.7	Hy zweert te sterven duizend dooden , Zo zy niet blust zyn heete brand ; Want weinig reden , en verstand Heeft de verhitte min van nooden .	Emotion_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.sp.2210.s.8	Daarom zo tracht hy hier van daan Haar uit dit Laz'rus - huis te lichten ; Quansuis als iemand van zyn Nichten , Waar van de zorg op hem moet staan .	None
+focq001mini02_01.TEI.2.text.body.div.sp.2210.s.9	ô Liefde !	None
+focq001mini02_01.TEI.2.text.body.div.sp.2210.s.10	in hoe veel zielsgevaren En leeft , en sterft , en quynt die geen , Die ge in uw slaverny doet treên , Wanneer uw Ketens hem bezwaren !	None
+focq001mini02_01.TEI.2.text.body.div.sp.2210.s.11	Maar echter , spyt dees smart en pyn , 't Zy men my wys of zot wil schryven , Laat my by myn zottin slechts blyven ; Wilt gy my niet puur zot doen zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.2213.s.1	Anna , Ferdinand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2228.s.2	of ik van myn zelfs geen tyding dan zal hooren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2228.s.3	Hier , zeg ik , daar ik eerst myn zelven heb verlooren ; Maar neen , ik dool misschien , mits myn geheugenis , Licht meê , met myn verstant , my reeds ontvlogen is .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2228.s.4	Want d ' al te wrede min doet my het hart ontrukken , Brak wis , met eenen trek , ook , al myn brein aan stukken ; Ja zo , dat spyt de naam van zot , en dwaze min , Ik in my zelfs de daat noch tienmaal zotter vin .	Emotion_BodyPart_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2228.s.5	Een zot , helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2228.s.6	vervoert myn wel-bepaalde zinnen , Die reeds al zotter zyn , dan hy , die zy beminnen ; Zo dat ik van een zot ben het Camelcon , Nadien dat ik zyn verf dus schielyk overwon .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2236.s.1	Na dat ik hooren kan , uit deze haar gedachten , Zo zal 't my noodig zyn my wat voor haar te wachten : 't Zal best zyn , dat ik tracht de zotheid van haar min , Weer door myn zotheid te verdryven uit haar zin : Dies ik my zotter noch ga veinzen dan voor dezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2241.s.1	Zal dan een zot , helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2241.s.2	myn overwinnaar wezen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2241.s.3	En zal ik ....	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2250.s.1	Hebt gy hier niet in passant , misschien Gevoeld , geproeft , getast , gerooken of gezien , Een zeekren Oliphant die ik flus heb verlooren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2250.s.2	Gekleed in 't groen Fluweel van 't gat tot aan zyn ooren , En net gefigureert met Laarzen aan het been .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2255.s.1	En hebt gy my hier zelf niet eer gezien , alleen , Wanhoopig in myn druk , en treurig in myn lyden ?	HeavyHeartedness_Emotion_Sadness_Despair
+focq001mini02_01.TEI.2.text.body.div.div.sp.2259.s.1	Die eens , ô Zuster !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2259.s.2	lyd , zal zig ook eens verblyden .	Joy_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.2264.s.1	ô Woorden !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2264.s.2	die , indien gy Prophetyen waard , My de gelukkigste zoud maken hier op aard !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2270.s.1	ô Pinxsternakelen , ô Geel , en Roo Karooten !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2270.s.2	Indien gy loopen kost op uw gesplitste Pooten , Hoe zoud gy draven op het roeren van de Trom !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2274.s.2	hoe schielyk keert zyn zotheid wederom !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2279.s.1	Zo gy 't geen 'k verloor my weder kunt bestellen , Zal ik , tot berg-loon , u vereeren twee-paar bellen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2284.s.1	Gelukkig zoud ik zyn , indien ik u 't verstand , Dat gy verloren hebt , weer stellen kon ter hand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2290.s.1	Kom , geef het my weêrom , indien gy 't hebt gevonden , Of 'k zweer , Caronje !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2290.s.2	dat ik voor jou oude zonden , Al ben je noch zo moy , u smyten zal met slik .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2294.s.1	Zeg eens , uw Vryster , is die wel zo moy als ik ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2301.s.1	Wel deeglyk ; want zy doet elk die haar ziet ontvonken , Vermits zy is van sneeuw en peper t'zaam geklonken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2301.s.2	Zy is het die my bind met een onbreekb're band , Mits zy door 't zelfde vuur , dat my verteerd , verbrand .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2305.s.1	Om haar alleen , helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2305.s.2	hebt ge uw verstand verlooren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2312.s.1	Het branden van haar oog dat maakt het volk tot mooren , En 't lachen van haar mond geest zulken zoeten trek , Dat wel een water-snip zou vliegen in haar bek .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2319.s.2	in plaats dat dit myn min dient om te keeren , Zo doet zyn zotterny myn liefde noch vermeeren .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2319.s.4	met wat schoonder Geest zou hy niet zyn verçiert , Indien van deze quaal zyn brein genezen wierd .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2328.s.1	't Schynt dat gy by u zelf staat te Philosopheeren ; Des , om myn redenen daar by te Copuleeren , Zo weet dat Amor ( aârs een vreemde snaakse vent ) De ziel , de ziel het lyf regeert , na 't temp'rament : Waar uit ik induceer , dat , na de temp'ramenten , De min vaak wonderlyk in 't lyf moet redementen .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2333.s.1	Hou op : hier van genoeg ; maar zeg , waar is myn lind Van hoop , dat ik u gaf ?	Emotion_Hope
+focq001mini02_01.TEI.2.text.body.div.div.sp.2341.s.1	Dat is al aan de wind : Want zynde niet heel zot in 't minnen , noch in 't hoopen , Zo moest ik dadelyk dat Troef-blad laten loopen , En discarteeren dat behendig uit de weeg , Zo dra ik beter kaart en spel in handen Kreeg .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2345.s.1	Wat kreegt gy dan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2361.s.1	Ik kreeg een Koningin van harten , Die zelfs de Koningin van Vrankryk wel mogt tarten , In veel Provintien te winnen in een uur .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2361.s.2	Hoewel hier tegen , door een vreemden avontuur , Myn vyand in het spel , hoewel myn vriend in 't leven , Door een verdoemde steek , myn gantsche kaart vergeven , En ieder maakte , door 't zien van het zelfde blad , Dat my de winst van 't spel schier al verzekert had .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2361.s.3	Dit deed wel haast door twist ons vriendschap al verzwinden , Tot vyand makende de twee getrouwste vrinden ; Vermits de vrindschap , in de min en 't speelen , stuit ; Want daar men speelt of mind , daar heest de vrindschap uit .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2365.s.1	Zo is myn hoop dan weg ?	Emotion_Hope
+focq001mini02_01.TEI.2.text.body.div.div.sp.2369.s.1	Zo doet myn hoop met eenen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2373.s.1	Wilt gy een ander ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2377.s.1	Hoe ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2377.s.2	te geven , of te leenen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2381.s.1	Te geven , zo gy wilt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2385.s.1	Waar hebt gy dan het lind ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2389.s.1	Hier op myn hooft .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2393.s.1	Zo hoog ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2397.s.1	Hoe nu dan , zyt gy blind ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2401.s.1	Wel , maakt het dan eens los .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2405.s.1	Gy moet het zelf ontbinden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2409.s.1	Sta dan zo lang wat stil , ik zal de knoop wel vinden .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.2411.s.1	Hy ontbind haar Hooft-strik .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2418.s.1	Ontknoopse , ze is voor u .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2418.s.3	zo ik dorst , 'k Zou hem omhelzen , en hem drukken aan myn borst : Maar waarom durf ik niet ?	EmotionalAction_BodyPart_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2418.s.4	geen mensch is hier op wegen , Een zot , gelyk hy is , wat is daar aan gelegen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.2420.s.1	Zy omhelst hem .	EmotionalAction_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2426.s.1	Hoe nu : wat doet gy my ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2426.s.2	al zachjes , met gemak , Of hoe na wild gy my iets stelen uit den zak ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2431.s.2	hy laat niet toe hem in myn arm te knoopen : ô Dwaze , en zotte min !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2431.s.3	wat kund gy my doen hoopen .	Emotion_Hope
+focq001mini02_01.TEI.2.text.body.div.div.stage.2437.s.1	Isabella , in Sotte kleeren , Anna , Ferdinand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2453.s.1	Die knoop staat wonder wel : neen , neen , ga zo vry voort : Want jy bent alle bey pas zo lang als behoort .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2453.s.2	Voor my ik wensch dat gy een tal van blyde jaren , In dees omhelzing , met malkander wel moogt varen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2453.s.3	Maar hoe , verrader !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2453.s.4	hoe , zyt gy myn Mandricart ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2453.s.5	Die Doralice reeds gegeven had uw hart !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2453.s.7	ik heb alreeds berouw van myn gedachten , Die my wel eer wat goeds deên uit uw liefde wachten En gy in 't heimelyk getrouwe Land-gravin Van Denemarken , zeg , wat dolheid schiet u in ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2453.s.8	Dat zo gy wys zyt , gy hier zot word by de zotten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2453.s.9	Vertrek , want ieder een zal met uw Tabbaard spotten , Daar gy al slepende de vloer de neus meê snuit .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2457.s.1	Al zachjes , Aagje , zacht , roep zo niet overluid .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2462.s.1	Neen kakelaarster !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2462.s.2	gaat , 'k wil uw gezicht niet velen , Wyl gy het wettig kind zyn erf-recht zoekt t'ontstelen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2467.s.1	Het zal my best zyn dat ik hier van daan vertrek , Eer dat een ander my niet meê en kent voor gek .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.2472.s.1	Ferdinand , Isabella .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2486.s.1	Wat koppelaarster zou myn zaak zich meer bemoeyen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2486.s.2	Wat komt dit Laz'rus - huis al kuuren uit te broeyen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2486.s.3	Waarom is 't dat men u een zoon noemt van de min ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2486.s.4	Daar ik u eer de naam van Vader waardig vin , Nadien men dagelyks kan door uw ' daden hooren , Dat hy door u alleen zo dikwils word gebooren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2486.s.5	Gy hebt , ô schoone , my verlost ter goeder tyd Van dees gehate vrouw : maar hoe !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2486.s.6	wat treurigheid Vertoont zich in haar oog !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2486.s.7	hoe staat dus opgetogen Die schoonheid , die myn ziel vervoerd heeft met haar oogen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2486.s.9	waarom spreekt gy niet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2486.s.10	Wat speelt u in den zin ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2494.s.1	Het rout my , dat ik met Mevrouw de Land-gravin Dus stout gesproken heb , voor eerst , om dat ik vreeze Dat gy my denken zult van haar jaloers te wezen : Ten anderen , om dat ik heb uw vreugd gesteurt , En dat ik door myn komst u heb van een gescheurt .	Fear_Joy_Emotion_Envy_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.2505.s.1	Ach Aagje !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2505.s.2	zo ik haar bemin , zo durf ik zweren , Dat my de Blixem vry als Bos-kruid mag verteren : En zo ik niet en ben die zelfde Mandricart Die Doralice alleen draagt binnen in zyn hart ; Maar wyl zy , als gy weet , is zotter dan wy allen , Zo hebben wy uit jox met een wat staan te mallen ; En zo 't iet anders is , zo wensch ik , dat voortaan Uw haat my sterven doet , gebakken of gebraan .	Emotion_Hatred_BodyPart_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2517.s.1	ô Fiel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2517.s.2	gy veinst op nieuws het hollen van uw zinnen , Neen , neen , waart gy gekookt zo zou ik u beminnen , Vermids , zo gy dan juist niet wel gevield aan my , Ik u zo datelyk zou hakken tot pastey ; Zo dra ik in dit huis myn voeten quam te stellen , Zo dra begon myn oog mee na uw muts te hellen , En zo gy my niet had doen twyff'len aan uw hart , Gy waard , spyt Rodomond , altyd myn Mandricart .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2522.s.1	‘ ô Liefde !	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2522.s.2	doet dees vrouw 't verstand tog weder komen , ‘ Wyl gy de geen die 't had het zynen hebt ontnomen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2527.s.1	‘ ô Min !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2527.s.2	zo gy in magt meêr dan Apollo zyt , ‘ Zo maak aan deze man terstont zyn zotheid kwyt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2532.s.1	‘ Doe in dit schoone beeld , ô Liefde !	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2532.s.2	een ziel herleven , ‘ Op dat ik haar myn smart eens mag te kennen geven .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2537.s.2	dit wonderwerk past aan uw kracht alleen , ‘ Doe hem myn vuur dan zien , en brand hem ook met een .	BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2541.s.1	‘ ô Hemel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2541.s.2	deze vrouw dient u tot gunst te wekken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2546.s.1	‘ Ik durf my zelf aan hem nog niet geheel ontdekken , ‘ Voor dat ik zie , wat ik van hem geloven mag .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2551.s.1	‘ Eer durf ik myn verstand niet brengen aan den dag , ‘ Voor dat ik heb gezien , waar voor ik haar moet achten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2556.s.1	‘ 'k Zal in myn zotterny hem melden myn gedachten , ‘ Om te beproeven of hy min , noch reden kend .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2562.s.1	‘ 'k Zal haar in staat van zot verhalen myn elend , ‘ Op dat zy , zo zy dus myn Liefde komt te weten , ‘ Zo zy niet zot en is , my ook niet zot mag heten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2566.s.1	Zegt fynman !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2566.s.2	weet gy wel wat dat de Liefde is ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2574.s.1	De Liefde dat 's een guyt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2574.s.2	Die nu al lang , na 'k gis , Is opgehangen , en voor bokking hangt te droogen : Of anders , 't is een drift oorspronkelyk uit d'oogen , Die na 't bezitten haakt van 't geen de ziel bemind .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2578.s.1	‘ ô Groote min !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2578.s.2	heb dank , wyl gy zo wel begind !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2587.s.1	De min is tweederlei , na 'k dikwils heb gelezen , Des vind ik , dat de schoonte ook twederlei moet wezen , De een van het Lichaam , en de ander van de Geest , Waar van de laatste aan u onthouden is geweest , Niet om de glans alleen van d'ander te verdoven , Maar om myn ziel met een al zyn vermaak te ontroven .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2592.s.1	‘ Hoe is het mogelyk dat hy dit oordeel geeft , ‘ En dat myn zotheid schat dat hy geen wysheid heeft ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2597.s.1	Maar gy , die my zo veel weet van de min te vragen , Kend gy zyn krachten wel ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2605.s.1	Ik weet zyn zotte vlagen : En wat die gaudief op een eerlyk mensch vermag ; Want van dat uur , helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2605.s.2	dat ik u eerstmaal zag , Heb ik zyn mogentheid zodanig ondervonden , Dat ik uit zyn geweld vrees noit te zyn ontbonden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2609.s.1	Mint gy my dan myn Lief ?	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2614.s.1	‘ Hoe nu !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2614.s.2	hy merkt myn brand : ‘ Gewis hy is niet zot .	BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2618.s.1	‘ Gewis zy heeft verstand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2623.s.1	Verstaat gy wat ik zeg ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2623.s.2	ô Koning van Westfalen !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2623.s.3	Ik min u in myn hart als krabben en garnalen .	Emotion_BodyPart_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2629.s.1	En gy , doorluchtigste Princesse van Mogol !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2629.s.2	Ik min u in myn maag , als varsch gezouten schol .	Emotion_BodyPart_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2633.s.1	‘ Hy antwoord in myn taal : wie zal dat zotheid heten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2637.s.1	‘ Indien zy zot is , ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2637.s.2	zo ben ik zelf bezeten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2642.s.1	'k Zou wis van u veel meer bemind zyn , en geacht , Zo gy myn afkomst wist , en myn beroemt geslacht .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2649.s.1	Wel , weet van uw kant ook , dat , spyt dees zotte kleeren , Die 't nootlot my lest tot een Kermis kwam vereeren , Dat ik een Edelman , en zo ryk ben van schat , Dat ik , per overdaad , een hond hou met een kat .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2660.s.1	Een Fiel , na dat hy my had uit myn land genomen , En na hy hier met my was t'Amsteldam gekomen , Heeft my verraden , en ontstolen ook met een Al wat ik by my had ; doch liet my 't hart alleen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2660.s.2	En wyl ik hier op straat myn ramp zat te beweenen , En dat my , by geval , dit volk daar hoorde steenen , Zo hebban zy voor zot my in dit slot gebragt , Ter audientie van de souveraine magt .	BodilyProcess_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.2671.s.1	En ik , door ongeluk , heb zeker heer doorsteken , Waar door ik vluchtende ben in dit huis geweken , Om myn vervolgers niet te vallen in de hand ; Nu speel ik hier voor zot , wyl 't missen van 't verstand Myn nek en hals bewaart voor meester Hans zyn slagen , Mits ik veel liever die van Joris-vaar wil dragen , Dan dat een Intendant van 't recht der Graaflykheid My , zonder kompliment , 't hooft voor de voeten leyd .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2675.s.1	Spreekt gy met ernst ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2679.s.1	Gewis : en gy , spreekt met reden ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2694.s.1	Is 't waar , myn zon ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2694.s.2	cy wilt die dan besteden In wat meêdogentheid te toonen om myn smart , Zie , hoe de min alleen bestiert myn ziel en hart ; Wyl ik , ( u wanende berooft te zyn van zinnen ) Zelfs , spyt uw zotheid , u gedwongen was te minnen , En denk , of door de min myn geest niet zelver dwaald , Wyl ik u in dees staat heb myn geheim verhaalt .	Emotion_BodyPart_Love_Compassion_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.2709.s.1	Om dees oprechtigheid met myne te vergelden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2709.s.2	Zo weet ook dat ik ben , die ik terstond vertelden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2709.s.3	En niet de gene daar gy my hebt voor geacht ; Myn naam is Isabel , en 't Adelyk geslacht , ( Zo oud , en wyd beroemt , waar uit ik ben gesproten ) Is Gelders , en verwant aan 't meeste deel der Groten ; En vorders ben ik die , die zich gelukkig vind , Van in dees zotte staat van u te zyn bemind , Gelyk ik u na dees getuignis hoop te geven , ( Wyl dat gy my 't geheim ontdekt hebt van uw leven ) Hoe dat myn minnend hart meer 't uwe is als het myn ; Ja dat ik tot ' er dood uw Dienares zal zyn .	BodyPart_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2715.s.1	ô Groote Hemel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2715.s.2	wat geluk komt my ontmoeten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2715.s.3	Myn schoone ! 'k werp van vreugt my zelve voor uw voeten ; Wyl ik u eeuwiglyk voor myn Godin erken .	Joy_Emotion_EmotionalAction_BodyPart
+focq001mini02_01.TEI.2.text.body.div.div.sp.2719.s.1	Staa op , dit is een eer die ik niet waardig ben.	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2730.s.1	Al weer an by malkaar ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2730.s.2	wel hei !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2730.s.3	waar wil dit henen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2730.s.4	Ik zweer dat ik jou luy zal breken hals , en benen : Gaat voort zeg ik in huis : ziet zo , hoe smaakje dat .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2736.s.1	Jou gryze Roffiaan !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2736.s.2	jou bakhuis als een kat , Jou ouwe woud-aap , met je kamelotte kaken !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2736.s.3	Moogt gy niet langer zien dat goe luy vrede maken !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2744.s.1	Geen woorden zeg ik , maar gaat straks geschikt in huis , Of anders zweer ik u , dat gy niet eenen luis , Nog op je kop , of vleys , meer zult in 't leven houwen , Mits ik ze met een stok te morselen zal touwen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2744.s.2	Hou Marten !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2744.s.3	Klaasje hou !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2744.s.4	waar benje met je twien ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2748.s.1	't Was tot ons ongeluk dat hy ons quam te zien .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.2752.s.1	Marten , Klaasje , Joris-vaar , Ferdinand , Isabella .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2756.s.1	Wat is hier nieus te doen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2756.s.2	wie is ' er dootgesteken ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2762.s.1	Op dat dit koppeltje malkaar niet weer zou spreken , Zo legt my dees Sinjeur zyn voeten in den band , En geeft dees Juffrouw eens een koord om ieder hand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2766.s.1	Die niet en heeft gedaan wat schult heeft die te boeten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2771.s.1	Boey my de handen meê zo wel als bey myn voeten , Maar laat myn Zuster gaan , die heeft in 't minst geen schult .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2778.s.1	'k Zweer gy uw eerste beê wel haast verkrygen zult , Zo gy de moeite neemt van noch wat praats te maken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2778.s.2	Sa jongens , pak haar aan , en let voor alle zaken , Dat gy haar houd van een , dies past voor al op hem .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2785.s.1	ô Ouwerwets model van Heer Methusalem !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2785.s.2	'k Zweer zo het satum my weer in myn ryk doet keren , Dat ik u zal tot straf in pik doen fricasseren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2790.s.1	ô Zotskap !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2790.s.2	weet gy dan 't gebruik van 't huis noch niet , Zeg , wanneer is 't dat gy hier vrouws by mannen ziet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2794.s.1	Kom stapt ' er slechts meê weg .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2799.s.1	Waar wilt gy henen stappen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2799.s.2	Of wilt gy in de kroeg een paartje laten tappen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2803.s.1	Kom peetje , marsch jy voort .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2807.s.1	Voert gy my meê dan heen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2811.s.1	Gaa voort met allebei ; maar houdze wel van een .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.2816.s.1	Joris-vaar , alleen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2829.s.1	'k Verwonder my geensints te zien dat dees zottinne Zig van een zotte vent , als dees , kan doen beminnen : Daar zy zo gryzen , en zo wyzen ouwen man , Schier door haar oogen in temtatie brengen kan .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2829.s.2	Ik weet niet , die zottin die helpt myn brein aan 't dwalen , 't Hooft draait my of ' er zat een meulen in te malen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2829.s.3	Wel liefde !	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2829.s.5	word gy dan langer zot ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2829.s.6	En speelt gy by de Goôn noch voor een eerlyk God ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2829.s.8	wie zal aan voortaan op d'ouderdom vertrouwen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2829.s.9	Want gy , ô kleine Fiel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2829.s.10	ontziet nog jong nog ouwen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2829.s.11	En 't zy , hoe dat het zy , in 't grys , of blonde hair , Uw drift speelt in den mensch altyd voor koppelaar .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.2831.s.1	Eindt van het Derde Bedryf .	None
+focq001mini02_01.TEI.2.text.body.div.head.2835.s.1	Vierde bedryf .	None
+focq001mini02_01.TEI.2.text.body.div.sp.speaker.2839.s.1	Isabella , alleen , met Handboeyens aan .	None
+focq001mini02_01.TEI.2.text.body.div.sp.2852.s.1	Hoewel dat my 't gebruik der handen is benomen , Zo ben ik echter noch myn wachters oog ontkomen , Want noch een keten , noch een wachter acht of tien , Kan een verliefde Ziel zyn heete drift verbiên : Want waarom zou de min zo groot niet van vermogen Zyn , als Mercurius ?	Emotion_BodyPart_Love
+focq001mini02_01.TEI.2.text.body.div.sp.2852.s.2	die , spyt de duizent oogen Van Argus , hem ontstal zyn mensch-geweze koe ?	None
+focq001mini02_01.TEI.2.text.body.div.sp.2852.s.3	Gewisselyk de min is al zo groot : want hoe Men hem meer dwingen wil , beknellen en bevatten , Hoe meer men deze band zal buiten band doen spatten .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.sp.2852.s.4	Want pas als hy het woord slechts hoort van Tiranny , Breekt hy zyn boeyens los , en stelt zich zelver vry .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2872.s.2	men heeft u dan geboeyent aan uw handen !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2872.s.3	Myn waarde tweede ziel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2872.s.4	en gy , ô ys're banden !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2872.s.5	Versmelt noch niet door 't vuur daar ieder een van blaakt , Die slechts de minste straal van deze zon genaakt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2872.s.6	Gelukkig yzer !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2872.s.7	ô benyens-waarde keten !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2872.s.8	Die tot gevangenis der handen word versleten ; Waar van de Minne-God , de groote scepter-staf , En 't opperste gebied van alle harten gaf ; Gelukkig yzer !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2872.s.10	mocht ik uw plaats bekleden , En boeyen in uw steê dees goddelyke leden , Ik zweer , op dat dees hand te meer zou zyn vereert , Dat ik gewisselyk haast wiert in gout verkeert : Maar ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2872.s.11	boeit men om my dees schoone Ledematen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2878.s.1	Dees ys're boeyens , in de plaats van die te haten , Zyn my ( wyl my de min om u die overlaat , Tot kostelyk gesteent , en prachtig armçieraat .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2889.s.1	Indien 't çieraden zyn , u van de min gegeven , Zo schenk ik aan die band met een myn ziel en leven , Nadien die blinde God , door een en zelfde gloet , Ons herten samen smelt , en die vereenen doet : Gelyk ( tot blyk dat wy maar een zaak wezen moeten ) Hy u de handen boeit , gelyk als my de voeten , Pas of een enk'le band hem niet en kan volstaan , Om ons in eeuwigheit niet weer van een t'ontslaan .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2901.s.1	Die boejens , waar in ik uw voeten zie geslagen , Die zweer ik , dat ik mee steets om myn hart zal dragen ; Dewyl dat ik in die , daar my uw min meê bind , Myn allergrootste vreugt , en al myn glorie vind .	Joy_Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2901.s.2	Alleen bedroef ik my , dat 't boeijen van myn handen , Die drift in my belet , die ik in my voel branden , Van u te omhelzen : daar myn ziel nu , na haar macht , U haar omhelzing geeft , alleenig in gedacht .	Emotion_EmotionalAction_BodilyProcess_Love_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.2901.s.3	Wel aan , myn tweede ziel , omhels my zonder schromen .	BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.stage.2905.s.1	Catryn , Ferdinand , Isabella .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2910.s.1	Heel tydig vind ik my hier op het mat gekomen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2910.s.2	Gy fiel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2910.s.3	laat gaan , laat los : wat doet gy dees zottin ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2914.s.1	Verrader !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2914.s.2	wilt gy my verkrachten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2920.s.1	Hoe , vrindin , Deed hy u dan gewelt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2924.s.1	ô Ja .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2928.s.1	Geweld van Liefde .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.2934.s.1	Gy Heer Student , of droes ! 't was best zo 't u beliefde , Dat gy liet loopen dees ontzinde , en zotte meyt : Wat heeft zy u gedaen , dat gy steeds by haar zyt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2940.s.1	Zy heeft my met een pyl in 't ingewant getroffen , Daar men een Oliphant meê zou ter aarden ploffen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2940.s.2	Wat dunkt u , heb ik dan geen reden tot myn wraak ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2944.s.1	Haar zotte jalouzy die hoor ik met vermaak .	Emotion_Envy
+focq001mini02_01.TEI.2.text.body.div.div.sp.2949.s.1	Zult gy u eeuwig dan staan spieglen in haar oogen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2949.s.2	Ziet my tog meê eens aan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2955.s.2	wat groot vermogen Hebt gy in uw gezicht , ô platgeneusde maagt !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2955.s.3	Wyl dat gy door een lonk my schier na bed toe jaagt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2960.s.1	Schoon dat gy my veracht , nog zult gy zo niet scheiden , Mits ik u niet wil zien vertrekken met u beiden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2967.s.1	Gansch herfst , en winter , en gansch zomer alle drie : Wat zoeter gratie dat ik in dees Juffrouw zie !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2967.s.2	Och , och , wat moet die sloof in bei haar longen branden !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2967.s.3	Ik loof voor vastelyk d ' hondsdagen zyn op handen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2971.s.1	Wel waarom ziet gy my niet meê eens vriend'lyk aan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2977.s.1	'k Zweer zonder jokken , dat het kwalyk is gedaan ; Doch gy Heer Mandricart !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2977.s.2	blyf hier , ik ga vertrekken , Om hier myn jalouzy niet hooger op te wekken .	Emotion_Envy
+focq001mini02_01.TEI.2.text.body.div.div.sp.2985.s.2	zal deze mist , op nieuws weer oorzaak zyn , Dat ik ontbeeren zou myn schoone zonneschyn ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2985.s.3	O wreede Rodemond !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2985.s.4	ontschaakt gy Doralice ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.2985.s.5	'k Zweer dat 'k u volgen zal , of 't leven zelfs verliezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.2990.s.1	Catryn alleen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.1	Is 't mog'lyk , hemel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.2	is ' er smart Op aard ' by myne te gelyken ?	Emotion_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.4	wat droefheit moet niet wyken Voor 't vreemde lyden van myn hart ?	Emotion_BodyPart_Love_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.5	Moet ik dan sterven door de min ?	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.6	Om deze zot , die door 't verachten My klaar doet zien in zyn gedachten Dat hy my laat voor dees zottin ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.7	O neen !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.8	ik zal haar dolligheid Zien door myn dolheid om te zetten , En zo haar samenkomst beletten , Eer dat dit vuur zich verder spryt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.9	Want om dit huis te houden in , En niet naar Haarlem weer te keeren , Zo wil ik , om geen schyn t'ontbeeren , De zotheid volgen van myn min .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.10	'k Wil my gaan veinzen zo ontzint , Dat men my hier zal moeten laten , Want zal het minnen ons wat baten , Zo moet hy zot zyn die bemint .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.11	Wel aan !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.12	wat let my dat ik straks niet gaa beginnen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.13	Holla myn Pagies !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.14	met myn Juffers en slavinnen , Waar is myn gansche trein ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.15	waar blyft het hofgezin ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.16	Sa , maak myn koets gereed , en spand de paarden in , Vermits ik datelyk wil naar de Koning ryden : Gy , Prins , geef my uw hand , om my ten hoof te leyden ; En gy , myn dwergen brengt uw waeijers voor den dag ; Op dat ik voor de zon my wat verkoelen mag .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3021.s.17	Dit is een goet begin om tot het werk te treden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3029.s.2	staat gy hier , Catryn ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3029.s.3	wat maakt gy hier beneden ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3033.s.2	noemt gy my Catryn ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3033.s.3	noemt my uw Koningin .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3037.s.2	wat slechter tyng ontfang ik daar vrindin !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3041.s.1	Hoe slechte tyng ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3041.s.2	wat tyng ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3045.s.1	Te droevig om te hooren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3050.s.1	Is ' er misschien een stuk van 't Koningryk verlooren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3050.s.2	Of is de gansche vloot van Indiën vergaan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3060.s.1	Myn Vader doet terstont my door een brief verstaan , Dat het zyn wil is , dat wy straks na Haarlem keeren , Vermits dat hy my t'huis niet langer kan ontbeeren , Gelyk ' er ook met een aan Joris-vaar een quam , Waar in hy wierd verzocht , dat hy my t'Amsterdam , ( Vermits 't noodzak'lyk was ) niet langer op zou houwen : Maar eer hoe liever , ons weer zou na huis toe stouwen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3064.s.1	Wel dat het gansche ryk dan straks victorie brand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3068.s.1	Wat ryk ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3073.s.1	Dat Koningryk , dat ik met dees myn hand Als Koningin regeer .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3078.s.1	Hoe nu ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3078.s.2	waar zyn uw zinnen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3082.s.1	Ik zoek myn moeder vast een schoonzoon aan te winnen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3086.s.1	Gewislyk zy is zot en al haar oordeel quyt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3090.s.1	Daar door heb ik myn ziel van meerder smart bevryt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3094.s.1	Wat tover-kruid Catryn !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3094.s.2	hebt gy doch ingezogen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3098.s.1	Een tover-kruid 't geen ik ontfing door by myn oogen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3102.s.1	Bedaar u toch Catryn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3106.s.1	Vertrek , gy valsche pry !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3114.s.1	Gelukkig zyt gy wis in dees uw zotterny , Nadien dat gy daar door hier noch zult blyven mogen , En alle dagen zien die wel beminde oogen , Waar van ik in myn ziel zo diepe wonden draag , Dat ik alleen om haar dit myn vertrek beklaag .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3118.s.1	Waar zyn myn slaven , en myn zwarte Japoneezen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3122.s.2	die zo zot mocht zyn !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3122.s.3	hoe lukkig zou hy wezen !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3126.s.1	Sa !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3126.s.2	breng my water op dat ik myn handen wasch .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3147.s.1	Hoe woeld haar malend brein in die ontstelde kas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3147.s.3	wat of my let , dat ik reeds zot ten delen , Haar voorbeeld niet en volg , en puur voor zot ga spelen , Dewyl dat ik daar in twee zaken schyn te zien , Waar door myn minnend hart veel voordeel kan geschiên : Waar van het eerst ' is , dat het missen van myn zinnen , Voorzeker in dit huis my zal een plaats doen winnen , Daar ik haast andersints van hier zal moeten gaan : Het tweed ' is dat ik dus myn brand zal doen verstaan Aan myn beminde zot , die ik in alle deelen Zo zal gelyken in myn zotte rol te speelen , Dat als men my om hem bespeurt zo dol en mal , Myn Vader my gewis met Karel trouwen zal .	BodyPart_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3147.s.4	Vermits hy , ziende 't quaat alleen uit hem gerezen , Wis door dit huwelyk myn zotheid zal genezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3147.s.5	Wel aan dan ; ik begin : Vaar wel dan myn verstand , Want daar de min regeert moet wysheid aan een kant .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3151.s.1	Hola myn kamer-maagt !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3151.s.2	Waar zyt gy , kom van binnen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3155.s.1	Wat is 't gebieden van mevrouw de Koninginne ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3160.s.1	Het is byna een uur dat ik hier heb gewacht , En niemant heeft my noch een morgendrank gebracht .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3165.s.1	Uw kamer-jonker , zal terstont uw wil volvoeren : Hy staat vast aan den haard een pot met bry te roeren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3172.s.1	Zeg dat hy zich wat spoeyt , of dat men in der yl Zyn rug wat smeeren zal met 't hand-vat van een dwyl .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3172.s.2	Maar hoe ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3172.s.3	wat wil dit zyn , dat Juffrouw voor 't bestraffen , My in myn zotterny komt nieuwe stof verschaffen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3177.s.1	Dus volg ik van dees sloor alleen de zotheid in , Om dat ik zelver volg de zotheid van myn min .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3182.s.1	'k Geloof dat zy de grond verspied van myn gedachten , Dies zal het nodig zyn my wat voor haar te wachten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3187.s.1	O groote Koningin !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3187.s.2	gints komt een pagie aan , Die u een tyding brengt uit 't Eylandt van de maan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3193.s.1	Wel licht zal het een Boo van Jonker Karel wezen , Zegt dat hy binnen komt , en niet en hoeft te vrezen .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.3197.s.2	spreekt gy hier by my van deze vagebond ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3201.s.1	Mag ik myn Bruigoms naam niet nemen in myn mont ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3205.s.2	uw Bruigom , daar hy aan een aêr getrouwt is ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3209.s.1	Getrouwt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3209.s.2	ja toch , met wie ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3214.s.1	Dat 's tyding die al out is .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3214.s.2	Met my .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3218.s.1	Met u ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3218.s.2	en wie heeft u toch t'zaam vereent ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3222.s.1	De Paap .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3226.s.1	De Papegaay geloor ik dat gy meent .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3231.s.1	Wel wat mag dees zottin dog in haar harsens brouwen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3231.s.2	Meend zy myn echte man dan op een nieu te trouwen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3240.s.2	rampzalig dier !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3240.s.3	weet gy met wie gy spreekt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3240.s.4	En vreest gy noch niet dat uw Koningin zich wreekt Op uw vermeete tong ?	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.3240.s.5	sa , waar zyn myn Soldaten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3240.s.6	Ik wil dat men de trom terstont zal roeren laten , En dat men 't gansche heir zo daadlyk breng te veld .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3240.s.7	Mits ik my wreeken wil van dit uitheemsch geweld .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3244.s.1	En ik wil u terstont de kroonen gaan verpletten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3252.s.2	zal myn slavin zich tegen my verzetten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3252.s.3	Een bastaart die de schand maakt van haar gansch geslagt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3252.s.4	Za Pagie !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3252.s.5	haal my straks drie Switsers van de wagt , Op dat ik haar terstond doe slepen uit myn oogen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3256.s.1	Gy hebt , ô Koningin !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3256.s.2	dwars door uw strot gelogen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3260.s.1	Gelogen !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3260.s.2	sa wel aan ontfang dan dees sufflet .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3264.s.1	ô Varken !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3264.s.2	wacht , ik zweer dat ik u dat belet .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.3266.s.1	Zy vechten .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.3270.s.1	Joris-vaar , Valerius , Anna , Catryn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3277.s.1	Kom heer Valerius zo lang eens met my buyten , Op dat ik zie waar uit dit plaatsgerucht mag spruyten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3277.s.2	En daar na zullen wy verhand'len met gemak De zaak daar gy om komt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3282.s.1	Wel aan dan , haast u strak , Want gints zie ik uw Nicht met een zottin aan 't vechten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3291.s.1	Hoe Anna ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3291.s.3	laat los malkanders vlechten : Laat los , en blyf van een : kom hier , waar benje Klaas ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3291.s.4	Sa sleept my dees zottin terstond eens van de plaats , Die hier myn goeje Nicht schend neus , en mond , en lokken , Wyl zy onzinnig is , en meer als dol , wat pokken Beweegt u dat gy haar niet opgesloten laat ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3295.s.1	Kend gy my langer niet , gy gryze Potentaat ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3299.s.1	Wel hoe !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3299.s.2	bent gy 't Catryn ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3303.s.1	Ik bent .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3312.s.1	Dees dolle deeren Die noemt zich Koningin , om my te affronteeren , Zo zeyt zy dat zy reets met Karel is getrouwt , Daar yder een nochtans hem voor myn Bruigom hout , Gelyk wy inderdaat ook zyn aan een verbonden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3316.s.2	Anna Nicht , wat heeft uw breyn geschonden ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3320.s.1	Ik zweer u Joris-vaar dees twee zyn beiden zot .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3325.s.1	Wat droes : wel wat is dit ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3325.s.2	wat helpt haar brein uit 't slot ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3325.s.3	Wat helscher toverdrank heeft men haar dan geschonken ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3333.s.1	De min is tovenaar , het toverkruid de lonken , De minnelyke zwier , en schoonheit van 't gelaat .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3333.s.2	En zo gy weten wilt waar uit my dit ontstaat , Gaat ziet myn Karel eens , en zyn bevalligheden , En oordeelt dan of ik ook zot ben zonder reden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3340.s.1	Die zelfde is meê den geen die my het brein verwart , En zo gy niet gelooft zo zie vry in myn hart : En opent my dees borst , wiens binnenst is te vrezen , En door myn felle brandt alrée tot asch zal wezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3345.s.2	vrindt Valerius : wat ongeluk is dit ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3345.s.3	't Schynt dat de min alleen haar hollend brein bezit .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3350.s.1	Ik ben de Koningin van 't Land der Japonezen , Schoon dat ik voor myn troon dees stad heb uitgelezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3355.s.1	Ik sta zo zeer verbaast door dees ontzinde schyn , Dat ik voor vast geloof dat zy betovert zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3362.s.1	Dewyl haar dolligheid is uit de min gerezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3362.s.2	Zo moet dees toverny niet van de kleynste wezen : Ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3362.s.3	vriendt Valerius !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3362.s.4	gy hebt te quader tydt Dien Karel , voor dees twee , hier in myn huis geleydt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3367.s.1	Wat staan wy droef te zien ?	Emotion_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.3367.s.2	sa , sa , kom laat ons dansen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3371.s.1	Waar wil dit henen .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.3373.s.1	Zy zingen en dansen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3378.s.1	Hey !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3378.s.2	waar benje kokerjansen Metje stopmes op je zy .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3383.s.1	Haar zotheid groeit noch aan : Myn lieve Nicht , wat 's dit ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3383.s.2	laat toch dit danssen staan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3387.s.1	Ta , la , la , la , la , liere ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3392.s.2	wat vreemde zinnen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3392.s.3	Myn Nicht , hoe kreegt gy dit ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3397.s.1	Door Karel te beminnen : Verstaat gy my noch niet ?	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3401.s.2	Karel is de man .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3405.s.1	't Is wonder dat een zot dit vuur verwekken kan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3409.s.1	Nicht Anna !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3413.s.1	Dat 's voor jouw .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3418.s.1	My dunkt dat 't best zal wezen , Dat gy haar vast zet , en door slagen laat genezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3430.s.1	Ik zal zo daadlyk haar doen zetten in een kot , Op dat ik haar genees , of maak haar eens zo zot ; En aan haar vader zo van stonden aan gaan schryven , Dat wyl zyn dochter hier gedwongen is te blyven , Dat het noodzaaklyk is dat hy van stonden aan Hier zelver eens komt zien hoe dat de zaaken staan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3430.s.2	Wat Karel nu belangt die zal ik zo besluiten , Dat uit zyn zotheid hier geen zotheid meer zal spruiten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3435.s.1	Zo Karel van dit werk de wetend ' oorzaak was , Zo was hy sluitens waard : maar 'k bid u ...	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3442.s.1	Ik en pas Hier op uw bidden niet , ik heb genoeg vernomen Wat quaat hy hier verwekt : maar zal hier niemant komen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3442.s.2	Hou Klaas , en Marten , hou : waar benje ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3442.s.3	kom eens uit .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3446.s.1	Gy sluit myn leven zelfs , indien gy Karel sluit .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.3450.s.1	Marten , Klaasje , Joris-vaar , Valerius , Anna , Catryn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3454.s.1	Wat isser Joris-vaar !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3454.s.2	dat u zo luyt doet baren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3458.s.1	Iets dat myn hart en ziel te lydig komt bezwaren .	HeavyHeartedness_BodyPart
+focq001mini02_01.TEI.2.text.body.div.div.sp.3462.s.1	Bon jour Juffrouw Catryn !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3462.s.2	wel Tronje sta jy hier ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3466.s.1	Zo gy my nog niet ziet zo opent uw vizier .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3470.s.1	Hoe na zyn deze twee ook van de maan geslagen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3474.s.1	Indienj ' het weten wilt zo moet j ' het Karel vragen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3478.s.1	Ja , ja , ik merk het wel , zy hebben 't al gevat .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3484.s.1	Ik wil haar zo terstont doen zetten in een gat , En met den Doctor noch van daag gaan Consuleeren , Om , eer hoe liever haar dees ziekte te cureeren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3489.s.1	ô Juffrouw Anna !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3493.s.1	Wel ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3493.s.2	wat wil dees Roffiaan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3500.s.1	ô Wysheid !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3500.s.2	hoe gezwint is 't vaak met u gedaan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3500.s.3	Wat staat gy meenigmaal op byster zwakke pooten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3500.s.4	Wyl u den minste wind vaak op uw gat kan stooten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3500.s.5	Maar Joris-vaar , wat droes heeft toch dit vrouvolk in ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3504.s.1	Och vrind , ik weet het niet , zy zeggen 't is de min ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3509.s.1	Ja !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3509.s.2	komt dat van de min , zo doet dit huis vergrooten , Eer dat wy door 't getal malkaar de deur uitstooten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3514.s.1	Wacht , wacht , ik zweer dat ik haar haast genezen wil : Sa mannen vat haar aan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3518.s.1	Nou Juffrouw , houwje stil .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3522.s.1	Wel aan gy rekel , kom ik zal my laten vatten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3526.s.1	Ja , ja , ik hebje al vast , je zult my niet ontspatten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3530.s.1	Houd haar ter degen vast , en leid haar daadlyk in .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3534.s.1	Wel wanneer zult gy my dan geven myn zottin ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3539.s.1	Zo dra als ik dit volk heb in het hok doen steken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3539.s.2	Doch eer zy gaat heb ik nog iets met u te spreeken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3543.s.1	Laat gaan , gy fiel ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3543.s.2	laat los .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3547.s.1	Houd my dat kakebeen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3551.s.1	Ik zeg dat Karel is myn Bruidegom alleen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3557.s.1	En ik zeg dat gy dat hebt door uw hals gelogen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3557.s.2	Want ik , ik ben zyn Bruid .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3563.s.1	Voort , breng haar uit myn oogen , En geef haar numro drie zo lang tot haar verblyf , Tot ik in alderhaast een brief na Haarlem schryf .	None
+focq001mini02_01.TEI.2.text.body.div.div.head.3565.s.1	Achtste tooneel .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.3567.s.1	Reinoud , Leonard .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.3569.s.1	Reinoud .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3579.s.1	Eer dat wy , Leonard , noch uit dees stad vertrekken , Zo dacht my in passant dit Logement der gekken Eens te bezichtigen niet ongeraên te zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3579.s.2	Gints zie ik op de plaats de gekken by 't dozyn , Van 't kermis-volk omringt , haar personagies speelen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3579.s.3	Kom treên wy nader om die vreugt met haar te deelen .	Joy_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.3579.s.4	Maar ziet hier komt ons een van 't huisgezin te moet , Die met een compliment ons op zyn wys begroet : Hy nadert om ons een discoursie te vereeren .	None
+focq001mini02_01.TEI.2.text.body.div.div.head.3581.s.1	Negende tooneel .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.3583.s.1	Klaasje , Reinoud , Leonard .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3589.s.1	Messieurs , met uw verlof !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3589.s.2	wat zyt gy toch voor heeren , En wat komt gy hier doen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3589.s.3	of komt gy hier misschien In dit ons Laz'rus - huis , de zotten eens bezien ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3593.s.1	Ja , uit nieuwsgierigheid , want wy zyn vreemdelingen .	Emotion_Other
+focq001mini02_01.TEI.2.text.body.div.div.sp.3608.s.1	'k Loof zo de zotten in jou land met bellen gingen , En dat de wereld door , de gekken pas als wy Getekent waren met het Lazarusliv'ry , Dat de nieusgierigheid van zotten te bekyken U niet een voetstap breet had van uw weg doen wyken , Mits gy dan weten zout door 't dagelyks gedruis , Dat d ' heele Werelt niet is als een Laz'rus - huis : Want noemt my eens een man , die in zyn gansche leven Niet hondert duizenden van zotheên heeft bedreven , En by aldien gy weet wat dat uw zotheid is , Zo oordeelt by u zelfs , of ik al heel veel mis .	Emotion_Other
+focq001mini02_01.TEI.2.text.body.div.div.sp.3612.s.1	Ik zweer dat deze vent wel een Propheet mag heten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3618.s.1	Hoe zot ik ben geweest , dat dien ik wel te weten , Toen ik met Isabel myn meesters huis ontvlood , En door haar zottigheid de myne heb vergroot .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3625.s.1	Doch om u te doen zien , dat maar alleen in 't binden , Somtyds wat onderscheid in Zotten is te vinden , Schoon niet een mensch op aard zyn zotheid kan ontvliên , Zo treê met my in huis , ik zal 't u laten zien .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3629.s.1	Zeer wel , wy zullen zien of 't geen gy zegt zal blyken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3633.s.1	Wat nieus is 't dat een gek zyn makkers gaat bekyken .	None
+focq001mini02_01.TEI.2.text.body.div.div.head.3635.s.1	Tiende tooneel .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.3637.s.1	Joris-vaar , Reinoud , Leonard .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3642.s.1	Gy Heeren , zo gy hier dit Godshuis komt bezien , Vergeet , zo 't u belieft , geen aalmis aan te biên .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3646.s.1	Zeer wel Patroon , hoe na zyt gy Regent hier binnen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3650.s.1	Die ben ik , tot uw dienst , van veel ontzinde zinnen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3660.s.1	Wel aan , zo 't u belieft , leid ons eens om , myn vrint , En toont ons eens wat slag van zotten men hier vind : Wat het Gebou belangt ; 't lykt , na ik kan bekyken , Dat het voor armen min gebouwt is dan voor ryken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3660.s.2	Ik zie een ruime plaats met boomen fraay beplant , 'k Zie alles even schoon en net naar advenant .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3664.s.1	Hoor vrind , een woortje .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3668.s.1	Wat belieft u ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3674.s.1	Mag het wezen , Zeg my wat Heer dit is : vermits ik uit zyn wezen , En zyn gestaltenis iets groots vermeen te zien .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3687.s.1	Dat weet ik zelver niet , hoewel dat ik hem dien , Vermits het ( dat gy 't weet ) geen dag en is geleden , Dat ik als vreemdeling ben in zyn dienst getreden , Wyl hy my by geval juist in zyn herberg vond : Maar pas gelyk gy zegt , dat gy bemerken kond , Dat hy iets groots moet zyn , dat meen ik van gelyken , Mits hy in al zyn doen iets ongemeens doet blyken , En anders weet ik niet , dan dat hy in den Haag Zyn woonpaaats houd , daar wy noch lichtelyk van daag ( Na 'k uit hem heb gehoort ) weerom na toe vertrekken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3692.s.1	Ik bid u zegt my eens , wat slag hebt gy van gekken ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3692.s.2	En wat voor zottigheid bezit haar harsens meest ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3705.s.1	Ik heb ' er droevige , ik heb ' er bly van geest : 'k Heb Koopluy , die van geld , en wissels disponeeren : 'k Heb Philosophen , die schier eeuwig disputeeren ; 'k Heb Advocaten , en Doctoren , by 't dozyn ; Ik heb Poëten , die schier onverdraag'lyk zyn Met al haar revelen van acht of negen muizen : Met een woord , dit 's het puyk van alle gekken huizen : Maar onder al dien hoop , al grypje by de gis , Zo tast j'er op niet een die niet verlieft en is .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3712.s.1	Hoe is het mogelyk , dat in zo zotte zinnen , De goddelyke drift geplaatst zou zyn van 't minnen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3712.s.2	Daar ik voor dezen dacht , dat nooit de Liefde viel , Dan in een edele , en welgebooren ziel .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3723.s.1	Indien gy immer in een meening waart bedrogen , Zo zyt gy 't nu , myn Heer ; nadien ik het vermogen Zo vreemt vind van de min , dat ik geloof voor wis , Dat buiten hem op aard geen and're zotheid is : Want wyl hier in myn huis ( in wat voor zotternyen Zy ook vervallen zyn ) ik yder een zie vryen , Zo dunkt my heb ik reên te zeggen veilig uit , Dat in de min alleen zich alle zotheid sluit .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3730.s.1	Dus doende , zoud gy meê , wel door die zelfde reden Het hof , ja 't heele Land , met al haar groote steden , Uitschelden , na ik hoor , voor zulk een huis als dit ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3730.s.2	Wyl overal de min schier yders hart bezit .	Emotion_BodyPart_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3741.s.1	En waarom niet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3741.s.2	wyl ik die zelfde zottigheden , Die ooit de liefde werkt in hooven en in steden , Hier daaglyks plegen zie , in een en zelfde graat : Want min , is altyd min , en 't gaat hoe dat het gaat , Het is onmogelyk dat iemand in het minnen , Hy zy , wie dat hy zy , blyft meester van zyn zinnen .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3741.s.3	Zo dat ik nog eens zeg , gelyk ik heb gezeid , De zotheid is de min , en min is zottigheid .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3746.s.1	En ik zeg , dat de min ( een harts-tocht die van allen De eelste is ) niet kan in zotte harsens vallen .	Emotion_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3759.s.1	En ik zeg wederom , gy kalt wat dat gy kalt , Dat nimmermeer de min als in de zotten valt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3759.s.2	Doch om u 't tegendeel van 't geen gy zegt te toonen , En hoe de liefde kan in zotte harsens woonen , Zoo nood ik ( zoo 't u lust ) u dezen avond hier Op zeker huw'lyksfeest , 't geen hoewel per plaizier , Of eer om redenen van ons dus is besteeken , U zal doen blyken , dat de zaak daar wy van spreeken , Aan uw kant vals is , en aan myn zy vast en waar .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3764.s.1	Gy doet my groot vermaak , en zeer veel vriendschap , maar Waar speelt dit huwelyk , en tusschen wat personen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3796.s.1	Ik heb heer dat gy 't weet een broer te Haarlem woonen , Die door de koopmanschap , daar hy zyn werk van maakt , Tot groote rykdom , en hoogachting is geraakt , Dees heeft een eenig kindt , een dochter , die voor dezen , Zoo om haar rykdom als bevalligheid van wezen , Van Jongmans haars gelyk vaak is ten echt verzocht , Hoewel dat noch de min , noit iets op haar vermocht , Misschien om eind'lyk dies te zwaarder haar te plagen ; Dees heeft my in dit huis voor acht , of veertien dagen Wat bygewoont , om het vermaak van deze stadt Wat te genieten , die zy nooit gezien en had .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3796.s.2	Dees by na op het punt van weêr na huis te trekken , Komt by geval te zien een van myn grootste gekken , Die , wyl hy wel gemaakt van lyf en leden is , De onnosle sloof zoo trest in haar geheugenis , Dat ( door de min vervoert ) zy , en verstandt , en zinnen , Op eenen bocht verliest , door deze zot te minnen : Ik sluyt haar op , en ik ontbied haar vader hier , Die 'k noch van daag verwacht , en die met geen pleisiet Gewis zyn eenig kindt in deze stad zal vinden : Ik haal den Docter , die in plaats van haar te binden , Haar raadt t'ontsluyten , en dat men haar vlyen zou , Met haar , aan dezen zot te geven door de trouw ; Op hoop dat door de vreugt , die haar dees schyn zal geven , Haar razerny weerom mae worden uytgedreven ; En dit is 't huwelyk , het geen , hoewel verdicht , Van daag geschiên zal , en 't geen , zoo gy 't uw gezicht Kund waardig vinden , u geen kleen vermaak zal geven .	Joy_Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3802.s.1	Geen aangenamer zaak en zag ik ooit myn leven , Dies is 't dat ik met vreugt d'aanstaande tyd verwacht , En zal hier toeven zelfs , al was 't tot middernacht .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3811.s.1	Het zal zo laat niet zyn , want w ' hebben tyd genomen , Zoo dra myn broeder slechts zal wezen hier gekomen , 't Geen in een uur of twee zal wezen na ik gis , Daarom , wyl dat de tyd zoo kort op handen is , Zoo zal ik , om u niet van hier te laten scheiden , Zoo 't u belieft , terwyl het huis eens door doen leiden .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.3813.s.1	Einde van het vierde Bedryf .	None
+focq001mini02_01.TEI.2.text.body.div.head.3817.s.1	Vyfde bedryf .	None
+focq001mini02_01.TEI.2.text.body.div.sp.3832.s.1	Het is van daag een dag , dat ( spyt dees zotte schyn ) Ik van het kennis-volk hier vrees ontdekt te zyn : Dies wensch ik in een hol te zitten opgesloten , Dat noit de minste straal had van de zon genoten , Om zoo myn vreezend hart t'ontnemen al haar pyn : Te meer , wyl ik van daag quansuys zal bruigom zyn : Gelyk my Joris-vaar verzocht heeft dat te wezen , Om Juffrouw Anna van haar zotheid te genezen , En om haar in de min , die haar vervoert tot my , Quansuis te vleijen door dees huw'lyks veinzery .	Fear_Emotion_BodyPart_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3842.s.1	Ik kom u zoeken , om u veel geluks te wenschen Met iets het geen my maakt d'onlukkigst ' aller menschen : Leef lang gelukkige , doch trouweloze zot , Met uw beminde Bruid .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3846.s.1	Spreekt gy uit ernst , of spot ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3853.s.1	Uit spot ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3853.s.2	ô neen , geensins : wilt dat geloof verbannen : Hoe kan uw huwelyk geschiên met Juffrouw Anne ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3853.s.4	zonder dat zulx is uw wil geweest ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3853.s.5	En zonder dat my zulx ontroeren zou den geest ?	Emotion_BodyPart_Moved
+focq001mini02_01.TEI.2.text.body.div.div.sp.3861.s.1	Hoe is het mogelyk van deze vrouw te spreeken , En van dit huwelyk , uit zotterny besteeken , Zonder te spotten met de zotheid van haar brein ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3861.s.2	Ik bid u veinst dan niet versteurd , en gram te zyn , Om 't geen gy zeer wel weet , slechts enkel jok te wezen .	Emotion_Anger
+focq001mini02_01.TEI.2.text.body.div.div.sp.3867.s.1	In zaaken van belang , en spotte ik nooit voor dezen , Veel minder nu , helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3867.s.2	terwyl gy zyt getrouwd .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3871.s.1	Getrouwd , wat zegt gy ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3875.s.1	'k Zeg 't geen yder zeker houd .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3879.s.1	Hoe kan men trouwen , en daar zelver niet van weten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3884.s.1	Het is genoeg dat men uw huw'lyk af kan meten Uit 't geen besloten is .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3893.s.1	'k Beken , dat dit besluit Wel waar is , maar ik bid , hoor toch wat dit beduit , Dit strekt alleen maar om haar zotheid te genezen , Die haar gelyk men zeid op my verliefd doet wezen , Op hoop door deze vreugt , van dees verzierde trouw , Men met dees boertery haar quaal genezen zouw .	Joy_Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3898.s.1	't Is my onmoog'lyk dit voor jok , of boert te achten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3898.s.2	Nadien dit jok in ernst verkeerd in myn gedachten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3912.s.1	Myn Lief !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3912.s.2	zoo 't anders is zoo wensch ik dat myn hert , Daar nu uw beeld regeert , een nest van slangen wert : Zoo wensch ik dat de min myn ondergang mag zweeren , En dat myn rust , en vree , in Oorlog mag verkeeren : Zoo wensch ik dat myn hoop verstuift , verdwynd , verzwint , Gelyk het lichte kaf voor 't snorren van de wind .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3912.s.3	Zoo wensch ik zelfs dat gy , ô zonne van myn leven !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3912.s.4	De minste straal van gunst nooit op myn ziel mocht geven : Ja dat een onweer van een hollende Orkaan , Het schip van al myn heil aan flenteren mag slaan : Ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3912.s.5	kund gy zulk een quaad dan van uw slaaf geloven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3939.s.1	Meend gy door eeden dan my myn geloof t'ontroven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3939.s.2	ô Neen , integendeel , uit dees geveinsde schyn , Geloof ik dies te meer uw huw'lyk waar te zyn : Maar hoe meêr eeden , hoe oogschynelyker teken Van dat die geen die zweert , gewis vol schuld moet steken , Indien , gelyk gy zegt , dit alles was uit boerd , 't Is zeker dat gy nooit zoo dierbaare eeden zwoerd , Die my in tegendeel daarom voor vast doen peinzen , Dat alles waar moet zyn , 't geen gy ontkend met veinzen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3939.s.4	wat raakt gy my ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3939.s.5	wat raak ik u in 't end ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3939.s.6	Wat is het , dat ik u en gy my schuldig bend ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3939.s.7	Voor my , ik vind geen reên , my machtig te bepraten Van , zoo 'k u gist'ren vond , op heden niet te laten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3939.s.8	Want wat is toch de dienst die gy my immer deed , Waar door ik aan u zou verplicht zyn dat ik weet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3939.s.9	En wat is toch de zaak waar in wy zyn verdragen ; En daar ik reên in zie om over u te klagen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3939.s.10	En waarom moei ik my zoo zeer toch met uw staat ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3939.s.11	Dat my uw huwelyk zoo zeer ter herten gaat ; Gawis , nu zie ik wel dat men niet zonder reden , ( Zot zynde als ik ben ) my in dees zotskap kleedden : Maar nu ( God dank ) weerom geraakt tot myn verstand , Zeg ik u weer adieu , en schuif u van de hand .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3967.s.1	Schuift gy my van de hand , en gaat gy my begeven , Zoo moet ik sterven , mits myn ziel door u moet leven ; 't Is waar , ô Isabel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3967.s.2	dat ik u nooit voor dees , Dan met myn hart alleen , de minste dienst bewees , Maar wat voor diensten zyn toch machtig u te winnen , Zoo men uw gunst verliest , door u te zeer te minnen , 't Is waar 't en is niet lang dat onze minnevlam In onze boezemen zyn eerste oorsprong nam , Maar hoe vaak ziet m'er twee veel jaren saam verkeeren , Terwyl de Minne-God geen macht had haar te deeren , Daar hy in tegendeel vaak in een ogenblik , Twee zielen samen bind met een onbreekb're strik : Daar zyn veel schoonheên , die , in zich te doen beminnen , Alleenig door de tyd vermeesteren de zinnen .	Emotion_BodyPart_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3967.s.3	Maar daar zyn wederom ook schoonheên , welkers licht Zoodanig schitt'ren , dat op het aldereerst gezicht , Een ziel verrast word , die vervoerd , en opgetogen , Terstont zyn vryheid geeft aan twee verwinnend ' oogen ; Zoodanig is aan my uw schoonheit meê geweest ; Indien dat dan de min in een verliefde geest , Een dag van smart en pyn tot duizend jaar kan maken , Zoo is 't reeds duizend jaar dat my uw oog doet blaken : Zoo is 't reeds duizend jaar dat ik als afgodin , In 't binnenst van myn ziel , u aanbid en bemin .	Emotion_EmotionalAction_BodyPart_Love_Sadness_Wonder
+focq001mini02_01.TEI.2.text.body.div.div.sp.3976.s.1	Schoon gy den listigen in woorden tracht te maken , Zoo is 't onmogelyk , dat zulx myn hert kan raken , Mits gy uw wetenschap vergeefs hier in verspilt , Maar wint my door de min , zoo gy my winnen wilt , Nadien onnozelheid , veel meêr , na myn gedachten , Als de welsprekendheid is in de min te achten .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3992.s.1	Indien dat dit zoo is , zoo zweer ik dat de myn , My tot getuigenis kan van myn liefde zyn : ô Min !	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.3992.s.2	wilt toch uw kracht doen in haar boezem werken , Ontdoit haar killig ys , dat zy myn brand mag merken Myn schoone !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3992.s.3	waarom is 't dat dus uw gramschap blaakt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3992.s.4	En dat gy dooden wilt , het geen gy levend maakt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3992.s.5	Is het uw schoonheid niet , die my het hart doet leven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.3992.s.6	En wilt gy , door uw haat , dit dus de dootsteek geven ?	Emotion_Hatred
+focq001mini02_01.TEI.2.text.body.div.div.sp.3992.s.7	Neen , neen , myn waarde lief : keert eindelyk weêrom , En neemt weêr in uw gunst uw trouwste Bruidegom ; Reik my uw schoone handt , op dat met duizend kussen , Ik deze felle brand uw's gramschap mag uitblussen .	Emotion_EmotionalAction_Love_Anger
+focq001mini02_01.TEI.2.text.body.div.div.sp.3997.s.2	ik aan u myn hand , ô neen , gewis , gy ziet , Noch kent tot noch de drift van myne gramschap niet .	Emotion_BodilyProcess_Anger
+focq001mini02_01.TEI.2.text.body.div.div.sp.4001.s.1	Myn ziel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4001.s.2	ik bid ...	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4005.s.1	Staat af .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4009.s.1	Myn leven !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4013.s.1	Ik uw leven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4017.s.1	Helaas ! 't schynt my de ziel uit droefheid wil begeven .	Emotion_BodyPart_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.4021.s.1	Ga heen , en zoekt de hand van Anna .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4027.s.1	Gy alleen , Gy zyt de Godheid , die van my word aangebeên : Myn lief bemerkt gy reets geen tranen in myn oogen ?	BodyPart_BodilyProcess_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.4031.s.2	ik ben een steen , en blyf gantsch onbewogen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4035.s.1	Wel dan , ik gaa my doôn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4039.s.1	'k Zal 't aanzien , koel van moed .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4043.s.2	denkt gy 't geen zy zegt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4047.s.1	En doet gy 't geen gy doet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4052.s.1	Indien ik met myn doot , u kan vernoeging geven , Zoo ben ik vaardig straks te eindigen myn leven .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4058.s.1	Ga sterft indien 't u lust , op dat die tong niet leeft , Die 't schelmsche ja - woort uit uw hals gewrongen heeft .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4064.s.1	Dat ja-woort , 't geen die tong voor u heeft uitgesproken , Dat is , noch kan , noch zal , ooit van my zyn verbroken : Daarom myn Isabel , ik bid dat gy voortaan ....	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4068.s.1	Zwyg ; daar komt volk .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4072.s.1	Daar komt myn grootste vyand aan .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.4076.s.1	Valerius , Ferdinand , Isabella .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4082.s.1	Ik heb hier voor de deur een sleetje laten komen , Waar dat zy heimelyk kan werden ingenomen , Zonder gezien te zyn van d'alderminste mensch .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4086.s.1	Gewis , hy komt om u .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4090.s.1	Dat is het geen ik wensch .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4094.s.1	En zult gy gaan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4098.s.1	Gelyk gy zien zult .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4102.s.1	Droevig scheiden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4107.s.1	Ik quam u zoeken , om u na myn huis te leiden , Mejuffer !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4107.s.2	daar gy hbet dan hier gedient zult zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4111.s.1	Zyt gy d'Ambassadeur van Koning Harlekyn ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4117.s.1	Ik ben hier tot uw dienst : maar gy , hoe gaan uw zaaken , Vriend Karel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4117.s.2	kunt gy hier u zelven wat vermaaken ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4121.s.1	Maar paslyk , wyl gy weet hoe dat myn dingen staan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4126.s.1	Weet gy wel dat ik strax hier heb verlof ontfaân , Van Aagje uit dit huis te voeren na het mynen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4130.s.1	Terwyl uw dag begint , zoo gaat myn nacht verdwynen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4134.s.1	'k Wil haar tot mynent doen genezen van haar quaat .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4138.s.1	Zoo is 't dan zeker dat gy haar vervoeren gaat ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4145.s.1	Wat wild gy , waarde Vrind ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4145.s.2	myn zot-verliefde zinnen , Zyn my aars t ' enemaal onmooglyk te verwinnen ; Dies heb ik om die drift te volgen , dit bestaan , En kom , gelyk myn nicht , haar halen hier van daan .	BodilyProcess
+focq001mini02_01.TEI.2.text.body.div.div.sp.4152.s.1	Hoe danst myn hart van vreugt , kom laat ons dan vertrekken .	Joy_Emotion_BodyPart_BodilyProcess
+focq001mini02_01.TEI.2.text.body.div.div.sp.4152.s.2	Vermits dat ik geenzints getuige wil verstrekken Van 't huw'lyk , dat van daag hier zal in huis geschiên ; Maar laat ons in der yl na d'andre waereld vliên .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4156.s.1	Wild gy , ô Aagje !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4156.s.2	dan met my niet t'huis waard keeren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4167.s.1	Hoe zou 't my moog'lyk zyn u zulks te refusceren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4167.s.2	Gy zyt zoo mooi , zoo net , zoo proper , en galant , Zoo cierelyk bestrikt , bepoeyert , en bekant , Dat ' er geen Juffer is , al was 't slechts om je kleeren , Die niet gedwongen is u gratie t'estimeeren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4167.s.3	Dies geef ik my aan u zoodanig als ik ben : Vermits ik uit uw zwier , en tronie , merken ken , Dat gy wel machtig zyt myn droefheit te verdryven .	Emotion_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.4178.s.1	Wie kan de haat van een vergramde vrouw beschryven ?	Emotion_Hatred_Anger
+focq001mini02_01.TEI.2.text.body.div.div.sp.4178.s.2	Maar zacht , 't zal best zyn , dat ik die verdraag en zwyg , Op dat ik door myn tong geen meerder onheil kryg : Ik ben verzekert dat zy naauwlyks weg zal wezen , Of dat zy door berouw haar gramschap zal genezen , En weder keeren zal : wel nu , gy gaat dan heen , En gy verlaat my dus ?	Emotion_Anger_Remorse
+focq001mini02_01.TEI.2.text.body.div.div.sp.4182.s.1	Vernoegt , en wel te vreên .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4189.s.1	En ik , helaas !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4189.s.2	ik blyf veel droever dan te vooren , Maar echter wyl dit dus van 't Noodlot is beschooren , Zoo laat ik gaan , die gaat , en zoo ik sterven moet , Zoo heb ik noch voor 't minst wel veertig jaar te goet .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4194.s.1	'k Zeg u vaar wel myn vriendt : ik ga met Aagje henen , Den Hemel wil u vreugt op 't huw'lyksfeest verleenen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4199.s.1	Adieu Canalje !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4199.s.2	gaat , zegt aan uw schoone bruidt , Eer dat zy gaat te bedt , dat zy haar neus eerst snuit .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4204.s.1	'k Zal haar de boodschap doen , maar weet vry van gelyken , Dat zoo 't u beuren mocht , gy niet zo bang zoud kyken .	Fear_Emotion_BodilyProcess
+focq001mini02_01.TEI.2.text.body.div.div.sp.4208.s.1	Adieu vyf-kante boer !	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.4210.s.1	Al gaande , en weer uitkomende .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4214.s.1	Adieu boerin in 't rond .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4218.s.1	Gaat heen jou blykers dog !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4222.s.1	Gaat kleine Lier-mans hond !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4226.s.1	Gaat kust de handen aan uw kat van mynent wegen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4231.s.1	Gaat gy , om aan uw Aap zyn achterpoort te vegen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4249.s.1	Uit vrees voor onheil , dacht my 't veinzen alderbest , En om te zien wat eind dat nemen zal op 't lest , 't Aanstaande naberouw van haar versteurde zinnen ; Want ik ben zeker , dat de drift van my te minnen , Alleen haar heeft vervoert tot deze jalouzy , Die in haar heeft gestookt dit vuur van razerny , 't Geen , als zy zich bedenkt , haar voetsel zal ontbeeren , En haar in korten stont voor vast doen wederkeeren ; Nadien , daar eens de min een vaste grontslag leid , Geen twist , noch jalouzy die eerste driften scheid : Derhalven heb ik voor , my zelfs noch stil te houwen , Tot dat ik zie waar op dat ik my mag vertrouwen .	Fear_Emotion_Envy_BodilyProcess_Love_Anger_Remorse
+focq001mini02_01.TEI.2.text.body.div.div.stage.4253.s.1	Philibert , Docter , Joris-vaar .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.4255.s.1	Philibert .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4264.s.1	Met groote droef heit quam ik hier in Amsterdam ; Maar het was weêr met vreugd , dat ik terstont vernam , Dat door de wyzen raad , myn Heer , van u gegeven , Ik onze ziekens quaal haast hoop te zien verdreven , Want nauwlyks sprak ik haar zoo daadelyk van de trouw , En dat ik haar van daag aan Karel geeven zouw , Of daadlyk , door dees vreugt , was al haar smart vergeten , En zy heel spraakzaam , en begeerig om te eeten .	Joy_Emotion_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.4266.s.1	Docter .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4276.s.1	De vreugt van 't huwelyk , daar al haar hoop na strekt , Die heeft haar van de dood tot 't leven weêr verwekt , Want ( als Ovidius lang heeft voorzeit voor dezen ) Met kruiden is de min onmooglyk te genezen , Des acht ik 't van Galeen een byster zotte gril , Als hy met dranken zelfs de ziel purgeeren wil , Daarom is 't best geweest dees raad te appliceeren , Die , als gy ziet , de geest straks in zyn staat doet keeren .	Joy_Emotion_Hope_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.4281.s.1	Met Anna gaat het wel , maar nu myn meid Catryn , Hoe zal het daar meê gaan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4281.s.2	wat raat zal daar toe zyn ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4287.s.1	Daar zal ik daadelyk , zoo dra uw dochter Anne Geholpen is , myn vlyt , en kunst op samen spannen ; Wel aan dan , dat men haar strax brenge voor den dag .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4291.s.1	Ik zal haar halen gaan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4299.s.1	Gaat doet dit broer !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4299.s.2	dees slag Zou wisselyk voor my te zwaar zyn om te dragen , Want dus myn eenig kint , het steunsel van myn dagen , Puur zot , ja dol te zien , was wis voor my een straf , Die met haar wysheid ook myn leven trok in 't graf .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4303.s.1	Zie daar , daar komt zy zelfs .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.4307.s.1	Joris-vaar , Anna , Philibert , Docter .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4314.s.1	Kom fraay , kom in , nicht Anne !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4314.s.2	En wil nu door de vreugt vry al uw vrees verbannen , Maar toont u boven al verheugt , en wel gezint , Op dat uw Bruigom ziet , hoe dat gy hem bemint .	Fear_Joy_Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.4318.s.1	Waar is myn Karel dan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4323.s.1	Gy zult hem strax aanschouwen , Zyt slechts gerust myn kint .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4328.s.1	Zal men ons hier dan trouwen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4332.s.1	Wy staan alleenig maar en wachten den Pastoor .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.4335.s.1	Joris-vaar , stil tegen Philibert .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4342.s.1	Een zeker vremdeling , die by geval , hier door Is komen reizen , en dit huis flus quam bekyken , Heb ik belooft , wyl hy zyn mildheit heeft doen blyken , Dat ik hem het vermaak zou van dees feest doen zien , Indien het Broeder mach met uw verlof geschiên , Zal ik hem halen gaan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4342.s.2	of hebt gy ' er iets tegen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4346.s.1	Neen , neen , gaat haalt hem vry daar is niet aan gelegen .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.4350.s.1	Anna , Philibert , Docter .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4355.s.1	Indien dat gy van daag kunt sluiten dees party , Zoo geef ik u uit vreugt , een zoen tot maakklaardy .	Joy_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.4359.s.1	Denk dochter wie gy zyt , en wilt zo mal niet praten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4363.s.1	Hoe kan ik wys zyn , daar myn zot my heeft verlaten ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4368.s.1	Maar als gy zyt getrouwt zult gy dan strax daar na Weêr komen by u zelfs ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4376.s.1	'k Zeg ja , ja , ja , ja , ja , Want al myn quaad is wind : terwyl myn schip gedreven Door zek're soort van storm , 't behoud is van myn leven , Want wyl ik reets al zie de haven in 't verschiet Die my verlossen zal , zoo gaat die wind te niet .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4380.s.1	Ziet , dochter , wie daar komt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4386.s.2	wat 's dit , gy Ouwen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4386.s.3	'k Dacht dat gy Karel my , myn lief , zoud aan doen schouwen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.4390.s.1	Reynoud , Leonard , Joris-vaar , Philibert , Docter , Anna .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.4392.s.1	Reynoud .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4394.s.1	Met uw verlof messieurs , dat ik dit feest kom zien .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4398.s.1	Gy zyt ons welkom , heer , en doet ons eer geschiên .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4402.s.1	Wat is dit voor een haan ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4409.s.1	Sa , laat hier stoelen komen , En zet de poort vry op , op dat hier zonder schromen , Elk een mag komen zien : en haal ons hier Catryn , Want daar het Bruiloft is daar moeten menschen zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4420.s.1	Gy hebt byloo gelyk , sa laat met duizend monden , Terstont myn bruiloftsdag van 't Oost , tot 't west verkonden , Als zynde nu op hand het grootste huwelyk Dat ooit gezien is in het gantsche Christenryk : Vermits myn Bruigom Vorst Pepyn heeft tot zyn broeder , En dat Angelica wel eertyds was zyn moeder , Die hem by Lancelot in eer en deugde won , Toen hy uit Engeland , te voet ging na Japon .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.4422.s.1	Men brengt stoelen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4426.s.1	Hier hebt gy stoelen , komt , gy Heeren , zet u neder .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4430.s.1	Myn heer , wy volgen u .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4436.s.1	Dees stoel is u gereeder .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4436.s.2	Ik bid u zetje slechts ; Heer Docter , kom zit neer .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4440.s.1	En ik zal moeten staan , wel dat 's een groote eer .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4444.s.1	Nu Joris-vaar gaat heen de Bruigom herwaarts halen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4448.s.1	Zeer wel , ik ga zo heen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4453.s.1	Jupyn wilt u betaalen , Dat gy noch eindelyk myn wenschen eens vervult .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4457.s.1	Belooft gy my dan , dat gy weêr bedaren zult ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4464.s.1	Zoo dra ik ben getrouwt , zal al myn quaal vervliegen , Maar 'k vrees , dat door dees Feest gy my slechts wilt bedriegen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4464.s.2	Doch wacht u dat gy my niet voor de zot en houd , Mits , voor 't genezen , gy my wis bederven zoud .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4468.s.1	Gy ziet hier alles klaar , waar voor hebt gy te vrezen ?	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.4472.s.1	Wel aan , ik ben te vreên , maar wie zal speelnood wezen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4476.s.1	Myn heer , met uw verlof , dat het uw dienaar word .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4481.s.1	Myn heer , gy deed de Bruid en Bruigom veel te kort .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4481.s.2	Ik zal veel liever zelfs de speelnoods plaats bekleden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4485.s.1	Het zal genoeg zyn dat g ' hem in uw plaats doet treden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4489.s.1	Zeg Leonard !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4493.s.1	Myn Heer !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4497.s.1	Gy zult hier speelnood zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4508.s.1	Ik vrees voor ongeluk in deze speelnoots schyn .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.4508.s.2	Mits ik de zotheid zoo besmet'lyk weet te wezen , Dat my dit speelnoodsschap reets doet voor zotheid vrezen , Hoewel de zotheid van dees aangename Bruid , My reets zoo wel bevalt , dat , of ik ben een guit , Ik van die bruidegom , 't geluk schier zou benyen , En liever voor zyn staat , het speelnoodschap liet glyen .	Fear_Emotion_Envy
+focq001mini02_01.TEI.2.text.body.div.div.sp.4512.s.1	Wie zyt gy Fynman !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4512.s.2	die hier zult myn speelnood zyn ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4516.s.1	Ik ben een Edelman .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4520.s.1	Zyt gy gezont van bryn ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4525.s.1	Ik weet niet beter , maar , door veel op u te letten , Zou 't licht'lyk kunnen zyn , dat gy my zoud besmetten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4529.s.1	Geef my uw hand , ik zie jy bend een eerlyk man .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4533.s.1	Gints , dunkt my in 't verschiet daar komt de Bruigom an .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4537.s.1	Wel , treên wy hem te moed om hem te gaan ontfangen .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.4551.s.1	Marten , en Klaasje , met Ferdinand , tusschen haar beiden , aardig op zyn Bruigoms gekleedt , Joris-vaar , met Catrynaan de handt , Philibert , Docter , Reinoud , Leonard .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4557.s.1	Wy wachten , Bruidegom , u vast met groot verlangen : Daar , neem uw Bruid , en zet u samen nevens myn , En gy , Catryn , kom hier gy zult Speel-Juffer zyn .	Emotion_Desire
+focq001mini02_01.TEI.2.text.body.div.div.sp.4566.s.1	Speel-Juffer , ik met haar ? 'k was liever doot geslagen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4566.s.3	is 't noch niet genoeg my hoorens te doen dragen , En niet myn razerny , met dit Speel-Jufferschap , Op nieuws te voeren op den alderhoogsten trap ?	Emotion_Anger
+focq001mini02_01.TEI.2.text.body.div.div.sp.4566.s.4	Neen , neen , ik ga veel eer , en kan dit niet gedoogen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4570.s.1	Blyf staan .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4574.s.1	ô Neen , ik ga : ik ben wat teer van oogen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4578.s.1	Blyf hier , Catryn , men zal dan na een ander zien .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4582.s.1	Ziet hier dees hipocryt , wat zal my noch geschiên ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4589.s.1	Zwyg gy Westfaals gediert ! 'k wil uw geknor niet horen , En schoon dat uw geluk van daag schynt als geboren , Zo acht ik dees uw trouw met Karel niemendal , Mits ik u morgen vroeg hem weêr ontsteelen zal .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4594.s.1	Ik zal , dat zweer ik u , gy Hartogin van Bremen , U met een Capaçon dat kaak'len haast benemen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4598.s.1	Zwyg stil , zottin !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4598.s.2	en draag wat eerbied aan uw man .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4602.s.1	Mag ik niet spreeken ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4608.s.1	Neen : houd gy uw bek hier van , Of ik zal u terstont , indien gy niet wilt zwygen , Met dubbelt koperdraat de kaaken samen rygen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4612.s.1	Zyn dit Caressen dan die my myn Bruigom doet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4617.s.1	My dunkt zy zyn voor u noch meêr als al te goet : Of wilt gy in de plaats veel liever kneppelslagen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4621.s.2	slagen aan uw Bruidt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4627.s.1	Dat 's 't eerste van myn dagen Dat ik dat heb gehoort : hoe !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4627.s.2	zyt gy dan myn Bruidt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4631.s.1	Is dit dan maar bedrog ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4636.s.1	Eer men dit huw'lyk sluit , Zo zal men noch malkaar eens zitten in de hairen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4640.s.1	Nu zachjes , niet te grof , maar laat dees zotheid varen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4645.s.1	Is 't langer zotheid dan dat men de waarheit zeit ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4645.s.2	Of noemt gy ham een zot die uit het trouwen scheit ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4651.s.1	Wilt gy , heer Philibert , 't krakeel niet doen vermeêren , Zo gun dat wy dees Feest eens met een dans vereeren , Die ik flus heb bedacht , van vier van onze maats .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4655.s.1	Dat 's goet : waar is uw volk ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4660.s.1	Zy staan daar op de plaats , Ik zal haar roepen gaan , zo 't u niet zal verveelen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4664.s.1	Maar wie zal speelman zyn om dit ballet te speelen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4669.s.1	Daar naast zit in dat hok een zotte musikant , Die zal ons wel een deun opzagen in passant .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4674.s.1	Sa wakker , roep uw volk , en wild maar strax beginnen , Sa , Robbert , speel eens op , sa jongens !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4674.s.2	kom dan binnen .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.4684.s.1	Daar word gespeelt , waar op Marten , en Klaasje , de eerste intrêe van een Zotte Ballet danssen : de tweede intrée wordt van vier andere Zotten vermeerdert , die al t'zamen als den dans uit is binnen lopen , waar op strax Valerius , met Isabellauitkomen .	None
+focq001mini02_01.TEI.2.text.body.div.div.stage.4689.s.1	Valerius , Isabella , Philibert , Joris-vaar , Ferdinand , Anna , Catryn , Reinoud , Leonard , Docter .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4694.s.1	Wat stoutigheit is dit , dat gy myn huis verlaat , En dus , gelyk als dol derft lopen langs de straat ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4699.s.1	't Is niet Valerius , dat ik voor u wil vluchten , Maar 'k zoek de oorzaak hier van ál myn ongenugten .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4711.s.1	Dees zottin , is puur gelyk ontsindt , Want nauw quam z ' in myn huis , of snelder dan de wind Zet zy 't op een galop , de straat weer op te draven , En heeft niet eer gerust , voor dat zy in de haven Zich van dit huis begaf , gelyk gy haar hier ziet .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4716.s.1	Hoe , Aagje !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4716.s.2	wat is dit ? 't schynt of gy die geen vliet , Die meer als iemant tracht uw ziekte te verdryven ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4726.s.1	Hier is 't alleen , hier is 't dat gy die geen ziet blyven , Die machtig is myn ziel te stellen weêr in Vreê , 't Is waar , ik dacht in 't eerst , dat 't onrecht , 't geen ik leê , ( Vermits 't onmooglyk was de spyt daar van te dragen ) Hem haast voor eeuwiglyk zou uit myn ziel verjagen .	Emotion_Spitefulness
+focq001mini02_01.TEI.2.text.body.div.div.sp.4726.s.3	noch spyt , noch vlucht , had zo veel macht op my , Dat ik my kost ontslaan uit al myn slaverny .	Emotion_Spitefulness
+focq001mini02_01.TEI.2.text.body.div.div.sp.4732.s.1	Wat dat ik heb gedaan , met dreigen , en gebeden , 't Was alles vruchteloos , zy hoorde na geen reden .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4739.s.1	Wat reden ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4739.s.2	hebt gy noch niet uit u zelfs geleert , Dat reden wyken moet wanneer de min regeert ?	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.4739.s.3	Denk dan voortaan niet meer door reden my te winnen , Wyl Karel my alleen berooft heeft van myn zinnen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.speaker.4742.s.1	Leonard , zachjes .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4747.s.2	wat ik zie ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4747.s.3	is 't Isabella niet , Die ik hier op de straat zo jammerlyk verliet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4747.s.4	Gewis dit ongeluk is haar in 't hooft geslagen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4747.s.6	wat verandering reets in zo korte dagen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4752.s.1	Is Karel dan die geen die u bercoft van brein ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4752.s.2	Zo loof ik dat die zot een Tovenaar moet zyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4757.s.1	Versteur u niet , myn vriend , door dien ik van myn leven U nimmer oorzaak heb tot dit verwyt gegeven .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4761.s.1	Maar zeg my Ferdinand , zyt gy getrouwt of niet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4765.s.1	ô Ja , dit is myn ziel die gy hier by my ziet .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4769.s.1	Verrader ! 't is dan waar dat ik u heb verlooren ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4778.s.1	Wyl gy Valerius voor my had uitverkooren , Trouwde ik aan Anna voort , uit enkle spyt alleen , Om dat gy my verliet , en vluchte met hem heen .	Emotion_Spitefulness
+focq001mini02_01.TEI.2.text.body.div.div.sp.4778.s.2	Dies raad ik u voor al , dat , als een kind van eeren , Gy daadlyk met hem gaat na uwe Ouders keeren , Die door uw afzyn gy in duizend angsten houd .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.4782.s.1	ô Schelm !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4782.s.2	het is dan waar dat gy tans zyt getrouwt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4786.s.1	‘ Zy meend het ernst te zyn al 't geen ik haar doe hooren .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4793.s.2	verrader !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4793.s.3	guit !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4793.s.4	wyl ik u heb verlooren , Zo zweer ik dat geen mensch u oit bezitten zal , Vermits gy sterven zult , al veinst g ' u noch zo mal .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4798.s.1	‘ Wie zweert , of zy haar spyt niet op myn kop doet dalen , ‘ En myn historie hier in 't breed niet gaat verhalen .	Emotion_Spitefulness
+focq001mini02_01.TEI.2.text.body.div.div.sp.4803.s.1	Wat meent gy , Ferdinand , verrader als gy zyt , Dat u dit zotte kleedt ?....	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4808.s.1	‘ Ach ! 'k ben myn leven quyt .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4808.s.2	ft .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4815.s.1	Neen , wenkt my niet : meent gy , in deze lappen , Gelyk een zot vermomt , 't recht , en de dood t'ontsnappen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4815.s.2	En meent gy , ( spyt dees schyn ) dat ieder niet wel ziet , Dat gy dien moorder zyt , die Reinoud lest doorstiet ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4820.s.1	Hoe , Reinoud !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4820.s.2	zacht , laat zien : ô Fiel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4820.s.3	gewis ik reeken , Gy zyt die Ferdinand die Reinoud heeft doorsteeken .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4828.s.2	gelooft gy dan de praat van een zottin ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4828.s.3	‘ Ach !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4828.s.4	ik ben lyveloos : ô zotte , en dwaze min !	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.4828.s.5	‘ Gy zyt hier oorzaak van : de duivel haal die gekken , ‘ Die immer aan een vrouw haar zielsgeheim ontdekken , ‘ Dewyl zulks oorzaak is van d'aldergrootste pyn .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4833.s.2	door dit bedrog denkt gy dan vry te zyn ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4833.s.3	Maar neen , ik zweer dat gy de straf hier van zult dragen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4838.s.1	'k Heb over niemand , dan Valerius te klagen , Mits hy de geen is , die my dus bedrogen heeft .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4844.s.1	Wanneer een vrind zyn vriend en raad en bystant geeft , Acht gy dat voor bedrog , zo heb ik u bedrogen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4853.s.2	wat is dat ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4853.s.3	wat zie ik voor myn oogen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4853.s.5	is dit Ferdinand , waar van ik heb gehoort , Dat hem 't gerecht vervolgt , als had hy my vermoort ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4853.s.6	Gy Heeren , zo dees man niet anders heeft bedreven , Dan dat hy , ( als hy zegt ) aan Reinoud nam het leven , Zo laat hem vry'lyk gaan , want hy en heeft geen schuld .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4857.s.1	Uit wat voor reden Heer ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4862.s.1	Geeft u noch wat gedult : Kent gy my Ferdinand ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4867.s.1	Myn Heer , wil 't my vergeven , 'k Weet niet dat ik u oit gezien heb van myn leven .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4872.s.1	En nochtans ben ik zelfs dien Reinoud , die men zeid Dat onlangs in den Haag , door u is neergeleid .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4876.s.2	zyt gy Reinoud Heer ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4876.s.3	en zyt gy weer verrezen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4883.s.1	Ik heb niet dood geweest , daarom verlaat dit vrezen , Wyl ik u zeggen gaa , hoe 't alles is geschiet , En wie het is geweest , die gy quansuis doorstiet ; Waar door schier ieder een tot noch toe is bedroogen .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.4887.s.2	heer , was dan uw doot slechts een verdichte logen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4968.s.1	ô Ja , maar hoor in 't kort , waar uit den oorspronk quam .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4968.s.2	Weet dan , ô Ferdinand , dat my myn minne-vlam , ( Waar door my Celia de boezem had doen blaaken ) Lest dwong op zeek're nacht , ontrent haar huis te waaken , 't Geen ( als gy weet ) naast dat van Leonora staat , Om op te passen , door het waren langs de straat , Of ik geen minnaar in het heim'lyk kon ontdekken , Die my tot hinderpaal in myne min mocht strekken , Vermits ik Celia steets vond zo koel voor my , Dat ik met reden , door een drift van jalouzy , Vermoede , dat zy wis een ander moest beminnen , Aan wien zy heimelyk gegeven had haar zinnen ; Om deze minnaar dan , die ik by daag niet vond , By nacht te zoeken , nam ik voor haar huis in 't rond Zo te bewaaken , dat daar niemand uit zou komen , Die niet van een van ons , zou werden waargenomen : Ik zelfs gaa met myn driën ontrent de achterdeur .	Emotion_Envy_BodyPart_BodilyProcess_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.4968.s.3	En laat myn eene knecht met drie vier and're veur , In 't midden van de straat , wat heen en weder treden : Dees knegt , die had ik juist in myn gewaad doen kleden , En last gegeven dat m ' hem Reinoud noemen zou , Vermits ik Celia daar door bedriegen wou , Want ik had hem belast ( na 't geen was voorgenomen ) Zich te vertoonen , als hy Celia zag komen , Wanneer 's haar minnaar zou geleiden aan de straat ; Want hier door dacht ik haar te vinden op de daat , Om haar dan naderhandt te kunnen overtuigen Van 't geen ik had gezien : om zo haar hart te buigen Tot een bekentenis van dees bedekte min , Waar door dat zy van my vervreemde ziel en zin ; 't Was dan in deze stand , dat wy te wachten stonden , Wanneer gy van myn knegt wierd aan de deur gevonden Van Leonora , die hy , door een groot abuis , Aanzag voor Celia , bedrogen in het huis : Hy toont zich dan aan u , gy raad hem te vertrekken , En vraagt wie dat hy is ?	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.4968.s.4	hy om zich zelfs t'ontdekken , Gelyk hem was belast , zeid dat hy Reinoud is ; Gy ( die als vreemdeling , myn naam , na dat ik gis , Licht zelver niet en kon , 'k laat staan myn spraak en wezen , Trekt hier op straks van leer : waar uit voorts is gerezen , Na weinig morgen-spraak , dat wederzyts gevecht , Waar in gy hebt gequetst dees myn vermomde knecht , Die naau ter aarde lei , of straks zyn maats aan 't roepen , Dat Reinoud was doorwond , waar op uit alle stoepen , Toen gy de vlugt verkoost , straks zo veel volk verscheen , Dat , wyl dat men myn knecht droeg na een herberg heen , De gantsche straat hem zag voor dood ten huis in dragen , Waar door terstont 't gerucht van dat ik was verslagen , Zich zo verspreide door de buurten van den Haag , Dat op dit eerst gerucht , terstond , voor dauw en daag .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4968.s.5	Het Hof wel hondert man uitzond , om u te zoeken , Wyl ik , zulks hoorende , my zelfs in d ' andre hoeken Verschool , om hooren of myn dood de minste rouw In 't hart van Celia , wel oit verwekken zouw ; Doch op dat niemand in den Haag my mocht ontdekken , Besloot ik daadelyk na Amsterdam te trekken , Na dat ik aan myn volk , en al myn knechts gebood , Te veinzen over al , als was ik waarlyk dood , En dus ben ik tot noch , hier t'Amsterdam gebleven , Waar ik van daag een brief , my van een vriend geschreven , Met vreugt ontfangen heb , die my wytloopig melt , Hoe zeer zich Celia heeft om myn dood ontsteldt : En voorts , hoe dat het Hof ook reets heeft ondervonden , Dat men te haastelyk het volk had afgezonden , Vermits dat 's anderdaags op 't onderzoeken bleek , Wie den gequetsten was , die , hoewel door een steek Ontrent de milt geraakt , geen prykel liep van 't leven .	Joy_Emotion_Loss_BodyPart_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.4968.s.6	Zo dat gy Heeren ziet , dat 't geen daar is bedreven , Niet anders is geweest dan door onkundigheit , Die meenigmaal den mensch tot groote dooling leit , En nu tot ons geluk zo wel is uitgevallen : In 't kort , dit werk weêr doet vergaan tot niet met allen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4968.s.7	Gy dan , Heer Ferdinand !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4968.s.8	zet al uw vrees ter zy , En keert vrymoedelyk weêr na den Haag met my , Waar dat ik morgen voor den avond hoop te weezen , Om van myn Celia myn brand te doen genezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4974.s.1	Voor dit gelukkig endt geef ik den Hemel dank , En blyf uw dienaar , Heer , voor al myn leven lank .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.4981.s.1	Gewisselyk ik zie , die dees voor zot versleeten , Dat men met grooter recht die zelf eer zot mag heeten ; Doch zeg ons , Ferdinand , wie is nu dees zottin , Die om u , na het schynt , ontsint is door de min !	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.4988.s.1	Dit stuk raakt my alleen , om , wie zy is , t'ontdekken , Zo ik haar haat op nieuws niet vreesde te verwekken : Mits ik haar Vaders knecht veel jaren ben geweest , En zelf licht oorzaak van het hollen van haar geest .	Fear_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.4993.s.1	Zeg ons , hoe dat zy hier is voor dit huys gekomen , Waar wy uit medely haar hebben ingenomen .	Emotion_Compassion
+focq001mini02_01.TEI.2.text.body.div.div.sp.5014.s.1	Schoon dat my dit verhaal ligt strekken zal tot schand , Zo weet dat ik haar heb gevoert uyt Gelderlandt , En uit haar Vaders huis ; die ik , hoe hoog geboren , En edel dat hy is , u zal daar na doen hooren ; Ik bracht haar vluchtende dan hier in Amsterdam , Waar ik ( wyl tusschen ons een zeekre scheuring quam ) Als meede in myn gemoed , een schrik voor haar heer Vader , Haar jammerlyk verliet , na dat ik haar te gader , Juweelen , kleedt en geldt afhandig had gemaakt ; 't Geen ik haar al te zaam , geheel en ongeraakt , Zo dra het haar belieft beloof weerom te geven .	Fear_Emotion_BodyPart
+focq001mini02_01.TEI.2.text.body.div.div.sp.5014.s.2	Voorts denk ik , dat hier door , door wanhoop aangedreven , Zy hier in 't Las' rus-huys geraakt is , als ontsint , Waar zy nu als gy ziet dees Edelman bemint ; Door wien , wyl dat zy hem in zotten schyn beminde , Ik wensch dat zy haar heil en wysheit weer mag vinden .	Emotion_Love_Despair
+focq001mini02_01.TEI.2.text.body.div.div.sp.5014.s.3	Vergeef my dan myn fout , Mejuffer Isabel !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5014.s.4	Wyl ik my weer op nieuws tot uwen dienaar stel .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5022.s.1	Zeer wel : 'k vergeef het u ; maar gy , denkt vry , gy Heeren !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5022.s.2	Dat Ferdinand alleen , zo ik hem moet ontbeeren , Op nieuws zal oorzaak zyn , dat in myn razerny , Men eeuwig in dit huis bestel een plaats voor my .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5027.s.1	Om eeuwig dan dit slag van zotten niet te houwen , Zo dunkt my was het best , dat men haar t'zaam deed trouwen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5033.s.1	ô Neen : Valerius , die 'k weet dat haar bemindt , En aan wiens trouw ik my op 't hoogst verschuldigt vind , Die acht ik waard dat luk te worden aangeboden .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.5041.s.1	Dit is de liefde , door gewelt en vrindschap dooden : ô Neen , myn waarde vrindt , u beider ziel en hart , Zyn al te vast verknocht , om met zo wreden smart , Van een te zyn gescheurt door myn lafhartigheden ; Neen , neen , bezit elkaar veel duizent jaar in vreden .	Emotion_Love_Sadness
+focq001mini02_01.TEI.2.text.body.div.div.sp.5052.s.1	Ach vriend !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5052.s.2	uw ed'le ziel , die 't alles overstreeft , En die ten tweedenmaal my nu het leven geeft , Verplicht my zo op nieuws , dat ik dat zelfde leven , Voor eeuwig in uw dienst met blydschap wensch te geven .	Joy_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.5052.s.3	Doch gy , myn waarde lief , die met zo teeren bandt , My aan uw trouw verbind , wel aan , reik my uw handt , En wyl nu al 't bedrog en 't veinzen is verdweenen , Zo neemt my voor uw man , en voor uw slaaf met eenen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5057.s.1	Neemt niet alleen myn hand , maar ook myn ziel daar by : En wint voor eeuwiglyk een dienares in my .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5069.s.1	Men dient , met deze vreugt alleen niet op te houwen , Maar als tot slot van 't spel , dient al de rest te trouwen .	Joy_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.5069.s.2	Gy Heer Valerius , u is alree bekent Wie Juffrouw Anna is , en voorts hoe dat in 't endt , Haar trouw met Ferdinand slechts veinzery geweest is ; Indien ' er noch een drift van trouwen in uw geest is , Zo vind ik raadzaam , dat ik zelf als koppelaar , Op nieuws een huwelyk maak tusschen u en haar .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5076.s.1	Myn Heer , in groote waard zoud ik uw voorspraak achten , En zelf met al myn vleit na zulk een huwlyk trachten , 't Geen my niet anders dan een groot geluk belooft , Was deze schoone slechts niet van verstand berooft .	Joy_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.5085.s.1	Indien ' er niet en is , dan 't missen van myn zinnen , Waarom Valerius my niet en kan beminnen , Zo heeft dees zwarigheit zeer weinig prykel in : Want schoon dat ik my zelfs zot veinsde door de min , Zo heeft dees zotte drift my zo niet konnen raaken , Of gy kunt , zo gy wilt , my weêr verstandig maaken .	HeavyHeartedness_Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.5089.s.2	dochter , zyt gy weêr geraakt tot uw verstandt ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5094.s.1	'k Zeg , Vader , is 't uw wil dat ik terstondt myn handt Geef aan Valerius , om hem my zelfs te geven .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5099.s.1	En ik zeg ; is 't haar wil , dat ik myn gansche leven Gelukkig achten zal , zo 'k haar als Bruidt geniet .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5105.s.1	En ik zeg wederom , wyl d'eene zotheidt niet , Dan door de andere , gestilt wordt en genezen , Dat gy haar Bruidegom , en gy zyn Bruid zult wezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5110.s.1	Heb dank voor deze gunst , ô waardigste zottin !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5110.s.2	Gy word de myne dan , na dat ik het bevin .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5115.s.1	Hoe kan ' er oit zottin een waarder Bruigom vinden , Dan die zo wel als zy de zotheid zelfs beminden .	Emotion_Love
+focq001mini02_01.TEI.2.text.body.div.div.sp.5123.s.1	Gy Heeren Trouwers !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5123.s.2	en gy Koppelaars met een , Hoe nu ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5123.s.3	laat gy my hier dus ongetrouwt alleen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5123.s.4	En ben ik wyzer dan als al de rest te houwen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5123.s.5	Dat , wyl gy zotten trouwt , gy my niet meê wild'trouwen ?	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5127.s.1	Catryn heeft groot gelyk , men schaft haar meê een man .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5135.s.1	Zoo een gebeetje my hier toe wat helpen kan , Messieurs , zo schaft eens raadt , dat iemand pas als dezen Zo zot gaat worden , en myn Bruidegom wil wezen .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5135.s.2	Of 'k zweer , ik word wel haast dees zotte grillen moe , En keer , gezond en wys , weerom na Haarlem toe .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5142.s.1	Tast toe Catryn !	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5142.s.2	ziet hier , hier heb j ' een zot gekregen , Die zot geworden is , zo straks van uwent wegen ; En die , indien je wilt , voort zo zot worden gaat , Dat hy u by zyn hand terstont de koop toe slaat .	None
+focq001mini02_01.TEI.2.text.body.div.div.sp.5147.s.1	Tast toe , daar is de myn ; doch of 't u mocht berouwen , Zo moet g ' uw zotheit zelf als oorzaak daar van houwen .	Emotion_Dissapointment
+focq001mini02_01.TEI.2.text.body.div.div.sp.5152.s.1	Na zo veel vreugt by een , gy Heeren altemaal , Zo bid ik niet te gaan dan na het Avondmaal .	Joy_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.5157.s.1	Dees eer is onverdient , doch echter dus te scheiden , Na zo veel vreemt geval , dat wil de vreugt niet leiden .	Joy_Emotion
+focq001mini02_01.TEI.2.text.body.div.div.sp.5162.s.1	Wel treet dan t ' zamen in , op dat met dit gedruis , Met eenen einden mag de min van 't Laasrus-huis .	None
+focq001mini02_01.TEI.2.text.body.div.div.p.5164.s.1	EYNDE .	None

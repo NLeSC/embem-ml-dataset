@@ -1,0 +1,976 @@
+vond001pala01_01.TEI.2.text.body.div.head.375.s.1	J.V. Vondelens Palamedes of Vermoorde Onnooselheyd .	None
+vond001pala01_01.TEI.2.text.body.div.head.375.s.2	treurspel .	None
+vond001pala01_01.TEI.2.text.body.div.head.376.s.1	doen eerst handelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.378.s.1	PALAMEDES .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.1	DIe zorgen , en waken , en slaven , en draven , en ploegen , en zweet , En tot zijn land oorbaar vasten een lastig ambt betreden , En wanen doen mens aen zijn ' vroomheid te verbinden ; Die zullen zien jammerlijk in het einde ' bedriegen vinden , vinden het wispelturig volk ; die velen te lossen vinden hoofd , genieten dienst vergeten , en leed het kwaad geloven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.2	wat dorperheyd zijn deze , onedel gemeente ; Wat bits nijd verteren hebben merg in u gebeente ; Wat dolheydt uw vervoeren ?	Emotion_Hatred_BodyPart_BodilyProcess_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.3	die gij uw heer honen , En mede zo vals een munten u ' troutste vader lonen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.4	komen roekeloos schaarde , treden voorts , ik zijn te wreed Te ding , om het geschil , te vierschaar vinden doen reden ; doen vrijen uw stuk daar ; brengen vinden u zeggen blijk ; Op die rechtvaardigheid een billijk vonnissen strijken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.5	gij zeggen , alles nu doen wraak , om Trojen om te karn , onledig houden de raad de koning en heer ; die ik gedaghvaert komen , en schonen zijde altemael besluiten het eerloos feit te recht mede hebben staal ; nog zeggen ik : het wassen bij heen te heftig opnemen , En datmen tijd genoeg zij tot hebben uytterst ' komen .	Emotion_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.6	waar uytmen vatten mogen , die ik het meinedig rijk Meer gul toedragen alles wij , kwetsen door het ongelijk ; ik antwoord : hebben besluit zijn liggen om weerleggen , Vermits deze geenszins volgen uit hebben voorgaand zeggen ; mare eer hebben tegendeel : wan die ik lief zien doen zaak in vrede beslechten , bij middel vinden verdrag , zijn waar en lovens waarde : en wij ontkennen wat plaag , Bellone mede zien slepen , mede droef nederlaag , gevaarlijk voor het gemeen ; wie welvaart ik mede druk , En angst zien hangen in doen weegschaal vinden het geluk .	Fear_Worry_Emotion_Sadness
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.7	die ik Priaem dan node mede krijgen zien aangrijpen , wassen om de Phrygen tros te weer vinden wij ' schip ; wassen om Achilles niet mede Hector onverveert Te worstelen doel om het ramp , of zij , of wij bescheert .	Emotion_Pride
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.8	Hier bij en rusten ' et niet , ik smijten ik voor doen scheen , die ik doen koning vinden Sparten , en Mycenen , mede al doen vorstin , alles wie zet ons voeden Op Dardans bodem , wouw versmoren in zij bloeden ; Om die ik , alsmen hebben geven het bloedig teken , doen vlieden , nog vers landen , vinden d'oevers af doen steken , En hielme binden boord , het gelijken wat , wistme niet die deze door enkel lassen de Veld-Heers waar geschieden ; Die , alles wie het aarzelen de bang Krijghslien vrucht , zij al troosten , en hopen benemen wouw vinden vlucht , En moedigen tot slaan , wanneer doen node heen doen aanlopen op hebben spits , of het zwalp vinden doen Zee .	Fear_Emotion_EmotionalAction_Hope_BodyPart_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.9	nog wilmen ik te lijf , om die ik driest , en stout alles ander , eer Iphigeen nog verven het bloedig outer , hebben offeren marren doen , en het stuk lei in beraad ; Of juist onnozel bloeden , en Agamemnons zaad , doen grimmig Hecate mos paaien , en verzachten ?	Emotion_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.10	Dan ofmen haar een Hinde , of teren Geyt zij slacht ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.11	Een ' zaak die zich schamen , rechte of hij iets verbeuren , Die Chalches in zijn ' wan , en schelmze droom storen .	Emotion_Shame
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.12	En daar aen twijfelen slaan ; of god en Godessen , In het grouzaem moord vinden geheylighde prinses bedragen nemen ooit ; gelijk de god tolk deze grof logen veilen voor waarheid aen hebben volk ; die voor hij neervallen , en feest maken vinden het vernielen , En het ommebrengen vinden zo velen ' gedoemde ziel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.13	ik stroyt om zijn veldheer haten te scherpen tegen ik ; die ik besnoeien willen doen wettig voogdij de twee gebroeders , en d'opperste de griek trek op Achilles zijden , en trachten bedekken hunn ' wiek Te kort , waar ik mogen ; het welk uitbarsten lang hoe meer , mits ik mede hengst vinden het veroveren Lesbos kaar , mede Hooren-beesten , en een ' hopen geboeyde slaaf ; mare het gouden verloochenen , om behendig t'ondergraven hebben steunsel zij macht ; dewijl elk , alles zijn ' God , die aenbid , die hij strekken tot voordeel , en genot .	Emotion_Hatred
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.14	Dan om die laster plaats te geven , ik doen vorstin houden t'edel vinden gemoed ; en geren ' doorluchtig borst Gevoelen deze vinden ik , die Menelaus , mede zijn ' ouder Broeder , hebben merken , en uitzetten Tot hoofd vinden de tocht , alles het veel hebben verdrieten , En dragen zij op het beleid vinden wij ' beroemd vloot ; doel Chalches op heen smaelde , en uytspoogh vieren en vlammen , Om dat dalen vinden zo Goddeloos een ' stam .	Emotion_Sadness
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.15	die ik brandmerken worden mede zo een onrijp oordelen , alles die de roven misbruik tot een bijzonder voordeel , En Chirons voesterling zoeken voor te trek : neen , ik kunnen , en dank het de god , het bijzonder vinden het gemeen voorzichtig schiften , en elk een hebben zijn verschaffen : ik handhaef ieder rechte , en passen op niemand blaffen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.16	elk vrijheid zijn doen ik ': die veeg ik in een ' schaal : wij hier uit vrees deyst , ik staan gelijk een paal .	Fear_Emotion_EmotionalAction
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.17	dreigen Palamedes vrijen te moord , en te priem , hij blijven doen zelf manna , al snijden gij hij aen riem : En dragen zien naar zijn ' plegen getrou , oprichten , en kuis : ik soecke hij waar ik willen , hier liggen d'Euboeer thuis .	Emotion_Loyalty
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.18	Voorts die ik Thestors zode zo vaak hebben doornemen : het zijn waar , ik denken het wassen tij zijn hoovaerd te betomen : Om die hij verder alles doen kerk en het Outer goed , En snuffelen komen , uit baten , en staetsucht in de raad .	Emotion_Greed_Pride
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.19	hij zijn een vreemdeling , ja een Trojaen baren , nog kennen doen zede niet die tot wij landen behoren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.20	nog wat wij welvaart eyscht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.21	hij wet zijn verstaan In het geren zijn ambt betreffen , en kruype in het ingewand de dier mede zijn ' geest , en staren op zijn hemel licht : hij letten op voglenzang , op droom , en gezicht , Op godsspraak , en geheym , en hang'er niet wat bij vinden het zijn , of lust'et hij , elk hebb ' zijn oordelen vrijen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.22	mare het zijn te schandeloos , en strijden mede al ik daad , die ik zijn omkopen , om het leger te verraden : die Paris , om mede ik te handelen vinden die moord , lach zijn nacht mede een galei , mede gouden laden , aen boord .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.23	die ik de oorlog schorsen , en uitstel nemen teen dag , Om wij t'ontwapenen , en dan hebben stuk te waag , mede meerdre zekerheid .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.24	Apollo die u ' tronen , En zetel hebben bouwen in het mijden vinden doen god , En mede u ' klaarheid blussen doen goddelijk lamp , En vinden hebben aardrijk vegen doen nevel , en damp : gij zien in deze nacht , en voor u ' majesteit , de zulk schennis stuiten op mijn onnooselheyd .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.25	diets ik ' besolding dan , voor die ik mede bezwaren Tot de Argiven heil geslaeft hebben zo velen jaar : mede wijsheid , raad , en daad het bouwvallig rijk stutten : doen storm afgeweert , en op ik ' barsten schudden : De boef vermommen mede schijn vinden Godsvrucht en vinden heyligheyd : ontdekken , en Pelops hof , en het landen herstellen in veyligheyd : uitheems balling vinden Have , en huis beroven , lokken , gewellekomt , en in ik ' schieten stoven : vergroten de stellen kreyts , en omloop de muur : Tot Grieckens helpen verplichten gekroond nabuur : mede kiel ingesleept de oogst die het oosten lezen : ja daar doen naald zwijmen , staan naar vrijen passen : Ulysses achterhalen : hebben heyr , alles het scheiden verlaat , Door honger node , spijzen : geoefend wij soldaat : doen deugd de Peleaens verstalen mede kloek beleid : D'eylanden , en doen steen , aen Helles stranden , ontseyd : steenrots uytgehoolt , en stuk land vergraven : Nu hier een schans leggen , dan ginds diepen een have : t'Abyde in doodsgevaer ik vromigheid brengen : daar ik wonden waard op de aenslagh in de nacht : daar doel Achilles week , alles het naulijcx wassen beginnen , nog voor de morgenstond doen vesting waard gewinnen : En hebben ik d'ongunst vinden wij prins niet gevreesd , Lyrnes voor ik vertrekken veroveren waar wezen .	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.26	mare wat beschuldig ik een wuft , en dom gepeupel , die naar de voortgang vinden zijn Heer goed rechte , of kreupel : daar doch Laertes zode , die op een grootren botten , ik mede zijn rijcx wichelaar , al deze moeite brouwen , En naar ik leven staat , en goed zijn ' zin spits , Om het krijgsvolk tegen ik dolkoppigh op te hitsen , zijde brullen lang hoe meer .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.27	waar of ik goed verschuilen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.28	wij blijven die lijden gevaar : wij vlucht die schoutmen veulen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.29	ik denken , de jong nacht , die ik voor ander rad , beklimmen de schaeckers burcht , en vechten op een ladder opgeven de Geest , daar ik de vijand bezig houden , En mede een groots stuk muur pletten te aarde vallen ; doel schieten ik op , en schonen ik niet op d'ydelheden vinden spook , of droom passen , nog liggen ik op doen lid Of d'eene of d'andre ramp , ik ' streng dwaelstar ook Voorlang te Troje in het veld ik beide oogappels look .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.30	doen wichelaar ik niet alles ongeluk spel ; Doch een manhafte ziel moeten deze te zijden stillen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.31	Heer Vader , die ik erven de zegenen vinden u ' Kroon , hebben gade mede ik zo het willen ; ik blijven u echt zoon vinden bloeden , en vinden gemoed , en zullen uw niet ontaarden In vromigheid , in trouwen , in het mijden vinden doen zwaard , In het mijden vinden doen nijd , en lastering : daar ik goed nader , en faam ik worden bedrukken zo zwaar .	Emotion_Hatred_BodyPart_Loyalty
+vond001pala01_01.TEI.2.text.body.div.sp.557.s.32	ik weten waar op ik steunen , ik ongekreukt weten En zijn niet quaeds bewust , nog hebben zich nooit vergeten Aen enig schendig feit ; en zo ik daarom lijden , zo was ik edel bloeden een ander schelmerij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.558.s.1	rijden vinden EVBEERS .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.558.s.2	rijden vinden ITHAKOISEN .	None
+vond001pala01_01.TEI.2.text.body.div.sp.572.s.1	wij Krijslien pas op wij beuren Rondom Neptunus muur ; Terwijl de Hemel starloos treuren , En tellen doen slepen uur .	Sadness
+vond001pala01_01.TEI.2.text.body.div.sp.572.s.2	doen naar luchten nu schreien en zucht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.572.s.3	Hoe lang zullen hebben duren ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.572.s.4	doen middernacht herhalen haar schade mede dick're duysternissen : Slaghregens dekken Cynthia , Dies wie haar aanschijn mis .	None
+vond001pala01_01.TEI.2.text.body.div.sp.572.s.5	wie vroomheid zullen , mede Trojens vallen , het beginnen oorlog slissen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.573.s.1	R.V.I.	None
+vond001pala01_01.TEI.2.text.body.div.sp.580.s.1	d'Euboeer afkomst zullen mede dwang Mars teugelen te lest : mare niet mede Trojens ondergang , En het storten vinden deze ' vasten ; mare mede deze aard , door Hectors zwaard , vinden lijk vet te mest .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.581.s.1	R.V.E.	None
+vond001pala01_01.TEI.2.text.body.div.sp.588.s.1	Die zwanger gaan vinden guytery ons Prins hier ik betighten : Om datze minderen zijn alles hij , En niet voor uit en licht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.588.s.2	Dus trachten doen nijd zijn ' faam vinden spijt , velen ' logen op te dicht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.596.s.1	Wat zucht hij in zijn ' boezem dragen zijn vaak aen hij gebleecken : Die het heyr op zijn vijand bodem wagen , En dan vinden vrede willen spreken : Die veinzen , en sluypt , en onderkruipen Al d'opperste de griek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.611.s.1	Aen hij , wie tong vinden Nectar dout , En dragen vergif inwendig , worden eer deze ' schalckheyd toevertrout , En wat achten voor schendig : Die hof , en zadel , mede logentael Stofferen kunnen behendig .	None
+vond001pala01_01.TEI.2.text.body.div.sp.611.s.2	wij vorst zoeken op geren ledikant Mycenen te beschermen : hij ploegen niet aen d'onvruchtbre stranden , Op die hij mogen verwarmen zijn ' bedgenoot : die in haar ' schieten hij kussen , en nemen in arm .	EmotionalAction_BodyPart_Love
+vond001pala01_01.TEI.2.text.body.div.sp.619.s.1	hebben log slachten vinden Ithaca , die achter liggen gekroopen , zijn niet zo vurig nergens naar , Om hoplien op te lopen , gelijk u Heer , die mede zijn ' speer komen achter aen druipen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.627.s.1	Wat Palamedes durven bestaan die bleek , doel hij in het land hebben volk doen in slagorde staan , En redden vinden verbranden , En strandens node , wij ' trots vlieden , alles het leger week mede schande .	None
+vond001pala01_01.TEI.2.text.body.div.sp.635.s.1	het zijn waar , wie kennen zijn man bedrijf , hebben berg vinden doen kiel , wassen het berg vinden zijn eigen lijf , doel zo veel held vallen : doel hij doen dood de rug bieden , mede wiek aen zijn hiel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.643.s.1	Hoe d'onverbiddelijcke Tracx hij lenen gunstig oor bleek , doel hij het heyr vertrooste straks mede graan , en weeldigh koren : daar hij het u ' Vorst , ontzeggen dor , doel het leger scheiden verliezen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.652.s.1	Ulysses droeghmen geren ontzag , Wat wassen aen hij bedrijven : Die niet uit Argos schatkist mogen zijn ' paard voeder geven : noch aen de dis de veldheer zijn gezien en oog verheffen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.660.s.1	hij zijn te wreed mede zijn erve , En zijn Heer vader leen , Al goed alles hij , die rome durven Op Ithaca vinden steen , En kleppen woest , en groots , wie oogst zijn slecht alles wie menen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.668.s.1	mare waarom stoffen deze volk aldus Op zijn erf-Koninckrijcken ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.668.s.2	hebben niet doen Vader Nauplius Voor prins moet wijken ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.668.s.3	En tot zijn heil , doen vlag , en het zeil Voor minder moet strijken ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.676.s.1	het wassen Nauplius wie wijsheid vaak velen ' koning verzoeken , En houden mede al vorstin spraak , Op velen ' manhafte tochten : doel zijde wel eer , vinden heynd en ver , geschenk tot hij brengen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.684.s.1	waar het vreemd die Palamedes dan ons heyrkraght gaan verraden ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.684.s.2	vermits hij muil stal kunnen mede schat zwaar laden ; gelijk doen stam daar hij af komen , geren gift kosten versmaden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.699.s.1	verdiend hij een brandteecken , die Tot onzes staat verkleinen , ik meest verrijken mede gift zien : markt deze niet , mare gene : wie goudsucht boos , en Goddeloos , vinden zijn gelijk ' niet een .	None
+vond001pala01_01.TEI.2.text.body.div.sp.699.s.2	steil Neritos vol kleppen hebben nooit woest die ontvangen alles hij , die schelms en onbeleefd betrouwen zijn ' slim gang : Die liegen , en stout zijn ' verf behouden , schonen hy'r in worden gevangene .	Emotion_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.707.s.1	Ulysses die op Calches steunen , En wij ' gebroederheeren , zien deze laster niet bekreunen : zijn ' vroomheid zalm eren ; mare wij de helm , voeren alles een schelm , die zullen doen tijd wij lederen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.715.s.1	Drael lang , nul blond Phoebus !	None
+vond001pala01_01.TEI.2.text.body.div.sp.715.s.2	drael , schouwen eeuwig ons kim : D'ondanckbre Grajen niet bestralen , Die lang hoe meer verslimmen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.715.s.3	waar vlijen wie ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.715.s.4	wat razernij komen uit de affront klimmen ?	None
+vond001pala01_01.TEI.2.text.body.div.head.718.s.1	doen tweede handelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.721.s.1	SISYPHUS .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.721.s.2	MEGEER .	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.1	waar zijn ik SISYPHUS , matten vinden op te stijgen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.2	Nu scheppen ik weder lucht , nu kunnen ik ademen krijgen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.3	waar zijn ik ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.4	in wat nacht ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.5	Megeere die ik jagen , Nachtmerri , oud Kol , hoe hebben gij wij plagen , mede u ' bebloede zweep en peckstock onderweg , Eer ik een ' doorgang hebben , na'et boven volk krijgen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.7	in de dag , of in een ' blydre nacht , alles d'onderaerdsche poel ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.8	waar mogen ik dolen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.9	zeggen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.10	waar vinden ik Hecate ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.11	waar flonckeren doen ster ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.12	Wanschepsel , die geren ' grijns behoeven , nog kunde ontwarren Vw ' pruik : die gruwelijk krielen vinden zwarte slang , zeggen waar dwaal ik ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.13	op wat spoor ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.14	waar liggen wij deze weg ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.15	ik dunken ik horen geblaf vinden hond , die wij ruiken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.16	Swygt rekel , luisteren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.17	zus , helpen Cerberus ! het zijn griek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.18	ik zijn in Pelops rijk , of in ik oud gebied , t'Ephyren , die goed wel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.19	Momaensicht horen gij het niet ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.20	wij zijn t'Ephyren : daar doen mens vinden ik ' treek , En boevestucken , mede een groots afgrijzen spreken , En Minos vloek , alles zijde horen die ik ' straffen Niet zwaar wegen , alles het wight een steens bergen op bergen af Te wentelen , natten vinden zweet , in d'onderaerdsche kelder .	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.21	Kolryster raden ik rechte ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.745.s.22	zeggen op , of zijn wie elders .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.747.s.1	ik .	None
+vond001pala01_01.TEI.2.text.body.div.sp.755.s.1	In Troas staenwe , niet in Isthmos : in het gezicht vinden Ilium , daar nu hebben Dorisch Leger liggen , In het vlek , en openen veld : vinden waar wie koorts vernemen Die bleek schim , die wij treurig tegen komen , besprenkelen vinden velen bloeds , houwen , en kappen , mishandelen , en mismaakt , zengen , kwetsen , gekrabt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.757.s.1	SI .	None
+vond001pala01_01.TEI.2.text.body.div.sp.759.s.1	Wat zijn d'oorzaeck vinden het geschil ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.767.s.1	Een Vorst , door geil min , hebben tot zijn boedel schaken doen bruid , en koningin vinden Menelaus : die zo zeer niet op doen deugd alles op doen schoonheyd vlammen , en het bloeysel haerer jeugd , En hoog die waarderen alles veeler prins leven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.772.s.1	Een slim Sisyphus zijn nog naar ik blijven , Wat uitkomst of wij staat te wacht vinden het gevecht ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.786.s.1	ik zullen effenen zien , en tot de grond slechten het Hof vinden Laomedon , en deze ' benyde vasten : alles Inachus slachten , die het Krygsvolck geven te goed , die overwinnaar nog , de tiend zomer , zullen doen god verschrikken mede zo ysselijck een ' vallen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.786.s.2	Dan zullen hebben overschot de vluchtig Trojaenen , mede hand wringen , en afbiggelende traan , Beschelden Paris : die , zo schandeloos , onkuysch , veroorzaken hebben het bederven vinden zijn doorluchtig huis , En lief hebben zijn ' faam , en glorie uit te wis , alles boels aenminnigheyd , en kitteling te mis .	EmotionalAction_BodyPart_BodilyProcess_Sadness_Despair_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.810.s.1	gij en u ' zuster , alles hij Venus hebben verlokken , hebben ver een groot daad spinnen , en berockt , alles gij de dooier vlieden doen Zee gingt over voer , En om een ' licht vrouw gans Asien beroeren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.810.s.2	Eumenides , welaan , rechte yligh over einde Vw slingerslangigh haar , en branden , en blaken , en schenden , En schuimbekken , razen , en moord : daar sietmen het Leger kriel ; daar laedmen Charons schuit , tot zinken toen , mede ziel ; hebben isser druk aen het ver .	EmotionalAction_BodilyProcess_Anger_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.810.s.3	zo wreeckeressen , voor , spoken door doen bende heen , verzadigen uw mede moord , doen mesten zijn op wetten , en scherp slijpen , beschilderen u ' gewaad mede bloeden , en paars streep .	None
+vond001pala01_01.TEI.2.text.body.div.sp.810.s.4	bevlekken u aangezicht mede brein vers uitspatten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.810.s.5	zien toen , gij sneuvelen liggen , hebben isser slipperglad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.810.s.6	zo dochter vinden doen nacht , mare alles gij hier mede lijk doen stroom hebben dammen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.810.s.7	en d'overzeesche rijk Tot puin , en gruis verpletten , en uit hunn ' plaats bewegen , de adeldom , en het puik de vorstin uitvegen : zullen dan doen wraak vernoeght , door het bloeden zo veeler held , mede woeden staken ?	Emotion_EmotionalAction_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.818.s.1	Neen , dan wild Europe geld , gij Grajen huilen , en grayt , u ' doodvarw zetten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.818.s.2	worden bang .	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.818.s.3	wie komen , om de weg tot uw ondergang Te banen , zwanger vinden voordachte schellemstucken , En hecht Argos ramp aen Trojens ongeluk .	None
+vond001pala01_01.TEI.2.text.body.div.sp.822.s.1	Wat middel isser om te rockenen deze kwaad ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.1	de feniks , daar zij heil en zegenen in bestaan , Te helpen aen d'een ' zijde ': op datze mede zijn sterven ook zijn ' manhaftigheyd , en raad , en wijsheid durven , En val over hopen , wraakgierig vinden gemoed , En voer Borger-krijgh om zijn onschuldig bloeden .	Emotion_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.2	ik zien doen vorstin al gespouwen , en verbolgen , doen volk vinden een ' stam elkander vervolgen ; D'eylanden in het geweer , en het vasten landen in roeren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.3	Hier wordmen vlammen gewaer , daar hoortmen een rumoer vinden stellen tegen stad , vinden vloot tegen vloot .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.4	D'een ' ramp uit d'andre wassen , wat wordter bloeds vergeten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.5	Euboea lopen het delen Peloponnesus af , vinden Scyros Ithaca .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.6	Thessalien tot straffen vinden Locres Krijgsvolck liggen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.7	doen Cyclades die slijpen Hunn ' speer , om onderling malkandren aen te grijpen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.8	doen zonde klimmen op , d'een dragen de ander schuld , de vorstin hof zijn mede gruwel vervullen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.9	mede bloedschande , overspel , mede moord , mede vuiligheid .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.10	ik luisteren nog ' naar rechte , naar billickheyd , nog ' rijden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.11	doen Koninginnen , en prinses zijn bykans All ' schuldig aen doen moord , en neerslag haerer man : En eer en trouweloos .	Honor_Emotion_Loyalty
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.12	elk zijn om het zeer verwoed .	Emotion_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.13	doen zode de Vader wreken , doen dochter wreect haar ' moer .	EmotionalAction_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.14	het vertwijfelen aen doen stam , en wettig afkomst splitsen hebben volk , en voeden de veede , en endeloosen twisten , En het woeden : die zo langen beschreyelijck zullen duren , Tot datmen zien in het einde doen stellen zonder muur , doen stroom onbezeylt , doen kamp onbeploeght , En d'onderaerdsche Styx bevolken , en vernoeght .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.15	rampzalig spook , gij zijn tot ik behulp verkiezen Voor ander ziel : gauw nopen uw neef mede sporen : VViens schalckheyd haperen , om bedrieglijk , en vals , de zoon vinden Nauplius te brengen om de hals .	None
+vond001pala01_01.TEI.2.text.body.div.sp.862.s.16	hij sluymert : in zijn ' dromen en slaap zullen hij uw horen , En wat u geest erdicht , die vezel hij in d'ooren ; gade heen rampzalig spook .	None
+vond001pala01_01.TEI.2.text.body.div.sp.873.s.1	zijn ik doen besteden dan die d'afgrond tot deze snood bedrijf uitbraken kunnen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.873.s.2	zijn niemand hebben bekwaam tot schelmerij vinden ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.873.s.3	deze zijn mijn afkomsts tent , ik moeten zijn hart doorgronden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.873.s.4	hij hebben doen leus al weg .	None
+vond001pala01_01.TEI.2.text.body.div.sp.873.s.5	Megeere het zijn beschikken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.873.s.6	alles hij ik ' geest vernemen , doel wassen zijn geest verschrikken ; zijn zweet brak uit vinden angst , zijn haar schielijk resen ; ik hebben hij naar zijn wensen de kort weg wijzen .	Fear_Emotion_BodyPart_BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.882.s.1	zo zijn hebben reyzens tij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.882.s.2	gedoemde ziel gade schuilen ; duik in de donckren poel , en nooit beschijnen kuil .	None
+vond001pala01_01.TEI.2.text.body.div.sp.882.s.3	doen nacht zijn op zijn droef , en Phoebe wijken doen spoken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.882.s.4	Ulysses gapen en geeut : gij hebben zijn ' rusten breken ; daar treden hij uit zijn ' tent .	None
+vond001pala01_01.TEI.2.text.body.div.sp.882.s.5	gapen aardrijk , en al helen Verswelgtse , die gij thans braken hebben uit u ' keel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.884.s.1	ULYSSES .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.884.s.2	LYFKNECHT .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.884.s.3	DIOMEDES .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.1	EEn dun slaap beschieten nog nauwelycx mijn oog , Of ik onrustig geest door het goochelen waard bedriegen een drooms , of door een schim , dieme ' inde droo verschee , En dragen ik ' aenslagh gul , en holpme het feit bekleden , En het stuk mede zulk een ' list besteecken , en vermommen : die Nestors wijze tong daar tegen moeten verstommen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.2	hebben zijde dan schim , of dromen , of wat hebben wees willen , het En zijn geren marrens tij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.3	ik Lyf-knecht , gade al stillen naar Diomedes tent .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.4	zeggen , die ik hij verbeiden zo dadelijk hier te stede , doel thans hij vinden ik schede , waard d'aenslagh opschorten tot wijd overleg , alles nu zo wasser het een , dan het ander inden weg : Nu duncktme goed hij glad , en het mogen een raad verstrekken , Doch vaak schijnen ruim in't eest , het geren scherp vallen enten voltrecke .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.5	mare d'aeslagh niettemin moeten eemael zijn wagen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.6	ik vijand staat versuffen , en dutten , en zijn versagen : hij vinden zien raedeloos , om vinden doen lastermonden , En logen zien ontslaan : waar met hij worden schenden .	Emotion_Despair
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.7	Te meer hij zien verweren , en naar zijn onschuld trachten , Te meer hebben laster groeien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.8	hij zijn , en blijven verdenken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.9	hebben Krygsvolck zijn delen : d'een loven hij alles een ' Vader , En d'ander hij verspuwt , en schelden voor Landverrader .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.10	bij deze zwarigheid komen , die de god tolk doen lasterlogen kweken , en koesteren onder het volk .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.11	ik ' wraaklust zullen eer langen hij zijn tros verleren , En d'oude leemte gans tot etter uit doel zweer .	Emotion_Pride_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.12	hij , zien die zijn pleiten , en rol lopen naar het einde , de Veldheer gisteren nog komen smeken in zijn tent , En bidden , hij wild hij doch zijn ' gunstig oor leen : Ophaelende wat dienst die Argos , en Mycenen , ontvangen hebben eer , door zijn getrouw plegen ; doen Koning bijten hij toen , vergramd in het aangezicht ; ik hebben gedienstigheid , ik kennen het door uw genieten ; mare een ontfange spijt ik schendig hebben verdrieten .	Emotion_EmotionalAction_BodyPart_BodilyProcess_Sadness_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.13	D'Atryden zullen uw vermorzelen tot gruis , Of gij zullen heen tot stof verdelgen mede zij huis .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.14	deze dreigement hij treffen , hij antwoord al verklaren ; Mycenen hebben zien ooit beleefdelijck dragen , En mede genadig altijd zijn ' vijand ontmoeten ; Dies bidden ik , die u toren niet al te hevig woeden .	Emotion_BodilyProcess_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.15	Dus schede hij , mare beducht , zode het bleek aen zijn ' manier Voor Agamemnons grim , en het spits de Helbaerdieren .	Emotion_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.16	Nu het gader met hoe het willen , het kunnen ander niet alles wel , ik zijn hebben niet allee , doen groot zijn in het speld .	None
+vond001pala01_01.TEI.2.text.body.div.sp.937.s.17	wie aanzien op wij ' zijde ' doen weereldlijcke macht , En geestelijcken arm sterken mede dom kracht ; En waar toen zullen hij zijn beducht voor velen gevaar , Die tot zijn voorspraak hebben doen tong de wichelaar .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.938.s.1	DIO .	None
+vond001pala01_01.TEI.2.text.body.div.sp.942.s.1	ik komen op u ontbod , geheymste vriend , en mak , Wat onrust drijven u ' geest ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.942.s.2	wat hout u ' zin wakker , Dus in doen middernacht ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.944.s.1	VL .	None
+vond001pala01_01.TEI.2.text.body.div.sp.948.s.1	nog Venus , nog haar vier ; mare zaak vinden gewicht , doen recht tij zijn hier , Om ons aenslagh zo terstond in het werk te stillen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.951.s.1	ik raad zijn hier te klein .	None
+vond001pala01_01.TEI.2.text.body.div.sp.955.s.1	daar wild uw niet ik kwellen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.959.s.1	ik kunnen geren ' doorgang zien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.959.s.2	ik blijf'er nog voor staan : zo langen ik niet begrijpen hoe die hebben toen kunnen gaan .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.960.s.1	ULYS .	None
+vond001pala01_01.TEI.2.text.body.div.sp.969.s.1	hij brak uit zijn veldheer lassen zijn ' tent op gisteren morgen , En slaan zien elders neder : zo datmen kunnen verbergen , In d'eerste legerplaats , een zeker wight vinden gouden ; rechte of zijn ' zorg die aen het aerdrijck hebben vertrouwd .	None
+vond001pala01_01.TEI.2.text.body.div.sp.969.s.2	alles hij nu worden betichten vinden zijn ontfange gaaf , zo zullen doen Kryghsraed fluks die rijkdom op doel graaf ; waar door hij schuldig worden aen het opleggen kwaad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.973.s.1	het En hebben niet schijn genoeg .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.974.s.1	UL .	None
+vond001pala01_01.TEI.2.text.body.div.sp.978.s.1	deze komen wij nog te baten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.978.s.2	ik zullen in Priams nader een ' brief aen hij doel schryve , Die meldende vinden het gouden , hij zoeken te daad te stijf .	None
+vond001pala01_01.TEI.2.text.body.div.sp.982.s.1	wij zullen doen bieden zijn ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.984.s.1	ULY .	None
+vond001pala01_01.TEI.2.text.body.div.sp.990.s.1	mare een Trojaens slaevoen , Die ik gevangene zijn .	None
+vond001pala01_01.TEI.2.text.body.div.sp.990.s.2	gij zullen doen ronden doel , En pas op de spie , en helpen hij om het leven , En vinden de brief , die Agamemnon geven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.990.s.3	Hoe kunnen d'Eubeer doch ontworstelen deze strik ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.995.s.1	het zijn rechte Ulysses vinden : mare alles ik het ernstig wik , hebben stuk zijn vol gevaar .	None
+vond001pala01_01.TEI.2.text.body.div.sp.995.s.2	laat deze raad besterven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1001.s.1	ik vrees u ' bloodigheyd die zullen doen zaak verderven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1001.s.2	Hoe stout aengevat , hoe licht uitvoeren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1001.s.3	doen kans moeten zijn wagen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1002.s.1	DI .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1005.s.1	waar het schaeckspel , waar hebben boerde goed datmen het wat vertrekken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1005.s.2	doen tij zijn niet baren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1009.s.1	daar zijn mede zamelen tot nog toen meer verliezen Meer schade alles winst gedaan .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1013.s.1	doen manna hebben groot gul bij het volk , en bij de raad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1017.s.1	bedekken logenkunst , Die heeftse vrijen gedunt door het langen , en stadig knagen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1022.s.1	Al die hij zijn verwinnen vinden vriend , en vinden maag , zijn ' zijden gunstig zijn en dreigen wij mede wraak .	EmotionalAction_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1024.s.1	UlyS .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1027.s.1	geren ' maege , of bloedverwant mogen tuigen in zijn ' zaak .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1027.s.2	vinden dreigen niemand sterven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1033.s.1	Achillis vrome in feit , En Ajax zullen zijn rechte te uiterst bepleiten , Door zijn grijs Nestors tong .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1039.s.1	deze achten ik helen gering , doen veldheer zijn doen ziel , en stuurman vinden het geding .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1039.s.2	zijn recht uitspraak staat bij hij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1039.s.3	hij kiezen bekwaam mennen En kippen doen rechter uit , die d'heylige vierschaar span .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1043.s.1	zo d'aengeklaeghde zien beroepen op het Griexsche rechte ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1052.s.1	het Geschil worden naar doen plaats vonnissen , en beslechten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1052.s.2	wie staan op zijn vijand bodem , wie kennen hier geren ' weten , alles die de veldheer mond en lip zulle zetten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1052.s.3	zijn willen zijn wedde genoeg , die spreecke , een ieder swijg , de oppervorsten zwaard zijn recht inden krijgen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1056.s.1	Of d'oppervorst bezwijken , alles d'aenslagh wassen beginnen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1073.s.1	doen wereld geenszins lijden twee schitteren zon : zo duld geren heerschappij twee hoofd in een rijk , geren vorst zijn ' weerga : geren koning sijns gelijk .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1073.s.2	d'Eubeer zijn te oog in mogendheid stijgen , En aanzien bij het gemeen : diets Agamemnon tegen : Die hebben wel duysendmael kloppen op zijn rapier .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1073.s.3	vloeken bij all ' doen god ' , gezworen oog en die bij synes gordel draak , bij het krunckelen de slang , Waerme doen Gorgon zijn sijns beukelaar behangen , En bij de staf sijns rijcx vinden Mulciber smeden : die hij zien wreken zullen vinden het aengedaene leed : die d'eylander niet langen zijn majesteit zullen benglen : Al zullen hij d'oppergoon mede d'onderaerdsche mengelen .	EmotionalAction_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.1077.s.1	mede Agamemnons wrok zijn het leger niet paaien .	Emotion_Vindictiveness_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.1090.s.1	het zijn waar , mare die zijn vol oneenigheyd zaaien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1090.s.2	doen meest hopen zijn blind , om d'oorsaeck vinden deze wrok Te zien mede onderscheyd : ook heeftmer in betrekken het verschillen vinden kerckenplight , doen macht vinden het geestlijck hof , En het geren de dienst betreffen de Coden : deze stof zodanig zijn vinden aard , die allerlei ' krakeel , die zucht tot eigen baten , en staat hier onder spel : En al schelmerij , die slechts eenschijn stallen vinden hayligheydt ontlenen , liggen door die trechter vallen .	Emotion_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.1090.s.3	ik hitst zijn volk hart op tot dolligheyd door krijten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1090.s.4	En d'aldersterckste passen de swacksten uit te bijten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1094.s.1	mare wachten uw , alles doen tij doen waarheid een ontdekken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1103.s.1	Al hebtge het hayligdom mede vadermoord bevlekken : u ' zuster schaamte ontbloten , in het aanzicht vinden u ' zwager : ja zelf de bliksem drigh kronen tot hoorndrager : verkrachten zijn eegemael , en schenker Ganimeed : te worden niet een merken , alles mare een outerkleed Die gruwel bedekken , te strekken dan geren ' zonde .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1107.s.1	En of doen priester het pleiten mede Palamedes staan ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.1	die zijn onmooghelijck : wan hoemen het wenden , of keren , het schorten even Calches daar , daar het Agamemnon deren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.2	zijn hoogheid zijn geraken , en hayligheyd : die steeds , mits d'onderkruypingen , en list vinden Palamedes , Allencx gemuylband worden , en vinden zijn ' glans beroven : En het wassen zo ver brengen , die geren gemyterd hoofd zullen spreken in de raad , of mede doen vorstin stem : Een tomen om naar zijn ' wensen doen wichelaar te temmen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.3	deze liggen hij in de kroppen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.4	behalve die hij stijven doen vorstin tegen hij , die zo Godyvrigh drijven , die ieder Griexsche stad zullen liggen nieuw drempel , Om het noodlot op het outaer , in Godgewijde tempel , Te vier , mede de reuk vinden het gunnen wierookvat : Dienst daar doen priesterschap een koninglijcken schatten , En rijk oogst af maaien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.5	hoe geestig saghmen schaken de tabbaerd mede doen kappen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.6	mede onbeschaamd kaak drijven Calches naar zijn wensen , mede lutt'le stem door het besluit de tempelier , en geven geren ' reden gehoor .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.7	d'Eubeer hebben ' et ook in Aulis helen verpeutert .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.8	daar zeggen hij schonen doen vlieden door stormen , en onweer leuteren , ik mogen zo roekeloos niet plengen konings bloeden : ik stellen de neerslag uit : misschien zullen ook doen vloed Hier met niet zijn paaien : wild uw de jonffer jammer : hakken lief af de hals vinden witten gewolde lamren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.9	daar schenden hij het priesterdom doen krijgslien op hebben lijf .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.10	elk vloeken , en schelden om het zeer .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.11	zijde krijten even stijf .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.12	hebben zaad vinden Nauplius vinden Godsdienst zijn verbasteren : het vuren tempel nog altaar : Diana worden lasteren : Verworght de vrijen geest : of storten hij vinden een ' rots : deze smalen op wichlery , en droom .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.13	d'inspraeck god hij gans in twijfelen trekken , hij zullen hebben heyr verwarren : hij achten nog ' vogelsangh , nog ' ingewand , nog ' ster .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.14	ik reppen vinden geren geheym .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1149.s.15	gij Diomedes saegt Wat hij te leiden hebben , om het redden vinden doen maagd .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1155.s.1	Syne aengewende vlijt tot Iphigeens verschoning , Te licht hij in gul kunnen brengen bij de koning .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1176.s.1	het blijven tussen ik en uw : het zijn Agamemnons aard , die zijn ' gedachtenis geren weldaedlang bewaren : mare het aengedaene leed , en d'eens lijden smarten , schikken diep wortel in zijn wraakgierig hart , Al t'onversoenelijck . het wassen Atreus die voor heen bij opdracht onderkruipen het oud rechte de Griecxsche stad .	Emotion_BodyPart_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.1176.s.2	doen zoon vlammen op doen vlucht vinden deze parckementen , En hopen zijn ' lauwer telg op deze bodem te ent : mare Palamedes oog zijn ' gang onderscheppen , En zijn voor hij gereet , en waken eer hij zien reppen : Dies razen zijn Krijgsvorsten wraak : die om hij te betraepen , misbruiken de oude haten de Griecxsche legerpaepen , bedienaar vinden doen node , en nooit verbeden dwang : Die doel hij het koud zweet aflopen , door het gedrang de lasteraeren , en stag liegende overboden , geren ' misdaad reecknen het kwaad , ' tgeen strekken te dienst de god .	Emotion_Hatred_BodyPart_BodilyProcess_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.1176.s.3	Doch het geld wij even velen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1176.s.4	wie doel na wij witten , hebben zijde dan slinks of recht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1176.s.5	waarom ik ernstig bidden , die uw dapperheid deze heldenstuck verselle .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1187.s.1	ik vindden aenslagh goed , het zijn waar , mare die ik stellen ik zelf in gevaar , zijn overwegen waarde .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1187.s.2	ik zijn een manna in het veld , om op een moedig paard , die schuimbekken , briesen , en krabben , en stof werpen mede fijn voete , ik ' vijand voor doen vuist , mede zwaard en speer , t'ontmoeten : mare ik hebben u ' veynsery , Ulysses , langen verleren : ik stemmen hebben niettemin , dewijl gij het zo begeren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1192.s.1	laat Diomedes slechts die zorg aen ik bevelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1192.s.2	hebben moet'er donker zijn daar d ' Ithakois zullen dool .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1199.s.1	Wel aen , ik zijn het troosten : doch eer wie het stuk bestaan , zo zullen het hooghnoodigh zijn wij wijders te beraden : Op datmen het schandelijk te half niet laat steken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1199.s.2	vernieuwen ik anderwerf de voorslag uw treek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1203.s.1	treden mede ik in ik ' tent , het zullen wel zo veilig zijn , ik handelen vinden die zaak goed achter doen Gordijn .	None
+vond001pala01_01.TEI.2.text.body.div.stage.1205.s.1	rijden vinden PELOPONNESERS en ITHAKOISEN .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1207.s.1	EURIPILUS .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1262.s.1	komen laat wij bij doen donker manen Eendraghtelijck te rei gaan , En storten yvrigh deze bede Voor wij drye aanzicht Hecate : dat Atreus zoon doch bewaren : Die voor wij haerdstede , en het outaer , zo rustig wagen lijf en goed , En troost het volk in tegenspoed .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1262.s.2	die geren verrader zien verstouten , Om het flikkeren vinden het trojaans gouden , heen t'overlevren aen de Prygh , En wij in het heimelijk bekrygh .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1262.s.3	En smoren half doon op doon hopen In het bloeden die uit wij ' wond lopen : En steken tot schrikken vinden Grieckenland , Door Hectors toorts doen vlieden aen branden : En geven uitheems gans stof Te zeggen : hier zijn het Kerreck-hof , daar Troje door Godloosen boef Mycenen mede haar ' macht begraven : daar staan Achilles tent wel eer : Hier Agamemnons : ginder ver waard dag op dag zo fel gestreen , Om Menelaus bruid Heleen : Hier lach doen vlieden op deze hoek .	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.1262.s.4	kaar , nul Godesse , zulk een ' vloek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1262.s.5	bewaren Godin u ' kerk ook , Op datme ' uw tempel pleghtigh smoken : Op die uw reukwerk opwaarts rijzen ' , naar d'eenmael aengenome wijze , naar d'eenmael voorschrijven plegen : het zijde die gij droef of hel liggen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1262.s.6	Begunstigh doch Apollos zoon , de taelman vinden de oppertroon : Die zien op god geheym verstaan , En al teken gade slaan .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1262.s.7	Die vaak kunnen spel het ongesienst : En wieden doen zuiver Godesdienst zo diep en zwaar te harten goed , En achtse een pyler vinden de staat : Een pyler daar doen staat op leunen : En om deze oorzaak zich bekreunen vaak mede de wereldlijcken staf : Al neemtmen het hij zo kwalijk af .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1262.s.8	weder vinden wij al nieuwigheen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1262.s.9	bevrijden voor vlek uw outerkleen , En nemen doen priester in u ' scherm , Die uw altaeren houwen warm .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1264.s.1	EVR .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1267.s.1	zijde hebben uw toegeknickt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1267.s.2	nu wenden uw tot doen node : hechten aen een nieuw dans , en maken haar ' godheid groots .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1270.s.1	rijden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.1	nul kracht die niet en zijn t'ontvlien : wellen die tussen uw knie beklemmen doen diamant spel : daar het al op draaien naar uw willen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.2	Die hebben vinden eeuwicheyd zaaien het zaad , daar doen tij zijn ' vlucht af maaien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.3	nul dwangbestuurster vinden al het werk , Die god en mens stellen een perk .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.4	houden vasten en anker vinden het stichten de wereld , die in tegenwicht d'Hoofdstoffen hout .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.5	nul zuil , die zelf ' dragen onbezwaard die zwaar gewelf .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.6	nul die mede ijzeren scepter heersen , En blyfter laatst , en woerd ' er eest : Die Hemel , aard , en hal bestieren , En maken die elk u ' godheid vuren , Die op haar ' beuren doen ster roepen , En meerdre en minder god scheppen , En blijven versteenight en verstokt , En hebben al het noodlijck kwaad berockt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.7	Saturnus zijn vader lubben , En het pekelschuym mede bloeden bedruppen : een oorzaak dat Venus komen , mede haar onkuis minnevlam .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.8	Jupijn ontvonckt door Cypris straal , Voorts walghde vinden zijn eegemael Die beven verschoppen , en al zijn ' feest wassen hoer , of janhen , of een beest .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.9	Mercuur waard d'alderslimste dief , En Bacchus krijgen doen kruik lief , En struyckelende naar de drinken , zingen haylge vaars die hebben klinken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.10	Mars groeien in bloeden en mens moord , die reus komen fel aen boord de Donderaer , mede smaad en schimp : Doense Ossa parsten mede Olymp , En weder mede Ossa Pelion : Eer heen een starcker overwinnen : die Minos bruid , hebben geil die , zien laten bespringen vinden een ' stuur : die d'Africaen zo wreed alles sterk , vinden mens hoofd bouwen een ' kerk : En die zijn Tempelpriester hebben , Een Doodshooft tot een wierook vatten : En , eer hij nog bidden spreken , Een ' mens ongeltoorts ontsteken : En plengen , mede een ' heylgen schijn , paars mens bloeden , in plaats vinden wijn .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.11	En offeren , de god tot branden Halflevend ' mens ingewand : Terwijl een mens darm sluiten , Om het lijf zijn ' taai mens huid , zijn offerkleed , en feestcieraet : En zingen , en schreeude zonder maat , uit perkament vol bloedrood schrift : verrukt door innerlijk drift : En dee weergalm op elk vaars Een ' rijden vinden woest moordenaar : weer wapen , zwaard nog , kortelas , mare kakebeen of schinckel wassen : die Tantalus nog veulen bemorscht vinden vers moord , opschaffen dor hebben vlees sijns zoon op Jovis dis : Niet bij geval gebeuren en zijn : mare onontworstelbaer bescheer !	BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.12	gij zelf woerd d'oorsaeck , uw komen d'eer : Die dobbeltrony Janus slachten , Die achter grijnzen , vinden voorn lachen .	BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.1360.s.13	zo nog het verraad smeulen in zijn as , ontdekken zulks doch u ' priestren ras : scherp Argos sabel lang hoe meer : En Priams standaard werf te neder .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1364.s.1	hout op gij hebben voldaan .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1364.s.2	hebben noodlot hebben volkomen u ' dansen , en gezang goetgunstigh aannemen .	None
+vond001pala01_01.TEI.2.text.body.div.head.1366.s.1	doen derde handelen .	None
+vond001pala01_01.TEI.2.text.body.div.stage.1370.s.2	SCHILDWACHT .	None
+vond001pala01_01.TEI.2.text.body.div.stage.1370.s.3	AGAMEMNON .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1374.s.1	houden schildwacht houden !	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1375.s.1	SCHI .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1377.s.1	wij daar ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1381.s.1	ik moeten de Veldheer spreken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1385.s.1	wij zytge ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1385.s.2	melden u ' nader , of geven het gewoonlijk teken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1389.s.1	het zijn Diomedes zelf .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1392.s.1	komen wekken hij daar hij liggen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1397.s.1	groots meest vinden wij heyr , die uw leger spreyd vinden droog en dor blad : op op , het zijn tij te waken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1398.s.1	AGA .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1401.s.1	Wel Diomedes vriend , zeggen op , wat zijn het voor zaak ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1401.s.2	Wat brengen gij wij bij nacht : zijn Hector op doen been ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1407.s.1	ik hebben een Trojaenschen spie de hals vers afsnijden , alles ik doen ronden doen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1407.s.2	hij zijn belasten mede brief .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1407.s.3	ik slepen de booswicht hier .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1407.s.4	hebben zullen de Vorst believen Te vers na het geheym .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1417.s.1	komen houden doen toorts wat dichten , Op die ik deze gast beschouwen in het aangezicht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1417.s.2	het zijn waarlijk een Trojaen vinden kleding en vinden wees .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1417.s.3	deze zijn Priams zegelring .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1417.s.4	ik moeten hebben inhoud lezen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1417.s.5	Op mennen , het zijn verraad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1417.s.6	ik ' dienaers fluks goed heen , behalve Palameed , roepen al de raad bij een .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1423.s.4	NESTOR .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1423.s.5	AIAX .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1450.s.1	gij die voor kroonengoud , en vorstelijcke band , Nu voeren de koperen helm , en mede u ' dapper hand vinden het Asiaensche staal doen vonk stuiven doen , En Simois vermengen , en verven mede brein en bloeden : ik zullen uw voorts doen reden , en oorzaak gaan verklaren , waarom ik t'ontyds dus de krijghsraed doen vergaren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1450.s.2	doen Phrygiaen , die het heyr verspiedende bij nacht , vinden Diomedes hand zo vers zijn ombrengen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1450.s.3	( alles hij doen ronden doen hij komen verbaasd ontmoeten , En slepen hij dood en warm voor uw al voeren : daar gij hij liggen zien ) wassen mede een ' brief beladen , Dieme ' uit zijn boezem trek en iemand schijnen te raden Tot gruwelijk verraad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1450.s.4	ik zullen uw laat horen hebben inhoud vinden deze blad , het welk vreemd klinct in ik oor .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1450.s.5	Neptunus waarde zode , die u grootvaders stad begunstigen waar gij mogen : doen letter vinden deze blad betuigen mijn gunst , waar door ik zijn genegen Te strekken over uw ik ' koninglijcken zege , die gij ontvangen hebben het jong toezenden gouden ik uit de spie verstaan : wie mond gij toevertrout het Geheymnis vinden uw harden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1450.s.6	ik hebben alree genieten doen vrucht vinden het bestand voor luttel tijd besluiten , En wachten op het uyterst vasten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1450.s.7	zijn ergens gul te koop Om gouden , zo spaer geren ' munten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1450.s.8	ik Priam leven op hopen ' daar zijn het geheym de briefs .	Emotion_Hope
+vond001pala01_01.TEI.2.text.body.div.sp.1450.s.9	wat dunken uw Griecxsche vorste ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1453.s.1	Verdelgse nul luno doch !	None
+vond001pala01_01.TEI.2.text.body.div.sp.1453.s.2	die na wij leven dorsten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1457.s.1	Ontdeckse nul Hecate !	None
+vond001pala01_01.TEI.2.text.body.div.sp.1457.s.2	die na de ondergang vinden ons tent staan .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1459.s.1	NES .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1462.s.1	Ontdeck doen waterslang Die schuilen in het groen gras .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1464.s.1	AI .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1467.s.1	Saturnus brengen doen waarheid te lest een in het liggen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1472.s.1	wij twijfelen aen doen klaarheid vinden het goddeloos verraad ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1476.s.1	ik twijfelen mede verlof , Die al trek kennen , en saus vinden hebben hof .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1479.s.1	Nu Ajax geven gehoor , en wezen niet ongeregeld .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1482.s.1	zijn het koning Priams markt ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1490.s.1	doen brief wassen toegezegelt mede zijn konings eigen ring : doch het wapen zijn mislukken In het zeeglen , en zijn hand in het schrijven wat drukken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1490.s.2	mistrouwen gij aen ik woerd , geloven uw eygene oog .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1490.s.3	daar vader lezen de brief .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1495.s.1	Een ' dochter vinden doen logen , Een vondeling vinden het hof , een bastaard vinden de nijd ' En overjaerden wrok , het uytbraecxsel vinden doen spijt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1498.s.1	het Schrift zwijmen naar Priams hand , zo doen doen druk vinden het wapen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1499.s.1	AJAX .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1502.s.1	zo paeytme het slechten volk : zo leydmen kind slaap , mare Ajax nimmermeer .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1506.s.1	het zijde hoemen het stuc verschonen , doen koning Nauplius zijn God Neptunus zode .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1509.s.1	ja Palamedes zijn het ik hout ' et uw te goed .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1513.s.1	Neptunus eigen stad zijn Trojens hoog vasten : Die dragen d'Eubeer gul , zo doen zijn heyloos zaad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1517.s.1	ja Palamedes zijn het , die brouwen wij deze verraad , Die booswicht moeten vinden kunnen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1520.s.1	beschutten wij goed god .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1524.s.1	die treffen Laomedon .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1528.s.1	Of eer in tijd vlieden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1532.s.1	die ongeluk en zijde wij nimmermeer bescheert .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1538.s.1	Hier gelden geren loochenen , het zijde hoemen het wenden of keren , het zijn Priams tekening .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1538.s.2	wie twyfflen nu niet lang , Of Palamedes goed vinden deze boosheid zwanger .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1542.s.1	die heeftmen langen gefocht , en onder het volk gestroyt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1542.s.2	En nu mede deze brief hebben schelmstuck optooien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1549.s.1	gij heer zien wel toen , het zijn zorgelijk zaak , hij vangen wat wightigs aen , die tot een ' schelm zullen maken , Een ' wel baren vorst , een ' manna vinden groots bewind : Dies wensen ik die geren ' wraak uw oog en verblinden ' .	Emotion_BodyPart_BodilyProcess_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.1549.s.2	hebben stuk mede rijden wikken , en vellen geren onrijp oordelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1552.s.1	daar d'hoogheyd worden kwetsen , hebben niemand enig voordeel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1556.s.1	Of d'hoogheyd zijn kwetsen die hand hier in geschil .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1559.s.1	hij markt doen misdaad liggen , diese ander merken willen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1562.s.1	Die iemand hatigh zijn zeer liggen een ' brief kunnen dicht .	Emotion_Hatred
+vond001pala01_01.TEI.2.text.body.div.sp.1565.s.1	Nabootsen hand en markt , d'onnooselheyd betighten ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1568.s.1	die zijn wel eer gebeuren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1574.s.1	alwaar hebben nooit geschieden ' zo derfmen het nu bestaan .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1578.s.1	Die het leger hebben verspieden , mede brief africhten , hier voor uw liggen verklaren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1581.s.1	Indien hij levend waar ik mogen hij ondervragen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1584.s.1	doen dood melden doen zaak , hebben zijn een Phrygiaen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1587.s.1	Een slaaf , die kortelings in het oorlog waard vaan ,	None
+vond001pala01_01.TEI.2.text.body.div.sp.1591.s.1	zo soumen al wel in twijfel kunnen trek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1594.s.1	zode soumen altijd wel de vrome nader bevlekken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1597.s.1	Die mens wassen langen verdenken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1601.s.1	zode wassen doen vals tong de groot logenaers .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1607.s.1	gij Ajax zijn te jong , Om Agamemnons mond zo korten te heet liegen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1607.s.2	Of lusten ' et uw , zode wild uw zelf niet bedrieghen : mare die u degen pas op het koninglijcke staal ,	None
+vond001pala01_01.TEI.2.text.body.div.sp.1610.s.1	zo doen hij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.1	hout gemak gij heer .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.2	laat doen schaal vinden waar billickheyd beslechten d'ongelijcken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.3	Hoe kunnen u hevig zwaarte een wettig vonnissen strijken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.4	Die het rechte hebben op zijn ' zijde vaak sneuvelen door hebben spits .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.5	bezadigd brein uw schey ': die recht zijn te bits .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.6	hebben mest zijde op Dardans meinedig zaad verbitterd : Dryf Hector op doen vluchten , alles het bliksemen schitteren In d'appel zijner oog , velen eer dan het God geheng ' die d'eene bondgenoot hebben bloeden de ander plengen ' , En het Dorisch leger rijden zijn zellefs ingewand , zijn wapen vermeng , verwarr ' zijn rechterhanden .	Fear_Emotion_EmotionalAction_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.7	Wat hebben doen vijand stof te lachen in wij ' dood .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.8	Hoe zij hij vieren en toorts in wij gedeelde vlieden Dan slinger mede macht , en mede bebloede sabel het Gedraeyde kennep gaan doorhouwen vinden wij kabel , En zenden branden doen kiel zeewaert in : In het aanzien vinden doen stad , en Priaems hofgesin .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.9	het Geschil aen ik verblijven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.10	vertrouwd ik ' silverhayren , En grauw ouderdom .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1633.s.11	die velen zijn wedervaren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1637.s.1	Al waar het ik eigen bloeden zo willen ik datmen straffen doen stichter vinden het verraad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1642.s.1	ik die een openen graf heen levendig verswelgh .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1647.s.1	wie stem het all ' te saemen ; mare waar doen boosheid schuilen schijnen donker om te raam .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1650.s.1	doen goddeloos die nemen doen schemering tot zijn wiek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1653.s.1	ik stell'dan het oordelen uit tot die hebben ieder blijk .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1656.s.1	ontberen deze schijn en blijk ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1660.s.1	hebben zijn te twyffelachtigh .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1663.s.1	Wat eyscht gij voor bewijzen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1663.s.2	hoe bondig ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1663.s.3	of hoe krachtig ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1666.s.1	die klaar en helder liggen gelijk doen middag doen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1669.s.1	hij kwetsen het gemeen goed die boos feit voeden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1672.s.1	ik voe niet quaeds , mare vrezen ontschuldig bloeden te storten	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.1675.s.1	gij vrezen niet een de staat door slapheyd te verkorten .	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.1679.s.1	doen recht handelen wijze , die velen quaeddoenders sparen , Om een onnozel ziel te vrijen vinden hebben zwaard .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1683.s.1	zo kunnen geren rijf bestaan .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1696.s.1	zo kunnen hebben eeuwig duren gerechtigheid die botten doen koninglijcke muur ; daar onrecht en wellen palaysen ommeruckt ; vinden elk druppel bloeds de geens dieme ' onderdrukken , En doemen door het schendig staal , ontspruyte duysend wrocke , Die barsten uit tot wraak ; wie zwaard een uittrekken keren langzaam in zijn ' schede .	Emotion_BodilyProcess_Vindictiveness_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.1696.s.2	die heilig bloeden vergieten tergen Nemesis .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1696.s.3	zien toen , en roeren deze Hydra niet .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1696.s.4	het zijn liggen een hoofd vellen in reuckeloozen toorn ; mare kunst zijn het , lid hier op , de wortel gans te smoren , Wanneer de hals in plaats vinden een veel hoofd telen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1705.s.1	ik oordelen vinden hebben u hier en niet verschelen , ik kniel voor Themis troon , ik ' daad die betuigen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1705.s.2	het waar dolligheyd hebben rechte uit haten en nijd te buigen .	Emotion_Hatred_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.1705.s.3	ik zullen niet wetteloos bestaan door onbescheyd .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1705.s.4	wij tegen het algemeen , en d'oppermajesteyt zien zelf schandelijk , noch eerloos hebben vergrijpen , Die lopen geren lijf gevaar .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1709.s.1	Och waar nooit ik schip verzeilen vinden Salamin in d'haven Tenedos .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1713.s.1	Gevaltet uw zo maken uw anckertouwen lossen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1713.s.2	te steken de Grajen niet op teen of twaalf kiel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1731.s.1	mare doel twee Ajaxen het gans leger tegenhielen , En redden uw vlieden : daar het al scheiden overmannen , daar Hectors fakkel rijden doen zeil steken aen branden ; doel stackter nauw genoeg .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1731.s.2	hoe of deze uit willen val ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1731.s.3	ik vader Telamon wassen d'eerste die doen wal vinden Trojen eer beklimmen , en Hercles stijven mede kracht : Een vinden doen vyftigh ook , die om doen gild vacht , Door het klinken gedruis de Cyaneesche rots , naar Colchos toog , en de zeevooghd gaan trotzen ; ik volgend de aard vinden een ' zo braaf held , hebben Helles vloed kruisen , en hier in het vlek veld spannen mijn tent , en nemen hebben leed te hart vinden Menelaus , en het verongelijckte Sparten ; diets ik besolding nu , diets Ajax al uw eer ; Wat drael ik , ik hebben verlof , ik guntme die ik kaar .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1743.s.1	Vw vader Telamon , doen terger de Trojaenen ; wassen oorzaak vinden velen bloeds , en veeler griek traan , wassen oorzaak die doen vlieden de Phrygen overwoey ; die Alexander in vergelding zijn mooi , ik broeder bedgenoot , en dierbaar pand vervoeren , En door zijn ' roven Europe , en Asien beroerd .	BodyPart_Sadness
+vond001pala01_01.TEI.2.text.body.div.sp.1743.s.2	Wat uw reis belangen , gij stoffen al t'onbedocht , alles of aen uw allee hangen d'overzeesche tocht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1743.s.3	Neen , Ajax , staken die roemen , en wiltet ik vergeven , Om een Ajax waar doen tocht niet nablijven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1753.s.1	gij heer waar toen dienen deze onderling verwijten ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1753.s.2	hebben baard afkeerigheyd alles d'een de ander bijten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1753.s.3	ik bidden de oppervorst hij willen zijn ' gramschap sussen , En niet de oorlooghsmoed vinden deze kryghsheld ' blussen : wie braaf daad volgen onsterffelijcke nader .	Emotion_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.1753.s.4	doen mond een yegelijcx goed zwanger vinden zijn ' faam .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1753.s.5	Een veldheer die mede honen zijn hopman lonen na'et stryen , zijn eigen heirkracht goed doen seenwen stuk snijden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1761.s.1	daar liggen het vervloekt geweer , doen god straf ik Indien ik immer god de degen op ik zijde ' .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1761.s.2	geren held behalen hier lof , hoe dapper , hoe rechtschapen , Hoe vrome hij zitten te paren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1761.s.3	die zien een ander wapen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1761.s.4	ik die geren dwingeland , noch geren vermetel hoofd : die niets prijswaerdigh achten alles het geren zijn hersenen loven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1764.s.1	Nu Ajax tomen de moede , beweren u ' zaak mede rijden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1768.s.1	wie zijn deze langen gewend , het zijn d'oude korselheden , goed die hij eest bedaren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1775.s.1	het zijn heftig gekrackeelt , hebben drucktme doen gemoed te zieden aldus verdelen , En wensen die die twisten beslechten waar en bevredigen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1778.s.1	ik wensen hebben desgelijcx .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1783.s.1	alles elk hebben zijn verdedigen , En trekken zijn streng naar macht , zijn het wild en ongezien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1784.s.1	AAG .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1787.s.1	Wat Agamemnon drijven die moeten voor al geschien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1787.s.2	het betamen de minder voor meerdre macht te duiken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1790.s.1	Een Koning kunnen zeer liggen d'ontfange macht misbruik .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1793.s.1	die oordelen staat aen hij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1803.s.1	En ook aen zijn ' menen , vinden wij hij zijn macht , en heerlijckheyd ontlenen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1803.s.2	doen Koning zijn om het volk wijze die zich weten te vroeg naar zijn tijd gelegenheid , en ieder kunnen vernoegen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1803.s.3	Insonderheyd die zijn vinden zijn ' geheymen raad , En lid vinden hebben rijk , en pijler vinden de staat .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1803.s.4	Vwe hooogheyd al ramp , en ongeluk verhoeden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1810.s.1	ik spreker zo velen in , ik hout ' et ik te goed : die elk de vorst verschonen , en kwaad vermoeden schorten , zo langen naar luiden de briefs geren gouden vinden worden omtrent doen legerplaats vinden Palamedes tent .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1810.s.2	ik ondersoecke hebben stuk , en staken ' deze dreigement .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1813.s.1	Die raad ik wel gevallen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1816.s.1	Wat zeydter Nestor vinden ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1820.s.1	oprecht munten doen proeven gewillig leiden kunnen , zo zullen het navorsen ook geren eerlijk manna beschamen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1823.s.1	wij nemen die lassen op zich ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1826.s.1	uw beide zullen het betamen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1829.s.1	hebben waar wij aengenaemst , indien hebben ander doen ,	None
+vond001pala01_01.TEI.2.text.body.div.sp.1832.s.1	volbrengen gij ik bevel : verrichten deze mede uw twee .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1837.s.1	CALCHES .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.1	ONsterffelijcke god , weer overgroot vermogen u ' priesterschap beschermen , alles d'appel uw oog : Die uit u ' stoel daelt , beweven mede een ' wolk , En handhaven u ' menen , u eer ophoudend volk , En waarde speelgenoots : die over hun wade doen zoom vinden zij kleden , en mantel laat zwaaien : weer langgebaerde kin vinden haar hand vermast weer winckbrau en gebaar niet lochent , hoe zij passen Een wetteloos macht : die prat op vorstenbanden , En keyfers kronen treden : weer hoed breedte vinden rand , buigen vinden te zijde ' , voor spits en achter spits , Beschaduwen het gelaat , daar het liefelijk , en bits zien in hebben statig mengen , tot styving vinden gebod , En sielentuchtiging : ontsterffelijcke god , Die ons deemoed hebben heffen uit hebben stof Op uw tempeltroon : nul god , uw zijde lof , die gij uw eer wreken , en straftse dievermetel opdragen het kerckenrecht de weereldlijcken zetel : Die al te zeker staan op het slibberig en steil , En schroef het heiligdom te dienst vinden burgerheyl .	Honor_Emotion_EmotionalAction_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.2	die Palamedes wij nu muylbande , en tot spotten maken het gezag de tempelier , doen zekerheid de godsspraak : die hij op het outer nu zijn ' nieuw gruwel zetten , En wuft , en onbesuisd ons outerkleen besmetten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.3	Nu zullen hij lederen wat hebben in hebben dus t'ontyde zijn ' vinger te slaan aen het priesterlijk gewijd .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.4	wie staan mede god in ontbreeckelijck verbinden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.5	Al wij wij weerspreken , die weerspreken god mond .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.6	wie zijn afdrucksels god , onsterflijckheyds gezant .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.7	wie zijn hullen , zalven tot Iupiters trawant , En voer zijn ' livrei , en maken zijn stoot , En door ons hayligheyd ik godheid spreken moeten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.8	Wat wereldlijk macht wij stout durven tegenwroeten , die zetel zijgen , en staat op waggelen voeren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.9	ons wenken blicxems zijn , en donder ieder woord .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.10	wie zijn een muur om het rijk , doen sleutel vinden stadspoort , doen fackels om een landen in licht branden te stillen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.11	Gezart wie geven aen d'uytbraecxselen de hel , En vloek vrijen tomen : en geren Monarch zo gauw zijn heyr brengen op doen been , alles wie hebben woest grauw .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.12	daar komen Eurypilus .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.13	wel zoon , ik ' zin hangen In twyfiel tussen vrezen , en hartelijk verlangen .	Fear_Emotion_BodyPart_Desire
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.14	Hoe zijn hebben speld vergaan ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1883.s.15	zijn het boschswijn een gejaegt ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1889.s.1	nul eer de priesterdom , ik hebben te rechte gedaeght , de vijand ons naems : naar datmen opgraven hebben in zijn ' legertent d'ontfange Troische gaaf .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.1891.s.1	CAL .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1896.s.1	ik harden vinden blijdschap zwellen , en geven de geest meer bot : ik ingewand ontspringen nu een die vijand god te lest zijn betrappen door d'Ithakoische strikken .	Joy_Emotion_BodyPart_BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.1896.s.2	hebben noodlot deze bestuurt , geren menselijk beschikken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1901.s.1	mare of die schalk nog deze lijfsgevaer ontspringen , Door zijn ervaren brein , en slibbergladde tong ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.1933.s.1	doen zaak en lijden geren ' lassen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1933.s.2	wie zulle het zo bestellen die zijn dood vijand , en hater het oordelen vel : naar datmen het oud , en langvergeten uit de hoek halen hebben , en doorsocht wel nauw sijns leven boek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1933.s.3	vinden ding die hij zijn ontschieten door doen jaar : En waar doen logen gelden , daar zalm waarheid sparen : En geven het valscheen schijn vinden oprichten , en een ' verf vinden bloedbad , vinden verraad , vinden lijden en landbederf .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1933.s.4	zijn vonnissen boven aen zullen in hebben voorhoofd voer : Hoe die hij driest bestaan hebben haylige aen te roer , En brak mede een band zijn rijcx band altemael : hebben heyr verwarrende mede een ' gedeelde taal : Beswangrende een gedrocht , en Hydra vinden geschil , vinden node , gebeurlijckheyd , vinden moet , en vinden wil : En eisen in deze geschrei , die slechts zijn bovensang allee zullen zijn horen , door kerk , en priester dwang : ja weten geven , waar naar die d'outerknechten , Een hemels Godvryvolck , zien zullen moet recht : En stijven hebben onderscheyd vinden nodig , en vinden nut : En strekken door gezag de nieuwigheid stutten : Afslaende een wettig verzameling vinden Paepen : En brengen om zijn ' tent vreemd krijgsvolck in doen wapen , zelf buit zijn veldheer lassen : en duizend ding meer .	None
+vond001pala01_01.TEI.2.text.body.div.sp.1933.s.5	mare gaan binden , wan doen raad vergaderen weer .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.1	nul Nacht , wie donker kleden beschaduwen al mens , zo wel die heerlijk zijn , alles die om noodruft wensen : Wat boosheid decktghe doch mede dik duisternis , wie liggen of bedrog u ' naerheyd gunstig zijn ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.2	ik vordertme in de raad , hoe durven ik ik vertrouwen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.3	hebben zijn op ik munten , daar zijn wat quaeds brouwen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.4	ik mompelen allerleyds : ik stroyt een vals gerucht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.5	ik ' vriend zijn bezorgd , ik raedme die ik vlucht .	Fear_Worry_Emotion_EmotionalAction
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.6	Hoe kunnen een vrome gemoed , gij kentet Hemellieden , die niets en zijn bewust , verstaan tot eerloos vlijen !	Fear_EmotionalAction_Shame
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.7	Hoe kunnen een edel harden verzwelgen , datmen segg ': Die druipen voor schelm door voor Trojen in het beleg , nog ' dor gedaghvaert niet zijn ' zaak voor rechte bepleiten : Vermits hij wassen berucht vinden schandelijk feit .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.8	Neen Palamedes , blijven , en houden nog lief stelen : Al schietmen pijl uit dopen in bitter gal , zo brandmerk door u ' vluchten , uit ijdel vervaernis , doen glorie niet uw naems , uw zelf tot beswaernis , u ' maag tot verwijten , u ' vijand tot vreugde ': mare beuren u voorhoofd op , en tonen die waar deugd ' , alles d'eedle palmboom , geren ' lassen te dragen weigeren , En tegen het zwaar gewicht de lastering steigeren .	Joy_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.9	hebben onverbreeckelijck rechte vinden het oud Grieckenland , d'Handvesten ooit schatten een die en heilig pand , doen gild vrijheid , die vasten treuren , en slaan aen het kwijnen , ik reis aen reis dus langen , hebben tegen het ondermijnen de boos voorgestreen : ik blijven haar schutsheer nog , En voorspraak tegen list , en uitmaken bedrog , zo langen een ' druppel bloeds zullen uit ik ' ader leken : zo langen ik ' zuiver tong kunnen zuiver waarheid spreken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.10	doen macht ontbreecktme niet om deze gevaar t'ontgaen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.11	Jupijns manhafte zoon , zijn neef doen Peleaen Erbieden zich om strijden , mede hoog en haylige eed , Te karn zijn veldheer grim en ongerechtigheid .	Emotion_Anger_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.12	En ik ' onnozelheid , in spijt vinden logentael .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.13	En siedendheete wraak , door wapen en staal Te vrij wettelijk : mare alles ik het overwegen , het zijn goed die ik lei , dan die ik mijn sege mede burgermoord bevleck , en om zij onverstand griek tegen griek , en standaers tegen standaers kanten : het zijn goed datme ' een ' ziel verdelge vinden de aarde , alles het euvel uitwas mede de schitteren zwaarte .	Emotion_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.14	vinden datmen ik verkiezen tot al vorstin mond , En alles verdediger , aen wij gebied verbinden , mede diergesworen een , verstaan ik , zo ik het huid Hoognoodigh voor de staat [ hoe schendig zijde het misduyden ] En tot verzekering de vorstin in het gemeen , nog oordelen : die het gezag op het hayligdom allee de scepter toebehoren , en vorstelijcke band : En die geren tempelier zijn ' vinger en zijn hand zullen schenden aen die tomen , en teugel : alles een rechte En hoogheid aen zijn land staat onscheidbaar vasten hechten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.15	hebben zijn vinden aenvang ook bij al bondgenoot eenparig zo verstaan , verdedigen , en besluiten : zo drijven ik dan niet nieuw , of seldsaems , zoom het noemen : mare het priesterdom , die slinks hebben weereldlijck verdoemen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.16	nemen ik waar stom , en laten die teugel slibben : Tot wroeging mijn ziel , en schennis mijn lip : zullen niet te duchten staan geweten scherp dwang , waar aen koppelen zijn de stellen ondergang ?	Emotion_BodyPart_Remorse
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.17	naar ' et ban vinden doen deugd , naar ' et gruwelijk bestormen vinden raedhuys , en vinden kerk : naar ' et endeloos hervormen vinden tempel , tempeldienst , en wat aen het outer kleven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.18	Wat raadsheer zijn zo jong die het niet en hebben beleefd ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.19	doen kerk galm nog .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.20	doen kussen , en doen zaal ontbloten vinden grijs raad : hebben rook vinden doen paal , Beschreyen zij wellen , en het zwaarte vinden bloeden bespat .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.21	Hunn dolligheyd die spoken en roken vinden Stad op stad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.22	hebben heilig perkament , mede heerlijk wassen besegelt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.23	betuigen hunn ' razernij , te woest , en ongeregeld .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.24	Vergevet ik , indien ik ' vromigheid gezart , naar zo getrou een ' dienst , u ' zeer raken te hard .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.25	doen god zulle tot gerechtigheid bewegen doen klaar waarheid een doel blinken , alles doen logen vinden d'Ithakois smeden , vinden Calches tong vijlen , gelijk een damp verstuiven , en alles een rook verijlt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.26	ik maken de veldheer diets , om wij alles kaffa te wan , alles waermen tegen hij mede ijver inspannen : daar niemand hebben alles ik zijn eer vorderen hebben : Hoewel getrouw dienst ik kwaad ' beloning geven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.27	het zijn waar ik dulde het nooit , nog ' zullen hebben niet gehengen mede ik ' bestemming , datm ' onordentlijck gade mengen het bijzonder en het gemeen , het welk groots geschil verwekken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.28	hebben opperst gezag , alles hij te vellen trekken , zijn mede gemeen raad zijn ' scepter opdragen : Niet om het bijzonder rechte de vorstin te belagen , En deze macht zo wijd te strekken , dat een het bijzonder eigendom zullen smelten in het gemeen , En alles een dwingeland zien inden zetel zetten , En schenden doen vinden oud bezweren Griecxsche weten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.29	Hoe kunnen ik schaamteloos die onrecht mede hij staan , En tegen eer en eed ik vaderland verraden ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.30	het bezet mijn tent , mede meerder tal vinden wacht , geren wettig voedsel geven tot allerlei ' gedachte : Vermits hebben zijn geschieden door Ajax wijze raad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.31	ik wassen alree brengen in veeler hopman haten : ik zien noch horen niet alles bliksem , en donderen : ik mompelen vinden moord , bloedstorting , en plunderen .	Emotion_Hatred
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.32	Wat vorst vermogen deze niet ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.33	wat raken hebben yemands kroon , die ik voorsichtighlijck voorzeker ik persoon ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.34	deze maken geren ' staat in staat , gelijk zijde laster darren , nog ' strekken niet om hebben heyr door tweedracht te verwarren : mare wel tot enigheid , dewijl ik lyfwachts eed nog ' tegen het algemeen , nog ' ' skonings hoogheid strijden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.35	die wie doen schatkist vinden zijn land middel uitputten , waar door zien het weerloos heyr niet lang kunnen beschutten , ja lopen geren klein gevaar vinden droef nederlaag , te zijde ik mede Priaem zien schandelijk verdraegh : zijn logen en versieren . het zullen waarheid hebben gelijk , waar deze gestroyt om heen die eerloos zien verrijken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.36	mare daar en deren hebben niet . het zijn niet zo zeer om ik .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.37	ik trachten de vrijen staat te kwetsen door ik ' zijde .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.38	ik roepen tot slaefschen dienst hebben vrijgevochten griek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.39	En trekken bedecktelijck slaghveeren uit zijn ' wiek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.40	ik goed doen vroom naar , op datmen het rechte verstommen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.41	doen Godsdienst strekken een grijns , en het schelmstuck goed voor mom .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.42	Wat kaal zijn een berooid tot Agamemnons voordeel doen zaak handhaven , niet uit wetenschap en oordelen : mare puur uit eygebaet . het geraas , het gedrang , het gewoel zijn om de heilig niet , mare om de hayligen stoel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.43	ik zullen gedaghvaert dan voor Agamemnon tred , En tegenwoordig zelf de loos raad bekleden , En uitstaan mede dulden , hebben zijde ook wat hebben zijde .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.44	komen laster logentael , ik kennen ik zelf vrijen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.45	komen overjaerde wrok , komen langen gedreygde wraak .	Emotion_Vindictiveness_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.46	ik steunen op ik gemoed , en op ik goed zaak .	BodyPart_Trust
+vond001pala01_01.TEI.2.text.body.div.sp.2076.s.47	ik stappen ik ' dood te moeten : zijde strek ' het gemeen tot baten , alles ik ik bloeden vergieten te offeren voor de staat .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2087.s.3	NESTOR DIOMEDES .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2091.s.1	ik benop u ontbod , beheerser vinden Mycenen , En overste vinden het heyr , hier in de raad verschijnen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2091.s.2	Wat onraad drijven uw op , en dagvaart wij bij nacht ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2097.s.1	gij Palamedes woerd vinden overlang verdenken , En het kwaad vermoeden groeien , alles of gij mede doen Phrygen hebben heimelijk verstaan .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2098.s.1	papa	None
+vond001pala01_01.TEI.2.text.body.div.sp.2103.s.1	d'Onnoosle te betygen wassen ooit gering kunst , en zot kinderklap : daar het overtuigen zijn een hoogre wetenschap .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2103.s.2	wie aanzien niet gemeen mede die meinedig Trojen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2107.s.1	Hoe komen gij dan berucht ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2109.s.1	papa .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2112.s.1	die vragen heen die deze stro .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2112.s.2	Tot schennis mynes naems .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2117.s.1	Gemeenlyck wild zo gaan , waar iemand worden belasten , daar zijn een weinig aen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2119.s.1	PAL .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2121.s.1	zo maken doen lastering dan vrome lieden schuldig ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2127.s.1	die volgen niet : mare het geroep zijn nu zo menigvuldig In al krygslien mond , en zelf in Priams stad : zo datmen vasten geloven daar haperen deze of die .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2132.s.1	onzeker landgerucht moeten logen zijn of waarheid .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2132.s.2	die elk het bedenken schorten , en wachten op meerdre klaarheid ,	None
+vond001pala01_01.TEI.2.text.body.div.sp.2136.s.1	doen staat en lijden hebben niet , hebben leger lopen gevaar .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2143.s.1	Wat eyscht dan d'oppervorst , die ik doen waarheid spaer , En logentael verdichten , en vals strikken breien , mijn eigen ziel verworg , en zo vinden hier verscheiden ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2147.s.1	spreken waarheid , melden wij fluks wat in die boezem steken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2154.s.1	Een vrome en oprichten harden die waar deugd kweken , die nooit en wassen krenken door koninklijk gift .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2165.s.1	gij zode vinden Nauplius ik zullen u ' woord ziften , uw zelf niet bedriegh , noch halen geren ' swaerdre straffen Vw ' misdaad op de hals : ik heefter tijding af .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2165.s.2	hebben Paris mede een g'lay uw niet aen boord liggen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2165.s.3	zien daar , hij staat verstommen : hij heefter op zwijgen : hij zetten zijn ' doodverw : hij besterven in het aangezicht : hebben kwaad weten wroeght : hebben schellemstuck betichten zijn ' eigen meest .	EmotionalAction_BodyPart_Remorse
+vond001pala01_01.TEI.2.text.body.div.sp.2165.s.4	zo , zo zullen ik het kluwen krijgen , wie aanzien het einde alree : hij staetet toen mede zwijgen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2177.s.1	Niet schellems staan ik toen , nog zijn in het minst bewust vinden meyneed of verraden , noch innerlijk ontrust .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2177.s.2	Neen Agamemnon , neen : mare zijn al helen verwonderen Om deze ' beschuldigingh , die in ik oor donderen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2177.s.3	ik markt u ' valscheyt dingen naar ik onnozel bloeden ; die mooghtge storten , mare het vrysprekende gemoed uitblussen nimmermeer , mijn onschuld het hoofd zullen heffen te golf uit , of schonen haar lasterbuyen treffen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2177.s.4	zijn het om ik ' dood gedaan , zo spaer deze ijdel reden , komen koelen u ' moede aen ik , en leydme dadelijk heen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2186.s.1	hij maken zien zelf het zoeken , ja durven de Koning tergen , ontkennen het bekennen feit , en waentet te verbergen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2186.s.2	wie moet streng gaan , voorts brengen doen pynbanck hier , En persen doen waarheid uit mede water en mede vieren ; hebben zijn hardneckigheyt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2186.s.3	brengen herwaarts haren koorde , En rekken hij kruysgewys .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2186.s.4	hij passen op niemand woord .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2186.s.5	wie aanzien die wel eer halsterckere verleren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2189.s.1	Dats strydigh tegen rechte .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2200.s.1	geren oorlooghsvorst zien keren Aen yemands rechte of weten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2200.s.2	doen vorstin vol en drinken D'Handvesten nu en dan doen Griecxsche stellen schonk : hij neemtze dieze geven de volk in eigendom ; het zijn heer gift , een heer die eyschtze wederom .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2200.s.3	Indienze wij dienstig zijn , wie wil datze spreken ; mare zwijgen , zooze wij het hoofd mede tegenstribben breken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2209.s.1	ik heefter dan vergeefs vaak oorlog om voeren ; Vergeefs het aenpaelend rijk zijn nabuur om beroerd , En ijdel opgestoft .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2209.s.2	u vader in zijn leven spreken dikwijls : waar toen het rechte in perkament schrijven , mede letter rood vinden gouden , sterken mede heerlijk was : Wanneer geren burger ooit de zelf vrucht lezen , noch delen hebben aen het genot .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2209.s.3	och overheerde Argiven !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2215.s.1	wie staan op zijn vijand bodem , ik wil , ik believen , zijn al griek weten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2215.s.2	achten iemand mijn stemmen Een ' krachteloosen galmen , ik degen geeftse klemmen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2215.s.3	Nu antwoord op wij vraag .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2215.s.4	hier gelden geren tegenstreven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2218.s.1	ik zijn , heer Koning , uw nooit antwoord schuldig blijven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2224.s.1	Voorts rand de booswicht aen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2224.s.2	gei pynigers komen voor , Wat voeren ik woordenstrijd mede deze schelm , hij horen noch luisteren naar ik ' reden , voorts liggen hij het vieren wat nader , daar zijn niet aen verbeuren al sneuvelen doen verrader .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2234.s.1	gij heer zien voor uw , ik zijn in uw macht : Gebeurtme lijden of smarten , die zijn wellen en kracht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2234.s.2	gij mogen mede lieden gebaar doen ruim lucht vervullen ; mare denken daar levend die het vinden uw eisen zulle .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2234.s.3	belijdenis door pijnen uit yemands mond persen , worden zelden vasten geloven , en schonen gij het helen , hebben barsten te dikken muur uit .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2234.s.4	hij overtreden doen palen vinden billijkheid , die zo waend iemand t'achterhaelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2238.s.1	Indien hebben uw gevallen , nul veldheer , gade mede ik , Op datwe wij onderlingh besprek aen d'een ' zijde ' .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2241.s.1	Wat zeggen doen vader goed ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2243.s.1	nee .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2257.s.1	ik zullen grootmagtig koning vinden uw niet bidden het geren mogen dienst tot verschoning vinden meyneed , of verraad : zijn hier doen minst schuld , hij draegh verdiend straffen , en peenen mede dulden ; mare die gij niet en trachten , door pijnigen en rek , Een ' misdaad uit de mond vinden deze vorst te trek , Tot quetsingh vinden doen groot , en vinden het bijzonder rechte de vorstelijk naems , en zo uw zelf ' bevechten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2257.s.2	ik hebben ook op deze stuk nu langen genoeg dringen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2257.s.3	Misschien zijn het giftigh spogh vinden bits lastertongen ; mare isser ander iets , ik leggen hij die te lassen , En geven zijn onschuld plaats .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2259.s.1	ach .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2265.s.1	doen booswicht die zijn vasten , nul roemen vinden Neleus stam , hebben schelmstuck zullen wij scheiden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2265.s.2	wie vinden het goed hij zo een weinig om te leiden ; mare of hij het loochnen dor , alwaerder blyck en schijn , zullen dan doen pynbanck niet wij ' jong toevlucht zijn ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2271.s.1	het geren blijken die spreken vinden zelf : wij veulen zijn moeten zien schamen .	EmotionalAction_Shame
+vond001pala01_01.TEI.2.text.body.div.sp.2271.s.2	daar veel tekenen een ' zaak bestemme t'zamen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2271.s.3	ik nemen zo korten een ' weg alsme ' immer nemen kunnen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2274.s.1	slepen hier de dood spie .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2274.s.2	wat dunken uw vinden die manna ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2277.s.1	hebben zijn een zielloos lijf .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2281.s.1	die zijn het niet datwe vragen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2281.s.2	zijn het niet doen spie die vaak hebben leger komen belagen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2284.s.1	het waar mooglijck .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2288.s.1	het zijn hij zelf , die dicwils wassen gewend Te duiken in doen schaduw vinden Palamedes tent .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2291.s.1	ik aangezicht die mens mede kennis nooit aenschoude .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2296.s.1	Vwe oog zien hij , doel gij hij toevertroude het Geheym vinden brief aen brief : of alles hij vinden Priaem uw schrift brengen , en groet in zijn grijs konings nader .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2304.s.1	ik haar moeten alles Megeer vinden zwarte slang kriel ; ik ' schimme naemaels draege allee , het geren al ziel , In onderaerdschen poel vinden Dis zijn toegedoemt ; ik nader die zijde een vloek waar die hij worden noemen ; Of alles Prometheus moeten ik het leverpicken lijden ; Indien ik kennis hebben aen deze verraderij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2311.s.1	Spaer u meyneedigheyd , nul boos verrader harden !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2311.s.2	Hoe die gij hoog zwaard , hoe diep gij verward .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2311.s.3	lezen zelf de loos brief vinden zijn Konings ring zegelen , tekenen mede zijn hand , en vloek niet ongeregeld .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2317.s.1	hebben schrijven zijn Priam nog Hector niet verbod , nog strekken ik tot geren ' vlek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2317.s.2	gij kentet goed god , Die ver zijn vinden het bedrog in uw tronen zitten , Hoe zuiver die ik zijn , en heilig vinden weten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2318.s.1	AGA	None
+vond001pala01_01.TEI.2.text.body.div.sp.2320.s.1	Nu Diomedes tuigen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2323.s.1	Wat eyschtmen voor bescheid ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2326.s.1	tuigen wat uw wedervoer alles gij doen ronden doen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2345.s.1	het wassen over middernacht , doen bleek ster vallen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2345.s.2	eest gaan ik strandewaerts bezichtigen wij ' kiel ; mare al wassen in stilte : doel nemen wie wij pad naar Ida , tussen het heyr , en tussen zijn vijand stad : vinden derwaarts horen wie het geruis vinden yemands voeren , En houden stelen , belust wat of wij zullen ontmoeten ; Of spook , of die , of mens . het gerucht komen nader aen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2345.s.3	ik oor begerig vangen hebben ritselen de blad , vinden het lis , en het groen kruid .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2345.s.4	bij scheemerschaeu te lest zo worden ik hij gewaer , hebben die de griek te goed , En roepen : wij daar ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2345.s.5	hij zwijgen , en rukken gezwind voorbij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2345.s.6	ik volgen mede blank geweer , en kwets hij in zijn ' dy , En vatten hij naar de kraag ; hij duiken , en , of hebben God geven , In het duiken ik de spie steken botteling de strot af ; mede sneuvelen op hebben veld doen schelm en loods dief .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2345.s.7	ik rukken zijn ' boezem op , en vindter deze brief : waar uit doen boodschap blijken , en wieden hij wassen zenden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2352.s.1	Tot meerdre zekerheid , om al te doorgronden , zo heeftmen nagevorscht wij deze liggen brouwen : wij schelms genieten hebben hebben vijandelijk gouden , En het loods geheym ontdekken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2352.s.2	Ulysses doen wij openen , En tonen warm ' ik trachten de Kryghsraed om te kopen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2356.s.1	ik bidden ontschuldight ik .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2361.s.1	Voorts openen wij de schatten , Op die doen zaak blijcke , eer iemand wij bekladden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2371.s.1	daar sietge , nul vorstin , het gouden tot wij bederven beschoren ; wie glans hebben oog verblind , en schendig kosten bekoren doen vaak beproeven trouwen , tot zo vervloekt een feit , alles ooit zijn in Euroop bejammeren en beschreyd ; het meinedig Troje voeden mede zulk een lockaes wolf , En tijger in wij heyr .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2371.s.2	deze heeftmen opdelven daar Palamedes koorts zijn leger hebben spreiden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2371.s.3	Ach !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2371.s.4	die een groots ziel zien zelf dus vergeten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2375.s.1	Te oog hij het goed waarderen , die het ijdel wereld goed schatten alles waardig om een heyr te stillen in een bloedbad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2383.s.1	ik horen , ik denken , ik zien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2383.s.2	Iupijn gij kennen ik witten , zo deedghe , nul Themis , ooit , die voor zijn ' voeren zitten : wie godsspraak ik bezweren in deze ik verkleining , dat in Boeotien vinden mijn oprecht mening getuigenis geven : zo langen haar Godheyt spreken , En lang haar heylge kerk Chephisus stromen en leken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2389.s.1	wie nemen het voor bekennen . het verraad zijn wij gebleecken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2389.s.2	gade voorts in hechtenis , tot dat worden strijken Een vonnissen over het feit .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2389.s.3	liggen af het meinedig zwaard .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2389.s.4	ontwapenen hij terstond , wat draelt gij ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2389.s.5	ik begeren het .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2392.s.1	diets openbaar wellen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2398.s.1	scheiden deze vinden doen vrome Door scherp vangenis .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2398.s.2	laat niemand bij hij komen , Tot die hij het recht lot naar zijn ' verdienste ontvang .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2401.s.1	Een die niet denken durven zijn wonder bloot , en bang .	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2405.s.1	rijden vinden EUBEERS .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.1	ALree hebben dun zaaien gesternte Verflaeut , en niet zo vurig branden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.2	doen schaduw zijn aen het overleenen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.3	doen nacht hebben opgeven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.4	voor zien heen doen morgenster drijven zijn hemel haar .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.5	doen voerman vinden de groot beer , Op die hij zijn beuren verwisselen , Die vlucht mede omkeren dissel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.6	doen goud Titan rijzen alree mede blauw paard uit de zee , En schitteren over bos en duin , En Idaes blaederrijcke kruin .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.7	nul wellekoome morgenstond !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.8	gij voeren hij spel in de mond vinden eindeloos salighede , Die rustig lustig , wel te wreed .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.9	beschouwen wat wij natuur geven ; wat schoonheyd in haar aanschijn zweven ; wat goddelijk worden , door al haar ' lid , vinden het diep verwondren aanbidden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.10	Die in een liefelijcke strijken , bij het ruisen vinden een ' silverbeeck zijn landhuis stichten , en boers woning ; Wat zijn die een zegenen Koning !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.11	Die niet en vlammen op ijdel lof , En zijn lust mede zijn ' hof Vernoeght , en indrinken mede zijn oor de vogelzang , die zien laat horen , alles d'uchtentdou langwerpig liggen bij druppel hier en daar gespreyd ; Op roozebladen vers ontloocken : Wanneer zien opdoen duysend rook , En duyzend kleur , voor hebben oog , vinden bloem : alles een regenboog , alles Iris bruylofskleed weven : Een schilderij die zwijmen naar ' et leven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.12	hij planten , hij poten , of hij verzetten : Belaegt doen vogelen mede zijn netten : Of overlenende mede ijver , doen spartelvisch trekken uit de vijver , mede zijn ' buigen hangelroe : Of zijn hij zulk spel moede , hij spannen zijn paard in voor het dag , En goed mede hond het konijn belagen : Of rijden bij klaar zonneschijn Door weg die strengelen zijn alles voormaels de Cretensen doolhof .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.13	Hier bloeien een afgetuynde koolhof ; daar lachen een ' beemd ' een klaverwey , omsingelen mede een bomenrij ; ik leeght doen koe uier wakker ; Hier swoeght en ploeghtmen op de akker , En ginder hooptmen op het gewas : daar saeytmen boekweit : ginder vlas ; Hier groeien en bloeien hebben weeldigh koren , omheinen mede stekelig deur ; daar spoeden een speeljaght over het meer ; Hier roken een dorrep : ginder ver Een slot willen in het verscheiden verflauwen , En hoog op het gebergte blauwen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.14	ver dwaelt hij vinden deze leven af , die d'onrust nagaet , tot in het graf ; Die tot de avond vinden de morgen Geknaeght plagen worden vinden doen zorg , vinden zorg , die niet rust laat , Die slaaf worden vinden een ' vrijen staat , En tot gemeen goed zullen ramen , En brengen zo veel hoofd t'zaemen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.15	hij worden bijten vinden doen nijd , Hoe vrome en eerlijk hij zien kwijt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.16	doen tabbaard , ik bekennen het , zijn eerlijk , En het kus deftig en raedsheerlijck : mare och wat zijn het een lastig pak : Wat moeite nestelen onder het dak , daar ieder vlammen naar hoogre stoel , En allerlei ' gebrek woelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.17	Die ramp vermijden ik burgerboer .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.18	hij drinken uit gouden nog parelmoer , geren Achonith , noch spoch vinden draak : het welk het harden doen ziel doen quynend braken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.19	ook schuilen hij voor doen ponjaard vrijen , Die , achter doen tapisserie , de manna vinden staat hebben lijf ontzeggen , En zijn voorspoed liggen liggen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.20	geren ' vrees maken hij het leven zuur .	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.21	doen gul de volk die wispeltuur , En wuft nu stroken , nu steken zijn heer , hij zonder hartzeer mogen ontberen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.22	vinden het bed hij niet worden opkloppen Half suyzebollend : noch ik stoppen Syne hand vroeghmorghens niet vol schrift , ik zullen zijn ' omgang niet sisten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.23	mijn huysgoon niemand wrok bespieden .	Emotion_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.24	ik mat hij door velen aenspraecx niet ; nog ' zitten beschanst in zijn ' papier , Die door doen slaafs zin zwieren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.25	hij ziddert niet voor zijn priester stemmen , Die al zijn ' vuilnis vegen aen hij , En schelden zijn ' landsheer voor een ' bengel , En veinzen zien god gezant en Engel .	Fear_BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.26	Door zo velen ' kleppen en gevaar , Door het onweer , die doen wichelaar mede lastertongen wekken steeds , drijven d'afgesloofde Palamedes .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2517.s.27	zijn ' schipbreuk zietmen te moeten : te zijde Neptuyn zijn wettig bloeden verschonen , en , aengebeen om bijstand , doen zee besadigh mede de drytand .	None
+vond001pala01_01.TEI.2.text.body.div.head.2520.s.1	doen vieren handelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2524.s.1	OATES .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.1	nul Chalces !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.2	die doen stranden bekleden mede praal vinden huis : En telkens sevenwerf hoord in een etmaal bruisen Euripius pekelschuym , zo vaak mede zand vermengen , hij uit d'AEgeesche zee wellen vinden golf brengen , En steken zijn hoorn op , en komen uw hoog muur , En Aulis have diep , en wederzijds d'oevers schuren : nul vaderlijk stad !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.3	hoe luttel voeltge nog , Hoe Argos wrok , en wraak , en het Cephaleens bedrog ik ' ongerusten geest afmatten , en vermoeien : Hoe vrezen en hopen in ik nu eb , nu weder vloeien .	Fear_Worry_Emotion_Hope_BodyPart_BodilyProcess_Vindictiveness_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.4	Ach vader Nauplius !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.5	uw afkomst zijn in node .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.6	ik dingen hij naar de hals .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.7	hij worstelen mede doen dood : ik toetsen doen lastering , ik schouwen hij vrome , en echter ik goed hij naar , en stellen zijn ' vijand tot zijn recht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.8	hij die doen tong , doen mond , en schild de vrijheid zijn , zijn vrijdom nu ontberen , in zwaar vangenis .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.9	Hoe kunnen Ulysses doch een wettig vonnissen spreken ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.10	wie haten niet liever wensen alles zien aen hij te wreken , vinden sedert die hij slepen uitzinnig het ploegespoor Aen stranden , doel Palameed hebben kind liggen in doen voor : waar door hij fijn bruid Penelope mos mis , Om , Sparten te geval , doen schandvleck uit te wis vinden Menelaus bed , en namaels alles doen Thrax hij afslaan zijn verzoek , en mijn broeder straks Afveerdighde mede graan , doel het schier wassen omghekomen , hebben d'oudewrock allencx in felheyd toenemen : Meer zaak ik verswijgh .	Emotion_EmotionalAction_Hatred_BodilyProcess_Vindictiveness_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.11	wat Tydeus zoon belangen , Dats een soldaat , die gans aen Agamemnon hand , En vinden zijn hand vliegen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.12	mare woerd voor al , nul griek !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.13	die doch doen rasebol , die niemand kwalijk ruiken , Of lucht mogen , en scherp twee woord spel kunnen , te vierschaar niet en gade , noch over zulk een ' manna , noch over zijn daen een onrijp oordelen stamer : zijn ' domheid worden berijden vinden ons vogelraemer : Thersites bolderen uit wat Calches denken of dromen : d'Onwetentheyd die maken hij stout , en onbeschroomd .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.14	Kortom , loftuytery , en baetsucht zien wie heden , En loshoofds dom kracht de rechterstoel bekleden : deze wichelen ik niet goed .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.15	ik broeder zijn verraden : zijn hater meester zijn .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.16	hoe of deze willen vergaan ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.17	mare zien ik herwaarts niet de groot Ajax tred : zijn aanzicht zijn vol vuur : hij morren , en schijnen t'onvreden : goed zoeken ik heul aen hij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.18	nul soone vinden Iupijn !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.19	Wat tydingh brengen gij wij ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2576.s.20	zullen bede , onderschijn vinden rechte , d'onnoselheyd ik broeder sneuvlen moet ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2580.s.1	doen noytverdiende pee , en straf zullen hij boete , het En zijde hebben worden schudden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2582.s.1	OA .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2585.s.1	Wat zullen ik goed bestaan ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2585.s.2	ik zijn raedeloos , wat raad ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2587.s.1	AJ .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.1	ik neef doen Peleaen Te Lesbos worden verletten : het zijn d'Ithakoische treek : ik hebben mede voordacht door d'Atryden deze besteecken : mare zonder die , wie twee doorhieuwen mede wij staal zijn gevangene band , zelf in spijt vinden logentael , En valscheyd , die doortrapt deze naar haar ' wensen beschikken , En zijn vorstin braaf ziel , en wakkerheid verstrikken mede openbaar wellen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.2	zijde willender ik voor .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.3	foei , die dus Atreus zaad doen vorstin ringeloren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.4	foei , die zo groots een manna voor sulc een snood vierschaar betrekken , plengen zijn bloeden : die naderhand zo dierbaar zullen worp gewaerdeert , alles het klagen zijn te laat , En Grieckenland doen luchten mede droef weergalm slaan vinden klacht , en gehuyl : wanneer doen vlecht hangen , En hand gaan in het haar : doen traan lang haar ' wangeu Afbiggelen bedrukken , en het schelmstuck worden verfoeyt .	Emotion_EmotionalAction_Hatred_BodyPart_BodilyProcess_Sadness_Disgust_Despair
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.5	mare die d'aertswichelaer veinzen hier onder roeien , mede zijn doortrapt tong , en koesteren ons plaag ; En bakeren wij bederven : die zijn zonde te verdragen : die in zo fel een ' branden hij voeden olie gieten : die een verlopen Phrijgh gans griek doen verdrieten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.6	hebben lustme ditmaal een zijn leven te doorlopen zijn vader Thestor heet : wie hersenen hebben doorkruipen het Half levend ingewand de dier , zo hij zeggen , En noemen zien een ' zoon vinden Phoebus , en Agley , En letten op vogle zang , op spook , en ijdel droom , Op drift vinden God , en geest , op het ruisen vinden doen boom , En zijn hemel aangezicht , in het aldernaeste dorp , het welk roken bij hebben lek , omtrent een ' slingerworp .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.7	Hier queeckte hij Calches brein , en leren hij deftig klap .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.8	En grol mengen in landen nut wetenschap : En ramen op een haar , naar d'hayren vinden een ' doch , doen korrel vinden een ' vijg , doen big vinden een zeug , Die ronden en zwanger gaan , na'et maecxsel vinden haar janhen : En oefenen zijn ' geest op drie , op zeven springen , En het wettelijk gebruik vinden woerd en letterkracht , zeef , bekken , en gebeente .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.9	vaak lei hij hij bij nacht Op Idaes hoog kruin , en staren en doen ster , geven diep raedsels uit , en laten zijn ' zoon ontwarren verward vragen , en ontstricken knopen , daar Een Godschalck Arabier , of oud Egyptenaer , Of indiaans Branman om zweten zullen , en hygen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.10	Hier prachte Calches met , om noodtdufts eis te krijgen , En bedelde achter landen , gelijk hij wassen gewend : Tot die Laocoon en Panthus hij in het einde verwerven gul bij het hof : deze weten hij zo te smeken , Door ijdel lof , en door het opproncken de gebrek , die hij verkiezen waard aertswichelaer vinden het rijk : doel blazen hij hoorvaerd op : doel acht hij zien gelijk Een ' heilig vinden het outaer : en die zo koorts gaan beedlen , Hoonde al tempelier , en bengelen zijn land edel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.11	zijn ' trotsheid barsten terstond tot boos stuk uit : Door gaylheyd hij ontmaegde een ' streng verloofd bruid , de bruidegom te geval : deze tuygt doen grijs Nestor .	BodilyProcess_Love
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.12	de schim vloeken hij toen zijn ' oude vader Thestor .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.13	een ander bedgenoot , al t'eerloos vinden gemoed , Tot schennis hij verzien , en maken haar kuyscheyd vroed , die niemand Minos hebben noch Cerberus te vrucht , die Styx en Acheron zijn moolocken , en klucht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.14	Eurypilus bedekken hebben overig veulen Sijns meester , tot zo langen hij bloo , gelijk een uil vinden ieder een verpickt mos Ilium begeven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.15	doel komen hij al berooid in Grieckenland drijven Aen Agamemnons hof , en vlammen op het oud genot : Wtgevende : hoe hij zijn nacht door inspraeck vinden de God Apollo wassen vermanen uit Trojens slot en wal Te vlijen , om t'ontgaen doen dreygende ongeval , Die het stamhuis vinden Dardaen nu hangen over het hoofd .	Fear_EmotionalAction
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.16	deze nemen wij Priesterschap zo in , en het waard geloven vinden het volk .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.17	doen faam gaan voorts door al stellen stro Hoe Calches hebben gezien de hogen burcht vinden Trojen Verweldight , en doen wachten in het sluimeren doden , En vinden het Palladium Minervaes kerk ontbloten : doen Sceesche poort beroven vinden wijl Konings as : het Pallays mede vlammen omringen , en het Griecxsche zwaard verrafschen doen stad , vinden wijn en slaap bedelven op haar ' feest : ja tot waerteecken nog , hoe zijn ontwolckte geest doen vijandelijk god op Ilium bijten zien waar .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.18	Pallas op doen kruin vinden slot zitten , mede helm en beukelaar , vasten drillen haar ' taeyelans , En schudden haar ' pluim .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.19	Belloon die blazen vinden zijn toorn trans , En steken haar ' moordtrompet .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.20	doen vader heten ontsteken Door wraak zelf arm stijven , en zenuw de griek : verschaffen zij moede , en drijven doen god op de Dardaen , En op zijn ' wapen mede kracht en ijver aen .	Emotion_BodyPart_BodilyProcess_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.21	zijn ' wreed Iuno , mede de aengegorden degen , doen Sceesche poort bezet , en houden alleszins doen weg , En toepaen veilig , lang doen zee en waterkant , En roepen mede hees keel doen Krijgslien vinden doen stranden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.22	doen vlieden geven drommel uit de ander tot bijstand .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.23	Neptuyn die schudden vasten , mede sijner gaffel dryetand , zijn muur oud grondvest , die zo diep wortel schieten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.24	doen Priesterschap verbaasd , en al besterven vlieden Om troosten naar d'outers toen , naar Godgewijde drempel : mare al vergeefs , helaas , zijde vinden al tempel verlaat vinden doen god , vinden heiligdom , hebben keur : zijde wieroken te spade : geren ' godheid geven gehoor .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.25	daar spoken mede haar toorts doen wreed razernij , mede slingerslangigh haar .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.26	ik zien aen al zien doen stad te vallen doemen , zo raken hij in zijn eer : Wat Ilium ontnemen die geven hij Argos weder .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.27	doen veldheer mos zijn ' tong tot groot kost huren , En zelf zijn ' wreedheyd en moordadigheyd bezuren In Aulis aldereerst : doel op de vorstin bede En dwang hij Iphigeen mos heylgen Hecate .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.28	Een burger die het mishagen , en aensagh mede verwondren mos vlucht , en bedrukken zijn huysgoon nog zien plondere Door Krijgslien , heimelijk bij Calches opgeruyt : Die zeggen nog die deze ' straffen ontstond door god besluit .	Fear_HeavyHeartedness_Emotion_EmotionalAction_Sadness_Wonder
+vond001pala01_01.TEI.2.text.body.div.sp.2723.s.29	d'Atryden weet het wel die Thestors zoon een schelm zijn , En evenwel , vermits hij zij een staal helm zijn bij deze ' gelegenheid , misbruyckense zijn ' dienst , En boosheid tot zij witten : mare op hebben ongesienst zo sullense de boef en booswight een verschoppen , gelijk doen kind doel hun afgesleurde pop .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2725.s.1	OAT .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2737.s.1	ik broeder hebben de boef gekeecken door en door , vinden voetzool tot doen kruin , en komen zijn ' liggen voor Tot de Argiven heil , en houden mede kracht de teugel , Tot hij de een voeden arglistig in de beugelen , En door de veldheer heup krijgen steunen vinden stegelreep .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2737.s.2	Nu doen hij het Dorisch ros een draven naar zijn ' zweep , En luisteren wonder gauw naar ' et prikkelen sijner sporen : Nu rijden hij die hij rijden , en hebben alree gezworen bij Palamedes dood .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2737.s.3	wat raad ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2737.s.4	doen tij zijn korten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2737.s.5	En hoemen lang draelt , hoe het kwaad nog erg worden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2759.s.1	doen raedeloose nemen hebben ree tot zijn voordeel , Niet zo hij willen , mare mogen .	Emotion_Despair
+vond001pala01_01.TEI.2.text.body.div.sp.2759.s.2	zo Nestor over het oordelen mogen zitten , mogelijck vallen het vonnissen niet zo zwaar .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2759.s.3	het wassen winst genoeg , indien wat tijd gewinnen waar : zo hij doen vierschaar slaan in eindeloos boeien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2759.s.4	Achilles midlertyd die koster onder roede : d'Oplopentheyd de volk mogen koel : zijn veldheer haten verzachten : Nauplius zullen spreken voor zijn zaad , En wettig erfgenaam , en tredense onder oog , Die willens weten dus uitstrooien deze logen .	Emotion_Hatred
+vond001pala01_01.TEI.2.text.body.div.sp.2759.s.5	Oates het voegen uw goed te ding voor u bloeden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2759.s.6	gade Agamemnon aen , en grijpen hij in het gemoed ; Betuygh hij hoe hebben strijd mede al recht orde , die iemand , wij het ook zijde , zullen vinden zijn ' vijand worp veroordelen : en verzoek ernsthaftelijck , die hij Gedoogh die Nelus zoon , mede d'overige drie te vierschaar gade : misschien zullen hij het u ' bede vergunnen uit schaamte , en ook om die zeer liggen drye rechter kunne Vermeestren zijn vierde stemmen .	Emotion_Shame
+vond001pala01_01.TEI.2.text.body.div.sp.2759.s.7	diets het naast die ik weten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2764.s.1	ik spoeden ik binden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2764.s.2	och d'Atrijden zijn te wreed : Dies zijn ik hopeloos , en vrezen een droevigh eend .	Fear_Emotion_Despair
+vond001pala01_01.TEI.2.text.body.div.sp.2767.s.1	Iupijn u ' broeder vrijen , en al zijn hater schenden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2775.s.1	D'Eubeers krijten vasten : wie maken het lang hoe grof .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2775.s.2	hebben moeter evenwel nu onder door , of over .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2775.s.3	Hier gelden geren aarzelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2775.s.4	doen kans zijn al gewagen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2786.s.1	gij die alles oppervorst doen bijl vinden het leger dragen , En zijn baren tot hebben Staf en Scepterswaeyen ; wild door uw heus heyd doch wij onbenoegen paaien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2786.s.2	doen rechter span vasten doen rechtbank , en te gaar ik ' broeder dreigen mede hebben uiterst gevaar vinden het leven , en vinden oud op hun vijand nydigh , En haetigh , dragen zien in het oordelen te partydigh .	Emotion_Hatred_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.2786.s.3	schutten deze onbillijckheyd , en weertse door u ' macht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2794.s.1	gij spreken te spade .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2794.s.2	doen zaak zijn nu te ver brengen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2794.s.3	doen rechter zijn loten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2794.s.4	hij salse erkennen moet ; mare vinden gij het goed , ik zullen het geren streng schijnen wat verzoeten mede nog een ' vieren stemmen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2794.s.5	wie stillen het aen u ' keuren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2794.s.6	kiezen die uw goed gevallen , en dragen wij iemand voor .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2798.s.1	deze ambt voegen Nestor goed .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2819.s.1	ik lijf knechten zonder beiden zeggen Nestor aen ; die hij in het rechte de twisten helpen scheiden , En voegen bij d'andre drie zijn wijsheid , dat niet Onbillijcx in deze stuk uit toorn , en zucht geschieden .	Emotion_Anger_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.2819.s.2	zijde wanen wij hebben werk mede list t'onderkruypen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2819.s.3	mare het zijn doen doodsnack , het zijn d'Eubeers laatst stuip .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2819.s.4	doen zaak zijn zo doornaeyt , en zo bezet in all s , hij raeckter eer niet af het en kosten hij zijn hals .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2819.s.5	doen klink die moeter door , hebben zijde ik het rechte of krommen schouwen ja eer doen rechtbank zwijgen ik gieten een ' tong vinden stom gouden : die honderdoogigh hoofd , die wachter zijn ik moede , En Argos Argus haten , alwaar het mare om doen koe , Die tot de buik toen treden in fris klaverweyde .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2819.s.6	ik zien , ik zien de beul het zwaard trek uit de schede : de oude hondsvot vasten staan sidderen voor de slag : daar liggen doen grijs kop , zijn land uitgediend gezag .	None
+vond001pala01_01.TEI.2.text.body.div.stage.2826.s.3	THERSITES .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2847.s.1	gij heer diete gaar op Agamemnons heet , Om Palamedes zaak te vierschaar zijde zitten , uw al zijn bekennen hebben gruwelijk verraad , brouwen tot verderf vinden de gemeen staat : En hoe d'Eubeer vorst , uit Nauplius spruiten , hebben toezenden gouden meinedig hebben genieten vinden Koning Priams spie , en listig omkopen veel hopman , en zo het heyr al meer en meer brengen In het uiterst gevaar , vinden onder Trojens wal , Voor het kriek vinden de dag , te worp overval .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2847.s.2	Dewijl doen misdaad dan zo klaar en helder blijken , Ontbreeckter dat voorts een wettig vonnissen strijken , En naar ' et begaan stuk de schuldig doen boete zijn ' welverdiend straffen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2847.s.3	gij rechter zullen dan moet aanwijzen mede u ' stemmen , wat hij worden opleggen , Die zien bewegen laten tot zo vervloekt een feit die Nestor zien verklaren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2854.s.1	ik wens genadig heer , die wie door het oordelen noch kwetsen , nog verseeren de schonen gebloeyden staat : mare datmen lief hal Tot matigheid , alles al te streng een vonnissen vellen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2855.s.1	THER .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2862.s.1	Wat zeggen doen grijs manna ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2862.s.2	gij suffen , nul oud vader .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2862.s.3	geren ' strengheyd zijn te hard .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2862.s.4	hebben zijn een landverrader , Een overgegeven schelm : vinden zulk een bij uw heul ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2862.s.5	laat ik er met begaan , en heylightme tot beul .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2862.s.6	ik hebben voor langen gewenst de booswicht aen te rand , En tot elk schouwspel hij te willen mede ik ' tand .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2863.s.1	ULIS .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2884.s.1	Thersites houden gemak , en spreken op uw beuren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2884.s.2	gij vader Nestor , die gij het leger niet gestoord wild aanzien noch kwetsen , zijn lof en prijsens waardig : die achten ik , zullen geschien , indien wie helen rechtvaardig Af handelen deze zaak , en laten het rechte geschien , En niemand bloeden , noch stam , noch mogendheid ontzien , wan sooge deze straffen wild zwak door verschoning , En door doen vinger zien , die het outer en doen woning uit goudsucht hebben belagen , en dragen uw alles tolk vinden zulk een schendig stuk : gewisselijck hebben volk zullen t'samen rot , en vergaren in veel hoop , En morren : datmen laat doen groot schelm lopen , En die handdadigh zijn aen klein zonde , hard te straf vorderen , en doen goed gemeente zart , En alles bij d'ooren trekken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2884.s.3	hebben krijgsvolck zullen wij honen , En roep : die wie zijn aensienders vinden persoon : Of die wie het mede hij staan die zulk net breien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2894.s.1	daar dienen wel op letten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2894.s.2	hebben geren Ulysses zeggen zijn niet dan al te waar , laat deze zijn ' schuld betalen , Eer datwe op ons hals de hopman ongunst halen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2894.s.3	ik zien velen ' swaerigheen , en vinden ik al bevreesd , En duchten niet zonder reden die duysendhooftigh beest , bij deze ' gelegenheid , en onder Trojens vasten .	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.2898.s.1	doen vader die worden kind .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2898.s.2	ik hout et hij te goed , Wat uitspraak hoeftmen hier ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2898.s.3	hij brengen zijn vonnissen ik .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2913.s.1	Om het heil vinden het Vaderland verguntme deze bede : En bij uw zelf proeven , en overwegen ik zeggen : Of't ongeraden waar d'Eubeer vorst te liggen In eeuwig hechtenis , op datmen niet en maken zijn overoud slachten verblinden door heet wraak .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2913.s.2	hij hebben een ' lang slepen vinden hooghgeboren maag .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2913.s.3	zijn Vader Nauplius , alles wie in Aulis liggen , zien in gedienstigheid niet weinig queet , en bieden Al wat hij bieden mogen tot reddingh vinden doen vlieden , En Palamedes dienst gaan boven elk vermoeden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2947.s.1	voorgaand deugd mede een schelmstuck te vergoeden zijn griek ongewent , een ' schandelijk daad wissen al weldaen uit .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2947.s.2	voorleden vroomheid baten geren ' mens , die vinden aard verwisselen , en verwandelt , zien aen het gemeen vergrijpen , en mede doen vijand handelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2947.s.3	noch reeks vinden oud slachten , noch stam , noch adeldom , En worden hier aangezien , nog ' buigen doen weten krommen : wan raken deze in swang , en waar die dag baren , Wat zolder tegen staan , zo lopen doen staat verliezen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2947.s.4	En om in hechtenis te brengen Palameed : het hebben velen bedenken in , en strijden mede ons eed : Voor eest , die wij verbinden , die zulk een mens moeten sterven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2947.s.5	Die schuld hebben aen verraad , en het algemeen bederven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2947.s.6	daar naar zo kunnen geren ' plaats verzekeren genoeg Een ' vorstelijk persoon : ik trachten of spade of vroeg na zijn ' verlossing , en ik zoeken doen wachten te krenken : ik hout deze vaderland in onrust en bedenken : ik graven doen muur door , of dragen hij in een ' kissen Voor boek uit : ik veinzen , ik hangelt , en ik vissen Om toorn , en om gracht : of eermen hebben kunnen ruiken krijgen een gevangene heer , gelijk een vogelen , wiek , En over zee en sant zweven heen door d'ope luchten : alles doen Cecropische Dedael zien geven te vlucht : En vinden zijn vangenis , waar in hij zitten versteken , ontbinden , passen zijn leed en ongelijk wreken , hebben geren hij wanen en dromen die zien zijn aandoen : En durven al wat hij denken aangrijpen en bestaan .	EmotionalAction_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.2947.s.7	Meer ding ik verswijgh die staan te bezorgen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2951.s.1	ontslaan uw vinden die vrezen , door vasten en wis borg .	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.2955.s.1	Wat borg zijn man ghenoegh ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2960.s.1	Achilles geven zijn woerd , En Ajax .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2960.s.2	wel wat deze .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2960.s.3	wij komen wij hier aen boord ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2963.s.1	hebben zijn doen goed menen	None
+vond001pala01_01.TEI.2.text.body.div.sp.2968.s.1	nul goddeloos treek !	None
+vond001pala01_01.TEI.2.text.body.div.sp.2973.s.1	Wat zeggen gij ? het zijn hebben volk die heefter in te spreken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2973.s.2	Wat seyter het leger toen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2973.s.3	komen geven u oordelen dra .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2973.s.4	zullen Palameed doen landverrader sterven ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.2977.s.1	Ja .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2982.s.1	die zijn doen stemmen god , gij rechter neigen uw oor , En stemmen mede u ' menen , of vrezen de god toorn .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2985.s.1	ik leveren hij de volk .	None
+vond001pala01_01.TEI.2.text.body.div.sp.2989.s.1	ik stemmen het .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.2990.s.1	TH.	None
+vond001pala01_01.TEI.2.text.body.div.sp.2992.s.1	Thersites ook	None
+vond001pala01_01.TEI.2.text.body.div.sp.3016.s.1	Argivische landouw , mijn oog zien de rook opgaan vinden uw branden , en Calches ondertussen Die wiegen hebben volk in slaap , en niemand trachten te blussen hebben vieren , die in zijn as vasten smeulen en heimelijk smoken En die uw hoed zullen , die zijn hebben , die deze stoken , En uit besondren wrok geven voedsel deze vlam , roemen op geren ' lang rijden vinden oud vadrenstammen , Op hof schonen vinden bouw , noch stellen tros vinden muur : ik slopen ik slechten ' et al op deze onsalige uur : ik vellen gezwind te neder , wat langzaam zijn klimmen .	Emotion_Spitefulness
+vond001pala01_01.TEI.2.text.body.div.sp.3016.s.2	goed griek rukken om ver die zuil de vorstendom .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3016.s.3	de Athlas , die het gebied mede zijn schouder schraeght , En onverwickelijck die groots gevaerte dragen : Die onlangs hebben vrijen u ' dierverpande stellen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3016.s.4	goed griek , smoren doen ziel vinden u ' gerechtigheid : Verworght u ' trousten raad in zo velen ongeval : u ' vryheyds voorspraak rukken doen tong uit zijn hals .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3016.s.5	mijn ziel smelten aen luchten , en Pylus mijn been Ontfange , eer die ik horen de griek vallen bewenen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.1	ACh !	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.2	waar toen of de god onbescheyd befaamd deugd hier rusten en vrede ontseyd : En zonder staf , en aarzelen doen gaan zo steil een pad , zo wild en woest een ' bidden : Door kreupelbos , door wegen ruig begroeien , En onbestraet : daar elcke stappen vermoeien Een ' arbeydsaem hardvochtig ' manna , telen Om barrevoets schoeien te gaan mede eelt : daar vrouw natuur zaaien hebben scherp gesteente , die zweten doen zelf reus langgebeent : Daerme ' eenzaam dwaelt : daar zonder spoor of pad , Voor het oog geren ' spits verrijzen vinden vlek of stad , zo zwaar een weg , vinden zijn hemel hogen trans , drijven Junoos wrok de bastaerdsoon haers man geweldig in : het geklater vinden haar ' zweep vinden kindsbeen af zijn ' grof kracht slepen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.3	Voor d'eerste proeven het wicht mede zijn hantjes grijpen Twee slang aen , die het fluks te barsten knijpen : doen voedster scheppen haar ' doodverw , en zien stom zijn kind vuystjens zwart vinden adders om en om .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.4	zijn ' stiefmoer stag razen op Alcmene boos : alles zijde hij zien vinden Hydra , leeuw , en Reus , vinden Diomeed , Busyr , en stuur , en Beer , En Kakos moord mede zege komen weer : En gesp , tot verwondering sijner eeuw , Om zijn barsten doen slang , en fier leeuw : harnassen , overgeleecken held , mede die hij vrezen , en moedig hebben vellen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.5	Wat gruwelijk wat schrikkelijk gedrocht luchten , Zee , en aarde in het liggen te voorschijn brengen , die liggen kneuzen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.6	elk Hercules daad prijzen , waar Phoebus glans verguld's Aerdbodems lijst .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.7	doen faam zijn roemen voeren over al zee .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.8	zijn godheid worden kerckpleghtigh aengebeen : vinden daar doen zon doen beide moor verven , Tot daerse daelt , en in doen baar sterven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.9	mare endelijck zo breken hij mede zijn ' knots te poort in de onderaerdschen god : de schim rijk naar boven openen lach : het sprieten ooghter al slaan vinden de dag .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.10	vinden derwaarts hij opdonderen onversaeght , En voor zien heen de zwarte rekel jagen : vuren , korten , en vlijen doen keten mede zijn hand , waar met hij fors de dryekop lei aen band .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.11	mede zwijmen doen zon , en het liggen ontsonck zijn ' ziel , En alles een kleden doen nacht op het Aerdrijck vallen , vinden schrikken en vrezen .	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.12	hij drijven de gruwel voor , En voeren hij zo doen Griecxsche stellen door .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.13	zo hebben doen vuist vinden Hercules klemmen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.14	ik zien nu aarde en onderaards temmen , alles hij zijn hoofd door zijn hemel nave steken , En onderschoorde hebben liggen gestarrent dak .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.15	Alcides deugd genieten deze tot haar ' lot , die hij om oog mede d'eeuwigheyd de god Omtoogen waard : en slaan het hoofd om laag rook het wierook , die vinden d'outers opwaarts stijgen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.16	Alcmenaes zoon , die zulk een ' glorie kreeght , Wat baetet die gij het Aerdrijck hebben vegen vinden ongedierte , vinden menig tiran , En die doen god uw bruyckten tot hunn ' wannen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.17	alles sedert u ' vergoding d'Opperhel , naar oude aard , wat gruwzaam zijn , en fel , weer hebben telen , en rockent enkel kwaad : alles het onkruid weer vertreed hebben edel zaad ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.18	Och !	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.19	of gij nooit vinden wij scheiden woerd .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.21	hebben gij doch staken uw hemelvaart : zo zullen wij ' barsten niet zucht naar om oog : nog ' tranendou neerbigglen uit wij oog .	BodyPart_BodilyProcess_Sadness_Despair
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.22	zo zullen wie niet durven d'oude vreugde : nog ' treurig zien , hoe d'hooghgemelde deugd zo overvalsch betichten worden , en bekladden : Hoe het heilig bloeden het meinedig zwaard bespat : Hoe d'oppervorst , en al guit tolk , die edel brein te roven geven aen het volk : het welk opgeruyt , door vorst en priesterhaet , In zijn bederven mede blijdschap weiden goed .	Joy_Emotion_BodilyProcess_Sadness
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.23	Nu razen en woeden d'onwetende menen , En ons staat voorboghtigh overleent : ' Thans alsme ontwaeckt , en slaan zijn ' dolheid gade .	BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.24	komen naberou , en klagen velen te spade ' Thans alles zijn man deugd naar logen mest en damp opbeuren hebben hoofd , en blinken alles zijn hemel lamp .	Emotion_EmotionalAction_Remorse
+vond001pala01_01.TEI.2.text.body.div.sp.3116.s.25	Dan zullen het gehuyl betuigen wij hij wassen : mare te vergeefs bevochtigen fijn as .	EmotionalAction_Sadness
+vond001pala01_01.TEI.2.text.body.div.head.3118.s.1	doen vijfde handelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.3123.s.1	bieden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.3123.s.3	NEPTUYN .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3128.s.1	vervloekt , afgrysselijcke , en deerelijcke moord .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3128.s.2	Verfoeylijck schelmstuck , waar hebben ik ooit horen vinden zulk een ' gruwel ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.3128.s.3	kunnen de Hemel die gehengen !	None
+vond001pala01_01.TEI.2.text.body.div.sp.3128.s.4	wij zien doorluchtig bloeden ooit schandelijcker plengen ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.3133.s.1	Die nederlaag wij verhaal : vertellen vinden stuk tot stuk ik broeder uitgang , en beklaeghlijck ongeluk .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.1	zo fluks doen rechter naar velen overleg te lest hij gaaf zijn Krijgsvolcx grim , en hevigheid te goed .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.2	tijgen al doen Pelopeesche , en Ithakoische schaarde naar zijn opperhoofdmans tent , en legerplaats , daar ik Palamedes houden verzekeren , en gevangene , En paap Eurypilus hij sterkte , om zijn gang Te strekken naar doen dood troosten , en wel gemoed .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.3	mede zo spreken Calches : gij die ons al bloeden En leven op een ' prijzen gezet hebben , en uw merkelijk bezondigen , en misgaan aen het weereldlijck , en het kerkelijk : doen goedig menen die vorderen uw tot straffen : u jong tij zijn hier , dus breken deze marren af .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.4	d'Euboeer vorst die rijzen vinden daar hij wassen zitten , En spreken : nul mennen die verhitten zijde en bijten Op mijn onnooselheyd , wat zijn deze voor een ' wijze ' , die veertighjaerge dienst , en zo velen slavernijs , mede storting vinden bloeden vergelden worden in het eend ?	Emotion_BodilyProcess_Anger_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.5	zijde krijten : lantverraer , Jupijn u ' meyneed schenden : gij hebben uw vonnissen weg .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.6	hij zwijgen , en treden voor heen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.7	zijn ' recht zijden komen d'Aertswichelaer bekleden , doen slincke Eurypilus , en scheen zien t'erbarmen .	Emotion_Compassion
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.8	Een Cephaleensch soldaat rechte voor hij op zijn arm het kwansuis meinedig gouden dragen in een ' beukelaar .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.9	zo gaan hij moedig , en mede voegelijck gebaar : Bedrommelt , en bestuwt vinden Krijgslien , en vinden tros , En vorderen zijn ' tred naar Idaes hoog bus .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.10	Een heuvel ryster aen de voeden de berghs , die schuyn groeien alles een schoutooneel : vinden wie verheffen kruin En toppunt , alles doen vlieden werf het anker in deze have , Een ' kerk doen zon wijden , geciert mede rijk gaaf , verstrekken een ' baak in zee : vermits doen God , die koorts Voor d'ooster gevel braaf te prijken staan mede een ' toorts : wie goud flonkervlam natuurlijk scheiden te licht , En dag te zenden op de mens aengesichten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.11	Nu liggen die schonen gebouw schenden , en ontsloopt , En d'haylge steen hier en ginder ophopen , doen vorig heerlijckheyd besteenen , en beschreyen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.12	ons krijghsvolcx moedwil in die Godenprael gaan weiden , En branden , en blaeckt'et al .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.13	d'aertswichelaer staan stom , En lachen om het plunderen vinden Phebus heyligdom , En grenickte , alles hij zien , hoe het schuim de mens veilig , Een schouwspel maken vinden de Phrygiaenschen heilig .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.14	deze eertijds een ' gewijd en afgekeurde plaats , Nu een verspogen vloek , na'et woeden de soldaets te vadermoord doemen , mede gruwelijk woord , vasten grimmelt vinden hebben volk , die zwart vinden al orde Hier dringen , en t'samenschoolt , en Idaes steilheid leven vinden mens , daar doen berg een openen uitzicht hebben Op deze heuveltop : ontallijckheyd vinden fielt In zijn ' cipres , en geboge takken kriel , En beven in doen blad .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.15	Wat isser een gewoel !	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.16	Een ieder hebben zijn witten : deze dragen zien stillen , en koelen In het weereldlijck beloop , nog ' weten wat hij zullen wensen , En om te kijken volgen slechts het spoor vinden ander mens : Die braken zijn ' gal , en scharpt zijn tong gelijk een peil , En bootsen in het spreken naar de priesterlijcken stijl , En schelden , en zijn vol vuur , en groeien in zijn naast schennis , En worden al helen berijden vinden ijver zonder kennis , En dor naar ' et edel bloeden : een ander ruim zo flauw In tegenyveren , uit vrees vinden hebben grauw , zien intomen , en mede rouw hebben treurspel komen bekijken , En het voorspellen tot bederven de europees rijk : Een enig zwijger wegen doen wereld in een schaal , zijn volk zotternij belacht , en treuren om zijn lijden kwaal .	Fear_Emotion_Sadness
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.17	doen dom menigte haar hand t'samen klap , mede die hij alles een leeuw grootmoedig aen komen stap , En klimmen de heuvel op , eer die hij iemand vergen : En staande op het opperst , na het rijzen bergen die statig aanzicht wenden , waar met hij onbezweken plegen in Mycenens zadel voor het heilig rechte te spreken , En voor de Griecxschen staat te ding mede zijn ' tong .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3223.s.18	hebben nieuwsgierig volk , door zijn man vrijpostig wees , hangen In twijfelen , of hij mede de hals zijn ' schuld zullen boete , Dan ofmen door genadig hebben vonnissen zullen verzoeten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3229.s.1	ik ' barsten die kloppen , en schrikken mijn aendacht breken , en storen : Doch vaar gij niet te minnen mede u ' vertelling voor .	Fear_Emotion_BodyPart_BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.1	zo staande in t'openbaer , mede opgerechten hoofd , nul mennen , zeggen hij , of uw heusheyd nooit geloven Al het geren doen valscheyd hebben vinden landverraeder dichten , die wassen ik hart wensen . ik hebben volgens mijn plegen gans vrome , en ongeveinsd , en openlijk handelen , En sterven een oprichten griek , gelijk ik hebben wandelen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.2	uit hebben hij , alles daar op vinden wedersyden hij doen priester bij doen god verbaden mede hunn ' stemmen , En steenden overluid .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.3	naar et sluiten de bidden zo weeckense af verbaasd , en gaaf zien beneden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.4	hij mede zijn dienaers helpen , troosten , en wel te moede , bereiden zien te dood , en tot doen middel toen , te half lijf naakt , in het uytterst vinden zijn leiden , zijn ' lijfknecht oorlof geven , die treurig treden te zijden , naar d'alderjongsten dienst .	Emotion_Sadness
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.5	daar staan doen deugd geciert mede waar onnooselheyd , vinden het lelijk ongedierte Begrenen en begrimt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.6	doen Beestelijcke krijger vinden mens nu veraerd in Luyperden , en tijger , vinden redelijkheid ontkleden , bezitten vinden doen wraak , En fel razernij , bevangen een graeger smaak Na'et goddelijk bloeden .	Emotion_BodilyProcess_Anger_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.7	zijde knarsten op doen tand .	BodyPart_BodilyProcess_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.8	doen gramschap saghmen uit hunn ' dreygende oog brand : Die gloeien vreselijk , gelijk alles kool vuur : En nu verkroppen vinden toorn , ontsint , en vol getier , En vloeckens , alles de haten hunn ' klacht hebben slijpen , doen gruwelijk beul , en duivel steen grijpen , En blixemden mede macht op deze vrome vorst .	Fear_Emotion_EmotionalAction_Hatred_BodyPart_BodilyProcess_Anger_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.9	ik zien de eerst stenen afstuiten vinden zijn ' barsten : de tweede vinden de slaap sijns hoofds , en horen klinken de slag vinden het beckeneel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.10	terstond vergaan hij het blinken vinden het eerlijk silverhayr .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.11	die achtbaere gelaat waard jammerlijk vinden bloed besprenckert , en begaan .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.12	mede zedig hij swijmend neder .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.13	doen godvergeten boef Die hagelen zo langen , tot dat hij gans begraven , En smoorden door het gewicht vinden steen meer en meer .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.14	gelijk alles Bacchus rijden gaan raesende te kaar de zoet Harpenaer , die vogel kosten lok , En dier , en het geboomte , mede toorts steen stokken : En morselden zijn vlees mede allerlei geweer : zodanig wassen hebben einde vinden deze wijze Heer : alles het roekeloos volk toevliegende , op gaan krabblen hebben bloedig puin , en om doen wreed steen grabbelen : deze uit nieusgierigheyd , en die uit encklen haten , Op die zijn dolligheyd , en moordlust waard versaed .	Emotion_Hatred
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.15	velen dooptender in het bloeden doen vochtbesweete doek , En wrong het uit in wijn , en zuipen het op mede vloek , En nood juychend tot d'onmenschelijcke feest Hunn ' spitsbroeder , vinden die God , en zelf tuymelgeest drijven en geraken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3286.s.16	de Hemel stroock u ' zin mede troosten , om door dulden die onheyl te verwinnen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3301.s.1	Grootvader legtge dood in d'afgrond , nog ' voelen u ' godheid het ongelijk uw naneef .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3301.s.2	komen en spoelen , En was hebben aerdrijck weer vinden d'oude gruwel vlek .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3301.s.3	u ' gramschap kosten wel eer de berg kruin dekken , En tot u broeder wraak , doen mens en hebben vee [ doel Pyrrhe en haar gemaal niet zien alles baar zee ] Verdrencken , en verdoen : u hoofd nu op wild steken En tonen u log nog ' traag , om straffen en streng te wreken uw zelf , en uw bloeds lijden smaad , en honen .	Offended_Emotion_EmotionalAction_Shame_Anger_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.3301.s.4	komen handhaven u geslaght , en d'oude sluyerkroon vinden Koning Nauplius : op dat door uw oordelen nog blijk , die Godensaed hebben boven ander voordeel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.3304.s.1	NEP .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.1	ik zoon , die het broederlijk en deerlijk ongeluk Besteent , scheppen moede , en tomen , en matig uw druk .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.2	zijn ' dood zo onverdient , alles staat , en landbederflijck , roepen wraak , en maken zijn ' nader roemruchtbaer , en onsterfelijk .	Emotion_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.3	doen dapper Ajax en Achilles blijven stout bewaarder vinden hebben lijk , tot datmen namaels hout zijn uitvaart , alles zijn as mede traan worden begieten , vinden Cadmus burgerij , doen schreyende Boeoten : Wanneer doen toeloop vinden het bij hij verdedigen volk zijn ' sterfelijkheid verselt te onderaerdsche kolk , Verwelft mede elpenbeen , verdeckt mede marmorsarcken : daar Themis antwoord geven , en in haar kerk de kerk hebben wierook voor haar smoken .	BodilyProcess_Sadness
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.4	dicht aen doen voeren vinden d'Aenbedelijcke maagd , ik deze groot manna Een goud pronckbeeld rechte .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.5	doen Griecxsche Ionffers brengen , En leen tot deze ' praal haar afgestreecke ring .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.6	Alreede zien ik staan de heilig half naakt , vrijpostig alles een held , die voor doen vrijheid waken : betekenen door de hoeden , bewaren zo sorrighvuldigh mede d'eene : d'andre hand , aen Trojens gouden onschuldig , d'Handvesten , toevertrout het gewijd perkament , En segels gade slaan , op dat niemand schenden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.7	d'Eerwaerdige god zijn man deugd schijnen te vier , En dekken zijn ' grijs kop mede haylige laurier : Terwijl hij vreselijk lijf en leven worden ontseyd vinden het grimmig ongedierte : op zijn onnooselheyd [ matten vinden ouderdom en veertighjaerigh worstelen ] alles op een ' vet roven mede opgesteecke borstel , mede manen vers schudden , en muil opgespart , bijten , en verbit .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.8	zijn fier moede die tarten het Vierspouwen vinden de draak , een onrust zijn eeuw , hebben huilen vinden de Wolf , hebben brullen vinden de Leeuwe , het Schuymbeckende everzwijn , hebben na geloei de Stiers , hebben grijnzen vinden de Beer , het gebriesch een Tygerdiers , En zijn luipaard tantgeknars .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.9	zo leven zijn ' faam doen jaar En eeuw door in spijt de vadermoordenaar : Die feniks sijner tij en hoe doen nijd meer bassen , Hoe minderen hij vertsaeght , hoe hoog die hij wassen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.10	het zijn billijk die zijn roemen , en lof te graaf uit zwellen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.11	AEolien hij wijd , en haylight een kapel , En jaergetydigh feest : en zetten op het oog outaer zijn ' beeltenis mede zang , en deftig kerckgebaer .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.12	doen priester mede hunn ' plegen , en blinken gewaad hij offrende , halen op zijn heerlijk daad ; mare groots zijn het jammer , en beschreylijck het ongeval , het welk om een vrome ziel gans griek treffen zullen : groots zijn d'ellende daar zijn hater zien in wikkelen ik neef u Vader goed mede geil min prikkelen de Koninginnen , en prinses eenzaam bed : weer bruidegom doen krijgen voor Trojen hout verletten : weer poeselachtigh vlees , door het lang ontberen , welig , doen wellust kiezen voor schamen , en dragen zien overspeeligh : En helen zijn ' kitteling , en lonken , en strelen , en kussen : En onderling branden mede zoet omhelzen blussen : Versmaed de mennen trouwen , om het puik de jongeling .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.13	d'Oneerelijcke galmen vinden spel , dansen , zingen , Door het gunnen welfsel rollen : en Venus stroyter het zaad Om neerslag , bloeden , en moord , en allerhande kwaad , Om traan , en gehuyl te made , en te oegden : Om vorst , en vorstendom ; en rijk te verwoesten : En het dolen overschot , mede twyfelige stappen , Te zenden over zee , en zand in ballingschap , zo ver , en zo uitheems , die nieuwsgierig het volk komen gape , En dutten of het mens zijn , of zeker slag vinden aepen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.14	Achillis gramschap slacht Thersites mede een ' vuist .	Emotion_EmotionalAction_BodyPart_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.15	doen moord slaan Diomeed voor Trojen . het water bruisen , En raken aen het zieden , alles ik grimmigheyd verbolgen haar ' vinden vinden zien steken : waar op doen storm volgen , Die Agamemnon in hebben karn mede zijn vlieden Afeyschen rekening vinden Palamedes dood , En het bloeden ik bloedverwants : en pijnigen het gewis de fel moordenaar : die enckle duysternissen , mede rood straal vuur , en krom bliksem zien Gespouwen , en doorklooft : en mede zijn oor niet alles schor donder horen , en ysselijcke slag : En drijven onwetend naar Samos door doen vlaag , In het eeuwig schuymend graf vinden Icarus en loven de zaligen Priaem voor het oog outaer onthoofd : vergeven zijn ' segefeest : en vangen , vol schricx en bevens , mede zijn gehoor het gekraak vinden steven tegen steven , vinden zijden tegen zijde , scheepskiel tegen kiel .	Fear_Emotion_BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.16	de vader Nauplius mede smarten verkroppen ziel , Die op d'Eubeer kussen het weerkeeren vinden doen griek Alree ruiken hebben , een ' fakkel doen ontsteken , En liggen in zee vinden het slot : die steil , en hooghgebout , Op zijn bergs verheven kruin , vinden wederzijds beschouwen , Een ' baar Zee : weer diep , en hol water woelen , d'Eylanden alleszins , en vast grond bespoelen .	Emotion_BodyPart_BodilyProcess_Sadness
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.17	doen stuurlien vinden doen vlieden , verlokken door deze toorts , zien geven derwaarts aen : daerse al te saemen voorts , In plaats vinden doen node , en lijfsgevaer t'ontslippen , verval in het gedruis de Caphareesche kleppen , En het luiden gehuyl vinden zo verbolgen vloed , Die stadig branden , en op doen blind kleppen woeden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.18	daar hout gerecht wraak d'ontrampeneerde schip verletten , door het scherp gesteente , alles vinden haar hand grijpen : Of mede een ' dijk bewelt vinden zand , die half drijven , En door gebrek vinden vloed heen slopen , en stuk wrijven , Of achter driftig , voor stranden op harden kauw : Of stootse aen splinter door de draeystroom , in hebben zwaaien .	Emotion_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.19	doen schipper vloek d'onherbergelijcke rijden , En haten het droog landen , en roep om doen zee : wie hees , en schor keel , door het na gehuyl de mens [ die ijdel en vergeefs mede bedeloft , en wensen ik ' gramschap paaien willen ] worden over het vlek verdoofd .	Emotion_Hatred_BodilyProcess_Despair_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.20	Ulysses evenwel , en het wrongkroondraegende Hoofd Ontslippen deze gevaar , sparen tot leed treurspel : daar gener schipbreuk vinden het voorspoocksel zijn , en het voorspel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.21	ik zien Clytemnestre alree geveynsdelijck en blij , Onthaelen haar ' gemaal : en Argos burgerij haar ' vorst mede waar vreugde begroten , en ontvangen .	Joy_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.22	doen luchten slaan worden mede fluit , en gezang .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.23	doen kerk gaan te feest .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.24	doen Koninglijcke zadel worden statig toerusten , mede overdaad vinden praal .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.25	banket rechtmen aen , hoedanig voor hunn ' traan doen jong maaltijd wassen de blijde Phrygiaenen .	Joy_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.26	hebben tafelbedde blinken vinden het Iliasche paars , En zijn purpers glans vermaard bij toorts , en wassekaers .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.27	het gouden vinden Assaracus verzwelgen doen Griecxsche wijn , En god lekkernij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.28	doen kop vol robijn hebben sterfelijk gezicht , en d'oogen schemeren doel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.29	het gouden recht'er wildbraed aen , en pauw , en kalkoen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.30	hij zelf liggen oog , en prat , en munten door zijn cieraeden Voor ander uit , mede bonten en spicklige gewaad , En dragen aen het lijf doen plegen , en kleding vinden Priaem .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.31	zijn eegemael bezweren hij bij zijn verwinnaers nader , die hij het versiersel doch sijns vijand af willen liggen , Voor betre wisseling : liggen zijn hij te geseggen , Om het handwerk aen te doel de lief bedgenoot : onkundig vinden het gevaar de koorts aanstaande dood .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.32	verschrikken nog ziddert niet .	Fear_BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.33	een balling om zullen brengen de Vorst de koning : een overspeelder plengen , En spil het bloeden een man .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.34	zijn ' slachting zullen geschien .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.35	hebben jong dischgerecht zijn ' Heer zullen bloed zien : hebben rood vechten de wijn bespatten : zijn Konings leven vinden Argos Koningin te nederlaag worden geven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.36	hebben aantijgen kleden die weygerd en ontseyd Syne hand doorgang : dies hij swoeght en arbeid En luchten zoeken : mare vergeefs .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.37	doen schieten ruim vinden vouw , En zonder opening zijn hoofd besluiten houden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.38	doen suffert gans verwijven hij in doen lende steken : mare overmits doen moede in het kwetsen hij ontbreken , hebben mest half keren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.39	doen Vorst beginnen te worstelen : En alles in het wild woud hebben boschswyn ruig vinden borstel : grijpen vinden hebben ned , nochtans t'ontvlieden trachten , En alleszins uitkomst zoeken , en woeden mede dom kracht , gans ijdel en vergeefs : vermits hebben vol verschrikken , Door het woelen eng maken doen loods jaegerstricken : zo woelen en trachten hij ook bedompelt , om hebben vals , En blindgeweven kleden te worp vinden de hals : En in de weiden schieten , en plooien inwikkelen Alom zijn vijand zoeken , ancxtvalligh aengeprickelt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.40	doen dochter vinden Tyndaer al woende , en rasend straks Verselt de gruwelmoord , gewapend mede een acx : En alsmen aen het outaer , op pleghtige offerseesten Voor het slaghte mede de bijl eest merct de nek de beest , En stier , alzo micktse , en wikken haar ' fel vuist Dan ginder , dan weder hier , en nemen ' et gewis en juist .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.41	hij leydter toen , doen schelm : weg hebben hy't . het zijn klinken mede deze dwingeland : wie wreedheyd hebben drinken het Neptuniaensche bloeden zo gretig , en zo hels .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.42	het Hoofd kwalijk afgehackt hand aen een lapken vels .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.43	Hier vloeien hebben schuymend rood daar grijns mond en oog .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.44	Cassandra , vol vinden God , te zadel komen ingevloogen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.45	En mede haar roosenhoed de lijcke d'uytterste eer bewijzen , en kransen de romp .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.46	zijde gaetse fluks te kaar mede d'acxe warm vinden bloeden , en dekken de sieleloosen mede zijn geroofden buit : die vallen doen roos , En fris bloem kreuken , en verven de Marmorvloer .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.47	liggen , roepen doen moorderes , liggen daar , nul Koningshoer !	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.48	nul schandvleck vinden ik bed !	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.49	nul kanker vinden goed ' zede !	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.50	die hebdy voor u ' lang gepleeghde vuiligheid .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.51	hebben dadelijk juichen hof , en vrolijk paleis geven nu een ' naar galmen , en zijn vol moordgeschreys .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.52	Electra zwijmen vinden schrikken : en anextigh voor haar moeder Verwoedheyd , bergen gezwind d'nnooselheyd de broeder , Door Phocius de Oom : zijde zelf in duisterheid , En vangenis bemuurt , een treurig leven liggen : Tot d'overspeelder haar ' , om achterdocht te schouw , doen mede een ' akkerman alles een ' boerin trouw : te tij toen die doen wraak doen moordenaar verrassen : Die , alsse in Pallas kerk doen groot god vasten mede blijdschap offeren , om Orestes overlijden , bespringen worp , en benart vinden al zijden .	Fear_Joy_Emotion_BodilyProcess_Anger_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.53	doen smarten geven wapen aen Dochter , en aen zoon .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.54	doen moedermoord bespat hebben aangezicht de god : Die toornig , en verhitten , om het schendig kerk ontwyen , dagvaart staande voet doen fel razernij , mede biesend slangenhayr , en ysselijck gegrim .	Emotion_BodilyProcess_Anger
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.55	doen neerslag knagen zij het harden .	BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.56	doen moederlijk schim , gewapend mede een ' toorts , heen naestapt door de tempel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.57	zijde vlijen voor , en zien doen vloek op de drempel : zijn al mens vloek , om zulk een ' grouwelmoord : doen dak stierense ongehuysvest altijd voor .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.58	die leren na heilig bloeden vinden Godenkinders dorsten Tot in hebben derde lid .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.59	ik gade de vallen de vorstin , En koning voorbij .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.60	ik zwijgen hoe Grieckenland veroorzaken moord uit moord , en mengelen branden in branden , En uytroyt stammet stam , geslacht mede geslacht .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.61	Door schennis schennis boete , verkrachten mede verkrachten : En aen het gewijd slaan zijn ' vinger onbesuisd : En in zijn ' boezem wroeten : terwijl Ulysses kruisen doen zee velen ' jaar langen vinden het pekelschuym bedelven .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.62	smijten herwaarts , en derwaarts mede ik ' golf : sollen rollen , door zoet en zuur , door heten en kouten : weken vinden het natten : braden vinden hit , en zoor vinden het zout .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.63	naar die hij zijn ontslippen doen Caphareesche liggen , doen wind hij aen d'onherberglijcke oever jagen , vinden het fors Thracier volk : daar Hebrus koud vlijt zijn water lozen , en in d ' AEgeesche baar gieten : vinden derwaarts wederom naar d'Africaensche kust : daar zijn gezelschap zien te neder willen slaan , en rust , Vervlockt door het lekker oeft : dan na Trinacria , In het hol vinden Polipheem , de Cyclops : die te spade zijn ' dronkenschap beklagen ; om die hij nu in het duiken , En het rijzen vinden doen zinnen eenoogigh niet mogen bruycken de zienlijk God , en het aanbidden liggen : Dan tweemaal daar AEool zijn ' zetel hebben stichten : En over bui heersen , en breidelen dwarrelwind : Dan weer naar Antiphaet , ooit hongerig om verslinden hebben rouw mens vlees , waar hij het bekomen kennen : Dan bij doen toveres , een ' dochter vinden doen zon , Die haar verspieder fluks herscheppen kunnen in zwijn , En d'Ithakois verletten drie honderd zonneschijn : Tot dat in't scheyde zien mede Telegoon vertroosten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.64	In wie schonen aanschijn zweven , en leven haar boelschaps kroos , vinden derwaarts wenden hij het roeren naar d'Oceaensche baar , En daelt daar onderaerdsche , en dootse schim waar : Dan wederom zijn schip aen Cieces orde sturen , daar mede lijckstacy hij Elpenoors uitvaart vuren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.65	vinden hier lang d'oevers de soetsingende Sirenen : Die onder navelvisch , en boven maagd scheen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.66	ik zwijgen hoe hij het gevaar vinden Scylle .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.67	en vinden Charybd , haar draeystroom , branding , kolk , en woest gesteente ontslippen , doen rots witten vinden schuim , en grondeloos afgrond , En het blaffen gehuyl de blauw , en zeegroen hond : En landen daar Phaetuse haar vader beest hoeden : Die het hongerig scheepsvolk slachten , wie zonde Ulysses boete : mede schipbreuk , alles hij naakt tot berging vinden zijn leven , naar negen dag bij Calypso komen drijven : Die alles hij zijn ontrukken doen kaak vinden doen dood , hij zeven jaar stoven , en koesteren in haar schieten , En leren de griek , mede minnen te stoken , en te les , Hoe zoet d'omhelsing zijn , en bijslaap de Godessen : te tij toen dat een ' zoon , en schoon Dochter telen : deze op doen moer trekken , die zijn sijns vader beeld .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.68	naar die hij vinden haar scheiden , en zijde het niet kunnen ontzeggen , En zien Phaeacien mede blijdschap voor zien liggen , ik mijn dryetand reppen , en breken zijn ' nieuw kiel .	Joy_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.69	Leucothoe die bergen zijn half versoope ziel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.70	doen stranden ontvangen hij naakt .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.71	hier schuilen hij in doen brand .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.72	doen Koninglijcke maagd medoogende , gewaad verschaffen de vreemdeling , begaan om Peneloop , hij vinden zijn eegemael te laatst mede een ' hopen verliefd vrijer , die vasten naar haar kuyscheyd ding , Becingelt , en omheinen , en koomtse stout bespringen , En storten heen overhoop , en vallen na lang ellend In arm sijner bruid .	EmotionalAction_Compassion
+vond001pala01_01.TEI.2.text.body.div.sp.3587.s.73	mare voor hebben dreigement de heilig godsspraak [ die hij waarschuwen voor zijn ' bastaard ] bevreesd , onzinnig hij doen groot god lasteren , En zien bezijden zijn weg in eensaemheyd versteken : te tij toen Telegoon , door Circes zorg kweken , Belust t'aenschouwen een hebben aangezicht sijns vader hij onbekend verwond , en doodlijck kwetsen in d'aders , mede een vergiftig , en daar toen bescheerde doorn : waar aen doen booswicht sterven , en blussen Neptunus toren .	Fear_Emotion
+vond001pala01_01.TEI.2.text.body.div.sp.3596.s.1	Grootvader vluchtge u ' zoon , en laetge hij in deze lijden troosten mede woord , en mede schoon Prophecyen , En martghe mede u ' wraak .	Emotion_Vindictiveness
+vond001pala01_01.TEI.2.text.body.div.sp.3596.s.2	nul Vader : wat zullen het zijn ?	None
+vond001pala01_01.TEI.2.text.body.div.sp.3596.s.3	hebben menselijk geslaght worden welig .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3596.s.4	op Jupijn !	None
+vond001pala01_01.TEI.2.text.body.div.sp.3596.s.5	de Hemel worden bestormen , beklimmen vinden doen boosheid de nieuw reus , op , en bliksem hunn ' goddeloosheid .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.3599.s.1	PRIAEM .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.3599.s.2	HECUBA .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3613.s.1	deze ongeluk zijn hij voor wij te spade beschooren , waar deze wat eer gebeuren , nooit hebben wie verliezen zo velen beroemd stenen , tot nadeel vinden het gemeen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3613.s.2	Nu Griecxsche wijsheid lopen , en raeskal zonder brein .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3613.s.3	het huis vinden Assaracus hebben zelf Pelops hand de groot vijand de Trojaenen aen zien rand , En onder het decxsel vinden meinedig landverraed zo schendig doemen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3613.s.4	vaart nu wel , nul Griecxschen staat !	None
+vond001pala01_01.TEI.2.text.body.div.sp.3613.s.5	nul raedeloose macht , die in u ' degen strompelen , dromen vinden gheen Trojen meer : waken om niet overompelt Te worp , nog verrassen vinden Hectors schittrigh staal ,	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.3614.s.1	HECV .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3617.s.1	Die zegenen dout op wij uit zijn hemel mild zadel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3617.s.2	doen god toon zien op heden goedertieren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.3618.s.1	PRI .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3620.s.1	ik willen die Hof , en Stad op deze tijding vier .	None
+vond001pala01_01.TEI.2.text.body.div.sp.speaker.3622.s.1	rijden vinden trojaans MAEGDEN .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.1	trojaans wijdberoemde jeugd , zengen Pallas lof , en juichen vinden vreugde , En eren mede kerk gebaar haar ' drempel en outaeren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.2	doen feestelijk schaar danss '; En schudd ' voor haar de lauwerkrans .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.3	die maagdelijk pruycken In groen olyven duiken : En het haar mede zilver niet vertuien , noch ' Paerlesnoer , mare alles een ' bruid de wit hals bekleede , En dek ' naar d'oude zede .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.4	die Asien te samen schuilen ': het zijde die op d'oevers vinden Pactool het gouden schemeren zien , en blinken : Of die Meander drinken : Of treden Caysters boord , die witten vinden langgehalsde zwaan zitten , Die in doen zuiver plas , haar ' blank pluimen zijn : het zijde het volk vinden Sagaris besproeien , Die d'Anckers schuren , en bochtig vloeien : het zijde het geren verdrijven balling noch voeder hebben , noch stalling Voor Griecxsche klepper , en mede druk vlieden herwaarts , om Achilles juk , En heerschappij te schouw In veilig landouw : En voor Caicus Xanthus keur , En d Iliasche vasten voor Lyrnes : wie zwak muur geren storm en verduren .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.5	wekken heylgen galmen , en huwen u ' keel Aen luiden , en zangerig velen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.6	wild helder stem paar mede speld vinden wind snaar : En trekken mede goddelijk luiden doen blijde ziel te oor uit : gelijk mede maetgesangen gij Paris ginght ontvangen : doel op hebben water rijden aen rijden , mede vreugde ontmoete zijn galei , En welkom heet vinden hart doen schoon bruid vinden Sparten .	Joy_Emotion_BodyPart_BodilyProcess
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.7	Die Proteus branden mede haar ' minnen , En uytblonck alles een ' Zeegodin : zo Venus komen bepeerelt In het parelmoer te wereld : En doel doen schoonheyt vinden Heleen Niet sterfelijk , mare een ' zon scheiden : Die sierlijk uitstrijken , hebben hoofd eest op komen steken : En in hebben zilver vinden de vloed haar ' goud pruycke schitteren doen : En in het kristal het verguldsel zien spiegelen vinden haar hulsel .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.8	nul dochter vinden de Dondergod , Minerve , gny bewaken hebben slot vinden u godsdienstig Trojen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.9	doen vijand verstrooien : En Agamemnon zuipen verwoed zijn trouw raedsmans edel bloeden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.10	hebben leger goed zijn ' speer Nu tegen Argos karn .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.11	Mycenen vinden verstand beroven , haar wijsheyts beckeneel doorklooft : En lang hebben veld lopen scharren mede d'uytgetogene hersenen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.12	stad groot vijand voor doen poort liggen vinden zijn eigen volk vermoorden .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.13	Lof lof zijde uw Godesse , nul strijtbre krijger !	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.14	Voor uw galmen het vrolijk geschrei , Voor uw klinken ruyspijp en schalmei .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.15	Voor uw gehuwde vrouw , En juffer feestdagh houden : En mede vermengen reien treden naar witten Albast , en Marmorsteen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.16	doen priester op u ' drempel ontsluiten al tempel : zo fluks het Goddinnebeeld genaken die over Dardans stamhuis waken .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.17	doen schaar naar uw tocht , En zijn mede geloven bevlochten .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.18	Stockoude grijsaard leven zitten , Hunn ' wensen deelachtig , komen meten uw offerwynen brengen , En sidderende plengen .	None
+vond001pala01_01.TEI.2.text.body.div.sp.3721.s.19	FINIS .	None

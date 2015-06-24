@@ -1,0 +1,790 @@
+hoof001gran01_01.TEI.2.text.body.div.head.885.s.1	P.C. hoofd GranidaSpel	None
+hoof001gran01_01.TEI.2.text.body.div.head.887.s.1	inhouden	None
+hoof001gran01_01.TEI.2.text.body.div.p.924.s.1	Granida enig dochter , en erf-Princesse vinden Persia , op doen jachten afdwalen vinden haar slepen , komen te plaats daar zijde Daifilo herder mede Dorilea , die hei op min vervolgen , vinden kouten ; dewelke haar niet en cunnende onderrichten vinden hebben spoor de voorrijden jager , vinden haar gevraecht worp na enig fontein om de dor te lessen .	None
+hoof001gran01_01.TEI.2.text.body.div.p.924.s.2	Daifilo bieden doen prinses te drinken uiten een schelp mede zo heussche gene - genheit , die dezelve , gehulpen vinden zo weltepasse dienst , ook na haar verscheiden vinden daar , de Prinssesse welgeval - lende nauwelijks uiten de zin goed .	None
+hoof001gran01_01.TEI.2.text.body.div.p.924.s.3	Daifilo , te ander zijden , besluiten zien te hof te begeven om doen tegenwoordicheit , en dienst wil vinden zo waardig Prinssesse .	None
+hoof001gran01_01.TEI.2.text.body.div.p.968.s.1	Daifilo , zien geven hebben in dienst vinden Tisiphernes , op hoop die die alles een prins vinden groot verdienste bij doen kroon vinden Persia , becomende hebben huwelijk vinden Granida , hei door die middel aen haar dienst mogen geraken , kwijt hij zo die zijn heer hij grootlijx vertrouwen , hij seijndt aen doen prinses , om haar gunst te aanzien enten eindelijk ver - zoeken , die hei na zo langen vervolg om haar gaan doel aen haar vader ; alwaar hei ontzeggen worden vinden zijn tegenvrijer Ostrobas , soone vinden de koning de partij , tegen doen welk hei aannemen de ander dag te vechten .	Emotion_Hope
+hoof001gran01_01.TEI.2.text.body.div.p.968.s.2	doen Prinssesse zo bekommeren over het aanstaande huwelijk , alles bewegen door hebben nieuw zien vinden Daifilo , komen die avond aen doen ven - ster , op geluk of enig passeren muziek haar quellage wat verzachten mogen , onder doen welk zijde , door het glas zien zonder gezien te wees , hij passer en hoorende verzuchten , nemen hebben zelf op voor tekenen vinden waarachtig liefde , haar daar - om beclagende over d'ongelijckheit de staat de wereld .	EmotionalAction_BodilyProcess_Dissapointment_Desire
+hoof001gran01_01.TEI.2.text.body.div.p.994.s.1	Daifilo verklaren aen zijn heer zijn liefde , en d'oorsake waar - om hei in zijn dienst gecomen zijn , hij biddende te leiden die hei in zijn stad , en mede zijn wapen bedekken , tegen de Parth mogen strijd , tot hebben welk hei hij mede reden be - wegen .	EmotionalAction_Desire_Despair
+hoof001gran01_01.TEI.2.text.body.div.p.994.s.2	Daifilo verwinnen en verslaan Ostrobas .	None
+hoof001gran01_01.TEI.2.text.body.div.p.994.s.3	Tisiphernes be - sluiten de ander dag doen prinses te bezoeken : mare Dai - filo , nog die avond onder haar venster passeren , worden door haar bevel roepen vinden haar voedster .	None
+hoof001gran01_01.TEI.2.text.body.div.p.994.s.4	zijde ontdekken elckander haar onderling liefde .	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.p.994.s.5	Granida zeggen reden om mede hij te vertrekken , en een harderinnen staat troosten te zijn : welk aenbiedinge hei , na die hei haar doen zwarigheid vinden zulks voor houwen hebben , en verstaan doen zelf vinden haar al te voorn overwegen te zijn , mede groot danckbaerheit aen - nemen .	Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.p.1024.s.1	doen voedster vinden Granida , op haar zijden gewinnen zijn , komen verklaren voor de koning , eend Tisiphernes , die doen prinses , mede groots spook , voor een god schaken zijn .	None
+hoof001gran01_01.TEI.2.text.body.div.p.1024.s.2	Tisiphernes , zien op het schoon zijn hopen te leur stellen , zijn om razend te worp .	Emotion_Hope_BodilyProcess_Dissapointment_Anger
+hoof001gran01_01.TEI.2.text.body.div.p.1024.s.3	mare Daifilo , die haastig te hof wedergekeert wassen om kwaad vermoeden voor te komen , hij onderrechtende doen zijn moeten wat bedaren .	None
+hoof001gran01_01.TEI.2.text.body.div.p.1024.s.4	hei nog - tand , walgen vinden doen wereld , besluiten mede luttel geselschaps voortaan door het land te reizen , en verclaerende Daifilo waar - achtige verwinner vinden Ostrobas te wees , leveren hij zijn staat over , dewelke hei eerbiedelijck weigeren beloven gaan - doen te slaan , tot tijd toen , die zijn Prinssen moeten wat besae - dighe .	BodilyProcess_Disgust
+hoof001gran01_01.TEI.2.text.body.div.p.1065.s.1	doen geest vinden Ostrobas verschijnen aen zijn vriend Arta - banus , die mede hij in Persia wassen gecoomen , hij opstutsende , om wraken te nemen op Daifilo , dewelke de eerst mor - genstondt op het land mede doen Prinssesse spreken , vinden hij en zijn volk , beijde gevangene worp om opofferen te zijn aan hebben graf vinden Ostrobas .	None
+hoof001gran01_01.TEI.2.text.body.div.p.1065.s.2	mare Daifilo , zien d'overlast vinden band diemen doen Prinssesse aendede , breken doen zijn , te weer raken tegen zijn vijand ; op welk gerucht Tisi - phernes , die bij geval niet ver vinden daar zijn weg volchde , doen gelieven komen ontzetten , dewelke bekennen zijn , beklagen haar deerlijk die d'eene ramp d'ander jagen , hebben geluk wel hardneckelijck scheiden besluiten te zijn tot haar bederven .	None
+hoof001gran01_01.TEI.2.text.body.div.p.1065.s.3	mare d'eedelhartighe prins , in plaats vinden hij tegen haar te verbitteren , verwonderen zien over haar zeldzaam liefde , en gebiedende haar goed moed te aanzien , beloven en vercrijcht haar haar zoen vinden de koning , diese beijde mede blijen welkom onthaelende te saemen huwen .	Emotion_Love_Wonder
+hoof001gran01_01.TEI.2.text.body.div.head.1068.s.1	personage	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1070.s.1	granida	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1072.s.1	daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1074.s.1	tisiphernes	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1076.s.1	dorilea	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1078.s.1	koning	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1080.s.1	ostrobas	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1082.s.1	artabanus	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1086.s.1	voedster	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1090.s.1	rijden vinden juffrouw	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1094.s.1	rijden vinden harderinnen	None
+hoof001gran01_01.TEI.2.text.body.div.p.1103.s.1	vs. 1 -4	None
+hoof001gran01_01.TEI.2.text.body.div.div.head.1107.s.1	eerst delen	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.1	hebben vinnig straal vinden doen zon Ontschuil ik in het bosschage ; Indien deze bosje klappen con , Wat melde het al vrijage !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.2	vrijage ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.3	Neen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.5	ja , vrijage zonder mennen ; vinden honderd herder ( zijn niet schade ? ) Vindtm'er getrouw niet een .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.6	Een wullepsch knaepjen altijd stuirt na nieuw lusten zijn zin : Niet lang alles hebben weigeren duren , Niet lang duren hebben min .	EmotionalAction_BodilyProcess_Love_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.7	ik hartje trekken ik wel zo zeer , zo zeer , dor ik hebben waag ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.8	mare neen , ik waag ' hebben nimmermeer , haar min zijn mare vlaag .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.9	mare vlaag , die thans overgaan , En op een ander val ; Nochtans , ik zien ik vrij aen Voor trouw vinden haar al .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.10	mare of het uw missen dom maagd , gij zien hij niet vinden binden , Dan het schijnen wel : die geren rusten en wagen , kan kwalijk lusten gewinnen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.11	of ik hij ook lichtvaardig vinden , En het beven in deze bosschage , Indien deze bosje klappen con , Wat melde't al boelage !	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.1182.s.1	dorilea , daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.1	daar zijn hei .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.2	Och hoe zijn ik inde zaak beladen !	HeavyHeartedness_Worry_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.3	goed die ik ik versteeck onder doen bruin brand , In het diep vinden hebben bos , al eer die hei ik zien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.4	goed zijn hebben , goed zijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.5	ja , mare vinden hei ik dan niet ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.6	weten ik wel wat ik willen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.7	ik zijn vervaard voor het min , Ontschuil ik lief , en vrezen die hei ik niet zullen vinden .	Fear_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.8	Neen , goed blijfdij hier dan of ghij verder gingt , Hier komen hei doch voorbij ; mare lustre wat hei zingen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.1	Die gebod dienst versmaden , Wenscht'er wel om alles het zijn te laat .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.2	Windeken daar hebben bos af drillen , wezen ik brak doen op hebben wild die ik jagen , spreiden doen haag , En doen telg vinden elckaer , Mogelijck schuilen ik nimf daar .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.3	vs. 39 -44 nimf , zo ras alles gij vermoeden , die ik gang tot uwaerts spoed , lopen ghij schuilen , Inde kuil , En hebben diep vinden hebben woud , daar ghij mede reden vervaard zijn soudt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.4	Vreesdij niet die doen sater , daar uw een mogen nemen waar , En beknellen , het zijn gezel , Die wel nemen t'uwer spijt het geren daar een herder langen om vrijen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.5	zonder te denken , die in het kruid dikwijls slang gladden vinden huid zijn verhalen , lopen ghij dool , mare nochtans hoe zeer ghij vlieden , die ghij ik haten , en dunken ik niet .	Emotion_Hatred
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.6	wan doen wijden laatst vinden zijn avond laat Songen tot de dageraedt , mede elckander , En uiten d'ander , Tot de dans ik uw verkiezen , Bloosden u wang alles een roos .	BodyPart_BodilyProcess_Love_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.7	Mompelen hoord ' ik op die passen , die die geren kwaad tekenen wassen , En wanneer , , jck helen begeerlijk kus komen u mondtjen teder , reppen u lipjes , denken ik , weer . het weigeren , en d'afkeericheit voegen zo wel niet , alsmen zeggen Voor doen vrouw , het kan haar rouw , Die gebod dienst versmaden , Wenschter wel om alles het zijn te laat .	EmotionalAction_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.8	zus , zus , wat of ik daar mogen horen Ritselen inde hagedooren ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.9	zijn zijde het , zijde zullen ik niet ontvlien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.10	Neen , Dorilea al gezien , Nu suldij hier mede geren een kusjen of , , raak .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1328.s.1	Daifilo zeg ik , gij zullen hebben te grof , , manen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1328.s.2	Daifilo , laat ik staan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1328.s.3	Daifilo , laat ik gaan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1338.s.1	mare Dorilea , moochdij zo afkerich , , zijn vinden het geren daar al mens na begerich , , zijn ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1338.s.2	En vlijen stuurs vinden zin ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1344.s.1	Wat doch ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1348.s.1	doen zoet minnen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1365.s.1	Ghij noemen hebben zoet minnen , en zeggen die gene lied behalve ik allee , doen zoet min vlijen , voor horen ik vinden doen minnen zo velen kwaad , die ik gruwen , vinden ieder een , en die geloven ik goed alles uw .	BodilyProcess_Disgust
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1365.s.2	Dus Daifilo , vinden nu , laat ik voortaan te vrede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.1	Ach suldij dan dus schuwen u groen jeugd besteden ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.2	deze teder schoon lid En zijn uw niet gunnen , die ghijse zonder vriend Afgunstich soudt verslijten , En een te laat becrijten , die ghij , om niemand gunst , of wellust te doel aen , Versuimelijcken hebben uw zelf te kort gedaan .	BodilyProcess_Sadness_Remorse
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.3	wild rekening manen die deze rose-kaken , En deze lip vers , Die gloeien alles een kers , Die nu een ieder wensen te kus en te strook , zulle vinden ouderdom verwelken , en verschroocken .	EmotionalAction_BodyPart_BodilyProcess_Love_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.4	deze effen voorhoofd netten doen diep rimpel mede te tijd zulle ontslechten ; En deze welig vlecht , Die mede velen strik gail , zo dartel zijn vertuien , zulle haar gouden ruk allensgens trek uiten ; En het geren ghij voor fijn goud mogelijck houden voor deze , Suldij bevinden mare zilver vergulden te wees .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.5	deze wakker oog blij , verleren zulle zijde haar lodderlijcke treek , Die zo velen brandts ontsteken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.6	deze vlug gauwicheit , daar grijs ' aelwaricheit goed zonder reden op gnorten , die zullen de ouderdom Die het al maken suffen , en loom , zijn vleugel dapper kort .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.7	Dan komen onnut berouw , alles beteren tijd ontbreken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.1	Daifilo ' ik weten niet vinden wie schoonheid die ghij spreken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.2	na die ik kan bevinden En zijn niet vanden mijn , wan onlangs hebben ik die Inde fontein gezien ; En het beeld in't water stillen ik op die passen verscheiden , komen mede u zeggen niet al te wel overeenen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.3	mare siedij het groen woud , hoe lustig die hebben staat , Hoordij doen vogel die voor de dageraad Danckbaerder sijnd ' alles d'onvernoechelijcke mens , doen welkom zon mede zang goemorgen wensen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.4	Siedij deze heuvel blond , en hebben begraasd dal mede bloempjes veelerly marmeren overal , het wellustig banket vinden doen ruisen bij ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.5	Hoe vrolijk lachen hebben al in deze somer-tijen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.6	mare alles doen guiren herfst komen mede zijn bui aen zullen deze ding al haar vrolijckheit vergaan , En deze bloeyende jeugd de wereld , zullen verkeren In dor ouderdom , en haar sieraad ontberen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.7	Nochtans indien die al doen bouwlien spanden t'samen , En mede een groots geschal , doen god bidden komen die donderen , bliksem , wind , en hagel groots geweld mogen komen metter ijl vrijbuiten over het veld , Beroven d'Aerde vinden haar gespikkeld rok , doen berg vinden haar kruin , doen boom vinden haar lok , Om dieswil , die doch een d'aenstaende winter wreed hebben aardrijk plaag zij mede dergelijk leed ; Soudij niet zeggen , het wassen haar nut die zijde bad Om redelijk verstand ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1515.s.1	ja , trouw .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1538.s.1	Soudij rad die ik door minnen , een bui mede zonneschijn vermommen , Die lichtelijk vernielen wij die zijde overkomen , Dan krenken zullen ik jeugd , om dieswil die doen jaar deze schoonheid ik ( nemen dat waar gelijk alles ghijse maken ) ik zullen manen kwijt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1538.s.2	Soud ' ik doen schade de tijd gaan zoeken voor de tijd ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.1	deze doedij vasten , wan ik , nul Dorilea , rekenen doen lelijckheit zo goed alles schoonheid onbekeken ; En al bekijken , onbelonckt ; en al belonckt nog ongenoten vinden de minnaar die zijde ' ontfonckt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.2	Wat's jeugd zonder minnen vol onbeweechde koudheid Doch goed alles versuft ' en stijf bevriezen oudheid ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.3	En die doen zoet minnen vinden uw beschuldicht worden alles die doen schoonheid krenken , daar doedij hij te kort : wan nooit en sachmen hij hebben suivere besmetten , mare wel rechte ander , het geren die saluw wassen , blanketten , En liggen blozend rood op teder wang bleek , En het haar verguld , die te voorn vaal gelijken : En gene sachmen ooit , hebben geren die zijde beminnen , Lelijker dan hebben wassen , mare wel velen schoon vinden .	BodyPart_BodilyProcess_Love_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.4	mare , segdij , ieder een beklagen hij mede geween , Over doen minnen vol swaerheit ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.5	zijde spreken buit waarheid ; Al worden doen minnen bescheldt , het zijn onmin die haar kwellen , Onmin vinden lief verkiezen ; wan komen haar minnen te voorn vinden haar beminnen zijde , zijde worden het een mede ik , En zullen ras bekennen die min niet kan schenden , mare die gebrek vinden minnen allee de minnaar krenken , Die minnes honing zoet mede bitter gal mengen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.6	Dus Dorilea , denken die minnen vinden beide zien , Niet ander voor en brengen alles wellust en verblijden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.7	daarom in deze tijd , schijnen die doen wereld dus blijgeestig opgepronckt In het hart minnen voelen , en t'eenemael verjongen .	Emotion_BodyPart_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.8	de Hemel schijnen verliefd ; doen vis in doen stroom , doen dier in hebben kruid , ' tgevogelt inde boom , doen Nymphen in hebben bos naturen vinden doen minnen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.9	die vogeltjen , die nu vliegen uiten de den , in de boeckeboom , en schijnen onmoglijck om vermacken , Dan uiten de boeckeboom weder inde myrte-tacken , En hippelen quelende zo liggen , zo wild , zo wuft , waar het vinden natuur begaafd mede menselijk vernuft , hebben soud zeggen :  ik branden vinden minnen - ik branden vinden min  , tjilpen door hebben woud ; mare wel branden hebben vinden binden , En zingen in zijn taal op lijfelijk maat , die hebben zijn zoet lief , zijn lief lusten verstaan .	Emotion_BodilyProcess_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.10	En lustre , juist of zijde het om uw te lederen doen , antwoord zijn lief lusten :  vinden min branden ik met .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.11	 doen minnen hebben al verwinnen , Hemel en aarde mindt , zullen Dorileas ziel min kracht groots vinden waarde alleen weerstaan , in hemel , en op aarde ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.12	Neen ; wan een ieder mens worden vinden doen minnen geraken , En diese jong ontgaan , bejaard zijn kracht smaken : doen min willen doch een doel blijk in wij hart Hoe velen die hei vermogen : dus vrezen hij vrijen te tarten , En weten die groot smarten nooit iemand overkomen , alles jeuckering vinden minnen in oud lid stram .	Emotion_BodyPart_Love_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.13	hebben jong harden , die hei kwetsen , genezen doen min weder , En hopen hellept hebben op alles het liggen vinden pijn neder : mare d'oude minnaar zijn plagen mede dobble rouw , Die willen niet en mogen , en mogen niet en willen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.14	droog houden ontsteken , branden fel alles groen spruit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1730.s.1	Ghij ander vrijer kennen deze praat al vinden buit , En brengt'er velen in't netten ; mare ik hebben wel letten Op het gene die ghij zeggen die alles doen minnen vinden beide doen zijden zijn planten , zo vallen hebben zoet branden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1730.s.2	of ik die schonen toestonde , verklaren ik , mede wat vinden Soud ' ik doch kennen ik verzekeren , die dij doen vlam het hart blaken , Die ghij ik diets wild maken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1730.s.3	Of alles die al zo wassen , die ghij niet soudt , zo ras Ghij weermins gunst mogen voelen , verkeren , of verkoelen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1730.s.4	gelijk wijden vrouw slechten vaak worp uitgerecht , Dewijl geveinsd minnen , en licht wispeltuiricheit wij tronen mede hebben zoet , en loon mede doen zurigheid .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.1733.s.1	daifilo , granida , dorilea	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1739.s.1	nimf , mare .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1752.s.1	schoon nymph ' , en hebdij niet gezien mede breidelloos rennen , hier enig edellien Vervolgen een wild zwijn ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1752.s.2	weten ghij niet of zijde het vingen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1752.s.3	Of werwaerts reden zijde op ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1769.s.1	jager , nog hoveling En aanzien wijden gezien , mare wel horen gerucht : Dan het scheiden zo ver vinden hier te wees die ik duchten , edel maagd , ghij zullen haar swaerlijck rijden en ; Sijdij een aertsche maagd , en ander geren godin , u aanschijn nog u stemmen geenszins doen mens slachten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1786.s.1	zo groot eer voorwaar ik ik niet waardig achten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1786.s.2	ik zijn Granida ' , indient uw lien bekennen zijn , hoemen - te hof ' horen doen prinses , de Coninx dochter , noemen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1786.s.3	Dewijl zijn geselschaps spoor uw niet en zijn bekennen , zo bidden ik , wijzen ik doch waar die ik hier omtrent Om zijn heten middachs branden een weinig te verfrissen , uiten koelie beek , of bron , ik droog dor mogen lessen , die Ceres u gewas , en paan u vee behoe .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1836.s.1	hebben bidden laat voor wij , het gebieden komen uw toen , Alderheuste prinses , zien hier om uw t'ontladen : Diana , moegejaecht , en zullen nietversmaden deze suivere fonteyns cristallinige vloot .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1836.s.2	Al zijn wijden herder slechten , eenvoudig opvoeden , nog ons zorg laag , door hoog vluchten te kies , wij aangeboren bos uiten haar gezicht verlezen : wijden weet lijckewel die wijden deze groen laan , die wijden doen schaduw koel vinden deze dienstig blad , deze vrolijk heuvel , deze helder water vliet , En al wij leven lusten vinden zijn Coninx handen genieten . het en waar die het wijselijk al te verzorgen weten , het verwoeste metter haasten , door verkwistend twisten . het zijn hei , die doen begeerte vinden zijn ondersaten matigen bescheydelijck in zo verscheiden maat , die niemandts minder list zijn meerder iets ontruck , - die niemandts meerders macht zijn minderen en verdrukken . het zijn hei die zorg dracht alleen voor wij al , die vreemdeling wreed wij niet en overval mede vernielende crijch en schenden in een uur doen dracht vinden menig jaar door het ijzer en hebben voeren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1836.s.3	dankbaar behoortmen voor een aertschen god te eren die het lusten , om ander lusten , zijn eigen lusten t'ontbeeren : mare wij eerbieden zijn te laag na zijn waerdij .	Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.1	beleefd herder , nooit enig wijn ik Boven de fris dauw vinden deze fontein gevielen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.2	Ach geluckige rusten vinden licht-vernoechde ziel , Die nijd nog spijt de hof verstoren haar zoet vrede !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.3	wie zorg wijd niet en weiden dan haar vee .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.4	doen lust daar zien het hof mede moeite om beslommert , werpen uw natuur toen en zijn voor uw bekommeren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.5	Ghij trekken door hongeren , en door dor uiten drank , en spijs , doen lusten vinden het hof lokken door zo velen leckernijs ; hebben hof door drinken dor , en hongeren zoeken door het eten En jaecht doen lust voor , uw sijnse toesmijten ; het lustsoeckend hof ontvlien doen lust daar het om slooft ; Ghij volgen doen natuur , wijden zien haar over het hooft .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.6	Eer zullen deze lichaam in een duister graf vernachten beleefd herder , alles ik gaan uiten doen gedachte u weltepasse dienst , en of het gebeurden , die - ik helpen uw nut mogen zijn in het hof , of inde stad , vertrouwd , die ik geren zaak zo wichtig zullen verletten , Of ik en salse ' om uw wel aen een zijden zetten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.7	Nu voegen ik wederom te kern daar ik achten die ik het gezelschap vinden ik staetdochters verwachten , welk ik gebieden , vinden haar vermoeyde tal , neder Te zitten in hebben gras , tot die ik keren weder ; Dewijl ik niemand vinden haar al volgen mogen , En ik doen lusten de jachts niet te verzuimen denken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.8	de hemel die bedauwen u jaar menich-vuldich mede geduirige rusten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1901.s.1	wijden zijn het uw al schuldig , Alwaerdige prinses .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1901.s.2	Helas !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1901.s.3	hoe leed zijn ik die wij vermogen minnen alles wij begeerte zijde !	Emotion_Sadness_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1901.s.4	de hemel willen u staat in eeuwicheit behouden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1905.s.1	vaart eeuwelijcken wel .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1913.s.1	zijn onder d'aertsche vrouw Dan een , die waardig zijn die om haar dienst allee Al d'ander ik verzweren ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.1	Hoe koel goed hei daar heen zonder die hei vinden ik zijn afscheid hebben nemen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.2	goed volgen ik hij , en zien wat hij mogen overkomen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.3	Hoe vrolijk zijn doen geren die danckbaerlijcken leven Bij d'ondanckbare mens die geren vernoeging hebben !	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.4	deze herder tonen meer dancks voor noot vinden bos , en boom , Dan menig edelman voor schenken vorstendom , Die vaak zijn prins danken mede oproer of verraden , En achten mare elcke staat , een trappen tot hoog staat .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.5	mede welckeen ijver komen ik deze zijn dienst bieden ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.6	Al doen dienstwillicheit geveinsd de edellieden zijn ik zo velen niet woerd ; wan deze die betonen zijn heusheid , niet uiten hopen vinden die te zien belonen : te hof , op hopen vinden lot , zijn het aanschijn vol genegenheid , mare hebben onheus moeten vol onwillig tegenheit .	Emotion_Hope_Love_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.7	Ghij , groots prins , die door u uitheems plegen verwondering zoeken bij het volk , om vinden hebben hoog slachten de god afdalen te schijnen , u cieraeden , u scepter , kroon , en u purperen gewaad En manen uw niet zo grootachtbaer aangezien , alles doen natuire maken een laech-geboren , die - het haar lusten , om liefelijk doen wereld te verbazen , Een edel geest in't harden en in't gezicht te blazen : En sieren hebben aanschijn vol vrolijckheden zoet mede deftigheid mengen , vinden hoofd tot doen voeden Besprengend ' overal doen welgemaeckte lid mede goddelijcker glans alles prinselijk cleden .	Honor_Emotion_BodyPart_Wonder
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.8	gelijk d'eerwaerde zon zijn bij wij aertsche voeren , zulks zijn bij d'arme kunst , doen kunst-rijcke natuur .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.9	Wat handen hebben ooit haar zo vernuftig merken laat die zijde , bootseerende doen koninklijk vatten , vormen het gewrochte goud in aerdiger manier , alles doen natuur de sculp , daar ik uiten drinken alhier ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.10	Dan het hof en zien niet schoon in ding licht-vercregen , natuur gebod dienst zijn hebben onwaert en tegen ; mare ghij , eenvoudig volk , ontvangen haar gaaf rijk mede openen arm , en gebruicktse danckbaerlijck .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.11	vs. 365 -368 Ghij lodderlijcke Nymphen zoet , Die nauwelijks een rosen-hoedt Om gouden kroon soudt geven , Hoe wel lusten uw u leven !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.12	u lust zijn uw alles een weten , u lonken zijn een tij-geset , u kouten zijn vrijage , u min zijn boelage .	EmotionalAction_BodilyProcess_Love_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.13	doen schaduw die doen kuil helen , waarin ghij u genoechjens stelen , En soudt ghij niet verwinssen , Om schaduw-throons vinden Prinssen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.14	Wanneer ghij aen doen rei goed , En die hebben schalk lietjen raden hebben diep vinden u gepeinsen , Hoe kwalijk cundt ghij veinzen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.15	mare zo het u lief niet goed kan , En tonen uw die zijn hart , vinden - u hartjen zijn drijven , Wat isser om te geven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.16	zo ruilden ghij die deuntjen niet Om avondt-spel , of morge-liedt , die , voor prinses deur , haar dun slaap komen storen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.17	Een appel , die mede gunst groots u boeltje werrept in u schieten , daar om soudt ghij versmaden zijn hof tafel-overdaden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.18	alles vinden u lief melden wereld , zijn t'uwaerts overgegeven harden , zo zijde ghij goed te vrede , alles prinssen aanbidden . het eenvoudig leven haylich , , leiden Ghylien in vrede ' en vaylicheit , u vrijheid goed te boven doen schijn-wellust de hof .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.stage.2002.s.1	rijden vinden juffer	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.2095.s.1	rijden , granida	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.speaker.2097.s.1	rijden	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2109.s.1	ik vrouw , God zijde danken die ghij wij hier ontmoeten . het gezelschap zijn een delen te paard , een delen te voeden , verstrooid om zoeken na uw op bijzonder straat , En haar by-eencomst zijn daar ghij wij hebben gelaten , In het naast dal , en zijn enten karn al misschien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2113.s.1	En het wild ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2117.s.1	gevangene zijn , ik vrouw , en zullen hebben zien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2149.s.1	Daifilo , beiden wat , hoe ? het en goed te hof niet toen gelijk ghij uw laat veurstaen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2149.s.2	En wild zo liggen niet doorgaan mede die uw wel gevallen ; horen hoe Palemon calt , Die zeggen die hei verdoorde , doel hij doen lusten becoorde vinden het hof te volgen .	Emotion_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2149.s.3	hei menen , gelijk alles ghij , die heusheid zoet vinden zede , vriendschap , en weelde mede daar wassen in overvloed , gelijk doen rijkdom doen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2155.s.1	En alles hei het komen te proef ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.1	doen vinden hei mede bedroeven , die daar die ding zijn Niet ander alles in schijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.2	Wat sneuvel ( zeggen hei ) och wassen voor ik groen jaar , alles ik ik zoet buurt , en vrijheid laten varen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.3	En dienst ghing te hof ; ik menen het wassen al klaar - goud dat blonck , mare het zijn een momme-vollick daar ; hebben aanschijn vol sachtmoedicheits , het gemoed vol fel woedicheits , Een minnelijk gelaat , het harden vol vinden nijd en haten ; Saechdij doen visser ooit , om licht doen vis te trek , de scherpen angel-hoeck mede lockend aas bedekken ?	Emotion_Hatred_Envy_BodyPart_Other_Benevolence_Anger
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.4	rechte goed hebben zo te hof .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.5	doen dienstbaarheid , die zijde zo mild uw bieden aen , zijn lockbedriegerij : haar dienst , en hullep strekken mare om uw te verrassen mede onvermoed slag , en door u vallen te zijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.6	oprecht vriendschap , Godts-vrucht , onbevlekt trouwen , veilig ' onnoselheit , recht-uitheit zonder vouw , waarheid vinden woord , goedicheit , worp daar voor kleinmoedigheid , Voor slechtheid ijl verachten , Beguigelt , en belacht . het zijn al geveinsd te hof wat ' er zien vertoog , geveinsd zijn haar gelaat , geveinsd haar mond , haar oog , geveinsd haar Godsvrucht , gunst , haar vriendschap en haar vrede , En g'lijck haar deugd zijn , zo zijn haar weelde mede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.7	Wanneer doen hoveling Een vrolijk liedtjen zingen , het en zijn vinden vreugde niet , mare het zijn , om hebben verdrieten daar het harden af worden verbijten , Een weinig te vergeten .	Joy_Emotion_BodyPart_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.8	haar lachen zijn vinden spijt , Of het duren doen kort tijd een oogenblix , tot die zijn gemoedts staedige plaag , Die het weer uiten hebben harden , het ook uiten hebben aanzicht jagen .	Emotion_BodilyProcess_Remorse
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.9	wat al de wereld lusten alles het harden niet zijn rusten ?	Emotion_BodyPart_BodilyProcess_Other_Desire_Trust
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.10	Hierom , Daifilo , staken u opzet voornemen , Ghij weten waar die ghij zijde , mare niet waar ghij zullen komen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.11	Die wel zijn , blijven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2239.s.1	ja , mare Of ik niet wel en waar , Of of ik goed winst ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2250.s.1	zo soudij doch te minst hebben hof niet volgen , dan slaan iets wat ander an zonder hebben groen woud en deze landouw te laat .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2256.s.1	ja Dorilea , ghij nog al Palemons praten En zullen ik meer zijn raden doel volgen dan zijn daad .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2273.s.1	zo mogen hebben uw wel gaan gelijk hebben hij nu goed , Die na het verdrag vinden zo velen slaevernij en snootheit , alles hei verwachten het lot vinden ingebeeld grootheit , zijn wijze worden die zijn hopen niet wassen dan wind ; En claecht , nu het ommecomt , die hei zien zelf vinden In plaats vinden een jong hoveling worden een oud schoveling .	None
+hoof001gran01_01.TEI.2.text.body.div.div.head.2277.s.1	Tweede delen	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.1	Hoe aangenaam zijn in een schonen lichaam doen deugd !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.2	Hoe liefelijk heusheid in doen geren die mogen gebieden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.3	En ghij die het goed doel lusten , daar ghij wel kwaad doel meucht , Hoe heerlijk zijn de straal de goedheid in ulieden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.4	Hoe velen schoonheid hebben doen schoonheid t'saemgeveucht Eer s'haer vernoeghen laten aen het schonen vinden een Granide !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.5	nul schoon zon , alles ghij verscheent in ik denken , doen leren ik de dag die ik in duistre nacht , mede vlies overschaduwen zijn ik oog beide , Bij het rookrich liggen een lamps ik dromich leven lei .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.6	wan alles begeerlijckheit in eigen lusten verblind , Die schoonheits lichaam meer alles lichaam schoonheid mindt , ik tot vereniging vinden aertsch mede aertsch doen pooghen doel suiverde uw glans doen dickheit vinden ik oog , optrekken ' haar gezicht tot uwaerts , waar door ik ziel kennen ' haar waerdij , pogen mede haar een te zijn ; Al zullen zijde , klein mug , om in glans te verwanderen , Vliend ' in doen zon mede die verenen door het veranderen .	Emotion_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.7	mare belcht u schoon ziel haar die ik ziel kleed Altevermetel pogen mede uw te wees een , zo zullen doen willen ik ziel in alles mede d'uw gemeen , , zijn behalve in ( die zijde niet kan ) niet wil een , , zijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.8	zijde willen al wil die gij wild , die kan zijde niet , zonder haar eigen dood , zo langen ghij het haar verbieden : mare gaefdij haar verlof , en wild ghij die met , zo maken liefd , en weerliefd wij vereende wreed ; die zullen doen vriendschap zijn waar na ik liefde trachten ; Dan vangen ik die ik jagen ; doch alhoewel ik jachten zijn zonder hopen vinden vangst , nochtans ik lusten te taal , , vinden - Naebij te volgen het geren die ik niet achterhalen , , kan .	Emotion_Hope
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.9	Hoe kwalijk vatten ik zelf ik eigen ziel beroer !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.10	ik hebben doen waarheid , mare ik hebben haar aen een snoeren , En zijde vliegen ommendom mede haar snorrende vlerk , tonen ' een ander zijden ' , eer ik wel d'een kan merkel .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.2365.s.1	tisiphernes , daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.1	hout , Daifilo , te hoog !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.2	mare zien , hier komen ik heer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.3	Hoe onbekend voor ik wassen deze nader wel eer !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.4	mare om aen het geren die ik behagen weder te bedragen , moeten ickse lederen , mede dienstbaarheid te verdragen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.5	Een ander zoeken om winst te dienst , en ik lei Om gaarne dienst te doel ongaarne slavernij .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.6	ik zoeken geren ander lot vinden dienst , alles dienst ; ik leven Granide , tot u dienst ik over hebben geven : deze Prins te dienst schijnen om daar te raak an hebben naast middel , wan worden hei u echt manna , ik worden ' u staag slaaf , en krijg ik hopen door deze ; En mogen ik uw niet zijn , ik zullen dan d'uwe wees .	Emotion_Hope
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2406.s.1	zien hier doen dienaer daar ik ik goed op vertrouwen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2406.s.2	Daifilo ' , horen hier .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2410.s.1	ik heer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2448.s.1	goed knielen voor ik vrouw uiten mijn nader , en melden , die ik door het vier drijven het welk stag hoochaerdich klimmen , en walgen vanden dalen , In deze barsten ontfonckt vinden haar schoonheits straal , de kroon vinden pers eisen voor ik , om haar te geven .	EmotionalAction_Other_Dedication
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2448.s.2	Indien die zijde , dewijl ik eindelijk bescheiden Op ik verzoek verbid , vinden zijn conings mogendheid , Een windeken vinden gunst laten in haar hart wade Tot mijwaerts , het waar een wenk voor zijn hemel god blij , waarop zijde passen zullen het geluk tot ik vinden duizend aengesichten het lachen doel draad .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2448.s.3	bidden haar ootmoedelijck , die zijde daar het al aen staat , vinden ik vernederen harden haar deze ontsmeken laat .	Emotion_BodyPart_Other_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2448.s.4	goed heen , ik gaan te hof terstond de koning spreken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.1	Aen ik dienstwillicheit , ik heer , zullen niet gebrek .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.2	ik ijverighe moed , door moeilijk kwel vinden langen vertoeven , zijn zat vinden uitstel op uitstel ; En ik gedachte , die te toppen vinden eren strekken , Cunnen uiten ijdel hopen niet lang voedsel trek ; die deze dag de draad ik hoops in stuk kort , Of ik vergelden het bloed mede ruimte uitstorten In dienst vinden hebben rijk ; voor zo velen zwarigheid , Voor arbeiden , lijfs-gevaer , voor oog en liggen lijden , ik loonende ( na eisen vinden zaak uitgerecht ) mede zijn Conings hoogst gunst , en doen Prinsses te echt ; Op die doen pers zien , wij , alles de Conings dag verlopen zulle zijn , doen groot kroon zullen dragen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.3	doen raden zijn al vergaren , het zijn tijd om in te treden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.4	Ayme , wat zoetigheid vloeien ik door al ik lid !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.5	ik voorbarig ziel haar wentelen in het verheugen , Al eer doen zin haar die mededelen mogen , En lopen haar boon voorbij onlijdsaem vinden vertoeven , waar door ik vreuchd genieten al eer die ickse proeven .	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.6	hemels Venus , drijven ik tong door uw goedicheit , die ik uitdrukken mogen hebben minst vinden ik ootmoedicheit , vinden d'overgevenheit ik hard tot haar , en vinden D'eerbiedicheit , die niet alles haar verwondren kan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.2509.s.1	koning , ostrobas , tisiphernes	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2569.s.1	loffelijk Prinssen , tot nog toen hebben ik gelaten Yemandt te noemen , die ik dochter huwelijk waard sijnd ' , aenvaerden mogen doen breidel vinden deze rijk , En heerschappij vinden zo velen verscheiden staat ; Om d'ingeseten door voorzichtig kloek beleggen Tegen uitheems geweld zorgvuldig te bewaren , En voor ik na het verloop vinden ik slippen jaar , Te stier mede ontzag , en mede lieftallicheit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2569.s.2	D'oorsaack , nul Tisiphernes , die ghij niet en trouden Te saemen overlang , na u verdienst en wens , zijn niet die ik ontken , ik grootmoedig Prins , Hoeveel deze koninkrijk zijn in u deugd houwen ; mare het zijn die Ostrobas , vinden hoochverheven stam , wie vroomheits lofgeclanck verdoofd al zijn wereld kant , deze ook door brief op brief , gezant op gezant , verzien hebben tot nu toen die hei hier zelf komen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2569.s.3	wij deucht-vruchtbaere tijd hebben , schijnen hebben , wil dragen Twee mennen even groots vinden achtbaerheit bij ik , de een in verdienst , de ander in waerdij , de welken even zeer ik wens te behagen ; mare die en kan niet zijn ; nochtans ik boven al Niet meer op d'eene zijde ' , alles d'ander zijde ' zullen hel , mare ik begeren die ghij , in het vrijen metgezel , komen overeen wij die de ander wijken zullen .	Emotion_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2569.s.4	Een ieder doen de ander blijk zijn rijden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2569.s.5	doen bestgegrondste winnen , doen zwak willig wijken , Of die hebben loten uw schey ' zijn u reden gelijk ; zo blijven binden hebben rijk in rusten , buit in vrede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.1	Hoe nu ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.2	Een onderdaan , een slaaf die doen voochdij vinden hoog weten dwingen , gelijcktmen die bij ik ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.3	Bij het bloed vinden Arsaces ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.4	wie grootheid hoog rijzen doen partij , zijn wereld vrezen , allee ontzien en vrees ; doen Prins voor wie geweld d'opgaende zon zwichten , En nauw zijn vrezen ontslaan alles hei zijn hiel liggen .	Fear_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.5	de donderen vinden ik nader zullen pers die versmaden Tot-dat hebben zien en voelen , doen bliksem vinden ik daad ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.6	ik wijken ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.7	ja , zo wijken doen Nijl wanneer hei vlijt mede onbetoomde lopen , nog letsel aen en zien Wat hei vinden inde weech , verslepen boschage ' en dijk !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.8	Puinbergen ophopen vinden uitgeroyde rijk Die zulle ik de weg baan tot hoocheits toppen daar ik gemoed na staat , en om te klimmen op de troon vinden ik opzet , zulle die zijn doen trap .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.9	En of de Hemel vallen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.10	ik salder overstap , Eer zijn getuimels drang ik streng moed verdrukken : hei spuwen zijn kracht uiten , en het bulderen geluk klateren vrijen mede zijn zweep , het zullen ik geren vrezen in prent ; ik trots zijn geweld , en puffen zijn dreigement .	Fear_Emotion_Happiness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.11	mare ghij , nul teder pees , wat stadij na ik eisen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.12	Die niet een senu taai hebben aen u week vlees , Ghij , halve-vrouw , laat man d'oefning van heersen houden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.13	mare het zijn uw om doen vrouw : ghij vinden wel ander vrouw waar mede ghij oefenen doen troetel-cunste meucht daar ghij uw op verstaan , en die ghij vinden u jeugd mede geil zede leren , bedampen vinden wijn en roosen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.14	Sardanapalus komen en willen Atlas verpozen , nul god , wachten u hals !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.15	gelijk het oneedel bloed , zulk u hantering zijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.16	mare ik zijn opvoeden Onder het geknars van staal , het geberst vinden helm en zwaard , het gekrijs van oorloochs-volck , en het briesen vinden doen paard ; doen dol trommel , en d'opstokende trompetten zijn ik dertelste speld ; d'hard ' aard ' , alles het nauwt , ik goed .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.17	aanzien u zwakheid om uw zelf te verschonen : Ghij het rijk vinden pers ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.18	Hoe ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.19	doen lassen vinden zo velen kroon kneuzen ' uw hebben beckeneel ; hebben pak vinden zulk gebied drukken ' uw doen schouder in , geven uw daar onder niet : doen voorstandt vinden zo velen t'samen - gegroeyde land vereisen een cloecker barsten , en klim vinden grof hand .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.20	Voorts die zien willen bij ik gelijk in waerdij moeten daar geren proeven vinden doel door loten of praterij , mare door doen deugd allee : die vroomheid in hebben vechten zien tegen vroomheid stellen om wij geschil te slecht , hebben rijk en doen Prinsses zijde de verwinners prijzen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.21	Dan ghij zullen , mijn raad volgend , sijdij wijze , ( Hoewel een onderdaan geren dienst zo menigvuldig kan doel , of hei en blijven nog velen zijn prins schuldig ) uw laat loons genoech voor u verdiensten zijn die uw doen koning hier lijken hebben bij ik .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2776.s.1	Wanneer zijn moed bui dol de reden tomen ontslippen , gelijk de stormen , die ghij blazen uiten verwaand lip , zijn onbesuisd wind die vaak hebben minst schaedt , mare scheuren zijn eigen kracht op onbeweechde klip ; zo doen u raserij op koning , ik , en raden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2776.s.2	doen rij vinden Prinssen oud , uiten welk braaf zaad Ghij uw spruiten roemen , en worden hier niet versmeten ; mare die ghij d'eer vinden ik doorluchtig huis versmaden , Om die een oppervoocht zijn boven ik zitten , ik en deze pers al u bitter ondank weet .	Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2776.s.3	wan ons koning vallen wij niet zo wreed en wrang , nog wijden de ons , alles ghij , die tros en vermeten u verbluft menen in slavernij strang Ondrachelijck verheert mede harden geweld , en dwang : waar door u moede verheffen die ghij het mede u braveren de god , zo ghij waendt , de hemel , maken te bang , Die , ( lachen ' er niet om ) het uw ras zulle verleren : mare wij bijzonder volk rechtvaardig wijden verheeren , En mede bescheidenheid doen koning het algemeen : deze deugd houwen wijden op het alderhoochst in eren , Die ghij , verkeerd , vervreemden vinden al rechte en reden , zo smaedelijck gewoon mede voeren zijde te treden , En moedeloosheit noemen een ondeugd in de held : waar door te aanzien vinden u overdwaelsche zede Ghij ik en deze , komen voor half vrouw schelden .	Emotion_Pride
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2776.s.4	mare niet meer alles u dol gramschaps ijl-gewelden , vrezen ik zonder benul u grof lichaam kracht ; En het vallen liggen die ghij nooit tot uwent na vertelden doen troetelingen vinden deze half vrouw zeggen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2776.s.5	Dan of het gebeuren , die ghij ik al ommebracht , zo zullen uw nochtans deze pers kloek , en moedig Niet kennen voor haar Prins , ( kennen ik haar ) mare verwachten vinden al hebben rijk , en elk bijzonder wraak bloedig : wan sijlien nimmermeer zulle hebben heersen woedich , En u uitheems tros leiden in plaats vinden ik , nog laat wraak te doel over een prins goedich , vinden wie verdiensten en loffelijk daad , zijde gunstig oordelaar en kenner zijn alles ghij .	Emotion_Sadness_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.1	Een lekker trotst ik kracht , ( wat zullen ik nog ontmoeten ? ) En hei liggen niet vertreden aen mortel vinden ik voeren ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.2	Ostrobas , wat uw beuren ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.3	Ghij dreicht ik mede gevaar vinden uw wraak ; ik tarten doen pers allegaer .	Emotion_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.4	daar liggen de handtschoe , d'eerst vinden zo velen onvervaard tassen zonder beven aen , en heffen hij vinden de aarde .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.5	zo langen ' er een zullen zijn , die ik darf tegenstaan vinden al , en zullen ik niet weigeren te slaan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.6	Ghij meucht uw vrijen mede keuren vinden wapen verzorgen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2807.s.1	ik zijn dan d'eerste beuren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2807.s.2	Nu die dan tegen morgen , rechtvaardig koning , wij een plaats waard bestellen , Op die doen bleek dood in een besteken veld , Een vinden wij beiden doen zijn stijf opzet vergeten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.1	zijn u gramschap op elckander zo bijten , die zacht middel niet kan einde u krakeel , zo laat te minst uw doen roven vinden het afgereten Harnas uw vyants , zonder hij te moord helen , vol verwinning zijn , en slechting vinden het verschelen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.2	Wanneer hebben aardrijk vinden de ruw winter plaag , En zijn ontijdig koud omhelzen worden ontslaan , voelen zijde in haar harden oprekenen doen schier helen uitgedoofde kracht vinden haar begraven vieren ; Door die doen lente zoet , in zijn verliefd week , haar strelen , en ondergaan mede minnelijk treek , Wanneer die hei vernieuwen de outsbekenden branden ; levend ritseling doorkruipen haar het ingewand ; alzo gevoelen ik velen gepeisen in ik wekken uiten haar diep slaap , en door ik lid trek , Die oorsprong nemen in ik teer-beweechde geest , alles ik eest worden gewaer hebben schoon , die ik meest behagen vinden al het geren die ik ooit zijn verschijnen ; wan na het verliezen vinden die , allensjens zijde verdwijnen , mede doen gedaante , die ik in de zin liggen , En nu door die ik het een behagen schonen herzien mede meerder hefticheit zijde op een nieuw verrijzen , Om ik doen schoonheid vinden een herder aen te prijzen .	Emotion_BodyPart_Moved
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.3	mare zeggen , Granida ' , hout op , hout op , wan waar toen dienen Dus hoog te zetten een die ghij tot heer , en vriend geenszins verkiezen meucht ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.4	mare leiden moeten u leven mede , die uw ander keuren uiten weinig zullen geven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.5	Wat leed boodschap , uiten wat aengenaemer mond Helas !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.6	wassen , Daifilo , die ik vinden uw verstaan ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.7	Ayme !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.8	Wat vriendschap in u voorhoofd staan schrijven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.10	hebben schijnen die op doen staat hooch-verheven vs. 727 -733 wijden zitten mede gebied , mare die het wel ondertast , vinden wij verheert , verdrukken onder haar overlasten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.12	Meer droefheid vrezen ik harden dan het hopen verblijding : ik gaan vernemen doch na doen verlangen tijding .	Fear_Joy_Emotion_Hope_BodyPart_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.13	Wat storten al gaaf groots , bewoner vander aarde , de Hemel in u schieten , alles ghijs ' ondankbaar snood Niet mede doen voeden en stoten , mare vorder zorg dood , Om het aengeboon t'aenvaerden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.14	manen , ster , zijn nacht sieraad , D'eerwaerde Sonnestraelen , het aardrijk mede vloot doorwaedt , daar kruid , en bodem beblaedt , Bij blij bloemkens staat , het schonen menschelijcke zaad mede lusten uw het oog onthaelen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.15	hebben braaf of zoet gespeel vinden wind , of teder snaar , hebben liefelijk gekweel vinden mens of vogel keel , speld en sang-menging edel Door het oor , mede lusten , geheel te ziel invaren .	Joy_EmotionalAction_BodyPart
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.16	doen wierook , diemen mede doen mirre plegen te voegen , muskus , Ambre , scherp Civet , groeien kruid , en bloemkens netten , Roos , lelie , Violet mede reuken onbesmet versterken , en verheugen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.17	Een vol overvloed vinden veel drank , en spijs , de mens lichaam voeden alles hei mede lust zoet zijn graag hongeren boete ; mare bruickt hei zijn meer , daar moeten gebrek , en lassen uiten rijzen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.18	vinden al zijn wereld lusten zijn zoet branden vinden min Voor d'heftichste bewust , Wanneer zijde worden blussen alles lief bij lief rusten ; daar aertsche mond kussen voldoen voor een godin .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.19	deze lust allegaer , En duizend vinden gelijk , alles oefenen , aesmen mare , En d'ongetelde schaarde vinden al wij handgebaar , Voor Liefd ' oprichten , en waar , Nochtans in vreugde wijken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.20	zijde doen die vreuchd ' ontspring , In twee verbond hart ; En maken die ieder dingen dubbel lusten in bring , Door haar vereniging ; ja het dragen onderling trekken zoetheid uiten doen smarten .	Joy_Emotion_BodyPart
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.21	deze zaligen deugd Op aarde kan doel smaak Een goddelijk vreugde , Die luttel lien verheugd , wan meest een ieder voegen zien om zijn geneugte vinden leur , of niet te manen .	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.22	Och hoe zwaar zijn te raak Aen vriendschap onbevlekt , daar vriend keuren ontbreckt !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.23	die lusten tot staat en eren Boven doen maat verheffen , moeten deze lusten ontberen Die het al overtreffen .	Emotion_BodilyProcess_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.24	wan onder luttel lied daar hei uiten kies goed , kan het swaerelijck scheiden , die een hij annestaet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.25	vs. 793 -796 Wat vriendschap vol vinden trouw En vinden geneuchten blij kan Liefd ' en min bouw , daar geren bedragen zijde ?	Emotion_Love_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.26	doen nacht komen op aarde geval mede haar schim , En mede haar bruin paard Berijden ons kim .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.27	Morgen het gevecht zullen manen ik vrouw huwelijk klaar , En in zo groot zaak kiezen hebben geluk voor haar .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.3069.s.1	granida , daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.1	Ach wat bekommering komen ik ziel bespringen !	Worry_Emotion_BodyPart
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.2	doen nacht , die het al ontlasten , maken die ik zorg wassen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.3	doen zwarigheid genaken hout ik gedachte wakend : Villicht die hier voorbij Coom zang of speld , om ik Wat uiten de zin te stillen doen zorg die ik kwellen .	Worry_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.4	mare wij komen ginds gaan Bij het schijnen vinden doen manen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.5	Wat !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.6	Soudt Daifilo zijn , ik zullen doen venster sluiten , vinden binden kan ik zien door het glas , hei niet vinden buit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.1	Kond het lichaam alles doen ziel vervolgen daar het na staat , het wassen nu bij ik Godin , en niet hier op straat .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.2	mare het zoeken , na zijn vermeugen , zien , volgend te voegen daar het vinden zijn leidsman het harden heen trekken wereld .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.3	Ayme , Granida !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.4	doelen vinden ik genegentheiden , Hoe node ' zijn Liefde vinden haar lief lief verscheiden ?	Emotion_Love_Dedication
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.5	mare wat vertoeven ' ik langen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.6	goed zijn , die ik vertrekken , Eer yemandt , ik gewaer hier worden , begeck ik lief alles verwaand , en zonder grond verheffen kasteel inde luchten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.7	Dan , ik zijn niet drijven Door een begeerte vinden bezit gelijk alles zijde , na dienst zijn die ik trachten , en niet na heerschappij .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.8	Juppijn , prinses waardig , zijde voor uw sorrechvaerdich , En het haar vinden zijn hemel god doen wachten vinden u Persoon .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.1	Hoe menig claecht vinden Liefd ' een onbeproefd smarten ?	Emotion_Love_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.2	deze openbaertse niet daar hijse voeden in het hart : mare zijde ontdekken haar zelf , en ongeveinsd vlammen worden nooit verbogen die zijde niet te voorschijn komen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.3	nul recht zonder reden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.4	nul weten zonder weet !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.5	mede rechte macht het opperst rechte wel het opperst onrecht heten : bezit vinden staat , vinden land , vinden geld ontelbaar som , die delen ghij na het geluk , niet na doen rijden om , de vaak , doen slecht krijgen hier vinden doen groot winst , En die hebben meest woerd zijn lijden hij mede hebben minst : vinden d'erfgoen die natuur wij achterlaten gemeen , Deyldij de een velen , de ander ganslijck geren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.7	verkeerd mens lusten , en snood schelmerij aanzien uw voortbrengen ; wan in doen gunnen tijd , doel ' swerelts kindsheid zoet niet doen , dan slapen , of lachen , doen niemand vorder alles voor noodruft zorg dragen , En hadder niemand velen , mare ieder hebben genoech .	Emotion_Unhappiness_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.8	doen waerdij onbekend , mare nu , door boosheits woeden , Sijdij een nodig kwaad , om kwaad te verhoeden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.9	doen koosmen Lief na lusten , nu dwingen hebben onderscheydt vinden staat , vak wij te manen Lief vinden liggen : En d'overvloedt die maken de allermeest vinden macht behoeftig vinden hebben geren die allermeest zijn t'achten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.10	Twee eis ik tot lief , doen strijd zullen recht zijn , En wij die winden , helas ! het verliezen zijn altoos ik .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.11	wan wieden ik het blind geluk vinden beiden toen zullen liggen hebben kosten ik leven rusten .	Aquiescence_Emotion_Happiness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.12	zo luttel hebben te zeggen Een koningin , in zaak , die haar zo zeer betreffen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.13	doen spits zijn hoog , mare eng , daar het Luck wij op verheffen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.head.3199.s.1	derde delen	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3207.s.1	Ghij lieft Granida ' en hebben te hof dienst nemen Om haar te dienst ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3222.s.1	ja , ik heer , en zijn gecomen In uw dienst , op hopen , die zijde u echt vrouw , En door die middel ik haar dienaer worp zij , Om te besteden , in alsulcken dienst , ik jaar , daar al mens toen , denken ik , scheppen waar ; die ik doen rijden wijzen , kan ik niet laat na , verzuimen het anderlien haar eigen schuilen en schade ; Dies die ik voor haar strij , ja sterve , dats ik leven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3230.s.1	voorwaar , vinden edel god zijn u gemoed drijven : Dan die ghij voor ik vechten , ik eer niet en lijden .	BodyPart_BodilyProcess_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3235.s.1	mare wij zullen weet , heer , die ghij hebben niet en zijde ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3235.s.2	uiten een besluiten helm zullen het niemand kunne raam .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3239.s.1	ik zelf soudt weet , en ik in ik hart schamen .	Emotion_BodyPart_Shame
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3244.s.1	ik vechten hier om u Lief , en het rijk , en niet om eer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3248.s.1	Dats waar .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3252.s.1	kiezen , wijselijk , dan hebben sekerste , ik heer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3256.s.1	mare of hei uw versloech ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3261.s.1	die hei dan uw verbeiden , zo het uw believen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3268.s.1	ja , wan gans pers hei ontzeggen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3268.s.2	mare proev ' ik hebben zo goed dan niet te eerst ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3293.s.1	Neen , wan hei lijden meer gevaar vinden tweelien , alles vinden een .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3293.s.2	En of doen wreed Parth niet en wassen te vernielen , alles mede de ondergang vinden bei doen vechter ziel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3293.s.3	Wat cond het uw baat die ghij hij te hel zonde , Indien ghij ( God behoedts ) beven dootelijck wonden ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3293.s.4	mare zo die ik gebeuren , wat isser aen liggen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3293.s.5	doen vrucht vinden doen winst door mijn dood verkrijgen En zulle niet mede ik verrot in hebben graf , mare erf ghij , ik heer , zullen hebben genot daar af , En doen prinses , die het velen saliger zullen wees Te leven mede een Prins de pers uitgelesen , alles mede een waals rauw , en overdwaels tiran .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3300.s.1	Daifilo ' , u reden zijn groots , doen deze wapen an .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3300.s.2	doen god wil uw en ik hebben goed verlenen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3308.s.1	het zijn hoog tijd , ik heer , vaart wel , ik spoeden ik heen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3308.s.2	Op die ik niemand kennen vinden die wij vechten zien , zo zullen ik zonder spraak het gezelschap eer bieden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.3311.s.1	ostrobas , daifilo , koning	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.1	waar blijven ik vijand ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.2	liggen hij het harden in ijle rijden ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.3	hebben hei berouw ?	Emotion_Remorse
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.4	Of zijn hebben harnas nog te smid , Om dat geren maken in het heel pers zijde daar hei zien in rusten vertrouwen tegen ik ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.5	mare al beswoer het Vulcaen mede dubbel hardigheid , zo zullen hebben weerstaan ik punt , nog ik snede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.6	Die zorg verletten hij niet , denken hei zo ver , ik achten velen eer die hei zien goed sinds gisteren hebben bedenken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.7	Dan , soud ' hei daar wel zijn ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.8	zo wild tot bloedig teken vinden de aengaenden strijd fluks doen trompetten steken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3341.s.1	eeuwig god groots , verstrekken ik nu doen kracht , waarmee , doel ik nog wassen herder , ommebracht doen vreesselijckste vinden doen wrede wild dier ; Voor al Granida ghij , die ik goed herwaarts stier , verdubbelen ik de moed , en kracht onder het slaan : ik vijand wachten op ik ; daar goed hebben teken aen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.1	pers , u prins winden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.2	verheugd , ik ondersaten , de Hemel vechten voor uw .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.3	Ontslaeghen zijn ik staat vinden d'ijsselijcke vrezen : daar liggen doen Parth vellen .	Fear_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.4	die Tisiphernes leven ' !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.5	geluk , grootmoedig held !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.6	de groten scepter ghij zullen voer na ik leven , En u gewenst lief ik uw te echt zullen geven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.7	ontwapenen uw terstond en na doen rusten trachten , Op die u wond , of vermoeidheid zijde verzachten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.8	laat wij doen god gaan mede danckbaerheit vereren , Die op de vijants hoofd zijn dreigement karn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.9	opperst god , en ghij opperst Godin Granida , die u troon in het diep hebben vinden ik zin , uw komen doen zege toen , ook zullen gh'er het not af erf , En ik zijn nots genoech om u not , not te durven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.10	Wat naakt uw blij mare , nul Tisiphernes , zullen u ziel cunnen wel doen blijdschap dragen al ?	Joy_Emotion_BodyPart
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.11	hebben zullen schier zijn vinden node die ik uw die verberge , Op die haar hefticheit niet al te velen en vergen u innemen harden mede overig feest , En haar omhelzen streng verdelgh ' u zwak geest .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.12	Lof , goedertieren god , woerd te vier , Die , doel wijden wenen , kracht , en moede verlenen Over wij sije , In hebben bitter strijden Om d'heerschappie .	BodilyProcess_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.13	vs. 947 -953 doel zijn wereld jaar Jong , en onervaren In boosheits list , vinden geren eigen weten , kennen doen lied dienst , nog gebieden , Wat hebben beduiden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.14	ieder behoefden Luttel ; d'Aerde proeven ploeg nog delven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.15	willig , uiten haar zelf , Droechse doen goed , Die doen mens voeden In overvloed .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.16	mare het overtreden vinden nootdrufticheden , die dompt ' een ieder Inde zorg wijd , doen , mede pijn het veel luttel schijnen , heen komen hebben mijn .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.17	wan , doel hebben vechten daar s'haer eest na recht , Haerlie bezwaren , zijde verdeeld d'Aerde : gracht en staken Sachmen doel eest maken , muur en dak .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.18	Voorts mede elckandren , Om mede crijch de ander Niet meer te storen , zijde een koning koren , Die haar twist mede zijn oordelen slissen Dats' oprichten gissen ; Die haar ook tegen volk bij liggen , die overvallen Om haar te vernielen , lei te strijd , daar hei t'geenen tij , zien zelf mijden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.19	deze rechtvaardig waar het rijk waardig , mare haar naesaten , hebben verlaat D'oprechte weg , lusten in het heersen krijgen , En het ontucht plegen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.20	zo die ( daar d'ouden lief dienst zullen ) Een koning heden nauw en zijn te vrede mede zijn plek , Om het gebied te rek haar zin strekken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.21	D'oude niet garen heersen , daerse waar daar toen bidden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.22	deze , niet te vrede mede die het haar bieden , Dwingen ook doen lied Die voor haar vlijen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.23	Wat ongeluk komen het land verdrukken het welleck moeten lijden vreemd tirannie !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.24	Nevens hebben plaag de tyrans , het moeten dragen Sijns vollix knagen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.25	Lof , goedertieren god , woerd te vier , Die , doel wijden wenen , kracht en moeten verlenen Over wij sije , In hebben bitter strijden Om d'heerschappie .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.26	Al peinsend ' op zijn bed ik liggen vinden ik Heer , matten vinden hopen , en vrezen , door het trek heen en weder .	Fear_Emotion_Hope_BodilyProcess
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.27	Mits hei ik wier gewaer , vliegen op mede heftig vragen , wat d'uitgang vinden de strijd ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.28	u vijand zijn verslaeghen , zeggen ' ik ; waarop hei ik omhelsend ' hebben zeggen , geren eeuw zullen wis uiten zijn heet danckbaerheit ; nog ik getrouw dienst uiten zijn gedachte vlijen , zo langen alles in zijn ziel Granida zullen gebieden , dewelke morgen hei te gaan bezoeken denken Indien zijn blijdschap hij laten leven deze nacht .	Joy_Emotion_EmotionalAction_Relief_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.29	Morgen , die waar te langen , indien zijn ingeboren Geneichtheit t'haerwaerts hij mede aenhoudende sporen Prickeld ' alles doen doen ik .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.30	doen naar nacht verspreid haar schaduw over het kruid , en d'eedel zon weiden zijn afrennen jacht achter doen steil berg ; doen zorg , die de dag hebben woelich vollick tergen , Die slaap mede de mens ; het gevogelte en hebben vee zijn stom , doen maan slapen , en liggen Granida mede : mare altijd leven ik liefd .	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.31	Een trek om te verenen drijven ik na ik Godin .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.32	zijde drijven ik herwaarts heen zo na alles het lichaam kan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.33	deze zijn doen venster deze , daar , alles doen zon opgaan , doen tegen-Son verrijzen , En jagen hij schaemten aen .	Emotion_Shame
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.34	uiten deze venster plegen Te toog ik Godin haar aanschijn op de dag : alles op het onwaarde volk haar gunst zijde laat regenen , En het haar believen daermeed ' Hemel en aard te zegenen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.35	Ach , zalig ik die het zien !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.36	zo zalig niet misschien zijn die het genieten zullen , en niet zo wel zullen zien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.37	Aymij !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.38	ik vechten , ik wannen , een ander zullen braveren !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.39	Dats niet ; mare die het zullen zijn kan uw niet vol waarderen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.3613.s.1	granida , voedster , daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3620.s.1	Hoe nu , Granida ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3620.s.2	kloek , en vaerdichlijck besluiten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3620.s.3	Voedster .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3624.s.1	ik vrouw .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3630.s.1	daar goed Daifilo , treden een uiten , Om hij te roep , ras , wan ik uiten zijn mond , garen , doen staat , waarin zijn heer mogen zijn verstonde .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3634.s.1	Dochter , ik vlieden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3670.s.1	Nu dan , die zwakheid vinden gemoed uw niet hebben minst gronden in rijden kies doen , zien dapperlijcken toen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3670.s.2	die ingesoghen wan , die het merg en het harden zo na , , liggen , Door die vinden kindsheid af zijde wij worden inplanten , Niet mede haar nevel dek doen klaar naakt waarheid , Die doen Natuire prenten in het redelijk verstand .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3670.s.3	Voorgangen overleggen mede rijden vinden gewicht , En d'ondervinding zelf hebben ik wel onderrichten die zoet lusten en rusten gemeenlijk worden genieten In hut , alles te hof , of op beveste slot .	Aquiescence_Emotion_BodilyProcess_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3670.s.4	alles die al niet en waar , mare die een herder staat wassen vol vinden arbeiden , moeite , vol sorchs en kommer kwaad , En ik daerinne mogen zo trouwen liefd bejagen , Wat vreugde soud het ik zijn daeromme smarten te dragen !	Joy_Emotion_Love_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3674.s.1	Daifilo !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3674.s.2	hei keren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.2	Aym ' !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.4	Wat bezwaar Cond ik kwetsen bij uw , te waar het hebben uw waar ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.5	Granida , deze tijd zijn gunst vinden god verkrijgen , dienen ' er uw vinden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.6	hei naderen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.7	ik gaan beneden hij tegen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.8	hebben zwaar meest moeten weg .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3689.s.1	ik vrouw , zien ik hier tot uw dienst bereiden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3689.s.2	believen uw iets vinden ik ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3700.s.1	Niet ander alles bescheid , Daifilo , vinden doen wel of qualijckvaert uw heer , ik vrouw komen zelf of , en zeggen die zijde begeren hebben , om uiten uw mond hebben zelf te verstaan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3706.s.1	Voedster , het believ ' uw aen een zijden wat te gaan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3714.s.1	hoog Prinsses , ik bidden de hoog Prins de god die hei uw wensen geev ' doen kracht vinden zijn gebod , En dank hij die ik dienst uw iets wat komen te staan .	EmotionalAction_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3719.s.1	Ach , Daifilo !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3724.s.1	Hoe ik vrouw ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3742.s.1	Neen laat die na .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3742.s.2	Daifilo en hebben ghij ik niet ver boven al , doel ik uw eerstmael zien , verheugd en welbevallen , En u te pas dienst ik harden geneicht tot dij , zo soud ' u heusheid trouwen plegen te hof , bij ik doen gunst aanzien verwekken die ik uw dragen te voorn .	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3742.s.3	Nu heeftse die vermaard ; mare in ik zijn geboren Een lusten om weet wat hebben zijn mogen , die uw hier Dus in doen naar nacht omtrent ik venster stuur ; ontdekken hebben vrijelijk en antwoord op ik vragen .	Emotion_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.1	Een oprichten harden , ik Vrouw , darf vinden zijn grond gewaeghen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.2	prinses ' , alles ik verscheiden deze heilzaam aanschijn schoon , deze zeldzaam wees , die zo rijcklijk stellen te toon doen grootheid uw ziel , haar hoog ' en heussche goedicheit , haar ernst , oprechticheit , bescheidenheid , cloeckmoedicheit ; hebben een vurig god ik harden doen niet leren , die uw de hemel aen doen wereld hebben vereren Op voorwaarde , die al , die kennen u waerdije , zullen voor het hoogst goed kies u slavernij , zo moeten ik vinden het slachten de eyckenboomen harden , Of wel een rots zijn die niet bewegen en worden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.3	Grootachting uw persoon zijn voogd vinden al ik zin .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.4	Die drijven ik vinden hebben veld , en doen ik het hof beminnen , Om doen genegenheid ik ziel te uitren ; wan Die zoeken haar aen hebben schoon te geven die zijde vinden , En mede die een te zijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.5	mare waard de godin , Hoe wel ik daar na wensen , ik hopen hebben niet te winden ; zo waard en achten ik niet bij een Godin een mens : Om ik ootmoedig ' hopen , verschonen ik trots wensen .	Emotion_Hope_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.6	ik wensen hebben niet , mare zullen daar wensen aen te raken , mogen ik door wensen eest ik zelf dies waardig maken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.7	deze doen , ik vrouw , die ik op het naast u bij zijn zoeken , En ver vinden uw te zijn ik vallen doen zwaar vloek .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.1	Ach Daifilo !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.2	Door het glas verstaan ik doen gerucht vinden u verliefd klacht , en ongeveinsd zucht : nog het zijn nu d'eerste maal die ik die hebben verstaan , nog het zijn nu d'eerste maal die ik bespeurdt hebben aen u uiterlijcke gunst , u innerlijk vlam . ik en achten geren beuseling vinden onderscheiden de stam , doen deugd maken edel ; uw en overtreffet dan te wereld , die ik weten , geren Prins nog edelman .	BodilyProcess_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.3	Daifilo ' , ik hebben uw lief en zullen u liefd betalen hebben dier die ik kan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.4	doen tijd verbieden te dralen In het openbaar vinden ik ongemeten vieren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.5	Daifilo , diets ik raden , liggen ik terstond vinden hier , Een harderinnen kleed , in plaats vinden goud , en zijden zijn ik vrolijk troosten .	Aquiescence_Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.6	Indien ghij uw cundt leiden mede ik in zulk staat , zo vlieden wij ' eer die hebben daecht .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3846.s.1	ik kussen d'aerde , ik Vrouw , die uw voeren dracht .	EmotionalAction_Love_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3846.s.2	Een hartzeer dood ik , groots , mare liefelijk boven maat , die ik zo groot gunst moeten onvergolden laten , Door die ik macht gebreeckt .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3846.s.3	mare overleggen , ik vrouw , ( wan lief alles u druk hebben ik ik eighen rouw ) vinden welken hoocheit ghij soudt klimmen gans beneden : Een koningin , niet geeert , mare aanbidden , haar geven tot een staat , daar niemand achten op slaan ?	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3846.s.4	hebben braaf , opzichtig , groot , en hemelhoog verheffen , vinden duisenden gewenst voor salich-maekend leven , Soudij verlaat , om een leven zoet , en zeggen , mare ongezien , en laag , slechten , nedrich , ongeacht , hebben welk uw mogen bedroeven , Wanneer ghij het quaemt te proef .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3846.s.5	ik raken ' er lichtelijk in , mare swaerelijcker uiten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.1	Daifilo ' , en hout hebben ik voor geren verijlt besluiten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.2	Eer ik mede deze zaak dus ver zijn voortgetoghen , hebben ik in juist schaal doen ding overwegen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.3	doen Prinsselijcke staat velen nutheits innebrengt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.4	mare ( god ! ) wat tegenwicht zijn mede die nut mengen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.5	Ach eenvoudig rusten de herder laech-geseten , Die luttel vinden het geswindt ramp overrompelen weet !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.6	ik zien nauw , die ik iets , nul Daifilo , verliezen , Indien die ik die staat slechts om haar zelf keur ; Nu kiezen ' icks ' niet allee om het schuw de verdriet , Die ik naekende zijn , mare meer , om te genieten En te vergelden die u liefd ' , die ik verwinnen ; doen waard vreugde , die de hemel deel kan : Om welk ' in mijden het vier ik zullen te leven doogen .	Fear_Joy_Emotion_EmotionalAction_Love_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.7	mare wat , ik doe't alree , ghij zien doen proeven voor oog .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.8	Wat lassen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.9	Wat smarten ?	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.10	Wat quellage soud ' op ik harden hecht connen alles ik een mede uw mogen zijn ?	Emotion_BodyPart_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.11	Daifilo , hoe dus verbaasd ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.12	hebben uw deze mare verslaeghen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.1	verklaren ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.2	ja , ik Vrouw , nooit droefheid in ik dagen Vermeesterde ik harden mede zulk overlasten , gelijk doen blijdschap nu die heftig annetast .	HeavyHeartedness_Joy_Emotion_Other_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.3	Wat eer ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.4	Wat lof ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.5	Wat dank kan uw doen wereld geven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.6	ik denken zijn te klein .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.7	Ach lief , en zalig leven ik ootmoedig ziel !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.8	Ach mogen ik ziel , vinden nu Eeuwelijck metter wonen varen uiten ik in uw !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.9	En , in deze woning schonen uw ziel , altijd na deze Onscheidelijck , zij trouw-nechtige dienstboo wees !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3899.s.1	Daifilo ' , wij kort tijd moeten zijn nemen waar .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3899.s.2	Vindij ik voorslag goed ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3910.s.1	ik vrouw , die wijden daar Niet lang op beraden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3910.s.2	u voorsicht hebben velen verder , Prinsses , en goed gezien , alles uw slecht herder .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3910.s.3	Wat uw belief ' geschie .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3921.s.1	Nu Daifilo , die wijden ik voedster dan terstond gaan winden op wij zijde , En onderrichten haar doen zaak te bestellen , die ik verliezen op het minst mogen ik heer vader kwellen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.head.3925.s.1	vieren delen	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.1	Onder zo velen , zo velen cieraden edel en braaf vinden vrouwelijk slachten , en zijn doen minst gaaf de hemel niet , die zijde schielijk een raden verzinnen , Die na velen overleg , een manna nauw zullen vinden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.2	zo ras doen voedster hebben haar tegen-reen geseit , Waerense vinden ik vrouw wel crachtich weerleggen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.3	zo ras doen voedster zien die vinden verandering spreken In haar voornaam , wassen voor stenen rots preek , En wij haar dienst bieden , zo hebben zijde , om het stuk licht uiten te voer , in minnen alles een ogenblik , Listigen raden bedenken , om zo zeer te verblinden koning , en heel hof , die zijde niet een haar wonen zullen , om onderzoek na doen Prinsses te doel .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.4	doen zaak zijn bestellen , en niemand zullen vermoeden aanzien op ik .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.5	Neen , wan enten west nog niet gedaan , , zijn , doen bruin grijns vinden de hemel vrolijk aanschijn ; scherp zijn Uchtens gouden kruin in het oosten schitteren , met haar verschgevlochten krans vinden roos rood , en witten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.6	niemand vinden het hofgesin zijn , weten ik , nog rijzen , En achten ik heer zullen mede nog bij zijn bed wees .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.7	mare , later dienen het niet !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.8	zien waar hei ik ontmoeten , doen blijdschap storen de slaap meer dan doen droefheid doen .	Joy_Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3997.s.1	Spoeydt uw , eerwaerdich liggen , om op ik uiten te spreyden het beginsel , en het vervul vinden ik geluckicheiden ; nul blozend ' ochtend , boete ik onrustich gewach , Voorloopster vinden doen zon , vroemoeder vinden de dag .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3997.s.2	En ghij , glinsteren ster , dekken u verliefd straal Wat eer alles u gewoonte , en om weder te vertalen u tijdverlies zo wild uw avond lief spoeden Wat vroegher , alles u liggen ik goed dienst zullen doel : stellen u brageeren uiten , zoet Godin , tot avond , En nemen zo velen ghij nu te kort komen aen de avond ; Indien ik willig volch de min heet branden , nog godheid boven d'uw verheffen in ik verstand .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4001.s.1	Ich wensen ik heer vinden daech het hoogst geluk te proef .	Emotion_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4008.s.1	Daifilo , sijdij daar ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4008.s.2	gaan wijden te hof vertoeven , Tot die doen koning rijzen ' , om dan vinden staan aen , gelijk besluiten zijn voor na ik vrouw te gaan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4008.s.3	mare zien : haar voedster .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4008.s.4	Wat of haar dus vroeg mogen kwellen ?	Emotion_Other_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4017.s.1	Misschien , ik heer , zijn om doen staessy te bestellen , Die tegen u coomst moeten heerlijk zijn bereiden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4021.s.1	roepen haar , op die ik iets van Prinssesse weten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4024.s.1	daifilo , voedster , tisiphernes	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4028.s.1	ik vrouw !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4032.s.1	nul groot god !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4038.s.1	ik heer soud ' uw iets vlaag .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4042.s.1	waar zijn doen koning ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4047.s.1	Wel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4047.s.2	Voedster , hoe dus verklaren ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4047.s.3	wat vinden Granida ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4047.s.4	He ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4052.s.1	nul god wonderbaar !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4057.s.1	Hoe , en zijn niet wel mede haar ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4057.s.2	doen zaak betreffen ik mede , zeggen wat'er mogen gebrek .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4061.s.1	Datmen de koning wekken , ik moeten de koning spreken !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4068.s.1	Datmen de koning wekken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4068.s.2	mare geven wij wat bescheid , zijn kwalijk of zijn wel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4072.s.1	kwalijk , en wel , vinden beide .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4076.s.1	kwalijk en wel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4076.s.2	Hoe soudmen hier bescheiden uiten merkel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4081.s.1	nul eeuwichlijcke macht !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4081.s.2	nul wonderlijk werk Die d'aertsche zin , en vernuft te boven gaan !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4086.s.1	nul god , wat zullen deze zijn ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4093.s.1	terstond suldij het verstaan , ik heer , doen koning zijn wekken , en voor rijzen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4097.s.1	zien of hei komen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4101.s.1	ik heer , hei zullen terstond hier wees .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4105.s.1	daar zijn doen koning , nu u boodschap , voedster , doen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4107.s.1	koning , voedster , tisiphernes	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4113.s.1	Voedster , wat brengdij wij dus schichtig ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4113.s.2	kwaad of goed ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4121.s.1	het believen ' uw , heer , uiten ik te horen doen geschiedenis , En zelf te oordelen of voor kwaad of goed te duiden , , zijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4121.s.2	doen koning mede geduld aenhoore ik vertrekken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4125.s.1	spreken claerlijck , niemand en zullen storen u gespreek .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.1	Hoewel een edel harden vinden uitnemen zin al ' edel hart vrome , en deuchtsaem moeten beminnen , zo hebben natuur nochtans hechten aen wij gemoed Een treek , die ver , d'een voor d'ander kies doen , Om door vereende liefd daar mede te zijn verbond .	Emotion_EmotionalAction_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.2	alles zulk wederpaer treffen worden , of vinden , wassen liefd ' heftig en ras , zo dat , na ik vijndt , geren nieuw vriendschap , mare vrientschaps vernieuwing schijnen : rechte of die ziel mede elckander onderling paren hebben wezen , al eer zijde lijf ontvangen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.3	de Tisiphernes zien niet belge , die ik vrouw , alles zijde gistr ' avond haar tot slaap geven zij , Om het aenstaend ' huwelijk wassen droevig en t'onvrede , alzo het aen haar gemoed niet ganselijk en voldede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.4	doen treurig Prinsses zeer velen , en ijverig bidden doen groot god , haar te gunnen het gene die Die goed dan zijde zelf voor het goed en schoon kennen , En conden , wassen hebben haar goddelijk believen zenden . het woelen denken hebben nauw vinden het bidden einde maken , alles zijde , en corts daerop , ik zijn in slaap geraken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.5	ik liggen in diep rusten , ik lid overgieten mede zacht slaap , en al ik zin toesluiten , ik ziel dompelen in een grondeloos vergeten , zo die doen droom ook , die buiten tijd mede leed En daags arrebeyt de lichaam , komen kwellen , mede haar vernieuwing niet vermochten die t'ontstellen ; Wanneer een groots geluid schielijk ik oor slaan , En overclaere glans ik vaak uiten d'oogen jagen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.6	ik horen zo , en zien , ( nul god , leren ik zeggen ) die d'opgetoogen ziel het lijf onbeweecht laten liggen .	Joy_Emotion_BodyPart
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.7	zien daar , doen kamer leven , en sidderen op doen klank , En lijfelijk maat vinden hemels speld en zinken de godin , gecroont mede groen laurentelgen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.8	D'ontsprongen venster op en cunnen niet verzwelgen hebben hel liggen waar vinden doen vol kamer blaken , Vloer , wan , tapisserij , hebben welfsel vlam braken En al zonder branden , niet om vernielen moordich , mare tot erkentenis de Godtheits tegenwoordich .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.9	doen sangsters schikken haar enten ronden ' , en mijden in de fraeygevoechden ring , verheffen haar een Godin ; Granid ' in alles gelijk ; vinden welgeschickte lid , vinden eerwaerdich gelaat , vinden tronie netten besnijden , vinden oly-cleurt gezicht , vinden dicht vlecht blond , vinden bleekheid de gedaents , en rood koralen mond .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.10	hebben hoofd , tot teken vinden haar manlijk luim , die dekken een blank helm , en blikkeren door doen pluim .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.11	haar voorzichtig arm gewapend schijnen te zijn mede een schillen vinden klaar doorzichtig kristallijn ; mare die zijde zijn wijselijk bruickt , en niet en zoeken door deze alles zoet wreed , blijken aen haar bezadigd wees , En de olijventack , een tegenteecken vinden het Crijchsduyend gras , die zijde reiken mede haar recht handen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.12	zijde wenden haar tot Granid ' en goddelijk zede Ontsluiten haar mond , mede dus-danige rijden ; welk goddelijk kracht Diep drukken ' in ik denken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.13	Granida ' , ontwaeckt , die rusten uw buit slapen vinden , zien hier Minerva , die nog inde wiech uw minde En haar genade zand .	Emotion_Love_Compassion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.14	geren mens vallen uw te lot , mare in de hemel troon , doen Liefd , een eeuwig Godt .	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.15	u liefde tot doen Liefd , doen Liefd in liefde blaken , Die kiezen uw tot zijn Lief ; ik zullen hebben huwelijk manen , Ghij zullen doen weerliefd zijn , zijn bruid , en zijn Godin , Een vrouw vinden staeghe liefd , niet vinden doen wulps Min. u vrij wachten om hoog , wijden zijn uw coomen halen .	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.16	godin , voeren haar mede , doen doorschijnighe zaal vs. 1325 -1333 de hemel zulle haar niet schamen deze sieraad .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.17	nieuw godin , u harden vinden aertsche lassen ontslaan .	Worry_Emotion_BodyPart_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.18	uiten hadse .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.19	met ontsteken hebben wellustig spel de negen sangsters , daar zijde liefelijk onder kwelen : Nu ontslaan uw d'Aertsche lassen , goed passen uw doen godheid aen te trek .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.20	zalig godin , wijden voer dij na de hemel hoogst plek , plek altijd hal en klaar , plek , daar emmer lassen kan lusten bevlekken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.21	zo ras zijde deze zinken mede spel heffen op , ontlasten zien hebben paleis tot boven in de top , hebben gild welfsel splijten , en doen gemetste dak .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.22	Granida voer ' op olijf en laurentacken , Dus singend ' hemelwaerts , al hoog , en hoog heen , vervolgen vinden ik gezicht , tot die s'er uiten verdwijnen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.23	doen voechden zien het gebouw en al in zijn stad , Bedaerend ' alles ik mede te lang lest deede .	Aquiescence_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.24	suf verbaestheit vinden ik lid allensjens strijken , ik rijzen ' en het geren ik wel bezien hebben overkijken .	Emotion_BodyPart_Wonder
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.25	Granida's lege koets tuicht die de oud vrouw gezicht niet altijd voor droom zijn te houden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.26	Hier zijn ik geest af vol , deze coom ik dienst aen , doen koning oordelen nu na die hei het zullen verstaan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4326.s.1	ik dienaers , goed terstond wat'er af zijn bespeuren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4332.s.1	ik heer , doen vrouw razen .	EmotionalAction
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4336.s.1	zo doen zijde nooit te voorn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4341.s.1	Voor zeker raestse nu , al raesd'se nooit misschien .	Other_Anger
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4345.s.1	nog ooit , nog nu .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4349.s.1	ik en weten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4354.s.1	ik zullen haasten cunnen zien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4354.s.2	ik spoeden ik derwaarts heen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.1	doen daerin u bedragen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.2	En laat op het rascht aen wij doen tijding herwaarts dragen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.3	nul god groots , soudt gij ik wel aanzien sparen Tot het alderlaetste vinden de ouderdom bejaard , Op die ik troosteloos daerin zullen versmachten , beroven vinden het gene die allee haar leed kennen zacht ?	Emotion_BodilyProcess_Other_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.4	mare hoe ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.5	Indien alzo doen zaak zijn stellen , alles wij doen voedster voor doen waarheid hebben vertellen , zo loov ' ik danckbaerlijck u goedtheit hoog vinden waarde , Hoewel ik eenzaam blijv ' en mist ik lusten op aarde .	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.6	wan alles ghij ik onttrockt deze enig pand zo zoet Door ongeval of dood , gelijk misschien ghij doen , zo soud ' ik tegen uw en ik misdoen dwaal , Indien ik op u willen , en wetenschap gaan smalen , ik steurende die ghij quaemt wedereisschen het geren die ik zo langen vinden uw genieten hebben te lid : rechte of ik goed alles ghij wat oorbaar wassen verstonde , rechte of ik ik en haar meer goed , alles ghij wij , jonde .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.7	ik zoeken ; en zoom haar nog dood nog levend vinden , zo nemen ik het blijcklijxt aen , en hout die zijde bezinnen vinden een verheffen god te hemel zijn varen : wan doen bescheid reden , en het deftig verklaren de voedster brengen het mede , wie trou-bevonden mond nooit spreken wassen gewoon versuffen of ongegrondt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.8	mare zien doen vrouw daar , die brengen nieuwigheid .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4399.s.1	rijden vinden juffer , koning	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4410.s.1	Grootachtbaer heer , hebben slot , vinden boven tot beneden , aanzien wijden helen doorsocht , en omkeren te vluchten , Granida ' zijn nieuwers , mare een lijfelijk luchten , mede goddelijk reuk vervullen haar gans kamer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4426.s.1	nul groote Pallas , nooit wassen mens uw aengenaemer alles Perseus door u gunst zegenen wonderlijk ; En nog te tijd op zijn naesaeten in hebben rijk het welk vinden hij naeme voeren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4426.s.2	godin wijze vinden raden , Ghij duren laat u gunst , en anhoudt u genade .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4426.s.3	Lof , seechbare Godin !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4426.s.4	Lof , hoochverheven Godt !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4426.s.5	Eewige Liefde , die vinden aertsche bruiloft , tot Een hemel huwelijk Granida komen verheffen , geren danckbaerheit , geren lof u prijzen kan overtreffen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4475.s.1	Lof , eewige Liefde , wijden Geven dij , Die u hoog goedheid straal , Door doen dik wolk heen , Al beneden , laat tot op aarde dal .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4475.s.2	vs. 1390 -1395 Die op uw kracht lid , eend zetten Boven al op uw hebben ooghe , trekken u goedheid overschoon Inden troon de besonden hemel hooghe .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4475.s.3	Heilich , goedertieren , edel Sijdij helen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4475.s.4	Die in uw vlam blaken , Cundij ook op aarde hier , Door u vier , mede een hemel zalig manen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4475.s.5	zo , wij die uw lief zullen , Suldij al , Niet allee Granida schaken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4478.s.1	tisiphernes , daifilo , koning , rijden vinden juffer	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4502.s.1	daar liggen ik troon in d'asch , en doen belofte mild vinden het schoonpratich geluk , en te vergeefs spillen zo velen moylijcke lassen te nauw node deurkropen , zo velen gevaar , zo velen te leurgestelde hoop , zo velen ' anxstige vrezen en arbeiden uitstaan , zo velen treffen zorg en zo velen weer gedaan , zo velen zoeken ramp , zo velen verdrieten lijden , zo velen verbijten smarts , zo velen vertwijfeltheden .	Fear_Joy_Emotion_Happiness_Hope_Other_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4502.s.2	ai dol geluk , ik kennen u onbescheiden kracht !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4510.s.1	mare op een vrome moeten , ik heer , hebben zijde geren macht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4519.s.1	Niet lang dan hebben zelf haar overlasten willen lijden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4519.s.2	deze zullen ik het laatst zijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4519.s.3	ik handen zullen ik bevrijden , het zijn langen genoech leven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4519.s.4	gaan wij .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4519.s.5	ik harden , verstouten uw tot een kort verdrag .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4525.s.1	ik heer , besindt uw , hout !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4529.s.1	hout , Tisiphernes !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4533.s.1	Ach !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4539.s.1	Heer , geven doen rijden plaats .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4543.s.1	het geluk en geven haar geren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4547.s.1	ja het .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4557.s.1	bedaard , en vaetse .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4564.s.1	Hoe nu toen , braaf Prins ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4568.s.1	gelijk ik ramp ik jaecht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4572.s.1	zijn deze doen liefde die gij tot Granida dracht ?	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4578.s.1	ik liefde ' haar niet , het en waar ik ik het verliezen laten rouw .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4582.s.1	Niet haar verliezen , mare het u , wan zijde zijn hooch-behouwen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4586.s.1	zo spuwen hebben wreed geluk op ik haar kracht uiten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4592.s.1	het geluk en storen uw niet , mare die ghij het kwalijk duidt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4596.s.1	Misjondij aen u lief Granid ' een hemel huwelijk ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4600.s.1	Neen , mare ik vlieden doen smarten vinden ik misval gruwelijk .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4605.s.1	Liefde ghij haar , ik heer , het geren die uw zijn geschieden , Soud uw om haar geluk , lief zijn , en rouw niet .	EmotionalAction_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4611.s.1	haar zijn ik kwijt , en zien voor al ik toeleggen slecht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4617.s.1	doen god vinden het god , wij zullen haar onderrichten ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4622.s.1	zijde vinden het god ; mare die ik door hebben sterven ik Bevrij , die zulle ook geenszins beletten zijde .	EmotionalAction_Dissapointment_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4626.s.1	Ghij cunt leven die uw het geluk zo zeer niet hinder .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4631.s.1	hebben zijn te wankelbaar , en liggen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4635.s.1	vertrouwd hebben minderen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.1	Vertrouwen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.2	ik vertrouwd na deze nimmermeer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.3	ik zien wel het en verheffen mare , om vinden boven neder , mede ijsselijcker slag het verheven te smeet ; gelijk de arend tros , die niet in stuk rijten de schildpad ijserhardt mede fel klauw con , hij strengelijck om hoog , schier voeren tot in doen zon , vinden waar zijn scherp gezicht kennen berg en dal , hei dan op rots harden , hij laat te bersten val .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.4	ik walgen vinden doen werlt ; en zullen ik nu voortaan Leven , zo zullen ik ik die levendig ontslaan .	Emotion_Disgust
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.5	doen lassen , en hebben gebied vinden ik bezitten land , Daifilo , leveren ik vinden nu af in u hand .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.6	zijde ghij voortaan doen Prins .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.7	ik lever ' uw , door die daarmede niemand kan waardig zijn verzien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.8	u trouwen dienst zijn meer dan yemandt kan verzinnen ; het hebben uw believen voor ik u eigen lief te winden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.9	deze verslaan de Parth , en geven hij in gevaar de vreselijk dood , willig , om ik en haar .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.10	Grootachtbaer heer , wild hij in mijn staat bevesten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4677.s.1	nul wonderlijk beleggen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4677.s.2	mare het zijn beleggen te goed .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4687.s.1	Voor ik , ik zijn terstond hebben hof te laat , rijden , ik peinsachtich gemoed willen geren blijvend stede ; mare ik voornemen zijn vinden d'eene tot de ander , mede eenzaam selschap clein te reizen en te wanderen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4687.s.2	ik bidden om oorlof voorts , wan hier vertoev ' ik niet .	EmotionalAction_Desire_Despair
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4711.s.1	ik dank ik heer , die ik zo groot eer bieden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4711.s.2	Een hoog en waarde gaaf worden ik vinden hij geven ; mare hei weten tot wat einde ik coos ' hebben hoofs leven , Te weet , om de dienst vinden doen Prinsses , geenszins Op hopen vinden voordeel , minnen vinden zelf te worp Prins , welk pak voor mijn hals zijn te zwaar om dragen , Een liggen herder rusten ik goed doen bedragen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4711.s.3	mare wel zullen ik , ik heer , blijvend u trouw knechten , u ding gaede slaan na ik bekwaamheid slechten , Tot die ghij wat ontlasten vinden schielijk bezwaren , mede hulp vanden tijd zullen komen te bedaren , Om mede vernoeging weder te karn tot de staat , Die het lusteloos gemoed door tegenheit verlaat : ik heer , zoeken hebben , gelijk hei het god vinden , te besaedigen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4723.s.1	Ach luttel wenschend harden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4723.s.2	Luttel kan uw beschadigen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4723.s.3	Ach wat onttreckt ghij , mede begeerlijckheits verhoen , hebben speelsiecke geluk , al stof om kwaad te doel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4723.s.4	Dats prinselijk , Daifilo , geren prinslijckheit begeren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4727.s.1	ik bidden uw oorlof , heer , om tot ik reis te karn .	EmotionalAction_Desire_Despair
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4731.s.1	vaart wel , ik Prins , vaart wel , en zijde troosten .	Aquiescence_Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4737.s.1	ik tijgen vinden staan aen op reis ; vaart wel ik heer , en ghij Daifilo wel .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4744.s.1	ik zullen ik heer tot huis versellen , Om het reddeloos gezin verbaasd in rusten te stillen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.head.4748.s.1	Vijfde delen	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4751.s.1	ostrobas , artabanus	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.1	Artabanus , zien hier u Prins zo braaf vernaemt , - mare , heide , wezen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.2	- mede wieden ghij hier in pers quaemt , wieden , doel hei leven , ghij getrouw plegen aen te kleven , En nu versuimt zijn wraak te nemen na zijn leven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.3	Artabanus , zien hier u Prins zo braaf wel eer Vernaemt , wie hoog roemen nu liggen vellen te neder , vellen , niet vinden een Prins , ( ai spijt !	Emotion_Sadness_Remorse
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.4	en cundij slaap ? ) mare vinden een herder slechten , vervalsen in Prinssen wapen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.5	heide laster !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.6	heide !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.7	fluks rijzen Artabanus , en boete ik wraeckrasenden dor , te minst , mede zijn bloed !	BodilyProcess_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.1	Wapen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.2	ik volch ik Prins , het gebod die gij verklaren , ik volgen , ik Prins , ik volgen , al waar het tot inder aarde !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.3	Ghij zijde vertrekken , mare inwendich ik aenschouw u beeld , en vasten prenten in ik gedachte houwen u haar t'samengegroeyt mede bloed , u bleek schenden tronie , u krank gezicht , en u gapen wond .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.4	heide wapen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.5	Wapen heide !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.6	ik prins roepen om wraak .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.7	fluks op , Artabanus , verhalen terstond doen zaak Aen u gezelschap , en ontsteken haar mede u woord , Om op liggen plaats de moorder te vermoorden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.8	langen over middernacht ik het al te wees gissen , hebben liggen dwarrelen mengen onder doen duisternis , de blond dageraad mede haar blozend kaak , En d'uur die ik Godin ik coomst verwachten , genaken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.9	wan , doel icks ' op hebben land brengen hebben , laten ik haar In hebben gezelschap vinden ik trouwen zuster daar , En zo doen kort tijd wij haastig dwingen te scheiden , besluiten wijden , die zijde ik weercoomst zij verbeiden , Eer die doen tweede zon soud ' aen de hemel staan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.10	zien hier de naast weg , deze dienen ik inteslaen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.11	vaart wel scepter , vaart wel , vaart wel verheffen throonen , verheffen zo , die ik vinden uw steilheid ijzen , vaart wel dwingen gewaedt , en al te zwaar croonen , afgod die mede wind u ijdel dienaers spijzen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.12	u ijdel dienaers ghij duisenderleye node , , breien , Door u belofte loods die ghij zo kwalijk hout , wan zijde , besietmen het wel , verkleinen inde grootheid , slaaf in d'heerschappij , verarmen in hebben goud .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.13	Een laag ' en diep rusten ik goed mogen verkwikken Die ik te saemen smelten mede een lief ander-Ick : ik laat uw , warrig hof , en kiezen voor zo velen strikken , Een al velen streng , mare och , hoe velen zoet strik !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.14	bedauwen bloemkens vers , en ghij blozend roosen Die uw mantel groeien nu effen openen doen , welkom , en dank die ghij verkwikken ik ameloosen , En afgepijnden geest mede uw aesem zoet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.15	vs. 1521 -1524 Nu biggelen op hebben gras , en cruidtjens onbetreden , ik lauw traentjens , die de dauw zo wel lijken : Traentjens niet meer vinden smarten , niet meer vinden bitterheid , mare vinden een teder gemoed , die schier vinden vreugde bezwijken .	Joy_Emotion_Happiness_BodyPart_BodilyProcess_Moved_Sadness_Anger_Spitefulness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.16	nul boom schaduw-mildt , ootmoedelijck laat dal u nijgend hoofd alles ghij het eerwaerdich aanschijn zien , leidster en morgenster mede weerlichten straal , Indien ik blijdschap slapen , waarom wekken ghij hij niet ?	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.17	vrolijk vogel , die nu het beginnen te dagen , mede uitgelaten zang hebben stil woud ontrust , Ghij nachtegaal voor heen , vlieden uiten doen boodschap dragen , die hei zien haasten , ik wachten alhier ik lief lusten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4876.s.1	daifilo , granida	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4887.s.1	Ach , om ik vliegen harden snellijcker te doel spoeden , Hoeftmen geren vogel nog nieuw boon te moei , doen liefde porren die stag , en drijven tot zijn Godin ik eerwaardig vrouw .	Joy_Emotion_BodyPart_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4895.s.1	u dienstmaagd , u slavin , Die het nimmermeer aen uw te slaaf zullen verdriet , Die om u minst dienst haar leven zij vergieten , handelen en leven mede ik na u zin , hoe ghij doen , Vercoopt ik , dood ik ' , ik wil't .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4904.s.1	ik vrouw , en al ik goed .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4904.s.2	Hoe onlangs nog soud ' ik niet aanzien darven denken doen vreugde die het uw believen genadelijck te schenk Aen die zijn onwaardig wassen , die niet en hebben verdiend u dienst , ik zwijgen ' u gunst .	Joy_Emotion_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4918.s.1	Ayme , ik groot vriend , D'onwaerdeerlijcke prijzen , en uitnemen kracht vinden uw deugd doen , die nooit uiten ik gedachte nul Daifilo , u gedaent vinden ziel en lichaam gaan , Tsint ik door zijn hemel gunst daar kennis af ontvangen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4918.s.2	hebben zullen voor u waerdij altijd te luttel val , Wat ik uw geven kan .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4926.s.1	En ik uw niet mede al , Al het ik vinden rechte , en reden uw toegeeygent wereld .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4926.s.2	Ach ik godin ' , hoe vol zijn vinden uw al ik harden !	BodyPart_BodilyProcess_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4930.s.1	ik hart bloed .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4941.s.1	ik zon , die boven d'ander klaar , , zijn , ik hout ' uw in ik arm , en twijfelen of hebben waar , , zijn .	EmotionalAction_BodyPart_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4941.s.2	ik ziel zijn zo beroerd , ( ayme ! ) die ik daar vinden doen grondelose vreuchd niet vol genieten kan .	Joy_Emotion_BodyPart_BodilyProcess_Moved
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4941.s.3	ik en geloof nauw ik staat dus hoog rijzen , En denken vasten of ik wel Daifilo niet zullen wees !	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4943.s.1	artabanus , granida , daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4953.s.1	Nu toen , gezel !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4953.s.2	mare die ghij niet dootlijck krenken de vals moordenaar , die nog op boel denken ; vallen aen gelijk , en krijgen hij levendig in hand !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4953.s.3	Ghij zijde gevangene .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4953.s.4	staan !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4953.s.5	knopen hij in vasten band .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4958.s.1	Ach , ach !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4962.s.1	Hoe nu toen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4962.s.2	wat wort'er vereisen op ik ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4966.s.1	hebben leven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4974.s.1	het leven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4974.s.2	Och !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4974.s.3	die hebben geren onrecht zijde !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4974.s.4	dracht goed kennis vinden u vijand , eer gh'u verder vergrijpen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4981.s.1	Kennis genoech , hebben zijn doen vals herder , doen moorder vinden de Prins de partij wijt-vermaerdt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4986.s.1	Verwinner !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4990.s.1	doen tiran wassen zulk straf waard .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4994.s.1	wij eisen ik leven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4994.s.2	die hei coom allee en maken , , strijd .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5001.s.1	Dat's Ostrobas , wie bloed , en bleek schim om wraak , , krijten .	EmotionalAction_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5001.s.2	wijden zulle , hij voldoende ' , uw offeren aen zijn graf .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5014.s.1	laat hij , hei hebben geren schuld , en keren op ik doen straffen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5014.s.2	zien hier Granid ' , om wieden de prins liggen verslagen , deze god hebben ik schaken , en willig weg dragen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5014.s.3	verschonen hij , woeden op ik , de oorsprong vinden hebben kwaad .	EmotionalAction_Anger_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5023.s.1	Granida ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5023.s.2	ja , Granida ' .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5023.s.3	nul wonderlijk verraden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5023.s.4	wijden zulle , ( wild haar ook mede band vasten beladen , ) doen prinselijk ziel mede beyder bloed versaeden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5039.s.1	Daifilo , wat ghij zien !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5039.s.2	Granida lijden , zijde lijden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5039.s.3	En staat hebben aen een coordt , die ghij haar niet bevrijden ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5039.s.4	Dat's stuk .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5039.s.5	god nu , kracht , nu cloeckmoedicheit , Nu arbey al wat mogen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5043.s.1	Och , het zijn vergeefs woedicheit !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5049.s.1	Gef hij mare !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5049.s.3	dood goed alles ontvloon !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5055.s.1	Och laat ik voortgaan !	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.5057.s.1	tisiphernes , artabanus , daifilo , granida	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5064.s.1	hout , hout op wereld uw bieden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5064.s.2	hout op , hout op het gecrijs , vechter , en scheiden u drang !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5070.s.1	vlieden , zijde zijn ontzet , vlieden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5077.s.2	Artabanus , mede wieden zijn die ghij twistich zijde ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5077.s.3	zijde ghij hier , Daifilo ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5077.s.4	Hebdij allee de strijd Tegen zo velen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5086.s.1	verstaan , prins doen vals treek , En wild u ongelijk nevens hebben ons wreken .	EmotionalAction_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5091.s.1	Hoe die ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5096.s.1	Ach , ramp op ramp !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5096.s.2	uiten d'een in d'ander lassen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5100.s.1	Och , het scheiden ontzet , mare lezen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5106.s.1	Een meerder vijand wassen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5110.s.1	Ach , hard Gelux besluiten !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5121.s.1	prins , ghij zijde bedroghen , zien hier Granida ' , en al de voedster rijden logen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5121.s.2	zien hier de vals god vinden wieden zijde zijn schaken , En trouwheit daar ghij zo velen werk af hebben maken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5121.s.3	zijde kiezen een boer voor uw , tot haar en u verminderen , Een boer de adel honen , en schaken de Prinssen kind .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5121.s.4	ik komen om Ostrobas te wreken , wreken ghij nu , Op beide , beyder leed vinden ons Prins en uw .	EmotionalAction_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5125.s.1	Wat's deze ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5130.s.1	Ach , wild u leed op ik allee vergelden !	Emotion_EmotionalAction_Sadness_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5139.s.1	zijn trouwen zijn onbevlekt , hij canmen niet beschelden ; mare uw op ik verhalen , en koelen u gram moed , mede wraak , niet vinden het kwaad die uw Granida doen , mare vinden hebben welk , op die doen dood haar het oog zij luiken , de god het hebben believen tot oorzaak haar te bruicken .	Emotion_EmotionalAction_Hatred_BodyPart_BodilyProcess_Loyalty_Anger
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5145.s.1	nul Liefde ' !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5145.s.2	nul vreemd beloop !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5145.s.3	Daifilo , zeggen ik hoe doen ding wonderlijk dus zijn gecomen toen ; ik geest en kan het beleggen nog hebben vervolg niet vatten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.1	ik heer , de laatst nacht , passeren ' ik bijder straat Onder doen venster vinden ik vrouw , gelijk ghij weten , die ver vinden haar te zijn ik wassen hebben meest leed , En om haar bij zijn , ik te hof wassen gecomen , En om haar dienst , vinden uw ik hebben dienst nemen .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.2	ik vrouw staan voor het glas , en zo zijde ik zien gaan , zonde zijde haar voedster af , om ik te roep aen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.3	ik Vrouw vernederen ' haar , en komen ik zelf vragen , Wat oorzaak inder nacht ik daar omtrent mogen jagen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.4	vragen , hebben ik ontdekken vinden ik gemoed de grond , waarop , nul ik Godin , ghij blijk laten terstond doen gunst die ghij ik droecht , door die ghij vinden te voeren doen roock vinden mijn vlammen wel hebben cunnen bespeuren .	Emotion_Love_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.5	Te laat , boodse ik , haar conincklijke staat , Om mede ik na hebben land te trek op te daad .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.6	onwaardig kennen ' ick's ik , en houden doen zwarigheid vinden zulk bestaan , haar voor : mare haar gronden rijden Vertoochden ik haar Liefd ' , en die zijde goed mede ik zo klein staat , alles mede een Prins vergenoegd zij zijn .	Emotion_Happiness_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.7	de Hemel zijde getuige vinden ' tgeen die ik oorkonde , die ik , tot die tijd toen , Granid ' aen niemand jonde , alles uw , ik heer , wan ik denken dus hooch niet stijgen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.8	mare , doel ik onderrichten vinden haar , het gevoelen krijgen die deze haar goed zullen zijn , bestaan ik hebben te lest , ( doen god weten't ) meer om haar , alles mijn goed .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.9	mare , ach verblind mens , hoe luttel kundij zien Of uw wijs raden tot schaden ' of voordeel die !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5191.s.1	prins , dus zijn ik schuld , straffen ik , het wereld uw bidden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5195.s.1	Neen edel prins , mare zijde mede ik allee te vrede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.1	nul wonderlijk beloop !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.2	nul raden de god rijk !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.3	nul liefde gans volmaken , en zonder sijns gelijk !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.4	Om haar getrouw lief een groot koningin verwisselen haar staat , en worden een herderin .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.5	Een herder weigeren , om zijn lief te laat niet , Een prinsselijcke staat diemen hij annebiedt . het geren om elckanders willen ghij zijde t'ontbeeren vaardig , goed mede elckander ghij zijde te bezitten waardig . het zijn rechte die ghij genieten , Daifilo , die ghij wond , En ghij , Granida ' , u Lief die ghij doen waard vinden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.6	de hemel uw verenen , de Hemel doen bereiden de weg tot u geluk .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.7	Neen , ik en zullen niet scheiden hebben echt paar die ooit te wereld zijn gezien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.8	Gelieven zijde troosten , uw zullen geren leed geschien .	Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.9	Prinssesse rijzen , en ghij , Daifilo , vinden de aarde .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5224.s.1	Ach , eedele gemoed !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5228.s.1	Ach , heusheid hoog vinden waarde !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5240.s.1	Ach onverwacht troosten !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5240.s.2	rechte prinselijk , edel bloed , wij zullen uw deze deugd loon , alles u gemoed ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5240.s.3	die zullen uw lof en lot na Deuchts waerdije geven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5277.s.1	diets niet genoech die ik uw hier behouden het leven , mare ik begeren die doen koning zelf volvoeren Ulieden huwelijk , naedien het de Hemel zweren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5277.s.2	En op die hei daar toen zien lichtelijk lei , zo schenk ik uw nog een de staat die ghij ontzeggen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5277.s.3	ik weten ik zullen vinden hij verwerven ulie vrede , En die hei uw verheffen tot swaegher in ik stede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5277.s.4	ik vollick , wild voor heen u gang na het hof versnellen , En aen de koning al deze vreemd beloop vertellen , vs. 1691 -1694 En ik begeerte mede ; wan vallen hebben ik niet zwaar , ik achten hebben minnen voor hij zullen zijn een droef mare ; die ik gemoed bewegen zullen zijn gemoed bewegen .	Emotion_BodyPart_BodilyProcess_Moved_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5277.s.5	wijden volgen sachtelijck .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5284.s.1	Ach , groot troosten !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5284.s.2	verkrijgen Op het aldertroosteloost !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5284.s.3	Lof prins , die het dus voegen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5288.s.1	hebben lusten ik dus te doel .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.1	ik heer , uw lusten doen deugd .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.2	mare al verheffen ghij ik boven u eigen zaak , Ghij zullen ik nimmermeer meer alles u dienaer manen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.3	groot god , niet om raak zijn doen grond vinden u besluiten , het wassen u lusten deze huwelijk manen , komen en voeren doen bruiloft uiten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.4	herder die in last druckich vinden zijn Gelux genae bestort , nul geluckich !	Emotion_Happiness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.5	Overluckich !	Emotion_Happiness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.6	hemelhoog verheffen worden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.7	Niet die uw een staf vinden gouwe zoet voorstaan alles een bloem , mare die ghij verenen in trouwen mede u waardig hart roemen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.8	Liefd kiezen , doel ghij wier geboren , uw voor eigen uitgesocht , En de Hemel , al te voorn , hebben zijn gunst uw toegedocht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.9	Alsmen bij u wiech komen kwelen , zo bevallijck loecht gh'er in , die uw , vaak , om mede te spel , staal watr ' en bosgodin .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.10	Corts daar na beginnen te blijk , ( wan doen tijd haasten heen vaart , ) die ghij vinden u tijts-gelijcken meest , geren gelijk en woerd .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.11	thans , alles d'eerste wol u kaak Vanden baard beschaduwen doen , Harderinnen en ontstaeken Niet allee mare Nymphen mede .	BodilyProcess_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.12	Duisendt wensen om u paar , Duisendt quijnden om u minnen , mare de hemel willen ' uw sparen Voor een groot koningin .	Emotion_Love_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.13	groot god niet om raak zijn doen grond vinden u besluiten , Luste't uw deze huwelijk manen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.14	voeren mede gunst doen bruiloft uiten .	Emotion_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.1	Liefd en minnen aen een vertuien , beide ziel en lichaem-mengers , heilig ' oppervrientschap-strengers zaligen bruidegom en bruid .	Emotion_BodilyProcess_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.2	Boven doen gemeen maat willen ' hei zien een lievend paar , de de hemel keurig haar lezen uiten zo verscheiden staat .	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.3	die ghij twee verenigen blijven blijken doen god te begeren , En doen koning willen niet karn het geren de hemel merkelijk drijven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.4	langen , al langen genoeg lijden , Blijx genoech vinden vasten trouw ; die u overlijden rouw die tot meerder vrolijckheden .	Emotion_Loss_Loyalty_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.5	nul geluk , zijde eenmaal zat vinden ellende op ellende , En te laatst moede vinden wonen schutten de lopen hier vinden u rad .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.6	God en koning wil staken de gelieven tegenspoed , Liefd ' en min , lof u gloed , Die nu zonder smarten zullen blaken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.7	Liefd en minnen aen een vertuien , beide ziel , en lichaem-mengers , heilig ' oppervrientschap-strengers zaligen bruidegom en bruid .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.5445.s.1	tisiphernes , granida , daifilo , koning , rijden vinden juffer , rijden vinden harderinnen	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5450.s.1	verheugd , mede blij gelaat komen wij hebben hof te moeten .	Joy_Emotion_BodyPart_BodilyProcess
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5450.s.2	zien daar de koning zelf .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5455.s.1	die ik hij vallen te voeden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5455.s.2	Ach vader !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5463.s.1	welkom , ik dochter , staken u vrees ; En ghij die ik voortaan een waarde zoon zullen wees ; de god wil volch ik .	Fear_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5479.s.1	Heer , hout deze voor doen schoon tempel , die doen liefde zien vercoor Om een voor al te tonen zijn heerlijkheid te stillen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5479.s.2	gunnen , heer , die eewelijck elckander zijde versellen , En die de Hemel binden , ik koning , niet en scheiden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5479.s.3	deze lot eisen ik allee vinden u grootachtbaerheit , Voor al doen dienst die ik leven haar ooit deede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5483.s.1	Ach , edel prins !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5490.s.1	Nu stellen u gemoed in wreed , Ach , twijfelen lang niet , ik kind !	Emotion_BodyPart_Relief
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5490.s.2	niet zo blind En zijn ik of ik zien , die zonderling bewind de god bezig zijn mede uw te samen hecht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5494.s.1	Ach , onverdiend troosten !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5500.s.1	Dochter , uw op wild recht , En ghij , Daifilo , rijzen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5510.s.1	laat , god , hebben geluk , In tegendeel vinden deze , mede de voorgaand druk Vernoeghen , of , en zijn daermee niet te betalen , laat hebben doen resten op ik , niet op ik Lief verhalen ; zo het zijn kan die ik smaak hebben geren zijde niet en smaken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5510.s.2	Ach , koning !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5525.s.1	Daifilo , ik dochter zijn schaken vinden wijsheid en verzien verstand , die haar bereiden de alderhoochsten weg , en tot doen Liefde leiden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5525.s.2	zijde laten om uwentwil hebben overladen rijk , bezit hebben nu mede haar voortaan minnen commerlijck ; diets mijn , diets doen willen de god wijze vinden raden .	Worry_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5536.s.1	kleed zij doen danckbaerheit , en lof vinden u genade nul koning , bij ik zijn , indien die ik verstaan dat verclaerbaer waar mede menschelijcke mond : de ik hebben minst niet bestaan mogen uiten te spreken .	Joy_Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5547.s.1	Een zoon vinden pers kan het aen gene staat gebrek , de , Tisiphernes , niet u heerschappij verlaat .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5547.s.2	wijden danken uw die ghij uw zelf , nog u staat verschonen en hebben , om deze gelieven t'saem te voegen : Ghij hiellept enten verdrieten , nu hellept enten verheugen .	Joy_Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5547.s.3	En ghij , gelieven , komen , verkwikken uw vinden u moeite .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5554.s.1	ik zien ik wensen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5554.s.2	de Parth gevangene , en geboeyt Vergeeve ' ik zijn misdaad , wil't Daifilo vergeven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5562.s.1	zijn voornemen moorden wij dienen tot hebben leven , ja trouw , ik vergeef't ; en prins doen u sin.	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5566.s.1	Lof god wonderwijs !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5570.s.1	Lof groot Liefd en minnen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5577.s.1	god en koning wil staken de gelieven tegenspoed , Liefd en min , lof u gloed Die zijde zonder smarten smaken !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5588.s.1	groot god , niet om raken zijn doen grond vinden u besluiten , het wassen u lusten deze huwelijk manen voeren mede gunst doen bruiloft uiten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5603.s.1	Liefd en minnen aen een vertuien , beide ziel en lichaem-mengers , heilig ' oppervrientschap-strengers zaligen bruidegom , en bruid .	None
+hoof001gran01_01.TEI.2.text.body.div.div.p.5605.s.1	einde	None
+hoof001gran01_01.TEI.2.text.body.div.div.p.5614.s.1	Al walen hebben .3 1605 1	None

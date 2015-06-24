@@ -1,0 +1,986 @@
+hoof001achi01_01.TEI.2.text.body.div.head.500.s.1	P.C. Hoofts spel van ‘ Achilles en Polyxena ’	None
+hoof001achi01_01.TEI.2.text.body.div.head.503.s.1	Namen der Persoonen .	None
+hoof001achi01_01.TEI.2.text.body.div.p.504.s.1	2 Chooren :	None
+hoof001achi01_01.TEI.2.text.body.div.p.569.s.1	AchillesAgamemnonMenelausNestorGrieckenUlyssesDiomedesAiaxAutomedonPatroclus stomPolyxenaPryamusHecubaHectorAndromacheTroyanenParisHelenaAeneasAntenorDeïphobusAstianax stom	None
+hoof001achi01_01.TEI.2.text.body.div.head.573.s.1	Den Drucker tot den Leser .	None
+hoof001achi01_01.TEI.2.text.body.div.p.665.s.1	Beminde Leser , nademael de Konst van Reden-rijck in ons lieve Vaderlandt zeer bloeyende opgaet , ende met zulcke kracht ende snellicheyt oprijst , dat elck reed'lievend ' hert hem met verwonderinge daer in verblijdt , dies te meer , om dat de Gheesten van onsen teghen - woordighen tijt inde Konst van Reden-rijck wederom oprechten de zuyvere Nederduytsche tael : in welcke oprechtinghe den Autheur deses Treurspels niet de minste en is , maer de meeste , naer het oordeel van veel treffelijcke verstandighe menschen , zoo dat ick niet en heb konnen naerlaten dit teghenwoordighe Treurspel van Achilles en Polyxena door den Druc gemeen te maken , eensdeels om de over - groote vloeyentheyt vande Poëtsche dichten , ten anderen om de heerlijcke leeringhen ende sententien die den Autheur hier in aenwijst , ende hoe naectelijck hy hier af-beelt de begheerlijckheyt des men - schen , ende de veranderinghen van dien , alsoo dat hy ons die naecte - lijck in een Tafereel afghebeeldet heeft : om ten kortsten te zegghen , synen naem brenght mede tghene hy is , ende waer toe hem de Nymphen ghestelt hebben , te weten , te wesen 't Hooft vande Poëten t'onsen tijden , zoo dat de Musen die drymael dry in ghetale zijn , door haren bode Fama hem hebben doen voeren door gantsch Neder - lant ; zoo dat meer dan billick ende recht is , dat de ghene die Fama met haer gheluyt heeft wacker gemaect ende oock eenich werck des - selven Hoofts aen den dach ghekomen is , dat oock dese uytnemende Bloeme aen synen Krans ghevlochten werde .	None
+hoof001achi01_01.TEI.2.text.body.div.p.665.s.2	Verhopende dat den Autheur deses wercx , my mynen arbeyt ende kosten van dit Treurspel int licht te gheven , ten besten nemen zal , ghelijck ick wel weet dat alle konstlievende herten daer in een vermaken scheppen zullen .	None
+hoof001achi01_01.TEI.2.text.body.div.p.665.s.3	Vaert wel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.667.s.1	[ D'Eerste handeling ]	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.668.s.1	D'Eerste handeling , Eerste wtcomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.670.s.1	Achilles , Automedon	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.672.s.1	Achilles	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.1	Calchas Thestorijdes , als ghij u ghinct vermeten Van Troijens ondergang der goden wil te weten , Haa , weijnich wist ghier van , als ghij voorsaijde , dat Wij negen Jaren langh voor de Troijaense stat Toebrengen souden met verdriet en commer , maar Verwinnen t ' godloos volck int tiend ' en laeste Jaer .	HeavyHeartedness_Worry_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.2	Want was den val nabij van Troijas hooge wallen , Door wiens hant soude dien als door Achilles vallen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.3	Calchas , waert ghij in het waerseggen soo geleert , Ghij sout Achilles val hebben gepropheteert !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.4	Achilles val , seg ick , en door Achilles sterven Der Griecken onderganck en endelijck bederven !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.5	Tgemeene volck , die daechs met arbeijt sijn beswaert , Ontlast de nacht , die mij de grootste onrust baert .	Worry_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.6	De goden , moe gedanst , sijn lang te rust gegaen ; Elck na sijn lust , behalven de verliefde Maen , Die , bleeck door groote Min , onmoghlijck te vercouwen , Stilswijgent truert met haer vergulde staetjoffrouwen .	Emotion_EmotionalAction_BodilyProcess_Love_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.7	De Griexse princen slapen sonder achterdacht , En stoute crijsluij , iae , een groot deel van de wacht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.8	Achilles can alleen op bed noch bulster dueren ; Achilles moet alleen daechs en des nachts besueren De groote cracht des Mins .	Emotion_Love_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.9	Sijt ghij de selve man , Die corts Neptunus soon in enen slach verwan ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.10	Ghij , die nu gaet bij nacht t ' troijaense velt duer wandelen , Niet eens te letten op de wacht en t ' svijandts handelen , Niet om t ' voornemen van haer hulpers te bespien , Gelijckt een Capijteijn betaemt staechs toe te sien , Waer Troijens muren swackst en lichts sijn om te crencken , Maer om de schoonheijt van u , Juffrou , t ' overdencken !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.11	Achilles , t ' is een schant ; ghij , die waert corteling Van Troijen meer ontsien dan enich ander ding ; Die t'svijants bloedich heijr en Hector dede grouwe , Wijct die voor een , voor een , voor een Troijaense vrouwe ?	Fear_Emotion_Disgust
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.12	Polyxena , k ' heb noijt u broeders ijet geacht , Maer u manieren hooch sijn van een ander cracht , U teder schoonheijts glans , een oorspronck van mijn smerten , U edel hues gelaet , bespringt de hooge herten Gans op een ander wijs als t ' mannelijck gewelt Den stouten crijsluij doet in het bestoven velt .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.13	Lichamelijcke crijch , verwin van volck en rijcken , En d ' oorloch vant gemoedt malcander niet gelijcken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.14	Wie deet den Hercules oijt nutte wederstant ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.15	Omphale compt en neempt sijn wapens wt de hant , Die mette vrouwen const de spille draijen leerde , Die ganse rijcken corts het onderst boven keerde !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.16	Maer alst u wille was , Cupido , grote Ghodt , Dat ick oock werden most in uwe min versot , Hoe onderwerpt ghij niet aen sulcken vrou mijn sinnen , Die ' ck sonder achterdeel der Griecken mochte minnen ?	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.17	Waerom maect ghij mij slaeff van mijne vijandin , Die mij so dootlijck haet als ick haer hertlijck min ?	Emotion_EmotionalAction_Hatred_BodyPart_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.18	In wat manier sal nu Achilles troost verwerven , Die , soo hijt niet en crijcht , moet troost-gebreckich sterven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.19	Wat sal ick dan ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.20	Te hulp aen die van Troijen gaen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.21	De Princen , die ick swoer , verlaten en verraen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.22	Want hoe sal Pyramus sijn dochter kunnen geven Aen eenen , die hem staet na eer , nae lant , nae leven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.23	De Goden jonnen ons wat beters .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.24	Hoe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.25	daer sijn Wel ander middelen , niet oneerlijck voor mijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.26	Automedon !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.862.s.1	Automedon	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.864.s.1	Mijn heer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.1	Terstont moet ghij gaen binnen De stat den outsten soon van Priamus gaen vinnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.2	En segt hem wt mijn naem : Achilles wensch hem , dat Hij lang voorspoedich leeff tot welvaert van sijn stat .	Emotion_Benevolence
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.3	Daer nae verhaelt hem , wat ick om sijn suster lije .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.4	Indien hij in den noot mij daer mee wil verblijen , Ick sal de Griecken van het oorloch aff doen staen , De Princen en het volck altsaemen scheep doen gaen , En t ' Argos tot haer vrou en clene kinders keeren , Die , t ' sijn al negen iaer , haer wedercoompst begeren .	Joy_Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.5	Indien hij mij voldoet en laet mijn wens geschien , Op dees manier alleen is t ' ongeluck te vlien , Dat Troijas hovardij van godt heeft te verwachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.6	U bootschap wel wilt doen , en ras te keren trachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.7	En brengt mij twijffelachtig antwoort in mijn tent .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.955.s.1	Ick gae terstont , mijn heer , daer ghij mij heenen sent .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.955.s.2	Tes wonder , dat d ' aldergroothertichst capitaijnen , De mannelijckste mans , hun selven soo verkleijnen , Dat sij haer eel vernuft en overgrote geest , Die van een ijder wert verwondert en gevreest , Dick onderworpen aen een vrouwe slecht en teeder .	Fear_Emotion_Wonder
+hoof001achi01_01.TEI.2.text.body.div.div.sp.955.s.3	Bryseis was het laetst , Polyxena ' ist nu weder .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.955.s.4	De cloeckste jongeling , die nu het aertrijck draecht , Was slaeff van sijn slavin ; nu is hijt van een maecht , Die hem voorseker met meer plagen wenscht beladen Als Xanthus visschen heeft en t ' bos van Ida blaeden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.955.s.5	Het daecht te met en ick ben aen de mueren schier .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.957.s.1	1 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.957.s.2	Handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.957.s.3	2 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.957.s.4	Wtcomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.958.s.1	Wacht op de Muer	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.960.s.1	Wacht	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.962.s.1	Wies daer ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.971.s.1	De Coning van Tessalijen sent mij hier , En moet mijn bootschap niet dan Hector selfs wtleggen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.978.s.1	Indien ghij wat vertoeft , men salt hem aen doen seggen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.979.s.1	Automedon tot Hector op de muer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1062.s.1	Grootmoedich Prins , die sijt u ' svaders rijck pijlaer , Sonder wiens rechter hant de stat lang t ' onder waer , De soon van Thetis , die snel loopt al hadt hij wijecken , Die sent mij wt het heijr van de geleersde Griecken , En wenscht u , dat ghij lange leeft en tegelijck Geluckelijck beschermt u out toecomend Rijck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1062.s.2	t ' Sint dat u moeder laest de godt van Delos eerde Met kostel offerant , en Troijens heijl begeerde , En dat Polyxena met haer ten outaer quam , Ontstack den helt sijn hert met sulcken heten vlam , Dat lijeft tot jacht en crijch , dien hij te voren eerde , Altsaem in teeder lijefd ' van dees Princes verkeerde .	Emotion_BodyPart_BodilyProcess_Love_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1062.s.3	Al ander oeffening geslagen wt sijn sin , Doet niet dan maelen in sijn ongemeeten min , In welcke lijefd ' hij wenscht genietend te volharden Tot dat vant lichaem sal sijn siel geschieden werden , Loont hem Polyxena maer met gelijcke brant .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1062.s.4	Nu staet het gans geluck van Troijen in u hant : Indien gh ' Achilles niet van haer en gaet versteecken , Hij sal de griecken van de mueren op doen breecken ; So blijft u vader out en broeders in haer loff , En achter 't tiende jaer salt edel rijcke hoff Van Pryamus in fluer noch blijven en verblijen , Dat swaerlijck wert gedraeijcht van vele prophesijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1065.s.1	Hector	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.1	Ick wens den Mirmidoischen Prins groot van gemoet Sijns lijffs genieting tot vergelding van sijn groet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.2	Achilles ick beloof mijn suster te vereeren , Indien hij 't griexse heijr niet wil terug doen keeren , Maer levrent in ons macht en helpent selfs verslaen , Dat niemant over blijff diet mach vertrecken gaen , Dat Griecken nimmermeer dees aenslach en mach prijsen ; Off Atreus neven selffs den wech ter hellen wijsen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.3	Die doden met sijn hant , tot voorstant van ons saeck , En eeren troijen met een hooch verdiende wraeck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.4	Indien hij een voldoet van beyde dese dingen , Soo gaet hij alle die oijt troost van Lieffd ontfingen Te boven in geluk , en crijcht mijn suster cuijs , Laomedons geslacht , vant out en edel huijs Van Dardanus wt Jovis godlijck saet gesprooten .	Emotion_Happiness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.5	Aldus sij werden mach van hem alleen genooten , Maer op geen ander wijs wint hij dees teeder maecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.6	Dies tot sijn tente keert , en hem dit antwoort draecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1125.s.1	Gesproken hebbende gaet binnen Hector .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1146.s.1	Spijtijge tijding sal dit voor Achilles wesen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1146.s.2	De wont int t ' hoge hert is so niet te genesen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1146.s.3	Die nummer t ' winnen socht dan ridderlijck , soud ' hij Sijn lust soecken te boeten door verraderij ?	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1146.s.4	Ick weet wel , dese smaet van Hector sal hem quellen .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1146.s.5	Ick sal hem niettemin het gansche stuck vertellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1148.s.3	3 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1153.s.1	Automedon , wat nieus ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1153.s.2	brengt ghij ons goet geluck ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1153.s.3	Wat antwoort Hector ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1153.s.5	vertelt mij t ' ganse stuck !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1182.s.1	Hector , een oorsaeck meest van alder griecken schaden , Wil , dat ghijt leeger off de Princen sout verraden : Hun levren t ' ganse heijr , en helpent moorden fel , Off senden met u hant d ' Atrijden nae den hel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1182.s.2	En doet ghij geen van beij , en slaat sijn eijsch geen acht , Ghij sult Polyxena tot uwen loon verwerven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1182.s.3	Dan , doet ghij geen van beij , en slaat sijn eijsch geen acht , So set sijn suster vrij ( seyt hij ) wt u gedacht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.1	Hoe nu verwaende Prins ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.2	de moedichts van de greecken Durfft ghij die van verraet ( ô sot hovaert ) aanspreecken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.3	Verwaentheyt ongegront schaet niemant dan haer heer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.4	Mijn ongemeten hert , dat niet en acht dan eer , Soud ' die stellen ter neer , en laten sich verwinnen Van Venus blinde kindt , en t ' onversichtich minnen ?	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.5	In geen manier , al most ick derven schoon mijn vrow !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.6	Voor wellust gaet mijn eer , mijn eer hangt aen mijn trow .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.7	Dees hant ( ick sweert de goôn ) sal u ter hellen stueren , Dees hant ( ick sweert de goôn ) vernielen sal u mueren , Dees hant ( ick sweert de goôn ) sal binnen corten tijt Gevancklijck leijden t ' pandt , daer ghij dus trots mee sijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.8	Sijt ghij van godlijck saet , gelijck men gaet versieren , Die min dan menschlijck sijt , en meer gelijct de dieren , Van laech gemoedt , niet waert noch datment acht off eert ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.9	Hoement meer heusheyt doet , hoe dat het meer begeert .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.10	Een edel hooch gemoedt meer dan gemeensche sinnen Laetet hem nummermeer in heusheyt overwinnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.11	O vreemde brant des Mins !	Emotion_Love_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.12	so lichtlijck men wel spreect Van u te bluschen wt , gelijcmen u onsteect , Maer swaer ist inder daet u wt het hert te scheijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.13	En t ' swaerste dat ghij hebt in u ist lang verbeijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.14	O , die met u gesicht beschaemt de Sonne claer , Elck wr t ' sint ick u sach dunct mij wel duijsent iaer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.15	ô Venus !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.16	geeft mij raet in mijn verwarde sinnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.17	Verschoont indien ick sot laster de wijse minne !	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.18	Jivoren aengesicht , soo ghoddelijck geteelt , Jae schoonder als het schoonst , dat schoonheijt sich voorbeelt , Alleen van godts geslacht , cieraet van onse tijen , Cupidoos hoochste roem , al Venus hoverdie !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.19	Achilles , wel , hoe nu ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.20	ist dit dat u betaempt ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.21	Ghij droecht een vrouwen cleet , als ghij ter oorloch quaempt , Door uwe moeders vrees , dat ghij alhier zou blijven .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.22	Nu gh'lijckt ghij niet int cleet , maar int gemoedt de wijven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.23	Tot noch toe hebdij dan int oorloch cloeck gewrocht En menich strijtbaer helt gewapent omgebrocht , Ontallick volck gedoot , en nae des crijchs manieren Den hel van borgers , en van spijs versien de dieren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.24	Tot noch toe hebdij dan meer nae t ' verhart gevecht Dan enich capiteijn winteeckens opgerecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.25	Tot noch toe dan u naem verseekert voor het sterven Om met een sotternij dat alles te bederven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.26	d ' Onsterfflijckheyt ws naems , daer ghij so veel om leet , Met moeijt en arbeijt street , bestoven en besweet !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.27	Hoe sijdij dus verkeert ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.28	al t ' beestelijck leijt boven En 't godlijck van u aert verwonnen en verschoven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.29	Achilles naem , daer elck met sulck ontsich van sprect , Sal die nu werden met verraderij bevlect ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.30	Ick sweert : in geen manier , maer sal gaen openbaren Hectors verwaentheijt sot , en 't ganse stuck verclaren Aen Atreus neven beij , diet aldermeest gaet aen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.31	Soo valt de trotse stadt , en blijft mijn eere staen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1345.s.2	Handelingh .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1345.s.3	4e Wtkomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1347.s.1	Chooren	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.1	Choor 1 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.2	O wonderlijcke strijt in ieuchdelijcke sinnen , Moeijlijck eergiericheijt , en sachte brant van minnen !	Emotion_BodilyProcess_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.3	Wie van u beijden hier de grootste sijn van cracht , Besloot noijt sterfflijck mensch wel vast in sijn gedacht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.5	Seer dickmaels windt de Min , en dicmael , ist niet wonder , Brengt d ' eerst verwonnen eer weer sijn verwinner t ' onder .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.6	De eer belooft een lust , daer niemandt aff en grijst , En t ' geen de minnaer lieft , alleen de minnaer prijst .	Emotion_BodilyProcess_Love_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.8	Dat al de werrelt prijst , can niet veel waerdich wesen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.9	Meer dunct mijn t ' geen dat een off twee prijst waert gepresen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.10	Ghewoont bedriechter veel , en ander redens schijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.11	d ' Oprechte oordelaers ter werrelt selsaem sijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.12	4 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.13	De Princen groots , waer in de volcken haer vertrouwen , Waer aen de werrelt hangt , altsaem aan d ' eer haer houwen , En achten die veel meer dan al haer rijck en staet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.14	Maer welcke Prins was noijt Cupidoos ondersaet ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.15	5 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.16	Gheluckich is hij dan , diet hem niet laet verdrieten Te strijden voor sijn eer , en lijckwel mach genieten De gave van de Min. Maer sijn geluck is quaet , Diet nodich is dat hijt een om t ' ander laet .	Emotion_Happiness_Love
+hoof001achi01_01.TEI.2.text.body.div.div.head.1435.s.2	Handelinge .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1435.s.3	5e. Wtcomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1436.s.1	Menelaus .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1436.s.2	Agamemnon .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1436.s.3	Achilles .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1438.s.1	Menelaus	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1448.s.1	Dattet Autumedon te kennen geeft , wel goet is , Hoe wel dat Thetis soon eerlijck en hooch van moet is .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1448.s.2	Want wie weet niet , wat dick de minne doet bestaen .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1450.s.1	Agamemnon	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1457.s.1	Maeckt niettemin geensins hier van bij hem vermaen , Want twijfel van sijn trouw grootlijxs den Prins sou quellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1482.s.1	Daer sijn de broeders baij , ick gaet haer nu vertellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1482.s.2	Geluck ion u Jupijn en een lang levens tijt , Ghij , die vant griexse heijr veltheer gekozen sijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1482.s.3	De vreemde hoverdij en smadelijck begeeren , Dat Hector op mij doet , die doet mij tot u keeren .	Emotion_Greed_Pride_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1490.s.1	Wat sotternij ist nu , daer in ons vijant dwaelt ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.1	De cracht van Venus kindt onnodich is verhaelt , Die hij gaet alle daechs in volck en Princen tonen : Hoe weijnich hij de goôn des hemels gaet verschonen , Hoe cleijn ontsich hij voor sijn eijgen moeder heeft .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.2	Der ghoden Coning selfs , voor wien het aartrijck beeft , Doorschiet hij , en gaet hem daer in niet meer beswaren , Off maiestaijts quetsuer gans geen misdaet en ware .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.3	Gheen wonder isset dan , soo de Peruicque blont , T ' welriekent haar , getoijt met een wtheemsen vont , Daer bij Polyxenaes snee wit en teder handen , Achilles sin en hert leyden in vaste banden , Ghelijck gh ' altsaemen weet , want wijst mij doch den man , Diet t ' heet verteerend vier bequaem verbergen can .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.4	Door laste van dees Min , van wien ick ben gebonden , Heb ick Autumedon tot aen de stat gesonden Met al eerbiedicheyt , en huesheyt onverdient , Ghelijck een Prins beleeft soud ' senden aen sijn vrient , Om Hector wt mijn naem nae deese maecht te vragen .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.5	Den welcken soo hij sant , ick loofde Troijas plagen Te weren van haer muer , en endigen den twist , Daer negen iaren in alreede sijn verquist .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.6	Maer wat doet Hector ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.7	hij , in plaets van te bekennen De weldaet dieck hem doe , gaet mij den antwoort sennen ( Ick raes , ô grote schant !	BodilyProcess_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.8	): Achilles moet verstaen , Dat hij de Princen , en sijn crijsluij sou verraen !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1590.s.1	Grootmoedich Coning , hoe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1590.s.2	is Hector niet gesworen Ons vijandt totter dootç gaet ghij u daer aen storen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1590.s.3	Tracht nae een wreede wraeck ; troost daer me t hooch gemoet ; Wij sien , hoop ick , wel haest de stat onder de voet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1590.s.4	Laet Hector dan alleen sijn suster u onthouwen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1603.s.1	Polyxena met al d ' ander troijaense vrouwen Sal binnen corten tijt wel vallen in ons hant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1603.s.2	Waer toe het smeecken dan , oft ruijmen slecht met schant ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1603.s.3	Laet u een weynich tijts veel liever niet verdrieten Dan t ' geen ghij muecht met eer , met schande te genieten .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.head.1606.s.1	[ 2e. Handelinge ]	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1607.s.1	2e. Handelinge 1 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1609.s.1	Priamus , Paris , Deiphobus , Aeneas , Antenor , op de muer Hecuba , Helena , Polyxena , Andromache , Astianax .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1614.s.1	T griexsche heijr passeert voorbij , de troijanen rusten binnen toe om te slaen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1617.s.1	Antenor	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1628.s.1	Siet Jovis dochter daer , haer schoonheijts glants hoovaerdich !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1628.s.2	Is oock dat aenschijn geen tien iarich oorloch waerdich ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1628.s.3	Aeneas , wat dunct u , gelijctse u moeder niet ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1630.s.1	Aeneas	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1634.s.1	Ick vind ' seer wel besteet de commer en t ' verdriet Van dit ellendich rijck , so dickwils ick aenschouw Het godlijck claer aenschijn van Paris edel vrouw .	HeavyHeartedness_Worry_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1636.s.1	Deiphobus	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1648.s.1	Mijn vrou en suster , die de griexse Princen kent , Ick bid ' u , seyt ons wie dat sij , die daer ontrent Achilles met sijn pluijm so moedich compt getreden , Dat het vast aertrijck druent onder sijn trotse schreden .	EmotionalAction_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1650.s.1	Helena	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1665.s.1	Dat dees voor Troyen quam , grootmoedich prins , beclaecht !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1665.s.2	De wacker Aiax ist , daer nae mijn broeder vraecht , De jonckste van de twee ; die daer met hem schijnt twistich , Dats Diomedes , cloeck in slach en aenslach listich .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1665.s.3	Dats d ' ander Aiax , met den helm , van schoon gestalt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1667.s.1	Priamus	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1681.s.1	Mijn vrou en dochter , soot u niet te lastich valt , Noempt d ' ander Princen me , ist Menelaus desen , Die man voor man vermaent , gelijckt schijnt aen sijn wesen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1714.s.1	Mijn Heer , mijn Vader , laes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1714.s.2	gekent hebt ghij hem wel t ' Sint hij hier als gesant was met sijn meegesel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1714.s.3	Tis Menelaus , iaet , en die hem bij den cleede Trect , dats Ulysses selffs , die so veel moeijtens dede , Veijnsden sich selven sot , ploechde de dorre strant , Op dat men hem met vree soud ' laten in sijn lant , Om sijn Penelope t ' aenbidden en te vieren , Hoe wel de vrou en is maer van gemeen manieren .	EmotionalAction_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1714.s.4	Dats Patroclus , die daer van vers Achilles groet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1714.s.5	Dan siet , heer vader , wat daer Agamemnon doet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.1	Strijtbare mannen , die wt griecken sijt gevaren Om met u daden cloeck de werrelt te verclaren , Dat niemant trotste u met schaed ' oijt off met schand ' En ongewroocken bleeff van u verwinners hant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.2	Altsamen weet ghij , hoe dat Paris is gecomen Tot Lacedemon , die mijn broeder heeft genomen Beleefd'lijck in sijn huijs , tot welxs vergelding dat De valschen gast hem stal sijn huijsvrou en sijn schat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.3	Daar t ' recht is sijn de goôn , het recht is op ons sijde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.4	Met dit betrouwen vast gaet ghij altsaem ten strijde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.5	Al hadden wij te slaen een yder tegens tien En t ' recht was op ons sij , men mostse niet ontsien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.6	Nu comen wij te velt , niet tegens verse crachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.7	Tien mannen tegens een hebdij niet te verwachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.8	Gheen nieuwe vijandt ist , off daer ghij noijt me sloecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.9	Het is het selve volck , die binnen haer wallen suchten .	HeavyHeartedness_BodilyProcess_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.10	t Sijn de troyanen , die binnen haer wallen suchten .	HeavyHeartedness_BodilyProcess_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.11	Achilles , tis het heijr , dat ghij alleen deet vluchten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.12	Tis , Aiax , t ' selve volck van wien ghij met u swaert Alleene voor den brant de schepen hebt bewaert .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.13	Ghij griexse crijsluij vroom , die ver van wijff en kind'ren Troct om u vaderlant sijn schade te verhindren , Siet daar de vrouwen op de muer tot ons profijt , Die haer de moedt benemen sullen doort gecrijt .	EmotionalAction_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.14	Siet Helena daer selff ; wij hebben ons vernoegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.15	Met meerder schrick sal haer gemoedt in 't vechten wroegen !	Fear_Emotion_Remorse
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.16	Siet hier een eijndt des crijchs , die tien iaer heeft geduert , Een eijnt van alt verdriet tot noch van u besuert .	Emotion_Sadness_Remorse
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.17	Toont ghij hier uwen moedt en vliedt het schandlijck vreesen .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.18	Geen langer wederstant cunnen sij doen naer desen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.19	Draecht ghij u hier niet vroom , soo doettet ons geen nut , Dat Aiax met sijn hant de schepen heeft beschut , Want die sijn lang verrot , en onbequaem om vlieden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.20	En andre bouwen , dat derff niemant van ons lieden Eer Troijen leijt ter neer , gelijck een ijder zwoer Van dese Princen al , wanneer men herwaerts voer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.21	Dus ander wtcompst gaet al stellen wt u sinnen Behalven sterven vroom , oft eerlijck overwinnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1836.s.1	2e Handelinge .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1836.s.2	2e Wtcoompst	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1837.s.1	Hector met het heijr .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.1	Troyanen , hadt ghij oyt oorsaeck te sijn verblijt , Soo hebt ghij boven al oorsaeck op dese tijt .	Joy_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.2	Siet hier den dach en wr , ghij crijsluij en ghij heeren , Die elck plach met so groot verlangen te begeeren .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.3	Hoe dickwils hebt ghij int besonder elck geseijt : ‘ Och , die mocht in een slach wreecken sijn schant ' en leijt , En toonen t ' geen dat sij gebreck van vroomheijt achten , Was wangunst van geluck , en geen gebreck van crachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.4	’ Dat sij laest wonnen schruemt daerom niet met al , Hoe hoger int geluck , hoe naerder an den val .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.5	‘ Die wan sal winnen ’ .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.6	Waer is sotter reen te vinnen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.7	Maer dits des werrelts loop : ‘ Die laast verloor sal winnen ’ .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.8	Alree keert het geluck door dient tot deser stont Gelegentheijt tot wraeck van onse schade iont .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.9	Tis tijt Aiax met meerder angste te doen sweeten En om te stillen al Achilles groot vermeten .	Fear_Emotion_BodilyProcess_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.10	Siet de Joffrouwen daer , siet daer d ' wtheemse vrow , Daermen tien ander iaer noch crijch om voeren souw .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.11	Die hart heeft in sijn borst en laet hem nu niet iagen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.12	En winnen wij den slach , t ' is t ' eijnde van ons plagen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.13	Penthasilea vroom met veel volxs int getal Verwacht ick alle daech , die sonder twijfel sal Soo gruwelijck ontsich in onse vijant maken , Dat hij daer door geheel in moed'loosheijt sal raecken , Verslagen door sijn schrick van sijn verlies en schant .	Fear_Emotion_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.14	So , ghij Troijanen , hout in dees slach d ' overhant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.15	Elck enen toon de cracht van sijnen rechter arm En dapperheijt van moedt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.16	Siet daer den grieck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.17	Alarm !	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1935.s.1	Patroclus blijfft .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1935.s.2	Hector draecht het lichaem ter sijen en schent het .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1935.s.3	De griecken winnent weder en werden geiaecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1935.s.4	Troijanen victorieus en gaen binnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1937.s.1	2e Handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1937.s.2	3e. Wtcoompst	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1939.s.1	Choor	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.2	Het hoochste , dat den mens op aerden is gegeven Door den eersaemen raet van s ' hemels goden hooch Is eer , het waerste goet int tijttlijcke leven , Op welck het grootste hert alleenlijck neempt sijn ooch .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.4	De goden alle ding den mens om sweet vercoopen , Dus crijcht men t ' hoochste goet niet dan door d ' hoochste daet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.5	En dat is crijchs beleijt , een const om brave hopen t ' Houden in heerschappij alleen tot s ' vijants quaet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.7	Dat doet ghij , brave prins , gaet Mars daer in te boven , Die d ' een nae d ' ander reijs u vijant stout verwint , Dat die selff uwe deucht gedwongen is te loven , Al haet hij t ' gene , dat u ondersaet bemint .	Emotion_Hatred_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.9	U daegh'lijcxs werck het is in slavernij als eijgen Te leijen Princen trots , en treense mette voet , Pilair des vaderlants , die t ' wreet vermeetel drijgen Der vreemder volcken stilt , en cneust haer hoge moet .	Emotion_Pride
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.11	Sijt dankckbaer aen u Prins , gaet den verwinner teegen , Schoon edel vrouwen hem met lauren cransen croont .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.12	Al is de dancbaerheijt hier selff om danck verleegen , De danck die toonlijck is aen u verlosser toont .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.13	6 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.14	De palmen vant gans oost en boschen van laurieren Sijn weynich int getal bij sijn verdiende loff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.15	Alleenlijck het gedacht can hem te wille vieren , Gebrecklich wert de tong door overvloet van stoff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.16	7 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.17	Gheen sterfflijck goet is goet om hem genoech te lonen , Onsterfflijck eer alleen sijn eere wesen sal .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.18	Dees sal hem na sijn doot aen elck onsterfflijck tonen En ewich als een godt verbreijden over al .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2031.s.1	2e. Handelinge .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2031.s.2	4e Wtcoompst	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2033.s.1	Aiax met het lichaem van Patroclus .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2033.s.2	Achilles , Agamemnon , Ulysses .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2035.s.1	Aiax	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2055.s.1	Grootmoedich Prins , dewijl met u geselschap ghij Den herden vijandt iaecht en druct aen dander sij , Siet hier u troutste vrient door Hectors hant verslagen !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2055.s.2	Toont nu u groot gemoet in tegenspoet te dragen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2055.s.3	Peijnst op de wraeck alleen , onnutte droefheijt spaert .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.1	Och !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.2	is dan bij de goôn de dienst so weynich waert ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.3	Ach goôn !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.4	ach wreede goôn !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.5	vervloecte loop der starren !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.6	Ghodlosen hemel , die het goet int quaet verwarren !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.7	Ach wreede ghoden schick !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.8	de wangen sijn als loot , Die roosen schenen corts !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.9	melijdelose doot , Noijt deet ghij meerder quaet !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.10	Ha helsche rasernijen !	Emotion_BodilyProcess_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.11	Ha Pluto !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.12	rooft ghij dees , wie suldij voortaen mijen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.13	Jupijn !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.14	Ha wree Jupijn !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.15	die niet dan droefheijt dorst !	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.16	Compt , blixem , doet te niet , daer is Achilles borst !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.17	Mengt t ' element vant vier en t ' water met malcandren , Doet d ' aerde in de lucht en lucht in d'aert verandren , Mengt hel en hemel t ' saem , laet geen ding op sijn stee !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.18	En in natuers bederff , verderff u selven mee !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2102.s.1	Achilles , waer toe dient onnutte reên te spreecken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2102.s.2	Betoont de doot sijn eer , en peijnst om u te wreecken , Hector belacht u rou .	Emotion_Hatred_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2115.s.1	Hoe ghij meer weent en sucht , Hoe ghij hem blijder maect , laet dan het droeff gerucht .	Joy_Emotion_BodilyProcess_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2115.s.2	U droefheijt sij voor hem geen oorsaeck om verblijen .	Joy_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2132.s.1	Draecht binnen t ' lichaem dan , ick sweer tot genen tijen Te slapen anders dan op d ' aerde cout en hert , Tot dat volcomen wraeck van mijn genomen wert Over dit wreede stuck , en die mij heeft doen clagen , Betael een wreede wraeck , van dese hant verslagen .	Emotion_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2134.s.1	Ulysses	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2145.s.1	Den wtvaert sal men doen op costen vant gemeen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2145.s.2	Opt heerlixst dat men mach branden de doode leên .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2145.s.3	Dus geeft , ô veltheer , last om t ' hoge vier te bouwen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2151.s.1	Datmen in Ida ga terstont om hout te houwen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2153.s.2	5e. Wtcoompst	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.2	Den hemel met sijn gouden laeckens salen , Herberch der Goôn , vol goddelijcken glans , Heerlijck geciert met Phoebus clare stralen , Wiens suster haer staetdochters leijt ten dans , Die op haer plaetse blijven en die dwalen ; Hoe hooch , hoe groot sij is , bestaet nochtans Door vrientschap soet , welck woort hier wert genomen Voor eendracht vast en over eene comen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.4	t ' Aertrijck , duerwracht met bergen en revieren , Met steden rijck van torens , schat en pracht , t ' Welck heuvels schoon en soete daelen cieren , Met duister bosch , met bloem en cruyden sacht , t ' Gevogelt wilt , de sorgelose dieren En der verwaender menschen swack geslacht Bestaet alt'saem door eendracht , ende sonder De vrintschap sout vergaen , en raecken t ' onder .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.6	Vier , water , lucht en d'aerde sijn tweedrachtich Een ijder tegens ander in sijn aert .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.7	Nochtans natuer off s ' werrelts schepper machtich Heeft haer in ijder schepsel soo vergaert , Datter geen twist maer stadich vrientschap crachtich Wert tusschen haer , elck in sijn ampt bewaert .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.8	En als het een het ander wil verwinnen , Bederfft het geen daer in sij twist beginnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.10	Vrientschap is de geboorte van de steeden , Haer voetsel en haer leven , twist haer doot .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.11	Int oorloch swaer en moijlijck om beleeden , Is eygen twist de vreeselijckste stoot .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.12	Eendracht maeckt macht , en can de macht verbreeden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.13	Dus worden licht de cleijne rijcken groot .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.14	Om in den slach door geene twist te doolen Is Agamemnon t ' pack alleen bevoolen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.16	Dan , is eendracht en vrientschap waert om eeren Voor een gans rijck , t ' welck door haer wert beschut , Elck mens alleen sij tot geen scha kan keeren , Maer d ' eene vrindt is d ' anders onderstut .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.17	Van al het geen ons herte can begeeren Is een getrouwen vriendt het hoochste nut .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.18	Maer d ' hemel saijt twee vrienden trou van waerden Om d ' hondert iaer , helaes , maar eens op aerden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.20	Dees Princen beij wel sulcken naem verdienden , Gelijck den rou van d ' een wel blijcken dee .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.21	Nu sijnse doot en t'sijn niet meer dan twee vrienden : Als d ' eene vriendt sterft d ' ander vrint sterft mee .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.22	Want als de goôn de vrient , die sij ons lienden , Wechnemen , sterfft de vrientschap daer ter stee , Sonder de welcke wert niemant vrint geheeten , Hoewel men best nae doot vrints trou kan weeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2276.s.2	6e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2277.s.1	Automedon .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2277.s.3	Hector .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2277.s.4	Soldaten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2291.s.1	Mijn heer , de spieen brengen tijding op ter daet , Dat Hector te gemoet de Amasonen gaet Met weynich volxs , om haer Princes eer te betonen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2291.s.2	Siet hier gelegenhtheijt omt schelmstuck te belonen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2300.s.1	Fluxs , roept mijn vrinden , dat elck ander dingen staeck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2300.s.2	Nu op , Achilles , hier is tijt van wrede wraeck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2300.s.3	Voort ras , versuijmt geen tijt , maer laet s ' ons wel besteden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2300.s.4	Ghij weet , Automedon , den wech , voorwt wilt treden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2302.s.1	Griecken binnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2302.s.2	Hector aan d ' ander sijde wt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2302.s.3	Achilles op sijn hielen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2316.s.1	Want grootlijckxs sijn w ' altsaem in dees Princes gehouwen , Die ons te hulpe compt met haer strijtbare vrouwen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2316.s.2	Hier me Troijanen ....	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2316.s.4	den vijant weer wilt bien !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2316.s.5	Ach , dats Achilles selff !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2316.s.6	hier is geen plaets om vlien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2320.s.1	Hector van Achilles verslagen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2320.s.2	Troyanen veriaecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2345.s.1	So moordenaer , die niet als vroom , maer als de blooden Nae d ' overwinning noch voert oorloch mette dooden , Schent weer haer lichaem , meer sal ment van u niet sien , Dan t ' selve sal ( ick sweert ) u lichaem oock geschien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2345.s.2	Bespotten ghij mijn vrient , ghij sultet oock besueren .	Emotion_Remorse
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2345.s.3	Trect driemael t ' lichaem rontsom troijens hoge mueren , Gebonden achter t ' paert , en sleeptet door den slijck Tot lasterlijcke schant van het vermetel rijck .	Emotion_Anger_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.head.2348.s.1	[ 3e. Handelinge . ]	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2349.s.1	3e. Handelinge .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2349.s.2	1e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2350.s.1	Pryamus .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2350.s.2	Polyxena .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2350.s.3	Andromache .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2350.s.4	Astianax .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2352.s.1	Pryamus	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.1	Die door sijn Adel groot , en schepter sich verstout , Die op een hoge staet , en machtich rijck vertrout , En daerom niet en vreest , dat s ' hemels goden waerdich Gelijck de menschen sijn , verkeerlijck en lichtvaerdich , Maer stelt sijn geest gerust in voorspoet en geluck , Die spiegel sich aen mij in dees bedroefde druck .	Fear_Aquiescence_Emotion_EmotionalAction_Happiness_BodyPart_Other_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.2	t ' Geluck van d ' ouwe stat , van al mijn volck en landen , Dat had ick altesaem gestelt in Hectors handen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.3	Als dees vermoort wart van de griexsce prins verwoet , Doen viel al troijens hoop en troost onder de voet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.4	Ach armen Coninck out !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.5	wel waerdich te betrueren , Het lichaem van u soon en mocht u niet gebueren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.6	Gaet , cooptet , en ontsmeect het den verwinner straff , Op dat het mee geniet sijn out voorvaders graff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2395.s.1	Andromache	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2414.s.1	Ach , cleen Astianax !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2414.s.2	compt , gaet den vijant groeten , Den overwinner trots valt vrijelijck te voeten , Bidt hem ootmoedich aen , en acht geen schande niet Te doen het gene , dat u t ' wree geluck gebiet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2414.s.3	Laet dalen u gemoet , off hout sijn crachten binnen , Vergeet u out geslacht , stelt Hector wt u sinnen , Off , so ghij mee gevoelt de wonden van u leijt , So doet gelijck als ick , en met u moeder schraijt .	Emotion_BodyPart_BodilyProcess_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.head.2416.s.2	2e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2418.s.1	Nestor , Pryamus , Ulysses , Achilles , Agamemnon , Aiax , Andromache , Polyxena , Astianax , Automedon .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2420.s.1	Nestor	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.1	Eij , armen coninck out , wel waerdich te beclagen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.2	Int hoochste van u noot bleef uwen soon verslagen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.3	Int hoochste van u noot sijt ghij van hoop berooft .	Emotion_Hope
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.4	Melijdlijck ick beclaech u out grijsharich hooft .	Emotion_EmotionalAction_Compassion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.5	Veel oorsaeck hebdij wel om droefheyt te betonen .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.6	Staet op , bedroefde vorst , en wilt u selff verschonen .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2458.s.1	O Pryamus , dient quaet , gelijck als u , behaecht , Wert van de goden dus rechtvaerdelijck geplaecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2458.s.2	In plaetse vant getruer sout u wel beeter voegen Te dencken , dat ghij ons eertijts wel mocht vernoegen , Maer op den huessen eijs gaeft spijtich antwoort gram , Wanneer ick als gesant aen u tot troijen quam .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2469.s.1	Ghij griecse Prinsen wijs , sijt gh ' oijt beleeft gebleecken , Helpt mij Achilles om mijn soons dood ' lichaem smeecken .	EmotionalAction_Sadness_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2469.s.2	Een yder duncke dat hij mede sterfflijk sij , En sit hij nu wel hooch , het can hem gaen als mij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2482.s.1	Troijaenschen Coninck out , Achilles heeft vernomen , Dat ghij om sijnent wil int leeger sijt gecomen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2482.s.2	Indien het u belieft met hem te spreecken ijet , Hij sal u horen , gaet daer ghij hem sitten siet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2484.s.1	Pryamus op sijn knieën	BodyPart_BodilyProcess_Sadness_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.1	Ghij sijt de oorsaexk niet , Achilles , van mijn kermen , Maer iemant van de goôn , in plaets van hem t ' ontfermen Over mijn ouderdoom , laet mij dit leet geschien , Na dat ick heb met smert mijn kindren doot gesien , De welcke jong en dom haer op het rijck betrouden , En deeden dicwils t ' geen , daer s ' haer voor wachten souden , Volchden haer sotte lust door wulpshaijt onbedacht , 't Welck heeft haer beijd ' en mijn in dus een staet gebracht .	Emotion_BodilyProcess_Sadness_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.2	't Is niemant onbekent , al geeft het groote schade , Dat jongeluy altijt den ouderdoom versmaden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.3	Indien dat door mijn doot de crijch ophouden mach , Vrijwillich ick verwacht den dootelijcken slach .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.4	Ghij sult mij , hoepeloos van immer te verblijen , Van dees benaude geest en swaer elent bevrijen .	Joy_Emotion_BodyPart_Sadness_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.5	Doet met mij wat ghij wilt , k ' geeff mij in u gewelt , Off ghij mij ommebrengt , off in gevancknis stelt , Want al mijn leevens eijnt sal ick in trueren leijden .	Aquiescence_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.6	Laes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.7	niet dan tegenspoet en heb ick te verbeijden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.8	Ach , Troyen staet niet meer !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.9	Wanneer als Hector viel , Doen viel het hoge slot daert trots sijn hoff op hiel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.10	Dan , na mijn kindren doot , en commerlijck beswaren , Naet moorden van mijn volck en crijch van negen iaren , Heb ick den griecken wel drievoudich straff betaelt Voor t ' geen , daer in mijn soon met onrecht heeft gedwaelt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.11	Gedenct eens aen de goôn , stelt trotse moedt besijen , Hebt met mijn ouderdom , helaes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.12	doch medelijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.13	Soo ghij dit cleene kint de siel niet geven cunt , Ten minsten t ' lichaem hem van sijnen vader gunt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.14	Gedenct oft swaer sou sijn , en hoe ghijt sout betrueren , Dat diergelijck aen uwen vader sou gebueren .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.15	Die sorge voor u draecht , u welvaert staech betracht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.16	Dan , daer voor hoed ' hem godt , en alle sijn geslacht , Die jon hem alle t ' geene dat hij wenscht en geven , Dat hij een soeter ouderdoom dan ick beleve .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2582.s.1	Priamus valt in onmacht .	Emotion_BodilyProcess_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2595.s.1	Helaes , beleefde Prins !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2595.s.2	indient niet mach geschien , Dat men t ' begraeft , laet mij ten minsten t ' lichaem sien En dit onnosel kint , dat soo veel heeft verlooren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2595.s.3	Kleynen Astianax , waer toe sijt ghij geboren ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2602.s.1	Staet op , bedroefde vorst , van out beweechlijck bloet , Hebt hoop in ongeval , verstarckt u swack gemoet .	Emotion_Hope_BodyPart_Sadness_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2617.s.2	de beleeftheijt , waert bij menschen en bij goden , Daer griecken roem aff draecht , waer is die nu gevloden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2617.s.3	t ' Geen sonder onderscheijt ghij iont aen elcken een , Weijgert ghij dat , helaes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2617.s.4	aen Pryamus alleen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.1	Ghij hadt ( ô Coning out ) de juecht behoort te dwingen Van uwe kindren sot , als s ' haer te buijten gingen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.2	Maer doen liet ghijt haer toe en hadt in 't quaet gedult .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.3	Dus sijdij selven me deelachtich aen de schult .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.4	En over negen iaer waert ghij soo niet belaeden Met ouderdoom , dat sij u ganselijck versmaeden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.5	Sij deden om geen vrou dat schandelijck gewelt Tot Lacedemon , maer om Atreus schat en gelt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.6	Hierom dees uwen straff is niet alleen rechtvaerdich , Maer alsse groter waer , ghij waertse beter beeter waerdich .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.7	De griecken sijn altijt van outs so heus geweest , Dat , als haer vijandt hadt gegeven sijnen geest , Het lichaem wederom sij aen den vrinden gaeven , En lieten lichtlijck toe datmen het sou begraven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.8	Maer Patroclus mijn vrient , als Hector die versloech , Om t ' lichaem schant te doen wt het gevecht hijt droech .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.9	Dus heeft hij aldereerst de goede wijs gebroocken , Het welck is noodich dat op hem weert wert gewroocken , Op dat door sijnen wraeck de gantse werrelt leer d ' Oude beleefthaijts wet te breecken nimmermeer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.10	Om Heleen en om t ' gout , dat ghij luijd ' hebt genomen , En sijn wij griecken niet dus ver van huys gekomen , Maer om te toonen met de wapens in de hant , Hoe veel wij cloecker sijn als eenich ander lant , Hoe wel de vrou en schat rechtvaerdich oorsaeck waren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.11	Want ist u lust met rooff van andren wech te varen , Legt over dattet strect tot droefheyt en verdriet Der genen , die van u dit ongelijck geschiet .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.12	So mij de Parque spaert , en wilt Jupijn gedoogen , Dat ick eens troijens val mach sien met dees mijn oogen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.13	Ick sweer de valsche hoer , diet ons besueren doet , Dat sijt bekoopen sal met haer oncuijsche bloet , Dat ick mijn ouders en mijn vaderlant moet derven , En sien mijn troutste vrient , die k ' meest beclage , sterven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.14	Dan , Pryamus , blijft hier , ick sal een weijnich gaen En sien wat in de saeck mij dese princen raen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.15	Ghij Capiteijnen groot van macht , en wijse heeren , U is genoech bekent mijn hertelijck begeeren , Dats dat het u gelieft een ijder mij te raen , Het geen hem dunct dat best hier inne waer gedaen .	Emotion_BodyPart_BodilyProcess_Love_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2753.s.1	Ghij , Nestor , hebt alree meer dan twee hondert jaeren , Sijt nevens u verstant in alle ding ervaeren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2753.s.2	U sijn t ' gebruyck en stem van vele volcken cunt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2753.s.3	En hadde Godt mij noch tien sulcke mans gegunt , Die so wel connen raen , die so veel dingen weeten , Ick achte , Troijen waer lang woest , en schier vergeeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2776.s.1	Het doode lichaem doet ons nergens in profijt : Ten swact ons vijant niet , maer doet hem grote spijt ; Spijt maect moedich , moedt maect willich om te vechten , Met dat te weijgren is dan gans niet wt te rechten .	Emotion_Remorse
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2776.s.2	Dus neempt veel liever t ' goudt , dat brengt mede nutheijt in .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2776.s.3	Wat dunct , Ulysses , u ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2780.s.1	So ben ick oock van sin.	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2784.s.1	Wat segt ghij , Aiax ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2784.s.2	mij dunct , dattet niet kan schaeden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2788.s.1	Ick seg , grootmoedich Prins , dat sij u wijslijck raeden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2797.s.1	Blijft , Aiax , ghij bij mijn , ick danck u , Princen cloeck Van uwen wijsen raet , en u beleeft versoeck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2799.s.1	Polyxena te voet vallende	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.1	Helaes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.2	Achilles , een verwinner aller dinghen En can die sijn gemoet van gramschap niet bedwinghen ?	Emotion_BodyPart_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.3	Dan , so ghij so verhart nae wreede wrake taelt , U op het lichaem cout mijns broeders niet verhaelt .	Emotion_Desire_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.4	Grootmoedich sijnde , wilt met geen doot lichaem strijden , En oock heeft hij geen schult , Achilles , aen u lijden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.6	van u gequel was hij de oorsaeck niet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.7	Siet hier , Achilles , hier , d ' oorsaeck van u verdriet .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.8	Coelt hier u wreet gemoedt , door 't winnen opgeblasen .	Emotion_BodyPart_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.9	Siet hier , Achilles , hier , een oorsaeck van u rasen .	Emotion_BodilyProcess_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.10	So gh ' onverbidlijck sijt , en niet dan wraeck en dorst , Compt , dwt u moedich swaert in d ' onversaechde borst , En maeckt geen swaricheyt van t ' herte te duer kerven Der gener , die in danck sal nemen t ' droevich sterven .	Emotion_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.11	Off dunct u dese wraeck genadich en te cleen , Belast met ketens swaer mijn teder swacke leen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.12	Die ghij geleect corts bij d ' onsterfflijcke godinnen , Hout die voor d ' alderslechts , helaes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.13	van u slavinnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.14	En valt het lichaem van mijn broeder niet so straff , Dat ghij de selve bant wt sijn voorouders graff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.1	Ghodin , voorwaer godin , ghij blijft altoos ghodin , En stiert Achilles hert , schoon juffrou , naer u .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.2	Helaes Polyxena !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.3	als ghij u wang betraent , Verciert het off onciert het schreijen u gedaent ?	BodilyProcess_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.4	Ick twijffel wat het doet , t ' mach cieren off ontcieren , Ick weet wel , t ' buijcht mijn hert op veelderleij manieren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.5	Staet op , godin !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.6	Hoe nu ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.7	moet dan Achilles sien t ' Uutroijen vant blont haer en t ' buijgen van de knien , Daer hij sijn knien voor buijcht ; wat knien ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.8	sijn herte moedich , Dat nocht het vreesselijxst van de slachorden bloedich , Noch vant verwinnent heijr de wrede rasernij , Noch bleecke doot ontsach , met schrick en angts daer bij .	Fear_Emotion_BodilyProcess_Awe_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.9	Autumedon , wilt hier terstond wat spijs beschicken Om desen ouden Vorst een weijnich te verquicken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.10	Nu , Pryamus , staet op , stelt aen een sij u leedt , Droocht aff u tranen , en u droeffheijt wat vergeet .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2893.s.1	Grootmoedich Prins , ken sal , t is tegen het behooren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2902.s.1	Verwacht dan niet , dat ick laet vallen mijnen tooren .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2902.s.2	Wilt ghij mij te geval u niet tot eten spoen , Ick sal op geen manier aen u begeert voldoen .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2915.s.1	Liefts had ick , dat ghij mij mijn ongh'luck liet betrueren .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2915.s.2	Dan , mach mij anders niet t ' dode lichaem gebueren , Ick sal ontveijnsen met het aensicht mijn verdriet .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2915.s.3	Dan , t ' hert en laet daerom t ' gewoonlijck trueren niet .	Emotion_BodyPart_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.1	Ghij hebt nu negen iaer , ô Pryamus , geleden Een oorloch , tot bederff van al u landt en steden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.2	De volcken , die u eerst bijstonden in de plaech , Die vallen van u aff , dit siet men alle daech .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.3	Ghij sent niet wederom nochtans de griecse vrouwe .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.4	Wat oorsaeck hebdij doch , dat ghijse noch gaet houwen , Die haer so schandelijck te buijten heeft gegaen ; Haer Vaderlant , en al dees crijsluy heeft verraen ; Haer eijgen broeders mee ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.5	die doch so heijlich waren , Want sij en wilden niet met ons nae Troijen varen Om dees vuijl hoere weer te brengen in haer lant , Wiens doot haer liever was , tot wraecke van de schant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.6	Wanneer ghij dagelijxs saecht u quaet daerdoor vergroten , Waerom hebt ghij se niet ter poorten wtgestooten ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.7	Hoe valt dit draechlijck voor u oude edel lien , D ' ier soonen alle daech deerlijck vermoorden sien ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.8	Heeft godt u altemael berooft van uwe sinnen , Dat in alsulcken stat niemant en is te vinnen , Die door sijn vaderlants verdriet beweecht met rouw , Een wreede straffe neem van dese valse vrouw ?	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.9	Ten aensien ws ghebedts en van u oude leeven , Sal ick u t ' lichaem van u sone weder geeven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.10	Daer in ick houde dat mijn vijant heeft misdaen , Dat selve sal ick nu noch nummermeer beghaen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.1	Wie can der goden schick , grootmoedich Prins , ontvlieden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.2	Sonder der goden wil dees dingen niet geschieden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.3	Op verna was eertijts gheen Coninck mijns gelijck In grootheijt van geslacht off machticheijt van rijck Van al de geenen , die t ' rijck Asien bewonen , Want tot verscheijden dracht gewan ick vijftich sonen , Waer van elck een mijn hiet geluckich .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.4	Maer opt pas , Dat Hecuba , mijn vrou , van Paris swanger was , Soo droomtse , dats in plaets vant kint een toerse baerde , Die Troijen stack in brandt , twelck ons altsaem vervaerde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.5	Want de Waerseggers wijs songen met droeff geluijt , Dat hier door wart den val van onse stad beduijt , Waer door dat ick beval het kint flux om te brengen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.6	De moeder veijnsden , dat sijt gaern soud ' gehengen , Maer vrouwelijck beweecht over haer eijgen bloet , Gaft seeker herders en die hebbent opgevoet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.7	En groot geworden wast so schoen in elx behagen , Dat sijnen doot ons scheen onmogh'lijck te verdragen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.8	Dus quam hij in mijn hoff wt het Jidaesche wout , En heeft Oenonen voorts tot sijnen vrou getrout .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.9	Maer weijnich tijts daer nae began sijn hert te branden Met luste om te sien de vreempt en verre landen , De welcke lust mij niet mishaechde noch verdroot .	Emotion_BodyPart_BodilyProcess_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.10	Des van geselschap en een welgeruste vloot Ick hem versach , en so trock hij van deese steede Na griecken , daer hij u , helaes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.11	dit ongh'lijck dede , Door dien hij tot sijn wil de griecse vrouwe vont , Die elck hier welcoom was , en niemant tegen stont .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.12	Een ijder was sij lieff door haer manier hoochvaerdich , Een ijder achten haer een oorloch bloedich waerdich .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.13	Ick houde , dat een godt ons tot dees sotheijt dwanck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.14	t ' Geschieden tegens mij noch tegens niemants danck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.15	Antenor had sijn soon gaen op de schepen voegen , Maer op de wedercoompts toonden een quaet genoegen , En sant hem buijtenslants .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.16	Dees man , seer rijp van raet , De saecken van het rijck en t ' oorloch wel verstaet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.17	Soo veel als mijn belangt , ick sie mijn eijnde comen , En tis mijn aengenaem , k ' en derff daer voor niet schromen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.18	Maer voor mijn kindren , laes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.19	en d ' oude Coningin Ick mij op dese tijt in sware vreese vin , Die naet verlies mijns rijxs , helaes !	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.20	in slavernien k ' En weet niet van wat heer de trotsheijt sullen lijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.21	Dan , neempt , beleefde Prins , dees cledren en dit gout .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.22	Ick danck u voor mijn soon sijn dode lichaem cout .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3130.s.1	Draecht wech , Automedon , des ouden Conings gaven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3130.s.2	Daer is u dode soon om eerlijck te begraven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3130.s.3	Daer is u dochter ; neempt , alst u blieft , u keer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3140.s.2	beleefde Prins , geeft ghij mij die noch weer ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3140.s.3	Behoutse tot u dienst , en wiltse niet versteecken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3148.s.1	Den tijt is niet bequaem om nu daer aff te spreecken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3148.s.2	Wij sullent stellen wt tot op een ander dach .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3155.s.1	Ick danck u , hoghe Prins , ghodt hoed ' u voor geclach .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3157.s.1	3e Handelinghe .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3157.s.2	3e Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.2	Hoe schoen , hoe trots , hoe spijtich datse schijnt , De werrelt doch niet anders is als wijnt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.3	Haer staet verkeert gestadelijck en ras : Nu isse niet het geen sij gistren was .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.5	Die gister trots op rijcdom swaer en schadt Weygerden t ' broot aen die hem daer om badt , Werden te nacht berooft van schat en lant , Heden gevoet van iemandts milde hant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.7	Die gister met sijn adel groot van pracht Betrouden op sijn rijck en out geslacht , Op gunst vant volck en capiteijnen braeff , Dient heden aen sijn vijant voor een slaeff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.9	Een hooftman van veel cloecke oorlochs lien , Die door sijn naem en daden was ontsien En menich rijck vervaerden doort gewelt , Wert van de doot op dese nacht gevelt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.11	Die gister lach door armoedt swaer geparst , Van staet en wijt beroemtheijt aldervarst , Wanhoopten niet maer wart boven sijn wins Heden misschien een rijck beroemde Prins .	Emotion_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.13	Die stadich wel op dit verandren oocht , Door voorspoet sijn gemoet hij niet verhoocht , Noch oock verlaecht , alst ongeluck hem stoort ; Geen hoverdij noch wanhoop hem becoort .	Emotion_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.15	Die doort geluck sijn moet verhoegen laet En sich betrout op rijckdoom , macht , off staet , Al dwanck hij gans de werrelt met sijn iuck , Hij is een slaeff vant wanckelbaer geluck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.16	8 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.17	Een die door ongeval of tegenspoet Wert moedeloos oft vallen laet sijn moet , De wanhoop weecht hem swaerder als de druck , Die hem compt wt lichaemlijck ongeluck .	Emotion_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.18	9 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.19	Maer diet gemoet in tegenspoet off noot Gestadich heeft en altoos even groot , Al heeft hij goet noch staet , nochtans is hij Gheboren tot des werrelts heerschappij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.20	10 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.21	Als sulcken man een coninckrijck aenvaert , Met slavernij sijn volck hij niet beswaert , Maer gaet hem tot de lantbestiering spoen , Om aen sijn volck doort heerschen dienst te doen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.22	11 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.23	Als sulcken Prins , rechtvaerdich waerdich hooft , Wart van sijn staet en coninckrijck berooft , t En deert hem niet , dat hij sich siet verlaecht , Maer t ' ongeluck sijns volxs hij beclaecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.24	12 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.25	Als sulcken Prins alleene tracht nae d ' eer Van t ' goet te doen aen t ' vollick tallen keer , En te besteen sijn leven en sijn doot Tot welvaert van sijn volck in den noot , 13 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.26	Dits t ' hoochste dat de sterffelijcken mens Vercrijgen can , en dit was Hectors wens , Van te besteen tot scha van sijn vijant Sijn leven en sijn doot voort vaderlant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.27	14 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.28	Hector vercreech sijn wens , en voor gewis Geensins dees Prins hier te beclagen is , Maer wij , helaes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.29	beclagen t ' oude rijck , Dat door sijn val viel neder te gelijck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3340.s.1	[ 4e. Handelinghe . ]	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3341.s.1	4e. Handelinghe .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3341.s.2	1e Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.3342.s.1	Achilles , Automedon .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.1	Vervloecte handen , en wel waerdich wt te roijen , Die u besmetten met d ' edelste bloet van Troijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.2	Vervloecte voeten , die de stoute borst betradt Des vroomsten capiteijns , die Asien heeft gèhadt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.3	En ghij sijt me vervloect , ô overwreede ooghen , Die sulcke moorderij t ' aenschouwen cont gedoogen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.4	En noch vervloecter sijt ghij , overwreet gemoet , Diet moorden van mijn lieff haer aldernaeste bloet Verdragen cunt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.5	Van wat geslacht sijt ghij geboren , Achilles ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.6	dat de geen , die ghij hadt wtvercoren Tot een schoonbroeder waert , ghij selve die vermoort !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.7	Van meerder wreetheyt is int oorloch noijt gehoort .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.8	Helaes , Polyxena !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.9	den moort heb ick bedreven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.10	De schult heb ick alleen , wilt ghij die niet vergeven , En straft mij nae verdienst , so ist met mij gedaen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.11	Als ick mijn Juffrou had , heb ickse laeten gaen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.12	Als sij haer lichaem boodt om t ' dode te bevrijen , Doen heb ick haer niet in mijn tente willen lijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.13	Als ick niet haer , maar sij mij om vergiffnis badt , Doen sandt ick haer te rug met d ' ouders na de stadt .	EmotionalAction_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.14	Doen wild ' ick opter daet daer inne niet besluijten Om t ' overleggen wat daer al wt conde spruijten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.15	Maer doort affwesen wert ick met meer pijns gequelt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.16	Nu routet mij , dat ickt dus lang heb wtgestelt .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.17	Want als ick d ' eerste mael liet mijn gesichte dwalen In hare jonckheyts glans en in haer ogen stralen , Dranck ick haer beeltenis door d ' oogen in mijn borst ; Een dranck , helaes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.18	die niet verslaet , maar scherpt den dorst .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.19	De schoone beeltenis nam in het hert haer plaetse En maectent tot een kerck ; als een godinne staetse Daer op een outaer hooch , daer wert s ' erkent alleen , En van de drang van mijn gedachten aengebeen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.20	Daer branden tot haer eer duijsent en duijsent toortsen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.21	Staech sij mijn harte dwingt met hare blixems coortsen , Tot een begeerte van t ' geen haer gelijckend ' is , En dats mijn lieff , daer van is sij de beeltenis .	Emotion_Love_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.22	Ghaet send ' u lieff van hier over veel duijsent mijlen , Sij heeft den booch , tis waer , maer ghij int hert de pijlen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.23	Wat helpt , Achilles , dat ghij haer van u veriaecht , Als ghij haer beeltenis binnen int t ' herte draecht ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.24	Ghij sentse wech om u gedachtnis te bedriegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.25	Hier sit sij in u borst , hier can sij u niet liegen !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.26	Hoe ghijse meerder poocht te stellen wt u sin , Hoe ghij u meer verwart in u begonnen min !	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3481.s.1	Mijnheer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3492.s.1	Ick heb dees brieff geschreven , Opdat ghij dien terstont gaet aan mijn Juffrou geven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3492.s.2	Gaet binnen troijen nu dewijl het is bestant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3492.s.3	Draecht sorge datse coom behouden in haer hant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3500.s.1	Ick gae , mijn heer , en salt volcomelijck bestellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.2	de vreese gaet mijn herte deerlijck quellen , Begeerte geeft mijn hoop , en dat is al haer grondt .	Fear_Emotion_BodyPart_BodilyProcess_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.3	De minnaer licht gelooft t ' geen hij sich selven iondt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.4	Ick heb u vaders staet , schone Princes , bedorven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.5	U waerste broeder is door dees mijn hant gestorven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.6	Als ghij int leger waert , toond ' ick u luttel eer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.7	Als ick u houden mocht , sand ick u lijcwel weer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.8	Sijnt minneteekens dit ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.10	met grote reen Sult ghij mijn bood ' versmaen en brieff met voeten treen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.11	Waertoe is wanhoop goet ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.12	hoe nu , Achilles , hoe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.13	Betroudt ghij dat dan u beleeffde Joffrou toe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.14	t ' Sal strecken tot profijt van al haer ondersaeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.15	Haer ouders sullen haer tot uwe liefft bepraten Op alderleij manier ; ist om u deuchde niet , 't Sal om t ' behouden sijn van t ' geen haer overschiet .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.16	t ' Verlies haer brengen sou int wterste bedroeven .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.17	Dan , ick sal in mijn tent het antwoort gaen vertoeven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.3571.s.1	Priamus , Paris .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.3571.s.2	Hecuba .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.3573.s.1	Paris	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3581.s.1	Autumedon heeft hier terstont een brieff gebracht , Mijn heer en vader , daer ick op te letten acht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.3584.s.1	Hecuba	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3586.s.1	Aen wien ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3592.s.1	Maer aen u dochter ist , mijn vrou en moeder .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3596.s.1	Geeftse aen Polyxena .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.3598.s.1	Polyxena	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3603.s.1	Leest gijs ' , mijn heer en broeder .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.1	Achilles , die door minnen sterft , Edel princes , wiens schoonheijt hem verwan , Die wenscht u al t ' welvaren , dat hij derft , En acht dat al , dat hij u wenschen kan .	Emotion_BodilyProcess_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.2	Mijn lyefde , die ' ck u draech so groot en ongemeeten , Meend ' ick , princes , door u affweesen te vergeten .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.3	Maer laes !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.4	gelijck een stat , die nae lang wederstant , Snachts overrompelt en gesteeken wert aen brant , Off de verwinner schoon de torts te rug gaet trecken , De brant laet daerom niet sich selven voort te strecken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.5	De vlamme voet sich selffs , en hem rontomme went , Soo lang daer huys off kerck off muer is overent .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.6	Also der minnen vlam , hoe wel ick u ontbeerden , En ging daerom niet wt , maer daeglijxs sich vermeerden .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.7	Die voel ick in mijn borst nu van so grooten cracht , Dat het mij seer verdriet , dat ick oijt heb gedacht Om u , princesse schoon , wt mijnen sin te stellen .	Emotion_BodyPart_BodilyProcess_Love_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.8	U , seg ick , die so licht mijn hooch gemoedt cont vellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.9	Laet mijn stantvasticheijt in uwe min vol pijn U een versekering van mijn getrouheijt sijn .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.10	En mijn getrouheijt , die ick u betoon door desen , Van mijn stantvasticheyt u een verseeckring wesen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.11	Dus salft Achilles hert , princes , met u genae , Op dat het in het vuijr geen asch wert en vergae , Maer dat het in den aert des Salamanders keere , So dat de brant het selve voed ' en niet verteere , Op dat de brant int hart en t ' harte in den brant Gedueren ewichlijck , u tot een offerhant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.3684.s.1	Finis	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3693.s.1	Heer vader , hier ist al , wat dunct u van dees saecken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3693.s.2	Wat salmen alderbest hier in doch mogen maecken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3734.s.1	Onnodich lang beraet , want mijnen sin is dit : Laetten ons weygren niet , dewijl hij om haer bidt .	EmotionalAction_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3734.s.2	Wij sien t ' quaet , dat ons quam door dien hij bleeff versteecken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3734.s.3	Voorseecker sal de Prins de Griecken op doen breecken , Als danckbaer van de gunst , oft so hij dat niet doet , Polyxena heeft tijt te temmen sijn gemoet , En sal hem metter tijt cunnen so wel bepraeten , Dat hij vergeeten sal sijn toorn , en varen laeten .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3734.s.4	Al swerelts cracht so licht geen hooch hert nederleijt Als dees schone Vrous vruntlijcke tederhaijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3734.s.5	Indien Polyxena Achilles can bewegen , t ' Welvaeren vant gants rijck isser gans aen gelegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3767.s.1	Ellendich coninxs kint !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3767.s.2	is dan t ' gemeen geluck Alleen gelegen aen u ongeval en druck ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3767.s.3	In troijens hoochste feest onder 't gemeen verblijen Sult ghij alleen benaut in droefheyt sijn en lijen ?	Joy_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3767.s.4	Somen de plagen niet van de troijaense wal Kan keeren dan door mijn verdriet en ongeval , Doot mij te besten van mijns vaders ondersaeten , Veel eer dan ghij mij sout slavinne werden laeten Van eenen , die mijn waerste broeder heeft gedoot .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3772.s.1	Dits t ' eenich middel om te comen wt den noot .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3804.s.1	Hola !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3804.s.2	Heer Vader , so ghij Paris raet wilt achten , Ghij cunt hier in voorsien en stillen haere clachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3804.s.3	Ick sal den grieck ontbien , dat hij hem vinden laet Gins in Apolloos kerck , die in de bossche staet , Daer ick hem loven sal mijn suster te doen trouwen , Die oock sal komen daer met al haer staet Joncvrouwen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3804.s.4	En als Achilles minst sal op sijn hoede staen , Sal ick hem onversiens daer op de plaets verslaen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3808.s.1	En vreest ghij niet de schant van dees verraderije ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3814.s.1	Wie soudt bedroch in sijn vijandt te crencken mije ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3818.s.1	Die werck van d ' eere maeckt , en schant en laster vreest .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3822.s.1	Eerlijck ist winnen , t ' sij door cracht off cloecke geest .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3828.s.1	Die door bedroch verliest en acht sich niet verwonnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3836.s.1	Off hijt soo acht off niet , wert niettemin verslonnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3843.s.1	De waere winst dat is t ' breecken van t ' svijants moet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3849.s.1	Waer blijft sijn moet off macht breeck ick sijn hart verwoet ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3856.s.1	Al is Achilles doot , het heijr is niet gedwongen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3871.s.1	Weet ghij niet , vader , wat Apollo heeft gesongen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3871.s.2	Dat Troija nummermeer sal gaen in slavernij , Indien Achilles daer niet tegenwoordich sij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3871.s.3	En nae sijn doot kan hijr niet tegenwoordich wesen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3871.s.4	Waerom besluijt ghij niet ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3871.s.5	Wat staet hier doch te vreesen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3891.s.1	Doet so , mijn lieffste soon , ick en sal lijden niet , Dat anders dan ghij segt , in dese saeck geschiet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3891.s.2	Wreeckt ghij mijn Hectors doot , wreect ghij mijn heete tranen .	BodyPart_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3891.s.3	Wreeckt Troijas nederlaech , gaet so de strate banen Tot welvaert van u volck , en wtgang van den crijch .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3891.s.4	Wreect so de wreede smaet , die ick van droefheijt swijch .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3922.s.1	Tsa , page , gaet de grieck terstont de bootscap draegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3922.s.2	Segt , dat Polyxena verhoren wil sijn claegen , En datse tot een vrou van hem sal sijn getrout , So hij sich vinden laet gins in Apolloos woudt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3922.s.3	En ghij , vrou suster , in het eerste t ' samen comen , Sult hem u hoochste goet en alderliefste nomen , En veijnsen off ghij seer tot hem genegen waert , Waer door gelegenthaijt sal werden gh ' openbaert Om doort geluckich stuck ons burgers te verquicken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3922.s.4	Daerom een ijder gae terstont hem hiertoe schicken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3924.s.2	3e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.2	Elck acht geluckich s ' princen leeven Door weeldens valschen blijck .	Joy_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.3	Hij , door dees meening selffs gedreeven , Waent niemant sijns gelijck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.4	Maer liet hij eens het rijck En het gebieden willich vaeren , En proefd ' off laechhaijt rust can baeren , De hoocheijt hij verachten sou als slijck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.6	Dat een gemeenen man beproefden t ' Geen hij acht sulck geluck , Wat sorg en angst een prins bedroefden , Wat onrust en wat druck , Hij achten beeter t'juck Als een gemeene man te draegen , Dan andren met het juck te plaegen .	Fear_Worry_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.7	Men oordeelt onervaren in dit stuck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.9	Een Prins wil datmen hem sal vreesen , En acht het selve goet , Die selve vreest gevreest te weesen .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.10	De nacht hem niet behoet , Noch slaep sijn smart versoet .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.11	Als alle menschen ruste raepen , Ontsteelt het sorgen hem sijn slapen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.12	Dat elck gebuert , een Prins ontbeeren moet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.14	Wat hooch huijs heeft oijt Prins genooten , Dat niet is omgewent ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.15	Wat vintmen doch voor hoge slooten , Diet oorloch niet en schent ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.16	Waer sietmen doch ontrent Het hoff de schaempt in eeren houwen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.17	Gerechticheyt , huwlijckse trouwe En sijn de groote hooven niet bekent .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.19	Het hoff dat volcht Bellona bloedich Met hare roed ' in de hant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.20	De helse , bose Fury woedich , Die hoverdie plant , Wiens hongerige tant De grootste doet hovaerdich raesen , Verslint de huijsen opgeblasen En werpt de hoge princen neer int sant .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.22	Indien men t ' oorloch niet siet blincken , Maer van bedroch affstaen , Het groot moet door sijn swaerheyt sincken , En t ' hooch te gronde gaen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.23	De schipper is belaen Als goede wint het schip gaet stijven , Vreest , het geluck t ' schip om sal drijven ; De hoochste torens meest de buijen slaen .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.25	De hoochste eijcken sietmen breecken Die in de bosschen staet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.26	t ' Geweer , wt Jovis hant gestreecken , De hoochste bergen slaet , Het vetste beest men gaet , Niet t ' slechste om te doden haelen , Bereijt men costelijcke maelen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.27	Wat vallen sal , Fortuijn verhogen laet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.29	Best dueren matelijcke dinghen , Daer t ' hooch haest vallen can .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.30	Die mate noijt ging overspringen , Als een gemeene man , Die noyt en schayde van De strant , bevreest de zee te naecken , Roijt onder t ' lant , dat hij kan raecken , Het hoochste luck alhier op aerden wan .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.head.4108.s.2	4e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.1	Soo dees godin , veel hoger van manieren Als d ' ander goôn , beleeft en goedertieren , Met een genadich ooch mijn smert aensiet , Der goden staet niet meer k ' acht als verwonder .	Emotion_BodyPart_BodilyProcess_Compassion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.2	k ' En vrees de snelle blixem noch de donder , Benij Jupijn Ambroos en Nectar niet .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.3	Terstont quam mij een bood ' , van Paris affgevaerdicht , Dat haer Polyxena niet langer veronwaerdicht t ' Erkennen mijne trou , dat se sal comen nu Gins in Apollos wout , waer van sij lang was schu .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.4	Sonder mijn swaert , alleen , en heb ick niet te schrome .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.5	Maer hoe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.6	siet , daer ist hoff , tis tijt dat icker come .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.4147.s.2	5e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.4148.s.1	Achilles , Polyxena , Paris , Deïphobus .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.4149.s.1	Sonnet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4181.s.1	Gentiel goddin , alleen besitster van mijn hert , Schoon ziele van mijn ziel , meestres van mijn gedachten , Wiens schoonhaijts clare glans , en gracy mijn vercrachten , Als in den blonden strick mijn hert gevangen wert , Indien ghij niet aensiet de wreethayt van mijn smart , En stopt u oren voor mijn al te sware clachten , Van mij en hebdij niet dan droeffheijt te verwachten En de melijdeloose doot en d ' aerde swart .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4181.s.2	Maer gaet ghij tot gena u goedertieren wennen , En wilt de trouwe van u dienaer recht bekennen , Verlost ick werden sal van droeffheijt , sorch en pijn .	Worry_Emotion_Compassion_Sadness_Benevolence
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4181.s.3	Mijn hert , dat door het vuijr soud ' lichtelijck verteeren , En sal dan nummermeer in assche cunnen keeren , Maer in een schonen brant altijt onsterfflijck sijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.1	Aensiend ' u lang vervolch , en aenstaen boven maten , Hoe wel ick oorsaeck heb , Achilles , u te haten , Sloech ick mijn oogen op u wijtberoemde duecht En op de schoonheijt van u fluxs gestelde iuecht , De welcke dingen , t ' sint dat sij mij wel geviele , Baerden een vreemde lust vol onrust in mijn ziele , In veughen dat ick haest mijn toornicheijt vergadt , En t ' rout mij , dat ick u so leed ' oijt heb gehadt .	Emotion_Hatred_BodyPart_BodilyProcess_Sadness_Desire_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.2	Tis mijn de grootste pijn des werrelts te gedencken , Dat ick oijt heb gedacht , Achilles , u te crencken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.3	Naer ick mijn gramschap dan op gh ' offert heb aen w , Coom ick , grootmoedich Prins , als u dienaersse nu Om op te offren voorts aen u alhier ter steede Mijn hert , mijn wil , en oock al mijn genegentheede .	Emotion_Annoyance
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.4	Daerom , Achilles , wilt ontfaen van mijnder hant , En gunstich nemen aen desen mijn offerhant , En mijn versekren , dat de lieffd ' met swaere plagen , Die ghij soo lange tijt tot mijwaert scheent te dragen , Warachtich is en sal altijt gestadich sijn .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.5	Waeraen te twijfflen valt mij een soo swaere pijn , Dat ick int midden van mijn vlam bevries doort vreesen .	Fear_Emotion_BodilyProcess_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.6	Dus maeckt mij , prince , dat ick mach verseekert weesen , Nae dien de twijfels mij wel duijsent doon aendoen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.7	Maer waerom soud ' ick oock cunnen van u vermoen , Dat ghij geveijnsdelijck sout sulcken liefd ' ontfangen , Gelijck het herte van Polyxena heeft bevangen ?	Emotion_BodyPart_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.8	Neen , neen , ten kan niet sijn , neent seeckerlijck niet , hoe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.9	Al droecht ghij mij oock gans geen liefd ' met allen toe , Weerliefd ' soud ' in u hert voorseecker comen wercken , Als ghij de grootheijt van mijn lijefde maer cont mercken .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.10	Mijn lijefd ' t ' sint haer begin nam soo veel toe en wan , Dat ickse met t ' gedacht nau achterhalen can .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.11	Mijn lijefde is soo groot , en brant so ongemeeten , Achilles , dat ick selff haer grootheijt niet can weeten .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.12	Het leeven van mijn lijefd ' en sijn geduerichaijt Sal niet van dach off wr , maer sijn van ewichaijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.13	So de verdienste van dit goddelijcke lijen U niet beweegen off tot waere liefd ' kan vlijen , En so Polyxena , s ' coninxs van troijas bloet , Door iemandt anders dan haer selven bidden moet , U door u ooghen schoon , Achilles , ick besweere , Door wiens godlijcke cracht mijn felle moet viel neere , Dat ghij mij wedermint gelijck gh ' wterlijck toont , En dat u lijefde duer mijn trou met trouwe loont .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.1	Had ick u overlang niet gaen besitster stellen Volcomen van mijn hert , een oogenstrael sou vellen Seer lichtlijck mijn gemoet , en dwingent tot u min .	Emotion_BodyPart_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.2	Maer t ' sint ghij d ' eerste mael de schoonst scheent in mijn sin , Heb ick met sulcken hit en smert u lijefd ' gedraegen , Datter geen wr voor bij en ging van so veel daegen , Off ijvrich ick aenbadt u schone beeltenis , Die siele van mijn siel , mijns levens leven is .	Emotion_Love_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.4	princes , wat sal ick u opoffren weer In plaets van deese gunst en dienstbaerheijt vol eer , Daer ghij mij nu toe roept ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.5	Hoe can weer sijn geloont Sulcken genegenthaijt als ghij tot mijwaert toont ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.6	Ick ben gedwongen , schoon princes , u te verclaeren , Dat ick soo groote vruecht voel in mijn siele baeren Doort overdencken van t ' geen daer ick meest nae dorst , Dat mij de wreede doot doorschieten sou de borst En door de groote lust alhier ter plaets bederven , Wast mogh'lijck in u tegenwoordicheijt te sterven .	Joy_Emotion_BodyPart_BodilyProcess_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.7	Dus sijt voorseeckert dat ick stadich ben beraijt t ' Ontfangen uwe lijefd ' met al eerbiedichaijt .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.8	Op die te vieren en te voeden sal ick passen , Dat d ' aldercleenste vonck sal in ons herte wassen , Tot datse wert een vlam , die aerd ' en hemel sou Verbranden alle beij , het welck , ô waerde vrou , Niet vreemt sal schijnen noch tegens des reedens wetten , So ghij een luttel wilt op u schoonheeden letten , Off so ghij mijn genegenthaijt wilt mercken aen , Off so het u belieft op baijde acht te slaen , De welcke baijd ' aen mij so starck sijn overcomen , Dat ( alhoewel ick vast bij mij had voorgenomen Te comen nummermeer in minne sijn verbont ) Soo haest ick u aensach , ick mij begaff terstont Vrijwillich in u dienst , waer in dat ick sal blijven So lang des Hemels cloot sal op sijn Polen drijven .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.9	Onnodich is het dan , dat ghij met bidden dringt Tot uwe lijefd ' een , die daer toe sich selven dwingt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.10	Der goden schick mij nood ' om tot u min te strecken , Al u verdienste groot mij tot u lijefde trecken .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.11	Mijn roepen derwaert , mijn begeerten algemeen , Mijn oversoete hoop voert mij , princes , daer heen .	Emotion_Hope
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.12	Mijn ziele , waer van ghij sijt coningin en vrouwe , Die heft mij derwaarts op met vluegels van mijn trouwe .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.13	Daerom , hoewel mijn lijefd ' tot u waerts eens began , Sijt seecker , schoon princes , dat die niet eijnden kan .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.14	Off , so die eijnden sal en immermeer gaen t ' onder , Dat sal geschien gelijck als de phoenix , t ' grote wonder , Die , stervend ' in de vlam , aen een nieu leeven raect , Nae dat hij levend ' heeft vant sterven eijnd ' gemaect .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.16	Wat seg ick doch ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.17	Wat slechtheijt mach ick praten ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.18	Soud ' u lijefd ' nu en niet eerstlijck te leeven laeten , Off soud ' ick neemen van het leeven een begin , Sonder te voelen een beginsel van mijn min ?	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.19	Soud ' ick het geen ick ben wel cunnen blijven weesen Sonder u eijgen slaeff stadich te sijn bij deesen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.20	Off soud ' ick kunnen vrij weesen van u gebiedt , Sonder dat ick het geen ick ben te weesen liedt ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.21	Voorwaer , in geen manier , veel eer ick t ' onder bleeve , Want ick door u , door uwe min , en door u leeve .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.22	Maer off mij bij geval een sotternij beving , Dat ick mijn eijgen vijant selve wert ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.23	en ging Versmaen het hoochste goet , dat ick ter werrelt achte ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.24	U alder cleenste ionst waar groot genoech van crachte Om mij te vrijen van al die lichtvaerdichaijt , Daermen ter weerelt oijt van dacht off heeft gesaijt , En te leijden tot u , godin vol waerde gaeven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.25	Myn overgroot ghemoet in liefd ' altijt zal draven .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.26	Maer waer door laet mijn geest , beweecht door hope blij , Sich selff verbasen doch door eene prophesij , Die soo ellendich en van droefhaijt is deelachtig Als ickse ken voor vals en ganslijck logenachtig ?	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.27	Also veel schoonhaijt alser is , godin , in dij , So veel genegenhaijts is tot u dienst in mij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.28	En mijn stantvastichaijt die is soo groot en heerlijck Als mijnen ijver is , en mijnen smert begeerlijck .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.29	U schoonhaijt kan u niet verlaeten , schone vrou , Ontsterfflijck is ' in u , so doet in mij mijn trou , Des leeft mijn min , princes , alleen door u verclaeren , Dat ghij mijn weerliefd ' draecht , en saecht mijn welvaert gaeren .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.30	Tot levens onderhout mijn min nae ionste tracht , Die meer begeert was dan verhoopt , maer minst verwacht .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.31	So sal in ewichaijt , godin , mijn lijefde dueren , Die k ' in de straelen ws gesichts heb laeten pueren .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.32	In dese straelen schoon van goddelijcker aert Mijn min gesuijvert is , goddin , en heel verclaert , Als in een hemels vuijr , t ' welck van hem heeft genomen , Al t ' geen onwaerdich was , princes , van u te comen .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.33	Mijn hert dat is een heete oven van de min , Myn lijefde , schoon princes , die is geparst daer in .	Emotion_BodyPart_BodilyProcess_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.34	Van mijne dienstbaerhaijt en aengename banden Can ick geen seeckerhaijt off geven ander panden Als d ' hitten van mijn hert , en so ghij mij wel iont , Sijn dit de waerste , die ghij selven wenschen cont .	BodyPart_BodilyProcess_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.35	Dan , somen om de lijefd ' te houden lang in leeven , Can eenich onderhout nutter als weerlijefd ' geeven , En so der minnen bandt wel vast gaet en gewis , Daer d ' een aen dander grotelijxs gehouden is , Souder ondanckbaerheijt soô ondanckbaer sijn te vinnen , Dat s ' mijn u weldaet sou doen stellen wt mijn sinnen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.36	Naedien ick u , princes , gedaen heb een misdaet , Dat ick met reden most wanhopen van genaet , En ghij , in plaets van mij te straffen met u toren , U dienaer doet de ionst van sijnen clacht t ' aenhoren , Mijn gevend ' in de plaets des doots , van mij verwacht , Een leven , dat ick schier gelucksalijger acht , Als eenich ander dinck , groot gheacht by de menschen , Dan ickt vant Avontuer selff hadde cunnen wenschen , Ontfangt dan , schoon godin , al deese seeckerhaijt Van mijne lijefd ' tot u , en mijn getrouwichaijt , Op dat den hemel die tot eenen haven leijde Van vreugd ' en van geluck , waer wt sij nimmer scheijde .	Joy_Emotion_Happiness_Love_Despair_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.37	Laet mij opoffren t ' ijs van u verstoorde sin Met d ' assche van mijn licht ' en lang verleden min , Op datter niet en blijff in onse ziel heijlgierich , Dan t ' geen tot voetsel dient van onse lijefde vierich .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.38	En ick besweer , godin , door u volmaeckthaijt dan , Diemen aenbidden wel , maer niet begrijpen kan , Dat van mijn slavernij ghij hier verklaert de wetten , Om die met vuijre letters in mijn hert te setten , Op dat ick , schoon princes , aen mijn gedachten leer Die daer te lesen , t ' overtreeden nimmermeer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4603.s.1	Danct hem , onhuesheijt wast indien wij dat versloften .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4614.s.1	Grootmoedich prins , wij dancken u van u beloften .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.stage.4613.s.1	Achilles wert verradelijck omgebrocht van Paris en Deiphobus .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.4616.s.1	4e. Handelinge .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4626.s.1	Dat wij die twee daer wt so schielijck springen sien Dat heeft , nae mijn verstant , wat sonders te bedien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.4628.s.1	Diomedes	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4642.s.1	Dewijl de griecxen Raet ons beijden heeft bevolen Achilles gae te slaen , om dat hij int verholen Den vijandt selff besoect , en hem te spraecke staet , Op avontuer off hij besloot eenich verraet , Compt , treeden wij int wout en gaen hem soo beneven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4647.s.1	Wel , ick sie niemant niet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4647.s.2	Ach , wat is hier bedreeeven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4647.s.4	Geeft ons het laetste woord !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4651.s.1	Deiphobus en Paris hebben mij vermoort .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4662.s.1	Ghemoort ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4662.s.2	Waer hoord ' men oijt grooter valschaijt verhaelen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4662.s.3	O blonde Son , aenschout ghij dit sonder te daelen Te rugge waert van daer ghij opgereesen sijt ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4668.s.1	Mijneedich schelmstuck te boos om aff te malen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4672.s.1	O blonde son , aenschout ghij dit sonder te daelen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4681.s.1	Den grooten man , vermaert in s wijden werrelts paelen , Dien Blixem , soo ontsien int oorloch , sijn wij quijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4694.s.1	Gheen clagen helpen can , hij heeft vervult sijn tijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4694.s.2	Wilt mijn het lichaem cout op dese schoudren laeden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4694.s.3	En gaen wij doen t ' verhael , hoe dat hij is verraden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.4697.s.1	[ 5e. Handelinge . ]	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.4698.s.1	5e. Handelinge .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.4699.s.1	Al de Princen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.4699.s.2	Nestor , Aiax , Ulysses .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4734.s.1	Geen van de Princen , noch geen van de griecs knapen Dan ghijluij met u twee staet nae Achilles waepen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4734.s.2	Dies elck omt t ' seerste twist en voor een eere telt Te draegen t ' waepen van dien onverwonnen helt .	EmotionalAction_Envy_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4734.s.3	De Princen sijn alhier ter plaetse neer geseten , Om ijder sijn beschaijt volcomelijck te weeten , En wijsen toe met recht de wapens aen de man , Die mette reeden best sijn recht verdaden kan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4734.s.4	Daerom een ijder pooch het geene te vertrecken , t ' Welck aldermeest hij tot sijn voordeel acht te strecken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.1	Aen strant ( Jupijn ) en bij de scheepen pleijten wij , En men gelijckt ( ick raes ) Ulysses noch bij mij ?	EmotionalAction_BodilyProcess_Desire_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.2	Mij , die noch vuijr noch vlam noch Hectors toren vruchten En voor dees vloote vocht , als ghij met schande vluchten .	Fear_Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.3	Veijlijger is het dan , ô griecken , datmen strijt Met woorden schoon geciert , dan met een swaert dat snijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.4	Wanneer men vechten sal , Ulysses wt het perck vliet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.5	Het doen valt hem te swaer , en t ' seggen is mijn werck niet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.6	Soo veel als ick vermach int crijgen met gewelt , Soo veel Ulysses int vrouachtig clappen gelt !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.7	Doch mijne daden ist onnoodich te vertaelen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.8	Ghij hebt s ' altsaem gesien , laet hem de sijn verhaelen , Die hij alleen en sonder tuijgen heeft gewracht ( Naedat hij selve seijt ) int doncker vande nacht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.9	Den loon , daer ick nae stae , beken ick groot te weesen , Maer van den loff verlies ick t ' grootste deel door deesen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.10	Tis groot , maar d ' heerlijckhaijt die wert daer door bemorst , Mits dat ick crijge t ' geen Ulysses hoopen dorst .	Emotion_Hope
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.11	Verliest hij schoon t ' crackeel , den prijs heeft hij alreede , Want men sal seggen , dat hij met mij heeft gestreede !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.12	Dan , soo mijn duecht was twijffelachtig bij den Raet , So soud ' mijn edelhaijt mij wel coomen te baet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.13	Mijn Vader Telamon heeft troijen helpen winnen , En voer met Hercules omt gulden vlies te vinnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.14	Sijn Vader Aeacus is rechter in den hel , Daer Sisyphus , u oom , Ulysses , lijt gequel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.15	Juppijn diens vader is , k ' en hael het niet van verde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.16	Dees Aiax nae Juppijn is int geslacht de derde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.17	Dan , laet dit inde saeck mij gants geen voordeel sijn , Soo 't niet gemeen en is Achilles huis en t ' mijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.18	Achilles was mijn neeff , ick eijs mijn broeders wapen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.19	Maer ghij sijt wt het bloet van Sisyphus geschapen , Die ghij in schelmerij oock te gelijcken tracht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.20	Wat mengt ghij onse naem in u versmaet geslacht ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.21	Off sal mij deese twist omt waepen qualijck locken , Om dat ick heb van d ' eerst de waepens aengetrocken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.22	En met mijn vrije wil ben nae de crijch gereijst , Daer sich Ulysses sot en rasend ' heeft geveijst Door vreese van met ons hier in de crijch te trecken , Tot Palamedes cloeck sijn blootheijt quam ontdecken ?	Fear_Emotion_BodilyProcess_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.23	Die doe de blootste was , van alle wapens schu , Sal die - wat recht is dit !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.24	- de beste nemen nu ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.25	Was doch de rasernij voor rasernij genomen , Off was sijt doch geweest en hij niet hier gekomen .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.26	So sout ghij , Philoctetes , met so swaer verdriet , Int eijlant Lemnos als een balling leven niet , Die in speloncken naer , en bosschen met u weenen En kermen dagelijxs beweecht de coude steenen , En wenscht Ulisses t ' geene dat hij waerdich is , t ' Welck ( so der goden sijn ) hem beuren sal gewis .	Emotion_BodilyProcess_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.27	Also verdwijnt door siect en honger metter wijlen Een van ons leijtsluij selff , en bruijct Alcides pijlen Op vogels en op wilt , die Phoebus ons beval Te bruijcken ten verniel van Troijas hoge wal .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.28	Maer Philoctetes die is noch te lijff gebleeven , Om dat hij t ' selschap van Ulysses heeft begeeven , t ' Welck Palamedes oock wel wenschen mocht , dunct mijn , Want sonder dat hij soud ' nu noch int leeven sijn , Off immers soud ' de doot gesturven wesen eerlijck , Die hij door sijn bedroch doen sterven heeft so deerlijck , Als hij hem van bedroch aenclagen quam so stout , En overtuijchden hem door t ' vinden van het gout , Des vijants , so hij saij , becorelijcke gaven , t ' Welck hij hadt heijmlijck selffs doen in de tent begraven , Tot wraeck van dat hij sich door hem ondecken sach , Het welck hem speet , en lang ' daer nae int herte lach .	Emotion_Sadness_Remorse
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.29	Door ballingschap off doot crenct hij der griecken crachten , Op deese wijs is hij te vreesen en te achten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.30	Off hij int spreecken schoon Nestor te boven gaet , Noch en sal hij niet in 't goede verandren t ' quaet , En hier verdaden , dat hij vlieden ging sijn best ras , Als Nestor riep om hulp , door dien sijn paert gequetst was .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.31	Dat ick dit niet versier weet Diomedes wel , Die dick de vlucht verwijt aen sijn goe meed'gesel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.32	De goôn aensien de mens rechtvaerdich met haer ooghen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.33	t ' Gebuerde dat de geen , die niet en wilde pooghen Om Nestor bij te staen , selfs bijstant creech van doen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.34	Hij riep ellendich hulp , ick ginck mij derwaerts spoen .	EmotionalAction_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.35	Hoe wel hij hadt verdient doort vlieden , datmen eeven Als hij met Nestor deed ' , men oock met hem sou leeven , Ick deckt hem met mijn schilt daer hij lach bevend ' bleeck , k ' Verseeckerd ' hem sijn lijff al eer ick van hem weeck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.36	De wonden die sijn cracht int vechten deen vermindren En conden hem sijn loop int vluchten niet verhindren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.37	Dus berchden ick een siel oneedel , slecht van aert , En dunct mijn eijgen daet mijn luttel eeren waert .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.38	So ghij in dese twist u enckel wilt verweeren , Compt , laet ons weder op de selve plaetse keeren , Geeft daer de vijant weer , u wont en vrees daer bij , Duijckt achter t ' schilt , en twist daer onder tegens mij .	Fear_Emotion_EmotionalAction_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.39	Siet , Hector , die met hem ten strijde leijd ' de goden , Verbluft den stouten oock en niet alleen den bloden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.40	Als die braveerde doort vervolch van sijnen moort , Heb ick hem op sijn rug geveldt van vers , en voort Wanneer hij daechden wt een om met hem te steecken , Weerstont ick hem alleen , en ghij , beroemde greecken , Beloofden bedevaert , indien ick niet en vil .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.41	Verhoort wert u gebet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.42	So iemant weeten wil Den wtgang van de crijch , ick hebse niet verlooren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.43	De vijant quam met macht het griexse heijr verstooren , Tot onse vloodts bederff met vier en vlam bereijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.44	Waer was Ulysses doen met sijn welspreeckenthaijt ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.45	Ick heb alleen dees vloots bescherming aengegreepen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.46	Geeft mij de waepens doch voor meer als duijsent scheepen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.47	Indien dat ghij toe wijst , ô Princen , t ' recht aen mijn , t ' Sal meer der wapens eer dan Aiax eere sijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.48	Laet nu Ulysses eens gelijcken bij mijn daden Het moorden van Rhesus , die hij halff heeft verraden , En Dolon , s ' vijants spier , en Helenus , dien hij ( Wanneer hij Pallas stal ) gevangen bracht daer bij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.49	Niet is bij daech geschiet al wat hij heeft bedreven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.50	Men moet den halven loff aen Diomedes geven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.51	Jont ghij de waepens aen dees daden slecht , oneel , Soo deels ' en geeft aen Diomedes t ' beste deel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.52	Ulysses sullen sij doch niet te stade komen , Die ongewapent staech en niet gelijck de vromen , Bij nacht den vijant crenckt mette gewiste cans .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.53	De gulden helm sal hem beclappen door sijn glans .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.54	Oock sal hij doort gewicht sijn hooft niet kunnen roeren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.55	d ' Onstrijtbaer arm en can Achilles spiets niet voeren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.56	De schilt , waer in gemaelt men t ' swerrelts rijcken siet , En sal sijn slincker arm wel , dunct mij , passen niet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.57	Wat staet ghij nae een gaeff , die u sal overlaeden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.58	Welck soo de griecken , door haer quaelijck te beraeden , U jonnen , ghij en sout daer duer niet sijn ontsien , Maer rascher nae de buijt sal uwe vijant vlien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.59	De vlucht , daer ghij u hoop gewoon in sijt te setten , Daer in sal t ' swaer gewicht , Ulysses , u beletten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.60	Voorts uwen schilt is gans , heeft niet met al geleen , Vol kerven is de mijn , en ick behoeffer een .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.61	Maer siet ons wercken aen , onnodich sijn de woorden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.62	De wapens smijt int mits van des vijants slachoorden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.63	Heet datmen 's hael van daer , en dieser brengt van daen , Laedt diese tot een loon en tot een loff ontfaen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.1	Hadt mine wensch en d ' u , ô griecken , niet gemist , Wij souden rechtevoort niet sijn in dese twist , De tranen souden mij met crachte dus niet vlieten , Ghij sout u wapens , wij , Achilles , u genieten .	BodyPart_BodilyProcess_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.2	Dan , nu dewijl de goôn ons beijd ' hebben berooft Van dat ontsichbaer onverwonnen oorlochs hooft , Wie sal met meerder recht doch volgen in sijn steede Dan die Achilles selff den griecken volgen deede ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.3	t ' Verstant , dat dicwijls heeft gedient tot u profijt , t ' Sij hooch off laech , laet mij niet schaden nu ter tijt , Op dat ick sonder nijt mijn reedens mach ontluijcken ; De gaven , die men heeft , die machmen wel gebruijcken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.4	Voorvaders clare deucht , en Adels hoge roem En ander luyder daet ick nau ons eygen noem , Maer om dat Aiax saijt dat sijn grootvaders vader Juppijn is , so seg ick : Juppijn is hem niet nader Een lit dan hij mij doet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.5	Ick ken Laërtes out Voor vader , die Arcesius voor sijn vader hout .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.6	Arcesius vader is Juppijn , en onder deesen Is niemant oijt tot doot off ballingschap verweesen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.7	Een ander Adeldoom compt mij van moeder sij , En d ' oorsprong vant geslacht sijt , ô Mercurius , ghij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.8	Nochtans en ghae ick niet nae dese wapens sporen , Om dat van moeders sij ick hoger ben geboren , Off dat mijn vader niet beschuldicht werden can Met sijne broeders sondt ; siet de verdiensten an !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.9	Maer tgeen dat Telamon off Peleus heeft bedreven , Dat men daer van den loff niet gaet aen Aiax geeven , Dat niet de naest int bloet wert met dees prijs verhuecht , Maer die met reeden meest doen blijcken can sijn duecht .	Joy_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.10	Want anders , Peleus leeft , en Pyrrhus daerenboven , Achilles sone ; so blijft Aiax toch verschoven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.11	En Teucer isser oock al vast in eenen graet Als Aiax , die nochtans niet nae de waepens staet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.12	Dewijl wij dan alleen met onse daden strijden , Ick heb meer wtgerecht dan ick can hier belijden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.13	Ick salt verhalen , doch opt corst , van voren aen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.14	Thetis , de moeder van Achilles , hadt verstaen Van de waerseggers wijs , indien hij herwaerts quame , Dat hijt besterven sou , hoe groot hij was van name .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.15	Sij maect hem onbekent omt ongeluck te vlien , En liet hem als een maecht in maechden cleeren sien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.16	Niemant heeft hem gekent , noch Aiax selven mede .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.17	Hij waer gebleeven t ' huijs ten waer dat ick het dede .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.18	Ick nam een marsse vol van vrouwe cramerij En deed ' daer loosselijck een crijsmans wapen bij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.19	Een ijder vrou besach het geen haer best geleecke , De Prins terstont sijn hant ging aen de wapens steecken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.20	So wel de schilt en spiets hem in sijn handen stont , Dat eer hijt vrouwen cleet verwurp , ick riep terstont : Ghodinnen soon , van u wacht Troien sijn bederven , Waeromme twijfelt ghij de name te verwerven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.21	Mijn handt leijd ' ick hem op en sant hem derwaerts heen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.22	Al t ' geen hij heeft gedaen , noem ick dan t ' mijn met reên .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.23	'k Heb Telephus getemt , k ' heb Theben ingenomen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.24	Door mij is Tenedon in onse macht gekomen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.25	Dat Lesbus , Chryses , Cilla , Apollos steden stout Ons onderdanich sijn , voor mijne daden hout .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.26	En oock dat Lyrnes viel , dat sich te weere stelden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.27	Ick gaff den naem , die den troijaensen Hector velden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.28	Door mij leijt Hector neer ; het wapen dat mij dede Achilles vinden eerst eysch ick dees wapens meede .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.29	De wapens , die ick hem int leven heb gegeven , Ist onrecht dat ick die weer eijsche naer sijn leven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.30	Den ruijmen haven lach van duijsent scheepen vol , De wint blies tegens ons gestadich eeven dol .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.31	Daer wert gepropheteert , den wint en sou niet wenden , Ten waer dat Atreus neeff sijn dochter wilde senden Ten outaer van Diaen en latens offren daer , Om soo te stillen t ' weer , en gramschap fel van haer .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.32	Maer Agamemnon hout sijn vadersche genegenthaijt , Wilt niet toelaten , off hem schoon gans griecken tegen saijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.33	Dees dorst ick spreecken aen wanneer ghij , Aiax , sweecht , En heb hem tot profijt van het gemeen beweecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.34	Ick dreef een sware saeck van een pertijdich rechter .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.35	De Prins vergeeft t ' mij nu , doch hem en docht niet slechter t ' Gemeene volcxs scha dan s ' dochters doot , des hij Vergolde met het bloet d ' ontfangen heerschappij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.36	De moeder hadt bij haer haer dochter wtvercoren , Die men bedriegen most , want raden was verlooren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.37	Ulysses sant men heen , ick hebt alleen bestaen ; Op welcke plaets wanneer dat Aiax was gegaen , De schepen lagen noch wel op de wint en wachten , t ' Sijn soud ' de prins meer dan t ' gemeene besten achten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.38	Ick ginck te Troien oock wtrechten als gesant De saecke , mij vertrout van het gemeene lant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.39	Ick quam aldaer den Raet en al de Princen satten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.40	Ick claechde Paris aen , heraijschde vrou en schatten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.41	Antenor op ons sijd ' creeg ick , eens coninxs stem , Maer Paris en de geen , die schuldich sijn met hem , Hebben haer handen nau van onsen moort onthoudē , t ' Welck , Menelaus , ghij soowel als ick aenschoude .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.42	Van ons gemeene noot was dat den eersten dach .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.43	Ick heb meer wtgerecht , dan ick verhalen mach In desen langen crijch met wijslijck doen en raeden , Want t ' sint het slaen , geschiet als wij te lande traden , Schuijlden de vijant lang cleenhartich in de stat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.44	Wij hebben eerst dit jaer middel om slaen gehadt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.45	Goet sijdij int gevecht , maer wat sijdij daer buijten ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.46	Gesmeert hadt men u moeten in een casse sluijten , Gelijck als het geweer , tot datter quam de tijt , Dat men u bruijcken mocht te veld ' in open strijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.47	Want waertoe dienden ghij ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.48	dan , vraechdij wat ick drijve ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.49	De vijant leg ick laech en onse schanse stijve , Tot s ' langhe crijchs verdrach geeff ick de gasten moet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.50	Hoe sij gewaepent , hoe sij moeten sijn te voet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.51	Hierin ick onderwijs en raed ' haer tallen stonden , Off warde voor gesant nu hier nu daer gesonden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.52	De Coning hadt gedroompt , dat hem Juppijn geboot Te keeren t ' huijswaerts met de geheele vloot , En konde door den naem van godt licht elck beweegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.53	Dat Aiax sich vertooch en set hem daer eens teegen , En vecht al wat hij mach !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.54	Waerom belet hij niet Dat ijderman omt seerst fluxs nae de scheepen vliet ?	Fear_EmotionalAction
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.55	Ten was niet groots voor hem , die stadich groots cont spreecken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.56	Maer wat ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.57	hij vluchten selff , en is aent strant geweecken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.58	Ick sach het selven aen en schaemdet mij te sien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.59	Ick riep terstont : wat ding doet u , gesellen , vlien En Troien halff gestoort los laten wt u handen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.60	Wat voert ghij doch nae huijs dan eenen buijt van schanden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.61	Met dese woorden keerd ' ick al het volck alleen En Agamemnon riep terstont den hoop bij een .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.62	Een woort en dorst ghij doen , ô Aiax , niet vermelden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.63	Thersijtes en ontsach de Princen niet te schelden , Maer wert van mij bestrafft ; k ' ben opgereesen voort En deed ' het volck sijn moedt weer grijpen door mijn woort .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.64	Al t ' geen , dat t ' sint die tijt dan Aiax heeft bedreeven , Compt mij altsaemen toe , ick heb hem u gegeeven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.65	Als hij teech op de vlucht , doen heb ick hem gekeert .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.66	Maer wat grieck isser doch die u acht off begeert ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.67	Wat Diomedes doet , dat doet hij met mij t ' saemen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.68	Isset een cleene saeck dat hij mij acht bequame , En kiest mij tot gesel wt so veel duijsent man , Als enen die hem best in alles helpen can ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.69	Ten was mijn beurte niet , nochtans nam ick bij nachte Gevangen 's vijandts spie , die ick oock omme brachte , Nae dien ick al den raedt van Troien hadt verstaen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.70	Met mijn beleeffde ' loff mocht ick te rugge gaen , Was lijckwel niet te vreên , maer als een vroomheijts pleeger , Vermoord ' ick Rhesus met sijn selschap in sijn leeger .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.71	Dus quam ick hier , naedien ick had mijns willen wins , Op sijnen wagen selff als een gesegent Prins .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.72	Weijgert mij t ' waepen , gaet u gunst tot Aiax wenden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.73	Ick hebbe met mijn swaert vernielt Sarpedons benden , Iphetides en Ceranos ick vluchten dede , Alastor , Chromius en oock Alcander meede , Noemen en Pritanus , Halinus van gelijcken , Dees moesten altemael voor mijnen aenval wijcken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.74	Dan Thoon , Charapos , en Ennomos en voort Chersidamos heb ick met desen hant vermoort , En meenich slecht soldaet ; oock ben ick niet verleegen Om u te toonen dat ick wonden heb gecreegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.75	De plaetse daer se staen , ô burgers !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.76	haer verciert .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.77	Gelooft geen woorden , niet diemen licht schoon versiert .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.78	Siet de litteekens hier , dit is de borst , gesellen , Die ' ick voort gemeene nut so dickwils heb gaen stellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.79	Maer Aiax heeft sijn bloet so meenich jaer gespaert , En heeft sijn groote borst van wonden wel bewaert .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.80	Dan , dat hij heeft belet de griecse vloot te schennen , Is dat so grooten saeck ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.81	dat wil ick wel bekennen , Want te verduijstren t ' goet en was noijt mijn bedrijff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.82	Maer dat hij d ' eere sich alleen niet toe en schrijff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.83	Patroclus , die gedect was met Achilles waepen , Heeft oock geweert den brant , tot ons bederff geschaepen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.84	Hij waent , dat hij alleen een hart had ' in sijn borst , Dat Hectors toorn fel stoutlijck verwachten dorst , Heeft Coning en met mijn Achilles selff vergeeten , Aldaer hij in den Raet de negenst ' is geseeten , En boven dander nergens om dan door het lot .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.85	Dan segt , ghij stercken helt , die mette Princen spot , Welck was den wtgang doch vant vechten met u beijen Dan dat ghij ongewont liet Hector van u scheijen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.87	wat ist mij een smert te dencken aen den dach , Dat men der griecken muer , Achilles , vallen sach .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.88	De tranen noch de rou , noch vreese condt mij schaeden Int dode lichaem cout op deesen hals te laeden .	Fear_Emotion_BodyPart_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.89	Op deesen hals droeg ick Achilles , en met hem De waepens , die ick wens datmen mij nu toestem .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.90	Ick hebbe crachten , die voor dat gewicht niet vreesen , En een gemoedt , dat u van d ' eer sal danckbaer weesen .	Fear_Joy_Honor_Emotion_BodyPart
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.91	De blaeuwe seegodin heeftse de waepens schoon Seer constelijck doen smeên , eergierich voor haer soon , Op dat een slecht soldaet , daer wij noijt geest in sagen , Des hemels gaven waert onwaerdich soude dragen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.92	Het gene , datmen in den schilt gehouden siet , Verstaet hij , weet ick wel , int alderminste niet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.93	Besach hijt eens te recht , hij souder in verwerren : Het Aertrijck , en de Zee , de loop der gulden sterren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.94	Gij sout u schamen selffs , dat ghij begeeren gaet De waepens , die ghij doch int minste niet verstaet .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.95	Maer hij saijt dat ick laet ben in de crijch gekomen , En daerentusschen denct niet , dat hij so den vromen Achilles oock beschelt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.96	Ist veijnsen sont geweest ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.97	Wij veijnsden alle baij , wie van ons beijden meest ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.98	Dan , soot vertoeven voor een misdaet sou verstrecken , Men heeft mij nae den crijch sien vóór Achilles trecken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.99	Hem hiel sijn moeder thuijs , en mij mijn cuijsse vrou , Hem gafmen d ' eerste tijt , en al de rest aen ouw .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.100	Ick zal mijn misdaet nu doch wel verdaden connen Gemeen met sulcken man , nochtans is hij gevonnen Door mijne cramerij , van als bij een geschraept , Maer ick ben doort vernuft van Aiax niet betraept .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.101	Gaet sijn botte tong met mij te schelden toonen , Verwondert daer niet in , u gaet hij niet verschoonen : Die valschelijck van mij misdadich wert genoempt , Is het u luijden eer dat ghij die hebt verdoempt ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.102	Maer Palamedes cont sijn onschult niet betogen , Ghij saecht de stucken selff , ô griecken , voor u ogen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.103	Ghij saecht dat gout , dat lach begraven in sijn tent .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.104	Maer seeker , dat verraet was claer genoech bekent .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.105	Dat Philoctetes op het eijlant is gebleeven , Verdaet u eijgen saeck , geen schult men mij can geeven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.106	Ghij alleen liet het toe ; ick heb het wel geraen , Op dat hij mocht de moijt van dese crijch ontgaen , En sachten door den rust sijn overwreede pijnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.107	Hij deed ' alsoo en leeft , men sal dees raet bevijnen Niet slechtelijck getrou , maer noch geluckich mee .	Joy_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.108	Die maeckt sij oock getrou den geenen diese dee .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.109	Dewijl men Propheteert , datmen niet wt can roijen Dardanus ouden rijck , noch slechten t ' slot van Troijen , Ten sij dat hij er sij , beveelt mij niet de saeck , Laet Aiax derwaerts gaen , op dat hij willich maeck Door sijn welspreeckentheijt , een man vol rasernijen Van sieckt en gramschap , om met hem op wech te tijen .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.110	Off voer hem door vernuft loosselijck herwaarts aen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.111	De vloet van Simois sal eer te rugge gaen En sonder bladen staen Jda , den berch daer boven , En griecken aen de stat van Troien hulp beloven , Eer s ' plompen Aiax geest den griecken compt te staet , En mijn trouhartichaijt tot uwaerts u verlaet , Daer in ick eewichlijck volharden sal stantvastich .	Emotion_Loyalty
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.112	Harde Philoctetes , al valt ghij nu so lastich De Coning , t ' volck , en mij , hoewel dat ghij vervloect Gestadelijck mijn hooft , en niet en wenscht off soect Dan mijn verhoopte doot en van mijn bloet te suijgen , Nochtans so sal ick sien , u hert gemoet te buijgen , En doe al wat ick kan , dat ick u herwaerts stier .	BodyPart
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.113	Ick sal , iont mij t ' geluck , u pijlen brengen hier , Gelijck ick Helenus hier heb gebracht gebonden , Der goden schick ondect , gelijck ick heb gevonden Middel om Pallas beelt te crijgen op ons sij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.114	En Aiax niettemin gelijct hem noch bij mij ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.115	Want sonder t ' beelt men cont hem niet van Troien wreecken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.116	Waer was doen Aiax ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.117	waer was sijn vermeetel spreecken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.118	Waeromme swijcht hij doch ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.119	hier en Ulysses niet Het bloot geweer noch wreede waepens aen en siet , Maer stoutelijck darff gaen doort midden van de wachte Binnen , en niet alleen bij doncker naere nachte , Maer tot int hoge slot , en maecken luttel werck Van de Godinne selffs te roven wt haer kerck , En gaen met sulcken rooff dwars door den vijant wagen , t ' Welck had ick niet gedaen , vergeefs soud ' Aiax dragen Sijn seeven dubbelt schilt van ossen huijden groff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.120	Dien nacht , dien nacht , bracht icker d ' overwinning off !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.121	Doen wan ick Troia , als ick Troien maeckte winlijck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.122	Aiax , siet niet op Diomedes dus onminlijck Vast met u weesen stuers en spreecken binnen ' smonts .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.123	Hij heeft sijn deel aen d ' eer , wij maeckent onder ons .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.124	Als ghij ( u hoochste roem ) de schepen ginckt beschermen , Al den gemeenen hoop sachmen rontom u swermen , Verselschapt van het volck , en waerdij niet alleen , U hulp het ganse heijr , en mij niet meer dan een , Welcke , ten waer hij wist en hielde dat een vechter Min dan een wijs man is en ongelijck veel slechter , Hij soud ' oock selven nae de waepens taelen gaen .	Emotion_Hope
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.125	Den anderen Aiax soud ' daer vrijlijck oock nae staen , Die bet gematicht is .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.126	Eurypylus den cloecken En oock Andromons soon soude dees eere soecken , Idomeneus en voorts Meriones te loon Soud ' dees begeeren , en Plisthenes iongste soon .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.127	Dees' machmen immers wel in crachten u gelijcken !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.128	Nochtans sij willen mij int raden gaeren wijcken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.129	Tot vechten isse goet , ick kent , u rechter hant , Doch moet gematicht sijn van ons u rou verstant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.130	Cracht hebdij sonder geest , ick sorg voort t ' geen mach gebueren , Ghij eijscht te vechten , mij de veltheer leijt te vueren Tijt en gelegenthaijt , en nae mijn raeden doet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.131	Ghij sijt van lichaem sterck , en ick bent van gemoet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.132	So veel een stuerman wijs de roeijers gaet te booven , So veel men moet een hooft boven sijn crijsluij looven , So veel moet , Aiax , ick sijn boven u geacht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.133	En heb ick goet verstant , k ' en heb geen minder cracht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.134	Danckbaer van mijn verdienst wilt , Princen , u verclaren Voor sorge die ick droech de tijt van negen jaren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.135	Jont uwen waecker nu de prijs van dit gevecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.136	Ons arbeijt is opt eijnt , ick heb het al geslecht , Watter was in den wech , Troien heb ick bedorven , Door dien ick middel heb tot diens bederff verworven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.137	Nu bid ' ick u altsaem door ons gemeene hoop En goden , daer ick snachts den vijant mee ontsloop , Doort vallen van de stat , wiens ondergang wij swoeren , En door het geen , dat noch is wijslijck wt te voeren - Isser noch ijet waer in moijt en perijckel steect , Soo daer tot Troias val noch eenich ding gebreect - , Daer door bid ' ick u , dat ghij mijnder wilt gedencken , Off wilt ghij mij niet , wilt Pallas de waepens schencken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5994.s.1	So veel als d'eedel ziel t ' lichaem te boven gaet , So veele boven cracht t ' vernuft te loven staet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5994.s.2	Daerom dees Princen u dees hooch geachte prijsen , Ulysses , tot een loff en tot een loon toewijsen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.5995.s.1	Gaen in de heeren met Ulysses .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.6001.s.1	Aiax tastende aent swaert ; doorsteeckt sijn selven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6022.s.1	Nu , dit is seecker t ' mijn , off eijscht Ulysses t ' mee ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6022.s.2	Tegens mijn selven sal ickt bruijcken hier ter stee .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6022.s.3	Dat dicwijls nat geweest vant bloet is der Troianen , Sal in sijns meesters borst de wech na t ' herte banen En druijpen van sijn bloet , op dat koem aen den dach , Dat niemant Aiax dan Aiax verwinnen mach .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.6026.s.1	2 Soldaten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.6028.s.1	1ste Soldaet	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6047.s.1	Beweechlijck ongeluck !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6047.s.2	laijt Aiax hier verslagen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6047.s.3	Wat droeve tijding sal ick nu de griecken dragen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6047.s.4	Op mijne schouders wil ickt doode lichaem laen , En daer mee bij sijn bloet en naeste vrienden gaen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6047.s.5	Die sij int leeven van sijn eer hebben versteecken , Sullen de griecken nae sijn doot noch wel om smeecken .	EmotionalAction_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.stage.6050.s.1	Chooren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.6050.s.2	A.B.	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.1	Choor A 1 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.2	Wie oijt ter werrelt voort gebrocht Heeft in sijn leeven rust gesocht ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.3	Noch hier en leeft geen sterfflijck mens , Off hij tracht nae een seecker wens , En waent , dat diens volkoming soet Soud ' schencken rust aen sijn gemoet .	Aquiescence_Emotion_BodyPart
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.4	B 2 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.5	Sulck vintmen , die voor seecker hout , Dat hij besit het sorchlijck gout , Het welck men wt de Mijnen graeft , Waerom Peru den Spangiaert slaeft , Op dat 't hem gans bevrijen sou Van ongerusthaijts wreede rou .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.6	A 3 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.7	De Spangiaert met godloos gewelt Peru , met sorch sich selven quelt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.8	Der Indianen erffgenaem Vant gout en van de sorch te saem In vrees van so veel wreethaijt leeft , Als hij omt gout bedreven heeft .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.9	B 4 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.10	Maer de geltgier en merct dit niet , Die ander achterdencken vliet En bant vant hert de rust gewis , Die soeckend ' daerse niet en is , A 5 .	Aquiescence_Emotion_BodyPart
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.11	Vergeet de goden altegaer , En knielt voor anders geen outaer Dan voort Geval , berooft van reên , En brengt ten offer al het geen Dat hij den andren eerst ontrect , Ter plaetsen daert geen duecht en strect .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.12	B 6 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.13	In dees Godin woont reeden niet ; Noch siet wie haer eere aenbiet ; Stroijt sotte gaven in de wint , Niet wetend ' selve wiese vint ; Gaet siet dan off beschaijdenhaijt In een sinloose vrouwe leijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.14	A 7 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.15	Dan , soot Geval , niet door sijn beên , Maer door haer sotte macht alleen , Hem leijt ter trap eerst voorgestelt , En hoopt sijn kisten op met gelt , De welck wanneer vol souden sijn , Hij waende , dat sijn onrusts pijn Soud ' vlien wt het begeerich hert , Bedrogen , voelt een niewe smert .	Emotion_Greed_BodyPart_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.16	B 8 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.17	Verlaet hij schoon het snoot gewin , Hij beelt sich selff wat anders in , En gh ' lijck als van te vooren acht , Vercreech hij t ' geen , daer hij nae tracht , Dat voor gewis t ghewenschste goet Te vreên sou ' stellen sijn gemoet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.18	A 9 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.19	Wert staech als eerst bedroogen groff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.20	Een ander bout den min een hoff In d ' ogen van een schoone vrou , En maect een wellust van sijn rou , Roept d ' altelichte Venus aen , En waent , geen goethaijt cond ' bestaen , B 10 .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.21	Ten waer door d ' eijgenschap van haer , In welck als wechgenomen waer Den gans onnoemelijcken strael , Die haer eer doet achten altemael , En ons inbeelt door sijnen cracht Haer groothaijt , waerom datmens ' acht , A 11 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.22	Versmaen wij souden haer geboôn , En achten ons ons eijgen goôn ; So meest dan t ' geen , dat godhaijt sticht , In de Godin van Cypers licht ; Te recht wert sij oock meest geviert In t ' geen sij meest op aerden ciert .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.23	B 12 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.24	De Min gelijck t ' geval is blint , So datmen niet met voorsicht wint .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.25	Dan , so de Minnaer onverdacht Vercrijcht sijn wellust onverwacht , Terstond hij lichtlijck die beweent Als cleender die hij hadt gemeent .	Emotion_Greed_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.26	Den aert bekennend ' van de Min , Crijcht hij ijet anders in sijn sin. A 13 .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.27	De grootste luijden opter Aerd ' Haer siel noijt hebben reijn bewaert Van de begeert naer eer en staet ; Niet dunct haer voor het heerschen gaet , En achten t ' alderhoochste goet , Dat haer een hope kindren groet , En het crijsvollick dicht omringt , Daer sorghe licht voor henen dringt , Die meest in Saelen hooch onthout , Met Jasp en Marber opgebout ; B 14 .	Worry_Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.28	Dat meenich eelman voor haer rij , Met knechts gecleet in turcxse sij , Die stijff vant gout en perlen craect , Dat nijt en smaet sijn meester maect ; En datmen voor haer eere beeft Aldaer de Son sijn opgang heeft , En met een schrick haer naem verhaelt Ter plaetse daer de Sonne daelt ; Ons Aerden creijts in stucken berst Van haeren roem , te nau geperst , Om t ' volck met angste te belaen , Die tegens onse voeten gaen ; A 15 .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.29	Dat nae haer doot en laetste wr Haer name leeff en eewich duir , En sonder enich haer genot Verwondert wert vant vollick sot .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.30	B 16 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.31	Loopt hier om over berch en zee , Voert dondrich schut en blixem mee , Coopt t ' ijdel vollixs lichte gunst , Soect met bedriegerij en cunst 't Verdrucken van u meed'gesel , Tot dat u weer een ander vel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.32	A 17 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.33	Betrout op de Jonst als de wijnt , Die u u Prins te draegen schijnt , Speelt met Venijn en soect sijn staet , Op dat een ander u verraedt , Off ghij een eynd ' neempt schandelijck Sonder te komen aen het rijck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.34	B 18 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.35	Maer off u wel geluckte schoon , En veijlich ghij besadt de croon , De gantsche werrelt volcht daer aen , Die soud ' noch te begeeren staen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.36	Den iongen grieck maeckten geclach , Wanneer hijt al gedwongen sach , Omdat hij niet genaecken mocht De werrelden , die , naer hem docht , In groot getal noch waeren vrij , En plagen die met slavernij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.37	A 19 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.38	Begeert van t ' geen , dat nergens was , Volchden begeerts volcoming ras .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.39	Waer soud ' hij soecken ruste soet Socht hijse niet in sijn gemoedt ?	BodyPart
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.40	B 20 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.41	De Mensch kan meer begeeren dan Hij immermeer verwerven kan .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.42	‘ Die staech op sijn begeerten acht , ‘ Van diens volcoming rust verwacht , ‘ Vercrijcht de ruste nummermeer , ‘ Begeerte blijft altijt sijn heer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.43	A 21 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.44	Des ghij , ô Prins die hier op let , t ' Onnodich wt u sinnen set , De Rust leijt in u selven , siet , Sterfft u begeert , so derffdij niet .	Fear_Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.stage.6420.s.1	Finis .	None
+hoof001achi01_01.TEI.2.text.body.div.div.p.6421.s.1	Verandren Candt .	None

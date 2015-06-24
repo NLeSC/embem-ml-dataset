@@ -1,0 +1,1408 @@
+pels001verw02_01.TEI.2.text.body.div.head.200.s.1	De verwaande Hollandsche Franschman .	None
+pels001verw02_01.TEI.2.text.body.div.head.200.s.2	Blyspel .	None
+pels001verw02_01.TEI.2.text.body.div.head.201.s.1	Eerste bedryf .	None
+pels001verw02_01.TEI.2.text.body.div.head.202.s.1	Eerste tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.stage.207.s.1	Michiel uit het huis van Stoffel , Reinhart , uit het huis van Kristine , na malkanderen uit ziende .	Joy_Emotion_EmotionalAction
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.209.s.1	Michiel .	None
+pels001verw02_01.TEI.2.text.body.div.sp.212.s.1	MYn Heer , een brief .	None
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.214.s.1	Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.sp.216.s.1	Dat's goed , wat ben ik in verlangen !	None
+pels001verw02_01.TEI.2.text.body.div.sp.220.s.1	Ze is van myn Heer .	None
+pels001verw02_01.TEI.2.text.body.div.sp.224.s.1	Ik zie 't .	None
+pels001verw02_01.TEI.2.text.body.div.sp.224.s.2	Wanneer hebt gy ze ontfangen ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.231.s.1	't Was gister avond by half tienen , en , ik zócht U overal daar ik den wilden Franschman dócht Te vinden , zelf in al de huizen daar men t'zaamen Va tutti speelt .	None
+pels001verw02_01.TEI.2.text.body.div.sp.244.s.1	Michiel , 't was u een kunst te raamen Waar wy geweest zyn ; dóch naar 't schryven van uw Heer , Moet hy hier uit den Haag voor elven zyn , óf eer .	None
+pels001verw02_01.TEI.2.text.body.div.sp.244.s.2	Verzuim niet in deez ' buurt zyn aankomst te verbeiden , En hem terstond in 't huis van Stoffel te geleiden , Dat ik exprés voor hem gehuurd heb ; hier zal hy Door de bedekte deur , gemakkelyk en vry Met zyn Konstantia zich kunnen onderhouwen , En geeven aan haar Moei , óf Neef geen misvertrouwen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.248.s.1	Myn Heer is u verplicht .	None
+pels001verw02_01.TEI.2.text.body.div.sp.253.s.1	Maar 'k wacht François ; dies gaa , Roep Stoffel aanstonds hier met Jakomyn , maar dra .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.254.s.1	Tweede tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.256.s.1	Stoffel , Reinhart , Michiel , Jakomyn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.258.s.1	Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.260.s.1	HEer Reinhart , wel wat nieuws hebt ge ' uit deez ' brief geleezen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.269.s.1	Heer Eelhart , Stoffel , zal hier deezen mórgen weezen ; Daarom is 't noodig dat gy hier gestadig blyft Omtrent de deur : want ik verwacht hem , zo hy schryft , Voor ellef uuren , en het is niet vér van tienen , Pas op , ontfang hem wel ; 'k zal hem met yver dienen By zyn Meestrés , doe my voort van zyn komst de weet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.273.s.1	Ik zal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.285.s.1	Gy , Jakomyn , hou je terstond gereed .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.285.s.2	Zo gy de konst hebt om een lósból te verrassen ; Zal 't nu de tyd zyn om ter deegen op te passen , Ik heb François reeds veel van jou bevalligheid , Van jou luy Adel , en verdiensten uitgeleid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.285.s.3	De gek is heel verliefd , hy kwam met my beneden , Om daat'lyk uit te gaan .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.285.s.4	Zyt stemmig in uw reeden , Maakt dat ' er niets aan u óf aan den opschik faalt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.285.s.5	Maar is al 't huisraad van d'uitdraagster reeds gehaald ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.288.s.1	Jakomyn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.291.s.1	't Is alles reed ; en dus heb ik me laaten kappen , Zal 't wel staan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.296.s.1	Treff'lyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.296.s.2	Kanje nu verstandig klappen , Zo is hy in het nét .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.301.s.1	Maar 't kleed is my wat klein .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.301.s.2	Hoe schikt dat voor Mevrouw van Swalgenbittelstein ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.310.s.1	Heel schoon voor een Moffin , voornaam'lyk nu zyn zinnen In jou niets meerder als jou schat , en staat beminnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.310.s.2	Maak gy slechts aan de deur te staan dat hy je groet , En vrindelyk van jou wordt toegelonkt , hy moet Straks uit gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.310.s.3	Zo wy deez ' gelegenheid verzuimen Van zyn verliefdheid , ligt krygt hy eens and're luimen .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.315.s.1	Wat my belangt , wees vry gerust , 'k geef u myn woord , Dat ik myn ról zo wel zal speelen als 't behoort .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.320.s.1	Maar Stoffel , waar is jou medaalje en gulde keten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.320.s.2	Jy moet je Graaflykheids karakter niet vergeeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.324.s.1	Hier heb ik ze in myn zak .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.332.s.1	Goed , goed , zo zyt ge in all's Wel uitgedost , kom hang de ketting om jouw hals , Jouw Ridderlyke stand moet hy hier door bemerken , Help , zonder tydverzuim , ons opzet voort uitwerken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.332.s.2	Hy komt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.339.s.1	Verzy mihr ich wil euch gebitten haan Gantsch freindlich das ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.343.s.1	't Is tót uw dienst , en gaern gedaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.346.s.1	Derde tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.348.s.1	François , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.350.s.1	François .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.353.s.1	DAar Reintje , hou myn hoed , tené allons mon peigne .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.357.s.1	Daar is hy .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.360.s.1	François , zich kemmende en zingende .	Joy_EmotionalAction
+pels001verw02_01.TEI.2.text.body.div.div.sp.366.s.1	Fillis a mon coeur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.366.s.2	Hola , waar ben je ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.366.s.3	Hoe valt myn juste au corps ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.366.s.4	hoe staan me die rubands ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.370.s.1	Heel wel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.376.s.1	Wat dunkt u van l'epée , en van mes gands ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.380.s.1	't Staat alles ryk'lyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.387.s.1	Ma peruque is die niet zwierig ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.387.s.2	Zy kóst my trante Ecus .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.391.s.1	Myn Heer , gy zyt niet gierig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.398.s.1	't Is niet te veel : 'k heb die van Pierre Poitevyn , Grand Perrukjeer du Roi gekóft .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.403.s.1	Dat kan wel zyn , 't Is schand ' koop .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.409.s.1	Had hy my die minder willen geeven , Ik had die niet begeerd ; maar apropo daar even Heb ik gezien , dat gy met onze buurman spraakt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.416.s.1	'k Vertólkte , op zyn verzoek , een brief die hem wat raakt : En door het opschrift , heb ik , in het breed , geleezen Dat het de zelfde Graaf is , die ik 't dacht te weezen .	Emotion_Moved
+pels001verw02_01.TEI.2.text.body.div.div.sp.420.s.1	Hoe was het opschrift ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.426.s.1	Aan myn Heer Christophoro Van Zwalgenbuttelstein , Graaf van Schirwitsbach ; zo Als hy te Weenen wierdt aan 't Keizers hóf geheeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.428.s.1	Faançois .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.432.s.1	Zo is 't assurement een Comte ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.444.s.1	Wel te weeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.444.s.2	Hy was in groote gunst ten hove , en wel gezien ; Maar ik heb gist'ren uit zyn knecht verstaan , met wien Ik heel gemeenzaam ben , dat hy zyn land , en staaten , Alleen uit inzicht van zyn dóchter had verlaaten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.444.s.3	Wyl zeeker Potentaat hem wilde met gewéld Zyn kind ontschaaken , zo was hy op haar gestéld ; Zo dat hy vlugtte : meer kon my de knécht niet zeggen , Als dat men beezig was de zaaken by te leggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.455.s.1	Mafoi , zy meriteert wat groots , een Potentaat Wou die haar schaaken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.455.s.2	en ze is van zo hoogen Staat , Ja , Reíntje , ja , zy kon een Potentaat behaagen , 't Zal wis de Keizer zyn , ik wil wel Cornes draagen Wanneer ze een Keizer plant .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.455.s.3	De Graaf heeft niet gelét Op 't stuk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.459.s.1	Waarom ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.469.s.1	Om dat een's Konings bloed nooit smét .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.469.s.2	Ah !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.469.s.3	Je vous jure , kon ik haar slechts possideeren L'Amour d'un Empereur zou my niet offenseeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.469.s.4	'k Ben nu wel eens zo zeer als ooit verliefd op haar .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.469.s.5	Men zou ' er zyn fórtuin door maaken ; is 't niet waar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.474.s.1	Wel deeglyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.491.s.1	En France is niet een Duc , of Comte Die niet graag zwager van den Koning was , sans bonte , Hoe meenig is ' er door zyn vrouw óf zuster groot Van staat geworden ; dat ik slechts die eer genoot !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.491.s.2	Maar Reintje , hebje niets tót myn faveur vernomen Van la Comtesse , licht zou myn geluk dus komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.491.s.3	Het werk staat nóch zo wild met ma Couzinez trouw ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.491.s.4	Dat ik met jou hier op my graag beraaden wouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.495.s.1	Waar op ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.505.s.1	Och !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.505.s.2	dorst ik jou myn hart eens openbaaren , 'k Heb un sertein secret dat ik jou zou verklaaren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.505.s.3	Un grand secret , daar myn bonheur van dependeert ; Maar eer ik 't jou ontdek begeer ik dat je zweert .	Emotion_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.509.s.1	Ik zweer nooit , 'k ben Mennist .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.515.s.1	Beloof me dan te zwygen , En dat nooit iemand zal van jou te weeten krygen Het gene ik je vertrouw , al dong men na je hals .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.525.s.1	'k Verzeker n , 'k zal my niet anders houden , als Een eerlyk knecht ; wanneer het my óf myne vrinden Niet schaaden kan , zult gy me altyd getrouw bevinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.525.s.2	Maar 'k raad u , Heer , dat gy my geen geheimnis zegt Van groot belang : want zie , een knecht is maar een knecht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.525.s.3	Die op de trouw van knecht , of meid , niet durft betrouwen , Doet zót , met op hun woord , óf eeden veel te bouwen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.532.s.1	Maar zwyg ik , Reintje , ik raak in grooter ongemak !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.532.s.2	'k Zou zonder uwe hulp en raad , een zwaarder pak My haalen op den hals .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.532.s.3	'k Ben kaal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.534.s.1	Reinhart	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.538.s.1	Is dat wat wonders ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.538.s.2	Gy zyt een Edelman ; kaal zyn is niet bezonders Voor Edellui ; dat 's oud .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.544.s.1	Maar dat 's 't niet altemaal ; Le grand secret is , dat ik kaaler ben als kaal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.548.s.1	'k Verstaat : gy hebt geen geld , en moogelyk veel schulden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.553.s.1	Bien deviné , voor meer , als dertig duizend gulden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.557.s.1	Dat acht gy immers maar een voddery .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.569.s.1	O ja , Dat 's maar een bagatelle .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.569.s.2	Ik vraag ' er weinig na ; Maar zo die beuzeling ma Tante kwam te vooren , Ze is assez foible , om zich daar over te verstooren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.569.s.3	Ja zy zou my haar Nicht wel weigren durven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.569.s.4	Ze is Vry avaricieus .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.576.s.1	Dat 's waar , gy hebt niet mis Geraaden ; maar wat geeft ge om haar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.576.s.2	By la Comtesse Is beter kans .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.602.s.1	Ik heb voor haar ook meer tendresse : Maar 'k moest haar in een maand weg hebben ; langer niet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.602.s.2	'k Heb hier als in Parys intrigues noch crediet , En al myn geld is op .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.602.s.3	'k Heb in die achtien dagen , Die ik uit Vrankryk hier geweest ben , groote slagen Gekreegen met de kaart , en met va tutti , 'k zou 't Wel konnen reeknen ; 'k had drie beursjes vol met goud Toen ik hier kwam ; laat zien , 'k ontfing drie duizend kroonen Van deux Banquiers , genaamd ... ; maar c'et tout un , zy woonen Hoe hiet het dans la rue ... ik hebt vergeeten , maar 't Was zilvergeld , en 'k gaf dat aan een wisselaar Voor goud , a dix pour cent de perte , om licht te konnen Meê neemen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.602.s.4	'k Hou nóch van ecus nóch dukatonnen : Ja 'k twyfel óf ik die voor 't draagen hebben wou .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.602.s.5	Nóch had ik zeventig quadrupels , sus ik zou My wel verzinnen , 't was , laat zien omtrent de tachtig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.606.s.1	Niet als quadrupels , Heer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.639.s.1	Oui ma foi , waarachtig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.639.s.2	Dan noch aan Franse double , en enkle pistolets Met eenig ander goud , dat ik daar naa te Mets Won van een Alleman , die daar zyn beurs moest laaten Minst aan goudguldens , en het meest wel aan dukaaten , Te saamen , naar ik gis , omtrent deux mille ecus .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.639.s.3	Dan noch de toute sorte omtrent de duizend plus Ou moins , die 'k hier en daar van goede vrinden leende , En die ik hen , ma foi , ook weer te geven meende , En nóch meen , zo ik trouw met ma Couzine , óf met Madame la Comtesse .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.639.s.4	Ook heb ik wel gewéd , Dat ik in minder , als trois mois getrouwd zal weezen , En daar is haast een maand van om , dat doet my vreezen Dat myn gajure licht zal zyn gefrikkesseerd : Want ik heb by myn Nicht noch niet geavanseert , En 't geldt cinq cents Louis .	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.639.s.5	Zie Reintje dit 's mon reste , Is daar wel mille ecus ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.644.s.1	Is in dit beursje 't leste Van al uw geld ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.649.s.1	Oui .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.655.s.1	Wel dat maakt weinig uit .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.655.s.2	Waar is het ovrig ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.657.s.1	François	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.672.s.1	Waar zou 't weezen , 't is verbruid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.672.s.2	'k Wil zeggen om de bruid , die Moei my had beschooren , Heb ik uit krevekeur myn meeste geld verlooren , Ik had geen zinnen als ik speelde , en was in 't naauw , Omdat myn Nicht my gantsch geen hoop gaf , en ik gaauw Getrouwd moest zyn , mafoi , 'k ben zonder dat ellendig , Want lukt het Huw'lyk niet , ô Reintje , 'k zalder schendig Aan ryen , vrees ik , zo myn Nicht my niet verlost , Of la Comtesse ; want met de eerste Fransche póst Verwacht ik ma ruine .	Emotion_Hope
+pels001verw02_01.TEI.2.text.body.div.div.sp.672.s.3	Ik durf het kwaalyk zeggen Wat zwaare affaires my niet al op 't hart en leggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.676.s.1	Uw schulden , meent ge ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.680.s.1	Ja myn schulden , Reintje , en dan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.684.s.1	En dan wat meer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.689.s.1	Iets dat ik zo niet zeggen kan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.689.s.2	Daar hoort gy meer , als ooit myn Moei nóch heeft vernomen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.693.s.1	Myn Heer spreek zacht : ik zie haar met uw Nicht daar komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.696.s.1	Vierde tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.698.s.1	Kristine , Meinsje , François , Konstantia , Baske , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.700.s.1	Kristine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.704.s.1	NU , Meinsje , maak dan 't maal omtrent half éénen klaar , 'k Moet naa de noen vyf , zés visites af doen , daar Veel aan gelegen is , gaa in .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.706.s.1	Meinsje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.708.s.1	Dat 's teugens ienen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.713.s.1	Zyt gy daar , mon Couzin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.718.s.1	Ma Tante om u te dienen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.722.s.1	Waar gaat ge ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.727.s.1	Promener un Caffé .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.732.s.1	Mag ik u Wel iets verzoeken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.737.s.1	Waarom niet , par la vertu !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.743.s.1	Gaa dan voor ma Couzine een aardig Aapje koopen , 'k Heb hooren zeggen , dat van alle soort met hoopen Is aangekomen uit Westinjen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.749.s.1	In wat slag Heeft ma Couzine wel de meeste zin ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.751.s.1	Konstantia .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.754.s.1	Ik mag U zo veel moeiten nu niet vergen ; 't is onnoodig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.760.s.1	Geeft gy me dan refus ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.764.s.1	Gy zyt al te overboodig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.779.s.1	Non ma Couzine , die myn diensten refuseert , Dunkt my , pour dire vray , dat my niet estimeert .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.779.s.2	An France was niet één van all ' de Demoizelles Aan 't hóf : want ik stond daar zeer wel avec les belles ; Of ik had dagelyks van de ééne , of de and're emploi Om kanten , waaijers , óf un tour de perle ....	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.779.s.3	Quoi !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.779.s.4	Lacht gy ' er om ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.785.s.1	Wel ja , 't zou haarliên beter voegen , Als u , myns dunkens , zulk een waar naar heur genoegen En zin te koopen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.791.s.1	C'est la mode ; men bestelt Die dingen maar , en heeft die daat'lyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.795.s.1	Voor wiens geld ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.800.s.1	O qu'elle impertinance , een Dame om geld te vraagen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.804.s.1	Die wys van doen zou hier de Juffers niet behaagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.815.s.1	De waereld zou met reden zeggen , dat Men zo veel fraaiheid niet voor niet gekreegen had : Behalven dat , zoude ik daar voor geen Jongman willen Verplicht zyn , als ik 't zelf betaalen kon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.823.s.1	Wat grillen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.823.s.2	De waereld hier te land is wel impertinent : Die kósten zyn door de eer van een commandement Vol op betaald .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.827.s.1	Hier zou men daar de gek mêe scheeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.832.s.1	Ab le maudit païs !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.838.s.1	Ik zou dan weder keeren , Indien ik was als gy , na Vrankryk , Neef , wat doet Gy hier tóch , daar u niets behaaghelyks ontmoet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.846.s.1	Zwyg stil , morveuze , ik kan uw klap niet langer hooren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.846.s.2	't Is schande , foei , daar gy zo édel zyt gebooren , Dat gy niet meerder le beau monde hebt gezien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.850.s.1	Maar hoor eens , Moei .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.857.s.1	Zwyg stil ; zal ik 't nóch eens gebiên ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.857.s.2	Gaa heen maar , mon Couzin , en kunt ge een Aapje krygen Dat fraai is , koop het .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.861.s.1	Moei , ik bid u ...	EmotionalAction_Hope_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.866.s.1	Zult gy zwygen , Of niet ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.872.s.1	Ma Tante , ik ben hier niet bekend , zeg my Waar ik ontrent , dat goed kan vinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.877.s.1	Dichte by De Nieuwe Markt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.882.s.1	Ho !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.882.s.2	ho !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.882.s.3	le marche neuf ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.886.s.1	Sa Baske .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.889.s.1	Baske .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.891.s.1	Madame ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.909.s.1	Kom geef hier myn sluier met myn maske , En ma Couzines coiffe , ik vrees het zal op straat Zeer stuiven , mon Couzyn , het wordt heet weêr : men braadt Schier in de zon .	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.909.s.2	Als gy een Aapje hebt gekreegen , En ons wilt vinden , hoor dan , ecoutez , 'k zal tegen Half twaalven weezen tót myn Fransche Kraamer , óf Myn Goudsmit , óf de Kantverkoopster in het hóf Van Brussel , óf wel tot myn Franje-óf Spiegelkooper ; Ik heb wel acht , óf tien boodschappen ; maar ik hoop ' er Deeze ochtend wel de helft óf meerder af te doen , 'k Heb ook wel vyf óf zes vizites na den noen Te geeven , mon Couzin , dus , wilt gy met ons eeten , Moest gy voor éénen t'huis te komen , niet vergeeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.914.s.1	'k Zal tot Montagne , óf in 't Heere Logement Dineeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.919.s.1	Vindt ge ons niet , maak , datge 't Aapje zendt Tót onzent .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.926.s.1	'k Zal het zo bestellen gaan , ma Tante Je suis vot serviteur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.930.s.1	Goên dag Neef .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.935.s.1	Vot servante .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.939.s.1	Wat zót geneig is dat !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.944.s.1	Ik kan 't niet beter , Neef .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.944.s.2	Dan ik 't geleerd heb .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.948.s.1	Maar 't is niet galand .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.954.s.1	Ik geef Daar weinig om .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.961.s.1	't Is al te enorm .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.961.s.2	By wat kanaalje Heeft zy geconverfeerd , ma Tante ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.961.s.3	ze is van taalje Niet vreemd ; maar zy heeft air , nóch port , nóch mines .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.967.s.1	'k Gis , Dat zy zo kwaalyk opgebragt in Zéland is , Hoewel zy lang in een Fransch kóstschool heeft gelégen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.977.s.1	Naar 'k merk , Neef , doe ik niets naar uwen zin ter deegen , Waarom lelt gy my dan geduurig aan het hoofd , Hoe Moei graag zien zou , dat ik waar aan u verloofd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.977.s.2	Gy zegt , dat gy my mint , en 't zy ik zit , óf wandel , Of eet óf drink , óf werk , gy hebt op al myn handel Zo veel te zeggen , en toont my zo groot een blyk Van weerzin , dat gy ...	Emotion_Other_Disgust
+pels001verw02_01.TEI.2.text.body.div.div.sp.983.s.1	Mon Couzin heeft groot gelyk , Uw doen heeft al te veel de la methode basse .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.989.s.1	Ik zeg 't pour vótre bonneur , het heeft mauvaise grace .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.993.s.1	Gaa vry dan élders .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1000.s.1	Zwyg ; gy wordt te zeer vereerd , Dat zulk een Cavaljier u kleuter pretendeert .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1000.s.2	Maar , mon Couzin , ik zou myn tyd hier wel verklappen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1000.s.3	Kom Nicht , wy zullen nu wat rasser moeten stappen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1005.s.1	Adieu ma Tante .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1018.s.1	Mais , ma Niéce , al weer zo styf ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1018.s.2	Zo nóch wat laager , en wat rechter op uw lyf .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1018.s.3	Zy moet nóg in den Haag 't salét wat frequenteeren , ( Adieu ) Daar zal ze nóch l'air van het hóf wel leeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1018.s.4	Kom Baske , vólgme ; en gy Couzin , als 't is gezeid , Breng ons van 't Aapje op de ééne of de andre plaats bescheid .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.1020.s.1	Vyfde tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1022.s.1	Reinhart , François .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1026.s.1	WAt heeft uw Moei het drok !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1060.s.1	Dus brengt ze ' er in estime By gens d'honneur , mon drole , oh !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1060.s.2	ce seroit un crime Voor iemand , als hy een vizite ontfangen heeft , Zo hy incontinant die niet weêrom en geeft , Le plus heau passetan , dat iemand weet te vinden Is toujours etre a la presance van zyn vrinden , Niets gaat ' er voor 't falét , daar haalt men op hoe dat Aan deeze haar coiffure , aan die haar juppe zat , Daar discoureert men van la cour , en van la mode Op een galante , én admirable methode ; Et pour la Renommée , om eenen grooter naam Te krygen , is geen ding ter waereld zo bek waam Dan zich te vinden van boutique tot boutique , 'k Verzeker u , Ma tante antand la Politique , Door paradoxe .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1060.s.3	Maar zeg me eens hoe dat het staat Met la Comtesse ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1060.s.4	óf hebt gy met haar meid geen praat Van my gehad ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1071.s.1	Ja tóch , ze schept een groot behaagen In uwe mines , en in al wat ze u ziet draagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1071.s.2	Gaat gy voorby haar deur , zy oogt u naa , en weet Hoe dat gy gist'ren , hoe ge eergisteren waart gekleed ; Ja 'k zwyg van kleed'ren ; niet een lintje , strik , of véter Is aan uw lichchaam , óf , myn Heer , zy weet het beter Dan ik , ja dan gy zelf .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1080.s.1	C'est d'etre bien nouri , Oh !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1080.s.2	wat verscheelt zy veel by ma Couzine , die My naauw eens aanziet , schoon ik alle dag verander Van kleed'ren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1087.s.1	Wel is 't waar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1087.s.2	gy voegt niet by malkander , En daarom vat ik niet , hoe gy haar vryen moogt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1087.s.3	't Is vreemd , dat zo een Heer , als gy , niet hooger poogt Te zien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1092.s.1	C'est politique .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1098.s.1	O ! 'k merk 't , om niet te doolen , Houdt gy in 't vryen met uw Nicht een open molen , Ligt met een gieuw gaauw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1104.s.1	Net geraaden , Reintje ; 'k zweer Had ik maar slechts akcés by la Comtesse ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1111.s.1	Heer 't Heeft haar verwonderd , dat gy 't reeds niet hebt genomen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1111.s.2	Haar dunkt gy moest haar in de buurt verwellekomen , Zy maakt meer werks van u , als gy van haar doet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1123.s.1	Bon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1123.s.2	Dat vat ik Reintje , én 'k zal die belle occasion Waarneemen : zie terwyl wat meerder circonstances Te weeten , en lét wél op all ' haar contenances , Als ik haar groet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1128.s.1	Dan is 't nu tvd : ik zie haar veur , 't En zy ik mis , met haar Staatjuffer aan de deur .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.1131.s.1	Zesde tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1133.s.1	Jakomyn , Pleuntje , Reinhart , François .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1144.s.1	GE Apollonichen / hool by den zilvren smitsen Den zilvren blaasbalg / om dats feuwer aan 't zo hitzen : Und zaagt im / hy moeft oech da zilvren kamerpot Gans bald vergulden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.1146.s.1	Pleuntje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1149.s.1	'k Denk de pispót , mienje tót De zilversmit ; zel ik die mit de blaesbalg haalen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1154.s.1	Ja freilich / ich wil him straks mit vaar geld betsaalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1158.s.1	Waar wachtje na ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1162.s.1	Ik stel my in postuur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1166.s.1	Is 't gang ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1171.s.1	Ja , let op alles wel , en wacht me t'huys zo lang , Tot ik weerom kom .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.1174.s.1	Reinhart , terwyl François in 't voor by gaan diep groet , en Jakomyn laag neigt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1177.s.1	Dat gaat treft'lyk wel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1177.s.2	Wy moeten Den gek voort helpen , 't zal wel gaan , ik zie 't aan 't groeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.1179.s.1	Zevende tooneel	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1181.s.1	Jakomyn , Reinhart , Stoffel , Pleuntje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1185.s.1	HEer Reinhart , heb ik 't naar uw zin gemaakt ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1194.s.1	Maar lyk ik in dit kleed niet wel een totebél ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1198.s.1	Neen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1198.s.2	Hoe ge ook zyn moogt , gy behaagt den gék byzonder .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1202.s.1	Maar myn gemaakt Hoogduits wou dat wel lukken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1209.s.1	Wonder : Hy kan alleen de Fransche , en Nederduitsche taal , Doch beide slechts genoeg , gelyk meest altemaal De jonge liên .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1213.s.1	Hoe zal hy eind'lyk by my raaken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1221.s.1	Dat meen ik deeze naa de middag nóch te maaken , Zyt maar gestadig aan de deur , ik heb het al Heel vér gebragt , hy is na jou gelyk als mal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1221.s.2	Ik heb hem met een hoop vergulde opsnyeryen Veel wys gemaakt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1221.s.3	Hy wil met alle kracht jou vryen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1227.s.1	Maar alles , wat ik hem ontfutslen kan , myn Heer , Zal ik 't niet houden ? 't zou my spyten als ik 't weêr Moest geeven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1231.s.1	Met fatzoen wel scheeren , maar niet villen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1235.s.1	Wel dat versteit zich : Maar zal hy wel speelen willen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1240.s.1	Daar is hy dól na ; doch 'k verbied u op den hals Niet valsch te speelen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1245.s.1	Neen , half zuiver , en half valsch .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1245.s.2	Van vrouwen wordt dat nou zo kwaalyk niet genomen .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.1248.s.1	Achtste tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1250.s.1	Reinhart , Eelhart , Jakomyn , Stoffel , Kornelis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1255.s.1	Maar ik zie daar myn vriend , zyt vriend'lyk wel gekomen , Heer Eelhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.1257.s.1	Eelhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1260.s.1	Hartlyk dank , 'k zou u in dit gewaad Ligt zyn voorby gegaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1267.s.1	Ik bid u maakt op straat Geen seremonien , nóch komplimenten , daad'lyk Of flus kan 't met gemak geschieden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1267.s.2	't Zou zeer schaadlyk Zyn voor uwe liefde .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1267.s.3	Ik ben Lakei om uwent wil .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1271.s.1	'k Heb u Maseur beloofd , gelukt uw list .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1277.s.1	Spreek stil , Myn Heer , gy zoudtheel ligt het spél verbródden konnen , Dat ik zo tref'lyk tót uw voordeel heb begonnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1281.s.1	Verschoon my dan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1286.s.1	'k Verzoek om best wil , handel my Gelyk als knecht , óf 'k blyf geen oogenblik u by ,	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1292.s.1	Wel dan , blyf hier , ik zal my naar uw voorschrift richten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1292.s.2	Maar dien ik aan deez ' Heer en Dame myne plichten Niet af te leggen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1296.s.1	Neen : daar is geen haast by , wacht ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1301.s.1	Mevrouw ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1307.s.1	Verschoon my , want Heer Reinhart met ons lacht : Ik ben zyn dienaarés en de uwe , ik zou hovaerdig Op zo veel eer zyn , ons , en onzer staat onwaerdig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1313.s.1	Myn Heer , het gaat nu in de waereld heel verkeerd ; Gelyk myn Heer is in lakei getransformeerd , Zo maakt men my tót Graaf , en tót Gravin myn dóchter .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1317.s.1	Hoe kan ik dit verstaan , Heer Reinhart !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1327.s.1	Ik verzóchter Hen beiden toe ; gy zult de reden straks verstaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1327.s.2	Daar woonenze in dat huis , myn Heer , gy zult ' er gaen Logeeren , én al 't vólk met volle macht gebieden ; Al schynen 't groote , het zyn maar gemeene lieden , Heer Eelhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1327.s.3	Jakomyn , en Stoffel ik begeer , Dat gy myn vriend , als my zult hand'len .	Emotion_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.1331.s.1	Wel , myn Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1336.s.1	Nu kom , uw blyven zal de tyd hier niet verléngen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1336.s.2	Treê in myn Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.1338.s.1	Kornelis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1340.s.1	'k Zal uw valies dan hier doen brengen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1345.s.1	Waar anders ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1345.s.2	Maar blyft al te saam by één , misschien Is 't noodig dat men zich van de één of de ander dien .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1347.s.1	Einde van het Eerste Bedryf .	None
+pels001verw02_01.TEI.2.text.body.div.head.1351.s.1	Tweede bedryf .	None
+pels001verw02_01.TEI.2.text.body.div.stage.1355.s.1	François , Aapekoopster , met een Baviaan op den arm .	None
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.1358.s.1	François , zingende .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1368.s.1	AImable Bergere , quand tromperons nous La garde severe d'un mary jaloux .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1368.s.2	Quand tromperons nous La garde , c. Hier zyn we aan 't huis , klóp aan .	None
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.1370.s.1	Aapekoopster .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1372.s.1	Maar wie zal my betaalen ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.1376.s.1	Ik ; breng 't Aapje maar in huis , en kom jou geld hier haalen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1381.s.1	Dat ik van niemand zou boodschappen , het gien schyn , Sinjeur .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1396.s.1	Zeg dat het komt van Monsieur son Couzin .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1396.s.2	Zingende : S'il est desbonneste , il est du devoir , De lui mettre en teste , ce quil croit avoir Il est du devoir De lui mettre c.	Joy_EmotionalAction
+pels001verw02_01.TEI.2.text.body.div.div.stage.1399.s.1	Aapekoopster , Reinhart , François .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1403.s.1	DAg vrindschap , daer neem an .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1407.s.1	Hoe hier deeze Aap ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1413.s.1	Gien vreezen , Neem an , Monsieur Kezyn zait , dat ik hier moet weezen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1420.s.1	Hem , Reintje !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1420.s.2	aproche toi , laat haar slechts binnen gaan , By ma Couzine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1424.s.1	Met dien grooten Baviaan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1432.s.1	Oui da : 't is een présent dat ik haar moet vereeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1432.s.2	't Geschied par ordre van ma Tante .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1438.s.1	't Lykt wel scheeren , Maar daar is Meinsje , ei breng tóch deeze vrouw eens by Mejuffrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1449.s.1	WEl hoe staat het nu met myn gevry By la Comtesse en ma Couzine ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1456.s.1	'k Heb vernomen Van de Graavin haar knecht wanneer gy daar zult komen , Dat gy zult welkom zyn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1456.s.2	Zy vondt in uw manier Van saluëeren een zeer ongemeenen zwier .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1463.s.1	Voi la mon drole !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1463.s.2	ce que c'est te konnen leeven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1463.s.3	En ma Couzine ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1468.s.1	Die is ongevoelig , even Gelyk een blók óf steen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1477.s.1	La sotte bête !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1477.s.2	ik zweer , Kan ik by la Comtesse aanraaken , nimmermeer Aan haar te denken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1482.s.1	Gy zult wel doen , laat ze loopen , Gy moogt met meerder grond op uw Comtesse hoopen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1487.s.1	Maar zo dat miste , Reintje , ik was desesperé .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1491.s.1	Bemintge uw Nicht dan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1496.s.1	Niet als par necessité .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1501.s.1	Die reden dientge my wat klaarder uit te leggen , Zal ik ze vatten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1515.s.1	'k Heb ze al lang u willen zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1515.s.2	Hoe Reintje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1515.s.3	zoude ik par amour haar vryen , quoi , Een Zeeuws óf Hollandsch kind ik minnen , non , ma foi , Van geen noblesse , en die het Hof nooit frequenteerde ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1515.s.4	Neen , Reintje , dat ik met myn aanzoek haar vereerde , Geschiedde uit inzicht : want ik was au desespoir !	Emotion_Despair
+pels001verw02_01.TEI.2.text.body.div.div.sp.1519.s.1	't Was dan uit plicht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1524.s.1	Neen , nóch uit liefde , nóch deveir .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.stage.1528.s.1	François , Aapekoopster , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1536.s.1	MAar de Aapekoopster zie 'k daar weer ten huize uit komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1536.s.2	Heeft ma Couzine myn presént niet aangenomen De bonne grace ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1542.s.1	Kyk , ik ken gien Spaensch , 'k verstae Niet watje zeggen wilt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1542.s.2	Monsieur , waer vraagje nae ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1549.s.1	Zeg jy 't haar , Reintje , ik kan me in uw vilain langage Niet exprimeeren : 't Is te kanaaljeus ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1549.s.2	j ' Enrage !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1554.s.1	Myn Heer vraagt , hoe zyn Nicht het Aapje ontfaugen heeft , Hoe 't haar behaagde ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1554.s.2	Hoe ze ' er hield ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1565.s.1	Wel onbeleefd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1565.s.2	Ik zei ér ; O hoe het Monsieur Kezyn ' eloopen Straet op , straet neêr , om jou dit mooije biest te koopen , Dat hy jou schenkt !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1565.s.3	Het jou Monsieur Kezyn niet lief , 'k Verstae 't me dan niet ; maar ze trok ' er mond hiel schief En scheets : me dócht ze scheen het biest niet mooi te vinden , Ze hieten 't me an een stoel , óf zo maar , vast te binden , En zei , gae heen , 't is wel .	Suspicion_BodyPart_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.1572.s.1	Maar gaf zy 't par bazard , Door dien het kwam van my niet cens een douz regard .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1577.s.1	De gard aan 't biest , Monsieur Kezyn !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1577.s.2	wie het zen leeven !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1577.s.3	Het biest zou byten , vaar , zo zy 't de gard wou geeven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1585.s.1	Dat zeg ik niet , morbleu !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1585.s.2	Het volk is hier , ma foi Zo bot , als beesten : Reintje , ik bid explique moi .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1590.s.1	Zég óf ze om zynent wil zyn Aap met vriend'lyke oogen Niet eensjes aanzag ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1598.s.1	Zeide ik dat , vaar , 't was een loogen , Het leek ' er niet iens nae .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1598.s.2	Zy moet gien groot verstand Van Aapen hebben : want ik weet ' er in het land Gien mooijer ; maar beliefje nou myn geld te langen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1604.s.1	Zie deeze pistolet kunjy op handontfangen ; Indien ik de Aap niet hou , zult jy die houden ; maar Houd ik hem , moetje ' er nóch agt hebben , is 't niet waar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1608.s.1	Maar wat tyd kom ik weer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1608.s.2	kyk 't moest niet hiel lang duuren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1614.s.1	Elle a raizon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1614.s.2	Kom jy hier over drie vier uuren Weerom , verstaaje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1618.s.1	'k Gae dan heen , Monsieur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1618.s.2	Gendag .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1636.s.1	QUe diantre , wat of ma Couzine schorten mag , Dat zy niet estimeert presens , galanterie , Service , wat ik doe , óf aanvang par la vie , Ik zweer je dat ik haar licht ook eens toonen zal Wie zy offences geeft .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1636.s.2	Hoe Reintje , ik ben niet mal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1647.s.1	Wat voordeel vindtge in zulk een stuurse Nicht te vryen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1647.s.2	'k Verwonder my , dat ge u aan zulke ondankb're pryen Nóch laat gelégen zyn .	Emotion_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.1647.s.3	Gy mint haar niet , nóchtans Past gy haar op ; daar gy misschien een beter kans Verwaarloost .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1647.s.4	Iemand , die twee haazen denkt te jaagen Op éénen tyd , die mist en zal het zich beklaagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1647.s.5	Geef u geheel aan de Graavin , en laat uw Nicht Maar loopen : want gy vrydtze uit liefde nóch uit plicht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1657.s.1	Maar Reintje , jy geeft my geen meerder esperance Van la Comtesse , als van myn stuurse Nicht Konstance , En niemand weet zo wel als gy , in welk parkét Ik steek ; dat ik word van myn schuldenaars geréd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1667.s.1	Wel hoor : wat aanbelangt uw schulden , 'k weet te maaken Dat gy gemak'lyk aan wat uitstel zult geraaken , Tót dat een ryke vrouw u brengt een volle beurs , Als gy op 't trouwen staat .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1667.s.2	De meeste crediteurs Zyn zo te paaijen en te dwingen tót het zwygen , Om u weêr op een nieuw crediet te doen verkrygen , Opdat alzo hun schuld te meer verzekerd zy .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1675.s.1	Wistje al myn crediteurs , 'k weet , Reintje , je zoudt my Beklaagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1675.s.2	'k Heb ' er vyf óf zes die van een and're Natuur zyn als gemeene .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1675.s.3	Ab je me laisse pendre , Zo gy die raadt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1696.s.1	Wil ik ze eens raaden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1696.s.2	Cuisiniers , Lingeres , Violons , Tailleurs , Cabaretiers , Marchand de vin , Barbiers , Vendeuze de dantelle , Et plusieurs autres pour bien regaler la belle .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1696.s.3	Dat is te zeggen Koks , Dansmeesters , Rottisseurs , Perruquiers , Limonadiers , Vendeurs de liqueurs .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1696.s.4	Billard , Caffé .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1707.s.1	Al wat je daar komt op te tellen , Ah fi !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1707.s.2	J'enrage , 't zyn slechts kleine bagatellen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1707.s.3	Menus frais de plaisirs , die nimmer crediteur Zo hoog acht dat hy om zo kleinen leur en zeur , Heel uit Parys komt om my hier te komen vinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1711.s.1	Wat weet men 't , licht'lyk heeft één van hen hier wel vrinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1717.s.1	Dat 's vér gezógd en heel onzeker ; maar pardi !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1717.s.2	My legt nóg meer op 't hart , daar ik geen raad toe zie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1721.s.1	Noch meer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1728.s.1	Ja 'k vrees , indien myn vryen wordt vernomen In Vrankryk , dat ' er wel vyf Juffers overkomen , Met negen kinders .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1732.s.1	Om wat oorzaak ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1737.s.1	Om myn trouw Om vér te stooten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1737.s.2	Elk van haar was graag myn vrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1741.s.1	Zo hebt ge ligt aan de één of de ander trouw gegeeven ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1745.s.1	Met woorden honderd maal ; maar nimmer vast beschreeven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1749.s.1	Mag dat zo deur ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1757.s.1	Dat doen de Franschen altemaal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1757.s.2	Denk eens aan 't jaar twee , drie en seventig , hoe kaal Was menig Fransman daar ligt t'Uitrecht afgekomen , Had hy op die wys zyn mesures niet genomen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1757.s.3	Dus ziet gy Reintje , ik heb met trouwen grooten haast .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1762.s.1	Daar komt uw Moei , zy schynt onstéld !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1762.s.2	Reinhart gaat stil in buit .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1766.s.1	François , Kristine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1772.s.1	Hoe dus verbaasd Ma Tante ?	Emotion_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.1777.s.1	Ah mon Neveu !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1782.s.1	Wat is u wedervaaren , Wat schort ' er ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1787.s.1	O die Aap !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1787.s.2	maar laat my eerst bedaaren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1791.s.1	Wat hapert ' er ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1800.s.2	had ik 't niet geëmpescheerd Met moeite , ons waar het grootst malheur gearriveerd Des waerelds .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1800.s.3	Foei !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1800.s.4	waar hebt gy zulk een dier gekreegen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1800.s.5	Foei , mon Neveu !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1805.s.1	Vaar voort , wilt gy dat ik ter dégen Uw meening vat : Wat deed het Aapje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1816.s.1	Le Cocquin , Dien beest , dien vlegel van een Baviaan , Couzin , Heeft ma Couzine , én al haar kleed'ren heel ontheisterd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1816.s.2	Ja wie weet , hadden wy den rékel niet geteisterd , Wat niet gebeurd waar !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1822.s.1	Ei , zeg my tóch heel en al , L'affaire , Ik zweer dat ik my revengeeren zal .	EmotionalAction_Vindictiveness
+pels001verw02_01.TEI.2.text.body.div.div.sp.1828.s.1	Wel hoor dan , weet dat op de eerste aanblik ma Couzine U al zo wel , als de Aap uitlachte .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1833.s.1	La Cocquine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1838.s.1	't Had vry wat reden : want zo groot een Baviaan In plaats van ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1846.s.1	Had gy myn intrigues eerst verstaan , Gy preest my zeer , ma Tante , ô !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1846.s.2	daar schuilt zo wat onder .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1846.s.3	De schoonste inventie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1846.s.4	Maar gy vat die niet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1851.s.1	Wat wonder , Gy zegt die niet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1860.s.1	Ma Tante , ei zég my eerst hoe dat De kwesti , die myn Aap met ma Couzine had , Tóch afliep ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.1	Wel , zy wilde uw Aap schier met haar oogen Niet aanzien , nóch zelf in haar kamer meer gedoogen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.2	Men bondt hem echter aan een paal vast , tót dat gy Zoud komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.3	Ik ging na myn kamer toe , om my Te kleeden , en ik liet myn Nicht haar point d'Espanje Voortwerken ; maar ik had myn Coife en rók met franje , Naauw aangedaan , óf 'k hoorde een schrikkelyke kreet , Die ma Couzine gaf , als deed men haar groot leed .	Fear_Emotion_BodilyProcess_Sadness
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.4	Ik vlieg met Meinsje na haar kamer toe : daar vinden Wy de Aap , die van de paal zich weeten had t'ontbinden , En ma Couzine op 't lyf gesprongen was .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.5	Zo als De schelm ons zag , smyt hy zyn pooten om haar hals , Scheurt haar manchettes en fichu , en haar Coifure , En ging zo schriklyk aan , dat had par aventure , Martyn de Huisknecht ons niet in dat oogenblik Te hulp gekomen met een knuppel , en een strik , En ons ontzét , het was licht euvel afgeloopen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.6	Foei , mon Couzin , zo groot én vuil een beest te koopen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1900.s.1	Ma Tante wel !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1900.s.2	wie had zulks van een Aap gedócht , Die hier in Holland door een Franschman was gebrógt , Dat hy niet beter opgevoed zou zyn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1900.s.3	que diantre , Lui passeray je mon epée par le ventre ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1900.s.4	Daar legt de hoop van myn inventie nu in de asch .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1905.s.1	Ei , zeg tóch , mon Couzin , wat die inventie was ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.1	Gy weet , ma Tante , een knecht , hoe trouw hy ook mag weezen , Is ligt met geld en met belóften te beleezen , En die zo klein is als uw Baske , met bankét Of and're snoepery , hoe naauw men op hem let .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.2	Terwyl wy dan hier door te groot een risque loopen , Dat deeze of geene ligt een lyf knecht om kan koopen , En stellen , ma Couzine , avec een zwier , ter hand Een Minnebrief , van d'één of d'andere galant , Zo dacht ik , 'k zou den Aap , die schier zo groot van leden Als onze Baske is , doen in zyn livry verkleeden , En wyl hy alles als een mensch doet , ja langs straat Op d'achterpooten , nét als op twee beenen gaat , Zou ik hem doen de fleep van ma Couzine draagen ; Ha , ha , let wel , zo kan geen vryer hem iets vraagen , Of met hem spreeken ; en aldus door zulk een gast Zo waaren wy van zórg en alle vrees ontlast .	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.3	Maar dit is 't nóch niet al .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.4	Gy weet dat hier niet anders In 't land gedaan wordt van de botte Nederlanders , Dan 't geen ze ons voor zien doen , wanneer het maar de naam Van mode draagt , hoe dol het zyn mag , hoe infaam ; Als ma Couzine dan van de Aap in Baskes kleeren En plat bonnetje , dat voor mode zou passeeren , Gevolgd wierd ; zou voort al 't gejuffer raazend dol Na aapen zyn : 'k zou dan dat goed met schepen vol , Doen uit Westinjen hier in Hólland overkomen , En winnen zo veel geld als ik zou durv en droomen ; Tien twintig centjes ruim op elk een kargezoen , En hier de koopluy recht negotie leeren doen .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.5	Men mocht in 't eerst , als om wat nieuws , daar meê railjeeten , Maar 'k wed die mode by de Dames zou passeeren : Want zo een stomme knecht zou haar ook niet verraân Als ze eens , incognito by goed gezelschap gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.6	Wat dunkt , ma Tante , van de inventie ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1953.s.1	Z ' is bezonder Galant , en nooit gehoord .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1960.s.1	Maar dat is ook geen wonder : In Vrankryk is het vólk gemeenlyk inventief .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1960.s.2	Maar waar bleef de Aap daar naa , dien onbeschófte dief ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1964.s.1	Ik heb hem op de plaats doen aan de schutting binden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1969.s.1	Laat my begaan , ma Tante , ik zal hem daar wel vinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1978.s.1	Ei maak u 't beest strak kwyt , én stel Constancie weêr Te vreên , én zét haar toorn , is 't mooglyk , wat ter neêr .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.1978.s.2	Myn tyd verloopt : zal ik behoorlyk myne zaaken Beschikken , mon Neveu , dien ik 't wat kort te maaken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1978.s.3	Adieu .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1986.s.1	Ma Tante , indien ma Compagnie u niet Desagreabel was ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1992.s.1	Gaat gy in huis en ziet Wat daar te doen is .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1992.s.2	'k Moet myn Advokaatiets zeggen , En kom zo weêr , ik heb u ook iets voor te leggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1998.s.1	Aan my , ma Tante ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1998.s.2	je suis tout a fait a vous .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.2000.s.1	Zevende tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2008.s.1	NAar't zeggen van ma Tante is Nicht zeer en cour oux .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2012.s.1	Zo hoor ik daar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2016.s.1	Wat raad ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2021.s.1	Ik weet u niet te raaden ; Gy zyt hier wyzer in , als ik .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2027.s.1	Wel 't kan niet schaaden , Dat ik jou meenig hoor : twé weeten meer als één .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2032.s.1	Tracht met onschuldigen en smeeken haar te vreên Te stellen .	EmotionalAction_Desire_Despair
+pels001verw02_01.TEI.2.text.body.div.div.sp.2038.s.1	Maar gy weet , ik kom met haar humeuren Niet over één , al wat ik zeg schynt haar te steuren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2038.s.2	Dat gy het deed ; 'k weet dat ze u liever hoort als my .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2042.s.1	Ik bid ...	EmotionalAction_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.2048.s.1	Ei Reintje die excuses aan een zy , Maak jy de baan eerst klaar ; ei Reintje , je vous prie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2052.s.1	'k Zou u licht hinder doen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2060.s.1	Non point , de cermonie , 'k Hou 't voor een grand service , als gy me slechts gerieft Voor ditmaal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2064.s.1	'k Zal dan doen al wat myn Heer belieft .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2068.s.1	Jakomyn , François , Reinhart , Pleuntje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2075.s.1	NO keer bald wieder / und verges zo nicht den spiegel Mit zynen golden lyst te hoolen van Abiegel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2080.s.1	Daar zie ik la Comtesse .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2085.s.1	Ik zeg noch vólg myn raad , 't Is nu de rechte tyd , eer dat ze binnen gaat .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2090.s.1	Bringt mich mein Paerel auch / und wil mier nicht meer kwellen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2096.s.1	Hoe maak ik myn abord ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2107.s.1	Myn Heer , gy moet het stellen Gelyk als óf het par rencontre kwam , aks kaks , Dat gy verlóf by la Comtesse krygt , om straks De eer van haar aangenaam gezelschap te genieten , 'k Zal 't ondertusschen by uw Nicht zien rond te schieten , Dat ze u wel handelt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2114.s.1	'k Gaa dan vraagen , ja 'k ma foi , Prend garde dat ge u ook wel draagt in uwen plooi .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2119.s.1	Wol / doe das / go .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2123.s.1	Ik kom zo weer .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.2125.s.1	Negende tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2127.s.1	François , Jakomyn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2136.s.1	MAdamoizelle Je préns la liberté , mais avec trop de zélle Peutétre de m'offrir en tout bumilité ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2143.s.1	De Her moes wissen / dat ich kein Fransois verstee / Sprech liever Nederduitsch / was wil de Her mir sagen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2149.s.1	D'avoir l'honneur , zo 't uw Genade mogt behaagen , Van u in uw logis te heeten wellekom .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2154.s.1	Dat is zu grossen eer die mier geschied .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2161.s.1	En om U ook te entretenir , zo 't u te pas mogt komen ; En myn franchise niet wierd kwaalyk opgenomen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2166.s.1	Wat tyd ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2171.s.1	Après un heure .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2176.s.1	Ich kan euch nicht versteen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2180.s.1	Ten vieren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2191.s.1	Ia myn Her / mier wierd grosse eer gescheen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2191.s.2	Ich bin hier onbekant / en mus verschuldigt blyven An die mier de eer doen / das zi mier de tydt verdryven : Te meer / wan 't komt van zulk ein kavaljier .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2199.s.1	L'Honneur Van uw presence acht ik een singulier bonheur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2204.s.1	De Her sprech Duitsch .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2210.s.1	't Is Duitsch van 't zwierigste op de mode , Entrelar dé met Fransch in elke periode .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2215.s.1	Wat ist dat ding ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.1	Wat zal ik zeggen , 't Neerlandsch luidt Enorm , als 't niet met Fransch wat klaarder word beduid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.2	Als par exempel ; 'k Ben uw dienaar Heer , klinkt beestig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.3	Je suis vôt serviteur , Monsieur ; Oh !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.4	dat is geestig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.5	Hoe plat is dit .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.6	Myn Heer , 'k gebied me in uwegunst !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.7	Mais je me recommande à vous , Monsieur , dat 's kunst .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.8	Dat 's aardig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.9	Is het niet inpertinent te zeggen , Helaas !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.10	indien ik u myn hart mogt open leggen , Gy zoud het blaaken zien in eene zuivre vlam , Die uit de vonkjes van uwe oogjes oorsprong nam .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.11	Maar hoor : Si de mon coeur , ik doen mogt ouverture , Gy zond ' er une flamme in vinden toute pure , Alleenlyk gecauseerd door vos petits beaux jeux , Mademoizelle , be ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.12	klinkt dat niet merveilleux ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2250.s.1	Forwaar ich ben verzest	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2256.s.1	Zo doen meest al de vrouwen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2256.s.2	Ik meen ' er tout le soir u mede te onderhouwen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2263.s.1	Was red'ning / und was zeit vertreib ; von ieder was .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2263.s.2	De Her spielt wol pieket /	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2267.s.1	Ik speel 't zeer gaern .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2276.s.1	Das Gefelt wier / ich hab lust funf / zex dozein dukaaten Met euch zu waagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2282.s.1	'k Zal me die zo ligt niet laaten Afwinnen ; of 't moet zyn par courtoisie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2289.s.1	Nein / Das fuegt das Fraulein nicht van Swalgenbuttelstein .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2297.s.1	'k Zie daar myn knecht , met uw verlóf Mademoizeele , Ik moet hem spreeken van een zekere bagatelle Van groot gewigt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2297.s.2	Je suis vôt serviteur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2306.s.1	Ich bin Sein allernedrigste / und verplicchtste Dienarin / Bis uber eine stund .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.2308.s.1	Tiende tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2320.s.1	IK heb uw Nicht beleezen , Dat gy nu taamelyk wel zult ontfangen weezen : Zy wacht u ; maar houw haar niet op .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2320.s.2	Ze is door 't geweld Van de Aap onpasselyk geworden én onsteld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2320.s.3	Maak uwe ontschuldiging wat kort .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2320.s.4	Zy wil wat rusten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2320.s.5	Veel woorden zullen haar voor deeze tyd niet lusten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2327.s.1	Ik heb ook weinig tyd , omdat ik binnen 't uur Moet weezen in het huys van onze nagebuur , By la Comtesse .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2332.s.1	Wel zo hebt gy al begonnen Te vryen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2340.s.1	Oui mon drole , ick acht ze al half gewonnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2340.s.2	La ville parlemente .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2340.s.3	Ik ben zeer wel van haar Onthaald .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2344.s.1	Maak met uw Nicht nu ook uw zaaken klaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2349.s.2	Zo kan my de ééne , of de and're Bruid niet missen , Niet waar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2353.s.1	Voorzeker Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2353.s.2	Hy kost zich wel vergissen .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.2355.s.1	Elfde tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2357.s.1	Reinhart , Pleuntje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2362.s.1	'k ZIe daar de meid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2362.s.2	Ei Pleun , zeg dat Heer Eelhart hier Straks komt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2366.s.1	Heer Eelhart !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2366.s.2	hei , Heer Eelhart !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2371.s.1	Wat getier , Is dat ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2377.s.2	Had de klépel niet gerammeld In deuze klok , wie weet hoe lang hy had gesammeld .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.2379.s.1	Twaalfde tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2381.s.1	Reinhart , Eelhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2391.s.1	HEer Eelhart , Och !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2391.s.2	uw lief Konstance is zo verblyd , Om dat gy hier tót haar ontzét gekomen zyt , Dat ze onverduldig zynde , om u te zien en spreeken In de achter zaal , daar ik de muur heb door doen breeken , U zal bezoeken , door de nieuw gemaakte deur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2391.s.3	Is zy in flót , óf is de grendel daar nóch veur ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2391.s.4	Doe die daar af , én maak de deur van uw kant open .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2396.s.1	Maar vreest ze niet dat zy heel ligt gevaar mogt loopen Dat iemant ons verspiedde , en steurde ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2401.s.1	Ik neem die zórg Op my .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2405.s.1	Ik ben zeer wel gerust op zulk een bórg .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2411.s.1	Zy veinst zich ziek te zyn , en zal haar kamer sluiten Van binnen , opdat daar niet eenen mensch van buiten Zal konnen in zien , nóch inkomen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2416.s.1	Ach !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2416.s.2	myn vriend , Wat loon ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2420.s.1	Uw vriendschap heeft aan my veel meer verdiend !	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2422.s.1	Einde van het Twede Bedryf .	None
+pels001verw02_01.TEI.2.text.body.div.head.2426.s.1	Derde bedryf .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2436.s.1	NU ma Couzine slaapt , hoop ik zo wel te waaken , Dat ik zeer haast met la Comtesse schrap zal raaken .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2444.s.1	Dat kan niet missen , want zy was zo zeer verheugd Om uw bezoek , zo zegt de knécht , dat haar de vreugd Ten oogen uit scheen ; maar hoe staat het dan geschapen Met uwe Nicht ?	Joy_Emotion_BodyPart
+pels001verw02_01.TEI.2.text.body.div.sp.2444.s.2	heeft ze , eer zy zich begaf tót slaapen , U aangehoord ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2454.s.1	En myn excuzes heel civiel Ontfangen ; 'k weet niet dat zy zig ooit beter hiel .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2454.s.2	Haar air was vriend'lyk ; zy kon met meer gratie nygen Als ooit , ik zou wel zin in ma Couzine krygen , Al is zy ziek , zo doux was zy , en zo galand .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2459.s.1	En la Comtesse ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2467.s.1	Die gaat voor , cela s'entend .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2467.s.2	'k Heb evenwel aan u zo groot een obligatie , Dat ge al jou leeven lang zult blyven in myn gracie .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2467.s.3	'k Meen nóch een man van jou te maaken .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2473.s.1	'k Zoude u raân Dat ge eerst dacht aan u zelf .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2473.s.2	Het zal met my wel gaan .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2473.s.3	Ik ben een man , een Heer van 't myne , ik heb geen schulden .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2487.s.1	Dat wilde ik ook wel om een hoed van duizend gulden .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2487.s.2	Maar ik ben Jonker , en ik spruit uit Aad'lyk bloed ; Zie dat verzét geheel de schaarsheid van het goed .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2487.s.3	'k Wed la Comtesse , al wist zy , dat ik niet een stuiver Had in de waereld , kon ik maar myn Adel zuiver Bewyzen , zou veel eer met my een huuwlyk doen Dan met een man , al had hy twee drie millioen , Zo hy niet Aad'lyk was ; dat bloed heeft wat te zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2487.s.4	Dat bloed !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2487.s.5	dat bloed !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2494.s.1	Is dat verschil niet uit te leggen Van 't uwe en 't onze ? 't onze is rood : is 't uwe graauw Of wit , of donker groen , of paersch , of bliksem blaauw ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2494.s.2	Verschoon me , zo 'k u steur óf ophouw met myn praaten .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2509.s.1	'k Heb nóch geen haast ; maar , dat gy dit diskoers woudt laaten , Waar béter .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2509.s.2	Edelliên , als wy zyn , scheppen geen Pleizier , wen gy liên zo profond zoudt willen treên In die misterien , wy verstaan ons met malkander .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2509.s.3	C'est clair pour nous ; al is 't wat duister voor een ander .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2509.s.4	Is 't niet genoeg , als wy een Dame ryk van goed Begooghlen kunnen door de estime voor ons bloed , En tytels ; dat ze om ons alle and're méprizéren , En met ons trouwen ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2513.s.1	Om hun geld te zien verteeren .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2526.s.1	Quand la dépense est belle , en dat men een Lakei Zés , zéven houdt , koetsier , en koets , en dikmaals vry Ballét en baal geeft , ses amis de bonne grace Trakteert ; in de Opera heeft la meilleure place , Un loge , ou deux ....	None
+pels001verw02_01.TEI.2.text.body.div.sp.2530.s.1	Gy rept van geen Comedie ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.1	Comedie .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.2	'k Spuuw wanneer ik een Comedie zie .	EmotionalAction_Disgust
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.3	Oh de Opera is veel meer na de mode Reintje .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.4	Comedie , fi !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.5	ab fi !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.6	daar kóst het maar een kleintje , Een gulden in de bak , een huisje een dukaton .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.7	't Moest zo zyn , dat ' er geen kanaalje komen kon .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.8	Wat dunkt u , als men een depense doet si belle , Die dan zyn geld beklaagt a - t'il de la cervelle ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.9	Men wordt gerenommeerd ; het geeft respekt : elk een Slaat acht op ons .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2553.s.1	'k Bekén 't ; maar 't is hier niet gemeen , Nóch zeer geacht .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2553.s.2	Men zou 't hier geld verspillen heeten .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2553.s.3	Hoe !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2553.s.4	hebtge in Vrankryk , dan uw tyd niet wel versleeten ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.1	'k Heb eens 't geluk gehad in Vrankryk , dat ik in De groote kamer van Mevrouw de Koningin Dix mille ecus verloor .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.2	De Koning admireerde Myn koelheid , omdat ik 't niet meerder estimeerde Dan eene bagatelle .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.3	Ik gaf eens een balét Aan een Marquise , 't geen met violons , bankét , Flambeaux , en anders wel vier duizend kroonen kóste .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.4	Waar voor my la Marquise ook van een pak verlóste , Dat ik een jaar lang had gedraagen op myn hart .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.5	Ha Reintje !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.6	je suis beau , dispóst , galand , gaillard .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.7	Al kóst ze my wat geld , Ah ! 't is een vrouw der vrouwen !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.8	'k Heb drie jaar lang haar heel pompeuslyk onderhouwen ; Zy kóst me ...	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.9	Maar ik zie le Comte , ik spreek hem aan , 'k Wil zonder zyn congé niet by zyn dóchter gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2584.s.1	François , Stoffel , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2596.s.1	IK kan 't niet laaten , óf 'k moet u congratuleeren In uw logis , én u myn diensten prezenteeren : 'k Hoop , dat ons voizinage in 't kort my heel en al In het faveur van uw ' Genade brengen zal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2596.s.2	Om étérnellemant uw serviteur te heeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2609.s.1	Ich bin ihm gantz verpflicht fuer die civilitaeten / Dasselbe werd ich ihm von meiner seithen auch Mitt freud ' erzeigen / Heir / wan ich das recht gebrauch / Und die methode werd dieser leuter wissen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2615.s.1	Dat dit het fondament van meer verbindtenissen Zal zyn , is mon espoir .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2631.s.1	Das hoff ' ich / und ich schwehr Dasch ich kein menschen son / als meinen Herren ehr .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2631.s.2	Mein Tochter hatt mir so viel wonderliche dinge Zu seinen lob erzehlt / dass sie sich nicht geringe Verpflicht acht durchs besuch / das er ihr gebet / Fuernemlich weil er so courtees mitt jeder lebet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2636.s.1	Zou myn vizite haar in iet ook empescheeren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2645.s.1	Sie wart dort dem Herren auff .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2645.s.2	Er wird sie gantz verehren / Hem / Plonje / hem / bring die den Herren also balt Vy Iungffer Iacobine	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2653.s.1	Ik zal , wyl 't u gevalt , Dat ik un beure , ou deux uw dóchter op mag passen , Straks by haar gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2659.s.1	O !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2659.s.2	das gefaelt mir aussermassen .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2664.s.1	Stoffel , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2668.s.1	WAt dunkt u , gaat het zo niet wel , Heer Reinhart ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2675.s.1	Braaf , Gy speelt natuurlyk , en heel wel de ról van Graaf .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2675.s.2	Zo Jakomyn gelyk als gy , haar zelf kan draagen , Het is onmooglyk óf onze aanslag moet wel slaagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2680.s.1	Ik twyffel niet , myn Heer , óf 't zal wel gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2680.s.2	Maar gy , Die voor Lakei speelt , speelt ge uw ról zó wel als wy ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2684.s.2	wat doe 'k dan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2689.s.1	Op den Adel zo te schémpen , Past dat Lakeyen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2698.s.1	Hoor : Ik kan myn zucht niet dempen , Als ik die fanfarons hoor fnat'ren van hun bloed ; En eerelyker liên dan zy , uit overmoed , Veracht bejégenen , en aanzien over schouder .	BodilyProcess_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.2698.s.2	Hy mag het doen , wie wil ; maar 't is een gek .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2698.s.3	Ik houd'er Niet van .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.1	't Is wel ; maar doetge u zelven niet te kort ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.2	Hebt gy geen deel daat in , myn Heer , als de Adel wordt Verongelykt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.3	Toen ik uw vader zag begraaven Op 't Sas van Gent , was 't niet zo Adelyk en braaven Begraaffenis , als ooit een Edelman genoot ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.4	Wat was de staatsie grootsch !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.5	Wat was de toestél groot !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.6	Gy liet ' er zelfs geen vier , geen acht quartieren draagen ; Maar vyftien wapens van uw Adelyke maagen , Versierden 't uwe .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.8	verzaakt ge u zelf ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.9	Ik wil U toonen , dat gy , wat de dégen óf de spil Betreft , geen Edelman in Neêrland hoeft te wyken ; Ja u by Graaven en Baronnen moogt gelyken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.1	Ik ken my zélf heel wel , en weet wel , dat gy lang Myne ouders hebt gekend , waarom ik blyde ontfang , Dat gy me erinnert uit wat stam ik ben gesprooten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.2	Maar gy kent my niet , zo gy meent , dat ik met grooten Den spót dryf , óf een oud , en Adelyk geslacht Niet meer , als de afkómst van een boer óf burger acht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.3	Gelukkig !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.4	die een reeks van Ouders kunnen noemen , Op welker daaden , op wier deugd zy moogen roemen , Als hun gemoed , door die voorbeelden aangepord , En in die daaden , in die deugd geoeffend wordt ; Maar één , wiens daaden , vol uitspoorigheid , de naamen Van zyn Voorvaders , en beroemd geslacht beschaamen , En die elk een verguist , een lanterfant , een vént Die maar aan zyn lievry , en wapens wordt gekénd , Of opsnyt van zyn Stam by Juffets , en op bâlen , Kan 't by geen sneegen boer , nóch zedig burger haalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.5	Zo ik ' er somtyds een veracht , zo spreek ik van Zulke onbehoudene .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.6	'k Lach met een Edelman , Zo hem zyn ommegang , zyn deugden , en manieren , Niet boven het gemeen doen kennen en versieren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2741.s.1	Myn Heer , ik wist daar in nooit zo veel onderscheid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2749.s.1	Dat is geen wonder , gy waart steeds in dienstbaarheid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2749.s.2	De treffelykste Adel , was by u een zwier Lakeyen , Hófmeesters , Kóks , Koetsiers , Karóssen , én Lievryen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2749.s.3	Indien gy deftiger gedachten hád gehad , Gy zoudt ...	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2754.s.1	Meinsje , Reinhart , Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2758.s.1	OCh , Reintje , óch !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2758.s.2	och !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2762.s.1	Wat zót getier is dat ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2767.s.1	Was ist ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2767.s.2	was ist ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.1	Och , och !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.2	ik moet het huis verloopen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.3	'k Hoef nimmermeer op onz ' Mêvrouw haar gunst te hoopen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.4	Och , onze Juffrouw , óch , Konstancie is wis haas op .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.5	Zy heeft het haazepad gekoozen ; geeft den schop An eer en deugd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.6	Ik heb heur in een Jongmans armen Gezien , en zonder zich in 't minste te beschermen Veur zyn gezoen !	EmotionalAction_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.7	't Was óf zy 't al heur leeven lang Gedaen had .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.8	Wat gaet me an !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.9	Och Reintje , ik bin zo bang !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2782.s.1	Wanneer is dit gebeurd , en waar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2786.s.1	Hier naest en daad'lyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2791.s.1	Was ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2791.s.2	was ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2791.s.3	hier nachst ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2795.s.1	Ja toch !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2800.s.1	Zwyg stil , 't is dikwils schaad'lyk Te zeggen dingen die men niet heel vast en weet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2805.s.1	Was sagst du von hier nechst ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2805.s.3	weist du was ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2813.s.1	Gy deedt Veel béter , dat gy wat bezaadigder vertélde , Het geen gy dacht te zien , en u zo niet ontstélde .	Fear_Worry_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.2813.s.2	Wat meent gy dat gy zaagt ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2818.s.1	Was habt ' er toch gezehn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.1	Ei lieve hoor .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.2	Mevrouw gaf flus aan onze Deen De huisknecht last , dat hy jou Heer zyn Aap zou binden An onze schutting , om dat hy hem daer zou vinden , En brengen hem weerom , óf tót hem de Aapevrouw Weerom zou haalen , én tót heurent brengen zou .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.3	Maar denk eens van dien schelm !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.4	hy wist het touw te ontknoopen , Zich lós te maaken , en hy zetten 't op ien loopen , En springen ; en toen wy hem vangen woude , vloog Hy in de tuin hier naest ons allen uit het oog .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.5	Ik kyk hem in de tuin van buurman nae , maar jemie !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.6	Ik keek , als was ik in ien spul van de Akkedemie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.7	'k Zie deur de vensters heen van buurmans achter zaal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.8	Daer staet Konstancie , 't is zo waer als ik 't verhaal , In de armen van een nette , en jonge , en mooije vryer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.9	'k Verschrikte zeer , en dócht , wat droes !	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.10	hoe komt hy by ' er ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.11	Of zy by hum .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.12	'k Gae nae heur kamer , die 'k in 't slót Geslooten vond , en mis de sleutel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.13	't Was verbród , Zo 'k merkte .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.14	Kyk , terwyl ik agter was eloopen , Was zy de veurdeur fraai behendig uitgesloopen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.15	Wel wie zou denken , dat zo jong ien kleuter had Die kneepen in heur kóp , die parten in héur gat .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.16	Zie daerom dorst ik in het huis niet langer blyven , Ik weet wel , dat Mêvrouw my tóch daer uit zou dryven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2852.s.1	In meinen hauze / das zein eitel porsen / nein Wie icherrst ihr mich / das kan unmueglich / ja nicht zein .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2857.s.1	Gy hebt ligt mis gezien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2857.s.2	Hebt gy ook aan haar kamer Geklópt ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2862.s.1	Wel neen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2868.s.1	Zo doe 't , dus kan men wat bekwaamer Oordeelen : want het werk dunkt my al vry verward .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2868.s.2	Gaa , Meinsje , klóp eens aan haar kamer , maar wat hard .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2872.s.1	Reinhart , Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2879.s.1	GAa Stoffel , zeg nu aan Konstance dat ze op 't kloppen Van Meinsje , niet laat op te doen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2879.s.2	Men moet haar fóppen Is 't moog'lyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2879.s.3	't Werk was daar ten naaste by verbród .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2879.s.4	Maar 'k zal 't wel maaken , dat ik de oude vrouw bedód .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.2882.s.1	Stoffel , binnen geweest zynde .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2884.s.1	Ik heb het haar gezégd , zy zal het doen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.1	't Ontkennen Moet ons nu bystaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.2	Ik kan my niet wel gewennen Tót logens , dan alleen tot loogens alsze in nood , Om beste wil geschiên , al zyn die nóch zo groot .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.3	Hoor : om dan met fatsoen zeer onbeschaamd te liegen , Zo moet men zéggen , dat haar oogen haar bedriegen , Dat ze oud en krank is van gezicht ; en moet het zyn Laat hier Konstance , slechts in plaats van Jakomyn Verschynen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.4	Ik zal haar dat zaakje wel ontleggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.5	Pas jy maar , dat jy zégt , gelyk je my hoort zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.6	Daar komt zy weer .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2902.s.1	Meinsje , Stoffel , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.1	JA wel , ja wel , 't is tovery !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.2	Konstance lag en sliep , en niemand was ' er by .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.3	Ik zag en sprak ' er mee .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.4	Ja wel , 'k stae zo verwonderd , Als óf 't te Keulen in myn ooren had gedonderd !	Emotion_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.5	Hoe lyken zy men kaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.6	Wel wie had dat gegist .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2916.s.1	So sicht man ja / das mehr gleich dan eigen ist .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2920.s.1	Dat ik jou dóchter nou iens zien mogt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2929.s.1	Wil sie sichen / Das kan gantz fuuglig / und so gleich geschehen / Ich wil also balt henkommen fur die thuur .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2933.s.1	Reinhart , Meinsje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2938.s.1	GY geeft veel moeite , Meinsje , aan onze naagebuur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2938.s.2	Hy is een zeer groot Heer , een Graaf .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2943.s.1	Wie zou dat droomen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2943.s.2	Wat doet hy hier ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2950.s.1	Hy is hier onbekend gekomen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2950.s.2	'k Weet van zyn knecht ook , dat hy niet bekend wil zyn , Zie daarom komt hy hier slechts in gemeene schyn , En houdt maar een Lakei of twé .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2955.s.1	Ja wel te weeten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2955.s.2	Is hy een Graaf , óf zo een ding ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2960.s.1	Zyn goude kéten , En penning op zyn borst , wyst zulks genoegzaam uit .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2964.s.1	O Rein ; wat bin ik bly , dat dit een Graaf beduidt .	Joy_Emotion_Relief
+pels001verw02_01.TEI.2.text.body.div.div.sp.2978.s.2	Ik zal de spaarpót van myn zeuntje An stukken smyten : nou dan key'ren das ien deuntje , En koopen veur het géld ien penning .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2978.s.3	Kyk zyn peet , Gaf hem ien ketting tót zyn pille gift .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2978.s.4	Zo weet Ik onze Dirrikje ook mooi tót ien Graaf te maaken , Niet waer !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2978.s.5	wel kan ien mensch zo an ien Graafschap raaken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2982.s.1	Zwyg stil , daar komt myn Heer de Graaf weerom .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2986.s.1	Stoffel , Meinsje , Reinhart , Konstantia .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3000.s.1	MEin kind Wirt kommen / aber ich wil das ihr euch verbindt / Das ihr von sie / von mir / van keinerhande sachen An keinen menschen wohrdt und geplauder sollet machen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3000.s.2	Er ist mir hoegst daran gelegen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3005.s.1	Wel , men Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3005.s.2	'k Beloof het je , as ien vrouw mit eeren , op myn eer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3009.s.1	Ik ook .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3015.s.1	Kom dan herfuer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.3018.s.1	Meinsje , ziende Konstantia , in de deur van Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3020.s.1	Wel Heer dat is Konstancie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3024.s.1	Wel hoe !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3024.s.2	waar lykt dat aan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3028.s.1	Aan al de remonstrancie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3034.s.1	Wat praat je Meinsje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3034.s.2	wat ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3034.s.3	het lykt haar niet een zier ; 'k Heb zo wel oogen in myn hoofd , als gy .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3040.s.1	Kyk hier !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3040.s.2	Het lykt ' er niet ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3040.s.3	Wat droes !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3040.s.4	hoe ken't heur meer gelyken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3040.s.5	Ze is eveliens geklied : men Heer , je zult het kyken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3045.s.1	Das wert ja men lich zien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3051.s.1	Maar hoe , 'k bin niet vergist , Het is Konstansje zélf , wat droelie ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3051.s.2	ja zy is 't .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3051.s.3	Konstansje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3051.s.4	Juffrouw ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3051.s.6	zy zwygt en lacht ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3056.s.1	Geen wonder .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3056.s.2	Verstaat deez ' Neêrduitsch ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3061.s.1	Wel daer schuilt de Drommel onder , 'k Gae Juffrouw haalen , kom , dan kenje zelf het zien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3065.s.1	Ras , na uw kamer toe , Mejuffrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3069.s.1	't Zal geschiên .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3082.s.1	NU zal ' er meerder naar myn gissing niet behoeven Gedaan te zyn , als dat gy haar maakt te oversnoeven , Ik zal je helpen , dat zy al het ongelyk Der waereld hebbe , al geeft zy 't allerzekerst blyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3082.s.2	Spreek hard , en houdje kwaad : gy moet je aan haar lellen , Nóch teemen steuren .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3089.s.1	'k Zal dat zaakje heel wel stellen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3089.s.2	Vertrouw 't my toe , myn Heer : ik weet die oude kól , Wel om haer staert te doen om loopen als een tól .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3093.s.1	Daar komt ze met Konstancie .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3097.s.1	Konstantia , Meinsje , Stoffel , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3102.s.1	IK doe nu jou begeeren .	Emotion_Love_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.3102.s.2	Wat is 't nu ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3106.s.1	O je zelt zo kyken , 'k wilt je zweeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3110.s.1	Wat zal ik zien ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.3112.s.1	Meinsje	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3114.s.1	Men Heer , waer bleef jou dóchter daar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3119.s.1	Zie ist nach binnen zu gegangen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3124.s.1	Ai lieve , vaar , Ai laet ze tóch nóch iens uit kommen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3131.s.1	Narreryen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3131.s.2	Verirt ihr mich ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3137.s.1	Neen tóch , 'k wil alle kwesti myen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3137.s.2	Hoor Juffrouw , tusschen ons , kyk , is een groot dispuit .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3137.s.3	'k Zeg dat jouw weezen ziet ' er eveleensjes uit .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3147.s.1	Was des wesens !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3147.s.2	seyt ihr dol ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3147.s.4	darf man eben Zie beyd ' zu sammen sehen / kan man kein urtheil geben / Ohne dem / sie gleichen sich auff keiner weise nicht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3151.s.1	Neen , Meinsje , 't hapertje , geloof me , aan jou gezicht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3156.s.1	Was de één en de aar slechts hier , je zoudt gewis verstommen Konstansje , zo as zy jouw lykt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3161.s.1	Zie wierd nicht kommen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3165.s.1	Wie lykt my zo ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3169.s.1	Myn Heer zyn dóchter .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3176.s.1	Wat geef ik Naar dat gelyken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3176.s.2	mag ik niet een oogenblik Wat rnsten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3176.s.3	moet gy me om die beuzelingen steuren , In mynen slaap ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3176.s.4	Wat zal hier langer niet gebeuren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3185.s.1	Vertrey doch ons / es ist der Frauwen ongeduld / Die zolche possen macht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3185.s.2	Wir haben keinen schuld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3185.s.3	Nein Ionffer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3193.s.1	Meinsje , ik dorst dat nooit op jou vertrouwen , Dat jy me op deeze wyz ' dacht voor den gék te houwen , Een weinigje gaat heen , maar dit gaat al te gróf , Doe 't op een ander tyd niet weêr .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3193.s.2	Met uw verlóf Myn Heer , ik gaa .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3198.s.1	Stoffel , Meinsje , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3209.s.1	Es muss nicht wiederum geschehen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3209.s.2	Hoert ihr das wohl / ewr weib / will mir das nicht verstehen / Ich nehmet uebel auff .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3214.s.1	Ja , had j'er bei te gaar Gelyk doen zien , ik wed , je spraakt , als ik , men vaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3223.s.1	Ich wil nicht laenger von die narrereien hoeren / Verstehest du das wohl / weib ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3227.s.1	Hiel wel , 't zel niet meer beuren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3232.s.1	Kein enkel word von mir / noch meiner Tochter ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3241.s.1	Du hasts mir zugesagt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3245.s.1	Wis , wees maar wel te vreên .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3252.s.1	Ich solte sonsten dich by meiner treu curiren Dass du nicht wieder mich leichtfertig solst vexiren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3256.s.1	Daar is Mêvrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3260.s.1	Kristine , Meinsje , Reinhart , Baske .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3268.s.1	WEl meid , wat doeje hier op straat , En met dien Heer hier naast in kwestie , óf in praat ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3268.s.2	Hy schynt gestoord .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3268.s.3	Ik zag ook dat hy jou begraauwde .	EmotionalAction_Other_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3268.s.4	Wat was de reden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3278.s.1	Kyk de woorden , die hy kaauwde , Verstond ik niet , hy is een mof , of zo ien ding .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3278.s.2	Hy zei niet veul , laet zien , hy zei , hy zei , en 't ging Hem kluchtig óf ; maar laet het Reintje jou vertellen , Die weet het beter met die knoetery te stellen , As ik ken doen , Mêvrouw , hy het van woord tót woord , De hielen horlement , zo wel as ik , gehoord .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3282.s.1	Wat was ' er Reinhart ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3288.s.1	Zal zy haar belóften houwen En ik de myne , geen van tweên mag 't u vertrouwen , Waarom hy toornig was .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3296.s.1	Jou geef ik 't toe , jy zyt De dienaar van François , maar jou scheld ik niet kwyt , Want jy zyt in myn dienst , en zult my aanstonts zeggen Wat hier gebeurd is , en hoe dees affaires leggen ; Of ik beloof , dat ik 't niet pardonneeren zal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.1	Ja Rein , óf jy myn wenkt , óf toeknikt , 'k ben niet mal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.2	Wil jy 't gat uit , ik niet : wat geef ik na de moffen , Al is het dat zy op heur geld en Adel stóffen , Al binnen 't Graaven , en al willenze hier niet Bekend staen , ik steur me an gien ketting nóch gien klied , Nóch gouwe penning , neen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.3	Zou hy me wel wat geeven As my Mêvrouw het gat uit schopte .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.4	Neen 'k moet leeven , En ik heb hier ien hiel goed huis in .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.5	Hoor , Mêvrouw : De Baviaan , die an de schutting mit ien touw Gebonden was , raakt los , én zo 'k hem nae wouw kyken Zag ik in 't huis hier naest , ien Juffertje zo lyken Nae jou Couzine , die vast sliep , dat ei , en ei , Niet beter nae mekaar ken lyken , nae ik zei An Reintje , én buurman ; die het niet gelooven wouden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.6	Ik zei dat zy lui 't mit heur eigen oogen zouden Bekyken , als de Graaf zyn dóchter veur de deur Deed kommen , én ik brócht ' er onze Juffrouw veur ; Maar niet gelyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.7	Daar uit is dit dispuit gereezen , Of zy mekaar van stal , van grootheid , en van weezen Geleeken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.8	Ik zei ja , en zy lui zeiden neen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.9	De Juffers gingen de ien nae de and're kwaed weêr heen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.10	Maar ik had buurman , eer zyn dóchter veur mogt komen , Belooven moeten , dat ik denken zou , nóch droomen , An iemand , wie 't ook was , het alderminst van hem Of heur te réppen , dat hy met een fórse stem My toegraauwde , as jy juist op 't mat kwam en ons hoorde , Mêvrouw .	EmotionalAction_Other_Desire_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3332.s.1	Was 't hierom dat de Graaf hem zo verstoorde ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3332.s.2	Is daar zo veel aan vast óf zy me dat vertelt ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3341.s.1	Meer als gy denkt Mêvrouw ; daar kon een groot geweld Van komen ; 't is een Graaf , die onlangs hier uit Weenen Gevlugt is , en nóch by geen menschen is verscheenen , En niet bekend wil zyn , waarom hy is gevlucht ; Dies hy een haater is van praatjes , én gerucht , Om hier incognito een poos te kunnen blyven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3345.s.1	Ik zal ' er niet een woord van zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3350.s.1	Neen by lyven !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3350.s.2	Je kent Mêvrouw niet , Reintje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3355.s.1	Ik ken jou al te wél , Die zo veel spéls maakt met je teemen , én gelél .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3364.s.1	Meid geen met woorden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3364.s.2	Wil je eens aan den Graaf gaan vraagen , Zeg Reinhart , óf 't hem en zyn dóchter zal behaagen , Dat ma Couzine en ik hem in zyn nieuwe huis Congratuleeren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3371.s.1	'k Wed , Mêvrouw , dat dit kwansuis De boodschap is , én dat je zélfs zélt willen kyken Of bei de Juffertjes mekaar zo wel gelyken , Gelyk ik zeg .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3376.s.1	Mêvrouw , wat uur gelieft u dat Ik vraagen zal ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3381.s.1	Zo hy nu geen vizites had , Vraag die het hem belieft .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3385.s.1	'k Zal 't u straks kenbaar maaken .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.3387.s.1	Dertiende tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3393.s.1	HEem , Stoffel , hem ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3397.s.1	Alhier .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3402.s.1	Mêvrouw weet alle zaaken Door Meinsje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3409.s.1	Dat 's niet goed , het dwarsboomt ons begin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3409.s.2	Mêvrouw te fóppen , zo als Meinsje , heeft wat in .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3409.s.3	Ze is arg én loos , en laat zo ligt'lyk zich niet doeken , 'k Vrees , dat zy alles naauw zal willen onderzoeken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3416.s.1	't Is zéker .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3416.s.2	Zy wil jou vizites geeven straks , Of flusjes , én jou in het nieuwe huis as kaks Congratuleeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3420.s.1	Wel wat raad ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3425.s.1	Hoe staan de dingen Met Frans , én Jakomyn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3434.s.1	Myn dóchter weet te zingen , Gelyk hy danssen wil : én danst , gelyk hy zingt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3434.s.2	Gy zult bekomen 't geen daar hy , én gy , na dingt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3434.s.3	Zy weet heel wonderlyk den gék de kap te vullen : 'k Denk dat zy beide straks te saamen speelen zullen ; Want Jakomyn die heeft een kaart gekommandeerd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3440.s.1	't Is wonder naar myn zin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3440.s.2	De staat van zaaken keert Heel schoon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3440.s.3	Men moet Mêvrouw sléchts in de kamer leiden , Terwyl zy bezig zyn te speelen met heur beiden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3444.s.1	Ik dacht dat alles dan verbród was .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3452.s.1	Ganschlyk niet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3452.s.2	Dénk zelf , als zy François by Jakomyne ziet , Hoe haar dat aanstaan zal ; voornaamlyk zo ze in 't praaten Afmeeten kan , dat zy malkanderen niet haaten ; 't Welk Jakomyn , zo 'k hoop , wel maaken zal .	Emotion_Hatred
+pels001verw02_01.TEI.2.text.body.div.div.sp.3457.s.1	Gewis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3457.s.2	Ik zal 't haar in het oor wel byten .	EmotionalAction_BodyPart_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.3463.s.1	Wel dan is Konstancie de onze ; 't zal met één dan klaarlyk blyken , Dat zy en Jakomyn malkand'ren niet gelyken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3468.s.1	Heer Reinhart , zal Mêvrouw ons wel gelooven ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3473.s.1	Ja , Zy moet : doe maar jou plicht , én roep Michiel hier .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3477.s.1	'k Gaa .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.3479.s.1	Veertiende tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3481.s.1	Reinhart , Michiel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3486.s.1	IK weet Michiel , je kent die alle beide taalen Vry reed'lyk , maak die wel te kunnen koeterwaalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3494.s.1	Zo wat myn Heer ; heb in het allerminst geen zorg , Voor my .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3494.s.2	Kornelis zal niet minder , 'k blyf u borg , Zyn ról ook treffelyk uitvoeren voor Notaris , Hy heeft ' er drie jaar by gewoond .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3494.s.3	Was de inventaris Van zyne schulden nu gereed , het werk was klaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3502.s.1	Wat inventaris , neem jy die memorie waar , Die zyne schulden , én zyn and're vuile feiten Wel inhoudt ; maar niet met partikulariteiten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3502.s.2	Het hoeft zo nét niet : doe jou best , betracht jou eer Hier in .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3506.s.1	Geloof me , 't zal aan ons niet haapren , Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3508.s.1	Einde van het Dérde Bedryf .	None
+pels001verw02_01.TEI.2.text.body.div.head.3512.s.1	Vierde bedryf .	None
+pels001verw02_01.TEI.2.text.body.div.stage.3515.s.1	Kristine , Konstantia , Reinhart , Baske .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.1	IK heb u menigmaal , dóch te vergeefs gebeden Dat gy meer zwierig , en galanter u zoudt kleeden , Maar 'k zie het is vergeefs , hoe ik u meerder bid , Hoe gy het minder doet ; fi !	EmotionalAction_Desire
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.2	die fontange zit Een halve pink te hoog .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.3	Is dat een kaper zetten ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.4	Die strik is veel te kort .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.5	Hoe hangen die manchetten , Gy weet niet van wat groot gevólg die dingen zyn : De Dames van 't Salét zyn hier in wonder fyn ; Zy weeten op een haar wat kapsels best pareeren , Zy neemen nét in acht al wat kan doen charmeeren ; Dat zyn de kunsjes om galands te winnen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.6	Ha !	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.7	Op zulk een Dame heeft een ider 't oog , zo dra Zy komt in het Salét .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3542.s.1	Moei , ik kan niet ontkennen , Dat gy 't verzócht hebt ; maar ik kan my niet gewennen Tót zo veel grillen als ik in de Juffers , die De mode vólgen en 't Salét handteeren , zie .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3542.s.2	Een nét en zinlyk kleed , met mooije garnituuren , Acht ik genoeg ; maar zo veel fratsen , zo veel kuuren Van nieuw fatsoen , en 't geen uit Vrankryk komen kan , Vind ik niet goed , ja 'k heb daar zelf een af keer van .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.1	Uw réde toont dat gy nóch veel zult moeten leeren .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.2	Zo zyn zy al te maal die niet veel converseeren Met le beau monde .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.3	Nicht maak my tóch niet beschaamd Door zulk een slecht discours , by la Comtes , 't betaamt Geen liên van kwaliteyt , die taal te voeren , waarlyk Ik ben voor u bevreesd , gy zult al heel bez waarlyk 't Gerequireerd postuur waar konnen neemen .	Worry_Emotion
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.4	'k Ben Dicht by de vyftig jaar , gy nóch geen twintig , én Ik doe in een Salét , nóch met veel meerder graci Myn compliment , als gy ; ik lét wel op de spasie Van het vertrék , én daar doe ik myn passen na .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.5	Ik zét myn voeten als ik op de straaten gaa , Heel proper op de maat .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.6	'k Heb u doen leeren dansen Om d'air te krygen én den regten zwier der Franschen ; Maar , a mon grand regret , 'k zie geen verbetering .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3567.s.1	Meinsje , Kristine , Reinhart , Konstantia , Baske .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3572.s.1	DAar is de waaijer , en de strik die boven hing Op onze groote zaal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3576.s.1	't Is wel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3582.s.1	Nou zelje kyken , Of die knoetin én ons Konstancie niet gelyken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3582.s.2	Zy is ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3587.s.1	Knoetin ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3587.s.2	spreek met meer omzigt en respect Van zulke luiden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3591.s.1	Zy is een Graavin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3601.s.1	Je gékt Daer ommers meê , wel , Rein , waer uit is jou gebleeken Dat ze ien Graavin is ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3601.s.2	ik zag nooit daer van gien téken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3601.s.3	Ze had , toen ik ' er zag , gien gouwe ketting , nóch Gien penning om ' er hals .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3601.s.4	Zy ien Graavin ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3601.s.5	wel tóch : Zag jy de ketting ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3606.s.1	Al draagt zy geen goude kéten , Ze is evenwel Graavin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3620.s.1	Ik zal ' er zo wel heeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3620.s.2	Ik zeg dan die Graavin , die zonder ketting gaet , Die hier zo daadelyk geweest is , aan de straet , Gelykt nét op én top , van boven tót beneden , Van hoofd tót voeten , en zy is nét zo besneeden , Zo lang , zo kort , zo sinal , zo lyvig , én zo rank , Zo vét , zo mager , nét zo zwart , zo bruin , zo blank , Als onze Juffrouw , die Konstancie hiet , 'k wil zweeren , Zo jyze by malkaar ziet in die zelfde kleeren , Die zy straks alle bei an hadden , dat je zult Daer in verdwaalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3626.s.1	Maar 'k zeg Meinsje , ' r is de schuld Van jou gezigt , jy dwaalt , jy bent hier door jou oogen , Die reeds van ouderdom wat duister zyn , bedroogen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3630.s.1	Mêvrouw zal 't zelve zien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3636.s.1	'k Wil 't stellen aan Mêvrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3636.s.2	Jy hebt niet wel gezien , kom aan , wat zegje nou , Ben jy ' er meê te vrêen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3640.s.1	Ik wilt ' er wel aan stellen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3648.s.1	Kom Nicht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3652.s.1	Belief 't je dat ik aan zal schellen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3657.s.1	Ja .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3659.s.1	Kristine en Konstantia gaan in 't huis van Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3670.s.1	IS dat dan nu zo wel geklaard , zeg Meinsje , dat Jy hebt de Graaf beloofd , toen hy jou ernstig bad , Dat jy geen mensch van hem óf van de zaak zoud zeggen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3670.s.2	Nou hoort hy 't , maar ik meen daar zal een huisje leggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3677.s.1	Wat zou ik doen , toen myn Mêvrouw dit zo verstond , Ze wou dat ik het zey toen ze ons krakkeelen vondt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3677.s.2	Wat leidt me ook aan dien mof , wat geef ik om die knoeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3677.s.3	Ik ben zyn meid niet , wis !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3688.s.1	Ik meen hy zal jou groeten , Indien hy jou maar eens krygt in zyn huis , je ként Die moffe kóppen niet ; hy is zo wreed een vént .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3688.s.2	Wie weet wat hy jou niet , krygt hy jou in zyn handen , Zal leeren , zo hy jou op straat niet aan laat randen , Ik stond niet in jou plaats om duizend gulden , ja , Ik deed het om geen twé , 'k zou , waar ik gaa , óf staa , Altyd vol angst zyn dat hy my mogt vinden .	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.3695.s.1	Heden !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3695.s.2	Wel Rein , ik word zo bang , dat my van vrees de leden Zo beeven as of ik ...	Fear_Emotion_BodyPart_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.3695.s.3	Och ! 't is met myn gedaen , Daer is de mof !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3695.s.4	wat raedt ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3701.s.1	Wil ras na binnen gaan , En sluit de deur in slót ; ik zal zyn gramschap trachten , Indien het moog'lyk is , een weinig te verzachten .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3711.s.1	DE deur is toe , vrees niet dat zy weer komen zal , Ik heb daar voor gezórgd ; hoe staat het binnen al ?	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.3718.s.1	Naar wensch .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3718.s.2	De Moei zag vreemd dat zy ' er Neef ontmoette By myne dóchter , die zy zeer eerbiedig groette : Zy zwol van spyt , als zy zag dat hy Jakomyn Toelonkte , én blyken liet aan haar verloofd te zyn .	Emotion_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.3722.s.1	Zyn zy verloofd ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3741.s.1	Ja tóch .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3741.s.2	Ook heeft ze hem tien Dukaaten In 't speelen afgeknerpt ; én naa wat min'lyk praaten , Kreeg ze een orlogie van den gék op trouw , en zy Gaf hem weer in de plaats een groote ring , dien gy Haar hebt gegeeven , om aan haare pink te steeken , Ze hadder twee die nét malkanderen geleeken , Je weet het nu wel , 't is die Amesfoorder steen ; Hy pryst die hoog , en zou wel wedden dat ' er geen Zo schoone ring niet is te krygen : 'k Moest vertrekken , Zo ik de zaak niet door myn lachchen wilde ontdekken ; Het is onmoogelyk zich in te toomen ; want Zy maakt het wonderlyk !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3741.s.3	dan kust hy eens haar hand ; Dan legt hy op zyn knie , én bid dat zy de gratie Hem gunn ' van eenen lonk ; dan houd ze ' er reputatie Gelyk als een Graavin ; dan viert ze ' em weer wat bót .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3741.s.4	Zy weet ' er ongemeen te voegen naar dien zót .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3746.s.1	Michiel , Reinhart , Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3750.s.1	MYn Heer , ze zullen gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3755.s.1	Ras Stoffel dan na binnen , Dit werk moet uitgevoerd , gelyk als wy 't beginnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3759.s.1	Ik zal 't wel klaaren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3767.s.1	KOm nu maar weer voor den dag .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3772.s.1	Ik weet niet óf ik 't wel durf waagen , Rein , hy zag Zo wreed .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3779.s.1	Hy is al weg , én heeft het jou vergeeven !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3779.s.2	Dóch op conditie dat , zo lang als jy zult leeven , Jy van zyn dóchter , nóch van hem meer reppen zult ; Indien je dat belooft , vergeeven is de schuld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3784.s.1	Ik zal myn leeven niet van hem een woord meer spreeken Als met Mêvrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3789.s.1	Hy zegt dat hy het ook zal wreeken , Indien hy anders hoort .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3797.s.1	Maar Rein ; nu zyn we allien , Biecht iens recht op , én nae jou consekwentie ; mien Jy zelve niet dat wy Konstantia flus zagen Daer naest ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3797.s.2	kom antwoord iens ter deegen op myn vraagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3802.s.1	Wel Meinsje , ben je slecht ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3802.s.2	ging jy niet zelf terstond Na haare kamer , daar jy zelf Konstantie vondt ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3807.s.1	Geleek de Juffrouw , die wy zagen , dan Konstancy Niet op en top ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3807.s.2	ja om heur heele kontenancy ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3811.s.1	Neen zeg ik nóch , je droomt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3816.s.1	Neen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3816.s.2	én ik zeg je ja ; Maar daer 's Mêvrouw , die zel ons scheiden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3820.s.1	Ha , ha , ha !	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3824.s.1	Stoffel , Kristine , Reinhart , Konstantia , Meinsje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3835.s.1	IEk bin euch obligirt : sie woell's nicht uebel deuten / Dass ich sie nicht tractier / geleich men solche leuten Verschuldigt ist .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3839.s.1	Myn Heer , wy zyn zeer wel voldaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3843.s.1	Konstantia , Kristine , Meinsje , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3847.s.1	MOei maakte 't kort , ik dacht niet dat je nóch zoud gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3868.s.1	Ik kan niet langer zíen François uitspoorighéden ; Heb ik voorheenen hem geacht , nu heb ik reden Om hem te haaten , dien ondankbren ; maar ik zweer , 't Zal hem berouwen , Nicht .	Emotion_Remorse
+pels001verw02_01.TEI.2.text.body.div.div.sp.3868.s.2	Hoe , zonder dat hy de eer My aandoet van één woord te vraagen óf te zeggen , Zich te verlooven ; ja dat 't slimst is , steeds te leggen En lellen aan myn hoofd dat ik u trachten zou Te disponeeren , dat gy eind'lyk wierdt zyn vrouw ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3868.s.3	Nóch gist'ren heeft hy my geklaagd , dat gy zyn zinnen Op hól bragt ; wyl gy hem niet weder woudt beminnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3868.s.4	Wie weet ook óf het niet uit desperatie is , Dat hy met la Comtesse is in verbindtenis ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3868.s.5	Ja dat zal zéker zyn ; Couzine zulke grillen Richt gy al uit , nu zou men ligtelyk wel willen Dat dit niet voortging .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.1	Moei ik gun hem zyn Gravin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.2	Geloof , ik heb voor hem min liefde , als tegenzin .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.3	Hoe , zulk een lósból zo ten eersten hoop te geeven Van trouwbelóften ?	Emotion_Hope
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.4	neen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.5	Matante , ik weet wy leeven Wel in een tyd , en land , daar lange vryery Niet meer de mode schynt ; maar echter moogen wy Wel eens beproeven , door ons weigerig te houden Of 't ernst is ; 't grootste deel der jongelingen zouden Wel meenen dat het zo behoorde , en ligt daarnaa 't Ons wel verwyten dat men stond gereed zo dra Als zy maar spraken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.6	Voeg hier by nóch in 't byzonder Dat ik meer reden heb als and'ren , 't kwam my wonder En vreemd te voore , dat ik niet het minste woord Kon spreeken , niet kon doen , of Neef die had ' er voort Veel op te zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.7	Als de vryers recht beminden , Heb ik gehoord , dat zy geen fouten zouden vinden In hun meestressen : want de liefde ziet geen leed .	EmotionalAction_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.8	Gelyk ik ook geloof dat Moei dit spreekwoord weet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3894.s.1	Zoudt gy dan ligt wel zyn met hem in de echt getreeden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3900.s.1	Dat weet ik juist niet ; doch dat zyn vergeefse reeden , Want hy is nu verloofd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3906.s.1	'k Meen echter , zo je u maar Wat minnelyker toont , dat hy in plaats van haar U trouwen zal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3911.s.1	Geensins , 'k heb flus my zo gedraagen , Dat hy met recht niet kan van myne straf heid klagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3916.s.1	Toon u wat vrind'lyk in myn tegenwoordigheid ; Contrarieer my niet voor al .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3921.s.1	Ik ben bereid Te doen wat Moei gebiedt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3928.s.1	Ik kan niet langer duuren : Mevrouw , je komt nou uit het huis van onze buuren , Wat dunktje , wie heeft nou van ons gelyk ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3928.s.2	kost jy Haar uit malkander tóch wel kennen van naeby ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3937.s.1	Wel ja , een blinde zelfs , zou daar verschil in merken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3937.s.2	Wat malligheid komt jou in deeze dwaling sterken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3937.s.3	Nicht is veel korter als de dóchter van myn Heer De Graaf ; weg , zy gelykt , zeg ik , haar alzo zeer Als jy myn Nicht gelykt : ze is bruin van hair en oogen , Nicht , in het tegendeel , is blond .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3944.s.1	Je bent bedroogen , Je hebt verkeerd gezien , Mevrouw , 't is zeker waer , Dat jy abuis hebt ; zeg was zy niet blond van hair , Zeg , Rein , je weet het wel ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3954.s.1	Ze is bruin ; 'k zei wel te vooren , Dat jy had mis gezien , maar 't zeggen was verlooren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3954.s.2	Hoor , Meinsje , je word oud , jou oogen zien zo klaar Niet als voor deezen ; dat is al de schorting ; maar Jy slacht al de ouwe lui , zy willen het niet weeten , Ze worden boos als zy eens worden oud geheeten .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3958.s.1	Ja wel ik !...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3964.s.1	Jy hebt flus jou bril niet op gehad , 't Gezicht word duister : want ik zeg je nóch eens dat Zy niet naar Nicht gelykt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3978.s.1	Ja wel wat mot ik lyen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3978.s.2	Myn oogen duister ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3978.s.3	neen , 'k laet 't hachje zo niet glyen , Zou ik niet kennen zien , dat is ien zótte kuur : Ja wel ke daer , ik word schier uit men tureluur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3978.s.4	Om jou te toonen dat ik nóch niet hoef te brillen , Geef my ien boek , of brief , zo asje zelf zelt willen , Ik zel het leezen , ik kan zien , én hier van daen , De kommesaal die Rein daar op zen kin het staen : Zien dat de blinde lui ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3978.s.5	én op Mevrouw heur wangen , Zie ik ien droppel nóch van dat blankétsel hangen , Dat zy te nóchtend daer op smeerde .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3984.s.1	Wel ik raas !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3984.s.2	De meid word dol én speelt hier onbeschaamd de baas .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3984.s.3	Zwyg ; pakje goed by een , gy zult aanstonds vertrekken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3988.s.1	Mevrouw , ik bid , hoor ....	EmotionalAction_Desire_Despair
+pels001verw02_01.TEI.2.text.body.div.div.sp.3995.s.1	Wat Mevrouw ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3995.s.2	met my te gekken , En loogens op de mouw te spelden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3995.s.3	pakje weg , Kom nooit in myn gezigt , én doe gelyk ik zeg .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3995.s.4	Blankétsel !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3995.s.5	niemand heeft ooit dus van my gesprookeh .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3999.s.1	De sloof wordt oud , het heeft haar aan 't gezicht ontbrooken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4004.s.1	Geloof jy nu nóch niet dat jou gezicht vergaat ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4013.s.1	Je maakt me zinneloos met zulke zótte praat .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4013.s.2	Ik ben niet blind , ik zie zo wel gelyk veur deezen ; Ik zou eer zeggen datje zelver blind mot weezen , Ik zie het minste ding , daer steekt een bosje haer , Dat grys is , uit Mevrouws Kornét , is dat niet waer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4013.s.3	Ben ik nou blind ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4017.s.1	Wat grys ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4017.s.2	ik ben niet grys .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4023.s.1	Laet kyken Mevrouw , 't is zeker waer ; hier uit zel kennen blyken Dat ik wel zie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4028.s.1	Wel hoe óf 't langer lukken zal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4028.s.2	Gaa voort uit myn gezicht ; ik zie de meid wordt mal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4036.s.1	Zwyg stil , ik wil geen woord meer van je hooren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4040.s.1	Moei 't is niet waerdig u daar over te verstooren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4045.s.1	Niet stooren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4045.s.2	hoe !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4045.s.3	ik grys ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4045.s.4	je zult nóch deezen dag Vertrekken : ben ik grys ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4049.s.1	Mevrouw , 'k bid dat ik mag ...	EmotionalAction_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.4056.s.1	Ik wil niet hooren , je zult daadelyk vertrekken , Hier helpt geen bidden , zal je zo stout met my gekken ; Met my !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4056.s.2	geen meer respect te draagen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4056.s.3	voort gaa weg , Kom nooit weer in myn oog , doe daad'lyk 't geen ik zeg .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4071.s.1	't Is wél ik gae , maar je meugt ook verzékerd weezen Dat ik niet zwygen zel , 'k zel ook ien boekje leezen , Ik zel an alleman ontdekken dat je jou Altyd blankét , én smeert , al bin je ien Mevrouw , Dat scheelt me niet , zou ik daarom niet zeggen meugen Dat jy al grys bint ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4071.s.2	wel kedaer , het is gien leugen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4071.s.3	Ik zeg het jou nóch iens , Mevrouw , je bint zo grys Gelyk ien duif , en zo je wilt dat ik 't bewys , Buk maar iens neer , 't zel in je nek zo daad'lyk blyken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4071.s.4	Je bint al oud , en woudt noch gaerne jong gelyken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4071.s.5	Je bint wel zestig jaar ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4076.s.1	Wel is ' er dan geen raad , Om deeze meid ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4080.s.1	Zwyg stil , ik zegje datje gaat .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4084.s.1	Zwyg , Meinsje , zwyg .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4089.s.1	't Is goed , ik zel vast uit de hoeken , Myn goed , én kleeren in myn kist by ien gaen zoeken .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4093.s.1	Kristine , Konstantia , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4101.s.1	Ik ben ' er van ontsteld , is zy zo assurant ?	Emotion_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.4101.s.2	Dat is een meid ! 'k geloof dat ze in het gantsche land Geen weerga heeft ; ik grys ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4101.s.3	ja wel , 'k verlies myn zinnen , En zyn wel zestig jaar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4101.s.4	wat mag dat beest beginnen , Ze zal voort uit myn huis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4105.s.1	Moei heeft gelyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4110.s.1	Zal zy Zo spreeken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4110.s.2	zulk een klein respect my toonen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4110.s.3	my ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4117.s.1	Spreek zachjes Moei , ik zie Couzin na ons toe komen Van zyn Graavin ; hy heeft zyn afscheid ras genomen .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4121.s.1	François , Kristine , Konstantia , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4131.s.1	MOei , pardonneeer my , en gy ook Couzine , dat Ik u zo daadelyk niet conduiseerde ; ik had Met la Comtesse zo een onderhoud begonnen , Op een heel raar sujet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4137.s.1	Dat heeft hy wel verzonnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4137.s.2	Was 't zulk een raar sujet ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4147.s.1	Voor zeker , par ma foi , Iets wonderbaarelyks , iets vreemds , ma Tante , Eh quoi ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4147.s.2	'k Zie ma Couzine lacht .	Joy_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.4159.s.1	Ja zulk een groot genoegen Vindt zy in uw discoers , zy zal zich zelve voegen Naar myn believen , zy zal u met meer vermaak Aanhooren dan voorheen , zy krygt nu grooter smaak In al uw hoofsche zwier , en zal van u graag leeren , Hoe dat men aan het hóf gentil moet converseeren ; Zy estimeert u .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4159.s.2	Heeft ze u flus niet meer faveur Getoond ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4166.s.1	In al den tyd dat ik haar Serviteur Geweest heb , ben ik nooit zo doux van haar ontfangen , 'k Ben haar verobligeerd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4176.s.1	Het zal van u afhangen Nóch verder in haar gunst te dringen , ik blyf borg .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4176.s.2	Voor ma Couzine , zyt gerust op myne zórg .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4176.s.3	Ik zal haar zien voor u geheel te disponeeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4176.s.4	Zy zal ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4191.s.1	Je vous rends grace .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4191.s.2	Ik zal u declareeren Un grand secret , een zaak die my zo daad'lyk is Gerencontreerd , een zaak daar myn behoudenis En myn fortuin aanhangt , je suis de tout le monde , Le plus heureux ; maar ik deed ook zeer groote zonde , Om u myn Nicht nóch als galand te dienen , én My te engageeren met een and're Dame , 'k ben Alreeds geengageerd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4196.s.1	Hoe gy u engageeren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4196.s.2	En zonder my ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4206.s.1	Ik bid laat ik my excuseeren , Ma Tante , ik weet dat gy 't , nóch uw aimable Nicht , Niet kwalyk neemen zult : 't is waar het was myn pligt Uw raad te vraagen , voor aleer dat ik die zaaken Zo ver pousseerde .	EmotionalAction_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.4211.s.1	Maar engagement te maaken , En tóch met wie ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4217.s.1	Met la Comtesse , mon espoir .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4224.s.1	Met la Comtesse ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4224.s.2	wel ik zal u myn pouvoir Ook toonen op myn beurt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4229.s.1	Ik bid u hoor my spreeken , 'k Vezeker u ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4234.s.1	Ik wil myn hoofd niet met u breeken , My dit affront te doen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4239.s.1	Verstaa ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4245.s.1	'k Wil niet een woord Meer van u hooren , zo gy uw belóften voort Niet wederom herroept .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4251.s.1	Ah quelle impertinence ; Een Graafschap is my veel meer waart als Nigt Konstance .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4266.s.1	Inpertinente , is dit de loon voor alle vlyt Die ik heb aangewend ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4266.s.3	welk een groote spyt !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4266.s.4	Ik heb uit Zeeland hier Konstantia doen komen , Om dat ik by my zelfs voor lang had voorgenomen , Indien het moog'lyk was , u beyde door de trouw t'Saam te verbinden , op dat namaals daar door zou De aaloude Adel van ons stamhuis als voorheenen , Ja met meer luister als die immer heeft gescheenen , Uitblinken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4266.s.5	Heb ik niet Konstantia belét , Ondankb're , dat zy zou zich zelf verbinden , met Heer Eelhart , die ik hoor van treffelyke vrinden En middelen te zyn , 'k wist dat ze elkaâr beminden .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.4278.s.1	Ma Tante , de Adel van ons stamhuis zal meer glans Verkrygen door myn echt met la Comtess' , die kans Dócht my dat aan ons huis , én my te groot een voordeel Beloofde , om af te staan , ik stél het aan uw oordeel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4278.s.3	een Graavin ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4278.s.4	Ik weet , schoon gy 't my reprocheert , Ma Tante , dat gy myn verkiezing applaudeert .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4283.s.1	Gy zyt verdwaald ; ik uw verkiezing applaudeeren , 'k Zég dat gy uit myn huis terstond zult delogeeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4290.s.1	Fiat donc , deloger ; in 't Heere Logement Is plaats genoeg , men zoeke een kruyer hier omtrent ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4294.s.1	Is 't ernst ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4302.s.1	Zo daadelyk zult gy ' er een gaan haalen , Dat hy voort met u komt , ik zal hem wel betaalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4302.s.2	Je suis vôtre Valet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4306.s.1	Ik blyf uw dienares .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4310.s.1	Zie toe !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4315.s.1	Om onze Nicht verlaat ik geen Comtés .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4321.s.1	François , zingende , Fille Bergere c. Reinhart .	Joy_EmotionalAction
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.1	PAr bleu , ik wil geen meer reproches hier verdraagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.2	Zaagt gy wel hoe ma Tante en ma Couzine zagen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.3	Voila mon drole , 't geen ik jou heb voorgespeld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.4	Je l'ai bien deviné .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.5	Hoe waaren zy ontsteld ?	Worry_Emotion_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.6	Ik heb jou wel gezeid , dat ik noch eens zou toonen Aan ma Couzine , wie dat zy had durven hoonen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.7	La sorte beste hoe ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.8	het zal een grand depit , En hartzeer zyn voor haar , als zy my trouwen ziet .	Emotion_Envy_Sadness
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.9	Zo maakt men zyn fortuin !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.10	Ach dat 's te kunnen leeven : C'est avoir de l'esprit ; dat kan het bloed ons geeven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.11	Nu ziet ge 't onderscheid ; flus kost je 't niet verstaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.12	Was ik geen Edelman , zy had het nooit gedaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4351.s.1	Myn Heer , gy hebt beloofd een man van my te maaken : Zo ik in dienst kost van myn Heer den Graaf geraaken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4360.s.1	Dat hebje wonder wel bedócht , heel goed , bon , bon , 'k Bekén het Reintje , dit 's une belle occasion , Om jou in zyn faveur heel diep te insinueeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4364.s.1	Waar meê ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4376.s.1	Gaa wil hem jou services offereeren , Hy heeft my flus verzocht dat ik hem zenden zou Een Nederlander , die ik kende voor getrouw , Hy zoekt een Hollandsch knecht , 'k zal voor jou cautie blyven Van jou getrouwigheid , en verdere bedryven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4376.s.2	Gaa assureer hem dit .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4383.s.1	'k Ben u verpligt , myn Heer , Voor deeze groote gunst , en dank uw hart'lyk zeer , 'k Gaa dan met uw verlof !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4383.s.2	en 'k hoop ik 't wel zal maaken Met den Heer Graaf .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4390.s.1	Ik wensch succés aan uwe zaaken , Kom met me in huis , én zoek me al myn bagage strak Byéén , opdat ik my op 't spoedigst ' heenen pak .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4390.s.2	Maar waar 's de kruyer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4394.s.1	'k Zal hem zenden , gaa maar binnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.4396.s.1	Twaafde tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4402.s.1	Reinhart klopt , Kornelis doet open , Michiel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4407.s.1	RAs , roep Michiel , 't is tyd , je lui moet straks beginnen , Of hy ontsnapt ons ligt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4407.s.2	Hebje al je zaaken klaar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4411.s.1	Wy zyn gereed , kom voort Kornelis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4415.s.1	Neem hem waar .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4418.s.1	Reinhart gaat om de kruyer .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4418.s.2	Einde van het Vierde Bedryf .	None
+pels001verw02_01.TEI.2.text.body.div.head.4422.s.1	Vyfde bedryf .	None
+pels001verw02_01.TEI.2.text.body.div.stage.4426.s.1	François , Kristine , Kruyer , te gelyk met haar uiten huis komende , én een paar pistoolen , laerzen , een valles , en een Mantel op de kruywagen leggende .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4435.s.1	Hola !	None
+pels001verw02_01.TEI.2.text.body.div.sp.4435.s.2	prens garde , myn pistoolen niet te stooten .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4435.s.3	Je suis fort obligé voor 't geen ik heb genoten , Ma Tante ; krui maar na het Heere Logement .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4441.s.1	Couzin 'k raa u nóch eens , zo gy te raaden bent .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4441.s.2	Bedenk wat dat je doet , het zal je wis berouwen .	Emotion_Remorse
+pels001verw02_01.TEI.2.text.body.div.sp.4446.s.1	Dat gaa zo 't wil , ik hoop met la Comtés te trouwen .	Emotion_Hope
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.4448.s.1	Kruyer .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4451.s.1	Mevrouw mag ik wel in de buurt een pak óf vier Met goed ophyssen ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.4451.s.2	ik ben daadelyk weer hier .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4455.s.1	Ja loop maar heen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.4458.s.1	François tegen de Kruyer .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4462.s.1	Maar maak dat jy jou niet doet zoeken , Ik ben vry haastig , en par bleu ik raak aan 't vloeken ...	EmotionalAction_Anger
+pels001verw02_01.TEI.2.text.body.div.sp.4468.s.1	Hy is zoo kwaad niet , loop , want mon Couzin zal licht Hem nóch bedenken eer hy afscheid neemt van Nicht .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.sp.4473.s.1	Non par ma foi !	None
+pels001verw02_01.TEI.2.text.body.div.sp.4477.s.1	Maar zie wat willen deeze luiden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4484.s.1	Kornelis , als een Notaris met eenig e papieren in de hand , Kristine , François , Konstantia , Michiel als een Franschman .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.4487.s.1	Kornelis tegen Michiel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4490.s.1	HIer zou het moeten zyn , naar dat zy ons beduiden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4490.s.2	Woont in dit huis Mevrouw Kristina ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4499.s.1	Myn Heer François , haar Neef woont by haar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4503.s.1	Wel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4508.s.1	Indien ik de eer Mogt hebben , 'k wenschte hem een enkel woord te spreeken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4512.s.1	Dan komje recht van pas .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4516.s.1	Wat mag dat vólk ontbreeken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4521.s.1	Dat moet men hooren , maar ik loof niet naar ik uit Hun weezen speur , dat hunne aankomst veel goeds beduidt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4525.s.1	Wel nu wat brengen zy ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4529.s.1	Wel wouje dat ze iets bragten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4533.s.1	Het mogt ' er ligt naar zyn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4539.s.1	Laat haar niet langer wachten , Het schynt zy hebben haast .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4544.s.1	Myn Heer zyt gy de man Dien wy hier zoeken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4550.s.1	My ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4550.s.2	óch , ik weet nergens van .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4550.s.3	Wie zoekje vrind ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4550.s.4	ken je me ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4550.s.5	óf hebjy ons iets te zeggen , Zo maak het kort .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4555.s.1	'k Heb iets dat ik u voor moet leggen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4555.s.2	'k Ben een Notaris .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4564.s.2	dewyl u is bericht Dat ik met la Comtés zal trouwen , komje ligt Om my te bidden , dat ik u zon employeren Om 't Huwelyks Contrakt voor my te minuteren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4564.s.3	Ik zweertje , daar 's myn hand .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4568.s.1	Myn Heer dat was het niet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4572.s.1	Wat dan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4576.s.1	Ik zal het u voort zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4581.s.1	Fluks , gy ziet , Ik word gewacht ; óf brengt gy geld ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4581.s.2	allons , laat hooren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4585.s.1	Deez ' man komt van Parys .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4589.s.1	Hoe klinkt hem dat in de ooren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4593.s.1	Wat meer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4605.s.1	Hy 's door een brief aan my geäddresseerd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4605.s.2	En heeft een volmagt , voor getuigen gepasseerd , Om u te vraagen uit de naam van vyf Mevrouwen , Die je elk bezonder hebt beloofd te zullen trouwen Of gy begeert dat zy met kinderen met al Hier zullen komen , om die trouw te vieren , 'k zal , De prokuratie , als wy voor de Heeren komen , U toonen .	Emotion_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.4610.s.1	Wie zou ooit van zulke dingen droomen , Is 't moogelyk ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4610.s.2	ja wel !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4614.s.1	Maar Moei ik sta als stom .	BodilyProcess_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.4618.s.1	Ik heb noch niet gedaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.4621.s.1	François tegen Kristine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4623.s.1	Geloof je dit ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4623.s.2	waarom ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4628.s.1	Wy hebben volle magt u in arrest te zetten , Zo gy my straks niet télt drie duizend pistoletten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4632.s.1	Wel !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4636.s.1	Wel van wien hebt gy die prokuratie ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4641.s.1	Ze is Van een Monfieur Kabot , 't is een banquier , die ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4647.s.1	Mis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4647.s.2	Ik ken zo geen Banquier , ik ben hem ook niet schuldig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4647.s.3	Ik raas van ongeduld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4647.s.4	Durft gy ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4657.s.1	Niet onverduldig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4657.s.2	Hy woont , laat zien , het is ... zo in een naauwe straat , Ik zal u zeggen waar uit deeze schuld ontstaat ; Hy heeft verscheide van uw crediteurs doen tellen Een som , waar voor zy hem in handen moesten stellen Uw Obligacien , wyl hy in deeze stad Wat meerder vrinden , en korrespondenten had .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4662.s.1	Wat crediteuren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4666.s.1	Hoor : het is een resje t'zaamen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4670.s.1	Wat resje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4678.s.1	Ik heb juist niet onthouden al die naamen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4678.s.2	Althans Doktooren , én Tandtrekkers , Orvitaan , En Chirugyns , zag ik ook onder and'ren staan , Elk van die had u van een zwaare kwaal geneezen , Van die Spanjolos , zo 'k de naam wel heb geleezen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4682.s.1	Wel nou is 't anders niet ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4682.s.2	een schoone bagatél !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4686.s.1	Wat grouwlen hoor ik ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4690.s.1	Moei , wie zou dat denken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4690.s.2	wél .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4695.s.1	'k Moet antwoord hebben ; óf gy my zult konsenteeren Of niet , opdat ik my hier na kan reguleeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4699.s.1	Wat konsenteeren , he ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4705.s.1	Oui , zó mot ze zék , Of ze zou protesteer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4710.s.1	Snoer jy altyd den bek Verrotte waal !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4715.s.1	Mort bleu !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4719.s.1	Laat my maar met hem spreeken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4723.s.1	Ik mag myn hoofd niet met die beuzelingen breeken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4730.s.2	beuzelingen , Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4730.s.3	Hebt gy dan niet gehoord Wat ik gezegd heb ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4730.s.4	ik zeg u dat gy me voort , Zult moeten tellen achtentwintig duizend gulden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4734.s.1	Wat !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4734.s.2	hebt gy in Parys gemaakt zo groote schulden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4738.s.1	Wel lieve deugd !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4738.s.2	wat 's dat ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4743.s.1	Hoe , vraagje wat is dat ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4743.s.2	Acht gy zo grooten som niet meer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4750.s.1	Ma Tante , wat Zou ik dat achten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4750.s.2	dat is niet de pyne waardig Om van te spreeken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4755.s.1	Wel Couzin dat vind ik aardig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4762.s.1	Ik acht die som niet meer als gy een Dukaton .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4762.s.2	't Is wel gebeurd dat ik met eenmaal Va , meer won , Ook wel verloor .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4766.s.1	Kom , kom , gy moet my straks betaalen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4770.s.1	Wel ja .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4774.s.1	Maar op deez ' dag , zie daar moest niet aan faalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4779.s.1	Zou Neef u deezen dag zoo merkelyke som Noch tellen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4787.s.1	Ja Mevrouw , gewis hy moet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4787.s.2	Kom , kom Monsieur , laat ons op straat niet raazen nóch niet kyven , Ik zal zo dadelyk 't protest voor u gaan schryven , In deeze stad is recht , schoon hy de schuld ontként .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4787.s.3	Wy vinden hem hier naa wel in zyn logemént .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4792.s.1	Konstantia , Kristine , François .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4796.s.1	WAt dunkt u Moei ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4801.s.1	Hy wacht nóch wel wat meerder dagen , En krygt hy 't dan nóch maar , zo heeft hy niet te klaagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4812.s.1	Vous riez , bon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4812.s.2	Ik zal ook lachchen a mon tour , Als ik getrouwd zal zyn met la Comtesse , un jour .	Joy_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.4812.s.3	Haar inkomst zal my haast gelegenheid fourneeren Om al dit lachchen , en dit schamperlyk raljeeren , Nóch eens hier naa u weêr te brengen in den zin .	Joy_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.4823.s.1	Zou ik niet lachchen ?	Joy_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.4823.s.2	gy roemt zo van die Graa vin , Het is al la Comtesse , als of ze al had beweezen Het Graafschap van haar vaâr ; men heeft wel meer voor deezen Gezien , dat iemand hier hoog opgegeeven heeft , Die in zyn vaderland had van den ploeg geleefd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4823.s.3	Wat zekerheid hebt gy dat zy 't niet heeft geloogen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4823.s.4	Daar zyn wel gaauwer lui op deeze wys bedroogen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.1	Enquoi , ma Tante ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.2	quoi ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.3	meent gy dat ik niet kan Aan iemand zien , of hy een Vórst , óf Edelman , Un Duc , un Prince , un Comte , óf burger is ; de trekken Van 't weezen kunnen my dat sur le champ ontdekken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.4	Wel aan , ik zou zo lang zyn à la Cour geweest , En dat niet kunnen zien ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.5	wees daar niet voor bevreesd , Je vois cela d'abord , & vous me faites rire .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.6	Elle est Comtesse , oui , cela s'entend sans dire , Zy hoeft geen blyken van haar staat en Graaf'lykheid ; Haar weezen toont het klaar , pour moi , ik ben bereid , Haar onder eeden un certificat te geeven , Dat ze een Comtesse is : Ah !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.7	zy weet gentil te leeven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.8	Je vous assure , dat de Graafelyke staat , By haar a yeuls , voor lang al in den hoogsten graad Gevoerd is , ik kan dat zo zéker in haar handen En oogen zien , dat ik daar voor wel durf verpanden Myn hoofd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4861.s.2	mon Couzin ... gy waagt uw hals te ligt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4868.s.1	Non , ma Couzine , non , ik gaa vast op myn gezicht ; En daarenboven heeft zy my een preuf gegeeven , Dat my geen twyfeling meer over is gebleeven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4872.s.1	Wat preuve ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4878.s.1	Un Diamant , die haar meer komt te staan Dan duizend Dukatons , zie , ik heb die nóch aan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4882.s.1	Maar hebt gy al verstand van steenen en van ringen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4892.s.1	Que me demandez vous ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4892.s.2	zeg tóch eens van wat dingen Heb ik geen kennis ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4892.s.3	'k Ben in alles geverseerd , En in Juweelen is geen mensch die my passeert ; Ik ken de fouten , 'k weet hoe dat me een steen moet zetten : 'k Heb in Parys alleen wel duizend pistoletten Aan Diamanten , en Juweelen gespendeerd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4896.s.1	Wat deedt gy daar meê Neeff	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4901.s.1	Wel ik heb die vereerd Aan Dames , Nicht ; hoe dat verstaat zich zonder vraagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4905.s.1	De Juweliers , geloof ik , dat u gaerne zagen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4911.s.1	Oui da , par la mort .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4918.s.1	Zy hadden groot gelyk , Zy worden in het kort van zulke kooplui ryk : Zo gy een valschen steen zo hoog by hen waardeerde , Als hier ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4922.s.1	Hoe valsch ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4928.s.1	Ja dien u la Comter vereerde , Is valsch .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4933.s.1	Comment !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4937.s.1	Het is een Amersfoordet steen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4942.s.1	Ik lach om Amersfoort , ma Tante !	BodilyProcess_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.4946.s.1	't Is ' er een .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4954.s.1	Ab , Vous avez raison .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4954.s.2	Dat hebje niet vergeeten , Maar de Amersfoorder zyn de beste , moet je weeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4954.s.3	Mais quoi ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4954.s.4	vous riez .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4964.s.1	Wel wie óf niet lachchen zou Om zulk een dwaasheid !	BodilyProcess_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.4964.s.2	Neef , nu zie ik dat ik jou Niet recht gekend heb , want nu toont gy uw gebréken , 'k Zie gy weet nérgens van , en wilt van alles spreeken ; Wat mensch , 'k zwyg Juwelier , was ooit zo zeer ontzind , Dat hy de steenen die men te Amersfoort veel vindt , Nóch hooger achtte als die wy uit het Oosten krygen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4975.s.1	'k Zal me expliceeren , zo gy maar zo lang wift 2 wygon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4975.s.2	Ik zeg dan Amersfoort , een Stad dicht aan de zee , Ma Tante ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4975.s.3	Le Ocean ... het heeft een schoone Ré , En grénst aan Pérsië , daar vindt men Diamanten , Zo schoon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4975.s.4	dit magtig volk zénd , dik wils hun gezanten , In Ambassade ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4986.s.1	Hoe nóch slimmer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4986.s.2	Amersfoort Legt dat in Pérsië ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4986.s.3	Wel wie heeft ooit gehoort Van zulk een stoutheid ; dat gy nóch veel op durft geeven Van Vrankryk , dat gaat heen , daar ben ik onbedreeven ; Maar zo te spreken van een stad die zo na by Gelegen is aan de Eem , en uitkomt aan het Y , Een stad daar men van hier in weinig tyds kan komen , Dat is belachchelyk ; wat hebt gy voorgenomen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4992.s.1	Ma Tante , excuses moi .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4992.s.2	Hoe is ' er in dit land Dan ook een Amersfoort ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4997.s.1	Maar , Neef , acht gy 't geen schand Zelfs in uw vaderland zo onbekend te weezen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5012.s.1	Non , ma Couzine , non , daar wordt men om gepreezen ; Geen Cavallier zal zich zo veel verneed'ren , om Dit land te noemen , neen , ik was veel liever stom , Ja , ma Couzine , ik zou niet willen nomineeren De stéden , schoon ze my daar wilde voor vereeren Al 't zilver , goud en geld , dat in die stéden is .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5012.s.2	Je suis trop bon François assurement , gewis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5012.s.3	[ Konstantia gaat stil in huis . ]	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5016.s.1	Aapekoopster , François , Kristine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5021.s.1	MOnsieur , ik hadje graag om 't ov'rig geld gebéden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5021.s.2	Voor 't Aapje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5031.s.2	Deez ' spreekt nóch met civile reden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5031.s.3	Je hebt een pistolét op hand ontfangen , wacht ; Pour vôs civilitez zo geef ik je ' er nóch acht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5031.s.4	Mars .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5035.s.1	Gramersys , Monsieur .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5039.s.1	Meinsje , Kristine , François .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5044.s.1	Mevrouw , van al myn leeven Heb ik 't zo duidelyk niet gezien as nou daer éven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5048.s.1	Wat hebje weêr gezien ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5057.s.1	Wat ik gezien heb : wél , Je looft me tóch niet as ik jou de zaak vertél , En jaagt me 't huis uit ; 'k zei dat 'k uw Nicht flus in de armen , Hier naest had van ien Heer ezien , en zonder scharmen , Zy heur liet kussen , men deed my het liegen , maar Nou héb ik 't weêr ezien wel duidelyk en klaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5061.s.1	Wat zegje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5065.s.1	Ja Mevrouw , ik zelt jou uit gaen leggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5069.s.1	Ik acht jou zien niet veel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5088.s.1	Mevrouw , laet my iens zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5088.s.2	Hoor dan Mevrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5088.s.3	Ik zócht in alle haest myn goed By één , en dócht vast , zo ik nu verhuizen moet , Dat is dat kleuters schuld , mit zie zie ik heur zelfs komen , Zy leek verbaasd , en heeft de sleutel voort genomen , Van heure kamerdeur , zy had die in heur zak ; 'k Riep Jufvrouw , maar zy wouw niet hooren , en zy stak De sleutel by ' er ; wie zou denken zulke dingen , Zy smyt de deur weer toe ; óf 't slót niet óf wou springen , Of dat iet anders dat belette , 'k zie de deur Staet an , toen dócht ik strak nou heeft ze wis wat veur ; Ik vólg , en zie dat zy sluipt achter de tapyten , Ik loop ' er schielyk na , ik dócht , ik wil me kwyten , Van mynen plicht , en zien ...	Emotion_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.5088.s.4	Mevrouw ik vind den muur Daar door geslagen , wel wat dunkje van die Kuur ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5092.s.1	Maar , Meinsje , is 't wel waar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5096.s.1	Mevrouw kan 't zelver kyken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5100.s.1	Couzin wat dunkt u waar die dingen naar gelyken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5106.s.1	Ma foi ma Tante , ik weet niet wat ik dénken zal : Een doorgebroken muur !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5106.s.2	ik loof de meid is mal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5113.s.1	Ja mal jy maar wat heen , wil jy het ook niet looven ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5113.s.2	Het raakt jou meer as myn , ze is al vast heen estoven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5113.s.3	Dóch 't scheelt jou hachlyk niet , verlies jeien Nicht , jy krygt Weêr ien Gravin in plaats .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5119.s.1	Wel hoe Couzin gy zwygt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5119.s.2	Dit spel wordt heel verward !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5119.s.3	ik zie daar iemand komen , Die naar den Graaf gelykt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5132.s.1	Ma Tante 't schynen droomen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5132.s.2	Oui par bleu restez ici pour un moment .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5132.s.3	Ik zal met Meinsje gaan en zien van de and're kant Si c'est la verité , en hoe 't daar is geschaapen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5132.s.4	Jarni , 'k beklaag myn goud , de Duivel baal al de Aapen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5132.s.5	Ik kom zo daad'lyk weêr ,	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5137.s.1	Stoffel , Kristine , François , Mrinsje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5144.s.1	MYn Heer , geloof me vry , Blyfhier , 'k verzekér u de ontwarring is na by Van uw Comedie , gy zult tyds genoeg beschouwen , Den doorgebroken muur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5148.s.1	Voor wien moest ik u houwen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5153.s.1	Voor Graaf pour vous servir .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5158.s.1	Eh bien ma Tante ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5165.s.1	Eh bien ; Couzin gy zwygt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5170.s.1	't Is waar ; Mait vous ne dites rien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5174.s.1	Wat zoude ik zeggen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5181.s.3	La maudite jupe , Ze houden my in 't ééne en 't andere huis pour dupe .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5189.s.1	Gy hebt ' er wél veel meer bedroogen in Parys , Zo wordt men tót zyn schande en schaade eens eind'lyk wys .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5189.s.2	Maar dat 's niet al , hier zyn twee déftige Edellieden , Waar van den één u komt zyn handschoen aan te bieden Om ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5189.s.3	Maar daar is den één , misschien dat gy hem kent .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5194.s.1	François , Reinhart , Kristine , Meinsje , Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5198.s.1	HOe Rein een Edelman ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5203.s.1	O ja François , ik ben't , Van stam en deugd veel meer dan gy zoudt kunnen weezen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5207.s.1	Lakei !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5213.s.1	Maar dat gy 't zyt bleek nimmermeer voor deezen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5213.s.2	En dat ik 't om uw Moei niet liet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5213.s.3	[ wyzende op zynen dégen . ]	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5219.s.1	Laat hem begaan , Couzin , op dat hy ons de waarheid doe verstaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.1	Mevrouw , Heer Eelhart , die voor lang met hart en zinnen Beslooten had uw Nicht Konstantia te minnen , Kreeg door de meid , die haar tót uwent heeft gebragt , De tyding dat zy wierdt met zulk een naauwe wacht Bewaard , dat zy geen brief ontfangen kost nóch schryven , Dat zy voor altoos hier misschien zou moeten blyven ; Dewyl dat gy haar aan uw Neef had toegezégd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.2	Hy moest na Mech'len , om een zaak die daar in récht Bepleit zou worden , daar hem veel was aan gelégen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.3	Hy vondt zich zelfs benard , zyn hart was wel geneegen , Om zyn Konstantia , zyn lieve minnaarés , Te zoeken te Amsterdam ; maar dan liep zyn procés Gevaar .	Emotion_BodyPart_Benevolence
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.4	Hy vraagt my raad in deeze zwaarighéden ; Ik raad hem , dat hy trék na Mech'len om veel réden , En ik beloof hem , zélf na Amsterdam te gaan , Al aan te wenden wat my dunkt te zyn geraên .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.5	Hier komende , kon ik nooit eenig middel vinden , Om met Konstantia te spreeken , óf door vrinden Een brief te geeven , dóch 'k vond haast bekwaame stóf ; 'k Had voor twee jaar François gezien aan 't Franse hóf , Ik kende zyn humeur , 'k verkleê my , zoek te raaken In zynen dienst , het welk ik ligtelyk kon maaken , Met hem te pryzen , en te spreeken naar den mond .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.6	Ik was nóch naauw in huis , of ik ondék terstond My aan Konstantia , die my daar op verklaarde Hoe 't stond , en dat gy haar voor Frans alleen bewaarde : Zy stondt my toe , dat ik zoude alle list en vlyt Aanwenden , opdat zy wierdt van François bevryd ; Dat ik , indien ik kost , een eerlyk middel vinden , Haar overleev'ren zoude aan Eelhart , óf zyn vrinden ; Zy was verzékerd , dat haar Oom en Voogd met een , Met Eelhart's midd ' len en geslacht wél was te vreên .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5260.s.1	Wat dunkt ma Tante ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5275.s.1	Ik wist gelukkiglyk te ontdekken , Den dag , dat gy al t'faam zoudt na uw hofsteê trekken : 'k Wist dat het huis hier naast had langen tyd te huur Gestaan , en met uw huis had een gemeenen muur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5275.s.2	Ik huur het , en ik heb , gelyk het was besteeken , De muur in het vertrék uws Nichts , stil door doen breeken , Daar die door 't goude leer bedekt is , en deez ' man Die vol intrigues is , en zeer veel taalen kan , Wist in dit huis zo wel de ról van Graaf te speelen , Dat ons Voorneemen is gelukt in alle deelen , Ook heeft zyn dóchter hier niet weinig toe gedaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5275.s.3	Maar daar komt uwe Nicht met haaren Bruigom aan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5280.s.1	Haar Bruidegom ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5285.s.1	Mevrouw heb ik je non bedroogen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5285.s.2	Ik heb niet mis ezien , nou zie je 't met jouw oogen .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.5288.s.1	Achtste , en laatste tooneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5292.s.1	Konstantia , Eelhart , Kristine , François , Reinhart , Meinsje , Jakomyn , Kruyer , Stoffel , Michiel , en Kornelis , in Lakeis kleederen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5298.s.1	MOei 'k bid onschuldig my , 'k verzéker u de tyd Zal toonen dat gy niet wel onderricht en zyt Van Eelhart , en François .	EmotionalAction_Desire_Despair
+pels001verw02_01.TEI.2.text.body.div.div.sp.5305.s.1	Mevrouw , gy zult niets vinden Dat u mishaagen zal , ik ben by al uw vrinden In Zeeland , wel bekénd ; en ik verzoek uw woord Niet eerder voor dat gy gerust zyt zo 't behoort .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5310.s.1	Dat is ook reed'lyk , en ik zal daar over schryven , Om van de waarheid voor altoos gerust te blyven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5315.s.1	Ma Tante ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5319.s.1	Zwyg .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5324.s.1	Mevrouw , 'k bid ondertusschen , dat Ik heb op deeze wys ...	EmotionalAction_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.5329.s.1	Voila ma Tanté .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5339.s.1	Al wat Hier in mag zyn misdaan , vergeef ik u van harten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5339.s.2	Nicht heeft gelyk gehad , het zou my altyt smarten , Dat zy getrouwd was aan een kwistgoed als Couzin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5339.s.3	'k Heb hem niet recht gekend , hy heeft my door denschyn Bedroogen : Reinhart heeft zich als een vriend gekweeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5343.s.1	Heer Eelhart , zult gy uw belóften ook vergeeten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5350.s.1	Gy doet my ongelyk , vergeeten !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5350.s.2	hoe myn Heer , Van wien ik zo veel gunst ontfangen heb en eer , 'k Ben niet ondankbaar ; 'k zal myn woord u aad'lyk houwen .	Emotion_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.5350.s.3	Myn zuster zal met u , is 't haar verkiezing , trouwen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5363.s.2	Myn Heer , schoon ik nu heb verstaan Al 't geen door uw beleid is in dit werk gedaan , Zo wensch ik nóch , dat my de waarheid was gebleeken Van 't geen de Crediteur en de Notaris spreeken : 'k Begryp niet hoe dat paar in deezen handel komt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5367.s.1	't Zyn onze knechts , Mevrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5372.s.1	Uw knechts ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5372.s.2	ik staa verstomd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5372.s.3	Wat wil dat ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5382.s.1	Al het geen ze uw Neef te lasten leggen , Is waar , hy zal ' er zelf niet durven tegen zeggen , 'k Bedacht die vond om u de zaak te doen verstaan , En was't in't eerst slechts spél , 't zal haast natuurlyk gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5382.s.2	Met de eerste Fransche post zal hy de brieven krygen , Daar zy van spreeken , ik behoef het niet te zwygen : Hy heeft het zelf gezégd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5387.s.1	Is 't waar Couzin ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5398.s.1	Oui , Ma Tante , óf ik het al wil loochenen ; je suis Au desespoir , indien gy my geen geld wilt geeven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5404.s.1	'k Hoor nu hoe die Messieurs in Vrankryk spoorloos leeven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5404.s.2	Maar daar bedenk ik iets , waar door gy zéker kunt U van uw Crediteurs ontslaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5408.s.1	Ja , schoot gy munt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5414.s.1	Neen , na Oostindien , wy zullen 't zien te maaken , Dat gy voor Assistent óf zo iets aan zult raaken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5414.s.2	Zyt gy te vreên ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5419.s.1	Wel ja : maar par nécessité .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5424.s.1	Geluk , Heer Eelhart , met Konstantia , kom treê In huis , men moet my dien doorbrooken muur eens toonen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5428.s.1	Ai Juffrouw , bid Mévrouw , dat ik mag blyven woonen .	EmotionalAction_Hope_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.5430.s.1	Konstatia .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.5435.s.1	Jakomyn tegen François .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5439.s.1	Wel spreekt gy uw Gravin nu niet eens aan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5439.s.2	Is uw genegenheid , myn Heer , zo haast vergaan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5439.s.3	Ik blyf uw dienaarés tót allen tyd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5445.s.1	Kanaalje !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5445.s.2	Mais je te payerai .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5449.s.1	Wat koeterje , wat maalje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.5452.s.1	François tegen den Kruyer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5454.s.1	Hoe rékel , komje nou eerst weêr ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5461.s.1	Neen , 'k hebje al lang Gewacht , myn Heer , maar ik was al te schrik'lyk bang Om jou te steuren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5465.s.1	Jy meugt voor den duivel bruyen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5469.s.1	't Is béter dat jy jou laat naa het dolhuis kruyen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5474.s.1	O varken !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5474.s.2	Vlégel breng myn equipagie weer In huis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5474.s.3	Moffinne pels !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5478.s.1	Ik lach met jou , men Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5483.s.1	Van elk bespót , veracht , is 't niet om te creveeren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5483.s.2	Maar 'k zal my , zo ik ik kan , dat zweer ik , revengeeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5488.s.1	Monsieur François heeft hier natuur'lyk wel verbeeld De dwaaze en slechte ról , die meenig lósból speelt .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5490.s.1	Einde van't Vyfde en laatste Bedryf .	None

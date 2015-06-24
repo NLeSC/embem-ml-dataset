@@ -1,0 +1,496 @@
+fres003pefr01_01.TEI.2.text.body.div.div.head.127.s.1	De electriciteit ; of Pefroen met het schaaps-hoofd ge-electriseerd .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.127.s.2	Klugt-spel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.128.s.1	Eerste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.131.s.1	Ritsaert , Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.137.s.1	RITSAERT .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.137.s.2	Wel , Ot , ik dagt het niet , van daeg , Zo laat te komen in den Haeg .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.148.s.1	OTJE .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.148.s.2	Door al dat pleistren , dikwils stallen , Is ons den Avond overvallen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.148.s.3	Ik zei wel : dat gy bier niet vroeg Zou komen ; maar 't was , tyds genoeg !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.148.s.4	Dat tyds-genoeg behoorde nimmer Gehoort te worden !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.148.s.5	daer 's niet slimmer , 't Geen iemand zo bedriegt , als dat .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.153.s.2	Hoe , Ot , moraliseerje wat ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.170.s.2	Mogt ik , voor u Moraliseeren !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.170.s.3	Ik zou je een ander Leeven leeren ; Want , zo ik 't zeggen mag , Myn heer , Je speelt den Snoeshaen al te zeer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.170.s.4	Waar of je zult , in 't ent , belanden , Als 't eens O , P , op is ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.170.s.5	jou handen Staan niet tot werken regte voort .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.170.s.6	En daer uw Oom is pas de moort Gestooken , strekt de gantsche Erfnis Van hem , aen jou , maer tot verderfnis : Want , in de plaets van goet gebruik , Passeert die keelgat , maag en buik Etcetera ; tot dat ten lesten Niet anders is als stank ten besten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.175.s.2	Heb jy gedaen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.175.s.3	zo rade ik , dat Jy nooit dien Text herhaeld .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.181.s.2	fiat !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.181.s.3	Wy zullen uw beveelen pryzen ; En doen gelyk de Heeren wyzen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.186.s.2	Zwyg !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.190.s.1	OTJE . 'K zal .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.194.s.2	Ot !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.198.s.2	Ik zwyg !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.198.s.3	Myn heer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.202.s.2	Spreek !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.206.s.2	'k Zal het doen , wat wilje meer ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.213.s.2	Ik mag op u zo ligt niet kyven !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.213.s.3	Maer Ot , of Lysje ook uit myn schryven Verstaen heeft , als dat ik hier Zou wagten ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.218.s.2	Vrees jy niet een sier !	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.218.s.3	Zy kan jou schrift wel duidlyk lezen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.227.s.2	Dan zou zy hier al moeten wezen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.227.s.3	Laet zien ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.227.s.4	't Is nog geen hallef-agt	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.225.s.1	Hy ziet op zyn Horologie .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.234.s.2	Maer blyft zy hier ook dezen nagt , Om zig te doen Electriseeren Van jou ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.243.s.2	ô Fielt !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.243.s.3	zy blyft logeeren By Grietje Schaeps hooft , daer zy thans Te huis legt ; die haer eigen Mans - Broers - Weduwe is , 'k heb haer van zaken , Te spreeken , die ons beide raken ; Waer na zy weêr tot Grietje keerd .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.248.s.2	Ja !... als zy is ge-Electriseerd .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.252.s.2	Dat raekt jou niet ! 't kon wel gebeuren ,	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.271.s.2	Wat zou Pefroen een keel op-scheuren , Als hem dat eens ter ooren kwam , 'k Wed , dat hy haest van Amsterdam Zou koomen , om zyn Wyf te halen ; Maer hoe hy haer dat zou betalen Dat laet ik daer ; doch ik vertrouw Als dat hy haer wel plakken zou .	EmotionalAction_BodyPart_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.271.s.3	Pefroen liet zich niet meer begekken , En 't Varken na den Haeg vertrekken , So dikwils als het lust , quansuis : Om Grietje Zus , alleenig thuis , Niet doende , als nacht en dag te kreunen , Wat in haer ziekte t'ondersteunen ; Want Griet is al zo wel doortrapt Als Lysje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.276.s.1	Ritsaert .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.276.s.2	Wat of jy al snapt !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.276.s.3	Hoe hebje dat zo naau vernoomen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.287.s.2	Zelf : dat zy , onder de Uileboomen , Heeft een groot - Juffers-Logement , Daer ook veel Heeren zyn gewent Te koomen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.287.s.3	'k Heb ook horen zeggen : Als dat je daer pleeg thuis te leggen , Zo dikwils , als je maer alleen , Te paerd , zyt na den Haeg gerêen , En my hebt te Amsterdam gelaten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.291.s.2	Ei !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.291.s.3	hou eens op daer van te praten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.296.s.2	De waerheid word zo nôo gezegt !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.303.s.2	Loop eens na 't Valk - huis ; laet de knegt , Myn Jas en Mantel-zak , u geven , Die op de Chaise zyn gebleven ; En roep den Hospes binnen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.307.s.2	goet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.311.s.2	Maek dat ik niet lang wagten moet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.313.s.1	Tweede toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.316.s.1	Ouwekennis , Ritsaert .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.322.s.1	Ouwekennis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.322.s.2	Wat is ' er van Mynheers begeren ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.327.s.2	Kan ik hier , met myn knecht , logeren Voor deze Nacht ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.333.s.1	OUWEKENNIS .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.333.s.2	ô Ja !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.333.s.3	Mynheer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.333.s.4	Al Was 't voor hondert en nog meer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.340.s.2	Nieuwsgierigheid heeft my gedreven , Dat ik my herwaerds heb begeven , Om de ELECTRICITEIT te zien .	Emotion_Other
+fres003pefr01_01.TEI.2.text.body.div.div.sp.351.s.2	Dit Huis is , dagelyks , vol van Liên , Zo klein en groot , om eens te aanschouwen , Hoe elk , die wil , hier vuur kan spouwen Gelyk een Vuurberg , dat het kraekt .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.351.s.3	Indien men slegts word aengeraekt , Zo ziet men : dat uit Menschen handen De Vonken vliegen , dat ze branden , Als vuur geslagen uit een steen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.356.s.2	'k Beken , die kunst is ongemeen Gevordert in desselfs ontdekking .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.361.s.2	‘ My dunkt , hy heeft al veel betrekking Op Ritsaert !... ’	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.368.s.2	'k Spoeide my te meer : Nadien ik toch , eens gints en weêr , Van Amsterdam ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.372.s.2	‘ Hy is 't !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.377.s.2	Om zaken Van aenbelang , een Reis moest maken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.381.s.2	‘ 'k Zal niet ontdekken , wie ik ben.	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.388.s.2	‘ Ik twyffel , of ik hem niet ken ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.388.s.3	Zyn wezen kwam my meer te vooren !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.388.s.4	’ Gy zyt niet in den Haeg gebooren Heer Hospes ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.395.s.2	Neen Myn heer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.395.s.3	‘ 'k ben al Verraên !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.395.s.4	wat of ik zeggen zal ? ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.395.s.5	’ Laat gy u ook Electiseeren ? ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.399.s.2	Dat weet ik niet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.410.s.2	Veel groote Heeren Zyn hier , al langer dan een uur Of drie geweest ; 't schynt , of zy , 't vuur Dat zy by hun in 't Lighaem dragen , Begeeren , om daar uit te jagen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.410.s.3	Ik zal , met uw verlof !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.410.s.4	eens gaen Verneemen , of het is gedaen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.412.s.1	Derde toneel ,	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.2	't Is Ouwekennis wis !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.3	hy leek ' er Wel duidlyk na ; hy is het zeker !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.4	Hoe !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.5	hy is Hospes ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.6	neen : dat kan Niet zyn ; maer waerom gaf hy dan Geen antwoord ? 't zou een klugt vertoonen , Dat Ouwekennis hier zou woonen ; 't Zou kunnen wezen : want , 't is waer , Ik heb hem in geen zeven jaer Gezien , 't is mogelyk : als het juist was , Dat hy van Amsterdam verhuist was , Alwaer hy , in Pefroen zyn buurt Ook Tapt ' , en Kamers heeft verhuurt ; Die Neering is daer licht verloopen , Dat hy is na den Haeg gekroopen , Met pak en zak , om Logement Alhier te houden ; 't is een Vent , Die immers over al geweest ’ is , En vol uitvinding en vol geest ’ is : Ik zal het nooit vergeten , toen Hy gaf een wortel , aen Pefroen , Die beter knelde dan een stok-slag : Taesse !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.7	Roussi ! ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.442.s.1	Vierde toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.455.s.2	Preçies met 't klok-slag Van achten , gaen de Heeren heen : Dan wagt de Duitscher ieder een Als vooren , en dat blyft zo duuren , Tot dat de klok slaat negen uuren ; Dan is het tap toe .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.460.s.2	Geef me een pyp !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.460.s.3	'k Zal vast eens rooken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.462.s.1	Vyfde toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.471.s.2	Na 'k begryp : Zo is myn wezen hem vergeeten ; Ten minsten schynt hy niet te weeten Dat ik die geen ben , dien hy eer Zoo fraei betrok ... daer is hy weêr .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.474.s.1	Sesde toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.483.s.2	Myn heer , hier is Tabak en pypen ; Daer staet het vuur .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.488.s.1	RITSAERT ziende op zyn horologie .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.488.s.2	‘ 't Is haest op 't nypen , Dat zy moet koomen . ’	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.493.s.2	‘ 't Word hoog tyd , Dat ik hem eens ontdek ... ’	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.498.s.2	ô Spyt !	Emotion_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.498.s.3	Daer valt myn pyp aen duizend stukken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.502.s.2	‘ Zo 'k langer wagt zul 't hier niet lukken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.504.s.1	Sevende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.507.s.1	Otje , Ouwekennis , Ritsaert .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.515.s.2	Daer leid de Jas en Mantel-zak !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.515.s.3	Ik zweet , warentig !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.515.s.4	van dat pak ; 't Is zwaerder , als men zou , gelooven .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.527.s.1	OUWEKENNIS , tegens Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.527.s.2	Ik zal het strak , voor jou , wel boven Doen brengen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.527.s.3	Zo 't u blieft , Myn heer , Wil jy eens mêe gaen , heen en wêer , In gintse kamer ? 'k heb jou zaken Van aenbelang bekent te maken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.522.s.1	tegens Ritsaert .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.532.s.2	Heel gaerne !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.532.s.3	Hospes .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.532.s.4	‘ Ot !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.532.s.5	pas jy Op Lysje ... ’	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.536.s.2	'k Zal .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.538.s.1	Achtste toneel	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.546.s.2	Vertrek maer vry : Dan kan ik ook een frissen stoppen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.546.s.4	hoor ik aen de deur niet kloppen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.546.s.5	ô Ja ! 't is Lysje ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.549.s.1	Negende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.552.s.1	Pefroen , Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.2	't Is Pefroen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.3	'k Bezwyk !... wat koomt die Vent hier doen ?	Fear_BodilyProcess
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.4	't Is wis een geeft !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.5	ja wel , 'k wil zweeren : Het spookt hier door 't Electriseeren ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.6	Dit Huis koomt my heel angstig voor .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.7	Hy waerd voorzeker ! ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.567.s.1	PEFROEN .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.567.s.2	Jongkman !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.567.s.3	hoor !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.571.s.2	'k Ben Doof goe vriend .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.575.s.2	Ik meen : ik kenje ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.2	'k Versta je niet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.3	Spreek op !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.4	wie benje ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.5	Een Eunyer ; of een Tovenaer ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.6	Blyf van myn kleeren !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.7	dat is raer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.8	Of zoek je met my weg te vliegen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.9	Blyf staen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.10	je moest my niet bedriegen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.587.s.2	Ik ben Pefroen , gelyk je ziet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.592.s.2	'k Ben steke blind !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.592.s.3	en zie jou niet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.596.s.2	Daer is myn hand .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.602.s.3	hebje kneepen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.602.s.4	Je woud my door de schorsteen sleepen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.602.s.5	Wat bliefje vriend ! 'k heb geen gevoel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.608.s.2	Gaet ook eens zitten , op die stoel , 'k Heb hooft-pyn , kon ik iets gebruiken , Heb jy geen Snuifje ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.613.s.2	Ik kan niet ruiken , Door myn verkoudheid .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.618.s.2	Lust je Drop ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.618.s.3	Daar is een stukje , eet dat op .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.623.s.2	Ja Dievesmeer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.623.s.3	zou ik dat proeven ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.623.s.4	Ik heb geen smaek ! 't zal niet behoeven .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.628.s.2	Pasjensi !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.628.s.3	‘ 'k moet eens binnen gaen Vernemen wie hy is . ’	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.631.s.1	Tiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.640.s.2	Kom aen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.640.s.3	't Is tyd , te pakken onze Biezen , Eer dat wy langer tyd verliezen , En ons Pefroen niet wêer betrapt ; Maer ligt dat wy al zyn beklapt .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.642.s.1	Elfde toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.650.s.2	Is Lysje noch niet hier gekoomen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.656.s.2	‘ Jy meugd wel van de wortel droomen , Taesse Roussi !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.656.s.3	... ik vrees voor jou ! ’	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.660.s.2	Wat mompel jy ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.672.s.2	Myn heer , ik zou , Was ik als jy , van hier vertrekken , Hoe eer hoe liever , zonder gekken , 't Is hier niet pluis !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.672.s.3	Pefroen zyn geest Is noch zo daedlyk hier geweest , Die met my , 'k zeg jou , 't is geen logen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.672.s.4	Ter Schoorsteen haest was uit gevlogen , Zo ik zyn hand had aen-geraekt .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.676.s.2	't Is of jejou noch angstig maekt .	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.680.s.2	Gewis !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.680.s.3	of vreesje dan geen schennis ?	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.688.s.2	'k Ben al te wel van Ouwekennis Berigt , hoe hier de zaken staen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.688.s.3	Jy moet eens ras na Lysje gaen ; Maer laet dat goed hier zo niet leggen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.688.s.4	Kom , volg my , 'k zal het jou wel zeggen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.690.s.1	Twaalfde toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.697.s.1	OTJE , de Jas en Mantelzak opnemende .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.697.s.2	't Is of de wind is heel verdraeid !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.697.s.3	Het werk dat schynt hier gantsch bekaeid .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.697.s.4	Wat duiker is daer voor gestommel ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.699.s.1	Dertiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.707.s.2	Ot !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.713.s.2	‘ Waer berg ik my ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.713.s.3	daer is de Drommel Weeröm ; hy kent my . ’	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.717.s.2	Hoor eens , Ot !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.721.s.2	Ik groet jou Geesje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.723.s.1	Veertiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.733.s.2	'k Loof , hy spot Wat met my !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.733.s.3	laet die knegt maer dwalen ; Zyn Meester , zal daer voor betalen , Die my niet meer bekroonen zal .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.733.s.4	De Muis , is eindelyk in de val , Die aen myn kaes heeft staeg geknabbelt .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.735.s.1	Vyftiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.738.s.1	Ouwekennis , Pefroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.744.s.2	'k Heb jou geen praetjes voor gerabbelt !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.744.s.3	Wat dunkje nou ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.749.s.2	Je hebt ' et recht ,	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.756.s.2	Hy kwam hier flusjes met zyn Knecht , En vroeg ; of hy hier kon logeeren .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.756.s.3	Om zich te doen Electriseeren ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.760.s.2	Die Hoofsche tael versta ik niet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.765.s.2	Dat 's iets , dat hier in Huis geschied , En dat gy noch niet hebt vernoomen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.773.s.2	'k Ben om geen Eledries gekoomen , Gelyk je weet ; maer dat ik haer Eens mag betrappen by malkaêr .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.773.s.3	En Griet zal ik zoo wel betaelen Dat zy myn Wyf nooit in zal haelen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.781.s.2	Zo ik met raed u helpen mag , Ik meen , dat ik op deezen dag Hoe laet het is , noch zo te maken , Dat alles , wat gy aen zult raken , In vuur verändert .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.785.s.2	Vuur !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.785.s.3	dat brand ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.790.s.2	Ja vuur !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.790.s.3	als vuur is .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.797.s.2	Daer 's myn hand Zo gy 't niet doet !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.797.s.3	... maer , ouwe ‘ Buurman , Ik heb geen Lyf dat tegen 't vuur ‘ kan Als ik in brand vlieg ben ik dood .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.805.s.2	Jy zult niet branden !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.805.s.3	vrees geen nood : Het vuur , dat uitje Lyf zal koomen , Behoef je zelf niet voor te schroomen ; Maer die je wat te na verkeert , Die word , gelyk tot Asch , verteert .	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.2	Gantsch bloed !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.3	dat zal verschrik'lyk wezen !	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.4	‘ Jy , Ritsaerd !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.5	meugd voor zeker vreezen : Dat jy , met een verschroeide Huit , Van avond noch , na bed toe bruid .	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.6	’ Ik zal myn zelf nu niet meer kwellen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.7	Maer , kan ik eerst een Brief bestellen Na Portugael ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.8	.... 'k voel , dat jou raet Is voor hartlyvigheid niet kwaet .	Fear_BodilyProcess
+fres003pefr01_01.TEI.2.text.body.div.div.head.818.s.1	Sestiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.837.s.2	Om Ritsaerd hier uit 't huis te jagen , Met wat Chineesche wortel-slagen : Dat was den Eisch wel van Pefroen ; Maer dat zou my geen voordeel doen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.837.s.3	Een Hospes moet zyn Gasten hand'len Zodanig : dat zy nimmer wand'len Voor by zyn Deur .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.837.s.4	En Ritsaert teld Al milder dan Pefroen het geld .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.837.s.5	'k Weet , hoe hy te Amsterdam verkeerd , ‘ heeft : Daer hy tot mynent veel verteerd ‘ heeft .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.837.s.6	En , is Pefroen , op nieuws , zo dwaes , Dat hy zyn Wyf , zo fraei , den baes Laet speelen , Ik kan nooit beletten , Als zy hem hoorens op wil zetten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.839.s.1	Seventiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.842.s.1	Lysje , Ouwekennis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.847.s.1	LYSJE .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.847.s.2	Dag Ouwekennis !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.847.s.3	waer 's myn Man ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.851.s.2	Hoe koom jy hier ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.859.s.1	LYSJE . 'K heb , Otje van Heer Ritsaert , onder weg gesprooken , Ik weet al wat ' er is beslooten Met jou en Ritsaert , toen Pefroen Zich onverwagt hier op kwam doen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.2	Nau was Heer Ritsaert hier gekoomen Dees avond , of wie zou het droomen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.3	Jou Man , hier zoekend Logement , Word van my ; ik van hem , gekend .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.4	Wy stonden beiderzydsch verslagen , Daer wy elkand'ren weder zagen , Na langen tyd , zo onverwagt !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.5	Ik vroeg ; wat of hem herwaerd bragt ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.6	Zyn antwoord was : om uwent wegen Had hy de Reis in 't hoofd gekregen , Daar op begon ; hy over jou Te klagen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.7	Weetje wat ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.8	ik zou , ( Wil jy om geen vergifnis smeeken ) Hem echter Beterschap verspreeken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.9	Want , Lysje !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.10	tusschen ons gezeid !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.11	Wy weeten jou gemeenzaemheid Met Ritsaert ; daer Pefroen zyn voorhoofd Gestaeg om kroud ! 't is ongeoorloofd , Voor een getrouwde Vrouw , als dat Zy met een ander tyd op 't pad .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.892.s.2	Je betert , op jou ouwe dagen : Voorheenen durfde jy 't wel wagen , Toen jy me naulyks liet met rust , Op dat ik zou voldoen jou lust ; Het koomt je nog wel in gedagten : Hoe 'k jou onthaelde met veragten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.902.s.2	Das 's waer : 'k beging , na myn onthoud , Een meer dan schandelyke fout , Waer van ik walg !	Emotion_Disgust
+fres003pefr01_01.TEI.2.text.body.div.div.sp.902.s.3	maer ik zal maken , Dat jy weêr by jou Man zult raken In goed vertrouwen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.902.s.4	mits , dat jy Myn Raed wilt volgen ; denk dat vry .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.906.s.2	Maer hoe zul jy 't met Ritsaert stellen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.912.s.2	Wil daer jou zelf nu niet by kwellen , Daer koomt jou Man .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.912.s.3	Verschuil zo lang In deeze kamer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.914.s.1	Achtiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.917.s.1	Pefroen , Ouwekennis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.923.s.2	Och !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.923.s.3	die gang Verlicht my !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.930.s.2	Het Electriseeren Zal u verlichten , wil ik zweeren !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.930.s.3	Dat jy zult zyn gelyk een pluim .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.935.s.2	Myn Borst die is niet al te ruim , En kan die de Eledries geneezen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.945.s.2	Dat zou my dienstig weezen . 'K heb veeltyds steeking in myn bloet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.949.s.2	Daer 's ELECTRICITEIT voor goet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.953.s.2	Voor Hoofdpyn ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.959.s.2	ô 't Electriseeren Kan alle Hoofdpyn van u keeren .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.963.s.2	En Tandpyn ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.974.s.2	In een omzien !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.974.s.3	ja : Al hadje 't Scheurbuik , Podagra , Zodanig , dat men jou moest laven ; Al waer je in een verkeerde haven Verzeild ; en dat jou neus gevaêr Van in te storten liep : zie daer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.974.s.4	De ELECTRICITEIT kan maken , Dat jy wel haest hersteld zou raken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.979.s.2	Wel Eele Dries heeft dan veel Brein .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.988.s.3	de Heer van kratze { ? } stein / Heeft zelf een Boek daer van geschreven , Het geen te Kleef is uitgegeven : Daer vind men meest die wond'ren in .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.992.s.2	Maer wanneer zie ik daer van begin ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.996.s.2	Wel aen , ik ga dien Heer eens roepen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.998.s.1	Negentiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1004.s.2	Hoe dat ik nu myn Wyf haer snoepen Met Ritsaert zal betalen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1006.s.1	Twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1009.s.1	Ritsaert , Pefroen , Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1018.s.2	Mag 't Geluk my treffen deezen dag : Dat ik myn ouden Vriend ontmoete ; En hier op 't onverwagst begroete ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1028.s.2	‘ Ja , als jy zat op 't Galge veld , ‘ Dan wierd ik niet van jou gekweld !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1028.s.3	‘ Taesse !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1028.s.4	Rou !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1028.s.5	Rou !... och ! 'k bent vergeten !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1028.s.6	‘ Myn Wortel is lang weg gesmeten ; ‘ Maer had ik die , 'k verzeker jou : Dat ik jou mee begroeten zou .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1033.s.2	‘ De Man is boos !	Emotion_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1033.s.3	hy krabt zyn ooren ‘ Van spyt .	Emotion_EmotionalAction_BodyPart_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1038.s.2	‘ 'K wil my daer aen niet stooren .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1038.s.3	Hoe vaert myn ouden Vriend ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.2	Ik vaer Niet !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.3	maer ik sta !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.4	je vraegd al raer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.6	Roussi !... had 'k nou myn wortel ‘ Ik beukte hem den kop tot mortel , ‘ Dat 's eens !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.7	dat 's tweemael !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.8	dat Cosyn ‘ My tergt !... maer 't zal geen driemael zyn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.9	‘ Friou !... 'k moet myn geduld verkragten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1052.s.1	Een-en-twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1055.s.1	Lysje , Pefroen , Ritsaert , Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1063.s.1	LYSJE de deur openende .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1063.s.2	Hoe lang of ik hier noch moet wagten ?...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1063.s.3	‘ Och daer 's myn Man !... waer berg ik my ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1068.s.2	Caronje !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1068.s.3	vuile Meer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1068.s.4	ô pry !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1068.s.5	'k Verscheurje dadelyk met myn Tanden .	BodyPart_BodilyProcess_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1072.s.2	Schend aen geen zwakke Vrouw uw handen !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1081.s.2	Taesse !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1081.s.3	Roussi !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1081.s.4	Friou !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1081.s.5	Waer is Myn Endje wortel nou ?...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1085.s.2	‘ Dat 's mis !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1089.s.2	Ja wel ! 'k verlies van spyt myn zinnen .	Emotion_EmotionalAction_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.head.1091.s.1	Twee-en-twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1094.s.1	Ouwekennis , Pefroen , Otje , Ritsaert , Lysje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.2	Wat is ' er voor geweld hier binnen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.3	't Is of het Huis op stelten ryd !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.4	Hou op !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.5	eer dat ik , goekoop , smyt Een Stoel of Tafel tusschen beiden .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.6	Ei Lieve !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.7	laet ik jou eens leiden Tot wat bedaertheid .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.8	Hoor !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.9	je weet Dat ik belooft heb ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1103.s.1	Tegen Pefroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1113.s.2	't Doet my leet , Dat ik de wortel heb verlooren .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1119.s.2	Lelt ons met wortels niet aen d'ooren ; 'K heb nou geen Radix China meer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1123.s.2	Geen brokje ?...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1127.s.2	Neen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1134.s.2	Dat spyt my zeer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1134.s.3	'k Zou 't noch gebruiken als een brave , Taesse Roussi Friou Titave .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1139.s.2	Heb nou geen spyt , om dat verlies : Als jy , vol vuur ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1144.s.2	Als Eele Dries ?... ô Ja !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1148.s.2	't Is immers afgesprooken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1153.s.2	Ik voel Myn bloed in 't Lyf al kooken ; Maer , 'k hoop niet , dat hem Ritsaert kend .	BodyPart_BodilyProcess
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1157.s.2	Wiê ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1170.s.2	Eele Dries : want , zo die Vent En hy het malkand'ren eens zyn , Ten zou niet vreemd , noch ongemeens zyn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1170.s.3	Dat ik verbrande zo tot asch Dat zelf geen beentje over was .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1170.s.4	Ik vraeg het liever aen zyn knecht ‘ eens .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1170.s.6	Jongkman , weest zo goet , en zegt ‘ eens : Of ook jou Meester kennis houd Met Eele Dries ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1176.s.2	Je vraegd al stout !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1176.s.3	Wat raekt het jou : met wien myn Meester In kennis is ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1182.s.3	Lieve , weest ' er Zo kwaed niet om : 't was maer om rêen ...	Emotion_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1182.s.4	Ken jy hem ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1186.s.2	Scheele Dries ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1186.s.3	ô neen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1190.s.2	Jou Heer ?...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1195.s.2	Hoe benje zo weetzugtig ?	Emotion_Other
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1195.s.3	Daer staet hy ; vraeg hem zelf dat 's klugtig !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1203.s.2	‘ Hy zou me zeggen net zo veel ‘ Als ik mogt weten by me keel !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1203.s.3	‘ Ik zie hem met Myn wyf wel praten , ‘ Voor 't lest kan ik het vry toelaten ; ‘ Maer strakjes is de klugt gedaen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1207.s.2	Ot !... hoorje wel ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1211.s.2	Myn heer kom aen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1217.s.2	Hael Kratsenstein en help hem dragen Zyn instrumenten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1224.s.2	‘ Van zyn dagen ‘ Heb ik zoo'n Naem ooit meer gehoord !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1224.s.3	‘ 't Lykt wel Chinees .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1228.s.1	RITSAERT tegens Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1228.s.2	Kom !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1228.s.3	spoeid u voort .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1230.s.1	Drie-en-twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1233.s.1	Pefroen , Ouwekennis , Ritsaert , Lysje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1238.s.2	Waer 's Ot ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1242.s.2	Die 's Eele Dries gaen halen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1247.s.2	Uit China ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1253.s.2	Raek je wat aen 't maelen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1253.s.3	'k Loof jou verstand , in dezen tyd , Te China zit of benje 't quyt ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1264.s.2	Wel neen ; maer 'k hoorde Ritsaert even Aen Ot een raere boodschap geven ; 't Leek , of die hoorde aen een Chinees .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1264.s.3	Terwyl ik , by myn zelven , vrees : Of Krats de Steen niet kan vertaeld zyn In vuursteen , die wel kan gehaeld zyn By Eele Dries , die over al Het vuur uithaelt .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1270.s.2	‘ Hy lykt zo mal ‘ Niet als voorheen ; en treft den spyker ‘ Net op den kop .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1277.s.2	Zie daer , ik kyk ' er Geheel van af : want , na ik merk , Zo is het hier bestooken werk .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1282.s.3	dat zulje anders kyken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1282.s.4	Ga nou niet , als een Blooäerd , stryken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1284.s.1	Vier-en-twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1287.s.1	Otje , Ouwekennis , Pefroen , Kratsenstein , Ritsaert , Lysje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1293.s.2	Maek plaets !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1293.s.3	Is hier ruim baen omtrent ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1293.s.4	Daer hebje nou het Instrument .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1297.s.2	Zo aenstonds zal men nu beginnen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1303.s.2	't Lykt wel een Spinwiel , om te spinnen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1303.s.3	Waer of die ronde Suikerfles Toe dient ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1307.s.1	OUWEKENNIS , tegens Kratsenstein .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1307.s.2	Pas nou maer op je les .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1313.s.1	KRATSENSTEIN .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1313.s.2	Gar wol !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1313.s.3	Ik begyf sie .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1317.s.2	‘ Ja , 'k begrypje !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1322.s.2	Daer hebje nou het Blikke-pypje Met Gouwe franjes .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1328.s.2	Wat een Lomp !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1328.s.3	Een Blikke Wynverlaters Pomp .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1328.s.4	Met franjes !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1333.s.2	Daer zyn nou de Koorden Van blaeuwe Zy .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1339.s.2	‘ Ja , die behoorden ‘ Wel om myn Wyfs en Ritsaers keel ; ‘ Voor elk een Endje was niet veel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1343.s.2	Waer moet ik zetten deeze Pikbak ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1348.s.2	Zetz her .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1355.s.1	PEFROEN tegens Kratzenstein .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1355.s.2	‘ Heer , moetje pikken ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1355.s.3	pik strak ‘ Myn Wyf , rontom aen alle kant , ‘ Op dat ze des te beter brand .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1359.s.2	Nou , meen ik is ' er wat vergeten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1363.s.2	Wel wat !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1367.s.2	Een Schaeps - hoofd .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1373.s.2	Moetje 't vreeten ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1373.s.3	Of hebje niemendal van daeg Gestooken in jou holle Maeg ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1379.s.2	'k Heb wel een Schaeps - hoofd zes of zeven ; Loop , laet de Meid ' er een van geven ; Zeg : dat zy in de kelder staen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1382.s.1	Vier en twintigste tooneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1385.s.1	Pefroen , Ouwekennis , Ritsaert , Lysje , Kratsenstein .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1394.s.3	van nieuws of aen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1398.s.2	'k Zal straks met vuur ....	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1404.s.1	OUWEKENNIS . 'k zou nu niet drygen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1404.s.2	Straks als je vuur begind te krygen , Zo vuurd ' er dan op los .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1408.s.2	gewis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1410.s.1	Vyf en twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1416.s.1	Otje met een markt-emmer , daar in een Schaepshoofd , Pefroen , Ouwekennis , Kratsenstein , Ritsaert , Lysje ,	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1421.s.2	Dat's 't laeste Schaepshoofd dat ' er is	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1426.s.2	Is alles klaer ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1431.s.2	Es is noun Richtich	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1438.s.1	OUWEKENNIS , tegens Pefroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1438.s.2	Sta hier nu stil .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1437.s.1	Hy geest hem de emmer aen d { ? } n arm .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1443.s.2	Kyk hoe voorzigtig Plant hy zyn voetjes op de pik .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1447.s.1	RITSAERD .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1447.s.2	Hy schynt besturven en vol schrik .	Fear_Emotion_BodilyProcess
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1458.s.1	OUWEKENNIS tegens Perfroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1458.s.2	Hou nu maer moed !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1458.s.3	'k Zal hem wel pajen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1458.s.4	Laet hem aan 't Wiel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1453.s.1	tegens Lysje	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1456.s.1	tegens Kratzenstein .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1462.s.2	Kom ik zal drajen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1471.s.1	KRATSENSTEIN tegens Pefroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1471.s.2	Das zie de Hand schlaam den pyp , So das is 't wol !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1476.s.2	Ja !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1476.s.3	ik begryp Van vast te houwen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1483.s.2	Bald wird komen Das Feur !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1491.s.1	OUWEKENNIS met zyn vinger dangs de pyp vakende vliegen daer vonken uit 'k Heb 't al vernomen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1491.s.2	De vonken springen waer men raekt	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1489.s.1	Hy raakt-Pefroen aen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1495.s.2	Daer vliegd ' er een , parjen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1495.s.3	die kraekt !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1503.s.2	Ik word benaaut ! 'k zal noch verbranden .	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1503.s.4	help !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1503.s.5	het vuur springt uit myn handen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1503.s.6	Raek my niet aen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1501.s.1	tegens Ouwekennis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1509.s.2	‘ Roep nu jou Vrouw !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1509.s.3	‘ Geef haer de Hand .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1515.s.3	och !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1515.s.4	ik wou Dat ik het nimmer had begonnen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1515.s.5	De Droes heeft Eeledries verzonnen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1521.s.1	RITSAERT , tegen Pefroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1521.s.2	Myn Heer , indien ik u voorheen Beledigd heb .....	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1526.s.2	Ja , ongemeen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1526.s.3	Blyf van myn Lyf !... 'k zal 't jou vergeven .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1532.s.3	Man , 'k beloofje al myn Leeven , Getrouw te blyven !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1532.s.4	geef me een zoen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1532.s.5	Ik zal 't dezen , nooit weer doen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1539.s.2	Laet los !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1539.s.3	het Vuur springt uit myne oogen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1539.s.4	En Neus en Mond !.... heb toch mêedogen !	Emotion_Compassion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1539.s.5	'k Vergeef jou alles .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1539.s.6	blyf maer van Myn Lyf .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1544.s.2	Ik zal myn Lieve Man .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1558.s.2	Wen Man und Wyf die fride Machen , Zo zind das , { problem } !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1558.s.3	gute zachen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1558.s.4	Der Her had ja gemeritierd Das man ihm bald Canonisierd .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1557.s.1	Hy neemd Ritzaerts hoet en zet die Pefroen op 't hoofd ; waar na , hy die aenrakende , uit de goude boord rontsom vuur uitspringt .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1562.s.2	Zie daer , Pefroen is nu een Heilig !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1569.s.2	'k Schei uit ! 't is hier voor my niet veiligh .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1569.s.3	Daer staet het Schaeps-hooft .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1567.s.1	Hy zet de emmer neer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1580.s.1	OUWEKENNIS geeft hem den Emmer wederom over .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1580.s.2	Zacht !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1580.s.3	blyft staen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1580.s.4	Myn vriend , vat deeze Roemer aen ; En drinkt eens voor de schrik .	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1575.s.1	Hy geeft hem een glas met Brandewyn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1579.s.1	Zo als Pefroen na 't glas grypt vliegt de Brandewyn in brand .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1592.s.3	helpt my .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1592.s.4	Want Vuur en vlam dat overstelpt my .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1592.s.5	Of ik myn , hand noch heb !... ja wel Waer ben ik ?... zeker in de Hel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1587.s.1	hy voelt na zyn hand .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1591.s.1	Ouwekennis raekt het Schaepshooft aen , waar uit de vonken springen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1601.s.2	Zie daer myn Schaepshooft mêe al branden !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1601.s.3	Het vuur springt waerlyk uit zyn tanden .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1601.s.4	Jy bent maer Eeledries in schyn ; Maer , och !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1601.s.5	jy zult kwaê-Droes wel zyn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1612.s.3	Dit Kunstuig , 'k wil het graeg belyden , Was onbekent in oude tyden .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1612.s.4	Zo gy , in zeker Land , noch waer , Men zag u voor een Tovenaer ; Al schoon gy zelf de reen ontdekte , Waer uit men zulk een vuur verwekte , Als iemand word ge-Electriseerd	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1618.s.1	PEFROEN , tegens Ouwekennis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1618.s.2	‘ Maer heb ik nou de kunst geleerd , ‘ Om ook myn Wyf in brand te steeken ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1626.s.2	‘ Gewis ! 'k zal jou wel nader spreeken ; ‘ Maar ziet het onderwyl wat in : ‘ Misschien , dat zy wel na jou zin ‘ Zal bet'ren ....	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1633.s.2	‘ 'k zal ook noch wat wagten ‘ Maar krygd zy ooit weer in gedagten ‘ Om weer ... haer vonnis dat staet pal : ‘ Als dat ik haar verbranden zal .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1638.s.1	RITSAERT , tegens Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1638.s.2	Hou op met Drajen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1644.s.1	OTJE Wel , men zou ' er Wel môe of worden ! 'k heb myn schouwer Uit 't lid gedraaid .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1650.s.2	Ben jy vermoed ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1650.s.3	Ik ben verbrand en heel verschroeid Van Eeledries dries , dien Salamander .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1656.s.2	Kom , gaen wy binnen met malkander .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1656.s.3	t Word eetens-tyd : de tafel staet Gedekt .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1662.s.2	‘ Myn Neus heeft van 't gebraed ‘ Al lucht !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1662.s.3	sta vast myn Kakebeenen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1668.s.3	koom straks binnen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1670.s.1	Zes-en-twintigste en Laeste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1681.s.2	Ga maer heenen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1681.s.3	'k Zal u wel volgen , denk dat vry .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1681.s.4	Ik lust al zo graeg wat goets als jy .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1681.s.5	Zo 'k langer stond , 'k zou hier ontdekken , Misschien veel Electrische gekken , Om voor te drajen , dat het stuit ; Maer de ELECTRICITEIT is uit .	None

@@ -1,0 +1,1169 @@
+meij001verl01_01.TEI.2.text.body.div.head.2412.s.1	De verloofde koninksbruidt , treurspel .	None
+meij001verl01_01.TEI.2.text.body.div.head.2413.s.1	Eerste bedryf .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.2414.s.1	I. Tooneel .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.2415.s.1	Velleede , Fastarad , Rey van ghewapende Dienaars .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.2416.s.1	Fastarad , ter vlught uitkoomende , en van Velleede vastghehouden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2419.s.1	Laat lós , Mevrouw , laat lós : uw ' reeden quetst mijn oor ; Ghy pooght vergheefs ......	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.2420.s.1	Velleede	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2427.s.1	Houw standt , mijn zoon , en gheef ghehoor , Nócht wraak zo reukeloos den trouwen raadt uws Moeders .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.2428.s.1	Fastarad	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2431.s.1	Die mijn ' doorluchte kling , ter schennisse van Broeders , Verwaaten aanhitst , met ghevaar van lijf , en eer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2436.s.1	Die 't spoor u opent , om uw ' Koningsscepter weêr Te krijghen , en de moordt uws Ghrootvaârs , Ooms , en Vaders , Te wreeken , door de moordt van schelmen , en verraaders .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2445.s.1	Niet langs een heldenpadt van open oorelógh : Maar met vervloekt verraadt , met lasterlijk bedrógh , Tót woede storting van onschuldigh bloedt besteeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2450.s.1	De wraak ziet dat niet aan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2450.s.2	Wanneer men zich kan wreeken , 't Zy door het Vóssenbrein , 't zy door de Leeuwenklaauw ; Men kreunt zich luttel hoe , met zift dat niet zo naauw .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2464.s.1	Zo wreekt zich 't bastaardtbloedt , zo wreeken zich aartsfielen , En laffe ghuilen : Maar gheen hooghghebooren ' zielen , Gheen oorlóghshelden , dien , van kintsbeen opghequeekt In 't school der Deughdt , de walgh van schelmeryen steekt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2464.s.2	Dies staak deeze euveldaadt , Mêvrouw , my meêr te verghen : Ghy recht niet anders uit , dan my tót weêrwil terghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2464.s.3	Ik heb het u voorheen ghezeghdt , en zegh het nóch ; Mijn ' handt schrikt voor verraadt , mijn hart walght van bedrógh .	Fear_Emotion_BodyPart_BodilyProcess_Disgust
+meij001verl01_01.TEI.2.text.body.div.div.sp.2488.s.1	'k Beken , de Deughdt verbiedt verraadt in haare wetten : Maar Reeden leert weêr 't quaadt met quaadt betaalt te zetten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2488.s.2	Indien de Dwinglandt , na 't bericht der Deughdt , zijn daân Ghereegheldt had , hy hadde uw ' Ghrootvaâr nooit verraân , Uw ' Oom , en Vader , nooit vermoordt , nócht 's Konings zeetel , Als aartsgheweldenaar , beklommen ; nócht vermeetel , Met wreede dwang , ghemaakt uw ' Moeder tót zijn vrouw , Om zich te vesten , op den Rjjkstroon , door die trouw .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2488.s.3	Nu heeft de staatzucht hem verrukt , tót all ' die quaaden , En vuil bezoetelt , met zo ghrouwzaame euveldaaden : Dus eischt de Reeden , dat hy , met ghelijke munt , Betaaldt werd , daar 't gheluk een schoonen kans toe ghunt , Die , zo ghy 't reuk'loos niet verwaarloost , biedt de zeeghe .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2488.s.4	't Ghepleeghdt verraadt gheeft u verlóf , verraadt te pleeghen : Dies buigh uw ' strakken zin , en vólgh mijn ghoeden raadt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2514.s.1	Zo 't quaadt , by yder , te verghelden stondt , met quaadt ; Het menschlijk leeven smeede een reeks van euvelheeden ; Ja all ' , die 't lóflijk padt der ghoude Deughdt betreeden , Verbondt ghestaâgh de Reên , ter slinker af te slaan , En 't spoor te vólghen , welk een booswicht voor zou ghaan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2514.s.2	O neen ; de Deughdt , wat stórm haar ook an boordt koomt klampen , Streeft haaren heirbaan langs , door onghelijk , en rampen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2514.s.3	Dóch neem , 't stondt vry , verraadt te loonen met verraadt : Hier schuilt iet arghers , welk uw ' toelegh teeghenstaat , En mijnen arm ghebiedt , 't gheen ghy haar verght , te weigheren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2514.s.4	De Dwingelandt , om op den Koningstroon te steigheren , Schon slechts het scepterrecht , door Vórstenmoordery , En plengde onnoozel bloedt ; daar ik daarboven my Nóch schandigh zou misghaan an Vader , en an Broeders .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2517.s.1	Een Stiefvaâr , en Stiefbroêrs .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2521.s.1	De bedtghenoot mijns Moeders , De zoonen haars ghemaals .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2525.s.1	Maar die 't is met gheweldt , Die tót zijn huw'lijk my ghedwongen heeft .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2533.s.1	Dat scheldt My van mijn ' plicht niet vry : 't was d'uwe , te verhinderen , Na Vaders doodt , dat ik den Dwinglandt , nócht zijn ' kinderen Verschuldighdt waar t'ontzien , als broeder , nóchte als zoon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2533.s.2	Nu heeft uw huwelijk my dat ontzagh gheboôn , Hem tót mijn ' Vader , en hen tót mijn ' Broêrs verheeven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2537.s.1	Mijn huwelijk heeft u , en my , gheborghen 't leeven , 't Welk anders schipbreuk leedt ; opdat ....	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2541.s.1	Van kindtsbeen aan , Het waar den Dwingelandt verplicht ten dienst te staan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2547.s.1	Opdat ghy Ghrootvaâr , Oom , en Vader , als uw ' jaaren Ter manlijke ouderdom , en kracht , gheklommen waaren , Zoud ' wreeken , en , den Rijksgheweldenaar ter troon Afbonzende , in 't bezit u zetten van uw ' kroon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2553.s.1	Ghy hebt my , door uw ' trouw , verbóden my te wreeken , En van mijn errifrecht ter scepterstaf versteeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2563.s.1	Heb ik uw ' wraak verboôn ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2563.s.2	versteeken van uw recht ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2563.s.3	Ik , die , zo meenighmaale , u heb het padt gheslecht , Heb hulp verschaft , heb moedt in 't lijf ghepooght te spreeken , Om uw vermoordt gheslacht heldthaftighlijk te wreeken , Te stijghen op uw ' troon ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2563.s.4	wat schuiftghe uw ' schuldt op my ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2563.s.5	Hebtghe al mijn werk niet steedts te loor ghesteldt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2598.s.1	Hebt ghy De kroon , van Ghrootvaâr , Oom , en Vader , na 's landts wetten , An u verstorven , niet bestaan op 't hoofdt te zetten Den Rijksgheweldenaar ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2598.s.2	Den staf , die my toequam , Na uwe doodt , als oir der Koninklijke stam , Hebt ghy mijn ' handt ontmaakt , by leevendighen lijve ; En dien Tiran ghemaakt , toengh ' hem , ten echten wijve Gheworden , plaatste , als man , en heer , an hoogher handt , Op Ghrootvaârs zeeteltroon , tót wettigh Vórst van 't landt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2598.s.3	Indien 't weêrstreefde uw ' wil , dat hy den staf zou zwaayen ; Waarom hem die ghelangt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2598.s.4	Indien ghy 't bloedt woudt paayen Van ons vermoordt gheslacht , met wraak ; waarom die voort Niet by der handt ghevat , op 't klinken van de moordt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2598.s.5	't Gheen ghy nu mijnen arm , Mêvrouw , verght uit te voeren , U uit te voeren stondt , toen eerst in reppe , en roere , Was hóf , en stadt , en landt , door 's Dwinglandts overmoedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2598.s.6	Toen moest ghy hebben 't vuur der oploop , met zijn bloedt , Ghelescht ; hem van den troon gheweerdt ; zijn ' drift ghebrooken ; En door zijn ' neederlaagh mijne Ouderen ghewrooken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2598.s.7	Ghy kost het toen , met eere ; ik zoude 't nu , met schand ' .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2601.s.1	Mijne onmaght leedt het niet ; hy had reê d'overhandt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2609.s.1	Nu lijdt mijn ' plicht het niet : de Deughdt kant zich ' er teeghen , En d'eer verbiedt mijn ' handt te stroopen haaren deeghen Tot broêr - en vadermoordt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2609.s.2	Dies staak , Mêvrouw , an 't oor My meêr te lellen ; alle uw ' moeit loopt tóch te loor .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2613.s.1	Ontaarde zoon , houw op van plicht , en eer , te roemen ; En uwe snoode min daar onder te verbloemen .	Emotion_Love_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.2616.s.1	Wat snoode min ?	Emotion_Love_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.2619.s.1	Die ghy des Dwinglandts Dóchter draaght .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2625.s.1	't Is waar , ik vier , en dien die ghóddelijke maaghdt ; Maar met zo schoon een vlam , als immer hart kon blaaken .	BodyPart_BodilyProcess_Love_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.2631.s.1	Een vlam , waar door uw hart verwaareloost de wraake Van uw gheslacht , en , onghevoeligh in uw ' hoon , Met koelen moede , duldt een Dwinglandt , op uw ' troon , De hooghgheboorenheidt uws afkomsts te verneêren .	Emotion_BodyPart_Love_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.2639.s.1	Verwijt ghy my , dat ik mijn ' koningsstam onteere , Door mijne liefde ; ghy , die , door uw huwelijk , Ghemaakt hebt 's Rijks tiran , tót wettigh Vórst van 't Rijk ; Uws mans doodtslagher tót uw ' man , een aartsverraader Tót heer van 't landt , den beul mijns Vaders tót mijn ' Vader , En 's Konings moordenaar tót 's Konings erfghenaam .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.2642.s.1	Een noodtdwang dreefme , opdat gheen ramp u overquaam ' .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2657.s.1	't Was moed'loosheidt , en vrees voor sterven , die u dreeven .	Fear_Emotion
+meij001verl01_01.TEI.2.text.body.div.div.sp.2657.s.2	Men dwingt gheen eêl ghemoedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2657.s.3	Dies voeghde u , eêr het leeven Daar in te schieten : dan , dus eerloos , den Tiran Te dulden op uw ' troon , te hulden tót uw ' man .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2657.s.4	Nu hebtghe vuil bevlekt de ghlorie uwer ouderen , Door uw ' lafhartigheidt ; en uw ' , en mijnen schouderen Dit smaadelijke juk des Dwinglandts opgheleidt : Ik draagh 't gheduldigh , en ik toon ghehoorzaamheidt .	Fear_Emotion
+meij001verl01_01.TEI.2.text.body.div.div.sp.2657.s.5	Dóch port u 't naberouw van uw verghrijp te wreeken Uw ' neêrghevelde stamme , en den Tiran te steeken Na 't harte , en uwe kroon ; verschoon , Mêvrouw , mijn ' dólk , En voer uw ' wraakzucht uit , met dit ghewapend vólk .	Emotion_Vindictiveness_Remorse
+meij001verl01_01.TEI.2.text.body.div.div.sp.2661.s.1	Het eischt een man tót hoofdt , die 't anvoere , en bescherrem ; En 's Ghrootvaârs bleeke schim de wraak van uwen arrem .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2664.s.1	Mijns Ghrootvaârs schim ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2667.s.1	Zijn gheest , die stadigh om my zweeft .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2670.s.1	Hy rust in vreede , en u gheen stóf van quelling gheeft .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2689.s.1	Ach !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2689.s.2	al te veel .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2689.s.3	Wanneer de droeve nacht haar ' schimmen Strooit door de lucht , en zoomt met schaduwe onze kimmen , Verschijnt my meêrmaals dat ghrootachtbaar aanghezicht , Niet als 't , verheerlijkt met het eerentfeste licht Der oppermajesteit , ontzagh'lijk plagh te zitten Ter hooghe zeeteltroon der wijdtberoemde Britten : Maar ( laas ! ) beklonterdt , met het kladd'righ inghewandt Des bekkeneels , begruist met bloedigh stóf , en zandt , En onghezien , door wondt op wondt , die stadigh druipen .	Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.2693.s.1	't Zijn yd'le droomen , die uw ' herssenen bekruipen , En 't maalende verstandt beschertsen , in den slaap .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2697.s.1	't Is waarheidt , en gheen droom , waar aan ik my verghaap : 't Ghemoet my waakende , en ik zie 't , met opene ooghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2702.s.1	Mijns Ghrootvaârs schaduw zoude an my zich wel vertooghen ; Indien hy wraak eischte , op den moorder , van mijn ' handt , En , uit 's Rijks zeeteltroon , geschopt den Dwingelandt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.2703.s.1	Velleede ter zijden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2710.s.1	Nu is 't hoogh tijdt , om mijn ' besteeken ról te speelen , En proeven , óf bedrógh dit vruchteloos krakkeelen Niet brengen kan ten einde , en lichter , dan mijn reên , Dien kóp vermurruwen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2713.s.1	Wat preevelt ghy alleen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.1	Ik smeek den Heemel , ons verschil te willen enden , En , uit het zaligh dal der zielen , opwaarts zenden Uws Ghrootvaârs gheest .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.2	Hy knikt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.3	De Maane suizebólt , In 't onderghaan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.4	't Ghestarnt zijn ' doodtverw zet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.5	Daar rólt De donder , door de lucht ; en braakt , uit vuur'ghe kaaken , Een sterke bliksemghloedt , dat bergh , en toorens kraaken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.6	De Teems , door schrik ontbloot van zijnen ghlazen toom , Stouwt , aarz'ling bronnewaarts , de ghólven zijner stroom .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.7	Het koninklijk paleis bezwijmt , als van zich zelven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.8	De pijlers sidderen , door 't waggh'len der ghewelven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.9	De vloeren steigh'ren , steil om hoogh ; en loeijen vast Heel schor .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.10	De zólder , met een naare weêrghalm , bast .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.11	De ghlazen rinkelen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.12	De wanden yz'lijk huilen , Met heesch ghejank .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.13	Daar ploft , door 't zwijken van de zuilen , Het schaliedak ter neêr .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.14	Oey my ! 'k ben t'einde raadts !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2744.s.15	Waar vlucht , waar bergh ik my ?	Fear_EmotionalAction
+meij001verl01_01.TEI.2.text.body.div.div.sp.2748.s.1	't Hóf staat nóch op zijn plaats , Mêvrouw ; bedaar .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2751.s.1	Daar barst , en splijt de korst der aarde .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2754.s.1	Helpt Ghoôn !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2754.s.2	wat 's dit ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2754.s.3	Gheen schrik my ooit zo zeer vervaerde .	Fear_Emotion
+meij001verl01_01.TEI.2.text.body.div.div.sp.2759.s.1	Daar welt een zwavelghloedt , doorvlamdt met ghólven smooks , Ter spleete uit ; en bezwalkt de lucht , vol stanks en rooks ; Het voorspel zijner komst .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.2761.s.1	II .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.2761.s.2	tooneel .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.2762.s.1	Velleede , Fastarad , Rey van ghewapende Dienaars , Ottomar in de schijn van een Gheest .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2768.s.1	Zie hoe , van liever leede , Hy opzweeft , uit het lógh ; en herwaarts aan komt treeden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2771.s.1	Wie ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2771.s.2	wat , Mêvrouw ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2774.s.1	De schim uws Ghrootvaârs .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2777.s.2	men wijk ' .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2794.s.1	Men houde stal , mijn zoon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2794.s.2	Dit afghemarteldt lijk Strekke u ten prikkel , om zijn ' wreede moordt te wreeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2794.s.3	Anschouw zijn ' trótse borst , zo jammerlijk doorsteeken , Met meenigh doodtwondt , daar noch 't reut'lend bloedt uit druipt , En lanks het deeluwbleek der doodsche leeden kruipt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2794.s.4	Hoe deerelijk ziet dat gheraamt ' , met scherpe schinkelen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2794.s.5	Hoe staan zijn ' blikken , diep ghedooken in hunn ' winkelen , Te flonkerbranden , met karbonkelroode ghloedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2794.s.6	Hoor toe ; hy spreekt : en prent zijn ' stemme in uw ghemoedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.2795.s.1	Ottomar	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2818.s.1	Hoe lang , ontaarde neef , zultghe uwer Moeder weigheren Mijn ' doodt te wreeken , en ter zeeteltroon te steigheren ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2818.s.2	Hoe lang , voor 's Dwinglandts juk , zal u de minnevlam Verdwaasdt doen bukken , en verloochenen uw ' stam ?	BodilyProcess_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.2818.s.3	Kontghe u erinneren de moordt van my , van Vader , En Oom , en die , op den moordtdaadighen verraader , Verwaareloozen streng te wreeken , zo 't betaamt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2818.s.4	Zo zijtghe een bastaardtrank , wiens zich mijn ' stamboom schaamt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2818.s.5	Wat pooghtghe althans met ghlimp van plichtschuldt , te blanketten Uw ' minnevlammen , die daar teeghen zich verzetten ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2818.s.6	Doof uit dat laffe vuur , en eed'ler vuur van wraak Ontsteeke uw ' boezem , tót handthaaving onzer zaak : Of slaat ghyze in den windt , zo zal ik , met de zielen Uws Ooms , en Vaders , u fluks zitten op de hielen , En niet aflaaten , voor uw ' handt ons wraak bestell ' .	Fear_Emotion_BodyPart_BodilyProcess_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.2818.s.7	Dies schafze ons nu , en kom dat voor .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2818.s.8	Ik gha .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2818.s.9	Vaar wel .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.2821.s.1	III .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2825.s.1	Wel nu : kan dit bedroefdt ghezicht u overtuighen ?	Emotion_BodyPart_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.2832.s.1	Ik sta verzet : mijn hart beghint allengs te buighen , Na Ghrootvaârs weeklaght , en tót uw ' ghehoorzaamheidt : Doe opening , hoe ghy den aanslagh hebt beleidt .	BodyPart_BodilyProcess_Wonder
+meij001verl01_01.TEI.2.text.body.div.div.sp.2836.s.1	Men zoude , aleer de zon den nanacht quam verdryven , Des Dwinglandts tweelingzoons , op 't leedekant , ontlyven ......	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2840.s.1	Zijn ' tweelingzoons , Mêvrouw ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2840.s.2	hoe , die zijn immers an De moordt onschuldigh ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2844.s.1	Zy zijn kroost van den Tiran , En dat 's ghenoegh , om hen daar schuldigh aan te maaken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2850.s.1	Maar , waar 't niet raadzaamer , van hem ten eersten wraake Te neemen , en eens sloeghs zijn ghang na 't koningdom ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2855.s.1	Och ja , 't waar raadzaamst , zo zijn ' lijfwacht , die rondtom Zijn ' leegherplaats , by nacht , by daghe , t'aller steeden , Houdt scherpe wacht , dien wegh ons niet hielde afghesneeden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2858.s.1	Men wacht ' gheleeghenheidt , en schort ' zo lang dat werk .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2864.s.1	Het lijdt gheen lunderen ; de noodt nijpt veel te sterk : Ghy hebt voorheen te vaak mijn ' voorslagh afgheslaaghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2867.s.1	Wat drijft u dan , dit zo voorbaarigh voort te jaaghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2906.s.1	U is bewust , hoe dat Mathilde , Koningin Van Kaledonien , door last haar 's Vaders , in Zijn sterf bedt uitghedrukt , als zy , ter huwb're jaaren Volwassen waare , in echte is opgheleghdt te paaren Met hem , die hier , als Vorst , den rijksstaf zwaayen zou .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2906.s.2	Ghy weet ook , hoe zy , tót voltrekking haarer trouw , Met een wijdtlufte sleep van Ghraaven , Ridders , Heeren , En Vrouwentimmer , om haar ' bruilóft te vereeren , Hier onlanks is ghelandt , en inghehaaldt met pracht : En hoe de Dwingelandt deez ' Koningsbruidt nu tracht Den eerstgheboor'nen van zijn ' tweelingzoons te gheeven ; Daar zy beschooren wierdt uw ' Oom .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2906.s.3	Want toen dit leeven Haar Vader afley , praald ' hier op den zeeteltroon De mijne , uw Ghrootvaâr ; op wiens hooghbeghaafden zoon Hy 't oogh hadde , als hy kroon , en Dóchter , voor zijn sterven , Besprak den gheenen , die de Britsche kroon moest erven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2906.s.4	Van uwen Oom verviel de staf op my , en u ; Dien 't dies alleen toekomt , dat met Mathilde huw ' .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2906.s.5	Hy echter heeft , van daagh ' den oudsten zyner zoonen ( 't Geen hy steedts hiel bedekt ) tót wettigh oir der kroone Bestemdt te noemen , en , verheerlijkt met dat recht , Voorts aan Mathilde te verknóchten in den echt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2906.s.6	Dit moetghe , uit alle uw ' maght , verhind'ren ; hier met lijve En ziel fluks teeghen zijn : want , zo dit werk beklijve , En 's Dwinglandts zoon , daar door , eens voet krijghe op den troon ; Ghy mooght , voor eeuwigh , wel weghschrijven uwe kroon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2913.s.1	Wat draayboom schut een werk , zo hoogh reets opghesteeghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2923.s.1	Des Dwinglandts zoonen te vernest'len met den deeghen , Op hunne slaapkoets , eer de dagh anbreekt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2923.s.2	Hunn ' doodt , Oft hunn ' quetsuuren zijn verlets ghenoegh , dit ghroot Voorneemen plotseling te rugh , ófte om te stooten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2926.s.1	't Is ghoedt , Mêvrouw : maar hunn ' slaapkamer staat gheslooten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2929.s.1	Men loop ' de deure , en al , wat weêr biedt , op de vloer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2935.s.1	Welaan ; gheen euveldaadt , zo stout , die 'k niet volvoer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2935.s.2	Trouwanten , toont uw moedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2935.s.3	Een yder trekk ' van leeder .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2935.s.4	Nu met ghelijker handt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2935.s.5	Daar light de deur ter needer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2935.s.6	Dat ghaat u voor .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2938.s.1	En my an 't harte , en na den zin .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.2940.s.1	IV .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.2941.s.1	Velleede , Ottomar in den schijn van een Gheest .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2947.s.1	Zo krijght , in 't eind ' , mijn ' wraak zijn langghewenscht beghin , Des Dwinglandts kroon een krak , mijn zoon zijn recht in handen , En mijne onterfde vuist den breidel deezer landen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2947.s.2	Waar zijt ghy , Ottomar ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2950.s.1	Alhier , Mêvrouw .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2964.s.1	Mijn vriendt , Die mijnen anslagh hebt , van pas , ten steun ghediendt , Gheen eeuw zal , uit het boek van mijn ' ghedachtenissen , De dankbaarheidt , en 't loon voor zulk een weldaadt , wisschen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2964.s.2	Uw ' hulp my heiligh is ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2964.s.3	maar 'k hebze bet van doen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2964.s.4	De tweelingbroeders , die mijn zoon bespringt , zijn koen En rap ; en zullen met hunn ' dienaars , door 't gerommel Der neêrgebonsde deur ghewekt , hem , en zijn ' drommel Een harden weêrstandt biên ; deez ' past het by te staan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2967.s.1	Maar zacht ; ik hoor ghedruis .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2974.s.1	Och ja , daar komt hy aan Al aarzelende ; ik bid , verzuim niet hem te helpen , Eer batser onheil ons all ' t'zaam koome overstelpen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2977.s.1	Ik ben bereidt , Mêvrouw ; waar bergh ik dit ghewaadt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2987.s.1	Neen , houw het aan , en toon een ysselijk ghelaat .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2987.s.2	Mijn zoon zal waanen , dat zijn Ghrootvaâr komt beschikken , Daar hy te korte in schiet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2987.s.3	De vyandt zal verschrikken , En deizen , op 't ghezicht van zulk een vreemdt ghedrócht .	Fear_Emotion_BodilyProcess
+meij001verl01_01.TEI.2.text.body.div.div.sp.2991.s.1	Welaan , pak u slechts wegh .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2991.s.2	Uw ' voorslagh werd ' volbróght .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.2993.s.1	V. tooneel .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.2994.s.1	Fastarad , Trasimond , Alarik , Rey van ghewapende Dienaars , al vechtende , Ottomar in den schijn van een Gheest .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.2995.s.1	Trasimond	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.2997.s.1	Staat , schelmen , staat .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3004.s.1	Houdt stal , spitsbroeders ; niet te vlieden , Ziet daar mijns Ghrootvaârs schim , om ons de handt te bieden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3004.s.2	Schept moedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3013.s.1	Gheen helsch ghespook , ófte onderaardsche gheest , Hoe wreedt van opzicht , die mijn ' kling in 't minste vreest , Ofte u voor my bevrijdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3013.s.2	Valt aan , mijn ' trouwe knechten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3013.s.3	Bant alle schroom : mijn ' vuist zal zelf den gheest bevechten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3013.s.5	Houdt daar .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3014.s.1	Nadat'er een wijl ghevochten , en Fastarad , met zijn ghezelschap , op de vlucht ghedreeven is : koomen Trasimond , en Alarik met hunne dienaars weeder te voorschijn .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.3016.s.1	VI .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3017.s.1	Trasimond , Alarik , Rey van Dienaars .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3023.s.1	't Ghespuis is wel ghevlucht , Heer broeder , onder ghunst der nanacht ; maar ik ducht , Dat op eene uchtendtstondt , zo euvel , en verbólghen , Een vry verbólghener , en euv'ler dagh wil vólghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.3024.s.1	Alarik	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3033.s.1	Uw ' zórghe ontbeert gheen schijn , en 't voorspel duit niet ghoedts : Maar wapenenwe ons hart , met beukelaars , vol moedts , Waar op de nijdt , en haat , haar ' tanden stukken byten , En 't anstaand onheil zijn gheweldt vergheefs op slijte .	HeavyHeartedness_Worry_Emotion_Hatred_Envy_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.3053.s.1	Ik kreun 's my luttel , wat ons toeghrimt , nijdt , óft haat : Maar weet voor 't onheil , welk onz ' hoofden dreight , gheen raadt , Nócht hulp , en duik daarom , vermeesterdt , voor zijn ' plaaghen .	Emotion_Hatred_Envy_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.3053.s.2	De broederliefd ' , die wy elkanderen toedraaghen ; D'oprechte vriendschap , die mijn hart hecht aan uw hart , Maakt , dat de kleenste ramp , die u ghemoet , my smart , Die my ghemoet , u pijnt ; zodat alle onghelukken , Welke overkoomen u , óft my , ons beiden drukken .	Emotion_Love_Dedication_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3053.s.3	Nu wil deez ' ghroote dagh bezaal'ghen u , óft my , Met een Vórstinnenecht , en dubb'le heerschappy ; En zo , ter steiler tóp van 't hooghst gheluk , verheffen , En weeder u , óft my , met zo veel onluks , treffen .	Emotion_Happiness_Unhappiness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3053.s.4	Wien onzer dit gheluk , ófte onluk valt te beurt ; Bey ploffenwe in verdriet , welk onze boezems scheurt .	Emotion_Happiness_BodyPart_BodilyProcess_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3058.s.1	'k Beken , 't ghevaar dreight hardt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3058.s.2	Dóch , zo ik my darde uiten , My blinkt een licht toe , om iets raadzaams te besluiten , Tót weering , dat ons zulk een ramp niet overkoom ' .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3063.s.1	Ghy quetst onz ' broederliefde , en vriendschap , door die schroom .	Emotion_Love_Shame_Loyalty
+meij001verl01_01.TEI.2.text.body.div.div.sp.3063.s.2	Spreek vryelijk , wat raadt uw ' gheest hebbe uitghevonden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3075.s.1	Ghy weet , hoe vast an een onz ' zielen staan verbonden ; Hoe ik u meerder minne , als Hylas Herkules , Als Kastór Póllux , ófte Orestes Pylades Ooit heeft bemindt : zodat uw ' weederspoên my deeren , Ghelijk u zelfs .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3075.s.2	Dies woude ik , om de buy te keeren , Die , zwanger van verdriet , ons beid ' hangt over 't hoofdt , Door 't ghroots gheschenk , welk een van bey slechts staat beloofdt , Dien kóstelijken schat , in twee gheschenken , scheiden , En , met de helft , verzien een yder van ons beiden .	Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3083.s.1	'k Omhels met u een raadt , zo heilzaam en zo schoon , Ik schift dat ghroots gheschenk , en ruim u vaders troon ; Laat my , in teeghendeel , Mathilde slechts ghebeuren , En mijn vernoeghdt ghemoedt zal zich ghelukkigh keuren .	Joy_Emotion_EmotionalAction_Happiness_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3086.s.1	Helaas !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3089.s.1	Hoe dus , baart u mijn anbódt droeffenis ?	Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3092.s.1	Ghy noemt het bieden , daar het waarlijk kiezen is .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3095.s.1	Ik draagh u immers op de Britsche Koninkryken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3099.s.1	En deelt voor u een schat , daar by niet te ghelyken , En daar 'k alleen na haak .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3102.s.1	Wat 's dat ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3102.s.2	Mathilde ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3108.s.2	zy Is 't zelf , voor wiens ghenót , ik vaders heerschappy U woude opófferen : maar ghy zijt voor my vaerdigh Gheweest in 't kiezen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3111.s.1	Hoe , acht ghy haar dan zo waerdigh ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3114.s.1	Acht ghyze minder ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3118.s.1	Ik beken ; zy eevenaart Het prachtighst koningdom .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3121.s.1	Ja all ' die van der aard ' .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3124.s.1	Ghy mint haar dan ?	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3136.s.1	En ghy , ghy mint haar van ghelyken ?	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3136.s.2	Zie daar de donderslagh , waar onder ik bezwyke !	BodilyProcess_Love_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.3136.s.3	Ik hoopte , dat de ghlants , welke uit de rijkskroon straalt , Verschuilt zou hebben die , daar haar ghelaat meê praalt , Voor uw ghezicht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3136.s.4	Maar ( ach ! ) 'k staa in mijn ' hoop bedrooghen ; En 't zonnelicht , welk haar ten ghóddelijken ooghen , En anschijne , uitblinkt , heeft zich meê , voor uw ghemoedt , Ten toon ghesteldt , en 't hart ontvonkt , met minneghloedt .	Emotion_BodyPart_BodilyProcess_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3136.s.5	O onmeêdooghend lót !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3139.s.1	Hoe langer , hoe verwoeder !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3144.s.1	Mijn broeder , 'k zagh ' er door , en waart ghy niet mijn broeder .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3150.s.1	Ach broeder , en met een mijn meedevryer !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3150.s.2	ach !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3150.s.3	Waar hólt dit heenen !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3150.s.4	wat bescheert ons deeze dagh !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3153.s.1	Ach broederliefde , is dit een aanvang , waar wil 't enden !	Emotion_Love_Loyalty
+meij001verl01_01.TEI.2.text.body.div.div.sp.3157.s.1	Ach vrouwemin , wat sleeptghe een staert na van ellenden !	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3157.s.2	Hoe strijdt ghy t'zamen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3157.s.3	wie bevecht hier d'overhandt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3174.s.1	De broederliefde 't veldt ruim ' , voor de minnebrandt .	Emotion_BodilyProcess_Love_Loyalty
+meij001verl01_01.TEI.2.text.body.div.div.sp.3174.s.2	Want , als een schoonheidt heeft vermeesterdt 's minnaars zinnen , Zo hy haar laat , hy heeft gheen moedt , nócht weet van minnen .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3174.s.3	Mathilde blaakt ons hart ; men staa na haar bezit : En wijl men niet , dan op den troon , beschiet dat wit , Men streeve na den staf .	BodyPart_BodilyProcess_Love_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.3174.s.4	Die zucht wil heerlijk ghlooren , Om haar ghenót ghesmoordt , om haar ghenót herbooren : En vaders kroon , voor haar eerst rustigh afghestaan , Lókt ons , omz ' haar op 't hoofdt te zetten , weeder aan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3182.s.1	Men doel vry hoogher aan : zodat , eer 't zonlicht daale , Zo wel de broederliefde , als minzucht , zeeghepraale .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3182.s.2	Laat zy , om pal te staan , als onbeweeghb're róts , Mathildes min ten spijt , en vaders kroon ten tróts , Met zulk een hechten knoop onz ' harten samenbinden , Dat elk , in 's broeders luk , zijn eighen luk magh vinden .	Emotion_Happiness_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3185.s.2	zult ghy 't konnen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3191.s.2	vernoegh u , dat ik 't wil .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3191.s.3	Mijn reeden zal mijn hart vermeest'ren , dat het stil Zal zwichten ; ófte ik zal 't verlooch'nen , zo 't daar teeghen Dart kikken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3194.s.1	'k Vólgh u , op dat spoor , vol heil , en zeeghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3200.s.1	Men onderschoore voorts , met eeden , dit besluit , Voor 't aanghezicht der Ghoôn .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3203.s.1	Hunn ' ghoedheidt voere 't uit .	None
+meij001verl01_01.TEI.2.text.body.div.div.p.3205.s.1	Einde des eersten Bedrijfs .	None
+meij001verl01_01.TEI.2.text.body.div.head.3209.s.1	Tweede bedryf .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.3210.s.1	I. tooneel .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3211.s.1	Mathilde , Atelstan , Leeuwenbald .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.3212.s.1	Mathilde	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3217.s.1	Indien de Vórsten van dit Rijk zich , by mijn ' Heeren , Vervoeghen , om den staat des Dwinglandts om te keeren , 't Voorspelt ons d'overhandt , en d'aanvang , zo vol spoedts , Beloofdt onz ' anslagh in zijn ' uitslagh alles ghoedts .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.3218.s.1	Leeuwenbald	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3234.s.1	En twijffelt gheensins an hunn ' trouw , en ghoê gheneeghenheidt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3234.s.2	Zo haast hadde ik , mijn Vórst , hen allen de gheleeghenheidt Van uwe ontkooming , met uw ' trouwen voesterheer , Uit 's Dwinglandts klaauwen , niet ontdekt ; en hoeghe u neêr , In 't Kaledoonsche hóf , had zo bedekt ghegheeven ; Dat niemandt twijffelde , óf ghy waart gheraakt om 't leeven , Toen uw Heer Vader sneefde , en al zijn hófghezin ; En hoe ghy nu ten hoof waart , met uw ' koningin , Ghekoomen , neevens 't puik van haare Hovelingen , Om uwen scepterstaf den Dwingelandt t'ontwringen : Of elk van yver blaakte , op uw ghebódt bereidt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3234.s.3	Laat zy nu , onder uw manhaftigh krijghsbeleidt , Den wegh u baanen , om ter zeetel op te steigheren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.3235.s.1	Atelstan	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3248.s.1	't Waar reukeloosheidt , hunn ' gheboden ' hulp te weigheren ; Maar zy dient wel besteedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3248.s.2	Men kavele dan tijdt , En houde een waakend ooghe in 't zeil .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3248.s.3	Ghy daarom vlijdt U stil in 't hóf , en past naauwkeurigh af te meeten All ' 's Dwinglandts toelegh , om ons dat te laaten weeten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3248.s.4	Wy willen ghâ slaan , wat zijn ' ghemaalinne brouwt ; Die ( zo men mompelt ) zich , dóch vrucht'loos , heeft verstout Zijn tweelingzoonen , op hunn ' slaapkoets , te bespringen , Om , door hunn ' doodt , haar ' zoon in mijnen troon te dringen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3248.s.5	Uit zulk ghewoel kon licht voor ons een kans ontstaan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3251.s.1	Ik vólgh uw ' last , en dienze ons eedtghenootschap aan .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.3253.s.2	Tooneel .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3254.s.1	Mathilde .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3254.s.2	Atelstan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3260.s.1	Zo raakt des Dwinglandts troon , van 't wagghelen , en sidderen , An 't zinken , ondermijndt door zo veel braave Ridderen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3260.s.2	'k Beklaagh mijn ' moeite niet , maar hou die vol betaaldt , Als maar onze anslagh , op uw ' vyandt , zeeghepraalt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3269.s.1	Wat 's dit , mijn Prins ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3269.s.2	vindt ghy dan stóf van klaaghen , Daar 't alles komt , na wensch , voorspoedigh te beslaaghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3272.s.1	Daar schort het niet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3275.s.1	Wat maakt u dan dus droef te moê ?	HeavyHeartedness_Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3288.s.1	Mijn ' Koningin , 't gheluk lacht ons zeer vriend'lijk toe , En , zo dat wuft ghelaat niet staat ghezindt te keeren , Vereevenaart haar ' ghonst volkoomen ons begheeren .	Emotion_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.3288.s.2	Maar eevenwel hangt , aan dit zoet , veel bitters vast .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3288.s.3	Ik steek in diepe schuldt , welke aanghroeit , en zo wast , Dat ik gheen raadt zie , om daar immer uit te raaken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3291.s.1	Wie 's maghtigh , u tót zulk een schuldenaar te maaken ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3305.s.1	't Is eene , die , vol ghonst , in 't barnen myner noodt , Zich mijns erbarmt , en my ontfaân heeft , in haar ' schoot .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3305.s.2	't Is eene , die haar ghoedt , en bloedt , nóch op wil zetten , Om my te kroonen , en den Dwinglandt te verpletten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3305.s.3	't Is eind'lijk eene , voor wiens schoont ' ghebooghen light Mijn minziek hart , vol schaamt , dat ik zo hoogh 't ghezicht Hief , zonder voorspraak van verdiensten ; en de haare Aan my zo veele zijn , dat , om die t'eevenaaren , Al overleefde ik zelfs een tallooze eeuwenry , Mijn ' maght niet toelangt : Daar mijn ' dienst , mijn ' slaverny Moest , om tót weedermin haar ' ziel te zien gheneeghen , 't Gewicht dier ghroote ghonst oneind'lijk overweeghen .	Emotion_BodyPart_Love_Shame
+meij001verl01_01.TEI.2.text.body.div.div.sp.3308.s.1	Mijn Prins , stel u gherust : 'k weet voor uw ' quelling raadt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3311.s.1	Ghy mist , Mêvrouw ; vermits 't uw ' maght te boven ghaat .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3314.s.1	Ben ik 't niet , wien ghy nooit haar ' weldaân kont verghelden ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3317.s.1	Ghy zijt het zelf .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3320.s.1	Heb ik gheen maght u quijt te schelden ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3323.s.1	O ja .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3326.s.1	Wat is 't , dat uw ' gheneezing dan belet ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3329.s.1	Uw ' quijting ( laas ! ) op nieuws mijn ' quelling scherpt , en wet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3332.s.1	Hoe kan dat zijn ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3335.s.1	Mits zy mijn ' schulden komt verghrooten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3338.s.1	Zy wischt die uit , als óf voldoening waar ghenooten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3346.s.1	Wel , by die quijtscheldt , maar , by dien men quijtscheldt , niet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3346.s.2	Een ' hooghghebooren ' ziel schaft niet alleen verdriet Te hebben weldaân , met gheen weldaân , weêr vergholden ; Maar , van die weldaân , zelf te worden quijtghescholden : Mits , by de weldaân , die hem reets zijn toeghebraght , Hy dat quijtschelden , voor een nieuwe weldaadt , acht .	Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3349.s.1	Wen ik u niet , wie zal u om betaaling quellen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3356.s.2	mijn gheweeten zal my staâgh voor ooghen stellen , Wat ik u schuldigh ben , en niet betaalen kan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3356.s.3	Te diep staan in mijn ' borst d'indrukselen daar van ....	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3356.s.4	Maar ....	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3359.s.1	Ghrimoald , Mathilde , Atelstan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.3360.s.1	Ghrimoald	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3381.s.1	Nademaal mijn ' keur een mijner tweelingzoonen U zal , Mêvrouw , ten man , en koning van twee kroonen , Van daghe , erweelen : en , door d'ondervinding , werdt Gheleerdt , hoe hardt dat valt , voor 't maaghdelijke hart , Een bruîghom , teeghen heugh en meugh , door dwang , ghenomen : Zo ben ik , eer 'k , voor 't hóf , mijne uitspraak doe , ghekomen Om t'onderstaan , tót wien van tweên uw ' zinlijkheidt Moght hellen : open dies , vry onbeschroomdt , hoe 't leidt By u gheschooren , ik wil , om u te vernoeghen , Schoon tot des oudsten schâ , my na uw ' lusten voeghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3391.s.1	Vermits , ghelijk ghy zeght , door d'ondervinding , werdt Gheleerdt , hoe hardt dat valt , voor 't maaghdelijke hart Een bruîghom , teeghen heugh en meugh , door dwang , ghenomen : Zo wil , ten einde my die ramp niet overkoome , Ik onbeschroomdelijk u openen , hoe 't leidt By my gheschooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3391.s.2	Weet dan , dat mijn ' zinlijkheidt Tót gheen van beiden helt , nóchte , om my te vernoeghen , Ghy u , tót 's oudsten schâ , hoeft na mijn ' lust te voeghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3394.s.1	't Scheelt u dan niet , wie 't zy ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3398.s.1	Het raakt my eeven zeer : Want , wie 't ook zy , hy wordt mjjn Bruîghom nimmermeer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3401.s.1	Hoe ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3401.s.2	zult ghy dan de wille uws Vaders weederstreeven ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3405.s.1	Dat keer de Heemel !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3405.s.2	Wat hy my heeft voorgheschreeven , Zal ik betrachten , zo als 't eener dóchter past .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3408.s.1	Trouw dan een myner zoons .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3411.s.1	Dat heeft hy niet belast .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3414.s.1	Verloofd ' hy u niet , aan die hier de kroon zal erven ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3417.s.1	Ja , als een wettigh Vórst .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3421.s.1	Zal dat niet , na mijn sterven , Een myner zoonen zijn ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3426.s.1	Hy waar 't , vol roems , zo ghy Die niet verweldighdt hadt , door woede dwinglandy , Den rechten erfghenaam , met onrecht , doende sterven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3429.s.1	Dat zy , zo 't wil ; hy zal de kroon hier wettigh erven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3432.s.1	Onwettigh Koning nooit een wettigh oir naliet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3441.s.1	Zijn ' last bedisselde dat zo spitsvinnigh niet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3441.s.2	Hy , als ghy huwbaar waart , heeft u ten echt beschooren Den Britschen erfprins , en dat 's nu mijn eerstghebooren , Dien zo ghy wraakt , wraakt ghy , 't gheen Vader heeft ghewildt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3453.s.1	Doortrapte Dwingelandt , verbeeldt ghy u Mathild ' , Zo slap van moedt , zo slecht van brein , dat , door schoon praaten , Zy , tót dat trouwverbondt , zich zoude inluyen laaten , Bezwalken , met die smet , de Kaledoonsche kroon , En planten haaren voet op uw ' gheroofden troon ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3453.s.2	O neen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3453.s.3	Mijn Vader , als hy my , met zijne kroone , Brittanjes Prins besprak , hadde op uws voorzaats zoone Het oogh ......	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3459.s.1	Die is van kant , en stelt zijn wit te loor , Mêvrouw .....	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3466.s.1	Dus lang gheweest : maar komt nu weeder voor Den dagh , om u , Tiran , na zijne kroon te steeken , Mijn ' trouw t'anvaerden , en zijns Vaders doodt te wreeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3466.s.2	Dus , zijt ghy welberaân , stijgh van zijn ' zeetel neêr , En ruim uw ' Koning in , zijn plaats ; eer hy 't u leer ' .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3472.s.1	Heeft dan dit straatgheruchte u hart meede inghenomen , En steuntghe op d'aankomst , van die nimmermeer zal komen , Die in den oploop , al te zeeker , raakte om hals ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3472.s.2	Zo zultghe .....	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3480.s.1	Neen , ik weet dat straatgheruchte is valsch : Maar weet ook ghy ; ik ben te fier , mijn ' trouw te gheeven Den zoon eens Dwinglandts , die mijn bruîghom braght om 't leeven , En in zijn erfghoedt zit met overdwaalsch verraadt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3483.s.1	Wat maaktghe dan ten hove ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3488.s.1	Om u , en uwen Staat , Het onderst ' boven , tót mijns bruîghoms wraak , te wenden , En 't ghansche koningdom u op het lijf te schenden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3491.s.1	Laatdunkende Mathild ' , denkt ghy wel , waar ghy zijt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3494.s.1	Daar zo veel schuld'loos bloedt om wraak gheduurigh krijt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3497.s.1	Wilt eens ter deegh , wie 'k ben , en wie ghy zijt , bezinnen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3500.s.1	Ghy zijt een Dwinglandt , ik een wettighe Vórstinne .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3503.s.1	Hoe trótst ghy dus 't ontzagh van mijnen scepterstaf .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3508.s.1	Zegh van uw ' Dwinglandye , aan elk zo hardt , en straf .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3515.s.1	Welaan : mijn ' Dwinglandy , dewijl u mijn ' zachtzinnigheidt Schijnt voet te gheeven , tót deez ' schamperheidt , en vinnigheidt , Daar zy moest worden , met ghoedtaartigheidt , gheloont , Zal u verleeren , dat ghy my dus smaadigh hoont .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3515.s.2	Daar zijn mijn zoonen .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3519.s.1	Ghrimoald , Mathilde , Atelstan , Trasimond , Alarik .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3523.s.1	Hoort mijn ' kinderen , komt nader , En wreekt de smaadt , en hoon van u , en uwen Vader .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3526.s.1	Wie is het , die u hoont ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3529.s.1	Wie is het , die ons smaadt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3532.s.1	Hy heeft te wachten 't loon voor zulk een euv'len daadt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3535.s.1	Deez ' handt ons wreeken zal , ten kóste van mijn leeven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.3536.s.1	Atelstan ter zijden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3538.s.1	En deez ' , ten kost ' van 't myne , u beiden weederstreeven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3550.s.1	O eed'le vonken , van mijn ' hooghgheboorenheidt , Ghy aart na 't zaadt , waar van uw ' stam wierdt opgheleidt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3550.s.2	Uw moedt tuight van mijn bloedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3550.s.3	Mijn ' smaadt te willen wreeken Is van uw ' dapperheidt een onbedrieghlijk teeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3550.s.4	Een ad'lijk hart , waar in de manhaft spant de kroon , Ghedooght niet , in zijne eer , de kleenste kreuk van hoon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3550.s.5	Welaan dan , vólght dat spoor , en wilt de wraak beghinnen ; Daar staatze , dien het gheldt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3553.s.1	Wie is 't , de Koninginne ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3556.s.1	Wie , ons verloofde bruidt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.1	Gheen bruidt , gheen Koningin ; Maar woede vyandin .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.2	Wat waant ghy , datze in 't zin Ooit heeft ghehadt , met u in d'echt zich te begheeven ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.4	Zy is van stamme , en moedt , te hooghverheeven , Om te bezalighen eens wreeden Dwinglandts zoon , Met d'overmilde ghonst van haare trouw , en troon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.5	Dus hoontze , en lastert ons ; en roemt , alleen ten hove Te zijn verscheenen , om mijn ' Staat het onderst boven Te wentelen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.6	Dóch zien wy haar , eerze ons benart , Dien kans af ......	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.7	Maar , ghy staat versuft .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.8	Waar zinkt uw hart , Welk straks uw ' tong deedt vuur , en vlammen , spuwen teeghen Mijn ' vyandin .	BodyPart_BodilyProcess_Despair_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.9	Waar smelt de fierheidt uwer deeghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.10	Zijn dit uitwerksels van mijn bloedt , en van uw ' moedt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.11	Maar 'k merk , waar het u schort .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.12	Een vuîghe minneghloedt Ontzeenuwt uwen arm : haar juk blutst uwe schouderen .	Emotion_BodyPart_BodilyProcess_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.13	Verwijfde , quijtghe u dus tót bystandt uwer ouderen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.14	Mijn ' zoons , waar steektghe ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.15	want ghy zijt mijn ' zoonen niet , Die t'mijner hulp voorheên niets achterweeghe liet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.16	Ben ik dan zwarmen ramps , en onspoedts doorghespartelt , Om , van een teere maaghdt , te worden afghemarteldt , In 't aanzien mijner zoons ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.17	O neen , 't zal anders ghaan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.18	De spijt wringt my 't ghemoedt .	Emotion_BodyPart_BodilyProcess_Remorse
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.19	De wraak dient vol te staan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.20	'k Weet raadt , om , met een slagh , die op de Koninginne Te neemen , van haar ' tróts , en van hunn ' dwaaze minne .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3589.s.21	Lafhartighe , wie eerst van u wreekt deezen hoon , Zal eerstghebooren zijn , en erfghenaam der kroon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3592.s.1	Heer Vader ...	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3595.s.1	Denk ...	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3601.s.1	Denkt ghy , wat u staat te beghinnen , Oft vólghen mijn ghebódt , en zo mijn ' schepter winnen , Oft vólghen uwe min , en daar van zijn beroofdt .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3601.s.2	Mijn ' kroon is niet te koop , dan voor Mathildes hoofdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.3603.s.1	V. Tooneel .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3604.s.1	Mathilde , Atelstan , Trasimond , Alarik .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.3605.s.1	Atelstan teeghen Mathilde .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3608.s.1	Mevrouw , dat 's vonnis van uw ' doodt , zo ghy uw leeven Behouden wilt , laat ons dit heilloos hóf begheeven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.3609.s.1	Mathilde teeghen Atelstan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3614.s.1	Hoe , met ghevaar daar in ghetooghen , uit mijn landt ; En al den adeldom ghekreeghen op mijn ' handt , Om , onverrichter zaak , zo lós van hier te scheiden ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3614.s.3	'k Hou standt , en wil het uiterste verbeiden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3618.s.1	Uw ' wil strekt my een wet ; en waaght ghy , om mijn landt , Uw leeven ; 't mijn ' , Mêvrouw , staat daar voor weêr te pandt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3624.s.1	Waar staat standtvastigheidt , ghevest op zulke wortelen , Die deeze donderslagh niet neederslaat an mortelen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3628.s.1	O schrikkelijk ghebódt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3628.s.2	wat doller donderslagh Plofte ooit , op 't menschdom , neêr , die hier by haalen magh .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3631.s.1	Ach Broeder !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3634.s.1	Broeder , ik bezwijk in zulk een lyen !	Emotion_BodilyProcess_Sadness_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.3637.s.1	Sta pal , en laat den moedt , zo moedeloos , niet ghlyen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3640.s.1	Wat moedt magh teeghen zulk een onghemeeten ' ramp ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3644.s.1	De ramp weeght over : maar ghoê raadt heeft vaak een kamp Ghewonnen , die alleen voor moedt stondt te verliezen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3647.s.1	Wat raadt , voor ons , in dit verwoedt gheval , te kiezen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3651.s.1	Een , die ons redt , uit deez ' erbarmelyken standt ; Zo ons de Koningin maar bieden wil de handt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3656.s.1	Men ondersta , hoe 't by haar Hoogheidt light gheschooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3667.s.1	Ghy hebt , Mêvrouw , 't ghebódt van Vader mooghen hooren ; Dóch wacht van ons , die , voor uw ' leeven , staan ghereedt Ons bloedt te storten , niet het allerminste leedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3667.s.2	Wy koomen slechts , om , met uw ' voorzicht , raadt te leeven , Hoedat men dit ghevaar , op 't veilighst , door zal streeven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3692.s.1	Doorluchte Broederen , welwaerdigh mijner trouw , Ghelooft niet , dat mijn hart gheknaaghdt wordt van berouw , Omdat ik my , voor die ik ben , heb laaten hooren , En , door mijn ' rondigheidt , gheterght uw 's Vaders tooren ; Oft dat het light zo laegh , dat daar zijn dreighement , En wreevele eisch , een vonk van laffe vreeze in prent .	Fear_Emotion_BodyPart_BodilyProcess_Anger_Remorse
+meij001verl01_01.TEI.2.text.body.div.div.sp.3692.s.3	De Koninksstam , uit welke ik ben ghesprooten , Blaast vry een eed'ler gheest , en fierheidt , in haar ' looten , Die ook mijn ' boezem vult , en door mijne ad'ren vloeit .	BodyPart_BodilyProcess_Pride
+meij001verl01_01.TEI.2.text.body.div.div.sp.3692.s.4	Mijne inborst op de leest van haar vooroud'ren schoeit ; En zo hy zich , met eer - en ghódtvergheeten ' handen , Tót koeling zyner wraak , verstout my aan te randen , Ontziende , nócht mijn ' kunn ' , nócht mijn ghezallifdt hoofdt , Hem is meêr weêrstandts , als hy wel verwacht , beloofdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3692.s.5	Mijne eersleep zal , voor my , haar bloedt ten besten gheeven , En , zo dat schiet te kort , zal 'k , neevens haar , mijn leeven Besluiten , onvertzaaghdt , met een heldinnedoodt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3692.s.6	Maar eevenwel , om , in het nypen deezer noodt , Uw ' raadt niet reuk'loos in den windt te slaan , laat hooren , Wat wegh , om dit ghevaar t'ontghaan , ghy hebt verkooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3714.s.1	Indien haar ' Majesteit zich wou verneed'ren , om Uit ons , haar ' dienaars , een tót haaren bruideghom Te kiezen , heffend ' hem alzo tót eerstghebooren , 't Ghevaar waare afghewendt , en kracht'loos Vaders tooren .	Emotion_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.3714.s.2	Ons hart belijdt rondtuit , dat onz ' waardy , te kleen , In gheenen deel ' verdient , op 't bruilóftsbedt te treên , Met uwe alwaerdighe , en doorluchtighste ghrootmooghendheidt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3714.s.3	Maar 't hoopt ook weêr , dat uw ' ghenadighe meêdooghendheidt Zich zal erbarremen der heete minneghloedt , Waar in het brandt , en blaakt .	Emotion_BodilyProcess_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3714.s.4	Wy weeten ook , uw ' moedt , Voor gheenigh dreighement , te zwichten , nócht te bukken ; En dat uw vólk , veel eêr zich kappen liet in stukken , Dan toestondt , dat men u in 't minst veronghelijkt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3714.s.5	Nóchtans is 't , dat hunn ' maght zo verr ' voor Vaders wijkt , Dat het zich , t'uwer scherm , vergheefs in 't staal zal steeken , Zo hy maar toeleght , zijn gheleeden leedt te wreeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3714.s.6	Dies , wil haar ' Majesteit ontvluchten 't anstaand quaadt , Dunkt deeze ons ver de lichtste , en zórghelooste raadt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3719.s.1	Uw 's Vaders ghramschap wil , in woeder vlammen , blaaken , Wen hy u , niet alleen zijn streng ghebódt ziet wraaken ; Maar , met zijn ' vyandinne , anspannen , teeghens hem .	Emotion_BodilyProcess_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.3725.s.1	Zijn ' toorn ghroey , zoze wil : zijn ' maght krijght minder klem ; Mits elk , dien ghy verkiest , zal eeren , en beminnen , Als Errifvórst , en u , als 's Vórsten ghemaalinne , Wien 't ghoudt der majesteit omstraalt het heiligh hoofdt .	Emotion_Love_Dedication_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.3729.s.1	Hy ondertusschen staat zo niet van maght beroofdt , Oft zoudze , t'onzer schâ , te kóste legghen mooghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3733.s.1	Elk onderdaan veel meêr beghroet , en ziet na d'ooghen 't Opghaande mórghenlicht , dan d'onderghaande zon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3738.s.1	Mijn ' keur gheen erfprins maakt ; vermits zy doolen kon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3738.s.2	Uw Vader hoort dat recht : hy kent den eerstghebooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3741.s.1	Dien ghy verkiest , zy Prins , wien 't rijk sta toebeschooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3745.s.1	Mijn keure is , Vórsten , blindt , en , 't hangt an 't lós gheval , Indien zy de natuur niet weederspreeken zal .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3753.s.1	De kroon hoort ons , Prinsses ; en , zonder 't recht te krenken , Kan elk den anderen van ons zijn aandeel schenken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3753.s.2	Wy ruimen , dien ghy kiest , u , en den rijkstroon in , En , dien ghy wraakt , ontstaa de kroon , en uwe min .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3758.s.1	Maar Prinssen , overweeght ghy wel , dat door mijn kiezen , Den schat , die d'een verkryght , weêr d'ander zal verliezen ; En 's eenen voorspoedt baart des anders teeghenspoedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3762.s.1	Men heeft dien slagh voorzien , en teeghen haar 't ghemoedt Ghewapendt , met een schildt van moedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3766.s.1	Zo wilt ghy , Heeren , Dat ik zal kiezen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3769.s.1	't Is ons eenighste begheeren .	Emotion_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.3772.s.1	Ik ducht , het werd ' zo haast ghevólght van naberouw .	Emotion_Remorse
+meij001verl01_01.TEI.2.text.body.div.div.sp.3775.s.1	Eer krijght ons minnevuur een afkeer van uw ' trouw .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3778.s.1	Eer wenscht het , eeuwigh , van uw ' ghonst te zijn versteeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3783.s.1	Ghy wilt het eindelijk ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3786.s.1	't Is 't eenighst , daarwe om smeeken .	EmotionalAction_Desire_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.1	Welaan dan , 'k vólgh uw ' wille ; en zo mijn ' keur u smart , Wijt dat u zelf , niet my , wienze afghedrongen werdt .	Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.2	Manhafte Prinssen , 't licht der Deughdt , welk heeft gheblonken Uit al uw doen , bequaam het kilste hart t'ontvonken , Is my bekendt ,; en u de ghlans der trótse stam , En 't Koninglijk gheslacht , waar uit ik oorsprong nam , 't Welk , door uw aanwas , zou afschynen met meêr luisters , Indien uw ' ghlorie niet bezwalkt stondt , van veel duisters , Welk draaiboomt u den wegh na myne troon , en trouw .	BodyPart_BodilyProcess_Love_Moved
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.3	Want , dat ik d'eer mijns huis , nóch onbesprooken , zou Bezoed'len , en , door schandt , zijne achtbaarheidt verneêren , Mijn hart te preutsch is , en te keurigh op haare eere .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.4	Ik min uw ' deughdt , maar haat het bloedt des Dwingelandts , Het een verlicht uw ' lóf , het ander dooft haar ' ghlants .	Emotion_Hatred_Love_Awe
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.5	Bedenkt u , welk van bey ghy kiezen wilt , óft wraaken ; Uw ' keure , óft wraaking zal mijn ' keure óft wraaking maaken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.6	Ik vólgh , treedt ghy maar voor ; en , die mijn ' handt begheert , Maak , dat het dwinglandtsbloedt zijn ' deughdt niet meêr onteert .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.7	Hy scheur de schakel , die hem hecht aan een verrader , En , wassende zijn ' schande in 't bloedt van zulk een vader , Toon , door een heldendaadt van hooghverheeven aart ; Dat zijne handt mijn hart , zijn ' kruin mijn ' kroon is waerdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.8	Oft kleeft ghy nóch te vast an 't maaghschap uwes vaders , Zo veest meê moordenaars , en dwinglandts , en verraders .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.9	Ghy moet hem vólghen , zo ghy u zijn ' zoonen roemt , Oft moet hem straffen , zo ghy zijn misdrijf verdoemt , En toonen , 't slechts na 't bloedt , niet na 't ghemoedt te weezen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.10	Wat 's dit ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.11	uwe yver flaauwt , terstondt zo hoogh ghereezen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3826.s.12	Ik had dit wel voorzien .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3829.s.1	Vórstin ....	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3837.s.1	Ghy komt te spa .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3837.s.2	Het hoogh woordt is ' er uit ; en 't ghaat mijn ' kroon te na Zo ik 't herriepe .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3837.s.3	Dies , wie eerst zijn bloedt verzaaken , En zich , door 's Dwinglandts doodt , zal mijner waerdigh maaken , Dien zal ik , op mijn ' troon , en bruiloftsbedt , ontfaân .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3837.s.4	Vaart wel .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3837.s.5	Ghy mooght u met ghemak daar op beraân .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3840.s.1	Trasimond , Alarik .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3843.s.1	O Vonnis , vol ghevlijmde woorden !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3846.s.1	O uitspraak , al te straf , en wreedt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3849.s.1	Dat my de borst doorsnijdt ,	BodyPart_BodilyProcess_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3852.s.1	Die my de ziel komt moorden ,	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3855.s.1	Met onverdraaghlijk hartenleedt ,	Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3858.s.1	Met weedom , die gheen weêrghâ weet ,	Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.3861.s.1	Daar bystandt steedts voor zwichte ,	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3864.s.1	En weêrstandt onder smoorde .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3867.s.1	Want kiest men niet , men steekt in pijn ;	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3872.s.1	En kiest men al , ons dreight nóch quaader .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3875.s.2	Mathildes hoofdt eischt Vader ,	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3878.s.1	En zy daarteeghen weeder 't zijn !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3883.s.1	Indienwe , om 't Krooneghoudt te winnen , Ghehoorzaam vólghen Vaders zin ; Wy worden moorders van onze eighen ' Koninginne .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3888.s.1	Indienwe , uit liefde , stemmen in Mathildes eisch , om weedermin , Wy worden vaderbeuls , onwaerdigh haarer minne .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3892.s.2	kiest men niet , men steekt in pijn ,	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3906.s.2	zal men Vaders eisch weêrstreeven ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3906.s.3	Maar zal men ook , om d'errifkroon , Haar neemen 't leeven , daar men zonder niet kan leeven ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3911.s.2	zal men wraaken haar ' gheboôn ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3911.s.3	Maar zal men ook , om weêrmins loon , Hem neemen 't leeven , die ons 't leeven heeft ghegheeven ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3935.s.1	't Is best dan , welbedacht , te myden , In deezen stórm , aan laegher wal , Twee klippen , daar ons schip op schipbreuk staat te lyden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3935.s.2	Dies wacht ik , in dit ongheval , Wat uitkomst ons verleenen zal De Heemel , wiens ghenade ons kan alleen bevryden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3935.s.3	Ik kies niet , schoon ik steeke in pijn : Want kies ik , my dreight nóch veel quaader .	Emotion_BodilyProcess_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.3935.s.4	'k Onzegh Mathildes hoofdt an Vader , En haar daarteeghen weeder 't zijn .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3947.s.1	't Is best dan , ghoeden raadt te leeven , Het heetste vuur voorby , en in Het zwakst te stappen , en , vol moedts , daar door te streeven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3947.s.2	Ik voegh my dan na Vaders zin , Uitdoovende de brandt der min , En kies zijn ' kroon voor 't heil , welk liefd ' belooft te gheeven ; En troost my deeze kleene pijn , Dewyle ik anders storte in quaader .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.3947.s.3	'k Breng dan Mathildes hoofdt an Vader , En weigher haar daarteeghen 't zijn .	None
+meij001verl01_01.TEI.2.text.body.div.div.p.3949.s.1	Einde des tweeden Bedrijfs .	None
+meij001verl01_01.TEI.2.text.body.div.head.3953.s.1	Derde bedryf .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3955.s.1	Velleede , Fastarad .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3958.s.1	Lafhartigh Prins , en gheeft den moedt zo niet verlooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3961.s.1	Zwijgh Moeder , 'k wil van gheen verraadery meêr hooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3966.s.1	Niet altijdt zeilt de kiel in stroom , en teeghen windt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3966.s.2	Mislukte ons deeze kans ; 't kan keeren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3966.s.3	't Luk is blindt , En weiff'ligh : 't wil voortaan ons kroonen , met zijn ' ghonsten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3972.s.1	Dat 's hacchelijk .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3972.s.2	Voor my , 'k ben , door uw ' looze konsten , En naghebootste schimme , eens om den tuin gheleidt ; En heb my , op uw ' raadt , in doodtsghevaarlijkheidt Ghesteeken : maar 'k hoop my ten tweeden maal ' te hoeden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3990.s.1	Verwijfde , en zonder hart , zijt ghy zo bang te moede Voor wat ghevaars ?	Fear_Emotion_BodyPart
+meij001verl01_01.TEI.2.text.body.div.div.sp.3990.s.2	Hier woont een onversaagder gheest ; Een mannenhart schoeit zich op mijne vrouwenleest .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3990.s.3	Ik zal , en zonder u ; my van den Dwinglandt wreeken , Hem bonzen van den troon , door alle weêrstandt breeken , En zetten , als Vórstin , my in mijns Vaders stoel .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3990.s.4	Ghaat heen ghy , voegh u by zijn dóchter , uwe boel , Om , in haar ' gheile schoot , met streelen , en met kussen , D'ontsteldheidt , welke u 't bloedt nóch roert , in slaap te sussen , Terwijl mijn ' manhaft zulk een heldenwerk bestelt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3990.s.5	Daar komt hy aantreên , met de Koningin verzeldt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3990.s.6	Gha , val zijn ' tróts te voet : maar 'k zweer , het wil u rouwen .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.3993.s.1	Ghrimoald , Heddewigh ghekleedt als Mathilde , Fastarad ter zyden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.3996.s.1	Dus zal ik , door uw ' hulp , verspieden , wat zy brouwen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.3997.s.1	Heddewigh	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4000.s.1	Maar Vader , zweemt dit kleedt , en tooysel , al wat na De Koningin ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4010.s.1	Zo zelfs , dat ik verwonderdt sta , En u voor haar , zo 'k was onkundigh , aanzien zoude .	Emotion_Wonder
+meij001verl01_01.TEI.2.text.body.div.div.sp.4010.s.2	Weshalven , zo ghy slechts de streeken weet te houden , Die 'k u gheweezen heb , 'k ben zeeker , dat ons schip , Ver van te stranden , op die toeghedreighde klip , Door deez ' hólghaande zee , en overdichten neevel , In spijt der broed'ren minne , en 's Koninginnen wreevel , Ghewenschte reê bezeilt .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4014.s.1	Ik wil mijns Vaders last , En lust , behartighen , ghelijk 't een ' dóchter past .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4021.s.1	Ik zal inmiddels tijdt , en hullipmidd'len , zonder Verzuim , navórsschen , om in 't óngheval , waar onder Mijn ' vyandin my dreight te pletten , te verzien .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4021.s.2	Ghy , wat u voorvalt , doet my weeten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4024.s.1	't Zal geschiên .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4027.s.1	Heddewigh , Fastarad .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4047.s.1	Wat noopt mijn Schoone , haar schoon lichaam te belaaden , Met Kaledoonsche pracht , en koninginssieraaden ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4047.s.2	Of leght ghy toe , mijn hart , 't welk van uw ' schoonheidt tuight En overvloeit , en voor haar ' minnewetten buight Neêrslachtigh , uwer wil nóch dieper t'onderwerpen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4047.s.3	Zo ploeghtghe 't strandt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4047.s.4	Ghemerkt de vlammen , welke 't snerpen En blaak'ren , 't hebben , met zo milden overvloedt Van brandt , gheprópt ; dat zo ' er nóch een vonk dier ghloedt , Met kracht , zich inwringt , het terstondt zal barsten moeten , En storten ylinks neêr , gheborsten , voor uw ' voeten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4047.s.5	Dies staak dat opzet , zo an de behoudenis Uws trouwen minnaars u nóch iets gheleeghen is .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4052.s.1	Gheen toelegh , om uw ' ziel in naauwer minneprangen Te kluisteren , heeft my , met dit ghewaadt , omhangen .	Emotion_BodyPart_Love_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4052.s.2	Uit heel eene and're bron spruit deez ' verwisseling .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4067.s.1	Ofte is uw ' schoont misnoeghdt met haar ' verovering , En hartenheerschappy , welke over al de Heeren , En pratte Prinssen , die dit prachtigh Hóf hanteeren , Zich uitstrekt ; en pooght zy nóch , onder haare maght , En minghebóden , al het Vórstelijk gheslacht , Welk korts hier , met Mathild ' , ghelandt is , te doen duiken , En dit uitheemsch ghetooy , tót wapens , te ghebruiken ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4072.s.1	Betoom uwe achterdócht ; nócht duidt tót achterstel Van uwe min dit kleedt .	Suspicion_Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4072.s.2	'k Ghehoorzaam maar 't bevel Des Konings .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4075.s.2	schept hy in deeze praal vermaaken ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4079.s.1	Neen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4079.s.2	Gheen vermaaken ; maar een hoogh ghewight van zaaken , Een harde noodtdwang parst hem , dit ter handt te slaan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4083.s.1	Kont ghy , dus toegherust , dan noodtdwang weederstaan , En stuiten ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4092.s.1	Stuiten niet , maar midd'len , om te stuiten , Opdelven ; en , opdat uw ' minnenyver buiten Alle arghewaan , welke u , met onrust , pijnt , gheraak ' , Wil ik u openen 't gheheimslót van de zaak .	Suspicion_Emotion
+meij001verl01_01.TEI.2.text.body.div.div.sp.4092.s.2	Ghy hebt licht al ghehoordt , hoe tróts Mathilde Vader Ghehoondt , en hy de wraak mijn ' Broederen te ghader Belast heeft ; dóch vergheefs , ter oorzaak hunner min ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4098.s.1	Ik heb 't verstaan , en hoe , voor 't hoofdt der Koningin , Hy 't errifrecht hen heeft gheveilt van eerstghebooren ; Dóch vrucht'loos .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4104.s.1	Dies beducht , óf min hun moght bekooren Tót slinckschen toelegh , heeft hy my , om , hoe 't daar staat Gheschapen , te verspiên , vermomdt met dit ghewaadt .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4104.s.2	Stel dies uw hart gherust , en ban alle arghvermoeden .	Suspicion_Emotion
+meij001verl01_01.TEI.2.text.body.div.div.sp.4108.s.2	dat voel ik nu in mijnen boezem woeden , Veel feller , dan voorheen .	Suspicion_BodyPart_BodilyProcess
+meij001verl01_01.TEI.2.text.body.div.div.sp.4111.s.1	Hoe dat ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4115.s.1	Vermits 't ghevaar , Waar in ghy steekt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4118.s.1	Wie ik ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4121.s.1	Ja ghy .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4124.s.1	Van wie , en waar ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4127.s.1	Van uwe Broederen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4131.s.1	Die zullen my verdeedighen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4131.s.2	Te teer is broeders hart , om zuster te beleedighen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4136.s.1	U schijnt vergheeten reets , Mêvrouw , wat ról ghy speelt , Daar ghy gheen zuster , maar Mathilde , door verbeeldt , Voor welkers hoofdt , by hen , de rijkskroon staat te winnen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4140.s.1	D'onmaatelijke liefd ' , die zy der Koninginne Toedraaghen , my , voor dat ghevaar , bescherremdt houdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4145.s.1	Maar zo de kroon , met haar ' bekoorlijk tintelghoudt , De min vermeesterde , en hen aanriedt , te voltrekken Het vaderlijk ghebódt ?	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4151.s.1	Dan zoude ik my ontdekken , Eerz ' hen misghingen in zo bijstren euveldaadt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4157.s.1	Maar , zo hunne overmoedt u daar gheen tijdt toe laat , En waarschuwt met de slagh ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4160.s.1	Dat wil de Heemel keeren !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4163.s.1	En zo hy zich niet kreunt uw ongheval te weeren ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4168.s.1	Zo liep ik lijfsghevaaar .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4171.s.1	Ik van mijn opperghoedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4175.s.1	Wat raadt dan , Prins ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4175.s.2	hoe wordt uwe , en mijn ' ramp verhoedt , En vaders ooghemerk niet in den windt gheslaaghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4184.s.1	'k Bezef gheen beet'ren , dan dat wy den aanslagh waaghen , En ik , rondom u , met een waakend ooghe , zweef , Om , zo de kroonzucht een van uwe Broeders dreef Tót zulk een overdwaalsch bestaan , u te bevryden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4187.s.1	Welaan ...	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4187.s.2	Maar zacht ; daar komt ' er een : voegh u ter zyden .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4190.s.1	Trasimond , Fastarad , Heddewigh .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.1	Ruim op , o menschelijk gheslacht , ruim op , en schrik Voor 't laelijk opzicht van een wanghedróchte , als ik , Ghedoemdt van Vader , zo 'k zijn Scepterstaf wil erven , Den waerden leevensdraadt mijns leevens af te kerven ; En van Mathilde , zo 'k wil winnen haar ghemoedt , Mijn ' dólk te dompelen in 't vaderlyke bloedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.2	Hoe dóbbert , ter ghena van water , windt , en weeder , Mijn ' roerelooze kiel , gheslingerdt op , en needer , En staâgh ghedreighdt , ter muil te worden inghewipt Der vreesselijke Scille , óft woedende Charibd !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.3	Maar hoe , mijn moedt , zultghe u , dus vuidigh , laaten kluisteren Van 't wreev'ligh lót , en na zijn ' lusten leeren luisteren , Ghy , die zeeghaftigh veel heirleeghers hebt ghetart ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.4	O neen : deez ' handt , dit hart suft nóch niet , zonder hart .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.5	Op , op , mijn Hópliên ; op , mijn ' wakkere sóldaaten , Beschorst uw ' lendenen , met staale harnasplaaten , Uw ' boezemen met moedt , uwe armen met gheweer , En trekt eens op , ten dienst van uwen Leegherheer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.6	Zo , zo spitsbroeders .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.7	Dat ghaat heerlijk .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.8	Men verghaape Gheen tijdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.9	De krijghsklaroen roep fluks ons heir ter wapen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.10	Elk , onder zijn ' banier , in órden , met der vaert .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.11	De vyandt toont ghelaat , als t'eene maal volschaardt , Van treffen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.12	Klinken daar gheen trommels , en trompetten ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.13	O ja ; zijn ' voortóght komt vooruit , op ons anzetten , Met vollen ren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.14	Men voer ' haar d'onze te ghemoet , En wijk hunn ' yver , en manhaftheidt , niet een ' voet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.15	Zo , mannenbroeders , zo .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.16	Zijn ' moedt beghint te zakken , Hy deist , hy neemt de vlucht .	Fear_BodilyProcess
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.17	Men vólgh ' hem op de hakken , Men jaagh ...	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.18	Maar houdt : Daar stuift hy , met zijne oorlóghsmaght , Op onze voortóght aan , welke in deez ' strijdt verkracht , En afghevochten , zal ghenoodtzaakt zijn te vlieden , Zo onze traagheidt haar verwaarloost hulp te bieden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.19	Welaan , mijn ' helden ; niet te marren : streeft my naar , En houdt mijn ' stapsteên warm .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.21	Houdt daar , Houdt daar , vervloekt ghespuis , my ten verderf beschooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.22	Val aan , val aan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.23	Maar hoe ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.24	gheeft ghy den moedt verlooren , Spitsbroeders , en krimpt u ten eersten 't hart zo kleen ; Dat ghy den rugh biedt , en uw ' Veldtheer laat alleen Zo talleloos een heir van Ridderen , en knaapen , Ten oorlógh afgherecht , en opgheghroeidt in 't wapen , Bestórmen ?	Fear_BodyPart_BodilyProcess
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.25	Quijt ghy dus uw ' krijghseedt , eer , en plicht ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.26	En troktghe , in trótsen schijn , te velde , om my zo licht Den schop te gheeven , en , als trouw'looze sóldaaten , In 't uiterste ghevaar te leiden , en te laaten ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.27	Is dit de trouw , beloofdt an mijne Veldtheerstaf ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.28	Is dit de hoop , die my uw ' moedighe optóght ghaf ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.29	Is dit het loon ....	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.30	Maar ( ach ! ) mijn ' weeklaght loopt verlooren !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.31	Zy , dien 't betreft , vliên reedts te verre , om die te hooren , En leev'ren my ten roove aan 's vyandts onghenaân .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.32	Wat raadt dan ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.33	zal ik meê behoud'nis zoeken aan Mijn ' voeten , d'oorlóghsramp , ghereedt my t'overvallen , Ontduikend ' met de vlucht !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.34	óft zal ik teeghens allen My kanten , en een heir bevechten ghansch alleen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.35	Daar zwelt mijn ' moedt , te ghroot ; hier zwicht mijn ' maght , te kleen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.36	Maar hou .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.37	Wie daar ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.38	Het schijnt de Koninginne .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.39	Ik spreeke Haar aan , óf zy viellicht , door mijn deemoedigh smeeken , En 't weederspannigh lót , welk my den rugghe biedt , Haar onbeweeghlijk hart , in 't eind , vermurwen liet , En haaren minnaar toonde een gheinster van meêdooghendheidt .	Emotion_EmotionalAction_Compassion_Desire_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.40	Gheduchte Koningin , die , door uwe oppermooghendheidt , De vólken niet alleen brengt onder uw ' ghebiedt : Maar , door uw ' schoonheidt , ook al , wat uw ' schoonheidt ziet , In diepe kluisters slaat , vergheef een ' trouwen minnaar ; Dat hem de liefde heeft gheprikkeldt , om verwinnaar Te worden , door het staal ; nadat hy , door ghebeên , En traanen , en ghesmeek , en plicht , en dienstbaarheên , Gheen stap ghevoorderdt had : maar 't hoofdt ghestaâg ghestooten , Uw ' toorn gheterght , en haat , voor weedermin , ghenooten .	Emotion_EmotionalAction_BodyPart_BodilyProcess_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.41	'k Beken , Mêvrouw , 't was wel de rechte wegh niet , met Gheweldt van wapenen , u , tót mijn bruilóftsbedt , Te prangen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.42	Maar ( helaas ! ) niet maghtigh , u te derven , En schrikkende , door 't hoofdt van Vader , te verwerven , Scheen my , van allen , dit het draaghelijkste quaadt : Ja , u waar 't schand ' gheweest ( zo 'k hadd ' die euveldaadt Bestaan ) te schakelen , met heil'ghe huw'lijksbanden , Uw ' koninklyke handt an mijn ' verwaten ' handen , Nóch versch bekroozen van het bloedt der vadermoordt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.43	Vergheef 't mijn ' min dan , en herroep dat wreede woordt , Welk Vaders hoofdt eischt , om uw ' weedermin te winnen , En , 't bijster onweêr van die wreevelighe zinnen Opklaarende , door een zielzoete zonneschijn , Bestraal my met ghenâ van uw ' ghemaal te zijn .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.45	zy keert mijn ' beê den nek , en wend haare ooren Van mijne klachten af .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.46	En acht ghy dan mijn ' tooren Zo luttel , en mijn ' maght zo krachteloos , zo kleen , Verwaande Koningin , dat ghy my nóch alleen , En van uw oorlóghsvólk verlaaten , durft braveeren , En trótsen ?	Emotion_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.47	denk vry , zo mijn ' min eens komt te keeren In haat ; uw ' hoofdt , hoe schoon , hoe minlijk , loopt ghevaar .	Emotion_Hatred_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.48	Ghy zwijght .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.49	Spreek op , óft ghy wordt fluks den slagh ghewaar .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.50	Maar , welk een draaiboom komt my daar het hoofdt te bieden ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.51	't Schijnt Fastarad , bestuwdt met honderdt oorlóghslieden , Haar ' lijfwacht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.52	Teeghen zulk een ' hulp val ik te zwak .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4316.s.53	Best , dat ik wyke , en wacht mijn ' slagh af , met ghemak .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.stage.4263.s.1	Hy krijght Heddewigh in 't oogh .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.stage.4271.s.1	Hy spreekt haar aan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.stage.4301.s.1	Heddewigh omziende wenkt Fastarad , die daar op voor den dagh komt .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4319.s.1	Fastarad , Heddewigh .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4325.s.1	Hy 's wegh , en gheeft mijn hart , met uw ghevaar belaaden , Wat luchts .	Fear_HeavyHeartedness_BodyPart
+meij001verl01_01.TEI.2.text.body.div.div.sp.4325.s.2	Hoe dunkt u ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4325.s.3	Quam mijn byzijn u te stade , Oft waar het best , alleen dien woedenden verbeidt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4336.s.1	'k Beken , hadt ghy , toen hy , door mijn ' stilzwijghendheidt Verbólghen , toeley my te knellen , met zijn wapen , Mijn zyde niet bekleedt , het hadde ' er slecht gheschapen Met my ghestaan ; alzo 't ontdekken myner staat , By deezen dollen , licht zoud ' hebben niet ghebaat , Wien , teeghen Vader , ik gheen aanslagh toevertrouwe : Want nimmer zinloos brein had maght , verraadt te brouwen .	Emotion_Spitefulness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4343.s.1	't Is waar .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4343.s.2	Van deezen hem niets te beduchten staat , Tót zijn ' beleedighing : maar des te zwaarer quaadt Wordt mooghelijk hem , van den anderen , beschooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4356.s.1	De Heemel ghunne my , wat beeters op te spooren , En dat zijn hoogh ghemoedt , van 't recht verstandt gheleidt , De kroon - en minnezucht toomt met bescheidenheidt , En heur ten monde inwringt de breidelen der Reeden .	Emotion_Greed_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.4356.s.2	Maar luister .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4356.s.3	Hoor ik daar niet iemandt herwaarts treeden ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4356.s.4	Misschien is hy 't , mijn Heer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4356.s.5	Voegh u ter zyde , al stil , En strek my weêr een schildt , indien 't ' er hap'ren wil .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4359.s.1	Alarik , Heddewigh ; Fastarad aan een zijde .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.1	Daar staat de Koningin , mijn ' ghrootste vyandinne .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.2	Maar hoe verdwaalt mijn ' tong van 't spoor !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.4	't Is zy , die ik met harte , en ziele , en zinnen , Ja meerder , dan mijn eighenzelf beminne , En voor mijn opperghoedt verkoor .	Emotion_BodyPart_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.5	Maar 't is ook zy , wiens trótse , en onverzetb're zinnen Niet , dan door euv'le vadermoordt , Zijn te verwillighen tót zoete weederminne : Oft welkers borst , om vaders kroon te winnen , Met deeze kling , moet zijn doorboordt .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.6	Hoe schoorvoet my het hart , nu 't werk staat aan te vangen , Beslooten flus , met zulk een spoedt ; Mijn ' weiffelende ziel , blijft halver weeghe hangen , En overweeght op nieuws , wat haar zal langen Het kleenste quaadt , en 't ghrootste ghoedt .	BodyPart_BodilyProcess_Disgust
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.7	Sla ik mijne ooghen op 't ghenót der Koninginne , 't Hart , door dat blaakend schoon bekoordt , Daar heenen helt : maar deist te rugghe , als 't ghaat bezinnen , Dat die hooghwaerde schat niet staat te winnen , Dan door vervloekte vadermoordt .	Fear_Joy_BodyPart_BodilyProcess_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.8	Wend ik daarteeghens het ghezicht na vaders kroone , Die flikkerblinkt , zo hel van ghloor ; Dat zy mijn ' ziel verlókt : Maar , als ik haar vertoone , Voor welk een hoofdt zy is belooft ten loone , Zy vliedt haar ' ghlans , en schrikt ' er voor , Ach Vader !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.9	ach Mathilde !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.10	ach kroone !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.11	ach weederminne !	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.12	Hoe pijnt ghy all ' ghelijk dit hart !	BodyPart_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.14	wie van u zal den anderen verwinnen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.15	Oft banne ik u te zaam liefst uit mijn ' zinnen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.16	Maar dat waar nóch ondraaghb'rer smart .	Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.17	Neen , neen : Hier moet van u een d'overhandt behouwen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.18	Wie zeeghepraalt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.19	de Koningin , Oft Vader ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.20	Mijne liefde , óft zyne kroon ?	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.21	De vrouwen - Oft vadermoordt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.23	wat staat my te schouwen , En wat te kiezen , in mijn ' zin ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.24	Brittanjes kroon moet voor Mathildes liefde wijken .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.25	't Ghenót van dat verghoode beeldt Weeght op de Scepters van all ' 's weereldts koninkryken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.26	't Moet al de vlagh voor haare schoonheidt stryken , Wat zielen trekt , wat zinnen steelt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.27	Maar ook zijn 't euv'ler , en verfoeijelyker zaaken , Die ons gheteeldt heeft , en ghevoedt , Te moorden , en zich zo ten Vaderbeul te maaken ; Dan een ' , die schoonze ons 't bloedt in min doet blaaken , Nóchtans ons niet bestaat in 't bloedt .	BodyPart_BodilyProcess_Love_Anger_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.28	Ja , nu ik 't overlegh , met rypen raade , en zinnen , Dunkt my , de Vadermoordt , in 't quaadt , De doodtslagh eener vrouw veel verder t'overwinnen ; Dan 't lieff'lijk minghenót der Koninginne , In 't ghoedt , den Koninklyken staat .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.29	Ghewis , op 's Vaders stoel , door vrouwemoordt , te styghen , Is vry een wenschelijker ghoedt ; Dan , door een Vadermoordt , 's liefs weêrliefd te verkryghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.30	En doetme in 't een de min den moedt ontzyghen : Van 't ander ghruwt , en ghrilt my 't bloedt .	Emotion_BodyPart_BodilyProcess_Love_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.4440.s.31	Dit 's klaare reeden , die men tasten kan , en voelen Beghin dan werk , en streef ' er door Mijn ' handt , hoe zeer mijn hart daar teeghen wroete , en woele : Eêr dat de min deez ' blaakende yver koele , En breng ' my weêr van 't rechte spoor .	Emotion_BodyPart_BodilyProcess_Love_Disgust
+meij001verl01_01.TEI.2.text.body.div.div.stage.4441.s.1	Alarik , dit ghezeght hebbende , vlieght , met uitghetooghen zwaarde , na Heddewigh , die , de vlucht neemende , om hulp roept : dóch echter van Alarik achterhaaldt , en ghetroffen wordt , eêr Fastarad tusschen beiden kan koomen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4444.s.1	Ach help !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4448.s.1	Rampzalighe , hou standt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4448.s.2	Waar zijn uw ' zinnen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4448.s.3	Het is uw ' zuster .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4451.s.1	Wat ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4451.s.2	het is de Koninginne .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4455.s.1	Ik ben ter doodt ghewondt ; helaas !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4459.s.1	't Uitheemsch ghewaadt Misleidt u .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4464.s.2	ik sterf .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4464.s.3	'k Vergheef u deeze daadt , Mijn ' Broeder ; het gheschach uit onkund ': dies te zachter Valt my dit deerlijk eindt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4469.s.1	Ontmenschte zusterslachter , En moordenaar mijns liefs , ik zal my wreeken van Haar ' doodt .	Emotion_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4472.s.1	En ik mijn lijf beschermen , zo ik kan .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.4474.s.1	VII .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4475.s.1	Fastarad , en Alarik vechtende : Eduward , Velleede , Rey van Staatjoffers , en Trasimond , d'een na den anderen uitkomende .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4476.s.1	Eduward van binnen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4478.s.1	Moordt , moordt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4478.s.2	Hófwachters , moordt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4479.s.1	Velleede van binnen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4481.s.1	Trouwanten helpt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4482.s.1	Fastarad op het tooneel .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4486.s.1	Gheen wachter , Nócht hóftrouwant , zal u , vervloekte zusterslachter , Ontrukken aan mijn ' wraak .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4487.s.1	Op dit zeggen raaken de Vechters , vechtender handt , binnen , en onderwylen koomen Velleede en Eduward , schielijk en verbaast , uitloopen .	Emotion_Wonder
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4488.s.1	Velleede Heddewigh ziende ligghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4493.s.1	Daar light de Koningin Ter neêrghestort .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4493.s.3	Des Dwinglandts dóchter , in Mathildes kleedt vermomdt , en wreedelijk doorsteeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4493.s.4	Haare adem ghaat ....	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4494.s.1	Fastarad Alarik op het Tooneel weêr dryvende .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4496.s.1	Hou standt , ghy bloode , ik zal my wreeken .	Emotion_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4499.s.1	Ghy vechters , houdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4502.s.1	Hou daar , ghy Moorder .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4507.s.2	dat treft My 't hart .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4507.s.4	mijn ' kracht bezwijkt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4507.s.5	mijne arm verheft Ter naauwer noodt ...	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4507.s.6	Ach 't is ghedaan !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4507.s.7	Ik zijgh schier needer ...	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4508.s.1	Eduward	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4510.s.1	Moordt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4510.s.2	moordt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4514.s.1	Wat moordtgheschreeuw treft daar myne ooren weeder ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4514.s.2	Waar is 't te doen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4517.s.2	onz ' broeder wordt vermoordt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4521.s.1	Staat af bloedtdorstighe , eêr ik u ....	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4525.s.1	Mijne arrem stoort Zich aan gheen dreighement , zy kan zich nóch verweeren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4528.s.1	En wat de myne kan , dat wil ons d'uitkomst leeren .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4529.s.1	Terwijl Fastarad en Trasimond vechten , zijght Alarik , an d'andere kant van het Tooneel , dan daar Heddewigh light , needer .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.4531.s.1	VIII .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4532.s.1	Ghrimoald , Fastarad , Trasimond , Velleede , Eduward , Hófmeester , Rey van Staatjofferen , Hófknaapen , en Lijfwacht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4539.s.1	Houdt op , ghy vechters .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4539.s.2	Fluks , mijn ' lijfwacht , scheidtze .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4539.s.3	Wel Wat woedigheidt verrukt u , Prinssen ?	BodilyProcess_Anger_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4539.s.4	hoe ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4539.s.5	dus fel , En wreedt , elkanderen het hoofdt , met uitghetoogen Gheweer , te biên ; en dat in 't Hóf , ja voor mijne ooghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4539.s.6	Wat tweespalt porde u tót zo overdwaalsch een strijdt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4566.s.1	Gheduchte Vórst , zo haast , op 't yss'lijk moordtghekrijt , Ik in de hófzaal quam , vond ik , met blooten deeghen , Deez ' dollen woeden op zijn broêr , die hem daarteeghen Vast afweerde , en ontweek .	EmotionalAction_BodilyProcess_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.4566.s.2	Uw ' dóchter , die ik , door Het Kaledoonsch ghewaadt verbysterdt , aanzagh voor Mathilde , beezigh was de broederstrijdt te scheiden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4566.s.3	Nu stondtze , gheen ghevaar ontziende , tusschen beiden , En ghaf haar boezem bloot aan 't broederlijk gescherm .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4566.s.4	Nu ghreepze , en weederhiel deez ' raazenden zijn ' arm , En badt hem , dat hy tógh , om haarentwil , wou staaken Dit schrikk'lijk opzet ; maar zijn ' woedigheidt , aan 't blaaken Op 't felst , zich luttel kreunde an 't zusterlijk ghebedt ; En speurende , dat zy waar 't eenighste verlet , Welk zijn ' bezeeten ' drift haar ooghwit deede missen , Heeft hy , om zich t'ontslaan van zulk een hindernisse , Knarstandende , en ontzindt door ziedende overmoedt , Zijn wreede kling gheverwdt in 't zusterlijke bloedt , En , met dat rookend ' staal , van stonden aan , zijn ' broeder Ghetroffen , eêr mijn zoon , op 't schreeuwen zyner moeder ......	EmotionalAction_BodilyProcess_Desire_Vindictiveness_Annoyance
+meij001verl01_01.TEI.2.text.body.div.div.sp.4570.s.1	Mijn zoon , en dóchter , bey doorsteeken ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4570.s.2	ras men toon ' Hen my terstondt , dat ik hen zie .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4574.s.1	Daar light uw zoon , En ghins uw ' dóchter .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4577.s.1	Ach , mijn zoon !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4577.s.2	hoe is 't ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4581.s.1	Ach Vader !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4584.s.2	zijn ' stem bezwijkt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4584.s.3	Hófmeester , ras , koom nader .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4585.s.1	Hófmeester	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4587.s.1	Wat eischt de Koning ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4596.s.1	Dat men mijnen zoon terstondt Breng ' na zijn ' kamer , op zijn ' koets , en voorts zijn ' wondt Bezichtighe , en verbinde , en al , wat hulp kan bieden Tót zijn ' gheneezing , straks bezórghe .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4600.s.1	't Zal gheschieden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4600.s.2	Hófknaapen , hou !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4601.s.1	Rey van Hófknaapen	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4603.s.1	Mijn Heer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4609.s.1	Draaght ghy hem kamerwaart .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4609.s.2	Ghy haalt den Hófarts , en de Meesters , met der vaert .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4609.s.3	Ik vólgh u straks , om , door mijn byzijn , bet t'ontsteeken Hunn ' yver .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4610.s.1	Ghrimoald teeghen Heddewigh	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4621.s.1	Ach mijn kindt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4621.s.2	helaas !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4621.s.3	daar is gheen teeken Van leeven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4621.s.4	't Hart weet van gheen slaan meer , en de doodt Heeft reets in deeluwbleek verwaaldt het purperroodt Van lip , en wangen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4621.s.6	haar ' daghen zijn ten ende .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4621.s.7	Staatjoffers neemt haar wegh , en wilt uw ' vlijt anwenden , Dat zy bekoomen magh .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4622.s.1	Rey van Staatjofferen	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4624.s.1	Ach deerelijke moordt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4627.s.1	Dit klaaghen voordert niet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4630.s.1	Wy vlieghen op uw woordt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4631.s.1	Ghrimoald teeghen Velleede	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4639.s.1	Wy wenschten wel , Mêvrouw , dat ghy u liet bekooren , Om 't Jofferdom , met raadt en daadt , wat t'onderschooren , Die uwe wijsheidt , voor d'oorbaarste , keuren zal .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4643.s.1	'k Wil uwer Dóchter , in dit jammerlijk gheval , Bewyzen bystandt , en de plichten van een moeder .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.4645.s.1	IX .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4646.s.1	Ghrimoald , Trasimond , Hófmeester , Lijfwacht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4678.s.1	En ghy , vervloekte beul van zuster , en van broeder , Wat razerny beving u hart ?	BodyPart_BodilyProcess_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.4678.s.2	wat dolheidt quam U over , welke u dreef twee takken uwer stam , Die ghy te minnen waart verplicht , met wreede handen , Ghewet op schennis , dus moordtdaadigh aan te randen ?	Emotion_BodilyProcess_Love_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.4678.s.3	Wat was uw voorneem ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4678.s.4	wat het doelwit van uw werk ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4678.s.5	Dacht ghy , verwaatene , door broeders doodt , u sterk Te maaken , om op mijn ' rijkszeeteltroon te styghen , En zo de Koningin ter ghemaalin te kryghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4678.s.6	Wat waande uwe eerzucht , dat deez ' broedermoordery Zou nimmer breeken aan den dagh , óft schatte zy T'hemwaarts mijn ' liefd ' zó koel , en t'uwaarts weêr zoo vuurigh , Dat zy een euveldaadt , zo woedigh , en balstuurigh , Alleen niet zien zou door de ving'ren , zonder straf : Maar daarenboven , met het errifrecht der staf , En 't bedtghenootschap van zo tróts een Koninginne , Beloonen ?	Emotion_Love_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.4678.s.7	Neen , o neen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4678.s.8	Verban vry , uit uw ' zinnen , Die yd'le waan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4678.s.9	Ik zal 't bedreeven onbescheidt Opweeghen , in de schaal van de Rechtvaerdigheidt , En toetsen , welk een straf u daar wordt toebeschooren : En , zonder voorspraak van mijn ' Vaderliefd ' te hooren , Zal ik bevoorderen het vonnis , dat zy velt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4678.s.10	Trouwanten , sleept hem fluks ter kerker , en bestelt ......	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4681.s.1	Heer vader ....	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4691.s.1	Zwijgh dat woordt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4691.s.2	Ik wil gheen vader heeten Van een , die zijne plicht , zo schandigh , heeft vergheeten , En darde , uit kroonzucht , en uit minne , in arren moedt , Verghieten 't zusterlijke , en broederlyke bloedt , 't Welk hem , ten kóste van het zijn ' , stondt te verdaadighen .	Emotion_Greed_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4691.s.3	'k Erken u voor gheen zoon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4691.s.4	Wegh , wegh , met den misdaadighen ; Sluit hem in boeijens , en bewaart zijn ' kerker wel ; Terwijl ik orde , op wijze , en maat van straffen , stell ' .	None
+meij001verl01_01.TEI.2.text.body.div.div.p.4693.s.1	Einde des vierden Bedrijfs .	None
+meij001verl01_01.TEI.2.text.body.div.head.4697.s.1	Vierde bedryf .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4699.s.1	Ghrimoald , Hófmeester .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4702.s.1	Ghy viert den breidel , Heer , te ruim an uw ' weemoedigheidt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.1	't Gheval spuwt op my uit het bitterst zyner woedigheidt .	Emotion_BodilyProcess_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.2	Bestraalt de ghulde zon , óft heeft hy ooit bestraalt , Van daar hy 's mórghens rijst , tót daar hy 's avendts daalt , Een vader , zo met ramp , en kommer overghooten , Als my , die , voor een uur , van dry doorluchte looten Van mijne aaloude stam , twee zoonen , tróts van moedt , En eene dóchter , wierdt gheliefkoost , en beghroet ; En nu de moordt van twee de vuurschaar der rechtvaerdigheidt Ghebiedt te spannen , om den derden , na de waerdigheidt Van broêr - en zustermoordt , op t'óff'ren an hun ghraf , Indien barmhartigheidt niet kreukt de strenge straf .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.3	Ach zoon , en dóchter , die begheeven hebt dit leeven !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.4	Ach zoon , die 't nóch gheniet ; maar ook haast zult begheeven !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.5	Hoe pijnt de liefde , die 'k u toedraagh , weederzijdts , Dit vaders harte , en própt mijn ' boezem zo vol strijdts Voor d'een , en d'andere , die elk staan na de zeeghe ?	Emotion_BodyPart_BodilyProcess_Love_Sadness_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.6	'k Ben 't einde raadts ; en dit ghefólterdt hart , verleeghen Met liefde teeghens liefd ' , scheidt onverrichter zaak !	Emotion_BodyPart_Love_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.7	Maar hoe , mijn hart , zult ghy dan weigheren de wraak , Die mijner kind'ren moordt afvordert van mijn ' deeghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.8	O neen : de liefde , die 'k hun toedraagh , streeft ' er teeghen , En wil , dat zy haar ' lust , tót walghens toe , verzaad ' , En straf den moordenaar na waerde zyner daadt .	Emotion_Love_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.9	Maar magh 't u ook van 't hart , mijn hart , uw ' stem te gheeven , Dat van een telgh , die haar van dry nóch is ghebleeven , Uw ' stam gheknót , en zo ghesnoeidt werd ' van haar ' kroon ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.10	O neen ; mijn ' vaderliefd ' pleit ook voor deezen zoon , En brandt zo vuurigh , om hem 't leeven te bewaaren , Als hen te wreeken .	Emotion_BodilyProcess_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.12	hoe prangen , hoe bezwaaren Mijn ' ziel de leevende , en de doode , te ghelijk !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.13	Deez ' roepen , dat het Recht een billijk vonnis strijk ' .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.14	Die , dat men plaats ook der barmhartigheidt wil gheeven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.15	Deez ' eisschen lijfstraf , en den moordenaar zijn leeven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.16	Die smeekt , om lijfsghenade , en berghing van dat pandt .	EmotionalAction_Desire_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.17	Deez ' wringen 't vinnigh zwaerdt der wraakzucht in de handt .	Emotion_BodyPart_BodilyProcess_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.18	Die weederhoudt haar ' arm , en doet haar ' gramschap minderen .	Aquiescence_Emotion_BodyPart_BodilyProcess_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.19	Deez ' schreeuwen , Vader , wreek de moordt van uwe kinderen .	EmotionalAction_Anger_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.20	Die bidt daar teeghen aan , spaar , Vader , uwen zoon , Den stut uws ouderdoms , en erver van uw ' kroon .	EmotionalAction_Sadness_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.21	Na welke zyde zal ik , onghelukkigh vader , My wenden ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.22	Wien leen ik het oor ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.23	wiens ramp treft nader ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.24	Wiens eisch volvoer ik ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.25	Ach , hoe is my 't hart beklemdt !	BodyPart_BodilyProcess_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.26	Hoe wordt mijn ' bange bórst beneepen , en dus vremdt Bestórmdt van tóghten , die elkander teeghenstreeven !	Fear_Emotion_BodyPart_BodilyProcess_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.27	'k Wil recht , ik wil ghenâ ; 'k wil wreeken , 'k wil vergheeven ; 'k Wil deez ' , en dien zijn ' eisch voldoen , en niet voldoen .	Emotion_Compassion_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.28	Ay dul Gheluk , wat hebtghe op my dus fel te woên , En 't bitterste uwer ghal , met eene ghulp , te braaken !	BodyPart_BodilyProcess_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.29	Wat hadtghe in dit gheding , balstuurighe , te maaken My tót den Rechter , en mijn ' kind'ren tót party ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.30	Waarom zijn de vermoorde , óft de vermoorder my Niet vreemdt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.31	Hoe licht zou 't zijn , voor my , de moordt te wreeken Op 't strengste , ófte uit ghenâ den moorder vry te spreeken ?	Emotion_Compassion
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.32	Nu kan ik tót het een ' , nócht 't andere verstaan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.33	Maar hoe , zal dan een zoon de schaal doen overslaan , En zwaarer weeghen , dan een zoon , en dóchter samen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.34	De liefde tót een kindt , wiens zich mijn ' ziel moet schaamen , Zo meenighmaal haar schiet zijne ondaadt in 't ghedacht ' , Heeft die , op 't vaderlijk ghemoedt , dan ghrooter kracht , Als tót twee kind'ren , die nooit dierghelijks bedreeven ?	Emotion_Love_Shame
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.36	stondt , voor de doodt des leevenden , het leeven Van een der doode slechts te koop , mijn ' liefde ghaf Den wreeden moordenaar fluks over aan de straf .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.37	Nu zou zijn ' doodt hen niet alleen doen niet herleeven ; Maar my nóch rooven hem , die over is ghebleeven Mijn ' ouderdom ten steun , het Britsche Koningdom Ten Erfprins , en Prinsses Mathild ' ten bruideghom .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4787.s.38	Ach kinderen , die in de lente van uw leeven , Daar aan , zo deerelijk , lijdt schipbreuk , wilt vergheeven Uw ' Vader ; dat hy u de wraak , welk ' hem uw ' doodt Afvordert , weighert ; dat hy kreukt het recht , uit noodt , En , daar uw ' onghelijk hem maant tót scherp verghelden , Uw ' broeder , en zijn ' zoon , de misdaadt quijt wil schelden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4795.s.1	Maar Vórst , heeft hy de moorden al beghaan ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4795.s.2	Waar zijn de tuighen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4795.s.3	waar het blijk ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4795.s.4	wie klaaght hem aan ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4798.s.1	Mijn ' ghemaalin .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4810.s.1	Maar Heer , de waarheidt in 't gherichte Vereischt twee monden , die den schuldighen betichten , Twee monden , die door zucht van haat , nóchte eighenbaat , Iets anders tuighen , als de zaak gheschooren staat .	Emotion_Hatred
+meij001verl01_01.TEI.2.text.body.div.div.sp.4810.s.2	Hier noemtghe ' er nu maar eene , en die nóch daarbeneeven Viellicht , door averechtsche inzichten aanghedreeven , De waarheidt spaart , en gheeft een valsch ghetuighenis , Belaadende een ' met schuldt , die onbelaaden is .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4816.s.1	'k Beken , nu ik het wel bezef , mijn ' ghemaalinne Waar d'eerste stiefmoêr niet , die , loos en boos van zinnen , Een stiefzoon hielp van kant , om haaren eighen zoon Te plaatsen in den leegh ghemaakten zeeteltroon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4826.s.1	En wie weet , óf zy zelf hierom uw ' zoon , en dochter , Door haaren zoon , niet heeft van 't licht beroofdt , en zócht ' er Ook deezen anderen van te berooven ; waar 't Niet door uw ' komst belet gheweest , en in zijn vaert Ghestuit een schelmstuk , zo vermeeten , en verbólghen : 't Welk , nademaal 't niet op dien voet heeft willen vólghen , Zy , op deez ' anderen misschien , met valscheidt , nóch Tracht door te dryven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4833.s.1	Uw ' vermoên op ghrondt steunt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4833.s.2	Dóch Indien 't zo light , zal haar , nócht hem , de straf niet missen , Die zulk eene ondaadt past .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4833.s.3	Maar , om dit uit te visschen , Wat dunkt u raadzaamst .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4838.s.1	Dat ghy aanstondts haalen laat Uw ' zoon , en ondervraaght hem , na den ghanschen staat , En omslagh van den strijdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4842.s.1	Welaan , doet straks ghebieden , Dat hy hier werd ' ghebraght .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4848.s.1	Het zal terstondt gheschieden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4848.s.2	Prins Eduward , Heer , voor de poort der hófzaal staat , En houdt zeer ernstigh aan , om u te spreeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.stage.4845.s.1	De Hófmeester , na dit zegghen , buiten gheghaan zijnde , keert voort weeder .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4853.s.1	Laat Hem binnen koomen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4853.s.2	Licht vermelt hy iet , welk ' strekken Zal konnen , om 't bedrógh mijns ghemaalins t'ontdekken .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4856.s.1	Ghrimoald , Eduward .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4860.s.1	Wel , wat begheertghe , zoon , van Vaderlief ?	Emotion_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.4860.s.2	wat is Het , daarghe om komt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4864.s.1	Dat ghy , uit de ghevankenis , Mijn ' broeder woudt ontslaan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4868.s.1	Hy heeft uw ' , en zijn ' broeder , En zuster omghebraght .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4871.s.1	Niet Vaderlief .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4877.s.1	Uw ' moeder Heeft zulks ghezien , en ons omstandighlijk verklaardt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4877.s.2	'k Denk immers niet , dat zy de waarheidt heeft ghespaart , En mijn gheloof misleidt , met valscheidt , en met looghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4894.s.1	Toen Moeder , op 't gheschreeuw , ter kamer uitghevlooghen , Liep na de hófzaal toe , van waar 't zijn oorsprong nam , Was ik ' er by , en vólghd ' haar na , tót datze ' er quam .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4894.s.2	Daar zagh ik zuster , reedts ter aarde neêrghezeeghen , En haaren zoon , verwoedt met uitghetooghen deeghen , En broeder Alarik , met dierghelijk gheweer , Als felle kryghers , elk den and'ren ghaan te keer .	Emotion_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.4894.s.3	Ik schreeuw , en moeder schreeuwt om bystandt , wat wy mooghen : Tót broeder Trasimond , verbaast , komt uitghevlooghen , En vraaght , waar 't is te doen ?	Emotion_EmotionalAction_Wonder_Despair
+meij001verl01_01.TEI.2.text.body.div.div.sp.4894.s.4	Dóch eêr hy trok van leêr , En scheiden kon 't ghevecht , stort Alarik ter neêr , Ghewondt van Fastarad , dien Trasimond , ontsteeken Van ghramschap , straks bespringt , om broeders leedt te wreeken .	Emotion_BodilyProcess_Anger_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.4894.s.5	Naauw waarenz ' handtghemeen , óf ghy , en 't hóf , hunn ' strijdt ....	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4897.s.1	Ghrimoald , Trasimond , Eduward , Hófmeester , Lijfwacht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4900.s.1	Heer Koning , hier 's uw zoon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4907.s.1	Hófmeester , zoek , met vlijt , Na Fastarad , en breng hem hier anstondts , met wille Ofte onwil ; 't scheelt niet : gha , en zonder tijdtverspillen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4910.s.1	Ik voeghme op wegh , op dat ik 's Konings last volvoer .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4913.s.1	Ghrimoald , Trasimond , Eduward , Lijfwacht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4917.s.1	Wel nu , ghy moordenaar van zuster , en van broêr , Wat kont ghy brengen , welk uwe euveldaadt ontschuldigh .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4938.s.1	Indien de Kooning zich verwaerdight , ons gheduldigh Ghehoor te ghunnen , hy zal duidlijk speuren , dat Ik valschlijk wordt , van mijn ' beschuldighers , bekladt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4938.s.2	Want wat brengt men te bord ' ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4938.s.3	wat weeten zy te zegghen Dat ghrondts ghenoegh heeft , om ten hals my op te legghen De broêr - en zustermoordt , waar meê men my beticht ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4938.s.4	Niets : óf het houdt gheen proef , en valt alsins te licht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4938.s.5	Want , dat my wordt te last gheleght , van mijn ' Stiefmoeder , Hoe zy my , raazende , vondt vechten teeghens broeder , Hoe ik hem wreedt vervólghde , als hy mijn slaghen mijdt , Hoe zuster , tusschen bey , wou scheiden onzen strijdt , En hoe 'k in 't eind ' , door haar ' verhindering verwoeder Gheworden , eerst'lijk haar , en namaals mynen broeder Hielp , door het zelfde staal , van kant , heeftze alles valsch Verdicht , om 't schelmstuk , van haars zoons , op mynen hals Te schuiven , dien ik zelf mijn ' broeder , reedts verleeghen Om bystandt , en 't ghevecht ontvliend ' , met blooten deeghen , Heb zien vervólghen , als een hongerighe leeuw , Toen ik ter hófzaale in , op 't yss'lijk moordtgheschreeuw ...	EmotionalAction_BodilyProcess_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.4941.s.1	Mijn ' Ghemaalin heeft ons 't heel anders voorghedraaghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4946.s.1	Zijn Majesteit ghelieve , eens yder t'ondervraaghen , Die by 't ghevecht was : hy zal speuren , met der vaert , Hoe ik de waarheidt spreeke , en zij die heb ghespaart .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4949.s.1	Wie zijn die ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4956.s.1	Eduward , en Stiefmoêrs kamenieren ; Ja Fastarad , haar zoon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4956.s.2	Ik acht hem , van zo fieren En eed'len inborst , dat hy , tót bezwaarenis Des gheenen , dien hy weet dat ghansch onschuldigh is , Gheen valscheidt styven zal , schoon 't strekt tót zijn ontlasten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4963.s.1	Daar komt hy : houd u stil ; ik zal hem ondertasten , En zien de waarheidt zelf te trekken uit zijn ' mondt .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.4965.s.1	V. Toneel .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4966.s.1	Ghrimoald , Trasimond , Fastarad , Eduward , Hófmeester , Lijfwacht , Hófknaapen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4971.s.1	Hofmeester , spoey u na mijn ' ghemaalin terstondt , En boodschap uit mijn ' naam , dat , zonder eenigh beiden , Zij voor mijn ' troon verschijne , en wil haar zelf gheleiden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4976.s.1	Mijne yver t'uwen dienst steedts overboodigh staat .	None
+meij001verl01_01.TEI.2.text.body.div.div.head.4978.s.2	Toneel .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.4979.s.1	Ghrimoald , Trasimond , Fastarad , Eduward , Lijfwacht , Hófknaapen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.4980.s.1	Ghrimoald teeghen Fastarad .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4996.s.1	De moordenaar ontkent , hardtnekkighlijk , zijn ' daadt , En wilme , uit uwen mondt , zijne onschuldt laaten hooren , Voorwendende , dat ghy , uit Koningsbloedt ghebooren , En eedel van ghemoedt , d'onnoozelen gheen schuldt , Schoon tót uw achterstel , ten halze opschroeven zult .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4996.s.2	En , alhoewel ik aan mijns Ghemaalins verklaaringe Gheen twijffel sla ; zo hebbe ik echter , ter bezwaaringe Des schuldighen , en mijn ' gherustheidt , u ontboôn , Op zijn verzoek ; ten einde , al 't gheen hy , tót verschoon , Te berd ' kost brengen , ghy moght bondigh weederlegghen , En voorts bekrachtighen , met eene , uw 's moeders zegghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4996.s.3	Dies openbaar ons , hoe 't ' er meê gheschooren leidt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.4996.s.4	Zijn ' straffe 't vonnis vólght , en 't vonnis uw bescheidt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5005.s.1	Gheduchte Vórst , der stamme , uit welke ik ben ghesprooten , Der hooghe opvoeding , die 'k , van kindtsbeen , heb ghenooten , Toonde ikme onwaerdigh , zo ik , valsch en laf van moedt , Bezoedelde de ghlans van mijn doorluchtigh bloedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5005.s.3	Nooit werd ' mijn werk gheloochent van mijn ' woorden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5005.s.4	Dies weet , Heer Koning , dat uw zoon an deeze moorden Niet schuldigh is .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5008.s.1	Wie dan ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5015.s.1	Uw ' Dochter , die ik min , En die haar broeder , in de plaats der Koningin , Door 't Kaledoonsch ghewaadt verbysterdt , had doorsteeken , Heeft mijn ' verliefden arm gheport haar ' doodt te wreeken ?	Emotion_Love_Wonder
+meij001verl01_01.TEI.2.text.body.div.div.sp.5018.s.1	Zo hebt ghy dan mijn ' zoon van 's leevenslicht beroofdt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5021.s.1	Hy had de schoone zon mijns leevens eerst ghedoofdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5024.s.1	En vreesde ghy gheen wraak ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5030.s.1	Wat wraak kan zulk een ghrieven , Dien 't leeven walght ?	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.5034.s.1	Ghrimoald , Velleede , Trasimond , Eduward , Fastarad , Hófmeester , Hófknaapen , Lijfwacht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5038.s.1	Wat is zijn ' Majesteits believen , Dat zy , in zulker ijl , my daghvaardt , voor haar ' troon ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5045.s.1	De broêr - en zustermoordt , waar meê ghy mijnen zoon Beticht hebt , wordt ten hals den uwen opgheschooven , Met zulke blyken , die 't my dwingen te ghelooven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5045.s.2	Dies melt ons , óf ghy kont ghestadighen uw woordt , Oft een verkeerden hebt beschuldight met die moordt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5055.s.1	Vrouw Moeder , laat gheen veete , óft kinderliefde u rukken Van 't spoor der Reeden , om de waarheidt t'onderdrukken .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.5055.s.2	'k Heb 't ghansch beloop der zaak den Koning , naakt en bloot , Ontvouwen ; schoon 't onsluit een toepadt na mijn ' doodt : Hy 's my een welkoom ghast ; want nu 'k mijn ' zielzon misse , Schaft my het blijdste licht maar droeve duisternisse .	Joy_Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5084.s.1	Ziet dan zijn ' Majesteit haar ' Ghâ voor zulk eene aan , Die den misdaadighen beghunstigh vry te ghaan , Verrukt door kinderliefde ; en weêr , door haat onduldigh ; D'onschuldighen , met schuldt des schuldighen , beschuldigh .	Joy_Emotion_Hatred_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.5084.s.2	Zo heeftz ' haar ' ghemaalin ghesleeten onbekendt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5084.s.3	Nooit heeft zo vuil een smet mijn ' zuiv're deughdt gheschendt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5084.s.4	Dies is 't , ontaarde zoon , onnut my toe te preeken , Dat ik , beteugh'lende mijn ' drift , zou waarheidt spreeken , Als óf die waar ' ghespaart .	Emotion_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.5084.s.5	En schaamtghe u niet , met valsch Ghetuighenis ( daar ghij , ten kóste van uw ' hals , Indien 't een vreemdt bestondt , uw ' Moeder moest verschoonen ) Haar in haar aanzicht te bekladden , en te hoonen ?	Emotion_Shame
+meij001verl01_01.TEI.2.text.body.div.div.sp.5084.s.6	Zo lasterlijk een daadt verdiende , dat men 't quaadt , Welkghe u berókkendt hebt , u overkoomen laat , En in uw ' eighen vuil , rampzalighlijk , versmooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5084.s.7	Maar mijn ghemoedt is al te preutsch , en hooghghebooren , Om 't oogh te luiken aan uw ' valscheidt , t ' mijner wraak , Den rechten toestandt te verdraayen van de zaak , En haalen in den hals weêr d'eensghesprooken ' woorden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5084.s.8	De Koning weete dan , dat niemandt met die moorden Behipt is , dan zijn zoon , die schandtvlek zyner stam .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5088.s.1	Maar waarom vochten , toen ik in de hófzaal quam , Met bloot gheweer , u zoon , en myne , als woede leeuwen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5098.s.1	Hy , toegheschooten op uw 's Dóchters deerlijk schreeuwen , En ziend ' haar ' neêrgheveldt , uw ' zoonen , dul ghestoordt , Elkand'ren ghaan te keer ; ley toe de broedermoordt Te hinderen , en heeft terstondt van leer ghetooghen : Dóch te vergheefs ; alzo die dolkóp , door zijn pooghen , In toorn ontsteeken , en aanvallend ' met meêr kracht , Zijn ghruwzaam opzet heeft , te vaerdigher , volbraght ; En straks daar aan mijn ' zoon , verwoedt , op 't lijf ghevlooghen ....	Fear_Emotion_EmotionalAction_BodilyProcess_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.5107.s.1	Schaamtghe u , halssterke , niet , dus valsch een tweeden looghen Te dichten , tót ghestandt der eerste , en uw verschoon .	Emotion_Shame
+meij001verl01_01.TEI.2.text.body.div.div.sp.5107.s.2	Staak eens al dit bedrógh , en , daar uw eighen zoon Zich schuldigh , en mijn ' zoon kent vry , wil beeter spreeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5116.s.1	Mijn zoon , zeer heftigh met uw's Dóchters min ontsteeken , En raazende van liefd ' , haakt staadigh na de doodt ; Sint , door het onderghaan dier zon , hy wierdt ontbloot Van 't licht , welk hem alleen zijne ooghen kon verklaaren .	Emotion_BodilyProcess_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.5116.s.2	Dies , willende uwen zoon ghrootmoedigh 't leeven spaaren , Door 't zijne op t'ófferen , laad hy op zich zijn ' schuldt , En gheeft zijn ' boezem bloot aan 's Vaders ongheduldt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5136.s.1	Verwaaten wijf , waar hólt uwe onbeschaamdheidt heenen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5136.s.2	Is dan alle eer , uit uw vervloekt ghedacht , verdweenen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5136.s.3	En 't ghóddeloos ghewis verstókt , verstaáldt , versteendt , Zo , dat u niet alleen gheen wroeghing nijpt van 't gheen 't Alreets bestaan heeft , om onschuldigh bloedt te plengen , En doen den Vader zelf zijn ' eighen zoon ombrengen ; Maar voortslaat ; en bedrógh en looghens , op bedrógh En looghens , stapelt , om dat ghruwlijk opzet dóch Ten eind ' te brengen ?	Emotion_BodilyProcess_Remorse
+meij001verl01_01.TEI.2.text.body.div.div.sp.5136.s.4	Waar 't niet nutter , datghe erkende Uw ' misghreep , en verzócht verghiff'nis , om te wenden , Door die deemoedigheidt , van uwen hals nóch af Myne aanghesteeken toorn , en uw ' verdiende straf ?	Emotion_BodilyProcess_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.5136.s.5	Want daar light meerder blijk , dan Fastarads belydenis .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5136.s.6	Daar zijn meêr tuighen , waar niet teeghen aan te stryden is .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5139.s.1	En wiens ghetuigh'nis roemt ghy dóch zo sterk , en hecht ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5142.s.1	Onz ' Eduwards , die t'zaâm met u quam by 't ghevecht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5150.s.1	Een schoon ghetuighe , om mijn ghetuighnis te weêrspreeken !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5150.s.2	Zal dan met een bejaarde , in recht , zijn vergheleeken Dus kleen een kindt , een wicht , welk naauwlijks ghoedt van quaadt Weet t'onderscheiden ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5154.s.1	Wis , D'onnooz'le jonkheidt ghaat , En spreekt recht uit , hoe 't light gheschooren met de zaaken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5160.s.1	D'onnooz'le jonkheidt is zeer licht wat diets te maaken , En klapt dan namaals , na dat voorschrift , ófte uit zucht .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.5164.s.1	Voor gheen van beiden maakt ons dit gheding beducht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5164.s.2	Bey zijn 't zijn Broeders ; na wien zoud ' hy overbuighen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5167.s.1	Het zy , hoe 't wil : een kindt , en kan , nócht magh ghetuighen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5170.s.1	Hy zelf belijdt het .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5170.s.2	't Kindt wordt niet alleen ghelooft .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5182.s.1	Zijn welbemindes doodt heeft hem van brein beroofdt , En doet hem yv'ren , om dat spoor haar na te treeden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5182.s.2	Maar 't schijnt , de Vórst heeft voor , zijn ' zoon , met schijn van reeden , Voor straf te vrijen , die 't rechtvaerdighe Ghericht , Voor broêr - en zustermoordt , zijn ' handt , op 't strengst , verplicht Hem toe te dryven ; en wil dies in twyffel trekken , Wie 't is , die met dat bloedt , zijn ' handen darde vlekken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5190.s.1	Hou op , hardtnekkighe , van alle uw ' weederspraak .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5190.s.2	Mijn ongheduldt , ontvlamdt tót yverigher wraak , Gheen langer uitstel lijdt , en schoon ik meêr ghetuighen Heb , t'zynen laste ; wil ik echter , dat ghy buighen Dien wreev'len moedt , en hier , op staanden voet , de schuldt Van uwen zoone , en uw verghrijp bekennen zult .	Emotion_BodilyProcess_Anger_Vindictiveness_Annoyance
+meij001verl01_01.TEI.2.text.body.div.div.sp.5197.s.1	Wil dan de Vórst , dat ik onnooz'len zal betyghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5197.s.2	Hy zegghe 't gheen hem lust , en ghunne my te zwyghen , Zo 'k iets te berd ' breng , 't welk met zijn ' begheerte strijdt .	Emotion_Desire
+meij001verl01_01.TEI.2.text.body.div.div.sp.5201.s.1	'k Zegh waarheidt , en ik wil , dat ghy die meê belijdt , Of 'k zal aanstondts uw ' zoon doen om het leeven brengen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5204.s.1	En kreunt ghy niet bet , onschuldigh bloedt te plengen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5208.s.1	Onschuldigh bloedt , óft niet , het zal terstondt gheschiên .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5208.s.2	Dies spreek , óft wel mijn ' wacht doorsteekt hem fluks .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5213.s.1	Indien De Vórst beschooren heeft , zijn ' zoon van straf te vryen , Dat staat an hem ; de mijn ' hoeft daarom niet te lyen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5219.s.1	De mijne is vry van straf , onschuldigh aan de daadt ; En d'uwe lijdt met recht , handtdaadigh aan het quaadt ; Beken dies schuldt , óft 'k zal hem , voor uwe ooghen straffen ; Daar uw ' belydenis hem moght ghenâ beschaffen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5222.s.1	De Vórst vergheef 't mijn ' tong , zo zy niet lieghen kan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5226.s.1	Trouwanten trekt van leêr , en past op 't wenken van Mijne ooghen ....	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.5227.s.1	Ghrimoald spreekt wyder iets zaft met zijne Lijfwacht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.5228.s.1	Velleede ter zyden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5232.s.1	De Tiran pooght , door zijn ' dreighementen , Mijn onverschrokken hart wat vrees slechts in te prenten : Maar 'k merk , 't is veinzery .	Fear_Emotion
+meij001verl01_01.TEI.2.text.body.div.div.sp.5232.s.2	Dies blyve ik by mijn woordt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5237.s.1	Wel nu , belijdtghe uw ' zoon , handtdaadigh aan de moordt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5243.s.1	Mijn ' tong is niet ghewoon , dan waarheidt , te belyden : Dies vergh haar niets , Heer , dat daarteeghen moghte stryden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5243.s.2	Ik hebze ontvouwen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5243.s.3	Gheef nu mynen zoon de schuldt , Oft spreek den uwen vry : ik draagh het met gheduldt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5247.s.1	Welaan , ik zal hem zijn ' verdiende straf dan langen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5247.s.2	Trouwanten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5251.s.1	Houdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5251.s.3	hy heeft den steek ontfangen ; Ik kom te laat .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5251.s.4	Daar zijght hy neer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5251.s.5	Mijn zoon , ach !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5256.s.1	Ik vólgh mijn lief vernoeghdt : dies staak dit weegheklagh , En weest kloekhartigh .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5256.s.2	't Quaadt ontvliedt nooit zijn ' belooning .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5267.s.1	Vervloekte menschenbeul , vermoorder van uw Koning , Verdelgher mijns gheslachts , verweldigher der kroon , Verdrukker der ghemeente , en roover van mijn ' troon , Moest nóch het lijk mijns zoons uw ' troon ten rughsteun strekken , En , met zijn bloedt , de schand ' van uwen zoon bedekken ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5267.s.2	't Is zijn verschoon alleen , en 't vesten van uw staf .....	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5280.s.1	Zwijgh , onbeschaamde , uw zoon heeft zijn ' verdiende straf , En ghy verdiende loon voor uw ' bedrieghlijkheeden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5280.s.2	Dies hou u stille , en stóp de vloedt dier lasterreeden , Ofte ik weet raadt met u , en dien vermeet'len aart .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5280.s.3	Hófknaapen , neemt het lijk , en draaght het kamerwaart .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5280.s.4	Mijn ' zoon bekleê mijn ' zy .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5280.s.5	Hófmeester , wil ons vólghen , Om t'overlegghen , hoe ik best , na zo verbólghen Een onweêr , huldighe ten nazaat mynen zoon , En helpe wyders aan Mathildes trouw en troon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.5283.s.1	Velleede .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.1	Balstuurigh lót , hoe looptghe ons teeghen !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.2	Hoe onbesuisdt slaatghe ons voor 't hoofdt , Met batsen weederspoedt , daar voorspoedt scheen beloofdt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.3	Mijn toelegh niet alleen is tweemaals neêrghezeeghen In 't voetzandt , zonder vrucht ; maar ( onverdraaghb're smart ! ) Verwoedt my neêrgheploft op 't hart .	Emotion_BodyPart_BodilyProcess_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.4	't Mislukken van de Tweelingbroeders Te moorden , slaapende op hun bedt , Wierdt , toen men schadeloos daar af quam , licht verzet : Maar dus mijn ' zoon zijn ' doodt , zelfs door 't beleidt zijns moeders , 't Welk pooghde een anderen op t'óff'ren aan zijn schuldt , Te vórderen , breekt mijn gheduldt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.5	Vergheef my , waerde kindt , mijn zwyghen ; Het pleite voor uw lijf en staf : Daar 't nu , voor staf en lijf , u heeft ghestort in 't ghraf .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.6	Maar zijt ghetroost , mijn ' wraak , an 't wakkeren en styghen , Zal met des moorders bloedt verheerlijken uw ghraf , En lanks dien trap treên na mijn ' staf .	Emotion_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.7	Maar wie zal best , ghedoemdt ter wraake , Opruimen 't spoor ter zeeteltroon ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.8	De Dwinglandt streef voor uit , wiens voetstap vólgh zijn zoon , De jongste sluite 't hek , en wil een drytal maaken , Tót een zoenóffer , mijn vermoordt gheslacht ghewijdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.9	Mijn ' wraak zich met gheen slechter lijdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.10	Dóch zal 't my wel van 't harte mooghen , Dat eenigh telghjen mijner stam , Onze Eduward , die uit mijn leeven 't leeven nam , Die voedsel , uit mijn bloedt , heeft , door mijn ' borst , ghezooghen , Te scheuren van zijn ' steel , te moorden met mijn ' handt , En óff'ren mijner wraak dat pandt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.11	O ja , zy heeft de zucht van moeder Gheheel ghedempt , en hy 's niet waerdt , Dat hy , in 't leeven , van zijn ' moeder , werd ' ghespaart ; Die , in het leeven , niet ghespaart heeft zynen broeder .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.12	Ja , van mijn koninksbloedt is lang in hem de ghlants Verdoofdt , door 't bloedt des Dwingelandts .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.13	Heeft Prógne , om op 't verwoedst te wreeken Haars zusters Philomeles schand ' , Door Thereus , haar ghemaal , gheknót van tong , en handt , Haars Ytis strót doorboordt , zijn vleesch aan 't spit ghesteeken , In keetelen ghezoôn , en , opghedischt , daar aan Den Vader doen zijn ' ghraaght ' verzaân ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.14	Heeft Atreus , om Mycenens kroone Te draaghen , en zijn huwlijksbedt , Met bloedtschand ' van Thyest baldaadighlijk besmet , Den vader opgheschaft zijn dry onnooz'le zoonen , Gheschonken 't bloedt voor wijn , en zoo de wreede lust Van zijn ' wraakghierigheidt ghebluscht ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.15	De wraak mijns zoons , en myner maaghen , 't Herwinnen van mijn ' Scepterstaf Verght mynen overmoedt gheen slapper ondaadt af .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.16	Zy plengden schuld'loos bloedt ; ik kan 't met schuldigh waaghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5358.s.17	Welaan mijn ' ziel , neem zo doorluchtigh een besluit , En voer 't niet min doorluchtigh uit .	None
+meij001verl01_01.TEI.2.text.body.div.head.5364.s.1	Vyfde bedryf .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.5366.s.1	Ghrimoald , Velleede , Mathilde , Trasimond , Atelstan , Ottomar , Leeuwenbald , Hófmeester , Rey van Eedelen , Staatjoffers , Hófknaapen , en Dienaars .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5373.s.1	Daar komt de Koningin .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5373.s.2	Mijn zoon , treedt fluks haar teeghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5373.s.3	Weest wellekoom Mêvrouw .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5373.s.4	De Heemel stort ' zijn ' zeeghen , En op mijn ' koninkstroon , en op uw bruilóftsbedt , Dat eeuw , nócht landt den stroom uw 's luks ooit paalen zett ' , En uwe nazaat u te boven ghaa in deughden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5376.s.1	Ik dank zijn ' Majesteit .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5384.s.1	Mijn hart sprong op van vreughden , Op d'overblyde mied ' van dat ghy woudt mijn ' zoon Bezalighen , met d'eer van uwe trouw en troon .	Joy_Emotion_BodyPart_BodilyProcess
+meij001verl01_01.TEI.2.text.body.div.div.sp.5384.s.2	Zijn liefde vólght mijn hart , wiens ghroote u is ghebleeken .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.5395.s.1	Indien 't voorleedene nóch gheen ghenoeghzaam teeken , Mêvrouw , verschaft , hoe ik u minne , ontzie , en eer '; Ik kniel deemoedighlijk voor uwe voeten neêr , En wacht uit uwen mondt , dien my niets staat te weigheren , Wat my , om uw gheloof zo verre te doen steigheren , Nóch ov'righ blijft ; óft zo 't zo hoogh ghesteigherdt is , Wat dat ' er wordt vereischt tót zijn ' vermeerdernis , En tót verzeekring , dat niet eerder zal begheeven Dit minnevlammend hart mijn ' liefde , dan mijn leeven .	Emotion_BodyPart_BodilyProcess_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.5400.s.1	Rijs Prins , en denk , dat ik daar aan gheen twyffel slaa , En met mijn ' weedermin uw ' min beloonen ghaa , Tót koeling haarer vlam , en 's Konings verghenoeghen .	Emotion_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.5403.s.1	Hófmeester , is men reede , om zich ter troon ' te voeghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5406.s.1	Men wacht slechts uw ghebódt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5409.s.1	Waar is mijn ' ghemaalin ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5412.s.1	Hier is zy , Heer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5418.s.1	Kom zet u hier .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5418.s.2	De Koningin Neem daar haar ' plaats .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5418.s.3	Mijn zoon zich op den rijkstroon vlyde .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5418.s.4	Heer , het ghelieve u te bekleên de laegher zyde Van uwe Koninginne ; ik voegh my by de mijn ' .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5421.s.1	Schoon ikze onwaerdigh ben , wil 'k u ghehoorzaam zijn .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.5422.s.1	Onder dit zegghen , ghaat Trasimond op den troon , Velleede an zyne hoogher , en Mathilde an zijn laegher , en an des zelfs laegher handt Atelstan zitten .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.5422.s.2	Ghrimoald an de hoogher handt van Velleede zich ghevoeght hebbende , spreekt de Heeren , en andere Omstanders , die zich ter weederzyden van den troon ghevlijt hebben , aan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5435.s.1	Manhafte Ridderschap , en ghy mijne onderzaaten , Onwik'bre zuilen van mijn ' heerschapye , en staaten , Ziet hier , verheerlijkt op mijn ' ghouden zeeteltroon , Den rechten erfghenaam der rijkskroon , mijnen zoon , Wien , als mijn ' nazaat , ik den scepterstaf opdraaghe , En mijnen stoel inruime .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5435.s.2	Ontfangt hem , met behaaghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5435.s.3	'k Gheef , met deez ' staf , en kroon , hem 't Britsche koningdom , En Kaledoniens Vórstin ten bruideghom .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5435.s.4	Zy beide zullen , in mijn ' plaats , voortaan regheeren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5435.s.5	Wilt haar , als Koninginne , en hem , als Koning , eeren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.5436.s.1	Reyen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5439.s.1	Lang leef de Koning , met zijn ' schoone Koningin .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5439.s.2	Zijn ' trótse stamboom ghroeye , en bloeye , eeuw uit , eeuw in .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5445.s.1	Heer vader , schoon 'k anvaerde uw ' scepter , en uw ' kroone , Mijn ' plicht u echter steedts ghehoorzaamheidt zal toonen ; En , alzo lang mijn ' voet betreên zal dezen troon , Zal daar van daveren de stem van uw ' gheboôn .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5454.s.1	Uw ' vaak beproefde deughdt belooft my deez ' belooninge .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5454.s.2	Maar , om staatplechtigh te besluiten uwe krooninge .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5454.s.3	Wil 't oudt ghebruik , dat zy ghesterkt werd ' , door een dronk Van rooden wijn , waar meê ons 't jongste jaar beschonk , En die ons Priesterdom , met bidden , en met ófferen , Tót deeze inhulding heeft ghewijdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5454.s.4	Welaan , Staatjofferen , Waar is de Rijkskelk ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.5455.s.1	Rey van Staatjoffers	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5457.s.1	Hier mijn Vórst .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5461.s.1	Gheluk , mijn zoon , Gheen ramp ghemoete u ooit , op uwe ontfangen ' troon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5467.s.1	Heb dank , Heer Vader .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5467.s.2	En nooit drukk ' myne onderzaaten , Met onbenoeghinge , wat wy bestaan , óft laaten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.1	De ghoede Heemel sterke uw ' wensch , met zyne handt ; En hechte , op mórghen , uw ' beschooren huwlijksbandt Onscheidelijk aan een , tót heil der beide kroonen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.2	Men voeghe zich , om uwe inhuldinge ter troone , Door 't plechtigh kroonbanket , te sluiten , voort ter disch .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.3	Maar , ach !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.5	ay my !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.6	wat vreemde ontsteltenis , En ghrilling , rijdt door all ' mijn ' leeden ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.7	Wat krioelt ' er ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.8	Wat kriewelt ' er dus in mijn inghewandt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.9	Wat woelt ' er Dus door mijne aderen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.10	Ach ! 't klampt an boordt mijn hart , En fóltert het , met een onlydelijke smart .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.11	Wat bomt daar in mijn ' borst , met droevighe gheruchten ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.12	Zy zucht , en steent somtijdts ; maar niet door eighen zuchten , En steenen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.14	een diep gheluidt ghalmt heesch , en hól .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.15	Mijn hoofdt wordt wervelziek , en draait , ghelijk een ból Op d'assen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.16	't Zwindelt , en wordt donker voor mijne ooghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.17	De naare nacht schijnt met een nieuwe nacht betooghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.18	Wat onweer stort daar neêr op 't Koninklyke huis , En hólt van zaale in zaal ' , met zulk een brusk ghedruis , En schud de pylers , en de muuren , dat zy trillen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.19	Wat wil dat moordtgheschreeuw ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.20	wat ysselijker ghillen Treft daar mijne ooren ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.21	waar is dat benaauwdt ghesteen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.22	Wat akeligher spook snort daar voorby my heen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.23	Wie roept daar wee , en wraak , an broeder , en an vader ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.24	Ach ! 't is mijn zoon , gheen stem en zweemt der zyne nader .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.25	Hy schijnt in noodt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5498.s.26	Kom hier mijn kindt , en uw ghezicht Schuif van mijn hart den steen , die daar zo zwaar op light .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5502.s.1	Hier ben ik , Vader , zegh , wat staat my aan te vangen , Tót stilling van de weên , die uwen boezem prangen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5513.s.1	Ghy zijt mijn zoon , helaas !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5513.s.2	maar die niet , die my quelt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5513.s.3	Mijn Eduward , de lust mijns ouderdoms , ontstelt Dus mijn ghemoedt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5513.s.4	Ghewis , men wil het kindt vermoorden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5513.s.5	Zijn gheest was 't , die ik zagh ; zijn ' stem was 't , die ik hoorde .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5513.s.6	Ach ! 't is gheen deegh met hem !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5513.s.7	Dit voorspook spelt niet ghoedts !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5519.s.1	't Zijn yd'le inbeeldingen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5519.s.2	De vader zy ghoedts moedts .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5519.s.3	Gheen dagh zal hem , zo lang hy leeft , zijn zoon ontvreemen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5519.s.4	Neef Ottomar , ghelief de moeiten aan te neemen , En breng hem herwaarts .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5519.s.5	Zijn verblijf is u bewust .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5522.s.1	Uw ' dienaar staat bereidt op 't wenken uwer lust .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.5525.s.1	Ghrimoald , Velleede , Mathilde , Trasimond , Atelstan , Leeuwenbald , Hófmeester , Rey van Eedelen , Staatjoffers , Hófknaapen , en Dienaars .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.1	Hoe nu toe ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.2	deel ik in d'onsteltenis van Vader ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.3	Ik voel mijn bloedt , aan brandt , vast ziên van aâr tót ader ; En spartelen , door 't hart , met overdwaalschen loop ; En dryven opwaarts aan , na 't hoofdt , een byst'ren hoop Van woede dampen , die het schudden , ghins en weeder .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.4	Ik suizeból , ik zwijm , en stort byna ter needer .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.5	Mijn beenen beeven , en zijn 't lijf te zwak een schraagh .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.6	De zaalvloer rijst om hoogh , 't ghewelfsel daalt om laegh .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.7	De wanden wentelen zich om , het bovenste onder .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.8	Hoe schriklijk bliksemt het ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.9	hoe yss'lijk rólt de donder , En dubbelt slagh op slagh , dat alles schud , en scheurt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.10	De balken buighen neêr , en kraaken beurt om beurt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.11	Hoe ghonst , en ghiert de windt , en rinkelt op de ghlazen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.12	Wat yz're keetens hoor ik rammelen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.13	wat raazen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.14	Wat roepen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.15	wie smeekt daar om hulp ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.16	wie schreeuwt daar moordt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.17	Ach 't is mijns broeders stem ; ik heb mijn naam ghehoordt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.18	Waar zijtghe broeder ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.19	spreek mijn lam , wie wil u dooden ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.20	Spreek broeder , spreek .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.21	Mijn ' hulp wordt u terstondt ghebóden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.22	Wat 's dit ? 'k hoor antwoordt ; maar ik twijffel , waar van daan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.23	Een hól gheluidt schijnt , uit mijn ' boezem , opwaarts aan Te wellen , langs mijn ' strót , tót teeghen het verheemelt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.24	Wat vreemder pijn ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.25	't Is óf ' er in mijn buik iets weemelt , En kriewelt , en ter keel weêr uit te kruipen tracht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.26	Mijn ' maagh onduldigh , en verleeghen met zijn ' vracht , En walght , en arbeidt , om dat pak zich quijt te maaken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.27	Ontmenschte Stiefmoêr , zegh , wat spógh van slange , en draaken , Wat helsch verghift ghy , in de Rijkskelk , hebt ghemengdt , Welk zo het bloedt besmet , en 't brein an 't hóllen brengt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5564.s.28	Laat hooren , fluks , wat hebt ghy ons voor nat doen nutten , Opdat men magh intijdts zijn ' razernyen schutten : Of 'k zweer , ghy zult , eêr dat zijn ' schennis my vermant , De straf uw 's euveldaadts ghevoelen van mijn handt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5568.s.1	Dat 's recht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5568.s.2	Ontdek 't beleidt van deeze uw ' schelmeryen , Ofte eêr wy lyen , zult ghy zelve daar voor lyen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5574.s.1	Bedaart , ghy Vórsten , en betoomt uw ongheduldt , Tótdat neef Ottomar zy weêrghekeerdt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5574.s.2	Dan zult Ghy , wat voor wijn ghy hebt ghedronken , zien en hooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5574.s.3	Daar komt hy .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.5578.s.1	Ottomar , brengende het doode lichaam van Eduward , in een zijden kleedt ghewonden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5580.s.1	Hier 's uw zoon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5583.s.1	Wat ramp staat ons beschooren ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.5584.s.1	Velleede het kleedt openslaande .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5588.s.1	Kom Vader , kus uw ' zoon , en bergh hem in uw ' schoot .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5588.s.2	En ghy , omhels uw ' broêr , en redt hem uit zijn ' noodt : Ghy kont , op uw ghemak , hier beide uw ' lusten boeten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5593.s.1	O schrikkelijk vertoogh , wie zou niet yzen moeten !	Fear_BodilyProcess
+meij001verl01_01.TEI.2.text.body.div.div.sp.5596.s.1	O teeder aanschijn , vuil met bloedt alsins bekladt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5601.s.1	En kentghe uw ' zoon niet ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5601.s.2	is hy u ontmunt zo radt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5613.s.1	U ken ik , heilloos wijf , tót mijn verderf ghebooren , En tót mijn ' ghemaalin , ter quader uur , ghekooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5613.s.2	Wat razerny heeft u verrukt ?	Emotion_BodilyProcess_Anger_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5613.s.3	wat helsch ghedrócht Uw ' borst bezeeten , en ghedempt de zoete tóght , Welke over zoon zo teer eens moeders hart doet hangen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5613.s.4	Hoe dórstghe zo verdoemdt een ghruwelstuk aanvangen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5613.s.5	Hoe kostghe de natuur verlooch'nen , zo ontzindt , En schenden , zo ontaardt , uw ' handen aan uw kindt , Het eenighst ' van ons bedt ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5613.s.6	Waar zagh men ooit verwoeder , Onmeededooghender , onmenschelyker moeder ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5617.s.1	Wat klaagtghe , en scheldt op my ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5617.s.2	't Waar best uw ' zoon ghekust , Ghestreeldt , ghestrookt , en zo gheboet uw vaderlust .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5628.s.1	Vermeetele , houdt op .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5628.s.2	Ghy hebt mijn kindt met arren , En euv'len moedt vermoordt , en zult ghy my nóch sarren , En terghen , en dus driest verghuizen in 't ghezicht ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5628.s.3	Maar zegh , waar door heeft dóch deez ' straf verdiendt dit wicht ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5628.s.4	Indien de doodt uw 's zoons de vlam hadde aanghesteeken Van uwe wraakzucht , ghy hadt u op my te wreeken , Niet dit onnoozel kindt .	Emotion_BodilyProcess_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5628.s.5	Nu hebtghe , dwars van aart , D'onschuldighe ghestraft , de schuldighe ghespaart .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5633.s.1	Dien doolwegh heeft zich nóch mijn ' wraak niet inghegheeven .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5637.s.1	Heeft dan dit teeder lam iets , teeghen u , misdreeven , Welk uwe ghramschap dreef tót zo verwoedt een straf ?	Emotion_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.5642.s.1	Hy heeft mijn ' zoon beklapt , en hem den wegh na 't ghraf Ghebaant : en , schoon hy niet behipt waar met die daaden , Zo was 't uw kroost , en dat verdiendt myne onghenade .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5652.s.1	Het was ook 't uwe , en dat verdiende uw meedely : En snerpt zijn ' doodt mijn ' ziele , uw ' ziele en ghaat niet vry .	Emotion_Compassion
+meij001verl01_01.TEI.2.text.body.div.div.sp.5652.s.2	Zo veel te heeter , als een moeder mint , dan vader , Zo veel te scherper , nijpt uw ' pyne , en treft veel nader .	Emotion_BodilyProcess_Love_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5652.s.3	Ghy speelt Medee , die stak , door 't haar ' , haar ' man in 't hart ; Ghy quetst my ook ; maar voelde eerst zelf veel feller smart .	Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5657.s.2	Om my , op u , van al mijn leedt te wreeken , Heb ik mijn ' zoon door 't hart , tót in uw hart , ghesteeken ; Dóch 't mijn ' niet eens ghequetst .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5657.s.3	't Ghenoot meêr vreughdt , dan smart .	Joy_Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5661.s.1	Zijt ghy een moeder , en hebt ghy gheen moeders hart ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5661.s.2	Raakt u de vrucht , die ghy gheteeldt hebt , dan niet nader ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5691.s.1	By u , een aartstiran , den moorder van mijn ' Vader , Mijn ' broeder , mijn ' ghemaal , en mijn ' liefwaerden zoon , Den dwinger tót zijn ' trouw , en roover van mijn ' kroon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5691.s.2	Wat waant ghy , dat ik u ooit liefd ' heb toeghedraaghen , Ofte , op mijn ' koets , omarmt , met weelde , en minnevlaaghen ?	Emotion_BodilyProcess_Love
+meij001verl01_01.TEI.2.text.body.div.div.sp.5691.s.3	Wat waant ghy , dat ik ooit ghekoesterdt heb de vrucht , Van u by my gheteeldt , met moederlyke zucht ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5691.s.5	Indien ik ooit u heb ghetoondt een teeken Van min , 't was slechts een laagh , om my op u te wreeken ; En heb ik 't kind niet straks verstikt , in zijn ' gheboort ' , Maar by het lijf ghespaardt , 't was slechts , om door zijn ' moordt , Mijn ' wraaklust , t ' haarer tijdt , een beet'ren slagh te voeghen .	Emotion_Love_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5691.s.6	Ja , 'k hadme allang verschaft dat wensch'lijk verghenoeghen , 't En zy daar door de hoop , die 'k voede , om mynen zoon , Door uwe , en uwer moordt , t ' herplanten op zijn ' troon , Waare afghesneên .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5691.s.7	Maar nu zijn ' doodt die heeft verbannen , En styver , dan voorheen , mijn ' wraakboogh opghespannen , Heb ik haar 't óffer , lang ghewijdt , al voort gheslacht ; En , om met eenen haar in haare volle kracht Te zetten , en mijn ' lust volop , in alle deelen , Te boeten , gheen Medeê ; maar Prógne willen speelen , Die Thereus Ytis slachte , en briedt de teere leên .	Emotion_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5694.s.1	Wat hebtghe ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5700.s.1	'k Heb uw ' kindt , zijn ' strótaâr afghesneên , En 't bloedt , met ghift vermengdt , ter rijkskelk ingheschonken , Dat ghy , met uwen zoon , hebt ghulzigh inghedronken , Inwyend ' , met dat nat , uw ' nazaat , op uw ' stoel .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5705.s.1	Dit 's dan de bron , daar flus uit sproot dat vreemdt ghewoel ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5705.s.3	dit was 't , daar ons het hart , en bloedt afghrilde !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5708.s.2	dit was 't , dat my ter keele weêr uitwilde !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5711.s.1	De spraaklooze natuur waarschuwde my , al vroegh !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5714.s.1	Mijn ' stomme maagh ghaf van deeze ondaân blijks ghenoegh ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.speaker.5715.s.1	Leeuwenbald teeghen Atelstan , en Mathilde , ter zyden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5718.s.1	Mijn ' Prins , 't schijnt , zonder dat wy onzen aanslagh waaghen , Dat dit krakkeel u wil op uwen rijkstroon draaghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5721.s.1	Het baant bequaamen wegh daar toe .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5724.s.1	't Beloofdt ons heil .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5727.s.1	Men wachte 't af ; en houd ' terwyle een oogh in 't zeil .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5740.s.1	Wat klachten storte ik , en waar zal ik woorden haalen , Ghenoeghzaam om all ' myne ellenden af te maalen !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5740.s.2	Mijn Eduward is dan van 's moeders handt verdelght !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5740.s.3	Zijn bloedt van vader , en van broeder inghezwelght !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5740.s.4	Heeft ooit de zon , sint zy den Aardtboôm quam verlichten , Beschouwt een lasterstuk , welk hier voor niet moet zwichten ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5740.s.5	Wie ghruwt niet , die het ziet ?	Emotion_Disgust
+meij001verl01_01.TEI.2.text.body.div.div.sp.5740.s.6	Wie schrikt niet , die het hoort ?	Emotion_Disgust
+meij001verl01_01.TEI.2.text.body.div.div.sp.5740.s.7	Gheen yss'lijk onghediert , ghebroeidt in 't kilste noordt , Gheen wanghedrócht , by leeuw en luipaardt opghetooghen , Was ooit zo woedigh , zo vervreemdt van meededooghen .	Emotion_Compassion_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.5740.s.8	Verwaaten wijf , uw ' wraak , en wreedtheidt , houdt gheen maat .	Emotion_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5760.s.1	Wat maat hiel d'uwe , toen uw ' dwinglandy den Staat Verweldighde , en mijn ' man , mijn ' broeder , en mijn ' vader Vermoorde , en my nóch dwong te trouwen een verraader ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5760.s.2	Ons smart het leedt , hoe kleen 't ook is , dat ons gheschiedt : Maar 't gheenwe een ander doen , schoon 't ghroot is , voelt men niet .	Emotion_Sadness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5760.s.3	Wat waant ghy , dat ik my te buiten gha in 't wreeken ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5760.s.5	Ik heb uw kindt den strót slechts afghesteeken , Zijn bloedt ghemengeldt , in de Rijkskelk , met venijn , En u , en uwen zoon dat slorpen doen voor wijn .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5760.s.6	Maar 'k moest u zelf tót al dit hebben konnen dwingen , Het laauwe bloedt uit zijn ' doen in uw ' ghórghel springen , U uwen bloedtdórst doen verslaan , met leevend bloedt , U 't lillend vleesch , aan 't spit , doen roosten , voor de ghloedt , En , teeghen heugh en meugh , dat lekker wildtbraadt eeten , Dat ghy , en hy , het van te vooren hadt gheweeten : Dan zou mijn ' wraak haar ' lust eerst hebben recht ghekoeldt .	Emotion_Desire_Vindictiveness
+meij001verl01_01.TEI.2.text.body.div.div.sp.5813.s.1	Hoort diepe zeên , die om dit Eilandt zwalpt , en spoelt ; Hoort landen , wijdt en zijdt , an allen oord , gheleeghen ; Hoor lucht , die , boven ons , ghaat ghroot van windt , en reeghen ; Hoor Hel , die , onder ons , zo diep ghedolven , daalt ; Hoor Heemel , die , om d'aarde , op snelle naven , dwaalt , Deez ' ghruwelen ; en ghy , o naare nacht , betooghen Met dubb'le mist ; schoon ghy gheblindtdoekt hebt uwe ooghen , Om niet hunn ' heiligh licht t'ontwyen , door de damp Van deeze afghrijslijkheên ; ghy ziet nóchtans mijn ' ramp , Hoor meê mijn ' klaghten , en beghunstigh meê mijn smeeken ; Mijn beê wil niet voor my ; maar voor u allen spreeken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5813.s.2	Ghy eerst dan , Aarde , die deeze ijss'lijkheeden lijdt , En draaght op uwen ruggh ' , spalk open , scheur , en splijt Den afghrondt van uw ' balgh , om ons daar in te zwelghen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5813.s.3	Wat mart ghy met dit woest wanschepsel te verdelghen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5813.s.4	Ruk wegh den ghrondtvest van dit Koninklyke huis , En plóf het needer , met een schrikkelijk ghedruis , In 't ghloeijenste van Styx , in 't diepst der helsche kólken , En voer ons , leevendigh , by de verdoemde vólken , Opdat gheen mensch ooit deeze onmenschlijkheeden ziet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5813.s.5	Hoe nu , ghy light heel stille , o Aarde , en kreunt 's u niet ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5813.s.6	Ghy dan , o Heemelvooghdt , die 't oogh houdt , in 't byzonder , Op 't sterffelijk gheslacht , en davert met den donder , En met den bliksem speelt , ter straf , ten onderghank Der quaân , uw ' donder brulle , en uwe bliksem wank ' , Niet met een zaft ghedreun , en zwakke schitterstraalen , Welke uwe ghramschap doet , op kleene zonden , daalen : Maar met de donderbuy , maar met de bliksemghloedt , Waar meê ghy neederwierpt het onbesuisdt ghebroedt Der Reuzen , en 't ghevaert der opghehoopte berghen Bonsde op hunn ' kruinen neêr .	Emotion_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.5813.s.7	Ghy moet uwe armen verghen Wat zeldzaams ; hier is stóf voor onghewoone straf .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5813.s.8	Werp , werp dien brandt uw 's toorns , op ons misdaadighe , af , En plet dit heilloos wijf tót ghruis , en maak een open In deeze borst , waar lanks mijn kindt weêr uitghekroopen , Ontworstele 't gheprang der maagh , daar in het zucht .	Emotion_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.5813.s.9	Mijn ' bange boezem barst byna , en woelt om lucht .	Fear_Emotion_BodyPart_BodilyProcess
+meij001verl01_01.TEI.2.text.body.div.div.sp.5820.s.1	Nadien de Heemel , en 't verghift niet kort uw kermen ; Wil ik my over u , en mijne vrucht erbarmen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5820.s.2	Hou daar dan Dwinglandt , braak door deeze wonde uw ' zoon , En met uw ' zoon uw ' ziele , en ruim my in mijn ' troon ; En ghy .....	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.5821.s.1	Velleede tusschen Ghrimoald en Trasimond instaande , nadat zy den Dwinglandt ghetroffen heeft , steekt ook na zynen zoon , die den steek ontspringende van leêr trekt , en haar , na Ottomar vluchtende , en hem te hulp roepende , doorstreekt , en weeder van Ottomar doorsteeken wordt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5824.s.1	Dat mist u .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5827.s.1	Help !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5830.s.1	Ghy zult my niet ontvlieden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5833.s.1	Neef Ottomar !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5836.s.1	Mêvrouwe , ik zal u bystandt bieden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5839.s.1	Ay my !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5839.s.2	ik ben doorwondt !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5842.s.1	Ik ben ghequetst !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5849.s.1	Gha Ghy Dwinglandts zoon , en vólgh des Dwinglandts stappen na , En laat voor my de kroon , waar toe ghy waart ghekooren , En koninklyke bruidt ten Eeghâ u beschooren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5867.s.1	Verban , uit uw vervloekt ghedacht , die hoope vry , Ghy moorder , en ghenoot der kindermoordery , En ghruwelen , die hier ghepleeght zijn , zo vermeetel .	Emotion_Hope
+meij001verl01_01.TEI.2.text.body.div.div.sp.5867.s.2	Denk niet van ooit op deeze , óft mijnen Koningszeetel , En bruilóftskoets te treên .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5867.s.3	Des Dwinglandts voorzaats zoon , Prins Atelstan , uw ' Vórst , en wettigh oir der kroon , Des Dwinglandts woede ontvlucht , en in mijn Rijk ghekoomen , En nu met my ghekeerdt , zal u dien wegh draayboomen , Zijn recht handthaaven , en manmoedigh keeren af , Wie hem durft steeken na zijn erffelyken staf .	Emotion_Anger
+meij001verl01_01.TEI.2.text.body.div.div.sp.5867.s.4	Ghy Heeren dan , ziet hier uw wettigh Vórst , en Kooning , Bescherm zijn erfrecht , en verwacht daar voor belooning : Maar ghy , o booswicht , kniel , en bidt verghiffenis , Eer uw ' verghrijp bezuur de straf , die 't waerdigh is .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5877.s.1	Ik knielen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5877.s.2	ik ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5877.s.3	die hier den Scepterstaf moet zwaayen ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5877.s.4	Voor eenen , dien uw ' list zoekt in den troon te draayen ; En , hem bepronkend ' met den naam van Atelstan , Te gheeven ons ten Vórst , te kryghen u ten man ?	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5877.s.5	Het luidt te blaauw , Mêvrouw .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5877.s.6	Daar 's niemandt deezer Ghrooten , Die twyffelt aan zijn ' doodt , te listighlijk beslooten , Te zeeker uitghevoerdt , door 's Dwinglandts moordttrouwant .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5877.s.7	Dies stem mijn eisch , en zaay gheen voorder misverstandt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5893.s.1	Schaamt ghy u , booswicht , niet , zo tróts een Koninginne Te lasteren , dat zy , vervoerdt door kriele minne , Om haaren onderdaan ter koninksbruilóftskoets Te heffen , kreuken zou de preutscheidt haars ghemoedts , Hem valsch'lijk dringende op den rijkstroon tót verschooning .	Emotion_Love_Shame
+meij001verl01_01.TEI.2.text.body.div.div.sp.5893.s.3	Ik ben uw Vórst , de zoon van uwen Koning , Dien 's Dwinglandts dólk vermoorde , en uit zijn ' zeetel stiet .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5893.s.4	Ik ben die Atelstan , dien hy vervólgde , en niet En afterhaalde ; Ik ben uw Erfprins , dien Mathilde Haar Vader ten ghemaal zijns dóchters stellen wilde .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5893.s.5	Dies staat , vermeetele , af den staat , daar ghy na staat , En val Mêvrouw te voet , tót beet'ring uwer daadt .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5905.s.1	Een wulpsche pronker , tót het minnespel ghebooren , En daarom van Mêvrouw tót eeghemaal ghekooren , Dart , door haar ' stem ghesterkt , zich roemen 's Konings zoon , En zich anmaatighen het recht der Britsche kroon !	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5905.s.2	Ghy Heeren , laat u door gheen valschen schijn vervangen : Want waar ' hy 's Dwinglandts klaauw ontsnapt , hy hadt voorlange , Door 's Dwinglandts borst , een wegh ter troon ghemaakt , met kracht , En , tótz ' hem van 't gheluk ghebaant wierdt , niet ghewacht .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5905.s.3	Dies laat uw ' manhaft van gheen vreemden overheeren ; Maar help hem , moedighlijk , van 's Konings zeetel weeren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5922.s.1	Ghy Heeren , twijffelt niet ; deeze is de Koningszoon , Onze erffelijke Vórst , en wettigh oir der kroon , Die , 't zwaerdt van den Tiran ontvlucht , zich by Mêvrouwe , In Kaledonien , bedekt'lijk heeft ghehouwen , En onderwijl met my staâgh onderling verstandt , Om met gheweldt , óft list , den woeden Dwingelandt Te bonzen van den troon , en zijn gheslacht te wreeken : En 't was , deez ' avendt , op het kroonbanket , besteeken , Ghelijk an veele uit u niet onbekendt en is .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5922.s.2	Dies rent niet reukeloos in uw ' verderffenis , Nócht leent dien raadtsman 't oor : maar toont u rechte braaven , Voeght u by uwen Vórste , en helpt zijn recht handthaaven .	None
+meij001verl01_01.TEI.2.text.body.div.div.stage.5923.s.1	Terwylen men dus over en weeder krakkeelt , voeghen zich eenighe Heeren , Hófknaapen , en dienaars by Atelstan , en eenighe andere by Ottomar .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5934.s.1	Ghy ghryze huicchelaar , die uw ' bevoordering In 't oogh hebt , met dus op den troon een ' vreemdeling Te willen planten , en deez ' valscheidt te beaâmen , 'k Hoop , u de Heemel zal , met uwen Vórst , beschaamen .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5934.s.2	Ghy Heeren , wie met my mijn scepterrecht verstaat , En haat eens vreemden juk , die trekk ' van leêr .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5934.s.3	Dat ghaat U voor .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5934.s.4	Het zwaerdt moet dit verschil alleen beslechten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.1	Rechtvaerdigh vecht hy , die ghedwongen wordt te vechten .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.2	Mijn ' vrienden , steurt u aan gheen ' vuilen lasteraar : Elk weer ' zich mannelijk , en vólgh zijn ' koning naar .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.3	Ghy Heeren staat , en staakt dit vechten van weêrzyden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.4	Het deert my meerder bloedts te storten , door dit stryden .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.5	't Hoofdt der weêrspannighen , welk my stak na mijn ' kroon , Light , door mijn ' kling , gheveldt , en heeft verdiende loon .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.6	Ghy , die het met hem stondt , door plicht , óft door zijn raaden , Bekent uw ' misghreep , en versmaadt niet mijn ' ghenade .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.7	Staat op , ghy Heeren ; wy vergheeven u deez ' daadt , En zo daar onder u nóch iemandt twijffel slaat , Of ik uw ' Koning ben , dien zal men zulke blyken Verschaffen , waar voor straks alle ongheloof wil wyken .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.8	Voor teeghenwoordigh , sluit men deeze hófzaal toe , En elk zijn ' mondt , opdat men gheenigh quaadt vermoê , Alle oproer weere , en stopp ' de deure voor ghevaaren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.9	Op mórghen , zullen wy den vólke ons openbaaren , En al 't beslagh der zaake .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.10	Ik gha vernachten , in Ons voorighe vertrek , met mijne Koningin .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.11	Ghy Leeuwenbald , wil met den Hópman , en de schaaren Van 's Dwinglandts lijfwacht , ons , en 't ghansche Hóf bewaaren .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5962.s.12	Ik gheef u deezen last , en laat het op u staan .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.stage.5939.s.1	Nadat van weederzyden van leêr ghetrokken is , neemen de Staatjoffers de vlucht , en men valt an 't vechten , en na een kort ghevecht stort Ottomar , met eenighe andere , ter neêr .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.stage.5946.s.1	Op dit zegghen knielen de overghebleeven Heeren , en Dienaars van Ottomars zyde .	None
+meij001verl01_01.TEI.2.text.body.div.div.sp.5967.s.1	De Vórst magh op mijn ' zórgh gherust wel slaapen ghaan .	None
+meij001verl01_01.TEI.2.text.body.div.div.p.5969.s.1	Einde des vijfden , en laatsten Bedrijfs .	None

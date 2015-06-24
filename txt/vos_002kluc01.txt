@@ -1,0 +1,716 @@
+vos_002kluc01_01.TEI.2.text.body.div.head.115.s.1	Klucht van Oene .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.116.s.1	Fijtje .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.116.s.2	Ritsaart .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.119.s.1	Ritsaart / heb ik men woort van op te passen niet ehouwen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.120.s.1	Rits .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.122.s.1	Wat dat de hel niet weet te deinken / dat weeten ritse vrouwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.125.s.1	Wat zeidt men liefste daer .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.130.s.1	Dat et vaatje mit Wijn / Dat ik jou gisteren belooft heb / veur margen hier in huis zel zijn : Maar ik mien et te sluiken / om et geldt van de zijs te bespaaren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.131.s.1	Trijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.134.s.1	Ey !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.134.s.2	vrouw kom in huis ; miester wordt wakker / en begint hy te baeren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.139.s.1	Jou miester moet jou veul vereeren / om datje miest an zen kant helt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.139.s.2	Ik hou veul mier van ien geever as van een beloover .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.139.s.3	Miester wordt wel dikwils zeeziek : maar hy geeft niet over .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.142.s.1	Gae jy in de Kelder ; hoor je wel Trijn ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.143.s.1	Oene roept van binnen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.146.s.1	Hou / Fijtje / hou / wat doeje in de nacht van ' et bedt ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.149.s.1	Ik gae iens nae 't sekreet : want de waterpot is verzet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.150.s.1	Oene .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.152.s.1	Ik rae je kom weerom .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.155.s.1	Et mocht me onder weeg ontschieten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.158.s.1	Waer blijfje ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.158.s.2	hoor je niet ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.161.s.1	Ik kan et immers niet uit zwieten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.164.s.1	Slaet'er wat eieren in : hoorje : maakt et wat kort .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.167.s.1	De anslag is mislokt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.172.s.1	Acht dat niet / of Oene gnort ; Ik weet die zottebol wel drae in slaep te sussen / Dan keunen wy menkaar wel zonder schreumen kussen .	Emotion_EmotionalAction_Love_Shame
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.176.s.1	Hou / Fijtje hoorje ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.176.s.2	Hoe maakje et daer zoo lang ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.176.s.3	Ik komje strikstrak by mit ien schaer / of mit ien nijptang .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.179.s.1	Rust jy jou hooft men vaar / et zel nou met ien veeg lukken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.182.s.1	Ik wou in die tijt men darmen wel leeg drukken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.186.s.1	Kom Ritsaart / schuilje in de wieg / want men kint is by men snaar / En Oene weet ' et niet / dies is ' er in 't minste gien gevaar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.189.s.1	Ik zel huilen en jy zelt zingen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.190.s.1	Fijtje wiegt Ritsaart , en zingt : Van drie Moffen en drie Vinken , c.	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.1	Et me kijntje ien hoesje ekrijgt ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.2	is et galletje over eloopen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.3	Ik zel jou ien duit an razijntjes en ien bakkers koekje koopen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.4	Jy zelt mit jou Mamma by jou groote Papa gaen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.5	Dan zel ik jou vertellen van et Varken dat niet School wou / of men most et School draagen : Staet jou dat niet aan ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.6	Ja ik zel jou et sprookje van Erritje / Boontje / Strootje en Kooltjevier zeggen ; Hoe dat Strootje / in plaats van ien brug / over ien sloot ging leggen ; Daer Erritje over heen rolde / om niet te koomen in noodt : Maar mit dat Kooltjevier op et midden quam / branden Strootje deur / en Kooltjevier viel in de Sloot / Daer et zen ongelok / as jy wel kan deinken / betreurde .	Emotion_Sadness
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.7	En hoe Boontje om Kooltjeviers ongelok zoo lachte dat zijn naersje scheurde .	Joy_EmotionalAction
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.8	Hoe dat Boontje toen / om ien lapje veur zen naers te krijgen / nae ien schoenlapper tradt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.9	Seur die tijdt hebben al de Boontjes zwarte lapjes veur heur naers ehadt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.209.s.1	Wel / Fijtje wat is hier te doen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.209.s.2	Dus in de nacht te zingen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.212.s.1	Et kindt stelt de pijpen vaar / et zou schier uit de wieg springen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.218.s.1	Dus / sus / jy stoute boef / leg stil jy arge gast ; Jy moet haest in de broek : want me dunkt dat jy de wieg ontwast .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.218.s.2	Ik zel jou school besteen by miester Floor de vreemdert : Leert dan e / n tutelende / b / a / ba / b / o / bo / in 't groot eemdert .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.221.s.1	Nou kijk jou papa iens an / zoo krijgt hy licht ien duit uit zen tas .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.224.s.1	De jonge lijkt me of hy uit men aanzicht esneen was .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.227.s.1	Men kijndtje et epist : loop ien drooge luier haalen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.231.s.1	Ik loop na binnen / de tijdt lijt niet dat ik lang zel draalen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.231.s.3	Ik loop al waer men Ritsaart loopt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.234.s.1	Verschuilen we hier wat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.240.s.1	Stae / Ritsaart / stae / waer wilje mit Fijtje heen loopen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.240.s.2	Hou stal / of ik zel jou leevendig et vel afstroopen / Al was ' er sinjeur Roggestaert en juffrou Konkelpijps by .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.243.s.1	Ik heb gien noodt van hangen : want suiker steelen is zoete dievery .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.248.s.1	Hadt ik hem / ik dude hum wel mit ien mes in zen rubben .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.248.s.2	Ik zweer by men tuureluur dat ik hum noch zel lubben .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.248.s.3	Ik raeje kom weerom / ier dat ik ' er mier op vloek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.251.s.1	Dat loof ik wel , want jy bint ien dubbelde kater / jy vijst deur et hemt in de broek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.254.s.1	Ik zeg dat jy Fy weer geeft / of de duivel zel de kaers houwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.257.s.1	Wat zou de drasbroek doen / hy gaet de stoel veur zen naers klouwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.260.s.1	Ik zel margen na den Dam gaen en zoeken nae prokreur Boom .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.263.s.1	Ik zel jou nae vijsten en nae pissen / dan hebje veur wijndt en veur stroom .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.264.s.1	Oen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.266.s.1	Die guit doet slimmer / of hy den mantel van de kapstok stal / en dat kan ik niet veelen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.269.s.1	Dat ik ze van zen schouwers stal / zou ik ze dan ook van gien kapstok steelen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.272.s.1	Ik gae nae Avekaat Rijnsewijn / die weet veul uit te rechten / zoo men zeght .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.275.s.1	Dat is waer / hy weet veel uit te rechten : want hy et veul menschen uit haar goedt erecht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.278.s.1	Wat of de meer heur veur laet staen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.278.s.2	of mientze dat ik mal bin ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.281.s.1	Jy bint ien man as ien paerdevijg : want daer is gien gal in .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.284.s.1	Ier dat ien uur ten eindt is / zel ik schikken dat ik van heur hoor .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.287.s.1	Doet zoo ; schik alle ding op zen stee / en zet de pispot in et tresoor .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.294.s.1	Hadt ik men kortelas en was ik dan hiel in et harrenas / Ik zou hum na zen gat beeteren as ien twiede Olifarrenas .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.294.s.2	Ik trots graef olykoek ; ien man as are anderhalf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.294.s.3	Laet koomen wie dat wil / al was et de geuze duivel Dikdalf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.294.s.4	Ik bin ien man as ien kammeel ; ja ien man as ien drommedaris .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.297.s.1	Jy bindt ien man alliens as ien spiritus familiaris .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.300.s.1	Ik zel alle gaten deur snoffelen en zoeken nae de guit .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.303.s.1	Die zen neus in alle gaten wil steeken haaltz'er dikwils bestruist uit .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.306.s.1	Et zou me rechteboort wel lusten / om op Fy te grauwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.309.s.1	Of jy de duyvel lusten / wie zou hem veur jou kauwen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.312.s.1	Als Ritsaart me te moet komt zel ik zoo blaezen dat hy veur me verschrikken zel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.316.s.1	Blaes vry dat jou hooren barst / jy weet wel dat jou wijf jou weer are hoorens beschikken zel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.327.s.1	Zou ik Fijtje soo quijt weezen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.327.s.2	Dat zou me al men leeven moeien ; Zy is noch zoo jong / dat mer de ooren van et hooft sneedt / ze zouwen ' er van zelf weer an groeien : Daer by et ze ien gehoorzame mondt / die asze slechts lacht om ien truizenuis / Dan ' er iene oor tot et aar loopt en komt van zelf weer t'huis / Heur rondtom kaakelbont en pumpelpaerse wangen / Zou men in et gasthuis veur tinne-pispotten an de bedtsteen te pronk hangen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.327.s.3	Op heur kammoesde lippen en op heur neus van die zelfde kleur / Leest men de stoory van Orsel en Valentijn en van Blancefleur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.327.s.4	Maar dat is al eeven veul / hier dient nou zoo veel spreekens niet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.330.s.1	Binje zot Stijn ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.330.s.2	steek jou naers van et bedt zoo bekladtje de deekens niet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.333.s.1	Dat hier ien heyen was / ik liet iens in men handt kijken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.336.s.1	Nu dient me de gelegenheidt / om Oene uit te strijken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.339.s.1	Hoe !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.339.s.2	is et hier al deegelijk werk ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.339.s.3	zeg op / wie hoor ik daer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.342.s.1	Jy hoort de duivels miester / dat is slimmer als ien toovenaar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.348.s.1	Zoo wou ik wel dat jy me wat raedt gaf / sinjeur duivels miester : Want men wijf is op te bien met ien Venus priester : Waer deur dat ik ' er gun / tot straf van et onwaerde feit / Datze / asze sterft / blindt van de aerde scheit .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.352.s.1	Et is ien kleinigheit / ien aar by zen wijf te laeten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.352.s.2	Al wie ien aar by zen wijf lijt / doet an Venus werk van karitaten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.2	werk van karitate ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.3	dat luitme al te schalk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.4	Hadt ik Dibberigh etrout in de blaauwestiene blaasbalk / Ik hadt beter edaen ; of Lobberigh met de Mammen ; Of Woutertje Lammerts ; of Lammertje Lammerts in de Lammen / naest lamme Lammert Lammertsz .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.5	in de lamme Lammere-straet / Dicht by de Lammere koop daer 't lamme Lam in lamme Lammert Lammertsz .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.6	gevel staet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.7	Och Oene / zeyde die / laet me allien op jou liefde hoopen / Of aars zelje me et snot uit men neus zien ontloopen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.8	Wel hoe !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.9	en spreekje niet ; of en voel jy gien minne-vuur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.10	Ja ja / zey ik / loop kakken by daag / de kaersse binne duur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.11	Zie / zeyze / watje doet / ik bin de Peet van Juffrou krotten / Allernaast de drie verkierde Spaans-leere Mostert potten : Daerom beraet jou wel en wilme ook te woort staen : Want ik bin zo verbranst hiet / jy sout wel ien Ey in mijn poort braen : Daer by doet me 't hooft zo bezukt zier dat ik ' et jou niet half kan zegge .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.12	Doet jou hooft zier / zey ik / mijn naers doet zier / wille we de zieke by menkaar legge .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.13	En Tanneke Boterams maakte ik lest zoo dartel warm / Dat de liefde uit heur hart schoot tot achter in heur kartel-darm : Maar ze was zo morssig dat dieze de borsten wou raaken / Tasteze met ien pol-lepel / om dat hy zen handen niet vuil zou maaken : Maar ze had ' er ien deugt by / want ze bleef zoo op ' er religi staen / Datze al-te-mets wel zey / ier ik van men geloof wou gaen / Of ier ik op et pad van de verdoemenis wou dwaalen / Ik had liever datme de duiker van stonden an quam haalen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.14	Zoo bin jy / zey ik / al ien stantvastige Meyt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.15	Dat deink ik wel / zeyze / men moet al veul doen om zen zaligheyt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.383.s.1	Zwijg / zwijg / al lang enoeg : want dat jy me verstoorde .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.386.s.1	Ik heb veul liever datje in men sekreet valt as in mijn woorden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.391.s.1	Ik rae jou dat jy zwijgt / en gaet ook flux van hier ; Maar zooje hulp begeert / komt over ien quartier / Ik zel jou hulpzaam zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.397.s.1	Heb jy 't zoo veur enomen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.397.s.2	Ik binner mee te vreen om flusjes weer te komen / Om van ter deeg te zien hoe dat men zaak voort gaet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.400.s.1	Gaet hange-bast / gaet / gort gunt dat jou de moort slaet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.403.s.1	Nou gaet et nae men zin .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.406.s.1	Ik bin met et stik belaade .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.411.s.1	Ik zelme gaen verklien in Toovenaars gewaade / En schuylen et aangesicht in ien bemorste grijns / Zoo heeft de Tover-kunst by et volk al vry wat schijns .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.414.s.1	Ey maakje dan geriet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.417.s.1	Ik zel op alles letten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.1	Ik zweer dat ik Oenes hooft mit hoorens zel bezetten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.2	Die gorten-teller / die henne-taster / die treuzelaar / Hy doet hum op as Delfs Engels / en et is noch qualijk peuzelaar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.3	Kom ik hum altemet ien reys om ien goet woort smeeken / Wat et hy te doen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.4	hy houd zen mont en laet zen poort spreeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.5	Zeg ik : liefste jy weet wel dat ik zulke vlaagen haat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.6	Dan staet hy en grijnst als de duivel tegen den dageraat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.7	Ik zel nae de Schout loopen / zey hy lest / en vraagen of ik jou op mach sluiten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.8	Wilje loopen / zey ik / zo loop ien veer in de naers / zo zelje niet weerom stuiten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.9	Of loopt in de Pomp en haalt de klap naje toe / jy rechte drooge gek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.10	Ik wou dat hy was daer de peper wast : want ik bin hum zoo moe as gespoge spek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.11	Toen hy ien vryer was / toen was hy ien aar quant / dat hy ook zelf niet zel ontkennen : Want as hy uytging / zo zeyde zen vaar : kyeren ik laet men haan uyt / elk bewaar zen hennen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.12	Daer ik hum ook te liever om hadt : want ik docht as ik hem kreeg / dat ik dan wat waers had / En nou ik hum heb / is hy zoo droog / ja zoo droog / as Sinteniklaas aersgat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.13	Ik weet gien onderscheyt / tusschen hum / en Jochum van der Poelen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.14	't Is zulken houteklik / men zou hum ien gat in 't lijf pissen en hy zou ' et niet voelen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.15	Kon ik hum wijs maeken dat hy ziek was / ik gink nae Parecelses in de bonte mant ; Dats ien Dokter die me dienstig zou weezen : want die helpt ' er mier van kant As de Beul van Haarlem ; ja as de wreedste der tierannen : Daerom is et wonder datze hum niet uit de vryheidt van Amsterdam bannen : Maar d'anspreekers zouwen et niet begeeren / dat is buiten alle vermoen : Want dat hy uit ebanne was / dan hadt dat volk hier niet veul te doen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.16	Wel bin ik mal / dat ik hier mit ik en wete niet wie praat ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.17	Ik mach heen gaen : want me dunkt dat de klok daer twie slaat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.1	Dat gaet nae de Duivels-miester al zou ' er ien kijndt van komen : Al wast de duivel zelf / ik zouw'er niet veur schroomen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.2	Ik heb wel ier ( in men droom ) ien roof uit de hel ebrocht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.3	O elemalementen wat heb daer al vreemde dingen besocht !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.4	Wat zwierden ' er alÀ bonte Vliegers !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.5	wat al Gravinne boeken !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.6	Wat al sulleye Mantels !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.7	wat al fluwiele Broeken !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.8	Hier was Jan alleman : daer Gerrit aldewerelt : gins Ellikien : Hier heb ik Labbekak / en daer Verneem-al ezien .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.9	De rappige Fransjes waeren ' er an Kontermans staert eregen / Daer ' er de Duivel / als hy drukte / ien of scheurde om de pars mee te vegen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.10	De geltzuchtige Woekenaers wel ier tot de ooren toe in 't bont / Worden ' er esmolte gout deur een zulb're trechter egoten in ' er mont .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.11	D'Advokaten en Procureurs / van jongs op ebrocht tot liegen / Hebben ' er elk ien ring deur de tong / om datze de duivels niet zelle bedriegen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.12	De Bakkers die 't broodt veul lichter maakten as den eysch / Worden ' er et wicht mit hiete tangen enepen uyt haar vleys .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.13	De diefachtige Snyers / die 't laaken deur 't oog van de schaer rokken / Worden ' er tot straf / deur 't oog van ien gloeyende schaer etrokken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.14	De Kox / die katten en honden veur haazen en konijnen verkoopen / werden ' er estroopt / En an et spit esteeken / en mit Heyntje-mans peekstok bedroopt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.15	De Kassiers / die d'eerbaarheyt van haar Miesters Kas verkrachten / Tellen ' er macht en dach niet as vyerige stikken van achten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.16	De Meulenaars / die 't kooren uit vreemde zakken hebben ehaalt / Worden ' er op een Grut-meulen / zo fijn as tarwe meel / emaalt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.17	De Glazemaakers / die in plaats van schaars zeuven duym vijf duym veur een voet schrijven / dat ik zelfs heb bevonden / Worden ' er deur ien loodwijn / zoo dun as ien ael en zoo lang as ien piek ewonden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.18	De Waerden / die de kannen niet te deeg vol tappen / en het bier Mit water mengen / worden ' er ekookt op een onzichtbaar vyer ; Want datze 't vyer zagen / zey de duivel / ze zouwent / as je wel kan gissen / Mit water uyt hozen / of ten minsten uyt pissen / Zoo binze et ewent mit water om te gaen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.19	De Notarissen / en Secretarizen / die zulke woorden schrijven dieze zelfs quaelijk verstaen ; Gelijk : non numerate pecunie , alternatijf , directelijk , indirectelijk , prolongeren , exhereditatie , prediciabel , arbitrateurs , donatie causa mortis & inter vivus , ik ken 't niet half uit spreken / Die zag ik ' er mit zegelgaeren en inktkokers gieselen / en mit pennen en pennemessen deur de huidt steeken / En mit smolte lak / en hiet zandt bedruppen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.20	Ik docht / Dat is ' er veur / dat jy'er zoo veul deur jou quaedt Duits en vals Latijn in et lyen hebt ebrocht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.21	De Dokters / d'Apteekers en Barebiers / komen ' er mit zulke groote hoopen / Dat de duivels dikwils vreezen / datze de hel noch af zellen loopen / En vermoorden al wat ' er is in de helsche kolk : Want ' er binnen gien feller beuls / noch wreeder moordenaars in de werreldt as dat volk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.22	d'Apteekers worden ' er zoo lang in ien vijsel estampt datze beginnen te stinken ; Dan geeftmen dit stof / mit menschemieg emengt / an de Doktooren te drinken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.23	De Barebiers worden ' er ekorezijft / en 't bloedt af etapt en 't hiele lijf deurvlijmt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.24	De Pasquillemaakers die tot schemp van aare hebben erijmt / Worden ' er by de loogenaars in ien brandende oven esmeeten ; En in et midden van et vier betoonen ze ' er noch as Poeeten : Wantze huilen en krijten zoo net op rijm dat'er niet ien silp an scheelt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.25	Ik vraagde ien duivel : waerom wordt dit volk gien zwaerder straf mee edeelt ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.26	Dat mach niet weese / zey de droes / die hiel dicht byme quam treeden : Want dit volk et op de werreldt mier smart as hier in de hel eleeden / Om datze / dieze beschempten / zagen lachen / mit'er schempen / vol fenijn .	Joy_EmotionalAction
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.27	Die ien aar doet lachen as hy hum quaedt mient te maaken / lijt dubbele pijn .	Emotion_BodilyProcess_Dissapointment_Anger_Annoyance
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.28	Maarze hadden ' er noch ien deugdt by / zey de duivel / al quamze heur niet van boven : Want ze waaren zoo bot in et liegen / dat niemandt heur Pasquillen wou gelooven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.29	Toen quam ik op ien aare plaats / by menschen mit ien woekerende Geest ; Deez ' hadden / toenze noch in de werrelt waeren / Lommerthouwers eweest : Nou warenze inde helsche lommert verzet teugen vijf en veertig en ien quart ten hondert ; En om datze et verstaegeldt niet opbrochten / worden ' er alle daag ien lit van et lijf eplondert .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.30	Die deur et zwiet en bloet van armen rijk worden vereisen gien minder ellent .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.31	De Soliciteurs / veur bloedtzuigers van Weezen en Weeuwen bekent / Worden ' er veur turf onder ien Ketel vol pachters estookt / in plaats van koolen : Dit waeren Pachters die de sluikers deeden bloên en zelf haddenze et Landt bestoolen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.32	Die wel ier efalieert waeren / toonden an de duivel heur quietancies : maar ze waeren van pampier / En dat is in de hel eeveliens as bossekruidt by vier : Daerom brocht ' er de duivel by de beurzesnyers in et kot van de dieven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.33	De quaksalvers en pokmiesters quaamen ' er mit ' er bezeegelde brieven : Maar Lucifar zeyde / brengtze in 't verneis by de moordenaars / an ien kant / En laetze daer eens zien of ' er zalf ook goedt is veur de helsche brandt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.34	Toen zag ik ien diel menschen mit zwarte handen / wat hebben deuze gasten / vraagde ik / edaen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.35	Wil jy et weeten / zey de duivel / zoo luyster / ik zel et jou vertellen gaen : Dit binnen verwers / die mit bestelling van koopluy binnens huis vrybuiten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.36	Deuze dieven wisten de zijd / deur schors water bol te maken ; ja hiel te ontsluiten : Dan begootenze de draeden met sop van vijlsel / en slijp / en aar swaer goet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.37	Daer nae leideze de strengen in 't sap van gal / en alluin / datze weer dicht in menkaer doet ; As dat edaen was / raakte de zijd in de verf / dieze zoo wel tot lijm / as glans verstrekte ; ja door zulk een pleegen / Deenze drieverendiel zijd / over de vijfverendiel weegen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.38	Mit dat hy dit vertelt hadt / greep hy ' er ien paar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.39	En bondze de handen boven / en de voeten onder aan menkaar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.40	Toen sloeg hy de handen om ien pen die in ien groote pael stak / en begonze mit de kravielstok zoo elements te wringen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.41	Dat ' er et bloedt zoo uitsprong / of men de verf uit de zijd sag springen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.42	Hoe mach jy heur zulk ien pijn doen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.43	zeyd ' ik / ze hebben 't edaen deur heur miesters last .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.44	Heur miesters / sey de duivel / lyen zoo wel as zy : want ze hangen elk an ien zijde bast ; En zooze daer vierentwintich uren an kunnen hangen / zonder dat de strenge breeken / Zoo binnenze allegaer vry , mit wees hy waerze hingen ; maar ik had nau om ekeeken / Of ik zag'er wel tien dozijn veur heur stroppen druipen in ien ketel vol ziedent water / die ' er recht onder ezet was : Daer moesten zy zoo lang kooken totze twee vijfde parte minder woogen / jae zoo net of et ewet was .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.45	De Boekverkoopers die Bybels uithangen en aare giestelijke zinnen / Al is 't dat ' er in ' er winkels niet as Bybels van twieenvijftigh bladen binnen ; En boeken van Reyntje de Vos / dat schalkedier / Worden ' er allegaar / in Belzebuyx quartier / Tot blanketstel emaakt ; want as de duivel ien Engel wil lijken / Zoo gaet hy hum mit ' et blanketstel van zulke schijnheylige Boekverkoopers bestrijken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.46	Zoo dat ' er niet in de Hel is / of ' et komt de duivel noch te pas .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.47	De Lakenverkoopers / die ' et laken ien zestepart langer rekten as ' et was / Worden ' er erekt / dat al watze an ' et lijf hadden begon te tornen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.48	Wy zelle jou / zey de duivel / ' et lake te rekke wel drae uit kornen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.49	En ze begonneze mit kaerten van naelden en spelden te reuwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.50	ze riepe ; help !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.51	help !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.53	Wees jy slechts te vreen / zey de duivel / ly jy wat pijn / jou kijeren gaen weer in 't felp .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.54	De maakelaars / die met liegen en bedriegen aan de kost raaken / Ja die ' er zelf tot koop-luy / en de koopluy tot maakelaars maaken / Worden z'er aan de koopluy / haar falieerde miesters eschaft / Dieze / tot wraak / het vel van de leden stroopte ; En tot mier pijns / in ien bak vol pekel doopte .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.55	Zy vloekten / en knarsten op ' er tanden van ongedult .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.56	Och !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.57	och !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.59	riepenze / dat jy efalieert bint dat is jou eygen schult ; Want ien Koopman / die hum van ien Maakelaar laet beleezen / Die wil / spijt zijn eigen zelf / ien maakelaar weezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.60	Ik docht de maakelaars liegen 't niet / al kanneze 't wel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.61	Dan Schouten / van Diefleyers / en Luyzevangers grimmeldent in de Hel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.62	Het volk dat niet van goedt doen of van de Kerk mach hooren spreeken / Sitten ' er allegaer op hekels / en hooren ' er de duyvel de passy preeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.63	De koorendragers die zoo leuy binnen dat ' er 't hiele lant van waegt / Worden de hoorens op 't hoekje van den Hel / dicht aan 't Hooft of ezaegt : Want ze zouwen aars niet wel deur de poort kunnen raaken ; En van de takken / zach ik de duivels hechten tot moortprieme maaken / En dobbel-stienen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.64	ik docht dit goddelooze zaedt / Dient de duivel / zoo wel nouwze doot binnen / as toenze leefde / tot allerhande quaet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.65	Toen kreeg ik honger .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.66	beginje honger te krijgen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.67	zey de duivel / Zoo zel ik jou wel ien Advokaat aan 't spijt rijgen : want wy hebben aars gien zuivel : Die elardeert is met ien thien of en twintigh Procureurs / En bedropen hum mit ' et vet van ien diel Soliciteurs / Terwijl hy veur ien vyer van Deurwaarders word ebraden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.68	Neen / zeyd ik / dat is Heyntje-mans kost / daer meugje jou zelf mee verzaden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.69	Ten lesten kreeg ik achterlast / en ik bin deur hulp van de duivel op et helsche sekreet eraakt ; Hier vondt ik al de Pasquillen die deur ien diel kreupele rijmertjes tot schemp van Vos waren emaakt ; Ik wouze opraapen : Maar de droes wou de bunse vodden / zeide hy / niet missen : Want de duivel gebruikte deuze pasquillen in plaats van mosselschulpen / om zen eierkurf mee te wissen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.70	Al was 't dat ik ien inktpot / of ien inktkoker had / Die zo groot was as het Heydelbergse Wijnvat / Daer negen hondert en sestigh Amen Wijn in kennen / Daer toe driemaal zoo veul / ja viermaal zoo veul schrijfpennen As spiessen in 't leger van den Oversten kluyt / En dat elk zoo groot was / as de groote mast op 't Schip van Sinte Reynuyt / Daer de Stuyrman zen hut en de Kok zen kombuys in maakten / Die zoo hoogh was datze mit de Mars aan den Hemel raakten / En dat ik dan ien Boek had zo groot as de Spaensche Zee in 't ront / Noch zou ik niet half kunnen schrijven / wat dat ik in den Hel al vont .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.592.s.1	Wie daer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.595.s.1	Goeden dag speciaal .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.599.s.1	Hier zoo gien mier te snakken / Of ik doe jou de broek tot opje hiele zakken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.602.s.1	Bin jy de Toovenaar / om wie dat ik hier kom ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.607.s.1	Ik gae in 't naarst der nacht met Lucifer voor mom / Op Belzebuyx banket / met sleep van zwarte Saters / En dansser op 't gelol van Katten en van Katers .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.610.s.1	Wat binje dan voor ien ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.614.s.1	Ik woon onder dit gewelf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.614.s.2	Nachtmerry is men naam .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.614.s.3	ik ben de Weerwolf zelf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.617.s.1	Wat kanje veur kunsten ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.1	Ik kan de woeste en dunne winden Trots et Noorts en Lapsche Volk in leere zakken / en in oope netten binden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.2	As ik men aanzicht slechts iens met duivels drek bekladt / Verander ik in ien Mieuw / of in ien Vliermuis / of in ien zwarte Kat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.3	Ik doe de menschen / as et me slechts lust / al doet et menig gruwen / Pampier / hair / kalk / stien / kooten / knikkers / neutedoppen / naelden en spelden spuwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.4	Jy meugt me vry bekijken : ik kan allien deur men groot verstandt / De kost / asze op de tafel staet / veranderen in zandt ; Ja spijt Aecht zonder ziel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.5	ik ry by nacht en dag an alle oorden Op ien Bok mit drie bienen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.6	ik heb / deur de kracht van toover woorden / De jongste zeun van geile Aagt / al dunkt et elk ien hiel vremt / Verandert in ien luis / en deedt hum / in die gedaente / in et hemdt / En op et moeder naakte lijf van Marry Naerjes koomen ; Die hy / in ien luize schijn / heur eerbaarheidt et ontnoomen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.7	Ik heb Juffrouw Snottebels doen kijken in den spiegel glas / Dat Harmen Fielebaert heur toegezeide Vryer was .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.640.s.1	As jy alle ding zoo kunstigh weet te kuipen / Kan jy dan wel deur et oog van ien naeld / of deur et gat van ien klinksnoer kruipen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.643.s.1	Dat is men slechste kunst / dat kan wel strakx geschien .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.646.s.1	Kanje dan wel Brandewijn of Soetemelk tappen uit ien straet-stien ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.649.s.1	Ik kan wel mit ien stroo 't hooft van jou schouwren snyen /	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.652.s.1	Kanje dan wel / as ien Kolrijster / op ien beuzemstok uit de schoorstien ryen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.655.s.1	Ik heb noch gistre nacht evlogen as ien kray .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.658.s.1	Kanje dan wel ien weegluys doen klappen as ien Papegay ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.661.s.1	Geen dingen bin zoo vreemt of ik weetse te klaaren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.666.s.1	Kanje dan wel in ien Eysdop of in ien Mosselschulp na Oost-Inje vaaren / Mit ien zeyl van ien spinweb / en stuuren mit ien naelt in plaats van ien roer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.666.s.2	Weetje wel dat men wijf niet poortvast is / wel te verstaen ien Hoer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.669.s.1	Staa ierst in deuze kring / ik zel'er iens na leezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.670.s.1	Ritsaart zet Oene in een ring van Bossekruit , en begint te toveren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.1	Twie schinkels mit ien klaeuw / wat pokken zel dit weezen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.2	Drie hoorens mit ien koot !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.3	vijf krieken mit ien kars !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.4	't Is de nikkers kraemery / hy loopt mit Heyntje-mans Mars .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.5	Hy preutelt binnens monds / ay hoor !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.6	hoe langer / hoe rasser .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.687.s.1	He , Sa , vo , been marketroy , kom poesme de krasser .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.687.s.2	Oksius , Koksius , Noksius , Poksius , Homenus , Domenus , Bomenus , Romenus , Arius , Darius , Blarius , Larius , Voort wat ' er wort bestiert door 't loopen der Planeeten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.690.s.1	Voorzeeker et deuze man et Latijn mit pollepels egeeten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.694.s.1	Inquam koenat , Rekoolatt , katan , Extra , struynalibol .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.697.s.1	Hoo / hoo / praetje van struif ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.697.s.2	ik drukje wel ien baly vol .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.700.s.1	Belzibuik , Lucifer , Pollepel , Schuimpaen , komt alles in perzibel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.703.s.1	Daer leest hy et Duivels paternoster uit Heintjemans Bybel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.706.s.1	Firlementis , Swijnentis , Schoeschentis lagardefrooy .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.709.s.1	Die tarm is eraapt uit Sinte Pieters palsrok uit de darde ploy .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.712.s.1	Rijst onder aerds gespuis / en laet op aerd jou luimen zien .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.715.s.1	By men zieter nae / hy et de Droes betovert mit ien pruimestien .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.720.s.1	Oliman , Soliman , Foliman , Boliman , Alius , Falius , Malius , Salius , Mikkeran , Likkeran , Wikkeran , Nikkeran .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.723.s.1	Hy praet van de Nikker / zou d'aere man wel van huis weezen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.726.s.1	Rep van gien aere man / of jy meugt wel voor de Nikker vreezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.730.s.1	Dat liege Latijn was / hy was nae men verstant / De allergelierste Doctoor in 't hiele Landt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.733.s.1	Waer blijft de Droes van Delft ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.737.s.1	Dat komt zeeker schrander .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.737.s.2	De Duivel van Delft is dat niet ien gebooren Hollander ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.740.s.1	Wat zegje daer jou guit ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.743.s.1	Ik vraegje nae men vrou .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.753.s.1	Nae dat ik hier bevijn zoo isse jou hiel trou : Maar om et recht bescheit / zoo maakter ierst jou werk of / Om over ien klein vuur te gaen op et Zuyer kerkhof ; Daer zelje dicht an et dak ien diepe horn zien / En in die zelfde horn / is ien betoverde stien / Die jou as jy ze draegt in et wezen zel vervormen / Dan die jou echte wijf bywijle komt bestormen : Siet dan of Fijtje jou / of Ritsaart et bemint .	Emotion_Love
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.756.s.1	Hoe kom ik by de horn ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.756.s.2	dat dien wel ierst verzint .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.769.s.1	Op et Zuyer kerkhof / daer bin ses ouwe Sarken / Die eertijdts bin ebracht uit et Rijk van Denemarken : Elk mit ien grafgedicht / daer ien Hoogduits Poeet / Wel zeuvendallef jaar zen hersens op versleet ; Die moetje nae malkander eerbiedelijken leezen : Dan zelje in ien mand / die daer geriet zel weezen / Al prevelende treen / en spreeken dit rondeel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.769.s.2	Oriza , Lambatiza , Schoenmiza , Koekernotes , Koekernoteel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.769.s.3	Zoo drae en is die spreuk niet aen menkaer eschakelt / Of jy wordt met de mand / tot aen et dak etakelt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.773.s.1	Schoon datmen van Dokter Faustus wel ien groot wonder zag / Zoo is hy by jou niet mier as ien beest by ien donderslag .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.778.s.1	Kom smeertje mit dit gruis / ewijt door men Sermony / Zoo krijgje in der yl ien zwarte duivels trony ; Want zonder die gedaant is al jou doen onwis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.781.s.1	Ik wou wel datje zey waer van dat et emaakt is .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.798.s.1	In 't lest van ' et veurjaar / heb ik in 't ierst van ' et naejaar gaen zoeken / Ien hiel half lood koutwaremis / ekleinst door natte droogdoeken : Ien versche pekelharing / ien zoute stokvis / Ien Jonge Ouwevaar / as ' er noch gien in et hok is : Dit heb ik in de nacht mit reuzel van koorstengen / Mit et dreunen van ien veest / en poddewol gaen mengen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.798.s.2	Toen nam ik tot behulp / de lever van ien pijl / De nieren van ien zark / de longen van ien bijl / Et sap van ien waterpot / ebruykt van Juffrou slakpoel : Et hoofd ' van ien ronde klos / en 't merrigh uit ien kakstoel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.798.s.3	Dit heb ik mit menkaar in ien mortier van glas / Mit iene apesteert / ehaelt uit ' et hels moeras / Tot pollever estamt / mit ' et niervet van ien netel : Toen heb ik ' et ekookt / in ien pampiere ketel / Over ien vyer van ys .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.801.s.1	Kom smeertet ' er maar an .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.805.s.1	Nou ik jou aansicht bestrijk / Wordt jy de Duivel self in alle ding gelijk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.808.s.1	Zooje kunst goet is / zel ikje iens te bier noon in de berg van weelde .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.812.s.1	Mit goe luy is goed doen ( zey de koster ) en hy ontkliede de beelden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.812.s.2	't Is tijt voor jou te gaen / de Droes toont hum aars gram .	Emotion_Anger
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.815.s.1	Dat is ien kleinigheyt / ik wou wel dat hy quam .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.818.s.1	Wel binjer op belust / hy zelje zelf bejegenen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.821.s.1	Ja alle ding is meuglijk / maar ' et wil gien gelt regenen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.825.s.1	He , ho onsikokx Kalandarina , Le , bo , bonsibokx , malandarina Ronsikfokx .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.829.s.1	Wil ik jou wat zeggen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.829.s.2	Reintje de Vos sprak in latijn / Dat de allergelierste de wijste niet zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.832.s.1	Twijffel niet an men wijsheidt / men kanze uit men groote baert leezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.835.s.1	Zoo de wijsheidt in ien groote baert zit / zoo moeten de bokken hiel wijs weezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.838.s.1	Kom flucx uit et Vegevyer mit jou beroeste piek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.841.s.1	As de duivel sterft zal de nikker komen : maar hy is noch niet ziek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.844.s.1	In dit bladt moet ik zien waer dat ik hum zel vinnen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.847.s.1	Sie achter in men Allemanak / hoe veel daagen dat ' er in ien maant binnen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.850.s.1	Me dunkt het hels gebroet dat moet noch veer van hier zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.853.s.1	Ik deink datze allegaar in Noves kroeg te bier zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.854.s.1	Ritsaart steekt ' et Boskruit aan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.857.s.1	Hier komt de Duivel zelf vol ysselijke flikkers .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.860.s.1	O doot !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.860.s.2	de Duivel komt mit hondert duizent nikkers .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.865.s.1	Ik zel hum vervolgen om te zien hoe veer dat hy zen baert het ; Want hy loopt als ien hondt / die een kneppel an zen staert het .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.866.s.1	Foppe .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.866.s.2	Iuriaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.869.s.1	Rijst uit den slaep / den dag die naakt / vier et de klok .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.873.s.1	Is loogenachtige Mary deur de Solder evallen / en et zer niet zier edaen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.873.s.2	Hoe pokken kan dat weezen / dat kan ikme niet verstaen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.874.s.1	Ieur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.876.s.1	Doetje dat zulken wonder ?	Emotion_Wonder
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.877.s.1	Fop .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.879.s.1	Wel jae 't .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.890.s.1	Wil ikje wat seggen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.890.s.2	Daer ien Labbekak zet ballen daer komt de duivel ierst ien kussen leggen : Want ien Labbekak kan hem niet ontgaen asje zelf wel weet / En zo lang asze hier leeft doetze Janalleman leet / En die leet geschiet / wilt dikwils mit wreeken betaalen / Dan et de Duivel actie om de Labbekak en wreeker te haalen : Dat is ien dubbelt vetje / dan is 't Kermes in de Hel : O daer ien Labbekak in de buurt woont / dat komt de Duivel zo wel !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.890.s.3	Hy behoeft nergens voor te zorgen / ze kan de helsche akker zelf wel ploegen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.893.s.1	Kom gaenwe om ien zoopje / in ien van dese kroegen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.1	Ier ik op et kerkhof gae / moet ik me mit Monseur likpotje zalven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.2	Ameraal / Generaal van alle roodneuzen / en nuchtere kalven : Veldtmaarschalk van Lootgieters / van Leidekkers / van Pelssers / van Wevers en Schreurs : Sergjant Majeur van timmerluy / van metzelaars / van smits en aare Kitte-breurs : Geweldige Provoost van Robijnen / van Diamanten / van Korbonkelen / en etterige puisten : Kornel van Schiateka / van Podegra / van Chiragra / van schuddende hoofden / en bevende vuisten : Euverman van et Turfdragers / van ' et Bierdragers / van ' et Waegdragers / en ' et Koorendraagers Convent : Secretaris van ' et Wagenaars / van ' et Schuiteboers / van ' et Sleepers / en Kruyers Parlement : Bybel en Categismus van Diefleyers / van Brillekraamers / van dobbelaars en zangers : Eenige leer en troost van Quakzalvers / van Schoorstienveegers / van Beersteekers en Rottevangers : O Ferheer !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.3	O Luytersche Sendbrief / nae de Confessi van Augsborgh : O Lubek !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.4	o Rostik !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.5	o Bruynswijk !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.6	o Bredaal !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.7	o Rotterdam !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.8	o gatje bol !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.9	o hertje zonder zorg !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.10	Poortier en Kamerling van zoo veul Vrouwen ' er slooten !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.11	O Goud en Zilver-smit / die de Waerdinnen haar Ringen en sleutelreexen doet vergrooten !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.12	O Seun van Bytebier / die hy by dronke Stijn hadt !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.13	Dan Pater Kitte-breur edoopt in 't Heydelbergsche Wijnvat : Daer Sinjeur Pakkebier hum as jou Peet vertoonden / Die jou zoo rijkelijk tot Pillegelt beloonden / Mit Salm / mit raf / mit rekeling / mit krabben / mit garnalen / en mit kruydige worst / Mit Kappers / mit Olyven / mit Anssioves / mit Kavejaer / al kost veur ien zwelgzieke borst : Leef hondert duyzent jaar / ja twie hondert duyzent jaar / natgierige keeletrooster .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.14	O Munnik !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.15	ô Knunnik !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.16	ô Pater !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.17	ô Mater !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.18	Van Sinte Bacchus Klooster .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.19	Dat smaaktme / dat raaktme an et hart : niet ien druppel selme ontslippen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.20	Mijn buik staet espanne / men zou ' er ien Olyfant op doodt knippen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.21	Hier is de ierste Zark .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.22	Hier leit hy die het spijt dat hem de doodt verriedt : Noch meerder spijt het hem dat hy zijn geldt verliet : Wat of dees Woekeraar het allermeest mach spijten ?	Emotion_Sadness
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.23	Dat hem de wurmen 't vleis om niet van 't been af byten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.24	Die Woekeraar et zoo gierig eweest as de Vaar van onze Joost en meidt : Want die is zoo gierig dat et hem spijt dat hy om niet Godt helpje zeidt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.25	Hier is de twiede Zark .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.26	Hier leit een Wisselaar , die goudt noch zilver hadt , En in het wisselen bestondt zijn grootste schat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.27	Hy gaf zijn ziel bywijl door 't wisselen ten roof .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.28	Waarom ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.29	hy wisselde gestadig van geloof .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.30	Deuze Wisselaar volgt de Dreier die hem veul ten Hoof laat binden ; Dat is ien Dreier zonder beitel : want hy dreit mit alle winden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.31	Hier is de darde Zark .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.32	Hier leit hy die weleer zijn vrye wille hadt : Maar sint dat hem de doodt in d'armen heeft gevat , Verloor hy dese wil .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.33	Nu heeft hy niet te zeggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.34	Dat hy zijn wil noch hadt hy bleef hier niet lang leggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.35	Deuze man slacht Drank / die sturf teugen zijn dank ; of is het Jasperbuurs geest ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.36	Die hadt liever dat men van hem zeide : hy is ' er / dan hy et ' er al eweest .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.37	Hier is de vierde Zark .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.38	Hier onder vindt men een trompetter door de Doodt : Hy zou trompetter zijn op Charons leere boot ; Maar d'oude Veerman heeft niet op zyn komst te hoopen : Want deeze blaazer is de windt ter sluik ontloopen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.39	Deuze man et alzoo slim as de Duivel eweest in zen uitgank ; Want hy scheide mit wijndt / en die mit wijndt scheidt / die scheidt mit stank .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.40	Hier is de vijfde Zark .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.41	Hier leit een Advokaat ; de hemel wil hem niet : De duivel weigert hem een plaats in 't helsch gebiedt : Want Pluto vreest dat hy de boozen vry zou maken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.43	hy hadt gedient tot veurspraak van qua zaken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.44	Dit was hy / loof ik / die bewees dat leelijke Trijn volmaakt was / en 't was ook wel verzint ; Trijn was leelijk en volmaakt : maar 't is niet vreemt / want zy was toen mit kindt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.45	Hier is de zeste Zark .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.46	Root eyn mool , wie onder deze steyn licht begroven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.47	Den woorden Farheer , Glim Kloozen , van Berrebeek , Die hem zoo vookmools met koldeschool plach te loven ; Van het edel koldeschool , was al zijn gepreek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.48	Hy is te Etdorp in 't koldeschool huys gebooren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.49	Door het koldeschool heeft hy zijn leven verlooren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.50	Het koldeschool hem ook in zijnen beynen quam .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.51	Door het koldeschool kreeg hy ook dat Podagram .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.52	Koldeschool , koldeschool dat was zijn leste woort .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.53	Door met stapten hy zoo zolig in 's Hemmels Poort .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.54	Nu ligt hy begroven onder des blauwe stein .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.55	En hy zou noch zoo goren een koldeschool zein .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.56	Koldeschool , koldeschool , was altijts zijn verhool .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.57	Nou is hy in 's Hemmels Zool , on vret ' er das eeuwige koldeschool .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.stage.921.s.1	Hy leest :	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.1018.s.1	Oene spr.	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1024.s.1	Komt hier / te Amsterdam / zulk ien Ferheer iens te staen / Zoo zel ik alle daag / as hy van koldeschaal wil preeken / in de kerk gaen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1024.s.2	Nou klim ik in de mand / laet zien hoe is 't rondeel ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1024.s.3	Orisa , Lambatisa , Schoemisa , Coerkernoetes , Coekernoteel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1029.s.1	't Is tijdt en mier as tijdt om Oene zoo te talien / Dat hy in aller yl kan raaken an de schalien / Hy isser al .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1029.s.2	dat 's vast .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1029.s.3	Ik tree weer op ien zy .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1032.s.1	Hier Jeuriaan / hier / we binnen hier in de ly .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1035.s.1	Wat isser dan te doen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1039.s.1	Ik bin in duizent vreezen / Soo et gien spook en is / zoo zellent dieven weezen .	Fear_Emotion
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1042.s.1	Ik sie hier niet ien mensch / et is hier al in stilt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1045.s.1	Sieje daer gien geswier voor et glas van et vissers gilt ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1048.s.1	Ik zie ien groote mand / zoo ik maar recht kan tuuren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1051.s.1	Ik zeg dat ' et de duivel is of ymant van zen buuren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1054.s.1	Ik laet de mand om laag / en zal het zelf bezien .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1057.s.1	Loop Ieuriaen / loop / loop / ay loop / 't is tijt voor ons te vlien .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1062.s.1	Wel hey wat zie ik hier / wat komme hier te vooren ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1062.s.3	alriets heb ik zelf men eygen zelf verlooren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1062.s.4	Dat is gang : ik streefer heen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.1	Hier komt niemant van uit zien / dat schijnt Juffrou et hart te prangen .	BodyPart_BodilyProcess_Desire
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.2	Ien onkuische vrouw zel altijdt mier nae heur Pol as nae heur eige man verlangen .	Emotion_Desire
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.3	Waerom ofze Oene nam / as zy ' er gien zin in hadt / zooze niet beschonken was ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.4	Maar Juffrou / heb ik wel ehoort / was ien put daer ien kalf in verdronken was .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.5	En Oene miendt dat hy an heur ien zuiver lot etrokken hadt : Maar ze was van iersten an zoo zuiver as ien duif die de pokken hadt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.6	Ze acht heur eer niet mier as ien oude schoen / of zoo ien verloope sleur : Want ze is zoet op den dronk / en ien dronke vrou is ien oope deur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.7	Ik spreek de goede niet te nae / ik smijt slechts ien kneppel onder de vrouwen : Wie niet wil hebben datze heur zel raaken / moet heur uit de weeg houwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.8	Ik zie en hoor ; ik heb ien makkelijke huur / al is men loon wat zwak : Maar ik heb de marktgang / en dat ik of ding steek ik in mijn eigen zak : Dit is ook niet vreemt : want ik volg de mannier van de mieste meiden / En zoo et al uit quam / ik wedt et Juffrou an Miester niet en zeide : Want ze weet wel dat men mondt / as ik Ritsaart zie / veur Oene zwijgt / En as ien meidt merkt dat haar vrou van ien vreemt man zoene krijgt / Wortze hiel stout / en de vrou durft niet over heur klaagen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.9	Wie voogt van zen huis wil blijven moet hum eerelijk draagen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1091.s.1	Mijn looze Trijntje / ik bin gelukkig dat ikje hier dus vroeg by de deur vindt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1091.s.2	Oene zel hier strak koomen / om te zien of jou vrou hem / of my bemint .	Emotion_Love
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1091.s.3	Hier is et vaatje mit wijn / daer ik mit Fijtje flus van heb esprooken : De Pachters binnen men achter et gat ; want ik heb et eslooken ; Daerom verschuilt et .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1091.s.4	ik vertrek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1095.s.1	Wie was daer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1099.s.1	Juffrou / Ritsaart brocht dit vaatje mit wijn / En hy liep voort wech : want Oene / zeyde hy / zou hier dadelijk zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1102.s.1	Krijg men speldewerks kussen / zoo zel hy me vroeg an 't werk vijnen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1105.s.1	Die niet eerlijk en is wil altijt noch eerlijk schijnen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1106.s.1	Fijtje werkt en zingt een luchtig Lietje .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1110.s.1	Nou ik de betoverde stien heb / laet ik vioele treuren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1113.s.1	Holla !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1113.s.2	daer is Oene / nou moet ik wat aars neuren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1114.s.1	Zy zingt : Al eer men komt ter eeren , ziet , c.	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.1	Wel hey !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.2	wat hoor ik daer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.3	men ooren bin vol galm .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.4	Hoo / hoo / 't is Fijtje / ze zingt ien Meniste Zalm .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.5	Bazelasmanus vosemecy met hondert duizent kusjes .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.6	Mijner Liede / vraagt uwer Liede / of uwer Liede op mijner Liede noch zoo verliefd vint as flusjes ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.7	Men zuikerde struifmont !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.8	men pijpknielde rijssenbry !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.9	Jou montje is econfijt mit naerze van kandy ; Daer mier / ja twiemaal mier as duizent Koningen na snakken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.10	Ik loof niet of de Beyen komen heunig op jou lipjes kakken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.1	Ik slae ien gat in den Hemel !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.2	dus op zen Italiaans ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.3	Het bientjen after uit ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.4	zoo doen de Kortezaans .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.5	Ja wel jy bint ien Giest !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.6	maer 't is ien gaaf / moetje weten / Die alle menschen niet egeben is / bokkende Bry mit Vorken te eten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1134.s.1	Wat zegje van men gang / heb ik niet ien hiel schoone tret ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1137.s.1	Jy gaet alleeveeliens as ien haan die ien vuilnis tussen zen toonen het .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1140.s.1	Zie jy ook iet in men aanzicht deur men slordigheyt verwilderen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1143.s.1	O !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1143.s.2	neen : men hoort et op de hoek van ien brug sekreet te laeten schilderen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1146.s.1	Asje men verweende broek beziet / wordtje dan niet hiel ammereus ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1149.s.1	Buyre kijkt uit !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1149.s.2	de beuzem et ien huik op / et varken et sijn fluwiel op zen neus .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1152.s.1	Wat dunkje van men woorden / al luienze niet vermetel ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1155.s.1	Hiel weyts / dubbel ondieft / brie dingen twie schollen in ien ketel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1158.s.1	Hoe pastme dit wammes ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1158.s.2	trouwen ik bin noch half en half ziek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1161.s.1	Et past jou aers noch aers / as ien ay op ien punt van ien piek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1164.s.1	Wat dunkje van me zwier / mach ik de ratste niet wel passeeren ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1167.s.1	Ik loof niet ofje moet jou met ' et zwiet van de Stadts Straetemaakers smeeren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1170.s.1	Kom zoenme toch ien reys / zoo betaalje jou ouwe schult .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1173.s.1	Et de Vryer honger ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1173.s.2	naerzen mit Eek dat is goe zult .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1176.s.1	Voel iens hoemen pols jaagt / en hoe de zoole van men schoenen branden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1179.s.1	Jemeny Kyeren !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1179.s.2	wat ien ding is Mostert !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1179.s.3	ze bijt en et gien tanden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1182.s.1	Hoe zoet is de jeugdt / zouje zeggen dat ik jou iens onder de kombaers hadt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1185.s.1	Dat zey de Boer ook / en hy zoendent Kalf veur zen aersgat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1188.s.1	Zel ik jou quastige hart dan niet iens kunnen deur spitten ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1192.s.1	Jy zelt / op zeuvendalf varken nae / bezyen de zog zitten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1192.s.2	Hoor ; waer binje van daan ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1195.s.1	Ik bin van Leien van daan ; dat is genoeg vermaart .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1198.s.1	Binje van Leien van daan ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1198.s.2	jy hebt zoo veul praats dat ik wel wou dat jy hier \ van daan waart .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1201.s.1	Wensje me tot ien landtsman / zoo is men gelok al geweldig ereezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1204.s.1	Neen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1204.s.2	want datje hier van daan waart / zoo zouje me zoo lastig niet weezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1207.s.2	laet ik jou iens zoenen .	EmotionalAction_Desire
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1210.s.1	Me dunkt dat et mit jou altijdt eeve groen is .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1214.s.1	Heb ik quaet in 't zin zoo moet ik niet koomen daer veul te doen is ; Ja heb ik ' er arg in / ik wil ' er ik weet niet wat op vloeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1217.s.1	Jy hebt ' er gien arg in / jy slacht Jan plomp / die at struif veur pannekoeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1221.s.2	Fijtje / dat jy men smart en overgroote noodt wist / Jy zout zeggen : Ritsaart / ik bin de spijker van jou doodtkist .	Emotion_Sadness_Desire_Despair
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1224.s.1	Voort / Ritsaart / voort van hier al lang enoeg staen snappen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1227.s.1	Wordtje quaet ?	Emotion_Anger
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1227.s.2	zoo zel ikje mit ien mondt veur jou bakkes lappen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1232.s.1	Dat meugje jou hoeren doen ; ik bin al te eerelijke vrouw Dat ik men Oene / die ik lief heb / mit hoorens kroonen zou .	Emotion_Love
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1232.s.2	Waer blijft men echte man ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1232.s.4	Ritsaart dingt nae men kuisheidt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1235.s.1	Ik wil ien schelm weeze / men wijf is de herreberg daer de deugt t'huis leit .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.2	wie vijndt ik hier ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.3	hy lijkt me op ien draedt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.4	Wie pokken of et is ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.5	by gort !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.6	ik weet gien raedt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.7	Is 't men Giest / zoo zel ik drae sterven : of oordeeel ik al te Janhagels ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1244.s.1	Asje jou Giest ziet / binje veeg / ja zoo veeg as ien luis tussen twie nagels .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1248.s.1	Wie raedt jou zoo stout / datje hier verschijnt in Ritsaarts gestaltenis ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1251.s.1	Wie raedt jou zo stout datje durft koomen daer de rechte Ritsaart is ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1254.s.1	Zoo jy jou mont niet snoert / ik zelje vernielen / al wasje ien van de allermeesten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1257.s.2	die t'Amsterdam van driegen sterft beluyt men mit veesten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1260.s.1	Binje men Neef ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1260.s.2	of binnenwe Breurs van iener dragt ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1263.s.1	Dat loof ik niet : want die ons allebey gelijk zou dragen / hadt te zwaar ien vragt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1266.s.1	Jou Moer pleeg die wel ier tot onzent te verkieren ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1271.s.1	Men Moer die was zoo droog as Klaasje in de Pieren ; Maar men Vaar et in zen jeugdt wel op zen Vlielandts equeest : Daerom geloof ik dat hy wel by jou Moer om ien praatje et eweest .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1274.s.1	Jy bint dan wie jy bint / ik loop om men deegen te haalen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1277.s.1	Ik leg de stien mit ' er vaert neer : want hier valt niet te draalen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1284.s.2	Oene / binje hier !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1284.s.3	men uitverkoore Lief !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1284.s.4	Ritsaart et hier eweest / die overritze Dief / En wou met al zen kracht / al zeiden ik loop hutselen / En stiet hum van men lijf / men eerbaarheydt ontfutselen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1287.s.1	Voort krijg men kortelas / zoo raakt hy op de rug .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1290.s.1	Wel wachtme hier zoo lang / men voeten zyn al vlug .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1295.s.1	Waer is de Tovenaar ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1295.s.2	hier bin ik mitmen deegen : Kom nou vry voor den dagh / ik zel jou de bek gaen veegen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1298.s.1	Wel Ritsaart / wel hoe dus ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1298.s.2	wat doeje mit et rapier ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1301.s.2	Oene vijnd ik jou !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1304.s.1	Wel ja / wie zoek jy hier ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1308.s.1	Ik zoek men eigen zelf / die ik hier strak zag kuyeren / Zoo ik hum krijgen kan / zoo raakt hy in de luyeren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1312.s.1	Jy had wat aars in 't sin / jy quam hier by men wijf / En zeyde elken reys : jy bint men tijt-verdrijf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1315.s.1	't Is wonder dat jou 't hoofd van me noch niet esmeeten is .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1318.s.1	Zoo geef ik jou ien tast mit ien looze mou / daer gien arm in vergeten is .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1321.s.1	Zooje niet zwijgen wil / zoo ty ik straks aan 't smijten .	EmotionalAction_Anger
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1324.s.1	Praatje wat / de honden die 't luiste blaffen die weten van gien bijten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1327.s.1	Ik zweerje by mijn kracht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1335.s.1	Ik loofje wel / et is gien zottekal .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1335.s.2	Sou jy de Papegay niet wel of schieten met ien pampiere rottebal ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1335.s.3	Want jou Vaar et al Konstapel eweest in 't beleg van Sloten / Daer de Hertog van Pierlapon / met ien schabel door zen bil is eschoten / Toen Piet Jaep Joosten / Kees Jan Krijnen / in de Karremelkx zak / Mit ien versse pekelharing / mors et hert of stak .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1338.s.1	Wie mienje dat ik bin ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1342.s.1	De Breur van Nikodemus / Seuns Seun van Paus Jut / over Out-ooms Out-oom van Polyphemus .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1347.s.1	Hoe scheere we mekaer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1347.s.2	Wal dat komt zeker zoet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1347.s.3	Pas op men handen Guyt / as ik jou weer ontmoet : Maar nou moet ik de schelm iens na zen gat gaen tijen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1350.s.1	Ik raap de stien weer op / zoo kom ik niet in 't lijen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1355.s.1	Ik zie gien kortelas / noch ik bind gien rapier / Ik zoek dan waer ik zoek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1355.s.2	hoe !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1355.s.3	Ritsaart !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1355.s.5	jy hier ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1358.s.1	De liefde jaagme hier heen / om te zien of ik jou niet kon beleezen .	Emotion_Love
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1361.s.1	Dat mal kreupel was er krukke maken zou et beste ambacht weezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1364.s.1	Jy moet deinken ik bin ien Koopman en ien van de beste Sinjeurs .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1367.s.1	Dat de zotten belle droegen / hoe geweldig zou et 's middags klinken op de Beurs !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1370.s.1	Laat ik jou omarmen .	EmotionalAction_Love
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1374.s.1	Ik zeg laet los / of ik zel jou uit schelden / dat de honden gien broodt van jou zellen willen eeten .	EmotionalAction_Anger
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1374.s.2	Ay me omarmen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1374.s.3	dat jou hooft op ien varken stont / ik zweer dat ik van men leben gien spek zou eeten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1379.s.1	Wel spijtige pry / dat jou hooft boven de deur van ien wijnkelder quam te staen / De pachters zouwen / al zagenze sluiken / van schrik niet in de kelder durven gaen .	Fear_Emotion
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1382.s.1	Waer komje van daan / datje dus praat ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1385.s.1	Ik kom uit het Westen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1389.s.1	Ik hoor wel an jou malle propoosten / Datje uit et Westen quaamt : want de Wijfen quamen uit et Oosten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1392.s.1	Jy zelt jou goedt wel van de weeskamer krijgen : want jy bint mondigh / verstaeje dat wel Fy ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1395.s.1	Ik wou jou niet zoenen al kakte jy koopere potten mit gouwe hengelesen / en vol rijsenbry .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1398.s.1	Jy bint ien vodt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1401.s.1	Jou moer hiel wel ien hoerhuis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1404.s.1	Dat liegen / zweer ik / zel jou rouwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1407.s.1	Ik verzinne ; jou moer hiel gien hoerhuis : maer et hoerhuis et jou moer ehouwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1410.s.1	En jou vaar was wel ier ien hoerevoogt / daer men in de Almenak van leest .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1413.s.1	Jy hebt gelijk / men vaar was ien hoerevoogt : want hy et voogt van jou zuster eweest .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1416.s.1	Jy ellementsche pekelhoer !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1416.s.2	krijg ik jou iens onder .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1419.s.1	Dat is hardt teugens hardt / zey de Duivel / en hy veest teugen de donder .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1422.s.1	Jy bint ien schans zwijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1425.s.1	Ik zel jou veur Commissarissen ontbien zoo waer as ik Fy hiet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1430.s.1	Jy me voor Commissarissen ontbien ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1430.s.2	die macht en heb jy niet ; Jou beurs die is te kaal / om na ien Advokaat te wandelen : Want ien Advokaat is as ien Hoer / die heur om gelt laet handelen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.1	Jy men kalen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.2	jy gatvink ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.3	jy bint zelf zoo kaal as ien luis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.4	Wie bin ik schuldig ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.5	zeg hontsklink ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.6	ik woon in men eygen huis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.7	Tot mijnent zelle me Erfgename al mier asze miene uit de kas halen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1439.s.1	Dat is waer / ze zellen ' er veul in vinden ; Want asje jou hemt in jou poort trekt / heb jy ien hiele kas vol Linden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1442.s.1	Jy bint ien Vagebont .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1446.s.1	Ik bin dan wat ik bin / ik bin altoos al ien dolle snoeshaen : Et mach beuren dat ik veur de nikker loop / maar ik durf wel teugen de droes staen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1452.s.1	Jy bint ien stout man / ja jy bint ien man as onze Rijk was : Daer by bin jy zoo wijs / as Teunis / die zen Vaar vraegde / of Joseph ook Kattelijk was .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1452.s.2	Ja jy bint zoo arg as Miewes Tijsen in ' et Groenlantsche Traen-vat / Die wel dorst wedden / dat Mozus in de Geuze kerk egaen hadt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1455.s.1	Wat rijtme deuze Appelteef ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1458.s.1	Ik krijg ien popelezy op me lijf .	Fear_BodyPart_BodilyProcess
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1458.s.4	ik word zoo bang .	Fear_Emotion
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1461.s.1	Ik leg de stien hier neer .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1461.s.2	dit kijken duurt te lang .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1464.s.2	Oene binje daer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1467.s.1	Wat doet men liefste op d'aerdt zijgen .	Fear_BodilyProcess
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1470.s.2	haal ien weinig eek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1473.s.1	Ik zel jou eerst ontrijgen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1477.s.1	Wy hebben gien eek in huis / en de meidt et heur voet verstuikt / onder in 't gewricht : Loop doch mit ' er vaert ginder in de steeg / tot de kruinier met et scheel gesicht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1480.s.1	Ik beloof jou dat ik drae heen zel loopen / en weer komen zonder te missen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1484.s.1	Waer binje Ritsaart ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1484.s.2	spreek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1487.s.1	Hier ben ik .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1487.s.2	ien minnaar zel zen tijdt zelden vergissen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1491.s.1	Ritsaart / jy moet voorzichtig weezen asje hier by daag in huis wilt treen ; Want jy wordt staag nae ezien van onze buurwijf Madeleen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1494.s.1	Ik zel beschikken datze dat gapen wel drae zel staaken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1497.s.1	Hoe wou je dat beginnen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.1	Ik zel ien pasquil op heur laeten maaken : Want ik kom dikwijls by dat volck / om dat et men altemet ien praatje verlient .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.2	Ik zel ' er by ien gaen die de Beurs alle daag bestormt mit gestient : Maar hy et grooter stien in zen hooft as in zen juweelkoffer leggen ; De voeten van zen pasquillen / heb ik wel hooren zeggen / Binnen zoo kreupel as hy bot in zen Koopmanschap .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.3	Ik zel liever by de man gaen die uit ebannen is om zen quaede klap : Dit is ' er ien die zen wijf trouwde nae datze in 't Spinhuis hadt ezeeten : Hy rijmt veur en tegen et landt / om ien buik vol bier en eeten : Maar in zen zotheidt is hy zoo stantvastig as ik nooit ien key vant .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.4	Et zel best weezen dat ik gae by de Poret van et gelokkig eilandt / Dat is ien man die mit kracht en geweldt ien Dokter wil weezen : Maar hy et zoo weinig verstandt van pasquillen te maaken as van zieken te geneezen / Want zen pasquillen blaffen en ze hebben gien tanden om in 't vleis te slaen : 't Is ook gien wonder datze blaffen : want men ziet hum veul mit honden om gaen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.5	Hy rijmt ook veur honden : heeft et gelokkig eilandt an hem dan niet ien rechte Jorde ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.6	Zoo hy langer leeft : zoo zel hy noch in ien hondt veranderen : want hy is alrie ien hontsbodt geworden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.7	Ik ken de eigenschap van die pasquillenmaakers op ien draedt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.1	Schout .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.2	Pachter .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.3	Notaris .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.4	Steeboode .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.5	Diefleier .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.6	Verklikker .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.7	Hier wordt aan de deur geklopt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1522.s.2	vrou daer wordt aan de deur eklopt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1522.s.3	hier is onraedt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1525.s.1	Wie klopt daer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1528.s.1	Doet de deur oopen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1531.s.1	Et is de Schout : ik ken hum an zen spreeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1535.s.1	Trijntje / jy hebt Ritsaart / as Oene quam / zoo menigmaal versteeken / Weetje nou gien raedt ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1535.s.2	ik bidt jou / bedenk ien aartige list .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1539.s.1	Hier Ritsaart / verschuilje mit er baert in deuze kist : Ik zel achter uit snappen en koomen de kist weer mit fatsoen veur uit haalen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1542.s.1	Zoo jy dat kunt doen / zoo zel ik je veur jou kunst betaalen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1543.s.1	Ritsaart in de kist .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1546.s.1	Ik zeg doet de deur oopen / of ik loopze mit geweldt op de vloer .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1551.s.1	Daer isze oopen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1551.s.2	Hoe maakje vroegmorgen zulk ien rumoer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1551.s.3	Ik was strak wat quaelijk / en men man is uit of hy eek te koop kan vinden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1551.s.4	Hebje wat lang ewacht / dat komt dat ik men slep ierst veur wou binden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1554.s.1	Juffrou / vergeef ons dan dat we zoo vrypostig in huis koomen : maar ' et is niet zonder reen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1557.s.1	Me dunkt dat et onbeleeft is datje zonder verlof in huis komt treen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1561.s.1	Ik kom mit de Pachters / Steeboo en ien publijke Notaris : Men zegt dat hier wijn eslooken is / en ik kom om te zien of et waar is .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.2	ik sluiken ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.3	dat was niet eerelijk edaen : Want et landt kan zonder Cijns te krijgen niet bestaen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.4	Al die sluiken hoormen mee naar de kaak te streeven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.5	Ik hou et mit de Schriftuur : want die wil hebben dat men de Kaizer et zijne zel geeven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.6	De eerlooze zeggen : kan men et zonder scha doen / men kan et zonder zond doen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.7	Zoo et jou belieft / jy kunt et huis deur snuffelen : maar jy zeltme ien groot afgrondt doen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.1570.s.1	Pacht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1572.s.1	Heer Schout / dit wijf zoekt ons te verleien deur heur bedrieglijk snappen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1575.s.1	Ik bin zuiver / en die zuiver is mach zen ooren schudden datze klappen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1578.s.1	De schurfde schaepen / heb ik wel hooren zeggen / blaeten et allermiest .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1583.s.1	Wel propdarm / wat doen ik jou dat je me dus tergt en onbeleeft briest ?	EmotionalAction
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1583.s.2	In 't oude Testement worden et volk equelt van tierannen en helse Nikkers : Maar nou is et slimmer : want nou worden de menschen eplaegt van Pachters en Verklikkers .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1586.s.1	Notaris schrijf dat op / ier ik mier van heur lasteren walg .	Emotion_Disgust
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1589.s.1	Laat hy et vry in jou hart schryven / en hangen et boek an de galg .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1592.s.1	Dit wijf et eer en schaamt gelijk ter Kerken ebragt / dat blijkt wel an haar Baaren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1595.s.1	Wel / valse Testement-schrijver / wat heb jy te zeggen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1595.s.2	jou vaar is bankerot evaren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1604.s.1	Dat men vaar bankerot voer / kost jou niet ien zier : Hy gaf noch vijfentwintig ten hondert / dat is de rechte koers van ien bankerottier : Maar jou Daar was ten dief : want as hum zen werkvolk werk t'huis brochten / wou hy heur 't bedonge loon niet geeven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1604.s.2	Zeide zy , sinjeur we kennen van zulk ien kleine loon niet leeven : Wees jy te vreen / zeide hy / ja ik rae jou datje van hooger loon zwijgt : Ik bin ien Buurtmiester / ik zel maaken datje onderhouding van de Almoeseniers krijgt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1609.s.1	Dat liegje / jy eerdief / jy kolfvoet / jy druip-oog / jy luishondt / jy neus as ienanker : Pokkige hondt / hoe zelze jou noch op egeeten worden van de spaansche kanker .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1612.s.1	Juffrou schelt de man niet uit : want hy is hiel wijs ; of bin je buis ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1615.s.2	hy wijs ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1615.s.3	dat hy in ien rok liep en ien slab veur hadt / hy was prezendent van et Lazeris huis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1618.s.1	Ziet watje zegt !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1618.s.2	er is ien Notaris ; et hy gien bordt veur zen huis / dat komt omdat hy rijk is .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1621.s.1	Hy hoeft gien bordt veur zen huis : want hy et ien bordt veur zen kop / dat pubelijk is .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1624.s.1	Zie toe !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1624.s.2	jy kan me noch wel van doen krijgen : want ik weet er veul voort tehelpen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1628.s.1	Dat is waer / jy helpt ' er veul voort ; Maar hoe ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1628.s.2	jy helptze ierst uit ' er geldt en dan uit de poort .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1631.s.1	Dat ik zulk niet en doe / en dat ik wijs bin / getuigt men allernaeste buurman .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1634.s.2	in et schip van de blinden is ien oog stuurman .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.1635.s.1	Not .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1637.s.1	Wordt ik iens Pensenaris / dan zel et de quae wijven niet nae haar wens gaen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1641.s.1	Jy Pensenaris worden !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1641.s.2	ien Pensenaris deink ik as ' er achter de hal mit pens staen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1641.s.3	Boode .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1641.s.4	Juffrou versteurje niet !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1641.s.5	jy tiert jou an / of hy jou man edoodt hadt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1644.s.1	Ik wens de guit mit zen gat op ien hekel / en dat hy ien meulestien op zenschoot hadt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1645.s.4	Kruier .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1650.s.1	Goemorgen Juffrou / jy hebtme men huur gisteren betaalt : maar je wout men kist nietgeeven / Of je wou ' er in zien / of ' er ook iet dat jou hoorde in was ebleeven : Hebje et al edaen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1650.s.2	ik bin hier mit ien kruier ; want die zouze brengen an de schuit .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1653.s.1	Ik jou vodden deurzien !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1653.s.2	dat lust me niet / daarom gaet et gat vry uit .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1656.s.1	As je op de meidt niet weet te zeggen / moetje heur kist mee langen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1667.s.1	Hadtze ien meidt eweest asze hoorde / ik zou gien strijdt tegen heur anvangen : Want ik heb me teugen heur edraagen as ien rechtschaape vrouw : Maar ze was ien labbekak / die alle buure bakhuizen begaapen wou : Ging ze iens in de komeny / strak vilze an et kallen : bin dat gien boose werken ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1667.s.2	Dan was et / men Heer Schout / in men naers en uit men naers / gae deur men naers te kerken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1667.s.3	Men kelder die by men aare meiden zoo klaer as melk en heunig was / Lag by haar zoo morsig / ja zoo morsig of ' er ien varken Keuning was .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1667.s.4	Die et vuur van ien aar wil reekenen / laet zen eigen uitgaen / heb ik wel hoore zeggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1667.s.5	Men kamer was zoo slikkerig / dat ' er mit eeren ien zog in de kraem hadt meugen leggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1675.s.1	Ik heb by jou moeten lyen as et wijnterkooren op et veldt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1675.s.2	Binje rijker as ik ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1675.s.3	de Duivel dienje hebje geldt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1675.s.4	Heer Schout / ier ik by heur quam hadtze dertien meiden ehadt in neege weeken : Ze zou ien roof veur dien hel van daan haalen / en de Duivel zou ' er niet teugen durven spreeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1675.s.5	Ze maaktme / om me te doen haaten / zoo zwart as de zwartste mol is : Want die ien hondt doodt wil hebben hoeft slechts te zeggen dat hy dol is .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1678.s.1	Jy gaapt niet of jy liegt : verstae je dat wel / helleveeg ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1684.s.1	Juffrou / ik kom niet / om mit jou te hassebassen : Ik smijt slechts schoenen te grabbel / wil jyse aan trekken / ik kan niet beeteren datze jou passen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1684.s.2	Jy moet jou niet versteuren / of ik mit jou wat in et gros praat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1684.s.4	Heer Schout / spreek iens veur me / op datze men kist weer los laat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1687.s.1	Voort / bezie de kist / of geefze de meidt : we moeten hier iens zien in alle hoeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1690.s.1	Loop mit jou kist an de galg / men hooft staet ' er niet nae om jou prullen te deurzoeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1694.s.1	Juffrou / jy hebt me veul verlet / de dingen die ik noch beschikken zel : Maar ik mach deinken heb ik me niet zadt egeeten / dat ik me niet zadt likken zel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1698.s.1	Jy doet wel / datje om jou verzuimde tijt niet wilt kibbelen / noch mallen : Want die et lest uit de kan wil hebben / zel et lidt gemienelijk op zen neus vallen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1702.s.1	Kruier / reik me ien handt : want ' er is veul tin in dat ik van men ouwers heb eërft .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1705.s.1	Vryster wat zellen jou vrienden al beuren as jy ongetrout sterft .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1708.s.1	Heer Schout / we vijnden gien wijn in de kooken / noch kelder leggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1712.s.2	et hiele huis vol volk / wat pokken is dit te zeggen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1716.s.3	men lieve man !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1716.s.4	men uitverkooren !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1716.s.5	binje daer al weer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1716.s.6	Hier wordt ezeidt datwe wijn eslooken hebben / en dit raaktme an men eer .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1719.s.1	Dat zellenze liegen : ik wil hier gien vremt volk gehengen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1722.s.1	Heer Schout / ik heb ' er et vaatje mit wijn zelf in huis zien brengen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1725.s.1	Heb jy et ezien ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1725.s.2	zoo haal alle kisten van de wandt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1726.s.1	Trijn roept van binnen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1729.s.1	Brandt / brandt / brandt / water / water / water .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1732.s.1	Waer is de brandt ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1738.s.1	Waer is de brandt te vijnen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1742.s.1	De vlam komt uit et dak van et huis daer et kantoor is van de Pachters van de wijnen ; En 't huis van de Schout / dat ' er naest staet / begint men mee al deur te schrijven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1745.s.1	Impostmiester / daer dien ik by te weezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1748.s.1	We dienen hier ook niet langer te blijven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1752.s.1	Is de brandt by de Schouts ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1752.s.2	daer woont jou Breur ontrent / och !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1752.s.3	Oene / daer bienj ook by .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1752.s.4	Hoe staeje zoo te futselen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1752.s.6	loop / ier ik ' er heen ty .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1755.s.1	Ik looper mit er vaert heen / om voor men Breurs huis te zorgen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1761.s.1	Ziet hum iens loopen : hy steekt zen naers uit of hy broodt wou borgen / Vijndt hy daer wat te schikken / dan gaet hy tot de ooren toe in et bondt : Hy heeft et beschik-boekje op egeeten : want et kappetory hangt noch uit zen mondt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1761.s.2	Daer niet te doen is weet hy geweldig te helpen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1765.s.1	Juffrou / nou is et tijdt om jou bangigheidt te stelpen .	Fear_Emotion
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1768.s.1	Waer is Ritsaart ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1773.s.1	Die heb ik al uit de kist doen gaen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1773.s.2	Nou moet et vaatje mit wijn / dat ik flus vergeeten heb in de kist te schuilen / an ien edaen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1773.s.3	Heb ik van de kist en brandt niet giestig kennen verzieren ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.1	Ik zel jou lijf teugens Paas / tot loon / verzien van nieuwe klieren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.2	Volhardt jy vry in liegen en bedriegen / zoo hou ik jou voor ien deugdelijke meidt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.3	Die zeggen dat liegen zondt is / betoonen heur bottigheidt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.4	Die voorzichtig is / moet hum nae de tijdt voegen / hoort men de wijzen kallen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.5	Wie om best willen liegt / leidt ien stien uit de weeg / om dat ' er ien aar niet over zel vallen Kom / brengen we et vaatje an ien zy / zoo worden we niet in et lyen ebracht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.6	Wie zen schandt kan bedekken / en schae verhoeden / et groote kracht .	None

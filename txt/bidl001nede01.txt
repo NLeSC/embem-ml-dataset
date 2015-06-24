@@ -1,0 +1,720 @@
+bidl001nede01_01.TEI.2.text.body.div.head.138.s.1	De muitery en nederlaag van Midas , Of koning onverstand .	None
+bidl001nede01_01.TEI.2.text.body.div.head.139.s.1	Eerste deel .	None
+bidl001nede01_01.TEI.2.text.body.div.head.140.s.1	Eerste tooneel .	None
+bidl001nede01_01.TEI.2.text.body.div.stage.143.s.1	Belachal , Nieuwsgierigheid de bak opklimmende , voor het opgaan van het Gorayn , al lachende .	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.sp.speaker.145.s.1	Belachal .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.148.s.1	K zie 't immers wel , wat nieuws is hier ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.speaker.150.s.1	Nieuwsgierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.152.s.1	Kom op , kom op ,	None
+bidl001nede01_01.TEI.2.text.body.div.sp.158.s.1	'K zie niet een zier , Als dit gordijn zoo lang bekeeken , Dat ....	None
+bidl001nede01_01.TEI.2.text.body.div.sp.162.s.1	Laat ons van het nieuwe spreeken ,	None
+bidl001nede01_01.TEI.2.text.body.div.sp.166.s.1	Al weer wat nieuws , en nooit wat goeds ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.174.s.1	Uw leven ziet gy ook , goeds moeds , Geen zaaken aan ; wel laat ons kyken ; Lach , alsje hoort een oordeel stryken , Tot naadeel van het geen gy ziet .	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.sp.179.s.1	Wat doen wy hiet ? 'k zie 't minste niet , Dat na wat nieuws gelijkt ?	None
+bidl001nede01_01.TEI.2.text.body.div.stage.181.s.1	Hier werd het oude Gordijn weggehaald .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.186.s.1	Met zinnen ; Wat dunkt u hier van ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.192.s.1	'K moet beginnen Te lachchen , ha !	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.sp.192.s.2	ha !	None
+bidl001nede01_01.TEI.2.text.body.div.sp.192.s.4	wat 's dit ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.192.s.5	Wat 's dat voor volkje .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.192.s.6	dat hier zit ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.196.s.1	'T is Febus met de Zanggodinnen .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.200.s.1	Wel kunt gy dat zo voort verzinnen ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.206.s.1	Wel ja , zie , dat 's Melpomene , Dit 's Clio , dat Kalliope , Deeze Erato .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.210.s.1	Hoe kunje 't weeten .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.219.s.1	Aan 't hand en hoofdtuig , daar Poeëten , En Schilders zich gewoonelijk Aan kennen doen : kom hier eens , kijk ; Dat is Euterpe , zo te noemen .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.219.s.2	Om 't lachchend weezen en de bloemen , En zie , dat is Urania .	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.sp.225.s.1	Wel ja , wel ja , dat lijkt'er na .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.225.s.2	Ik heb voor deezen wel geleezen , Dat die zo moet wat stemmig weezen .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.speaker.227.s.1	Niewsgierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.232.s.1	Wat dunkt u van de schildery ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.232.s.2	Is daar geen kleur , of houwding by ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.232.s.3	Wat zegt gy ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.254.s.1	'K heb wel hooren zeggen , Dat Schilders , alsze oneenig leggen , ( Ik kom te met wel , dat gy 't weet , By deez ' en geenen klad Poeët ) En knib'len over kunst paneelen .	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.sp.254.s.2	Die taal gebruiken in 't krakeelen .	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.sp.254.s.3	Ook slaan heel fraai , wanneer men smaalt , De woorden uit de konst gehaalt .	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.sp.254.s.4	Waar van men twist , en kenners spreeken : Maar laat ons 't hoofd niet verder breeken Met Febus , die zo stil hier staat , Of hem geen zaak ter harten gaat ; Ik moetje een ander deuntje zingen , Veel pretendenten Kunstelingen , Zyn op Apollo zeer verstoord , Om , na men reeds van verre hoord , Dat hy met kracht weêr voort doet zetten , Niet hunn ' gedichten , maar zyn ' wetten , Omtrent .... maar kunt gy loist'ren ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.258.s.1	Ja ,	None
+bidl001nede01_01.TEI.2.text.body.div.sp.262.s.1	En zonder spreeken ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.266.s.1	Ja .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.1	Wel ga .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.2	Dan stil met my , wy zullen hooren , Den dageraad Apol beschooren .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.3	Bedilal zeg my , dat hy ging .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.4	Om met zyn ' Vrinden onderling , Eens raad te pleegen over zaaken , Die de eer van Midas zetel raaken .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.5	Hy vroeg my , os ik meê wou doen , Maar deeze zaaken zyn nog groen .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.6	Ik hoop hen alle bei te scheeren , En met die 't winnen zal te smeeren ; Nu laat ons zien , hoe 't zal vergaan .	Emotion_Hope
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.7	Verschuil u wel	None
+bidl001nede01_01.TEI.2.text.body.div.sp.289.s.1	Wees niet belaân , 'K zal Midas , noch Apollo tergen , Kunt gy uw lachchen maar verbergen .	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.stage.291.s.1	Alhier gaat het nieuwe Gordyn open .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.292.s.1	Tweede tooneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.294.s.1	Bedilal , Nijd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.296.s.1	Bedilal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.301.s.1	HIer is de plaats ; ô Nijd !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.301.s.2	aanzienlijke Afgezant , Heraut , en Legerraad van Koning Onverstand , Den grooten Midas , daar ik myn ' getrouwe vrinden , De Twist en Achterklap , dit oogenblik most vinden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.303.s.1	Nijd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.308.s.1	Bedilal nog alom Verbeterlost genoemt , Wien Midas , als een hoofd van zynen aanslag roemt , Men toeve , tot de Zon wat laager ... zacht , zy komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.308.s.2	Het barstende aardrijk schijnt zelf op haar komst te schroomen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.310.s.1	Derde tooneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.314.s.1	Twist , Achterklap , van onderen op , Bedilal , Nijd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.333.s.1	Zyt welkom arge Twist , en listige Achterklap , Gy weet , hoe Midas lang na Febus meesterschap En wraak gedongen heeft , zints hy met Ezels ooren , Om dat hy liever Pans , als zyn gespel mogt hooren Geplaagd is ; maar nog rust Apollo hier niet by .	Emotion_Vindictiveness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.333.s.2	Hy had voor eeuwig hem , denk , welk een Tyranny !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.333.s.3	Maar no zyn ' vrinden ook ten zangperke uitgesmeeten .	EmotionalAction_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.333.s.4	Hy dreigd , die hem niet eerd , met dood , en bau , en keten . 'T is eind'lijk tijd , om eens te dempen zyn gezag , Te proeven , wat men na dien hoon op hem vermag ; En al waar wijsheid heetscht , of vrije konslen bloeijen , De Vorsten , Menschen , en hun eernaam uit te roeijen ; Het algemeene best der letterkunde in spijt Van reden , die haar helpt , te dempen voor altijd , En hier toe is uw raad den Vorst , en ons van noden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.335.s.1	Twist .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.1	'K zal toonen , dat ik niet vergeessch ben op ontbooden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.2	Ik heb myn brein gewet , om eens de hovaardy Van Febus Heiligdom te straflen , zo gy my , Bedilal , Achterklap , en Nijd het oor wilt leenen , Zal ik van deeze uur af , zyn luister zo verkleenen , Dat niet een Mensch eerlang meêr van hem weeten zal : Ja zo ons kracht ontbreekt in nood , of krygsgeval , Zal stoute onweetenheid , een van uw meelters vrinden , Het vinnig slag-zwaard van zyn wrok op zy gaan binden .	Emotion_Pride_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.3	Bedilal , nu van naam , moet ook van opperkleed , Veranderd , gaade slaan , alwaar men tijd besteed In letteroeffening , om 't zyne daar te zeggen , En als Verbeterlust , verachten , wederleggen , En hekelen al wat hy hoord , of leezen ziet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.4	Een konst in ouder tijd met nut , en eer geschied .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.5	Nu kan 't een handvat zyn om geesten uit te blusschen , En kunsten haatclijk te maaken ; ondertusschen Moet gy u uiterlijk bekleeden met al 't geen Maar na geleerdheid lijkt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.6	Haal titelen te leen Van groote schryvers , en doe aan de waereld blyken , Dat ook de wysheid zelf had willen u verryken , Met diepe keanis .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.7	onnasporelijk begrip , En 't zuiverste oordeel : sta op lettergreep , en stip Als of ' er al aan hing ; om 't met een titel te uiten , Noem u een Criticus , daar kunt gy in besluiten Al wat u nodig is , om nu ter tijd , als wijs Ook met den gaauwsten geest te twisten om den prijs Gy hebt voorzichtiglijk dit mannekleed genoomen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.8	Want waar is achterklap , als man , ooit voorgekoomen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.9	Gy zult eenvoodigheit bedriegen met dien schijn , Die waand , dat gy een vrouw by vrouwen maar kunt zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.365.s.1	Tegen Achterklap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.374.s.1	Dit is de rechte weg , om elk door haat te styven .	Emotion_Hatred_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.376.s.1	Achterklap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.378.s.1	Wat zal ik midlerwijl ter zyden af bedrijven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.389.s.1	Gy zult al , dien gy hoord , dat iets in lett'ren doet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.389.s.2	Verstaat die eenig schrift de waereld geeft voor goed , Of 't zyne , in eer en rust bedektelijk tegenvaaren , Niets van waardy , of kracht van zynekunst verklaaren ; Maar drukken hem een schande , of lasterlyke daad Op 't hart wier tegendeel niet ligt te toonen staat .	HeavyHeartedness_Emotion_BodyPart_BodilyProcess_Remorse
+bidl001nede01_01.TEI.2.text.body.div.div.sp.389.s.3	Bedilal , ga terwijl u slaatelijk verkleeden , Zo kunt gy ieder met wat aanzien tegen treeden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.391.s.1	Vierde tooneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.393.s.1	Achterklap , Nijd , Twist .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.398.s.1	Waar voeg ik my om best aan stof , gelegentheid , En spraak te raaken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.409.s.1	Nu moet gy met meêr beleid , Als ooit uw arbeid doen ; want zo zy ons ontdekken , Dat zou den Koning , meêr als ooit , tot nadeel strekken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.409.s.2	Bedek uw aangezicht , voor al ook dit gewaad Met Reedelijkheid , een stof , dat zich wel plooijen laat ; Zeg niets voorzeker , maar doe 't zekerlijk gelooven , Door valsche brieven , en getuigen ; eer te rooven Is kleene kunst , alleen daar hoort geheugen toe .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.1	'K was onvermoogende , en wierd reeds my zelve moe , Nu schep ik aamtocht , en mijn drift in 't hart geblaazen Van stoute Onweetenheid , zal Febus zelf verbaazen : Ja nu door Nijd aldus , Vorst Onverstant herleeft ; Zal konst en kennis zien , hoe weinig wijsheid geeft , Wanneer ons raadgespan zyn ' krachten wel doed werken ; Maar 'k neb vernoomeu , hoe zich Febus durft vetsterken , Zyn ' oude wetten , reeds weêr steld in haar gebruik , Op dat Vorst Onverstand voor zynen Schepter duik ; Maar niemant van ons Volk kan volgers deeze wetten , De handen op papier , aan boek , of penne zetten .	BodilyProcess_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.2	Eerst moet men zedig , en tot deugd , en eer gezind , Een wyl tijds toonen , dat men weetenschap bemind ; Dan lang zich oeffenen in jouge en oude soonften ; By stille ervaarenheid , die schoon , en nut leert schisten ; Dan proeven , of men hen van verre volgen kan , Zich hoedende ( want dit verblind het oordeel ) van Laatdunkenheid , die vaak in schijn van lust gebrooken , Der braafste geesten heeft hunne oeffening gebrooken .	Emotion_Love_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.3	Belet ( zo luid zyn les ) te komen tot den trap , Van waare kennis , en gestaafde weetenschap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.4	Hier na ( wat leid men hem die schryven wil , te vooren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.5	Wat moet de bende niet van dien Tiran al hooren ? ) Verkiezen stijl , en stof , na letter ocffening , Als of ' er heel iets groots aan stof te keuren hing , En elk van alle stof niet schryven mocht en dienten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.6	Die niets geschreeven heeft , dat teder kon verplichten , Tot lof , beveeld hy streng , ja op verbod der pen , Dat zich tot tegenspraak van niemands schrift gewen ; Geen onderzoek-schrift schryve , of aanwyze elks gebreeken : Men mag van taalkunst , noch van wijz'van zeggen spreeken , Ten zy door klaar vertoog , men een en andermaaal , Getoont heb ' , dat men 't merg , en 't schoon verlla der taal , Waar van men spreeken wil .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.7	Nog zult gy dikmaals leezen , Van onbeschaaftheid , en van schijn geleerd te weezen , Van zotte vindingen , en ergerlijk vermaak , Van misbruik zyner konst ; hoe ik de geesten wraak , En in hunn ' schaduw volg , hoe gy met Midas vaanen , Ook by de onkundigste zyn ondergang wilt baanen : Nog wil hy , dat die geen , wiens ruwe onkundigheid , Als de onze , door den druk voor ieders oogen leid , Niet van verbeteren rep , voor dat hy zyne schristen Zo heeft verbetert , dat een kenner die mag ziften .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.8	Kortom , wy moeten hem , en zyne Zoons met kracht Bestormen , wilmen niet , dat zyn verheeve magt , Ons alle , en onzen Vorst voor eeuwig dwing te zwygen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.462.s.1	Achterklap	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.474.s.1	'K wist reeds de Onzydigheid , zo vert ' voor ons te krygen , Dat zy Vrouw Yver al van daag verdagvaart heeft , Om scherpe rekening te geeven , hoe men leeft Met eer en zedigheid , op haare Schouwtooneelen , Ik wist , als goede wil , zo stemmig haar te streelen , Dat zy haar ' tederheid alreeds geschonden acht .	EmotionalAction_Love
+bidl001nede01_01.TEI.2.text.body.div.div.sp.474.s.2	Ik heb aan d'and'ren kant de vrolijkheid belacht , In schijn van losse jeugd , bespot , getergt , verweeten , Dat op het Schouwtooneel , de blijdschap wierd vergeeten , En niet als doffe stof vertoont , ik trof haar hert ; Zo dat elk klaagd , dat zy niet wel gehandhaaft werd .	Joy_Emotion_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.div.sp.478.s.1	Daar komt Bedilal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.480.s.1	Vijfde tooneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.483.s.1	Bedilal , Twist , Nijd , Achterklap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.483.s.2	Bedilal bekleed met bladen van Boeken , Titel-namen van groote en befaamde Schryvers , konst-woorden , en weetenschappen , in veelerly Taalen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.491.s.1	MEt die ciersels en gewaaden Zult gy Geleerdheid zelf ( 'k zwijg 't botte graauw ) verraden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.491.s.2	Heer Criticus , 't staat wel , en 't is een ligte dragt , Onkostelijk , en naar den nieuwen zwier bedacht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.496.s.1	Wat leest , wat ziet m'er al Latynsche en Griekse naamen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.496.s.2	Wie maakte toch dit kleed ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.504.s.1	Dit had gy moetent raamen , Pedantmachinicus .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.504.s.2	De dingen , die gy leest Zyn niet , als 't fyne van ervarentheid en geest .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.504.s.3	Hy gaf my ook een lijst van ouwe Schryvers .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.504.s.4	Vrinden , Waar zal ik nu mijn eerst ' en moeilijkst arbeid vinden ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.521.s.1	Men help eerst Yver , daar Apol door leeft , van kant , Want deeze geest zyn ' magt te grooten onderstand ; Ja kan men met een slag zyn ' schoolen neder ploffen , Zo zal zyn ' bende eerlang niet op zyn ' konst meêr sloften .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.521.s.2	Daar 's al oneenigheid in hun belang gezaaid , Dewyl en deugd , en vreugd ' , op 't felste om voorstand kraaid , Zult gy met in-en voor-en tegenspraak ligt manken , Dat zelf de wysheid daar alle oeffening zal staaken , En dan is 't verr ' genoeg , haar vrinden , voogden , zoons , En konst beminnaars , dan door veel verwyts , en hoons , Wanlustig , dof , en moe gemaakt door uw verachten , Niet eens na Febus , of zyn ' gaaven zullen trachten ; Aldus krygt Onverstand , ons aller Vorst en Heer , Het wettige bezit , van deez ' tyds lett'ren weêr .	HeavyHeartedness_Joy_Emotion_Disgust
+bidl001nede01_01.TEI.2.text.body.div.div.sp.526.s.1	Maar eer ons Yver , of een van hun Volk kom stooren , Laat ons de lessen , die Pedant u gaf , eens hooren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.564.s.1	'K zal zeggen , wat ik wel het meest Onthouden moet ; wat iemand leest , Of schryft , stout tegenspreeken , Geduurig toepen , 't zyn gebreeken !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.564.s.2	En 't geen u diend , gelijk als my , In alle slag van rymery , En lettetkryg niet weêr te schryven , 'T geen voor ons eigen werk moet blyven ; Want hoe die list ons is gelukt , Weet , schoon zy eens moet zyn gedrukt , Eu eenmaal slechts tooneel kou houwen , Elk , die 't begekkende aan kwam schouwen . 'T is veel dan , ja schier al te veel , Zo wy te met uit Frans een deel , Van een vertoonstuk overzetten : Dus blyft men vry van regels , wetten , Van houding , schikking en wat meêr , Den speele - dicht'ren van hun ' eer Berooft ; zo zy 't , als wy , begrypen , Ik moet mijn ' hersenen wat slypen , Om uit dit Frans , dit Grieks , Latyn , Te leeren , wat konstwoorden zyn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.564.s.3	Hoe moeijelijk zy mogen weezen Om zeggen ; 'k moet nochtans niet vreezen . 'K spreek , schoon ik niet weet , wat het is , Van Episode , Epithesis , Van Hyperbolen , Catastrophen , En zulk een goed ; van Eitososen , En Redenaars ; maar 'k letter op ; Myn ' wysheid kreeg aars ligt de schop , Dat niemant in myn woord kan vallen , Bestraftmen my , 'k zeg niet met allen Ter zaak , maar vang een deuntjen aan , Zo 't schelden niet wel door wil gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.566.s.1	Achrerklap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.574.s.1	Gy zyt aldus genoeg gewapent om den drempel , Ja al de waardigheid te schenden van dien Tempel , Ik geef my onder 't Volk Gy , hou een oog in 't zeil .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.572.s.1	Tegen Twist .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.580.s.1	Ik ga naar Midas , op dat ik hem mededeil , Hoe myn gezantschap tot dus verre is afgeloopen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.586.s.1	Daar komt de Onzydigheid , nu staat wat goeds te hoopen , Z ' is hevig , zo het schijnt , wijl Yver haar verweerd .	Emotion_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.586.s.2	Wy gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.593.s.1	Ik schuil Nu toon , het geen gy hebt geleerd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.591.s.1	Tegen Bedilal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.595.s.1	Zesde tooneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.598.s.1	Onzydigheid , vrolijheid , Yver , Berispal een weinig ter zyden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.600.s.1	Onzydigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.603.s.1	Gy vorderd my , 't is wel ; ik zal 't nu zelf gaan hooren , Maar moog'lijk hebt gy nu iets zedigs uitgekoren ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.605.s.1	Yver .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.608.s.1	Men zal nu doen , gelijk men altijd heeft gedaan , Ik ben verantwoord , als gy 't zelf wilt hooren gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.623.s.1	'T is niet genoeg , dat Staat en Kerk blijft onbesprooken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.623.s.2	Vaak legt ook scherpheid in een dubb'len zin gedoken , De dertelheid door konst zo wel bewimpelt , dat De eenvoudigheid in 't eerst de vuiligheid niet vat ; Maardoor gebaar , en meêr als eens te zien , of hooren , 'T vergift gewaar werd , dat niet kenbaar was te vooren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.623.s.3	Ik cisen een destigheid in zaaken , en in taal ; De waereld wysheid zelf , leerd op de scherpe schaal Van eer en billikheid , en wetten aller weegen , Om tegens rust , noch recht , noch reden iets te pleegen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.623.s.4	Hoe kan ik dan te veel u raaden , om 't gezicht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.623.s.5	Noch 't oor te kwetzen met of geil , of steekgedicht ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.640.s.1	De Nijd en Achterklap kan ligt iet haatlijk noemen , Optygen , dat men 't vuil met voordacht wil verbloemen ; Want wylze ommagtig zyn om iets te maaken , 't geen , Vermaak en leering geeft , aan heeren , of 't gemeen , Is al hun werk , en vreugd , eens anders werk te laaken , Verkeerde uitlegginge , en beduitzelen te maaken .	Joy_Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.640.s.2	Maar hoor nu , of men ooit uw ' zuiverheid misdoet ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.640.s.3	De burgerplicht werd steeds in mijn beleid gevoed . 'K geef schildery in taal , hoe boosheid werd verdreeven , En deuglijke eerzucht met vernoeging opgeheven .	Honor_Emotion_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.640.s.4	De zedenplichten , en behoorlijke ommegang Met hooge , en laage , gaan in myn gezag in zwang .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.640.s.5	De stemmigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.642.s.1	Vrolikheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.1	Die werd althans zo zeer gepreezen , Dat op uw Schouwtooneel myn rol haast uit zal weezen . 'T heet , als men maar een ' woord van jok of boerten zegt , Dat dus de weg tot alle onkuisheid open legt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.2	En wie , wie zyn , die dus op myne zeden smaalen ?	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.3	Myn doen by u , by my uw doen op 't haatlijkst maalen ?	Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.4	Geloof , Onzydigheid , 't zyn menschen , die de magt , Door list , of deugd ontbreekt , om zich alom geacht Te maaken door hun penn '; maar lacht met volle monden , Om 't weezen van de deugd ; men vind gestadig vonden , En naamen tot hunn ' smaad ; men noemt haar stuurs en stijf .	Joy_Emotion_BodilyProcess_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.5	Gy strekt den Nijd en Twist een heim'lijk tyd verdrijf .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.6	My schendmen al te los , en houd alle oogenblikken , Onhebbelijk gesprek , en grillen kwinten kwikken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.7	Laat ik , Onzydigheid , eens zonder veinzen raân , Sla acht op al myn doen , ik zal 't op uwe slaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.8	Gv zult uw ' toestand voort tot myne blijdschap gunnen , Waar in de deugd ook zelf zich zou verheugen kunnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.1	Dat gy dan wederzyds op my te onvrede zyt , Gy my te groote vreugd ' , gy straffe taal verwyt , Komt niet , of uit u beide , of toestand myner zaaken .	Joy_Emotion_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.2	Vorst Onverstand weet nu een twistrot op te maaken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.3	Om de eer van Febus kroon , ten deele my betrouwt Te schenden , eer en konst , en oeffening zo stout Te last'ren , dat geen geest my hulp zou durven leenen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.4	Men hoord geleerdheid , als gedoemt , in banden steenen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.5	De wysheid laat zich maar by weinige nog zien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.6	De letter-oeffening ; moet als ter sluik geschiên : Want komt een haater van de kunst die vlijtter ooren , Zo heeft die yv'raar reeds zyn ' goeden naam verlooren .	Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.7	Indien ook Febus in deeze inbreuk niet voorziet , Zo raakt Geleerdheid , en zyn ' achting , heel tot niet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.8	Och !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.9	mocht Geleerdheid eens nog voor myn ' oogen komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.682.s.1	Bedilal ter zyden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.686.s.1	Nu ik hier spreeken zal , begint myn hart te schroomen .	Emotion_BodyPart_BodilyProcess_Shame
+bidl001nede01_01.TEI.2.text.body.div.div.sp.690.s.1	Van wat voor geesten word Vorst Onverstand gediend ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.695.s.1	Hy houd , afgunstige en onweetende te vriend , En de Onbeschaamtheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.695.s.2	Maar wie komt ons hier begroeten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.705.s.1	U komt verzochte kunde in letteren ontmoeten , Geleerde ervaarenheid , omzichtig oordeel , en Op datmen met een naam myn eigen eernaam ken , 'K ben Criticus , bekwaam in alle slag van schriften , De taal , de zaaken , en haare ordening te schiften . 'T vereischte tot den zin , het hooge , en laage net Te toetsen , of 't naar tyd , en plaats is neer gezet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.708.s.1	onzydigheid tegen Yver .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.710.s.1	Dit zal geleerdheid zyn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.716.s.1	Al zacht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.716.s.2	Zo groote gaaven Bekomtmen na zeer lang , in wetenschap te slaaven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.716.s.3	Gy schynt nog jong te zyn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.722.s.1	'K ben in der Muzen schoot Gewiegd , en opgevoed ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.727.s.1	Voorwaar , 't geluk is groot , Indien gy zyt de geen , die gy ons zegt te weezen .	Emotion_Happiness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.733.s.1	'K heb schristen oude en jong ' , door ende door geleezen : Maar 't meerendeel is tijd , noch vlytige aandacht waard , Zy vliegen in de lucht , of kruipen laag by de aard .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.737.s.1	Wier schriften las gy meest , van die History schryven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.741.s.1	Wel de oudste , en de allerbeste .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.746.s.1	En welke krijgsbedryven Beschrijft Salustius ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.750.s.1	Die schrijft van krijg en slaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.754.s.1	Wel nu Demosthenes ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.758.s.1	Daar heeftmen niet veel aan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.762.s.1	Wel Nazo nu ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.766.s.1	He !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.766.s.2	wat ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.770.s.1	Wat heeft die al geschreeven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.774.s.1	Wie vraagje ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.776.s.1	Yver	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.778.s.1	Ovidius ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.783.s.1	Dat 's een Poeët , zo even Las ik nog , Titere tu patule .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.790.s.1	Me vrind ; Ik wed , dat gy dat in Ovidius niet vind ; Maar in Vergilius .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.802.s.1	'K hebme in den naam verzonnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.802.s.2	Maar 'k zou u duizende van schryvers noemen konnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.802.s.3	Als Tacitos , en als Tibullus , Martiaal , En Titus Livius , ik ken hen altemaal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.802.s.4	Ik ben een Criticus , een zeer groot Literator .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.802.s.5	De Muzen naamen my wel zeker tot Dictator , Ten waar zy aan Apol , die nu de Poëzy Niet wel laat handelen , door zek're tiranny Verbonden waaren , roem en groot ontzach te toonen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.808.s.1	Ei , toon my uw vernuft , ei wil een vraag verschoonen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.808.s.2	Wat Griek beschrijft de twist , gelijk een stedepest ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.808.s.3	En wat Romein leert toch de goede zeden best ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.813.s.1	Die 't klaarste , en netste ... maar wat zyn dit al voor vraagen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.813.s.2	Begeerje , dat ik Grieks zal spreeken ?	Emotion_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.818.s.1	Myn behaagen Zou weezen ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.824.s.1	Cicero , Erasmus , Plautus , Hooft , Beschreeven boeken : maar 't schynt dat gy 't niet gelooft , Waarachtig , lees ze .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.826.s.1	Vrolijkheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.829.s.1	Ei zeg , wie schreef de meeste kluchten , In d ' ouden tijd ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.833.s.1	Wel die in potzen vond genuchten ,	Joy_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.837.s.1	Hoe heeten ze ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.843.s.1	Wat's dit !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.843.s.2	wel ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.843.s.3	Plautus , en laat zien , 'T geheugen kwelt me wat .	BodilyProcess_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.848.s.1	'T vergeeten meest misschien , Maar mooglijk hebt gy dat niet veel gevergt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.854.s.1	De zeden Van kryg , en kerk , en hof , en andere plechtigheden Der voorige eeuwen , wie verhandeld die wel 't netst ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.858.s.1	Wie heeft de heerschappy van Syrien geschetst ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.863.s.1	Wie Bachanaalen , wie geboorte , en zegefeesten , Beschreeven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.878.s.1	O gy zijt een hoope botte beesten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.878.s.2	Gy vraagd alleenig my , wat meenje , dat men dus , Een man van studiën , een Archicriticus Mag handelen ?... die de schoolen , en Professooren ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.878.s.3	Maar 'k mag de naamen van dielompen niet meêr hooren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.878.s.4	De Faculteiten , en gelijk geleerdheid ... en De studien ; maar 'k weet niet , hoe 'k zo raazend'ben , Dat ikze noemen mag : men zou geen Yver vinden , Ten zy ik met vijf zes van myn ' geleerde vrinden , Hen gaande hiel .	Emotion_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.878.s.5	Doch elk is magtig om alleen , De dicht-konst , die nu leid , te helpen op de been , Apollo en zyn konst ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.882.s.1	Gy kent my ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.886.s.1	Neen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.891.s.1	Yver tegen Onzydigheid ter zyden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.896.s.1	‘ Die logen Zal blyken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.896.s.2	Maar 't gaat wel , hy heeft zich zelf bedroogen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.896.s.3	Hy heeft iets kwaats in 't zin .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.896.s.4	Ik ken hem al , zwyg stil , Laat my begaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.904.s.1	Wanneer ik iet verbet'ren wil 'T geen kwalijk is gemaakt , zo word ik nog gelastert .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.904.s.2	Wat zyn de schryvers van deeze eeuw ook al verbaslert , Die myn ' Verbeeterlust ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.908.s.1	Wie noemje ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.1	Zie my aan , Zo zult gy , wien ik meen , gemakkelijk verstaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.2	Wilt gy iets weeten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.3	vraag , 'k zal zwygende antwoord geeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.4	Zie op myn rug , zo gy tot pleitrecht werd gedreeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.5	Behaagd Genees-kunde u ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.6	zie op myn rechter zy .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.7	Zo letterweetenschap of grond van rymery ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.8	De Mathematica , Rethorika , of 't schryven , Van Aristoteles , of Kartes u kan dryven Tot oeffening ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.9	kom hier , 'k ben een Catalogus , Communis locus , of bevat gy 't best aldus , Een Concordantie van al 's waereld weetenschappen , Die strydig schynen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.930.s.1	O wat leid die vent te snappen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.930.s.2	‘ Ei ondervraag hem van de Dicht kunst nu doch eens .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.928.s.1	Tegen Yver .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.932.s.1	Yter .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.934.s.1	Je weet dan alles .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.943.s.1	Dat is iets ongemeens .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.943.s.2	Zo weetje ook , hoe men moet , en Treur-en Blyspel maaken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.953.s.1	Dat is voor my geen ' kunst , dat zyn myn ' minste zaaken , Hier aan bestee ik maar de snippers van myn tijd , Wanneer geen werk my lust van naarstigheid en vlijt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.953.s.2	Puntdichten , is myn werk , als ik myn pruik moet kem ; men Ha ! 't rymen is geen ' zaak , die kan by Wyzen klemmen . 'K vertaal uit Fransch by na ook zonder woordenboek .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.957.s.1	Ja zeker zo geleerd ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.964.s.1	Dat 's dat ik 't meeste vloek , Terwylmen hedendaags noch spel , noch dicht kan vinden ; Dat deugd , en die 't alhier zich durven onderwinden Zyn ongeletterde , en onweetende .	EmotionalAction_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.966.s.1	Onzy digheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.974.s.1	Ik ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.974.s.2	‘ Ei Zwyg , Tot ik dien windvang nog een weinig vaster kryg .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.974.s.3	Gy bebt dan zekerlijk veel ' stukken ook geschreeven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.970.s.1	Yver ter zyden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.980.s.1	O !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.980.s.2	ja , maar 'k schroomze in 't licht of aan 't tooneel te geeven ; Daar niet een stuk van kracht nu langer werd gezien .	Emotion_Shame
+bidl001nede01_01.TEI.2.text.body.div.div.sp.980.s.3	Ik achtze waardiger , dan dat ikze aan zou bien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.984.s.1	Maar waarom niet gedrukt ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.989.s.1	Men zouze daadlijk speelen , Een ander in 't genot , ik in de moeite deelen .	Joy_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.994.s.1	'K geloof dat niet , en ook wie weet , of 't waarheid is , Dat gy iets hebt gemaakt ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.994.s.2	Ei laat eens zien ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1010.s.1	Wel wis , Dat toont men zo .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1010.s.2	O neen !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1010.s.3	ik schrijf nu scherpe nooten , Aantekeningen ; 'k zal nu woorden van me stooten , Die dichters weeten van Caracters , noch van trant , Van Episoden , nog Catastrophe ; 't is schand ' , Zy weeten van Cesuur , noch scherpe ot zachte accenten ; Van taal , constructie , niet de minste rudumenten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1010.s.4	O dat de Schouwburg my , en zyn belang begreep !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1010.s.5	Die wierp die vodden , al die prullen , al dien sleep In 't vuur ; 't zyn vodden , die geen ' menschen kunnen pryzen , Daar houding , tijd , noch splaats , noch kunst in is te wyzen Ook speelt men kluchten , die te vuil zyn voor de jeugd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1016.s.1	Ik weet niet , wat gy hier zo dol al snappen meugt !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1016.s.2	Al leefde Kato zelf , hy zou ' er niet op kyven .	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1016.s.3	Gaat ge op den Schouwburg wel ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1022.s.1	Wat zou ik daar bedryven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1022.s.2	De speelders , het tooneel , de lichten , en de bak , De speelen , en 't muzilk , 't deugd al niet ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1028.s.1	Met gemak . 'T is lang genoeg .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1028.s.2	Dit 's een van die geleerde mannen , Die tegen my , en u , met kracht te zamen spannen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1032.s.1	Ik ben Verbeterlust .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1047.s.1	Ik zal van dichte by , U eens bezien ; dien rok , die letter-mommery , Die schyn-geleerdgeid , u eens van de schoud'ren haalen , Bedilal ; waar 's uw ' kunde in allerhande taalen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1047.s.2	Zie , waar Onweetenheid de menschen me bedriegt , Een naam vijf zes uit 't Grieks , en daar men nog om liegt , Hoe dat m'er aan geraakt , kan nu die stoute kaaken , En onbeschaamtheid volgt , in naam den Dichter maaken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1047.s.3	Dit zyn ze , die elk een berispen , en verbiên , En niet een stippel van geleerdheid laaten zien ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1041.s.1	Neemt hem den Rok met opschriften af .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1052.s.1	De Critica ... ik zeg het nazien , onderzoeken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1057.s.1	Laat zien , wat hebt gy daar ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1057.s.2	zie hier , zie hier de boeken , De letteroeffening van deezen gaauwert .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1062.s.1	'T zyn Historien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1068.s.1	Dat 's waar , dat is van Valentijn , Dat van Grizella , en dat zyn bord , en luiffel schriften ; Dit is de loskop , Leerd dit zin en woorden ziften ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1071.s.1	Yver haalt een rol papier uit zyn zak .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1075.s.1	Wat is die lange rol ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1081.s.1	Het is een Alfabet Van braave Schryvers .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1081.s.2	Zeg , waar toe zyn hier gezet Die lett'ren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1081.s.3	spreek .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1086.s.1	Dat is , dat zyn ... ik wilt 't niet zeggen , Hoe zou een Criticus ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1097.s.1	Zo gy 't niet uit wilt leggen , Zo brengt men u geboeid voor Febus , en aldaar Zult gy 't gebruik voort van die lett'ren wel klaar Beduiden moeten ; spreek , eer gy 't door dwang moet melden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1097.s.2	Voorvechter , stechte gits der onbedreeve helden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1097.s.3	Waar is de kunst , daar gy zo veel gerucht van maakt , Dat elk van 't hooren walgt ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1097.s.4	Wat staat dat wyshoosd naakt ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1097.s.5	Waar zyn die lett'ren toe ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1105.s.1	Omiets van't boek te weeten , Als R. is Rechtgeleerde , en P. dat zyn Poeëten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1105.s.2	Deeze L. is Letterkunde , en M. is Medecijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1105.s.3	De H. Historien , G. Grieks , de L. Latijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1114.s.1	En gy durft ieders schrift verachten , en verdoemen ?	Emotion_Disgust
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1114.s.2	De wetten van Apol uw geest onwaardig noemen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1114.s.3	Ga heen , zeg Onverstand , en zyn geheimen raad , Dat hem , indien hy niet zyn muiten achter laat , Apollo , niet als my den Zangberg zal ontzeggen , Maar aan hunn ' ondergang gewis de handen leggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1118.s.1	Myn dekkleed ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1122.s.1	Fluks van hier .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1129.s.1	Ga heên , eer 't hooger loopt , En gy uw vuiligheid met zwaarder straf bekoopt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1129.s.2	Van hier gehaate pest der lett'ren , eer myn ' handen , U na verdienste en recht bestraffen .	Emotion_Hatred_BodyPart_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.head.1131.s.1	Zevende tooneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1133.s.1	Onzydigheid , Vrolijheid , Yver .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1141.s.1	Laat de banden Van onze vriendschap nu , ô waarde Onzydigheid !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1141.s.2	Nog vaster zyn als ooit , tree nu door my geleid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1141.s.3	Voort zonder schroom of vreez ' , naar myne Schouwtooneelen .	Fear_Emotion_Shame
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1141.s.4	Zie , hoe wy oud en jong met jok en ernst daar streelen .	EmotionalAction_Other
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1149.s.1	Ik merk , dat Onverstand , door Achterklap en Nijd , En aangestookte Twist , uw eer en rust bestrijd .	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1149.s.2	Gedenk steeds aan uw plicht , 'k zal met u derwaarts treeden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1147.s.1	Tegen Vrolijkheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.1152.s.1	Vrolijkheit .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1155.s.1	'K zal zedig blyven , en in alle vrolykheden , Den teugel houden , schoon de tijd die had gevierd .	Joy_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1161.s.1	Ik gaslaan , dat myn naam , wel eer zo schoon geçierd , Door yverige liefde ook heerlijk weêr mag bloeijen .	Emotion_Love
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1161.s.2	De roem van Febus , en zyn negen Zusters groeijen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1168.s.1	Gy moet hem weeten doen , wat hier is omgegaan . 'K zal naauwer acht op die my komen spreeken slaan . 'K geloof , dat Achterklap my zelfs heeft onder houwen , En Nijd in schijn van deugd , deeze onrust ons gebrouwen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.1170.s.1	Achtste tooneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1173.s.1	Twist , bedilal , verbaast uit .	Emotion_Wonder
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1177.s.1	EN waarom spraakt gy niet , zelf zynde hier omtrent ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1186.s.1	'K ben al te wel in dit gekleurd ' gewaad bekend .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1186.s.2	Men zal die trotsheid hen eerlang met kracht verkeren .	Emotion_Pride
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1186.s.3	Nu helpt geen raad , als zich tot Onverstand te keeren , En openbaar geweld te pleegen , want wy zyn Te veel in u ontdekt ; maar kost gy in dien schyn Niet , als wy altijd doen , staan roepen , baaren , schreeuwen ?	EmotionalAction_Other
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1191.s.1	Men vroeg van zaaken , en van Schryvers , daaden eeuwen , Die op den rol niet staan , en daar ik nooit om dacht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1202.s.1	Ik vind niet raadzaam , dat men Achterklap hier wacht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1202.s.2	Laat ons ten hove , aan Haat , en Nijd aanstonts vertellen ; Want dus is Febus , noch zyn luister niet te vellen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1202.s.3	Men brenge Onweetenheid , en al wat lett'ren haat , In 't harnas , dit 's het naaste en zekerste beraad : En Koning Onverstand , moet hier den meester speelen , Of ondergaan , en wy ook in zyn ' rampen deelen .	Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1205.s.1	Na dat de Gordijn gevallen is .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1205.s.2	Belachal , Nieuwsgierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1214.s.1	HA !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1214.s.5	wat dunkje van Dit zeer aanzienlijk eed-gespan ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1214.s.6	Wat zal ' er nog een huisje leggen !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1214.s.7	Komt Febus eens ter deeg aan 't zeggen ; En van het zeggen tot het slaan !	EmotionalAction_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1214.s.8	Ik meen na Midas toe te gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1218.s.1	En toch , om wat by hem te maaken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1223.s.1	Om , als zy nu in oorlog raaken , Te dienen voor een goed Spion .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1228.s.1	Dat deugd niet ; want zo 't Febus won , Wat zouje dan niet wedervaaren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1236.s.1	Ik zal 't wel met een lachje klaaren . 'K heb in den oorlog meêr gediend , En had vaak d'een en d'aar te vriend ; Ik hou 't met hen , die boven komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1236.s.2	Dien meê .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1242.s.1	Neen , neen , 'k heb voorgenomen Als reiziger eens aan te zien , Wat in deez ' optocht zal geschien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1244.s.1	Einde van 't Eerste Deel .	None
+bidl001nede01_01.TEI.2.text.body.div.head.1248.s.1	Vertooners , Van het Tweede Deel .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1250.s.1	Apollo .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1252.s.1	De Zanggodinnen .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1256.s.1	Reden .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1264.s.1	Onweetenheid .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1266.s.1	Sprinkhaan .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1268.s.1	Horssel .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1270.s.1	Blaaskaak .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1272.s.1	Wakkerheid , Deugd , Recht ,	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1274.s.1	Wildzang .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1276.s.1	Spinnekop ,	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1278.s.1	Twee Roovers .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1280.s.1	Speldezoeker ,	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1282.s.1	Bitebaauw .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1284.s.1	Dodeers .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1286.s.1	Drekvlieg ,	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1288.s.1	Boefje .	None
+bidl001nede01_01.TEI.2.text.body.div.stage.1290.s.1	Het Zinnespel vertoont zich op den dag ; verbeeldende het Tooneel een boschachtig Landschap .	None
+bidl001nede01_01.TEI.2.text.body.div.stage.1290.s.2	In 't verschiet ziet men den Berg Parnas .	None
+bidl001nede01_01.TEI.2.text.body.div.head.1293.s.1	Tweede deel .	None
+bidl001nede01_01.TEI.2.text.body.div.stage.1296.s.1	Apollo , de Negen Zanggodinnen .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.1317.s.1	GY weet , Gezusters , hoe in spyt van myne wetten , Een schuym van menschen , my den voet zoekt dwars te zetten , Geworven en gefterkt door Koning Onverstand , Den ruwen Midas .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.1317.s.2	Hoe zyn heir den standaart plant , Tot myn en uw bederf , hoe hy myn roem durft krenken , En ieder plaagen , die maar om myn ' komst durft denken Nu wil hy , dat myn krans zyn ' Ezels ooren dek ; En deeze goude harp , hem tot een speeltuig strek . 'K heb om dien eisch , dien hoon te weig'ren en te wreeken , Myn Veldheer Reden zich doen in het harnas steeken .	Emotion_Disgust_Vindictiveness
+bidl001nede01_01.TEI.2.text.body.div.sp.1317.s.3	Om dit gedrocht , een vloek , voor 't algemeene best Der letteren , gelijk een haatelijke pest , Te veegen van der aard 'K verwacht alle uur ' te hooren , Hoe 't met de legers , en myn aanslag , staat geschooren .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.1317.s.4	Daar komt Nieuwsgierigheid , die zal ons doen verstaan , Hoe alles in , en voor den stag is toegegaan . 'K verlang te hooren , hoe myn ' eer is waargenoomen , En hoop myn ' vreugd ' te zien , als Reden weêr zal komen .	Joy_Emotion_Hope_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1320.s.1	Nieuwsgierigheid , Apollo , Zanggodinnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1336.s.1	LAng leef der konsten Voogd , lang leefhet Negental Der Zanggodinnen ; 't leed en dreigend ongeval Der Muit'ren is gedempt ; men zinge zegezangen , Om Reden vol van deugd metblyde groet te ontfangen .	Joy_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1336.s.2	Dat nu 't behoorlyk licht van uw ' vergode zon , Parnas vergulde , en schitt're in 't nat der hengste bron , Om met versterkten glans de waereld aan te zeggen , Dat Koning Onverstand den staf staat neêr te leggen . 'K heb , als een reiziger , elks oorlogs magt gezien , Hoe Reden , Wakkerheid , en Recht uw volk gebiên , Hoe stoutheid en beleid zich elk om 't braafste kweeten ; Oprechtheid stand hield , en bedrog wierd neêrgesmeeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1341.s.1	Hoe deed zich 't leger op der vyanden ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1341.s.2	hoe droeg Myn Veldheer Reden zich ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.1	Zo dra hy opkwam , joeg Hy hen den doodschrik aan .	Fear_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.2	Op 't klink en der trompetten Van lust , en naarstigheid , beval hy 't heir te zetten , In zyn ' slagordening , en wachte 't leger af Der Muitelingen , dat zich breet op 't veld begaf .	Emotion_Desire_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.3	Trompetter Blaaskaak liet zich boven and'ren hooren ; De Trommel van kwaasnap vervulde alom elks ooren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.4	Hun legerkreet was , sla Apol ten zangberg uit !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.5	De dolle Onweetenheid , wie nu geen reden stuit , Hield voor de bende stand , en stutte d'Ezelstandert Als Veldheer .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.6	Nijd in schijn van Weetenschap veranderd , Gedroeg zich als Heraut , en las de wetten af , Die Koning Midas aan dit vliegend leger gaf , Om op Geleerdheid , Kunst , en Kennis toe te springen , De Wysheid , Deugd , en Eer , ter waereld uit te dringen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.7	Wie zich in dienst begaf , wiert tot zyn troon geleid Door Onbeschaamdheid , die als Zedemeester vleid , Al die vervremt van roem , alleen hun wel zyn stellen , In schriften weg te doen , en dieze schryft te kwellen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.1365.s.1	Apollo	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1367.s.1	Wien bragt hy ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1367.s.2	want ik kan de meesten niet , in 't veld ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1386.s.1	Hy onder schraagde in 't eerst zyn haat , en dol geweld Met volk , wien eigen liefde in t ' hart stond opgeblaazen , Als zy hun eerste schrift gedrukt voor vrinden laazen , Die onvoorzichtig om te voeden deeze vlam , Hen preezen , daar terstond de hovaardy door kwam , Die hen verhinderd heeft in uwe gunst te raaken .	Emotion_Hatred_BodyPart_BodilyProcess_Love_Pride
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1386.s.2	Maar dit bragt weinig aan , nu diend hem at wat taken , Verfoeijen , schreeuwen , of maar achterklappen kan .	EmotionalAction_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1386.s.3	Die overlast durft doen aan een geletterd man , Of vrouw , werd op een plaats van eere in 't heir ontfangen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1386.s.4	Men weet , wat ieder voor een schimpdicht moet erlangen .	Emotion_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1386.s.5	Die wat in 't drukken smoord , of 't handschrift van iets goeds Vernielen kan , werd voort met vreugd ' , en veel gestoets , Het leger door geleid , gekroond met netelstruiken , En tot den middernacht getoetst met volle kruiken .	Joy_Emotion_EmotionalAction_Other
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1390.s.1	Hoe is hunne oeffening der letter waap'nen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1407.s.1	Vremt ; Want wijl geen zedevorm hun wilde zinnen temt , En alderhande slag van Geesten by hem schoolen , Staat ligt te giszen , hoe die letterhelden doolen , Daar ieder meester van een onbeschaamde tong Durft zeggen , dat hem haat , of wijn , te zeggen dwong .	Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1407.s.2	Daar de een den ander prijst , daar tien te zaamen schryven , En geen van al iets groots , kan in zijn ' konst bedryven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1407.s.3	Nog zyn'er onder , die aan d ' and'ren hoop te kloek , Zo dra zy eenig vaars , den maak'ren om den hoek Verasschen , dit voor 't hunne in alle plaatsen veilen , Dan twist men om den roem , die zwaarlijk valt te deilen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1407.s.4	Ten zy de goede wil misschien ook dit verdiend , Dat ook de rijmkonst , botte , en booze heeft te vriend .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1411.s.1	Hoe ging de Veldslag toe ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.1413.s.1	Nieuwschierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1422.s.1	Zo dra uw rechter vleugel , De ligte benden , die met losgelaaten teugel Verscheenen , naakte , ontviel haar 't hart , de likkevaan ...	Fear_BodyPart_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1422.s.2	Maar 'k hoor een zegekreet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1422.s.3	Daar komt uw Veldheer aan . 'T past hem te ontvouwen , hoe uw vyand wierd geslagen , 'K zie hunn ' standaarden , en verwonne wapens draagen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1422.s.4	Een hoop gevangens volgt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1426.s.1	Men tree hem te gemoet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.1428.s.1	Derde Tooneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1438.s.1	Reden met zyn Gevolg , en Zoldaaten , Wakkerheid , Voorzorg , Recht , en anderen , draagende gewonne wapens , en standaarden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1438.s.2	Onweetenheid , Wildzang , Drekvlieg , Boeple , Speldezoeker , Belachal , Sprinkhaan , Krygsgevangenen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1438.s.3	Apollo , de Zanggodinnen , Nieuwsgierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1444.s.1	BEroemde Veldheer , en gy Helden , weest gegroet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1444.s.2	My lust in 't breede nu den letterstryd te hooren , En wien gy dus geboeid , den zangberg brengt te vooren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1450.s.1	De ligte bende liep in 't eerste van den slag , Terwyl Ervarenheid , die op haar luimen lag Haar nazette , en ontwrong dit roode legerteken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1452.s.1	Werd vertoond een rood Vaandel , waar in kannen , en glazen , en toebaks pypen in geschilderd zyn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1454.s.1	Met dit byschritt : Studia & mores convenienter eunt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.lg.1454.s.1	Dit rot bestond uit hen , die meêr in kroezen keeke Dan boeken ; uit een tal steen-slypers , en een hoop Van helden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.lg.1454.s.2	by wien eed , en woorden zyn te koop ; Uit ligte vinken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.lg.1454.s.3	en baldadige eere schenners , Uit losze zielen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.lg.1454.s.4	en bedurve geeste kenners .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1463.s.1	Een schoone bende om hand aan letteren te slaan ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1468.s.1	De Wakkerheid , myn steun , ontrok hen deeze vaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1470.s.1	Een half groen en geel Vaandel , waar in een Narrekap geschildert staat .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1473.s.1	Met het opschrift : Cubiculum Locandum , op een Uylenhoofd met bellen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1477.s.1	De kleur geeft geest en kracht van 't Regement te kennen ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1491.s.1	Hier onder dienden als geleerde , al die met pennen , Papier , en boeken , inkt en schritten om moet gaan , Papierverkoopers , en die 't werk des druks verstaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1491.s.2	Ook die de stad alleen met uitgebraakte prullen , Van lietjes , loopjens , en verboden rymtjes vullen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1491.s.3	Ook zag men reien , welke uit volk bestooden , dat Door spel en ledigheid zich zelf vergeeten had .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1491.s.4	De voortocht van dit rot , bestond uit arge zielen ; Die de onervarene lang voor Poeëten hielen , Maar wel by my bekend , nooit wisten wat het was , Wanneer men hen een vaars of schrift te vooren las .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1495.s.1	Wie voerde deeze vaan ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1506.s.1	De vendrig Onbezonnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1506.s.2	Zie hier den Hoofd-standaard van 't Muitend heit gewonnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1506.s.3	En stoute Onweetenheid , wien deeze is toebetrouwt , In uw geweld gebragt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1501.s.1	Een groote blaanwe standaard vaan , waar in een Kakstoel met Rinkels geschildert staat .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1503.s.1	Met dit opichrift : Plus Ultra .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1511.s.1	Zo gy uw woord my houwd ; Heeft owe Koning op myn leeven niet te zeggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1517.s.1	Gy zult haast weeten , wat Apol u toe zal leggen , Tot straf van uw bedryf .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1521.s.1	Waar houd zich uwe Heer ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1525.s.1	Op Konst-verdriet zyn hof .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1530.s.1	Is Nijd nog als wel eêr By hem in aanzien ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1538.s.1	En Haat ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1542.s.1	Meêr als voor deezen ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1546.s.1	En Achterklap ?!	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1550.s.1	Die kan daar leeven zonder vreezen .	Fear_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1554.s.1	Wie werft hy ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1558.s.1	Die hy ken , ook ken ik ze allen niet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1563.s.1	Dat mislijk schepsel , dat gy in het midden ziet , Heeft hen voor spie gediend , dat zal wel alles weeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1567.s.1	Hy ziet'er lelijk uit .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1567.s.2	Zeg , hoe zyt gy geheeten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1580.s.1	'K heet schoon voor 't oog , of schijn bedriegt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1580.s.2	Belachal , die steeds overvliegd Van vrind tot vyand , en van deezen Tot vrinden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1580.s.3	Vaak gevloekt , gepreezen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1580.s.4	Heer Koning , zo ik vry mag gaan Van straf , en schand , zult gy verstaan Al onzen toeleg , en wat deeze Voor helden zyn , die als verweezen , Als onbeschoste buffels staan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1585.s.1	Wel nu , vang uw ' vertelling aan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1585.s.2	Hoe leeft Vorst Midas , met wat vrinden ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1602.s.1	Meest zal m'er Haat en Nijd wel vinden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1602.s.2	Hy spild veel geld , veel tijd , en eer , ( Maar 't laaste heeft hy nu niet meêr ) Om zyn ' verwaantheid uit te voeren , Uw hof en landen om te roeren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1602.s.3	Maar daar hy ook met u om twist , Is , dat gy grooter Botanist Wilt weezen , als hy zich laat maaken ; En zie , je weet wel , dat zyn ' zaaken , Die Onverstand niet dulden kan ; En zo komje aan den oorlog dan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1602.s.4	Hy wil met kracht vernuftig heeten En daarom , doet hy door Poeëten Zyn naam verbreiden , dag en nacht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1606.s.1	Waar in bestaat zyn ' oorlogs magt ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1630.s.1	De magt van onze regementen Bestaat uit moeylijk zoort van venten , Uit blaffers , ramlaars , en een goed , Ik weet niet , hoe men 't noemen moet , Dat zonder taal , of kunst te kennen , Den Zangberg op , en door wil rennen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1630.s.2	Vorst Midas Onverstand , myn Heer , ( Maar 'k acht hem daar voor nu niet meêr ) Gai om dit volk wel aan te ritzen , My , 't hoofd van veel vertrouwde spitzen , Heel weinig geld ; maar vollen last , Om al die dienen wou , te gast , By dag en nacht , in 't hof te nooden ; Ik wierd op Konst-verdriet ontboden , Als ik een held te voorschijn bragt , Die maar om rymen had gedacht ; Om zulke was men meest verlegen , Die met hun ' hekeldichten , tegen Uw Veldheer Reden zouden staan ; Gelyk die gy ziet voor u staan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1634.s.1	Dat weezen kwam my meêr te vooren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1639.s.1	Hy liet zich in uw school vaak hooren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1639.s.2	Maar zie eens toe , lijkt dat geen Man ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1643.s.1	Na 't uiterlyke , ja .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1661.s.1	Let dan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1661.s.2	Dat weezen stil , en vroed geschaapen , Leeft even , als de onkundige apen , Hy volgt in zyn ' onnozelheid ; Al wat voor goed word voorgezeid ; Ziet hy de Jagers de oogen wasschen , Hy valt terstont ook aan het plassen , Niet denkende op het geen hy vind , Wascht hy met lym zyne oogen blind , En moet bedroogen , door hun ' laagen Voorts leeven na hun welbehaagen , Hy schrijft al wat Vorst Midas wil , Of houd zich vreedzaam , vroom , en stil , Ja zelfs gevangen van zyn ' heeren , Meent hy hen veel te kunnen leeren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1666.s.1	Beschrijf hem , die zo stout my onder de oogen treed , Al morrende op zyn volk	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.1669.s.1	Onweetenheid , tegen eenige Gevangenen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1673.s.1	'T was .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1673.s.2	dat gy u niet kweet , En al den legerlast , op myne en 's Koning lenden Gedeukt hebt ; ziet nu , ziet , al onzen kryg ten enden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1693.s.1	Dat groot beladen aangezicht , Dat zich wil bergen voor uw licht , Dat twiste in 't eerste van ons krygen , Ja wou voor Midas zelf niet zwygen ; Bezie zyn ' trony , z'is heel fier , Glyk een opper granadier , Hy is des Veldheers Commissaris , Der Amonitie , Secretaris Des loozen handels , kort , en dom , De roervink van den heelen drom , Een dicht vertaaler , van de speelen , Die me ons uit Vrankrijk meê komt deelen ; Toch zo , dat zo 't uw ' Wysheid ziet , Hem .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1693.s.2	en zyn vrind , den inkt verbied .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1693.s.3	Hy trekt vol moed Apollo tegen , Of spreekt , als Midas raad wil pleegen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.1	O ligt verleide !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.2	schaam u wat , Dat gy dus uit den regel spat .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.3	Wat smaad !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.5	welk een luister schenden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.6	Focy !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.7	dat wy u niet beter kenden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1707.s.1	Nu zeg eens op , wie is die man , Die zo verheven spreeken kan , Gelijk by poozen en by nooten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1707.s.2	Die Sprinkhaan , op zyn ' mugge pooten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1716.s.1	Een Critico Pedanticus , Poëtico Politicus , Mechanico Mechinicus , Een Archiarchi Musicus ; Die spyt de Grieken , en Latynen , Geen vaars spreekt , als in drie termynen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1728.s.1	Ja , 'k ben die Man , en zeg daar by , De Faculteiten zyn in my .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1728.s.2	En vraagje , hoe de Fransche speelen , Hoe Ital ' jaanen hun ' tooneelen Verçieren ; 'k zal aan u terstond , Een antwoord geeven uit den mond Der ouden Wyzen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1728.s.3	die gesleepen , De dingen in den haak begreepen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1733.s.1	Hy luistert na zich zelf , en draait gelijk een haan , Die op het tipje van zyn ' kromste klaauw wil gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1737.s.1	Wat ampt heeft hy by u bediend ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1744.s.1	In 't eerst , als ik , Jan Almans vriend , Die als een weerhaan kraaid , En met de winden draaid ; Daar na was 't , of hy niemant kenden ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.1	Foey hen , die hunne vrinden schenden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.2	Durft gy uw aanziçht herwaarts wenden , Verachter van de gaaven , dien Ik eêr deed in uw ' schriften zien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.3	Het overblyfzel der papieren , Daar hooge vaarsen over zwieren ; Diend , dat nu , om spijt uw gewiz ' , En lettterkunde , en wat nog is In uw vervoerden geest te roemen , Eens anders schrist en eer te doemen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.4	Kan u voorheen geëerde deugd , ( Maar ligt u die niet meerder heugd ) Den vuilen boezem niet doen blaaken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.5	Zo denk .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.6	dat ik u eens zal raaken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.7	Met geeszelingen , dat u 't hart , Lang steenen zal van wee en smart .	Emotion_BodyPart_BodilyProcess_Sadness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1769.s.1	Hy leerde , als schoolvoogd , alle dagen , By torm van antwoord en van vraagen , Hoe ligt men kan voor dichter gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1775.s.1	Zo is daar weinig arbeid aan ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1775.s.2	Wie zyn toch deeze ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1784.s.1	Lanterfanten , Dozyn Poeëten , ligte kwanten , Vervoert door blinde hovaardy , Onmagtig om de wet , die gy Voor braave geesten hebt verkondigt , Te volgen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1791.s.1	heeft hun ' jeugd gezondigt , De laater tijd zal hen misschien , Tot beterschap het kwaad doen zien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1791.s.2	Wie durft zo stout daar schreeuwen , trappen ?	EmotionalAction_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1799.s.1	Die zal van konst nog kennis klappen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1799.s.2	Die is voor geen Poeët bekend , Die zet uw hoofd-school overend , Met tieren , loopen , klappen , fluiten , En onrust maaken .	EmotionalAction_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1807.s.1	Zulke guiten , Schoon met een eerlijk kleed gedekt , moest yder een Als zedeschenners , sta nog zitplaats zien bekleên , Hen nergens , daar men spreekt van letteren , gehengen , Maar als beletzels van alle aandacht buiten brengen ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1813.s.1	Hoe heet dat ding , dat daar zo zingt ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1813.s.2	En als een graauwe krekel springt ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1813.s.3	Wat is het , of wat wil het weezen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1830.s.1	Dat moet men uit zyn leeven leezen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1830.s.2	Ook weet hy zelf niet , wat hy is ; Dat kreng heeft by de paarde pis Eens onverziens den neus gestooken , Maar nooit genuttigt , slechts gerooken , En echter wil 't , ( hoe kan 't bestaan ! ) Voor dichter by de menschen gaan , En hebbende verstand van hegen , Van link ze gangen , en bedriegen , Zo diend het als Ezopus beest Van veeren , zich van ieders geest , Die voor hem wil een dichtje maaken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1830.s.3	Men noemt hem Boefje , by de snaaken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1835.s.1	Wie staat daar zo gevoed en glad , Gelijk een kaarzemaakers kat ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1849.s.1	Die speeld den fynen dicht-geleerde ; Dat 's hy , wiens raad Vorst Midas eerde , Toen hy te zeer op goud gesteld , Zyn hart vond van berouw gekweld .	Emotion_BodyPart_BodilyProcess_Remorse
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1849.s.2	Die wouw een gaauwen geest weêrleggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1849.s.3	Die weet van Grieks gedicht te zeggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1849.s.4	Die spreekt van Aristofanes , Van Eschilus , en Sotocles , Van Sirische , en Hebreuwsche schristen , Op zyn Rabyns in zin te schristen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1849.s.5	Hy hulp , als ons wat overviel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1853.s.1	Hoe is hy dan ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.1855.s.1	Belaghal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1860.s.1	Gelijk bonfiel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1860.s.2	Gy kunt ' er alle ding van maaken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1860.s.3	Hy disputeert in veele zaaken , Een zaak alleen lijd geen dispuit .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1864.s.1	Te weeten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1870.s.1	Dat zyn ' kunst niet stuit .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1870.s.2	Dit 's door , en voor hem zo beweezen , Dat hy geen weêrspraak heeft te vreezen .	Fear_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1877.s.1	Hoe is dat weezen zo verandert , en zo wild ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1877.s.2	Dien kan ik , 'k had hem reedts ter eeren trap getild .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1877.s.3	Hoe Reden , is deze ook op my , en u gebeeten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1881.s.1	O ja .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.1	Wat dolheid heeft uw ' herslènen bezeten ?	BodyPart_BodilyProcess_Despair_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.2	Ga uit myn ' oogen tot uw welbekenden plicht : Besteê uw tijd , als eêr in Treur or Heldendicht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.3	Gedenk de gunst , die gy op heden hebt genooten , Daar veele uit deezen ; of gebannen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.4	of gestooten In boeijens hun bedrijt beklaagen zullen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.5	Gy Op hoop van beterschap , u ziet hersteld en vry .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.6	War Dolkop staat daar by de boomen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1892.s.1	Een der Gevangen binnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1912.s.1	Dat 's Wildzang , dienje daar ziet komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1912.s.2	Deeze , als hem Bromius niet wiegd ; Verbaast by nacht ten bedde uit vliegd , Om hekelschrift in klad te stellen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1912.s.3	Die durft al raazende oordeel vellen , Op al wat schrijft ; terwyl men niet Een letter van zyn ' vinding ziet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1912.s.4	Die staadig zwest op zyn vertaalen , En in de taalen dom loopt dwaalen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1912.s.5	Hy eischt ( wat is die kop op hol . ) De survivanse van Apol ; En wil , spyt wet en ondervinden , Dat u de dood eens zal verslinden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1905.s.1	Sciolus	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1916.s.1	Schrijft hy geen kluchten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1927.s.1	Welk een vraag ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1927.s.2	Gy kend hem niet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1927.s.3	Ja alle daag .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1927.s.4	Hy zelf is een der wildste kluchten , Die immer harssenen ontvluchten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1927.s.5	Hoe kijkje zo ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1925.s.1	Tegen Nieuwsgierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1938.s.1	Kom gy hier meê ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1938.s.2	Gy kende nog het A B C Voorleden jaar niet , watte dingen !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1938.s.3	Komt kraay meê by de vogels zingen Gy zijt wetentig al te goed .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1938.s.4	Wat doeje hier myn lieve bloed ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1938.s.5	Druip stil aan kant , leer eerst wat leezen , Dan kunje meê een Drekvlieg weezen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1944.s.1	Spinnekop gekwest , al de Voorige .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1948.s.1	Wat schreeuwt daar uit zo vollen krop ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1953.s.2	dat 's confreere Spinnekop , Hy lykt gekwest .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1957.s.1	Waar 's hy gevonden ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1959.s.1	Belachal gaat ter zyden by hem .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1963.s.1	Hy zeid , hy kreeg na 't staan twee wonden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1967.s.1	Wat is 't voor een ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1984.s.1	Die 't goed nooit prees , En 't minste kwaad ten vuur verwees ; Die zo geneigt tot kritizeeren , En herrewarren , disputeeren , En hair te klieven is , dat hy 'T fenyn zoekt : als een honingby , Uitlekk're zappen van de kruijen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1984.s.2	En wat zijn konsten doen beduijen , Kan blyken aan die droeve klucht , Die nog in druk en banden zucht - Deeze is Betaalsheer van Zoldaaten , Die nu hun ' vaan , en kunst verlaaten 'T zyn dolle worremen , myn Heer .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1989.s.1	Die naam is my nog nimmermeer , By dicht , of dichters voorgekomen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1998.s.1	Geloof niet , dat hy immer droomen , Of luimen heeft gewaad , waar in , Hem rym of kunst schoot in den zin .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1998.s.2	Wat maakt die man al cermonien !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1998.s.3	Wat draaid dat hoofd !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1998.s.4	hoe gaan de kniën !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1998.s.5	Hy buigt , en strijkbeent , lacht , en schut .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2002.s.1	Waar toe kwam hy uw Vorst te nut ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2017.s.1	Om per memorie op te schryven , Den lof van Midas krygs-bedryven , Hy heeft , al zag men hem niet veel , Zeer groot gezach , en 't meerendeel Der Legerplaatzen , afgemeeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2017.s.2	Wel eêr was 't een der aards-Poeëten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2017.s.3	Verstaat , toen Weetniet met zyn stam , In uwe school te heerschen kwam .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2017.s.4	Ja deed als hoofd te met de muuren , Van Pallas hof zyn ' wraak bezuuren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2017.s.5	Hy is een groot vernufteling , En dient zyn Vorst met hart en kling .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2021.s.1	Wie is die met zyn ' korte hairen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2025.s.1	Dat 's 't hoofd van al de zoetelaaren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2029.s.1	'T is immers geen , die schrijft ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2041.s.2	Maar echter gaat hy in 't gemeen , Daar luiden van geleerdheid wand'len , Niet om van letterkunst te hand'len , Maar om te zyn een Criticus , Zelf subtilissimissimus .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2041.s.3	Hy kan ook al het fyne roemen , Ja ook carakters schier al noemen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2045.s.1	Wat doller Horsel werd daar herwaarsts aangebragt ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2050.s.1	Horsel , by de Voorige .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2054.s.1	Hoe woeld ?	BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2054.s.2	hoe raasd hy dus ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2058.s.1	Hem had ik nier verwacht	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2062.s.1	Zo kend gy hem ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2066.s.2	ja .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2070.s.1	Ter deegen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2085.s.1	Gewis dien heeft u Vorst gekreegen , Gelijk hy altijd is gesteld : Ei , ro myn ' bede by u geld , Laat hem doch om zyn ' losheid loopen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2085.s.2	Die zal zyn ' kennis niet verkoopen , Hy speeld zeer fraay den wilden man , En ziet noch vriend , noch vyand an ; Maar wilje hem het beste leeren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2085.s.3	Laat hem niet meêr by Twist verkeeren ; Op dat zyn ' woestheid neêrgezet , Hy speelen schrijft na uwe wet .	BodilyProcess_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2090.s.1	'T is , of hy droomt , of staat te ronken !	BodilyProcess_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2090.s.2	Wat maakt gy hier ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2094.s.1	Spreek , ben je dronken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2098.s.1	Wie diende gy ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.2100.s.1	Horsel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2105.s.1	'T is wel bedocht , Van 't Satris Veem . 'K heb jou gezocht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2105.s.2	Wel Rymbroer , wel hoe gaan de zaaken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2105.s.3	Wat kunje voorje sput nou maaken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2109.s.1	Zwyg , zwyg , en denk , waar dat je bent .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2113.s.1	De Satris zyn hier niet bekend .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2117.s.1	Nog eens zwyg stil .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2126.s.1	Myn ' lijf staffieren Brengt hem aan kant , tot dat het zwieren Der dolle geesten in zyn geest , Bedaard is .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2126.s.2	Hy is een geweest , Waar in myn ' konst is opgeheven ; Maar door veel vocht weêr uitgedreeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2132.s.1	By de Voorgaande werd Trompetter Blaaskaak , gevangen gebrocht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2142.s.2	groote Apollo , hoor myn recht , Ik was Trompetter in 't gevecht , Dat 's waar ; maar wien zou 't niet verdrieten , Dat , als by heeft een stuk gemaakt , Dat niet op uwe hoofd school raakt ?	Emotion_Sadness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2142.s.3	Wie zou schier niet in 't honderd schieten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2153.s.1	Misschien is dit wel die Zoldaat , Die kluchten uitschrijft , en laat drukken , En die , gelijk zijn eige stukken , Aan alle menschen leezen laat : En scheldende ieder , wil doen blyken , Dat zy zyn roem verongelyken , Die hem den doorgang in uw perk , Ontzeggen om eens anders werk .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2157.s.1	Ik heb ons Volk maar aangedreeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2162.s.1	'K zal u straks uw ' belooning geeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2162.s.2	Ik ken , ( zie 'k wel ) dit beeltenis .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2180.s.1	Dat 's comma , punt , parenthesis , Ook noemt men hem N tuttel ende , Een oorzaak van zyn eige elende .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2180.s.2	Die meent te sterven van verdriet , Als hy verkeerde accenten ziet .	Emotion_BodilyProcess_Sadness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2180.s.3	Hy heeft by O , en E gezwooren , De letterkonst door 't hart te hooren , Om dat K dubbelde U wykt voor Q ; En dat hy ook de waap'nen nu , Als Adelborst heeft opgenomen , Is om den Zangberg op te komen , Te dwingen , dat zy op het stuk Van Lettergreepen , en den druk , Hem als , Distinctie , laat formeeren , De wetten van het corrigeeren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2184.s.1	Hoe is zyn eige naam ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2199.s.1	Hy heet Heer , Speldezoeker .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2199.s.2	Die zo zweet , Heeft heên en weêr te post geloopen ; Voor hem staat Midas slaapzaal open ; Voor hem is niet verborgen , want , Hy diend voor niet Vorst Onverstand , En dat met zulke een ' drift en yver , Dat hem ook de eernaam hoord van dryver , Hy pretendeerd uw zoon te zyn , Om dat hy 't liedje van Krispijn , Heeft voor zyn Buurman uitgeschreeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2206.s.1	Die zal voorts in zyn eerdienst leeven , Gelijk een Inkhoorn in een kouw , Om dat gy altijd loopen wouw , En nooit in wetenschappen vord'ren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2210.s.1	Daar werden twee Rovers by de voorgaande gebragt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2215.s.1	'T is tegen Krijgs-gebruik en ord'ren , Dat gy hen bind , en dreigd , en staat .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2229.s.1	Zwyg , zwyg , eer 't hem noch erger gaat .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2229.s.2	Dit zyn twee Roovers , de een heeft vaarzen Gestoolen , en van hooge laarzen Op toffelen doen gaan , op dat De maaker , als hy wierd gevat , Hem niet zou weeten op te dringen , Dat hy hem 't zyne kwam ontwringen : En deeze bragt eens anders dicht , Uit Nijd gebreklijk in het licht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2229.s.3	Ja heeft een stuk uit Hooft geschreeven , la weêr in onrijm uitgegeeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2234.s.1	Dat deeze water dorsch , en deez ' , Aan strand voor altijd bloemen leez ' .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2236.s.1	Rovers binnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2243.s.1	'T gelieve uw Majesteit , den buit t ' aanschouwen , Die tot een merk van zege is , aangehouwen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2243.s.2	Dit vond men in des Maarschalks tent .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2247.s.1	Wat zyn 't ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2251.s.1	Kritiken niet volend .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2256.s.1	Misschien , op Mariamnaas lyden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2256.s.2	Neen , 'k lees van zegepraal , en stryden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2261.s.1	Dan geld het ligt Cleopatra , Semiramis , of Feria .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2266.s.1	'K zie naam-plaats open , 't is geschreeven , Op al , dat iemand uit zal geeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2270.s.1	Verwerpt men iet , eer 't ziet het licht ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.1	Dat valt die groote helden ligt , Die vlugge vogels zonder wieken ; Want al de kunst van hun Kritiken , Bestaat alleen , in menigmaal , Te zeggen , dat is triviaal , Of 't deugd niet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.2	Of dit vaars moest weezen , Gelijk men 't kan uit onze leezen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.3	Dit bundel is van groot gewicht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.4	Help Febus !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.5	Wat al hekeldicht !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.6	Hier vind ik liedjes , kan 't wel weezen , Dat menschen nog die vodden leezen !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.7	Gy vuile worm , sla de oogen neêr , Scheurd 't fluks aan stukken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.8	Zie hier weêr , Wat al paskwillen !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2296.s.1	Wacht uw ' handen Van dit vergif , 'k zal 't doen verbranden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2296.s.2	Op dat de schand te dieper raak , Begeer ik , dat men uit u maak , Een die het ampt van Beul bekleede .	Emotion_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2300.s.1	Ik weiger dat met recht en rede ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2304.s.1	Ik heb maar stof verschaft .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2309.s.1	En die , Die heeft ' er zes gemaakt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2313.s.1	Maar drie .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2318.s.1	En die , heeftze alle in 't net geschreeven , Ten minsten , om , en uit gegeeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2322.s.1	Maar op wiens kosten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2329.s.1	Wat een praat !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2329.s.2	Op die van Midas , om wiens haat Te styven zy met geld , en wyn , Tot deezen strijd getrokken zyn .	Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2339.s.1	Om de eer van dien gy schond te wreeken , Zult gy te zaamen 't vuur ontsteeken , Ja zelf uw schrift verdoemen , en , Dat zich elk u voor fiel erken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2339.s.2	Niet waard voortaan aan schrift te ruiken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2339.s.3	Papier , of pennen te gebruiken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2339.s.4	Men brenge fakkels , nu steek aan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2341.s.1	Alhier verbrand men een bondel Paskwillen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2347.s.1	Wy hebben , u Apol , misdaan , Getracht der menschen eer te schennen ; Vergeef ons dit , mits wy 't bekennen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2353.s.1	Men brenge deez ' in 't naarste en diepste hol der aard , Zy schoolen altijd , nu zyn zy myn licht niet waard .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2355.s.1	De Onweetenheid , en onkundige Aap , binnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2359.s.1	Apollo , Reden , Belachal , Nieuwsgierigheid , c.	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2363.s.1	WAt boeken zyn dat ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2367.s.1	'T zyn twee Fransche woorden-boeken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2371.s.1	Heet dat vertaalen , dat men ieder woord moet zoeken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2375.s.1	Wat is dar kleene pak ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2383.s.1	'T zyn brieven , dit adviezen , Van Raadsliên , die om eer en achting te verliezen , Alleen bekend zyn , met den naam van votre Ami ; Deez ' ken ik , nu ik 't schrift en deze wapens zie .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2383.s.2	Lees eens .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.2386.s.1	Nieuwsgierigheid leest .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2395.s.1	Maak die gy kunt tot vrinden , Gy zult'er twee tot Sprinkbaans vinden , Die liegen kunnen , dat geen mensch , Hen achterhaalen kan ; ik wensch , Dat gy voor 't langste , op overmorgen , My hier op wild bescheid verzorgen , En maaken , dat myn handschrift weêr , Met Frere Dodaars herwaarts keer	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2400.s.1	Dit komt van menschen , die van deugd en weldoen spreeken , Maar achtershands de deugd , wel wilden 't hart doorsteeken .	EmotionalAction_Hatred_BodyPart_Vindictiveness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2407.s.1	Maar deeze superfyne , en listige Zoldaat , Wien quasi al de affaire in 't minste niet aan en gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2407.s.2	Hoe zal uw ' Majesteit zyn ' straf toch termineren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2415.s.1	Die moest men voor een tijd aan 't heyblok confieneeren , Om daar de harmonie , verstaat Mechanice , Van stem en kracht te zien , als ook waar de eerste snee Van muur , en grond moet zyn , wanneer men wel wil schiften ; Om dan na haak , en loot , te meeten zyn ' gedichten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2421.s.1	'T geschiede zo ; en om den leegen tusschen-tijd Bewaard te zyn , voor nieuwe aanvechtinge van Nijd , Zal hy wat zemel , of wat duinzand moogen knoopen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2426.s.1	Wel hadje die gena , zeg eens , wel durven hoopen ?	Emotion_Hope
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2426.s.2	Wel Sprinkhaan , zwygje dus ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2430.s.1	Hoe my een Criticus ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2435.s.1	Zwyg , eer men u doet steeuen klooven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2435.s.2	Of afstand van de kunst belooven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2437.s.1	Sprinkhaan binnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2451.s.1	Watte zaaken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2451.s.2	Wel Boefje , is dat een straf ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2451.s.3	dat heetje altijd vermaaken ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2453.s.1	Boefje binnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.1	Dien wildzang zal men eerst nog wat in dnisternis Bewaaren , dan bezien , of 't hoofd wat stil ' er is .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.2	Zo ja , zyn ' vryigheid , zo neen , de woonplaats geeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.3	Daar deze vaarzen in den gevel staan geschreeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.4	‘ Die met krankzinnigheid zyn begaaft , Die werden hier gespijst en gelaast .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.5	Laat deeze los , maar die van Grieks of taalen bassen , Die zullen wel in de A. ik meen de Grieksche pasten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.6	Voorts zultge u richten naar 't geen ik op gist'ren las , En al de wetten van d'hervormden Berg Parnas .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2471.s.1	Alle gevangens binnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2475.s.1	Ik zie Vrow Yver , met nog andere maagden komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.2477.s.1	Negende tooneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2481.s.1	Onzydigheid , Vrolijkheid , Yver , Apollo , Reden : de Zanggodinnen , Nieuwsgierigheid , Belachal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2494.s.1	NU gy verwinnaar zyt , verschijn ik zonder schroomen , Daar Liefde , Konst , en Deugd in ieder jaartijd bloeid .	Emotion_Shame
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2494.s.2	Hoe zeer my de Achterklap vervolgt heeft , en vermoeit , Nog spreek ik , en om ook een Lauwerblad te voegen , By die u kroonen , tot des waerelds groot genoegen . 'K heb de Achterklap betrapt , en doe haar vast alom De menschen kennen , daar zy schaamrood staat en stom .	Joy_Emotion_BodilyProcess_Shame
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2494.s.3	Ja hadmen wel gespoeid , de Nijd was zelf verflagen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2494.s.4	De Twist is 't weêr ontvlucht , in de oude hinderlaagen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2494.s.5	Daar 't Regement van Haat omtrent nog is verspreid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2498.s.1	Wat heeft men my , en u , om Onverstand misleid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2503.s.1	Zo werd uw oude roem met kracht weêr opgeheven , Uw recht verdaadigt , en 't onweetend Heir verdreeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2510.s.1	'T Heir scheen een enkel man ; want die voorheên de lier , Of hoogen styl verkoor , was hier nu even fier .	Emotion_Pride
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2510.s.2	Elk scheen tot uw behoud te werden aangedreeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2514.s.1	Wie zyn van ons , wie van des vyands kant gebleeven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2525.s.1	Held Vuilbek , Teuterk waad , en Vuilaard , Stookebrand , En Muggezifter , zyn van onzen Vyands kant .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2525.s.2	Van d'onzen , Willigert , en Ligt verlijd ; de Rede , Dat meest te klaagen is , dat , Rustbelang , als mede , Heer Nutt'er tyds gebruik , en Leeslust , zyn gewond : En Vredegaard , schoon hy byna in 't midden stond , Gevangen is .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2525.s.3	De rest , die wy als nog vermissen , Zyn Overloopers , na wier trouw men niet kan gissen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2535.s.1	Vrouw Yver boete weêr met and're deeze schaâ .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2535.s.2	Eer ik met u in 't dal van Helikon nog ga , De Legerbuit , en zege omstandig ga verhaalen , Hoe wy door Reden , op den Vyand zegepraalen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2535.s.3	En eer ik u vertel , hoe ieder is gestrast , Na dat hy dol was , of u tegen heeft geblaft .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2535.s.4	Zo eisch ik , dat gy alle uw Veldheer gaat bedanken ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2545.s.2	Reden , gy verdiend , met uitgeleeze klanken , Van Zang , en Woorden , door myn Rei te zyn onthaald ; De Wysheid , en de moed , welke uit uwe oogen straald ; De daaden , die gy doed , zal alles my verplichten , Om u te mengen , in myn ' hooge Heldendichten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2545.s.3	En wyl ons hart altijd in volle liefde blaakt , Zo zet u ook te rust , daar bloeijende Yver waakt .	Emotion_Love
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2549.s.1	Daar zult gy my altijd tot u genegen vinden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2553.s.1	En hoe ik my alleen , aan uw beleid zal binden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2559.s.1	Maar wat doet deeze hier ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2559.s.2	indien ik iets vermag , Belet voor altijd hem , dat smaalende gelag , Dat deugd , en vreugd ' , gelijk in uwe school moet wraaken ;	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2565.s.1	Ik meende , dat gy 't met een lachje af zoud ' maaken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2565.s.2	Lach nu , nu lach .	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2569.s.1	Ik zal voortaan ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2576.s.1	Gy zult voortaan , Met een gesloten mond , en Bochel voor u gaan , Om ieders feilen , niet op 't scherpste voor te draagen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2576.s.2	U zelf meêr kwellen , als gy and'ren ooit kond plaagen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2583.s.1	Hoe lachje niet ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2583.s.2	wat 's dit gezeid ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2583.s.3	Gy hebt elk fraaitjes uitgeleid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2583.s.4	Maar weetje nu wel , wieje bent ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2583.s.5	Een valsch hart , die zich zelf niet kend .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.1	Nu ik de Monsters , die met list , en dol geweld , De letter-Heerschappy bestreden , zie geveld .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.2	Gevoel ik weêr een vreugd ' , als toen ik op de bergen Het Ondier Pithon trof , dat mynen boog dorst tergen .	Joy_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.3	Indien Vorst Onverstand weêr opstaat tegen my , Zal ik hem in zyn hof , en eige heerschappy , Zo fel bespringen , dat de minde mensch zal weeten , Hoe ik kan straffen , die hun plicht aan my vergeeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.4	Dat de algemeene lust tot Dicht-konst weêr herleef .	Emotion_Love_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.5	Waar door zo menig Geest vergoode vaarzen schreef , Gedachten maalden , die der eeuwen kracht verduuren , Zyn roem verbreide , in lof van Helden , Vorsten , buuren , En vrinden ; schept nu moed , legt uw ' bevreestheid af , Myn Zoonen , toont den lust , dien u myn prikkel gaf , En zich niet uiten mogt , laat u geen ' les verveelen , Die u tot wysheid noopt ; laat Treur en Blye-speelen , Zich t ' zaamen houden , om 't vermaakelijk en goed Der braave Burgeren , te drukken in 't gemoed .	Fear_Emotion_Love_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.6	Gezusters , nu de strijd ten einde is , en gewonnen ; Zal ik met reden tot den zang u vord'ren konnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2608.s.1	Einde van 't tweede en laaste Deel .	None

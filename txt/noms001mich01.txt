@@ -1,0 +1,970 @@
+noms001mich01_01.TEI.2.text.body.div.head.282.s.1	Michiel Adriaansz de Ruiter , treurspel .	None
+noms001mich01_01.TEI.2.text.body.div.head.283.s.1	Eerste bedryf .	None
+noms001mich01_01.TEI.2.text.body.div.head.285.s.1	Eerste tooneel .	None
+noms001mich01_01.TEI.2.text.body.div.stage.287.s.1	valkenburg , de jonge valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.sp.speaker.289.s.1	valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.1	De Westermaatschappy , beheerschster dezer landen , Stelt , naar myn ' wensch , myn zoon !	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.2	myn ampt dan in uw handen !	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.3	Voor my , 'k ben afgeleefd , my walgt dus 't hoog gebied .	Emotion_Disgust
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.4	Den kleinen levenstyd die my noch overschiet Begeer ik meest den dienst des Hemels toe te wyden .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.5	U voegt het , in myn plaats , ten dienst des lands , te stryden .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.6	Uw vader , door zyn ' rang gewillig af te staan , Was gistren opperhoofd , thans is hy onderdaan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.7	'k Voldeed als hoofd des lands den pligt my voorgeschreven , Ik zal van rang ontbloot u blyk van achting geven ; Opdat Guineaas kust , op 't zien myns voorbeelds , leer ' Wat zy verschuldigd is aan haren nieuwen heer .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.8	Doch Valkenburg , gezind uw hoog gezag te styven , Moet , schoon hy amptloos is , nochtans uw vader blyven .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.9	Uw rang is uit den mensch , en dus licht kort van duur ; De rang van vader blyft , als 't werkstuk der natuur , Die my de rechten schenkt om vry met u te spreken .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.10	Myn vreugd is groot , myn zoon !	Joy_Emotion
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.11	niets zou daaraan ontbreken , Zo niet door 't strenge , dat in alles u bestiert , Het vaderlyke hart door zorg belemmerd wierd .	Worry_Emotion_BodyPart
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.12	Ach !	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.13	zocht gy , naar myn ' wensch , ten top van staat gerezen , Nadezen min gevreesd , en meer bemind te wezen !	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.14	Word , ( dit zy 't loon van 't geen ik voor u heb bestaan , ) Van strengen raadsheer , steun van ieder onderdaan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.speaker.317.s.1	de jonge valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.sp.338.s.1	Uw zoon , die nooit de gunst zyns vaders zal vergeten , Word , zo hy 't zeggen durft , met onrecht streng geheten .	None
+noms001mich01_01.TEI.2.text.body.div.sp.338.s.2	Voorzien van weinig volk dat ons geloof belyd , Omringd van heidenen , genegen tot den stryd , Door volk welks groot getal , aan de uitgestrekte zoomen Van 't Westlyke Afrika , met reden is te schroomen ; Op welks geschroeiden huid en hoogst misvormd gelaat Natuur een verf verspreid met recht door ons gehaat ; Welks bloed van 't vuur der zon , gezeteld in deze oorden , Een hitte ontleent die slechts zich tempren laat door moorden , En schaars zich koelen laat , dan in 't veel kouder bloed Van ons , wier heerschappy 't , zyns ondanks , eeren moet ; En welks verwoedheid hen zo verr ' zich doet verloopen , Dat zy , uit vrekheid , ons hun bloed , als slaafsch , verkoopen : Door zulk geboefte omringd , verwyderd van ons land , Hou ' hier de vrees alleen de woestheid in den band .	Fear_Emotion_Hatred_BodyPart_BodilyProcess_Anger
+noms001mich01_01.TEI.2.text.body.div.sp.338.s.3	Een diep ontzag , gevergd van ónze landgenooten , Moet in dit zwart gespuis 't ontzag voor ons vergrooten .	Emotion_Awe
+noms001mich01_01.TEI.2.text.body.div.sp.338.s.4	De vreugd , die 't volk deez ' dag om myn verheffing uit , Betoont ons dat ons volk myn strengheid niet misduid .	Joy_Emotion_Happiness
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.1	De schynglans van een ' rang , myn zoon , verblind u de oogen : Gy kent het volk niet , neen !	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.2	door nieuwigheên bewogen , Gelyk het vlak der zee door 't buldren van den wind , Is 't by elk nieuwigheid tot uiterstens gezind .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.3	't Voegt u de vreugd des volks op 't hoogst bedaard te aanschouwen : Een heerscher moet het volk beminnen , en mistrouwen .	Suspicion_Joy_Emotion_Love
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.4	Geloof my vry , myn zoon , hoe vreemd het u ook schyn ' , 't Gemeen neigt schaars tot vreugd dan om verheugd te zyn : Het ziet u dezen dag ten top van staat verheven ; Dus waant het aan zyn vreugd den toom te moeten geven ; 't Grypt een gelegenheid om zich één ' dag te ontslaan , Van zorgen zyns beroeps ten hoogste gretig aan .	Joy_Emotion
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.5	Het redenkavelt niet by 't uitgelaten tieren , Of 't beter zich door u dan my zal zien bestieren ; Genoeg is 't als hun hart zich slechts door vreugd verkwikt .	Joy_Emotion_BodyPart_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.6	Natuur , die wyslyk werkt , heeft dit hoogst wys geschikt : Nooit moet het wuft gemeen zyn ' waren stand bezinnen ; 't Voel ' schaars de afhangklykheid , wanneer 't die zal beminnen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.7	Wat ons betreft , myn zoon ! 't aanzienlykst ampt van staat Is een zorgkwekend goed , dat in de dood vergaat .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.8	Hoe u 't gezag bekoor ' , 't is noch voor my verborgen Of hy die zich verbind voor 's volks geluk te zorgen , Of 't volk , dat blindlings buigt voor de opperheerschappy , Het meest beklag verdient , en slaaf te noemen zy .	EmotionalAction_Awe
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.9	Wat uw begrip betreft van zwartzynde onderzaten ...	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.10	Hoe !	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.11	voegt ons , Christnen !	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.12	hen om hunne verfte haten ?	Emotion_Hatred
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.13	Natuur , die op bevel haars meesters 't all ' verricht , Verbond de deugd van 't hart aan 't blank noch 't zwart gezigt .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.14	Wy zyn , bestraald door 't licht dat zy , helaas !	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.15	ontberen , Verfoeilyker dan zy , zo wy door dwang hen deeren .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.16	De mensch sproot uit één ' stam : natuur wil dus geen ' dwang .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.17	Doch , dit ter zy ' gesteld , bedenk uw waar belang .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.18	De Brit , baldadig trots op 't vreeslyk zeevermogen , Dreigt ons op nieuw met een ' der bloedigste oorelogen .	Emotion_Pride
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.19	Dat volk , dat in zyn land alle overheersching vloekt , Daar 't op de zee voor zich een overheersching zoekt ; Onwillig ooit gerust een ' konings wil te hooren , Daar 't zich van zyns gelyk ' vernoegd laat ringeloren ; De vryheid tegen 't hof der koningen verweert , En van den wil des volks met drift de wet begeert ; Heeft reeds , door Holmes vloot , naar dit gewest gedreven , Ons op dees kust bewys van vyandschap gegeven .	EmotionalAction_Hatred_BodilyProcess_Desire
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.20	Waant gy den neger , ééns afkeerig van uw ' dwang , Genegen , en gereed ten dienst van uw belang ?	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.1	De Britten , hoe geducht , doen my in 't minst niet schroomen : De Ruiter is gereed ter zee hen op te komen .	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.2	Die held , die meer dan ééns hen de eer der zege ontdroeg , En menigmaal den schrik in hunne vloten joeg , Behoeft niet eens de magt der Britten aan te randen ; Zyn naam alleen verschrikt die waterdwingelanden .	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.3	Die Holmes , 't hoofd der vloot eens volks ter zee geducht , Is reeds De Ruiters magt , zelfs zonder slag , ontvlugt ; Hy durft , schoon ruim zo sterk , niets met De Ruiter wagen ...	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.4	Tot Holmes val heeft slechts De Ruiter op te dagen !	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.5	Goêrede is reeds verheerd , en , volgens 't jongst bericht , Heeft Neêrlands admiraal daar de ankers reeds gelicht , Om zich tot onze hulp te spoeden door de stroomen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.6	Wy hebben thans voor 't eerst De Ruiters komst vernomen : 't Geen van zyn wys beleid een sprekend blyk verstrekt , Is , dat hy dezen togt zo kunstig heeft bedekt .	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.7	Hy , voor wien de overmagt zo dikwyls is bezweken , Behoeft geen negerhulp om Neêrlands sinaad te wreken .	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.8	Zyn zeldsaam krygsgeluk , zyn deugd , zyn dapperheid , Zyn roem , alom bekend , zyn wonderbaar beleid , Dit alles maakt den held ontzaglyk in elks oogen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.9	Zo hy den bystand eischt van 't binnenlandsch vermogen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.10	Geef , Hemel !	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.11	dat myn moed den sieren zeeheld blyk ' .	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.1	Wensch liever dat uw deugd de deugd des helds gelyk ' .	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.2	Hy , 't hoofd van Neêrlands vloot , vrymagtig in 't gebieden , Wint , door bestraffing zelfs , het hart der oorlogslieden , En tempert steeds , zo 't slechts met de eer der wet besta , De strengheid van de wet , barmhartig , met genaê .	Emotion_BodyPart_Love_Compassion
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.3	Tracht , wilt ge u zien gevreesd en tevens aangebeden , Dien held in 't spoor der deugd onwrikbaar na te treden .	Fear_Emotion_Love
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.4	't Is minzame ernst , myn zoon !	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.5	die meest de menschen vleit , Begin uw landbestier met goedertierendheid .	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.6	Toon altyd grooter zucht tot goedheid dan tot straffen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.7	Gy ziet u door 't geval gelegenheid verschaffen , Te toonen dat uw hart op 't edelst vatbaar is Voor 't geen een ' held meest eert , dat is de deerenis .	Emotion_Compassion
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.8	La Borde , die my ééns 't wraakzuchtig krygsvermogen Van 't woest Fantynsche volk trouwhartig heeft onttogen , Ja , met zyn lyfsgevaar , my , die u 't leven gaf , Heldhaftig heeft bevryd van slaverny of graf , Toen 't negervolk , beroerd door 't boos beleid der Britten , Een ' aanval deed op 't geen wy op dees kust bezitten ; La Borde , ( die dit volk , ten steun van onze magt , Door moed en wys beleid , heeft aan myn zy ' gebragt , ) Door last des raads , daar hem een doodslag wierd verweten , Verwezen tot de koord , ten ladder afgesmeten , Doch op een wondre wyz !	Emotion_Loyalty_Vindictiveness
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.9	, gelyk gy weet , gespaard , Word , andermaal ter straffe , in 't kerkerhol bewaard .	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.10	De raad begeert zyn bloed ..	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.11	Mogt gy die strengheid stuiten !	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.1	Duld datuw zoon , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.2	zyn mening vry moge uiten .	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.3	'k Beklaag La Bordes lot ; maar ik beklaag den man , Omdat men zulk een lot hem waardig noemen kan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.4	't Is waar , zyn heldenvuist ; zyn yver spaarde u 't leven ; Maar kon dit tot een ' moord dien krygsman vryheid geven ?	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.5	Want , hoe men 't ook beschouwe , een haatlyk tweegevecht Is moordery , wat eer de dwaling daaraan hecht ' .	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.6	Gy waart het die , ten loon zyns moeds , dien ik moest roemen , Hem , van gemeen ' soldaat , tot hopman deed benoemen : Dus hebt gy hem betaald voor 't geen hy heeft bestaan , Zyn misdryf heeft daarna zyn ' roem te niet gedaan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.7	Gyzelf , gy hebt den raad niet kunnen overreden Deez ' krygsman niet te doen het straftooneel betreden ; En wilt gy dat uw zoon zyn landbestier beginn ' Met inbreuk op de wet , spyt ieders wederzin ?	None
+noms001mich01_01.TEI.2.text.body.div.sp.479.s.1	Neen , verr ' van met dien eisch uw ' fieren geest te kwellen , Wilde ik alleen u doen tot uitstel overhellen : Wacht tot 's lands admiraal hier aangekomen is , En smeek dien held dat hy La Bordes lot besliss ' .	None
+noms001mich01_01.TEI.2.text.body.div.sp.479.s.2	De strengheid van de wet ontzegt dien krygsman 't leven ; Wat ik tot zyn behoud erkentlyk heb bedreven , De meerderheid des raads , de sterke stem der wet , Heeft my het sparen van den schuldigen belet .	None
+noms001mich01_01.TEI.2.text.body.div.sp.479.s.3	Het lot wil u , myn zoon , meer gunst dan my betoonen : Licht kunt gy redden hem dien ik niet kon verschoonen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.479.s.4	Wanneer 's lands admiraal , ( met ongeduld verwacht , ) Het vonnis van den raad , naar mynen wensch , verzagt , Zal nooit de fiere raad zich billyk kunnen stooren , Om 't geen ...	None
+noms001mich01_01.TEI.2.text.body.div.sp.488.s.1	De raad zal nooit van uitstel willen hooren : Ongaarne zal men hem zyn rechten af zien staan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.488.s.2	Men drong my reeds ter straf van myn ' gevangen aan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.488.s.3	Hoe veel ik hier vermag , men kan my kwalyk vergen In 't groeijend ' landgevaar den raad des lands te tergen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.488.s.4	Indien ik 't vonnis schors , ik kwets hem in zyne eer .	Honor_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.head.490.s.1	Tweede tooneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.492.s.1	valkenburg , de jonge valkenburg , een hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.494.s.1	de hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.496.s.1	La Bordes echtgenoot verzoekt gehoor , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.502.s.1	Wys haar niet af , myn zoon .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.502.s.2	Toon haar uw mededoogen , Wees met de tranen van elendigen bewogen .	Emotion_BodyPart_Compassion_Moved_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.502.s.3	Ontzeg den toegang niet aan treurenden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.1	Welaan !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.2	Zy kome .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.3	Ik ben bereid om haar te woord te staan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.4	Doemt gy my myn bestier , ô Hemel !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.5	aan te vangen Met stryden met natuur , de wet en myn belangen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.6	Is dit myn lot !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.7	Men komt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.508.s.1	Tegen den hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.511.s.1	Tegen zyn ' vader .	None
+noms001mich01_01.TEI.2.text.body.div.div.head.519.s.1	Derde tooneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.521.s.1	valkenburg , de jonge valkenburg , mevrouw la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.523.s.1	mevrouw la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.535.s.1	Het belge u niet , mynheer , Dat ik op dezen dag , zo gunstig voor uwe eer , In 't midden van uw vreugd om 't ampt u opgedragen , By 't algemeen gejuich , u nadren durf met klagen .	Offended_Joy_Emotion_EmotionalAction_Unhappiness_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.535.s.2	Geen sterfling deelt zo veel als ik in uw geluk ...	Emotion_Happiness
+noms001mich01_01.TEI.2.text.body.div.div.sp.535.s.4	deelde ook Valkenburg in myn ' gerechten druk !	HeavyHeartedness_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.535.s.5	Men zegt , en dit gerucht doet my dit uur u nadren , En jaagt elk oogenblik den doodschrik door myne adren , Dat gy , op drang des raads , myn ' dierbren echtgenoot Op overmorgen zult doen straffen met de dood : Is 't waarheid ?	Fear_Emotion_BodyPart_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.div.sp.535.s.6	zal men hem op nieuw ter strafplaats ruk ken ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.1	Myn hart neemt waarlyk deel in de angsten die u drukken ; Acht my niet koel op 't zien van uwen tranenvloed ; 'k Ben daar gevoelig aan , zo veel ik 't wezen moet .	Fear_Emotion_BodilyProcess_Compassion_Other_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.2	Uw ramp spreekt in myn hart , gelyk 't betaamt ; maar echter De wet en 't heilig recht spreekt sterker ; ik ben rechter , En meer , 'k ben hoofd van 't recht ; en dus betaamt het my Dat de inspraak van de wet by my steeds heilig zy .	BodyPart_Compassion
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.3	Ik heb , zelfs dezen dag , dit weet gy , dier gezworen De wetten te achten , niets dan haren eisch te hooren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.4	De raad verwees , uit naam van 't recht , uw ' echtgenoot , Ter straffe eens tweegevechts , ter straffe eens moords , ter dood ; Daar nu de koord geenszins den schuldigen deed sneven , Is 't vonnis niet volvoerd , dus blyft het vonnis leven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.5	De moorder heeft zyn schuld niet aan de wet betaald .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.6	Intusschen is noch 't uur der doodstraf niet bepaald .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.7	Vraag my niets meerder af in deze omstandigheden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.557.s.1	Me vrouw la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.1	Helaas !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.2	hy zal dan weêr het straftooneel betreden !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.3	Ik word op nieuw gedoemd ter wachting van een ' slag Die my het hart verscheurt !	BodyPart_BodilyProcess_Sadness_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.4	Afgrysselyke dag , Waarop myn echtgenoot , door beulen aangegrepen , Zich zag , op last des raads , ter schand en strafplaats sleepen , Daar hem het smaadlykst lot , ô smart !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.5	was toebereid , Ik zal u wederzien , maar met meer yslykheid !	Emotion_Other
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.6	La Borde , éénmaal als dood ter strafplaatse afgenomen , Zal in der beulen arm niet anderwerf bekomen !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.7	Afgryslyk lot !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.8	ô Pyn , die my het hart doorsnyd !	BodyPart_BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.577.s.1	Wyt uw ' gemaal zyn lot , en 't geen gy leed en lyd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.577.s.2	't Was niet genoeg een ' man in 't openbaar te ontlyven , ( Die daad waar ' noch aan drift , schoon strafbaar , toe te schryven , ) Neen !	BodilyProcess_Anger
+noms001mich01_01.TEI.2.text.body.div.div.sp.577.s.3	nadat de onverlaat zyn ' vyand heeft gewond , Durft hy hem , half ontzield , noch kwetsen op den grond .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.577.s.4	Is niet de strop een loon te zagt voor zulk een boosheid ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.1	Zyn gade pryst geenszins zo woest een spooreloosheid ; 'k Beken , door 's vyands val was myn gemaal voldaan ; Maar wat kan drift , mynheer , den mensch niet doen bestaan ?	BodilyProcess_Anger
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.2	Wie leeft ' er die gehoond , getergd , gebragt tot woeden , Zich altyd voor 't geweld der gramschap kan behoeden ?	Offended_Emotion_Shame_Anger
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.3	Wierd myn gemaal te verr ' door toorn ' vervoerd , de man Die hem mishandeld heeft was zelf daar de oorzaak van .	Emotion_Anger
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.4	Hy hield gewond niet op myn ' echtgenoot te hoonen .	EmotionalAction_Hatred
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.5	Kan zo veel ongelyk La Borde niet verschoonen , Is een te heete drift , ( dat merk van 't Fransche bloed ! ) Doemwaardig , denk , mynheer !	BodyPart_BodilyProcess_Anger
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.6	aan 's hooners overmoed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.7	Die booswicht , na ontzind in schandtaal uit te spatten , Bestond , voor 't oog myns mans , onkuisch my aan te vatten ; En toen myn echtgenoot my voorstond , volgens pligt , Gaf noch zyn hooner hem een ' slag in 't aangezigt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.8	Wat man van moed zal , ziende een zwakke vrouw onteeren , En dat zyne eigen vrouw , haar rechten niet verweeren ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.9	En welk een man op de aard ' zal dulden dat , daarna , De schender van zyn vrouw in 't aangezigt hem sla ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.10	Voeg hier de teêrheid by des rangs van oorlogslieden : De onteerde krygsman ziet door ieder zich ontvlieden Als eereloos , tot dat zyn moed zyn zaak besliss '; En denk dat myn gemaal een hoofd van 't krygsvolk is .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.11	Te vert ' getrokken wraak volgt licht een schendig hoonen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.616.s.1	Dit pleiten kan geenszins uw ' echtgenoot verschoonen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.616.s.2	De weg tot klagen , dien de raad hier nimmer sloot , Stond open , zo voor u als voor uw ' echtgenoot .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.616.s.3	Zo rang een ' oorlogsman tot moorden recht zal geven , Wat sterfling zal gerust by krygsvolk kunnen leven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.616.s.4	Des krygsmans woestheid strekt den burgren reeds ten schroom ; Men kent zyn toomloosheid : de wet hou ' die in toom .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.616.s.5	Niets spreekt La Borde voor in 't woeste wetverbreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.622.s.1	Spreekt niets hem voor mynheer !....	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.622.s.3	laat zyn diensten spreken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.622.s.4	Hy heeft uw ' vaders hoofd omtrokken aan de dood , En schonk 't Fantynsche volk ons volk ten bondgenoot .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.626.s.1	valkenburg , tegen zyn ' zoon , ter zyde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.628.s.1	Geef haar en my gehoor .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.628.s.2	Doe ééns uw strengheid zwichten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.631.s.1	de jonge valkenburg , tegen zyn ' vader .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.637.s.1	La Bordes dienstbewys was 't voorschrift van zyn pligten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.637.s.2	Ik heb 't u reeds gezegd , uw gunst heeft hem voldaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.637.s.3	Myn pligt verëischt en raad en wetten voor te staan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.637.s.4	Ik bid met ernst , mevrouw !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.637.s.5	my langer niet te kwellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.640.s.1	mevrouw la borde , zich aan zyne voeten werpende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.643.s.1	Duld dat ik smeeken moog ' de doodstraf uit te stellen , Tot Neêrlands admiraal ...	EmotionalAction_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.646.s.1	de jonge valkenburg , haar opheffende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.1	Verg my geen zaak , mevrouw , Die my in landkrakeel onfeilbaar wikklen zou .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.2	Door 't vonnis in de magt des admiraals te geven , Wierd onzen raad door my eene onëer aangevreven : 't Zou zyn alsöf die zelf geen kundigheid bezat , En tot bestier van 't recht een ' ander ' noodig had .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.3	Ik zelf moest , en met recht , zyn ongenoegen vreezen : 'k Was lid des raads , ik heb La Borde meê verwezen ; Zou 't niet onbillyk zyn , dat ik , ( thans opperhoofd , Van wien de raad zich niets dan alles goeds belooft , ) Een vonnis , dat hy my benevens zich zag vellen , Aan de uitspraak van het hoofd van Neêrlands vloot deed stellen ?	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.4	Gy ziet dat ik uw beê niet zonder overleg , Niet zonder reden die gegrond zyn , u ontzeg .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.5	Schryf my geen wreedheid toe .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.6	Ik zou , zo 't kon geschieden , U in uw ongeluk met yver bystand bieden ; En zal met blydschap zien dat straks myn vader waag ' Te vragen van den raad 't geen ik ongaarne vraag .	Joy_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.7	't Verzoek door my gedaan zou voor bevel verstrekken , En dit , gy ziet het klaar , zou mortery verwekken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.8	Bedenk , de zekerheid des lands is in deez ' staat Gegrond op de eendragt van 's lands hoofd en van den raad .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.9	't Is waar , op myn bevel moet alle weêrstand vlieden ; Doch willende in dees zaak verzóekend ' niet gebieden , Begrypt gy licht dat ik , hoe hard u dit ook vall ' , Noch minder myn gezag gebruiken kan , of zal .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.10	'k Vervoeg my daar de raad my plegtig zal begroeten .	None
+noms001mich01_01.TEI.2.text.body.div.div.head.678.s.1	Vierde tooneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.680.s.1	valkenburg , mevrouw la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.1	Mynheer , myn toeverlaat !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.2	ik val aan úwe voeten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.3	Het wreed belang dat my te helpen hem verbied , Weêrhoud u , vry van rang , om my te helpen niet .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.4	Uw drift voor de eer des raads , zo menigmaal gebleken , Zal , als gy spreekt , in 't hart der strengste raden spreken .	Honor_BodyPart_BodilyProcess_Compassion_Dedication
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.5	De trouw van myn ' gemaal spreekt in uw edel hart , Myn droefheid slaat dit uur u meer dan ooit met smart ...	Emotion_BodyPart_Loyalty_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.6	Gy merkt myn beê .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.7	Wat baat een werkloos mededoogen !	Emotion_Compassion
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.1	Het grieft en streelt die niets ter hulp der deugd vermogen : Het medelyden strekt den waarlyk braven man Ter foltring , als 't de deugd in nood niet baten kan ; En 't streelt nochtans zyn ziel , dat zy zich voelt ontvonken Door de eêlste drift die ooit het schepsel is geschonken .	Emotion_Happiness_BodyPart_BodilyProcess_Compassion_Dedication_Desire
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.2	ô Hemel !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.3	moet die gift , dat onwaardeerlyk goed , Die dubble werking doen op Valkenburgs gemoed !	BodyPart_Moved
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.4	Verwys , daar hy zo veel voor de onschuld wil verrichten , Zyn mededoogen niet voor werkloosheid te zwichten .	Emotion_Compassion
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.5	Het is úw ramp , myn kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.6	die my het hart doorsnyd : Ik lyde op 't wreedst , met u , omdat gy schuldloos lyd , En omdat ik om beide een ' weg tot troost te banen , Helaas !	BodyPart_BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.7	geen middel weet dan 't storten dezer tranen .	BodyPart_BodilyProcess_Compassion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.712.s.2	zal de raad , mynheer , als hy u nadren ziet , Uw voorstel ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.2	gy kent den aart der grooten niet , Meest dorstig naar gezag , zal , schoon zy 't loos verbergen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.3	Een voorstel dat hunn ' rang te ontluistren schynt hen tergen ; Zy weten een verzoek , hoe heusch hen ook gedaan , Als hen 't verzoek mishaagt , met heuschheid af te slaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.4	Dit stond ontwyfelbaar my van den raad te wachten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.5	Myn zoon kon best den geest des strengen raads verzagten : Hy kon , aanvaardend ' zyn aanzienlyk ampt van staat , Het doen eens gunstbewys opdringen aan den raad .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.6	Dit was myn hoop ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.8	herinner , tot myn smarte , My niet in dezen staat myn ' zoons hoogmoedig harte .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.9	Beklaag my : de eerste dag waarop hem 't volk begroet Als landvoogd , in myn plaats , kost my een ' tranenvloed .	BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.11	doe met spoed den admiraal hiet landen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.12	Myn hart trekt door den vloed zyn vloot naar deze stranden .	BodyPart_BodilyProcess_Desire
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.13	In zyn gewenschte komst bestaat myn hoop alleen .	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.738.s.1	Wel !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.738.s.2	wanhoopt gy den raad te treffen door gebeên , Hoop dat gy 't hart uws zoons bewegen zult , door smeeken , My toe te staan slechts ééns met myn ' gemaal te spreken .	EmotionalAction_BodyPart_BodilyProcess_Compassion_Moved_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.2	wil dan het lot zo gruwzaam op ons woên , Dat gy niets smeeken kunt waaraan ik kan voldoen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.3	Bedenk , dat tot den man dien 't zwaard des rechts zal dooden , Byna in ieder land , de toegang is verboden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.4	Nochtans , myn kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.5	ik zal , hoe hopeloos 't ook zy , Het hart myns straffen zoons ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.6	Maar , hoe !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.7	wie nadert my ?	None
+noms001mich01_01.TEI.2.text.body.div.div.head.750.s.1	Vyfde tooneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.752.s.1	valkenburg , mevrouw la borde , een hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.763.s.1	Vergeef dat ik u stoor ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.763.s.2	Wy zien van deze vesten , Mynheer , een kloeke vloot , ons nadrende uit het Westen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.763.s.3	Ons oog , gewapend door een sterk aantrekkend glas , Bespeurde op ééne kiel , schoon die de verste was , Het merk eens schouts by nacht aan de achtermast gebonden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.763.s.4	Uw zoon heeft my tot u met dit bericht gezonden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.763.s.5	Men wenscht dat deze vloot haast op de reê verschyn ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.1	Zo 't niet De Ruiter is , het zal zyn voortogt zyn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.2	Ga heen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.3	Ik zal terstond my by myn ' zoon begeven , Myn kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.4	Ik voel myn vreugd in 't bang gemoed herleven !	Fear_Joy_Emotion_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.5	Die rasse komst der vloot verschaft , in dezen staat , Eene andre bezigheid dan straffen aan den raad .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.6	De Ruiter is naby !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.7	Wy zyn ons leed te boven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.8	Ik kan van zyne deugd my niets dan goeds beloven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.9	Gy kent zyne inborst niet , maar ik ken die voor lang .	None
+noms001mich01_01.TEI.2.text.body.div.head.784.s.1	Tweede bedryf .	None
+noms001mich01_01.TEI.2.text.body.div.stage.786.s.1	Het Tooneel is in het voorportaal van den kerker .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.790.s.1	mevrouw la borde , een hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.1	Stel u gerust , mevrouw !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.2	Gy zult La Borde spreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.3	Dit zeldsaam gunstbewys is geen ongunstig teeken : Een heimelyk gesprek word nimmer toegestaan Met hem die zéker zal de doodstraf ondergaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.4	Wy achten uw ' gemaal , zyn lot doet ieder zuchten ; Zyn lyfsgevaar kan u niet meer dan my doen duchten .	BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.5	De staat van ongeluk is die gesteltenis .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.6	Waarin de mensch bespeurt of hy beminlyk is .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.814.s.1	All ' wat ik kan , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.814.s.2	in deze omstandigheden , Waarin myn hart door hoop en doodsangst word bestreden , It u te danken voor die edelheid van hart , Die u doet deelen in La Bordes bittre smart .	Fear_Emotion_Hope_BodyPart_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.814.s.3	Die edelmoedigheid doet my genoeg bespeuren , Dat ge in den kerker hem niet troostloos hebt doen treuren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.814.s.4	De gunst , waarvan ge my voor hem veel goeds belooft , Ben ik verpligt aan uw gewezen opperhoofd , Die zyn ' gestrengen zoon daartoe heeft kunnen nopen , En my op 't edel hart des admiraals doet hopen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.820.s.1	Men pryst De Ruiter hoog : men zegt dat inderdaad Zyn hart meer tot genaê dan strafheid overslaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.820.s.2	Zelfs zegt men zyne deugd gaat verr ' 't gerucht te boven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.832.s.1	Ik heb geen reên , mynheer , dat ik 't niet zou geloven : De gryze Valkenburg , die niemant ooit bedroog , Pryst by aanhoudendheid De Ruiters deugden hoog .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.832.s.2	Doch , buiten dit , de hoop , die doorgaans 't hart der menschen Geloven doet all ' 't geen zy waar te wezen wenschen , Doet my geen ' twyfel slaan aan held De Ruiters deugd .	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.832.s.3	Het is die hoop alleen die thans myn ziel verheugt .	Emotion_Hope_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.832.s.4	Ontsluit myn ' echtgenoot .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.832.s.5	‘ Ik voel myn leden beven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.838.s.1	Ik ga op 't oogenblik daartoe bevelen geven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.838.s.2	Ik weet myn ' last , mevrouw .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.838.s.3	Verwacht in dit vertrek Met hem om wien gy weent een ongestoord gesprek .	BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.844.s.1	mevrouw la borde , alleen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.1	Hoe stryden hoop en vrees gestaêg in myn gedachten !....	Fear_Emotion_Hope_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.2	Maar moet ik siddrend ' hier myn ' echtgenoot verwachten ?	Fear_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.3	ô Ja !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.4	La Bordes lot hangt van den vlootvoogd af ; Men zegt de grooten zyn meêdoogenloos en straf , En 't hoofd der vloot behoort voorzeker tot de grooten ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.5	Maar gryze Valkenburg , uit edel bloed gesproten , Doet my ten klaarste zien , door 't deelen in myn smart , Dat álle grooten niet onmenschlyk zyn van hart .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.6	Hy roemt den admiraal : waarom zyn woord te vreezen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.7	Hy is alöm geächt , hy zal myn voorspraak wezen !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.8	Wyk , vrees !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.9	die weinig baat , en slechts ons wee vergroot .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.861.s.1	mevrouw la borde , la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.865.s.1	la borde , driftig toeschietende , en haar ombelzende .	EmotionalAction_Love
+noms001mich01_01.TEI.2.text.body.div.div.sp.867.s.1	Geliefde wederhelft !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.871.s.1	mevrouw la borde , weenende , in zyne armen .	BodilyProcess_Other_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.873.s.1	Trouwhartige echtgenoot !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.876.s.1	la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.881.s.1	Weêrhou die tranen toch , die my het hart doorboren .	BodyPart_BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.881.s.2	Door wien is my 't geluk van u te zien beschoren ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.881.s.3	Wien danke ik deze gunst ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.881.s.4	die my hoogst dierbaar is , Schoon zy niets goeds voorspelt in dees gesteltenis .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.885.s.1	Dank gryzen Valkenburg dat gy my moogt aanschouwen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.893.s.1	Ik kan geen ' enklen stap van dezen held mistrouwen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.893.s.2	Spreek , gaf men my ter gunst tot dit bezoek bevel ?...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.893.s.3	Of zegt gy anderwerf voor eeuwig my vaarwel !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.893.s.4	Ontzie my niet , spreck vry ; voldoe aan myn begeeren : Wat zal myn noodlot zyn ?	Emotion_Desire
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.895.s.1	Mevrouw la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.899.s.1	Het kan , het zál verkeeren !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.899.s.2	Ten minste Valkenburg , die waarlyk vrome man , Dien ik geloven móet , verzekert my daarvan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.904.s.1	Zo hy 't verzekren durft , wat staat ons dan te vreezen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.904.s.2	Wat doet , by zo veel hoop , u dan zo treurig wezen ?	Emotion_Hope_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.909.s.1	Wie kan het geen hy mint , gelyk zyn eigen hart , Gevoelloos lyden zien ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.921.s.1	Verban , verban die smart .	Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.921.s.2	Indien een schelmstuk my myne eer had doen verkorten , Dan voegde 't u met recht dien tranenvloed te storten ; Maar 'k heb uwe eer , myne eer , vol moeds , door 't staal gered , En ben dus 't offer slechts der strengheid van de wet .	Honor_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.921.s.3	Maar wat kan Valkenburg u doen verzekring geven , Dat niet ten tweedemaal myn vonnis is geschreven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.921.s.4	Onthef myn hart van schrik , dien my het sterven baart , Om u , geenszins om my : gy kent La Bordes aart !	Fear_Emotion_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.934.s.1	De Hollandsche admiraal , die hier in 't kort zal landen , De Ruiter , heeft uw lot volkomen in zyn handen ; En gryze Valkenburg bezweert my dat die held In goedertierendheid zyn hoogste glori stelt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.934.s.2	De gryzaart , die u acht , wiens deugd ons is gebleken , Belooft my zelf voor u den admiraal te spreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.934.s.3	Schep moed , myn echtgenoot !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.934.s.4	wie leeft ' er die een ' man Als eedlen Valkenburg een bede ontzeggen kan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.934.s.5	Myn liefde doet my 't all ' van zynen yver hopen .	Emotion_Hope_Love
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.1	Een zwakke hoop , helaas !	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.2	die haast tot niet zal loopen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.3	Uw liefde is 't all ' voor my ; maar , tot myn ' bittren druk , Verzwaart die liefde alleen La Bordes ongeluk : 't Besef van 't wee , dat ze u om myn gevaar doet lyden , Moet in dit oogenblik myn hart op 't felst doorsnyden ; Naardien uw ydle hoop , alleen uit liefde ontstaan , Als hoop vervliegt , uw hart te dieper wond ' zal slaan .	HeavyHeartedness_Emotion_Hope_BodyPart_BodilyProcess_Love_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.5	hoe kan Valkenburg , door zulk een hoop gedreven , Van myn bevryding u met grond verzekring geven ?	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.6	Vergeet hy dat zyn zoon , uit achting voor den raad , My aan myn yslyk lot volstrekt bevolen laat ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.7	En kan hy ooit met grond van 't hoofd der vloot verwachten , Dat hy de raden belg ' , ter gunst van ydle klagten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.962.s.1	De last des ongeluks spoort u tot wanhoop aan .	Emotion_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.962.s.2	'k Weet dat de ramp in ons de wantrouw doet ontstaan ; Maar laat haar nevel thans uw ' geest niet meer bevangen .	Suspicion_Emotion_BodyPart_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.div.sp.962.s.3	De jonge Valkenburg , gedrongen door belangen Den raad te ontzien , volgt slechts wat hem 't belang gebied ; Maar Neêrlands admiraal kent die belangen niet : Die held heeft aan de wrok des raads zich niet te stooren ; De raad , hoe fel gebelgd , kan hem niet ringelooren .	Emotion_Spitefulness
+noms001mich01_01.TEI.2.text.body.div.div.sp.962.s.4	't Kostalles hem één woord : ‘ ik eisch 't ! ’ en alles zwicht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.1	Dat zy zo ; maar dat woord is waarlyk van gewigt ; 't Is voor een ' staatsman veel daarvan gebruik te maken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.2	Laat ons 't gewis gevaar niet voor ons zelv ' verzaken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.3	't Is mooglyk dat myn geest , bedwelmd door 't ongeluk , Te veel gevaren ziet , tot meerdring van myn ' druk ; Maar hoop , ruim zo bekwaam als smart om 't oog te blinden , Kan ook aan schyn van heil u doen een toevlugt vinden : Beproeven we , onbedwelmd , aan 's tyds gesteltenis , Of hoop of vrees voor ons het meest bedrieglyk is .	HeavyHeartedness_Emotion_Hope_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.4	Waant gy 't in 's lands gevaar De Ruiters zaak te wezen , Hoe weinig hy 't gemor der raden heeft te vreezen , Dat hy , op Valkenburgs , of uw ' , of iemants drang , Zich menge in een geval voor hem van geen belang ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.5	Wat raakt hem of men my op nieuw verwyz ' tot sterven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.6	Waarom toch zou hy my genade doen verwerven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.7	Om Valkenburgs verzoek !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.8	Maar wat is in deez ' staat Hem nutter , Valkenburg ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.9	of 't ligchaam van den raad ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.10	Is 't heden zyn belang , al wil hy my verschoonen , Den raad door 't scheuren van zyn vonnis fel te hoonen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.11	Moet ooit dees ryke kust van tweedragt zyn bevryd , Het is vooral in deez ' hoogst hagchelyken tyd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.12	Heeft de admiraal de spyt der raden niet te vreezen , Hun vrindschap moet nochtans hem aangenamer wezen Dan hunne vyandschap , die hy niet zoeken zal Door een ' verwezen man te onttrekken aan zyn ' val .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.13	Wie dit vertrouwen durft kent weinig 't hart der grooten ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.995.s.1	mevrouw la borde , met drift .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.1	Gy dwaalt : het hoofd der vloot , uit lagen stam gesproten , Heeft in een ' armen staat , die nooit 's mans luister krenkt , Geleerd hoe in den nood zyn medeschepsel denkt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.2	Hy weet wat waarde elk mensch , hoe arm , of hoog verheven , By 't aanzien van de dood natuurlyk hecht aan 't leven ; De man , die in een stulp op 't land is voortgebragt , Is hem , als mensch , zo waard als 't vorstelykst geslacht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.3	Dit is niet vreemd : de nood doet ons aan deugd gewennen ; Men dient om mensch te zyn zichzelv ' eerst zwak te kennen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.4	Gelnof my , de admiraal is van die grooten niet , Wier oog meêdoogenloos hun mindren lyden ziet .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.5	Uw trouw voor Valkenburg , den zeeheld aangeprezen , Uw moed , alom bekend , uw dienst aan 't land bewezen , De wondre zeldsaamheid van uw berucht geval , 't Gaat vast dat alles op den vlootvoogd werken zal !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.6	't Geen ieder van hem zegt maakt hem onze achting waardig .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.7	Verdenk de grooten toch niet allen , wees rechtvaardig , 's Helds roem is te algemeen , dan dat dit spoorloos zy .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.8	Nooit spreekt het gantsche volk de taal der vleijery .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.1	Het volk schat , inderdaad !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.2	vol onbezonnen yvers , Het schoon der daden naar den rang des daadbedryvers .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.3	Als een aanzienlyk man een goede daad verricht , Zy groeit in ieders mond , ze is groot in elks gezigt ; Daar wat een burger zich ook loflyks moog ' vermeten Meest flaauwlyk word geroemd , en spoedig word vergeten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.4	De goedheid van den held , geroemd schier buiten maat , Zou zo beroemd niet zyn waar ' hy geen man van slaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.5	Dat gryzen Valkenburg het alles gunstig schyne !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.6	Hy oordeelt ieders hart ten allen tyd ' naar 't zyne .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.7	En schoon De Ruiter heeft in lagen staat geleerd , Wat smart de droefheid baart , zyn staat is lang verkeerd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.8	De menschen zyn doorgaans in lagen stand meêdoogend '; Maar 't lot hen uit hun Niet ten top van staat verhoogend ' , Schryft hen , by 't wislen van hun standgesteltenis , Die strenge koelheid voor die grooten eigen is .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.9	Doch hoe De Ruiters zucht voor 't menschdom zy gebleken , Zyn strengheid doet niet min de waereld van hem spreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.10	Bedenk dit .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.11	Oordeel nu of ik van zulk een ' man , In weêrwil zyns belangs , vergifnis hopen kan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1042.s.1	mevrouw la borde , na een weinig zwygens .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1050.s.1	Gemaal !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1050.s.2	moet uwe vrees my , éénsslags , 't all ' doen vreezen !	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.1050.s.3	‘ De gunst des admiraals moet niet onzeker wezen ; En evenwel , 't gaat vast , zy kan onzeker zyn ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1050.s.4	De vrees myns echtgenoots is niet ontbloot van schyn ! ’	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1046.s.1	Na een poos hem sterk te hebben aangezien , peinzende en ter zyde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1054.s.1	Spreek , wat besluit uw hart ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1054.s.2	't Schynt heimlyk zich te kwellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1057.s.1	mevrouw la borde , uit haar gepeins tot de uiterste levendigheid overgaande .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1060.s.1	Uw noodlot aan uzelv ' , en dat terstond !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1060.s.2	te stellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1060.s.3	De Hemel stort daartoe my 't middel in den zin !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1064.s.1	Wat wilt gy zeggen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1064.s.2	Spreek !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1064.s.3	Wat middel valt u in ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1074.s.1	Een middel dat uw hart geenszins zal kunnen wraken , Dat van De Ruiter u zal onäshangklyk maken , Dat gryzen Valkenburg de moeite sparen zal Van u door zyn verzoek te onttrekken aan uw ' val , En dat zyn ' strengen zoon , en al de trotse raden , Terwyl ons ieder roemt , met schand ' zal overladen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1074.s.2	Dat middel is ... de vlugt !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1074.s.3	maak u daartoe gereed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1077.s.1	la borde , met verwondering .	Emotion_Wonder
+noms001mich01_01.TEI.2.text.body.div.div.sp.1079.s.1	Wat dekt me in 't uitgaan voor 't gezigt der wacht ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1082.s.1	mevrouw la borde , met vervoering , hem om den hals vallende , by de hand nemends en , na een weinig zwygens , hem met tederheid aanziende .	Emotion_EmotionalAction_BodyPart_Love_Benevolence
+noms001mich01_01.TEI.2.text.body.div.div.sp.1084.s.1	Dit kleed !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1087.s.1	la borde , met verbaasdheid , zich van haar losrukkende .	Emotion_EmotionalAction_Other_Wonder
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1092.s.1	mevrouw la borde , op hem toetredende , met drift .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.1	Schiet het aan , om zeker weg te vlugten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.2	Vermomd in myn gewaad hebt gy geen wacht te duchten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.3	Hou , als gy uit dit hol voorby de wachten trekt , ( Alsöf gy bitter weende , ) uw aangezigt bedekt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.4	Win onze woning straks , en laat uw vlugste flaven , En zy , die van hun trouw de sterkste proeven gaven , U vergezellen door de bosschen , of langs 't strand , Tot by 't Fantynsche volk dat diep zich houd in 't land .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.5	Gy wist voor lang hoe trouw die negers u beminden : Gy zult dat dapper volk licht tot uw hulp verbinden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.6	Ik geef , zo ge uw gewaad my voor myn kleedren gunt , U tyds genoeg dat gy dit vlek ontvlieden kunt : Ik zal , om 't hoofd der wacht alle achterdocht te onttrekken , Op deze tafel 't hoofd met mynen arm bedekken , Alsöf de hevigheid van 't pynlyk harteleed My 't spreken moeilyk maakte , en 't daglicht schuwen deed ; En , om des hoofdmans oog zolang 't kan zyn te blinden , Zal hy , wat hy ook zegg ' , volstrekt my spraakloos vinden ; Dus eer hy merken kan hoe loos hy wierd misleid , En hy u volgen doe , zyt gy in veiligheid .	Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.7	Verwerp myn ' voorslag niet ; gy moet dien niet weêrspreken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.8	't Lot heeft u lang vervolgd , gy kunt op 't lot u wreken : Daar 't u tot op deez ' dag zo hoogst ongunstig is , Schonk 't nochtans ons één gunst : één lyfsgestaltenis !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.9	Bedien u van die gunst om 't lot met roem te straffen Voor al zyne ongunst : 't zal niet licht my kans verschaffen U weêr alleen te zien ; want word uw dood bestemd , Dan is de toegang tot dit kerkerhol gestremd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.10	Kom , gryp het middel aan dat ik u aan durf bieden , Om strengen Valkenburg , den raad , de dood te ontvlieden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.11	't Is loflyk met geduld te lyden 't geen men moet ; 't Is pligtlyk , als men kan , 't gevaar te ontgaan met spoed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.1	All ' wat ik hoor ontroert me !	BodilyProcess_Moved
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.2	Ik ben naauw ' tot myzelven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.3	Moet gy , myn gemalin !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.4	myne eer dien afgrond delven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.5	Tot welk een ' prys stelt gy myn leven in myn hand ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.6	Gy wilt slechts dat ik leve , al leve ik in de schand ' ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.7	'k Heb u getoond uwe eer meer te achten dan myn leven , En gy , gy wilt myne eer een ' wissen doodsteek geven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.8	Had ik min waarde aan de eer dan 't levenslicht gehecht , Ik stond nu niet ten doel aan 't strenge wraakgerecht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.9	Ik , vlugtende , u ter prooi der trotse rechtbank laten !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.10	Ik zou myn vrinden , myn trouwhartige soldaten , Myn broeders , die ik steeds naar waarde heb geächt , Wier trouw my lichtnis in myn boei heeft toegebragt , Bedriegen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.11	en daardoor gelegenheid verschaffen Aan stuggen Valkenburg om hen op 't strengst te straffen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.12	Gy zoud de gunst eens mans bewogen met uw ' rouw , Eens vrinds , die , hoogst gerust op onze goede trouw , Bewerkt dat ge uw ' gemaal in 't kerkerhol moogt spreken , Misbruiken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.13	en op 't snoodst de goede trouw verbreken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.14	'k Zou leven met de blaam dat ik u hulploos liet !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.15	Verwacht van uw ' gemaal zo groot een lafheid niet !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.16	De ladder en de strop zyn min voor my te duchten , Dan 't denkbeeld is der schand ' van op die wyz ' te vlugten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.17	De dood my toegedacht is wreed voor 't oog alleen ; Maar ze is niets voor den man die haar durft tegentreên : De pyn word uit gevoel , uit anders niets !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.18	geboren ; 't Gevoel word door de straf , in 't vonnis , my beschoren , Byna niet aangedaan : ten ladder afgestort Is ons gevoel straks weg ; dus is ons lyden kort .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.19	Maar op een laffe wyz ' de goede trouw te schenden , Ten koste van onze eer gevaren af te wenden , Te leven met de blaam , dat ons het leven meer Behaaglyk is dan 't hoogst van 's menschen goed , onze eer ; Dit alles baart den man , die heeft geleerd te sterven , En denkbeeld heeft van de eer , meer smart dan 't licht te derven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.20	Laat uw ' gemaal , wiens pligt eischt dat hy 't middel doem ' Dat ons ontëert , vergaan ; en gy ... bewaar uw ' roem .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.1	Gy wyst myn ' voorslag af ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.2	Gyzelf , gy eischt te sneven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.3	Gy wilt dat ik u derv ' ?...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.4	'k Zal u voldoening geven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.5	Maar waan niet dat ik laf in deez ' gehaten wal By die barbaren , die u dreigen , leven zal .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.6	Toen ik u de eerst ; maal naar 't moordschavot zag rukken , Liet my de krankte , ontstaan uit drang van ongelukken , Niets dan een asscheid toe , dat my het hart doorsneed ; Dit hart , door tyd gewoon aan 't onverdraaglykst leed , Kan thans het groot besluit , waarvan 't hier all ' zal beven , Volvoeren , tot bederf van wie u wil doen sneven .	BodyPart_BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.7	Ik zeide u ééns vaarwel , ik denk daaraan , en yz ' !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.8	'k Zeg u thans weêr vaarwel , maar op eene andre wyz ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.9	Ik , door uw reên met schrik om uw gevaar bevangen , Wil van De Ruiters gunst uw hoofd niet af doen hangen ; Ik stel , uit liefde , uw lot trouwhartig in uw magt , Dewyl ge uit zucht voor my zyt in 't verderf gebragt ; Gy vind het minder wreed door een ontëerend sterven Uw gade , tot haar dood , uw ' bystand te doen derven , Dan , met haar bitter wee , dat ze om u lyd !	Fear_Emotion_BodilyProcess_Love_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.10	begaan , Haar liefde één pooging u ter redding toe te staan ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.11	Een kieschheid zo barbaarsch aal schaars naar tranen hooren !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.13	daar ik , nevens u , u aanmerk als verloren , Schiet my niets over dan dat ik dees plaats begeev ' , U redde door geweld ... of voor deez ' kerker sneev ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.14	'k Zal voor 't Fantynsche volk in 't rouwgewaad verschynen : Min wreed dan gy , naardien 't zal deelen in myn pynen , Zal 't op den strengen aart des landvoogds reeds verstoord , Daar 't u bemint , door my ten opstand aangespoord , Zich , voegende aan de zy ' van Englands waterbenden , Ter breking van uw boei naar deze muren wenden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.15	De neger zal my grootsch de dood trotseren zien , En , moedig uit den aart , myn pooging bystand biên .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.16	Het bloed des raads , die wreed uw bloed wil doen vergieten , Zal , zo men ons weêrstaat , in deze muren vlieten ; Of 't volk door my geleid zal my , in 't oorlogswoên , Verdelgen zien door 't rot dat u wil sneuvlen doen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1209.s.1	la borde , haar wederboudende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1211.s.1	Vertoef , wanhopige !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1211.s.3	myn bloed verstyft in de adren !	Fear_BodyPart_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.div.sp.1215.s.1	Besluit dan ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1215.s.2	't Is , te laat !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1215.s.3	'k Zie Valkenburg ons nadren .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1221.s.1	mevrouw la borde , valkenburg , la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1224.s.1	valkenburg , met levendigheid .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1230.s.1	Myn vrinden !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1230.s.2	komt , schept moed , en weest verheugd met my : Wy zien de gantsche vloot : De Ruiter is naby .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1230.s.3	Hy , die ons harteleed voorzeker zal genezen , Die held , alom bemind , zal binnen 't uur hier wezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1230.s.5	van waar die schrik , geprent op 't aangezigt !	Fear_Emotion_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.1	Myn vader , ach !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.2	uw deugd heeft reeds genoeg verricht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.3	Gy hebt ons klaar doen zien hoe sterk onze ongelukken , Die zonder voorbeeld zyn , u op het harte drukken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.4	Reeds hebt gy van uw ' zoon een weigring ondergaan ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.5	Wat by De Ruiter u de vrindschap doe bestaan , Om een ' gemaal die zich de dood niet wil onttrekken , In 't uiterst van den nood , met kracht ten steun te strekken , Ons oog voorziet daarin geenszins die zekerheid Waarmede uw goedheid ons zo gunstig heeft gevleid .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.6	Dus , niet voorziende om wis La Bordes boei te slaken ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.7	'k Zal , door ééne enkle daad , de waereld kenbaar maken , Dat liefde , ééns aangespoord tot wanhoop , in den nood Onëindig sterker is dan de yzing voor de dood .	Emotion_Love_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1244.s.1	Wanbopig .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1250.s.1	Zy vertrekt , met de uiterste drift .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1255.s.1	valkenburg , la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.1	La Borde , welk een schrik mag haar den geest ontroeren ?	Fear_Emotion_BodyPart_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.2	Wat mag haar opzet zyn ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.3	wat tracht zy uit te voeren ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.4	Wat spoort haar , daar myn hulp haar trouw ten dienst wil staan , Dat haar verheugen moest , tot zulk een wanhoop aan ?	Emotion_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.5	't Bericht der komst van 't hoofd van Neêrlands watermagten , De Ruiter , van wiens aart men niets dan goeds kan wachten , Op wiens meêdoogendheid zy straks noch heeft gehoopt , Is de oorzaak dat zy nu wanhopig my ontloopt !	Emotion_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.6	Van waar die omkeer toch ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.7	Wat doet haar alles vreezen , Daar ze alles hopen mag ?	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.8	Kan ik haar smart genezen , Het word op 't oogenblik door my in 't werk gesteld .	Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.1	Geen smart hield ooit myn ziel meer dan dit uur bekneld !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.2	Zo gy uw hulp , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.3	my gunstig wilt doen blyken , Volg straks myn echtgenoot '; laat zy u niet ontwyken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.4	Haar hart is teêr en fier , en zulk een hart kan licht , Door wanhoop overheerd , niet hooren naar den pligt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.5	In 's Hemels naam , vlieg heen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.6	'k Heb verder niets te smeeken , Dan dat ge my vergunt myn reden af te breken .	None
+noms001mich01_01.TEI.2.text.body.div.div.head.1283.s.1	Zesde tooneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1286.s.1	valkenburg , alleen .	None
+noms001mich01_01.TEI.2.text.body.div.head.1299.s.1	Derde bedryf .	None
+noms001mich01_01.TEI.2.text.body.div.stage.1301.s.1	Het Tooneel is in de groote zaal van het kasteel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1306.s.1	valkenburg , mevrouw la borde , een soldaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.1	'k Zeg andermaal , myn kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.2	gy hebt geen leed te vreezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.3	'k Moet jegens uw ' gemaal altyd erkentlyk wezen : 't Is op zyn ' sterken drang dat ik u hier bewaar ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.4	Ik vrees uw wanhoop meer dan uw ' gemaals gevaar .	Emotion_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.5	Daar hy my weigren blyft 't geen gy ontwerpt te ontdekken , En 't my niet mooglyk is u uw geheim te onttrekken , Ja ik door langer drang daartoe geen pooging doe , Is 't billyk dat myn zorg u voor uzelf behoê .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.6	Doch zwygen wy hiervan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.7	De Ruiter is gekomen : 'k Heb van zyn ' schout by nacht , op 't oogenblik , vernomen Dat Neêrlands admiraal myn ' zoon verzoeken doet , Dat niemant , wie 't ook zy , hem aan zyn boord begroet ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.8	Dit 's anders de eerste pligt van opperhoofd en raden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.9	Zo nedrig is de held , beroemd door groote daden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.10	Geloof toch dat ik nooit met waan u heb gevleid : De grond van myne hoop is zyn menschlievendheid .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.1	Hoe zeker u de grond van uwe hoop moog ' schynen , Uw hoop kan uit myn hart myn ' angst niet doen verdwynen .	Fear_Emotion_Hope_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.2	't Begrip ééns enklen mans beslist La Bordes lot : Het brengt hem in myn ' arm , of 't brengt hem op 't schavot : Men heeft van 't kloekst vernuft een wanbegrip te vreezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.3	De gunst des admiraals moet niet onzeker wezen ; En evenwel wie staat , tot lichtnis van myn pyn , My in dat deze gunst niet zal onzeker zyn ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.4	De Ruiter is een mensch , dus vatbaar voor verblinding .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.5	Ik heb van 't menschlyk hart slechts weinig ondervinding , Dus word een ydle schrik my mooglyk ingeprent ; Maar myn gemaal , mynheer , die 't menschdom beter kent , Den aart der grooten hart heeft weten na te sporen , Weet dat zy meer 't belang dan 't mededoogen hooren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.6	Een oog door tyd verlicht bedriegt zich zelden ; maar ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.1	Een oog door ramp verblind ziet doorgaans veel gevaar .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.2	Is uw gemaal , myn kind , schaars vatbaar voor verblinding , Ik heb van 't menschlyk hart een langer ondervinding , Myn oog is niet bedwelmd door walm van tegenspoed , 'k Ben in myne eerste jeugd by grooten opgevoed ; Besef dus wien van ons gy meer geloof moet geven , My , of een ' driftig ' man , door doodsangst aangedreven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.3	Ik ken den admiraal ; ik kende hem toen hy In uyvren Lampsins dienst noch voer ter koopvaardy ; En heb tot op dit uur geen reden om te vreezen , Dat hy niet heden noch de zelfde man zou wezen , Die hy in lagen staat , voordezen , is geweest , Dat is , meêdoogend ' , groot , en nederig van geest .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.4	Ik zelf heb Van Der Zaan , zyn ' schout by nacht , gesproken ; En dees heeft in myn hart noch meer de hoop ontstoken Waarmede ik met vermaak , in uwe omstandigheid , Uw droefheid , my ten troost , gedurig heb gevleid .	Joy_Emotion_Hope_BodyPart_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.5	De brave vlootvoogd komt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.6	Ik wacht hem met verlangen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.7	Tree , daar myn pligt verëischt hem in dees zaal te ontfangen , In 't gindsche zyvertrek .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.8	Bedwing u ; nader niet , Voor dat gy , op myn ' last , 't bestemde teeken ziet .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1373.s.1	Zy vertrekt , en de soldaat plaatst zich , op den wenk van valkenburg , voor de deur van haar vertrek .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1386.s.1	de ruiter , valkenburg , de jonge valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1386.s.2	Hoofden der vloot , scheepskapiteinen , raadsheeren , hoofdlieden ; en soldaten , aan den ingang .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1388.s.1	de ruiter .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.1	Men stake een eerbewys dat ik geenszins verwachtte , Dat ik altyd ontweek , en altyd weinig achtte .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.2	De staatkunde , eigenbaats en heerschzuchts booze spruit , Vond al die ydle praal voor hare dienaars uit , Om hunnen rang by 't volk , dat licht zich laat verblinden , Ten steun der dwinglandy meer aanzien te doen vinden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.3	Hy , die zyn broosheid kent , zoek ' , doende all ' 't geen hem Voldoening in zyn hart : al 't ovrige is een last .	Aquiescence_Emotion_BodyPart_Trust
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.4	Laat ons , door kryg gedreigd , den dierbren tyd besteden past , Aan 's lands verdediging , en niet aan kleinigheden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.5	De zucht voor 't land alleen verdient den eerenprys ; Uw yver tot 's lands dienst strekk ' my voor eerbewys .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.6	Men doe de vloot voorzien : dit 's de eerste myner zorgen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.7	Gy voert de lichtste kiel : vertrek van hier op morgen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.8	Uw togt zy Westlyk heen langs deze kust gericht , Doch hou , zo veel gy kunt , het land in uw gezigt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.9	Gy , steven zuidlyk aan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.10	En zo gy langs de vloeden Een kiel of vloot verneemt die her waarts schynt te spoeden , Doet , door uw zwaarst geschut , die straks ons volk verstaan ; Wykt , schietende , achterwaarts , en houd dus op ons aan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.11	U voegt het boven all ' het zeevolk in te toomen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.12	Vergunt geen groot getal gelyk aan land te komen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.14	van wier trouw ik allen dienst verwacht , Gy weet hoe hoog myn hart de tucht by 't zeevolk acht ; Men kan niet zonder haar een vloot met vrucht bestieren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.15	Maar wacht u , straffende , ooit die drift den toom te vieren Die , ééns aan 't woên , den mensch een ' mensch doet zyn in schyn : Bestiert uw benden zagt ; denkt dat zy menschen zyn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1403.s.1	Tegen één ' der kapiteinen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1408.s.1	Tegen één ' anderen kapitein .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1411.s.1	Tegen heiden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1418.s.1	Tegen de hoofden der vloot , en verdere kapiteinen .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1435.s.2	Soldaten , aan den ingang .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1448.s.1	Mynheer , die dezen dag aan dees gedreigde stranden Het zorglyk hoog bewint u ziet gesteld in handen , Aan wien ik op dit strand my van myn pligten kweet , Uw vlyt zy met myn vlyt ten dienst des lands besteed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1448.s.2	Onze eerste zorg in 't wee , dat wy met reden vreezen , Is meester van het hart van 't volk des lands te wezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1448.s.3	Is 't min beschaafd dan wy , het heeft geen ' minder ' moed , En 't waagt voor wien 't bemint , met blydschap zelfs , zyn bloed ; Vooral 't Fantynsche volk .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1448.s.4	Vertrouwt gy dat die benden , Ten val van 't Britsche volk , zich veldwaarts zullen wenden ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1458.s.2	Uwe edelheid hou ' zich verzekerd van Een volk waarvan men niets dan goeds verwachten kan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1458.s.3	't Was eerst , door list des Brits , tot Englands dienst gewonnen , 't Had zelfs reeds tegen ons de vyandschap begonnen ; Maar van hun dwaling , door den Brit hen ingestort , Genezen door ons volk , was deze kryg slechts kort .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1458.s.4	Zy hebben van hun trouw ons blyk op blyk gegeven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1468.s.1	Eén krygsman deed dit volk met ons in vrindschap leven , Mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1468.s.2	Het achtte hem , zo om zyn ' stouten aart , Als om zyn minzaamheid ; en hy is achting waard ': Zyn vuist bestreed hun magt , zyn tong bestreed hun dwaling ; En by den roem , verdiend door deze zegepraling , Voegt hy noch de eer dat hy me ontrukt heeft aan de dood .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1482.s.1	Wie is die oorlogsman ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1482.s.2	Zie hier zyne echtgenoot ' !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1480.s.1	valkenburg wenkt den soldaat , die terstond de deur ontsluit , waaruit mevrouw la borde schielyk ten voorschyn treed , en zich aan de voeten des admiraals werpt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1480.s.2	Terwyl vervolgt de gryzaart , tegen den admiraal .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1485.s.1	mevrouw la borde , de kniën des admiraals ombelzende .	EmotionalAction_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.1488.s.2	ik ben 't , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1488.s.3	Zie hier de droeve gade Eens oorlogsmans hoogst waard ' uw edelheids genade .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1492.s.1	de ruiter , met verwondering , haar opheffende .	Emotion_Wonder
+noms001mich01_01.TEI.2.text.body.div.div.sp.1495.s.1	Wat 's dit !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1495.s.2	De gade eens mans , die zo veel heeft bestaan , Smeekt my genaê voor hem !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1495.s.3	Wat heeft hy dan misdaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1500.s.1	Zyn misdryf sproot uit de eer , myne eer ter wraak , te hooren .	Honor_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.1500.s.2	Hierom is myn ' gemaal 't afgryslykst lot beschoren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1504.s.1	Die taal verwekt my smart , en veel verwondering !	Emotion_Sadness_Wonder
+noms001mich01_01.TEI.2.text.body.div.div.sp.1512.s.1	't Geval haars echtgenoots is waarlyk zonderling .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1512.s.2	Indien 't uwe edelheid op 't gunstigst mogt behagen Dit wonderbaar geval zich voor te hooren dragen , Ik stel voorzeker dat , by 't hooren van de schuld , Gy 't vonnis van den raad niet wederspreken zult .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1517.s.1	Of 't my behaagt ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1517.s.2	Ik eisch 't uit uwen mond te hooren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1520.s.1	Tegen mevrouw la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1522.s.1	Draag zorg 's lands opperhoofd niet in zyn reên te stooren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1525.s.1	Tegen den jongen valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1527.s.1	Spreek vry .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.1	Haar echtgenoot was hier gemeen soldaat , En kreeg , ten loon zyns moeds , van ons een ' hooger staat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.2	Toen noch 't Fantynsche volk , door Englands list bedrogen , Besloot met Neêrlands volk stoutmoedig te oorelogen , Besloot myn vader , ( door een valsch gerucht misleid , Alsöf slechts weinig volk zich had door 't bosch verspreid , ) Van weinig volk verzeld , den vyand weg te dryven , Het bosch te zuivren , niets daarin te laten blyven , En 't all ' met schrik te slaan voor Neêrlands wapenkracht , Wanneer hy onverhoeds zich zag in nood gebragt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.3	Hy wierd , aan 't hoofd zyns volks naauw ' boschwaarts ingedrongen , Aan alle kanten fel door overmagt besprongen ; En 't ongelykst gevecht dat iemant immer zag Voorspelde al 't volk , als hem , den laatsten levensdag .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.4	Zyn vuist , die wondren deed , voelt zich de kracht begevent Hem was alreê geen hoop in 't stryden bygebleven , Dan zyn vergrysde kruin , en zyner benden bloed , Op 't duurst te levren aan 't Fantynsche moordgebroed ; Wanneer La Borde , ( dus is haar gemaal geheeten , ) Zich hebbende in den drom van 't zwart gespuis gesmeten , Den vyand zo veel werks verschafte met de kling , Dat zich myn vader redde , en niet één wonde ontfing .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.5	Na zulk een stoute daad , die ieder held moet roemen , Heeft hem myn ' vaders gunst tot hoofdman doen benoemen ; Maar naauwlyks in dien rang gevestigd , heeft zyn hand Een ' onzer burgery dolzinnig aangerand , En met de kling , ten dienst van Neêrland hem gegeven , Door meer dan ééne wond ' , verwoed gebragt om 't leven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.6	Waarom 's lands eedle raad , naar eisch van Neêrlands wet , Den moorder daadlyk heeft in hechtenis gezet ; En , om hier in 't vervolg den tweestryd min te vreezen , Nadat hy wierd verhoord , hem tot den strop verwezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.7	Dit vonnis , dat op wet , op schuldbekendtenis , En welzyn van 't gemeen volmaakt gegrondvest is , Wierd daadlyk uitgevoerd ; en burgers en soldaten , 't Waande alles hem ontzield .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.8	Maar naauwlyks afgelaten Van 't dwarshout , opgericht tot zyn verdiende straf , Vernam men dat hy noch bewys van leven gaf ; En door behulp der kunst , verloster van ons leven Gedreigd in zynen loop , wierd hem de kracht hergeven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.9	Dus wierd de man , wiens val 's lands hooge raad besloot , Herboren op 't schavot uit zyn gewaande dood .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.10	'k Behoef uwe edelheid nu verder niets te ontdekken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.11	's Lands eedle raad zag niets dan 't vonnis half voltrekken : Dat vonnis eischt met recht des bloedvergieters bloed ; 't Eischt dat de dood de straf onfeilbaar volgen moet .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.12	Daar nu de moorder leeft , eischt wet , belang en reden , Dat hy ten tweedemaal ten ladder op zal treden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1586.s.1	Is 't waarheid ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1586.s.2	Durfde uw man zyn ' medemensch verslaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1586.s.3	Heeft hy door moordery zyn ' roem te niet gedaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1586.s.4	En durft gy , vol van hoop , zyn voorspraak u vermeten ?	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.1586.s.5	Ja hem , ten trots des raads , genade waardig heeten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1590.s.1	Hy heeft als man van eer zyn ' vyand neêrgelegd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.1	Betaamt een ' man van eer een Godloos tweegevecht ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.2	Zyn 't niet de Goddelyke en menschelyke wetten Die tegen 't tweegevecht met nadruk zich verzetten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.3	Wie tegen één van twee zichzelv ' baldadig kant Is een vermeetle schelm , of hy heeft geen verstand ; Wat staat de maatschappy dan niet van hem te wachten , Die , door zyn drift beheerscht , haar beiden durft verächten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.4	Doch 't is de reden zelf die 't tweegevecht verbied , Al hoonde 't ook de wet , den steun der volken , niet : Kan ooit op de aard ' wel iets meer onrechtvaardig wezen , Dan dat in een geschil , ( uit welk een ' grond gerezen , ) De magt gelaten word aan hem die onrecht deed , Ter moording van den man die schuldloos onrecht leed ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.5	En dit geschied , zodra men 't recht door 't staal verdedigt : Want wie verzekert ons dat hy die is beleedigd , Zal overwinnaar zyn op 't einde van 't gevecht ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.6	Gelyk en ongelyk verkrygen dus één recht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.7	Ik denk niet dat één mensch op de aarde ooit zal beweeren , Dat hy , wiens overmoed een ' ander durft ontëeren , Gelyk heeft in zyn zaak wanneer hy slechts verwint ; Want wie dit staande houd is inderdaad ontzind .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.8	Zo die Godlooze stryd wierd ongestraft gelaten , 't Waar ' met den welstand uit des volks , in alle staten : Waar toch zou eenig volk met veiligheid bestaan , Zo elk zichzelv ' ter wraak de hand aan 't staal mogt slaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.9	De losse jongeling , of deugniet , best bedreven In 't voeren van de kling , waar ' meester van elks leven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.10	De minst geöefende in 't bestieren van de kling Stond dan ter prooije aan guit , of woesten jongeling .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.11	Het leven , 't hoogste goed dat wy op de aarde ontfangen , Behoort niet van de kling van dwazen af te hangen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.12	Is , alles wél beschouwd , het haatlyk tweegevecht Geen schaamtlooze inbreuk op het Goddelyke recht ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.13	Het leven is den mensch door 's Hemels gunst gegeven ; Hy is het dus alleen die recht heeft op ons leven ; Dus is het tweegevecht , schoon 't schelm en dwaas bekoort , Een inbreuk op dat recht , een weg tot wreeden moord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.14	't Waar ' billyk hen die zich op 't recht der kling vertrouwen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.15	Tot veiligheid des volks , de handen af te houwen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.16	De reden , geen geweld , besliss ' der menschen zaak ; De Godsdienst en de wet verbieden alle wraak .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.17	's Lands overheid alleen zy in elks zaak meestresse : Haar voegt alleen het zwaard , als 's Hemels dienaresse .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.1	Uw taal , mynheer , is sterk , zy is vol edelheid .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.2	Verbeeld u niet dat ik voor 't recht des tweestryds pleit ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.3	De burger kan volmaakt zich naar uw ' wil gedragen ; Maar wie moet inderdaad den krygsman niet beklagen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.4	Indien hy door 't geweer zichzelven recht verschaft , Word hy , als moordenaar , door de overheid gestraft ; En zo hy wrakeloos zich hoonen laat , of kwellen , Is hy zyne achting kwyt by med - en rotgezellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.5	Hy heeft dus , als zyne eer verwoed word aangerand , Geen keur dan strafschavot , of leven vol van schand ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.6	Verschoon my , myn gemaal was nevens my beleedigd , En heeft , als oorlogsman , zichzelv ' en my verdedigd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.1	Hy was een oorlogsman ten dienste van den staat , Geenszins ten dienst van u , of zyn ' ontzinden haat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.2	Hy droeg zyn kling om 't land , op hoog bevel , te wreken , Niet om zichzelv ' ter wraak zyn ' vyand neêr te steken , Niet om in zyn geval , ter straffe eens vyands woên , Zo die te ontvlieden waar ' , zichzelven recht te doen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.3	Ik zal , wat zyde ik ook in 't rechtsgeding moog ' kiezen , Uw beider ongelyk niet uit het oog verliezen ; Maar wraak en moorden staan zo min den krygsman vry , Als 't armste medelid van deze burgery .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.4	Word eenig oorlogsman door woord of daad beleedigd , Hy wend ' zich tot het recht ; hy zy door 't recht verdedigd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.5	Niets maakt hem magtig tot het oefnen zyner wraak ; Niets maakt hem , 't recht ter spyt , tot rechter in zyn zaak .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.6	De wet die moord verbied raakt alle stervelingen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.7	Niets geeft den krygsman recht naar iemants hals te dingen , Dan kryg , waarin de magt die over ons gebied Verantwoord voor al 't bloed dat's krygsmans staal vergiet .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.8	Toen de Opperhemelheer Zyn wet ons heeft gegeven , Heeft Hy den krygsman nooit deez ' regel voorgeschreven : ‘ Wanneer uw medemensch u hoont door daar of woord , Beproef op gy uzelv ' kunt wreken door een ' moord ; Of waag uw hoogste goed aan uwen hooners woede ; Hy wasch ' , na 't hoonen , noch zyn hand in uwen bloede ’ .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.9	Zyn wet was algemeen : ‘ Wie iemants bloed vergoot , Zy door der menschen hand geleverd aan de dood ’ .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.10	Geen wet by eenig volk heeft ooit die wet weêrsproken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1689.s.1	Myn echtgenoot , helaas !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1689.s.2	heeft zich uit nood gewroken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1689.s.3	't Waar ' met zyne eer gedaan , zo 't geen hy onderging ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.1	't Is een erbarmlyke eer die steunt op 't recht der kling !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.2	Wat zonderling begrip !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.4	moet de kling bewyzen Dat wy hoogst waardig zyn dat ons de menschen pryzen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.5	Word iemant eerloos door een ' schelders schendend woord ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.6	Wie is meer achting waard ' die honden blaffen hoort , En hen niet waardig acht door slag of schop te straffen , Of hy die tegenblaft , en dus hen meer doet blaffen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.7	Een mensch geneigd tot slaan of schelden dient gevreesd , Gelyk een dolle hond , of ander razend beest : Wie wederscheld of smyt maakt zich tot zyns gelyken ; De ware man van eer zal zwygend ' hem ontwyken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.8	Zyne eer rust op zyn deugd ; en dees houd eeuwig stand , Hoe vinnig ook door woord of daden aangerand .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1709.s.1	Uwe edelheid verschoon de menschelyke driften .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1724.s.1	De mensch heeft redenkracht om 't goed van 't kwaad te schiften .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1724.s.2	Hy weet , de reden en de Godsdienst leert hem dit , Dat hy , schoon hy een hart dat zondig is bezit , Onëindig veel kan doen om in dat hart te smooren All ' wat zich tegen 't geen dat loflyk is doet hooren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1724.s.3	Had niet het schepsel kracht tot zelfverbetering , Dan waar ' hy nooit strafwaard ' , wat gruwel hy beging .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1724.s.4	De Hemel heeft den mensch , in alle levensstaten , Begunstigd met de kracht om 't kwaad te kunnen laten ; En wie een gunst versmaad , die hem de Hemel gaf , Verdient , by ons beklag , met allen recht zyn straf .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1730.s.2	laat beklag , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1730.s.3	in uwen boezem spreken ; En laat La Bordes trouw voor hem genade smeeken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1733.s.1	de ruiter , haar opheffende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.1	'k Beklaag hem inderdaad , gelyk ik elk beklaag Die waard ' is dat zyn ziel den last van 't misdryf draag ' , En voel , om zyne trouw , tot zyn behoud my sporen ; Maar 't recht heeft ook zyn stem , die ik niet min moet hooren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.2	Ik acht menschlievendheid , ik acht en moed en trouw , Maar 't achtbaar , 't heilig recht acht ik niet min , mevrouw !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.3	Zo , zonder de achtbaarheid van 't heilig recht te krenken , 't My doenlyk zy genade aan uw ' gemaal te schenken , Vertrouw vry dat dit hart , vol zucht voor de eer van 't recht , De kreet van 't menschenbloed geenszins genade ontzegt .	Emotion_BodyPart_Desire
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.4	All ' wat ons by den last eens staatsampts troost moet geven , Is magt tot sparing van der medemenschen leven ; En als een staatsampt meest ondraaglyk wezen moet , 't Is als de pligt ons dwingt tot storting van hun bloed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.6	mogt ik in 't gedrag uws echtgenoots niets vinden , Dat tot den wreedsten pligt ons billyk moet verbinden !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.7	Hoe 't hiermeê wezen moge , ikzelf , ik wil terstond 't Geen hem bezwaart of dient vernemen uit zyn ' mond .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.8	't Betaamt my niet uw hoop op zyn behoud te voeden , Of uw benepen hart door siddring te doen bloeden : Vertrouw nochtans , schoon ge u door hoop niet ziet gevleid , Myn deernis met uw lot , en zucht tot billykheid .	Fear_HeavyHeartedness_Emotion_Hope_BodyPart_BodilyProcess_Desire
+noms001mich01_01.TEI.2.text.body.div.div.stage.1763.s.2	Eén soldaat , in het verschiet .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1766.s.1	mevrouw la borde , tegen den opperbevelbebber .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1777.s.1	Mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1777.s.2	zie my , beschreid , voor u ter neêrgebogen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1777.s.3	Thans verg ik in den nood niets van uw mededoogen Waardoor gy met 's lands raad in twist geraken kunt , Neen ! 't smeeken om één gunst zy my alleen vergund .	Emotion_Compassion
+noms001mich01_01.TEI.2.text.body.div.div.sp.1777.s.4	Gy hoort hoe de admiraal , wiens strengheid my doet beven , Als rechter , myn ' gemaal terstond gehoor zal geven : 't Gaat vast dat hy van u , als kundig van 't geval Dat my elendig maakt , getuignis vergen zal ; Laat my , dit is myn beê , van u geen strengheid vreezen : Verschoon La Bordes drift , zo veel 't zal mooglyk wezen .	Fear_Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.1	Denk niet dat ik u hoor met een verhard gemoed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.2	La Borders weldaad spreekt : ik hoor de stem van 't bloed , Ik hoor zyn groote trouw bewezen aan myn ' vader , Den dienst aan 't land betoond , en uw verdriet te gader ; Maar verg ' my , hoe dit all ' op my ook werk ' , mevrouw , Geen daad die 't hoofd der vloot op 't hoogst mishagen zou .	Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.3	Hy acht de waarheid hoog .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.4	Zyn strengheid doet u vreezen ; Moet zy , in mynen rang , my niet ontzaglyk wezen ?	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.5	'k Zal doen 't geen my betaamt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.6	De toestand van den staat Eischt heden andre zorg , en dat ik u verlaat ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1797.s.1	valkenrurg , mevrouw la borde , een soldaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.1	Ziedaar de maat gevuld van 't geen ik had te schroomen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.2	Ziedaar den grond van hoop voor eeuwig my benomen !	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.3	Thans zie ik klaar , hoe sterk beneveld door myn pyn , Wat burgers in den nood , en wat de grooten zyn .	Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.4	Myn vader !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.5	kan uw hart in dezen staat noch hopen ?	Emotion_Hope_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.6	Uw zoon ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.8	hoe koel is hy mynoog ontloopen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.1	Ik ken den admiraal , ik ken myn ' zoon ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.2	Hoe 't zy , Zwyg van myn ' zoon , en hoop op 't hoofd der vloot en my .	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.3	De Ruiters taal was streng , dit lyd geen tegenspreken ; Maar uw ' gemaals geval is slechts hem half gebleken : Het wierd hem inderdaad ongunstig voorgesteld .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.4	Ik heb het aangehoord , en deed myzelv ' geweld Ter breidling van een drift die my niet zou betamen ; Men moet geen hoofd des lands voor 't hoofd der vloot beschamen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.5	Ik duchtte dat uw hart , vervoerd door bittren rouw , Ten nadeel van myn ' zoon zich niet bedwingen zou .	Emotion_BodyPart_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.6	De Ruiter , die zich licht aan zulk een drift zou stooren , Zal tyds genoeg van my 't geen hy moet weten hooren : 'k Stel vast dat de admiraal , in zulk een zwaar geval Myn ' zoon verhoorend ' , zich met my beraden zal .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.7	Alsdan zal ik , doch verr ' van mynen zoon te hoonen , Den admiraal 't geval in 't ware licht vertoonen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.8	Intusschen , mogt elk mensch , op 't hooren van uw ' nood , 't Afgryslyk tweegevecht meer schuwen dan de dood !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.9	Hy dien daarin het staal word in de borst gedreven , Is min beklagenswaard ' dan hy die blyft in 't leven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.10	Mogt elk , zodra hy voelt dat hem zyn drift verheert , Begrypen , 't zy hy valt of 't zy hy triomfeert , Dat hy , ( hoe spoorlooze eer zich moog ' hier tegen kanten , ) De rampbewerker word van al zyn bloedverwanten !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.11	Wat u betreft , myn kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.12	ach !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.13	sta my gunstig toe , Dat ik aan 't sterk verzoek van uw ' gemaal voldoe ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.14	Keer in dit zyvertrek !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.15	Met uw verdriet bewogen , Tracht ik me één oogenblik te onttrekken aan uwe oogen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.16	Dit zuchtend ' hart , een wyl door eenzaamheid ontlast , Beraamt te beter 't geen tot uw behoud my past .	Emotion_BodyPart_BodilyProcess_Unhappiness_Other
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.17	Verzel mevrouw alom .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.18	Men laat ' haar niets ontbreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1841.s.1	Tegen den soldaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1849.s.2	Eén soldaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1857.s.1	Men tracht myn ' echtgenoot verwoed naar 't hart te steken , Men kerkert me op zyn beê , hy snyd den weg my af Dien ik heb in te slaan tot zyner beulen straf , 'k Moet siddren als ik denk aan 't hoofd der watermagten , Van 't opperhoofd des lands staat my geen ' troost te wachten ; Noch word in zo veel wee myn ziel met hoop gevleid ...	Fear_Emotion_Hope_BodyPart_BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1857.s.2	Wat foltring is zo wreed als deze onzekerheid !	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1859.s.1	Einde van het derde bedryf .	None
+noms001mich01_01.TEI.2.text.body.div.head.1863.s.1	Vierde bedryf .	None
+noms001mich01_01.TEI.2.text.body.div.stage.1865.s.1	Het Tooneel verbeeld het zelfde vertrek waarin het eerste bedryf is afgespeeld .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1870.s.1	de ruiter , aan een tafel gezeten , met het vonnis des gevangen en schrystuig voor zich .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1870.s.2	Eén hoofdman , en soldaten , aan den ingang , tegen wie de admiraal zich wend , en , hen wenkende te vertrekken , zegt :	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1870.s.1	Leid uw ' gevangen hier .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1873.s.1	De deur van het vertrek word gesloten ; waarna de Admiraal , op eene treurige wyze , het vonnis inziende , na een weinig peinzens , vervolgt :	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.1	Zyn dienst zou dan niets baten !...	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.2	Ziedaar dan 't smaaklyk zoet van hoog verheven staten , Naar wier bezit het hart zo onöphoudlyk haakt !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.3	Hoe spoorloos is de mensch met hoog gezag vermaakt !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.4	De mensch is , inderdaad !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.5	hoe ook als wys gepvezen , Veel min een redelyk , dan redenerend wezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.6	Steeds haakt hy naar geluk , en zoekt het in een goed Dat zyn ' bezitter kwelt , daar 't duizend zorgen voed .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.7	Ten minste is 't wigtig ampt waartoe ik ben verheven , Die rang die , ongezocht , door 't lot my is gegeven , In 't oog van hem die niet door schyngoed word verrukt , Een wezentlyke last , die 't hart gevoelig drukt .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.8	'k Had waarlyk meer geluk toen ik , van elk vergeten , By myn gelieft geslacht gerust myn brood mogt eeten , Ja toen , ( hoe dikwyls was 't dat ik dien tyd herriep ! ) Ik , in den laagsten staat , in Lampsins lynbaan liep , Dan nu my 't wigtig ampt van vlootvoogd is beschoren .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.9	Behaagt het 's Hemels guust myn ' hoogsten wensch te hooren , Dan zal geen zoon van my ooit , tot zyn droefenis , Bevinden wat myn post , of eenig staatsampt is .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.10	't Is niet genoeg zyn ' rang met luister te onderschragen , Voor 't welzyn van den staat angstvallig zorg te dragen , Den roem van 't vaderland manmoedig voor te staan , Een ' vyands magt en list met kunst te keer te gaan , Zich wreed genoopt te zien tot bloedvergietend stryden , Te peinzen om den slag te zoeken , of te myden , Te leven in de vrees , als 't lot ons ééns bedriegt , Dat onze roem éénsslags met ons geluk vervliegt , Dat slechts één enkle stap , hoe yvrig wy ook waken , Ons niet alleen veracht , maar zal elendig maken , En dat , schoon 't los geluk ons al bestendig vleit , Ons loon zal afgunst zyn , of koele ondankbaatheid , Ja dat men , inderdaad , wanneer we één ampt begeven Aan hen die 't lot verpligt in onzen dienst te leven , ( Hoe de amptbegevingsmagt ons dwalend hart bevall ' , ) Tien hateren , en één ' ondankbren maken zal ; Dit 's alles niet genoeg ; dit 's alles niets te noemen By dien geduchten pligt om tot de dood te doemen ...	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.11	Te doemen tot de dood !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.12	Dat woord , dat woord alleen , Ontroert myn ingewand !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.13	Het scheurt myn hart vanéén !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.15	hoe uw wil en schikking dient geprezen , Waarom de Ruiters hart tot zulk een ' pligt verwezen !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.16	Is 't hem geen smart genoeg dat hy in menschenbloed De veiligheid zyn lands bestendig vesten moet ?	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.17	Dat hy by 't naar gekerm verwekt by bloed te plengen , Ja in de elend ' des krygs , zyn ' leeftyd door moet brengen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.18	Moet hy noch buiten kryg , ten dienste van zyn land , Het leven van den mensch gesteld zien in zyn hand ?	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.19	Is dit uw wil ?	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.21	uw gunst verlicht my de oogen .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.22	Bestier myn zucht voor 't recht , bestier myn mededoogen ; Verlicht den last myns ampst , tot mindring myns verdriets ; Want zonder uwe hulp is 's menschen wysheid niets .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1935.s.1	de ruiter , la borde , Eén hoofdman , en soldaten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.1	Elendige !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.2	tree toe .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.3	Gy doet dan op uw wezen Den toestand van een hart bevryd van wroeging lezen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.4	Hoort gy de stem van 't bloed dat uwe vuist vergoot , Niet tevens met de smart der schuldlooste echtgenoot ' ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.5	Voegtu , daar moord uw ziel met droefheid moest bezwaren , De wroegingloosheid aan gevoelloosheid te paren ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.6	Is 't mooglyk dat een man die zo veel heeft bestaan , Eerst moordde , en daarna niet door smart is aangedaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.1	Nooit stoorde zich myn hart aan argwaan of betichting .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.2	Men gaf-uwe edelheid voorzeker onderrichting , Ik zie 't niet dan te klaar , van 't geen ik me onderwond ; Maar heeft men u gemeld waaruit de twist ontstond ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.3	Zo 't u behaagt , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.4	als rechter , my te hooren , Dan smeek ik u met ernst om alles na te sporen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.5	Hoewel ik in gevecht , gedrongen door den nood , Het bloed eens wreevlen mans door myn geweer vergoot , De Hemel , die alleen in ons gemoed kan lezen , Weet of ik wroeging leed , zelfs eer ik wierd verwezen ; Hy weet wat wee ik leed om 't lyden van myn gaê , En of ik noch myn hart van wroegingen ontsla .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.6	Wie iemant dooden kan met koele wroegingloosheid , Bezit een eerloos hart , in staat tot alle boosheid : 't Zal blyken , als uw oog in alles is verlicht , Of ik een hart bezit dat spot met eer en pligt , Of ik van menschlykheid op 't schandlykst ben verbasterd , Of ik als moordenaar verdien te zyn gelasterd , En of ik andermaal de straf der strop verdien .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1976.s.1	'k Heb evenwel bedaard uw vonnis ingezien : Gyzelf bekent in twist , om uwe vrouw ontsproten , Uw ' vyand door uw staal te hebben neêrgestoten ; En zulk een woeste daad verdient de dood gewis .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.1	Ze is strafbaar , ja , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.2	zo eerwraak strafbaar is .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.3	'k Heb niet in koelen bloede een ' mensch het licht benomen ; Ik heb door toorn ' vervoerd myn ' vyands bloed doen stroomen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.4	Myn gade had welëer myn ' vyands oog bekoord ; Hy sloeg haar 't huwlyk voor , doch ik , ik had haar woord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.5	Hy liet niet na alom zyn ' afkeer my te toonen , En hy verzuimde niet om haar en my te hootren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.6	In 't einde is hy myn gade en my in 't veld ontmoet : Slechts door ons aan te zien ontstak de toorn ' zyn bloed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.7	Elk weet hy was geneigd om scheldende uit te spatten , Dit duld de ik ; maar myn gade op 't schandlykst te zien vatten , En my , die haar verweerde en voorstond , volgens pligt , Bedaard te laten slaan in 't eerlyk aangezigt , My met den degen te zien dreigen , en te zwygen , Die goedheid kon ik niet van 't grimmig hart verkrygen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.8	Is 't leven meerder waard ' dan 't hoogste goed ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.9	onze eer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.1	Uw wraak stond aan 't gerecht , geenszins aan uw geweer .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.2	De wet door 's Hemels hand de menschen voorgeschreven , Hecht minder waarde aan de eer , dan aan der menschen leven : Zy zorgt voor 't leven eerst , daarna voor 's menschen goed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.3	En daarna dat onze eer voor laster zy behoed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.4	Wy zien de rechters meest op de aard ' dat voetspoor houden : Verr ' dat zy met de dood gereedlyk straffen zouden , Benemen zy doorgaans , en houden 't voor een ' pligt , Zo 't zyn kan , 's booswichts eer , en spaarzaam 't levenslicht ; Zy laten hem den tyd van denken en bekeeren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.5	En , inderdaad , de man die ééns zich durfde ontëeren , Kan , zo men hem den tyd tot beter denken laat , Zyne eer herstellen , door een luisterryke daad , Men heeft dit meer gezien : maar 't onwaardeerbaar leven , Eénmaal benomen , is den mensch nooit weêr te geven ; Wat is nu grooter goed , ( dat ieder dit besliss ' ! ) Dat weêr verkryglyk , of nooit weêr verkryglyk is ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.6	Men kan met goeden groud , althans naar myn gedachten , In twee gevallen slechts de eer meer dan 't leven achten : Het eerste is , als ons de eer , ten dienst van 't vaderland , Mishandeld , en gedreigd , de wapens stelt ter hand ; Dan dringt ons alles aan om 't vaderland te wreken , En dan moet de eer in ons meer dan de leefzucht spreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.7	Het tweede is , als men ons 't behoud van 't leven bied Voor 't doen eens gruwelstuks : men acht ' dan 't leven niet ; Dan loopt ooze eer gevaar , dan moet men haar bewaren , En liever grootsch vergaan , dan schandlyk 't leven sparen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.8	Maar , wat men zeggen moge , onze eer lyd nimmer last Door scheldwoord of door slag van eenig ' woesten gast : In tegendeel , door zich aan zyn geblaf te stooren , Verlaagt men zich tot hem , en dán gaat de eer verloren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.9	Onze eer ruste op de deugd ; zy hang ' niet van 't geblaf Eens lossen jongelings , of lagen deugniets af .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.10	Doch dit ter zy ' gesteld .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.11	Het zy eens toe te geven Dat een mishandling u tot toorn ' had aangedreven Met reden ; moest het zyn dat gy , zo wreed als woest , Hem die u heeft gehoond juist doodlyk grieven moest ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2043.s.1	Wanneer de kling in toorne ééns is de scheede onttogen , Is niet altyd 't bestier der kling in ons vermogen : Somtyds word 's vyands arm door ons geweer belaagd , Daar onze vuist de punt in 's vyands boezem jaagt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2052.s.1	Daar 't zo onzeker is hoe 't einde eens stryds zal wezen , Diende elk 't ontbloten van de kling te meer te vreezen : Die weet met wat gevaar zyn vuist op iemant stoot , Is des te meer strafwaard ' als hy de kling ontbloot .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2052.s.2	Het schynt gy wilt uzelv ' in dit verhoor bezwaren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.1	Ik wil de waarheid u , wat de uitslag zy , verklaren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.2	Zo 't mooglyk waar ' geweest , vertrouw vry dat dees hand Myn ' degen nooit in 't hart myns hooners had geplant : De Hemel kan alleen in 't hart der menschen lezen , Dus kan hy van myn ' wil alleen getuigen wezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.3	Myn fierheid , die gy denkt dat wroegingloosheid is , Toont in het hoogst des noods myn hartgesteltenis .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.4	Doorloop myn leven , laat geen vonnis u verblinden : Gy zult my driftig , fier , maar altyd eerlyk vinden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.5	Die fierheid , die my thans het offer maakt der wet , Heeft , met myn lyfsgevaar , myn opperhoofd gered : Een laffe en koele geest zal schaars zich onderwinden Gevaar te zoeken tot behoud van land of vrinden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.6	De drift die my bezielt deed my noch meer bestaan , Dan 't opperhoofd des lands van zyn verderf te ontslaan ; Ik deed daardoor , ten dienst van Neêrland aangedreven , 't Fantynsche negervolk met ons in vrindschap leven ; En nooit deed my myn drift , doorzoek myn leven vry , Eéne enkle daad bestaan die zweemt naar schelmery .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.7	Zie my zelfs in dit uur , gedreigd door doodsgevaren , Te groot om waarheên die my schaadlyk zyn te sparen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.8	Ik zal haar hulde doen : gy , oordeel of een man Zich doemend ' haar ter liefde een booswicht wezen kan ; En of een mensch , verliefd op de eer van eedle daden , Met opzet , met vermaak , zyn vuist in bloed kan baden ; Ja of de man die nooit zyn glori heeft verkort , Zo op één ' sprong een schelm , een snoode moorder word .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2093.s.1	Ik moet uw fiere taal , uw zucht tot waarheid roemen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2093.s.2	Nochtans dwingt ééne stap my uw gedrag te doemen ; Een stap die , inderdaad , hoogst onbestaanbaar is Met zulk eene eedle taal , en hartgesteltenis : Heeft niet de man wiens bloed gy door uw staal deed stroomen , Nadat hy viel in 't zand van u een wond ' bekomen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2093.s.3	Dit vonnis zegt het my !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2093.s.4	Toont dit een ' eedlen aart ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.1	'k Heb aan 't gerecht , als u , de waarheid vry verklaard .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.2	Die daad maakt in elks oog myn vonnis hoogst rechtvaardig .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.3	Het leven is my geen ' gehaten logen waardig : Dus zy het verr ' van my dat ik die daad ontkenn ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.4	En schoon ik van dit feit volstrekt onkundig ben , Niet werende , in de drift die my het bloed beroerde , Hoe verr ' de woede my , in 't woest gevecht , vervoerde , ( Want wie is zich bewust wanneer de gramschap woed ? ) Getuigen staven dit , die ik geloven moet .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.5	't Zy verr ' dat ik den raad om 't vonnis streng zou noemen ; Die daad , als daad beschouwd , is billyk waard ' te doemen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.6	Te zeggen dat dit feit in gramschap is geschied , En dat die ons verblind , verschoont een misdryf niet : Zo zulk een uitvlugt kon by 't recht verschooning heeten , Elk zei licht : ‘ deed ik kwaad , ik heb het niet geweten ’ .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.7	De rechter heeft zyn wet , en oordeelt naar het feit : Doch daar myn nootlot thans staat aan uwe edelheid , Die hier den strengen eisch der wetten kan verzagten , Durf ik voor zo veel drifts een gunstig-oordeel wachten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.8	Verblind door fellen toorne in wraak te verr ' te gaan , Toont niet áltyd het hart eens vuigen booswichts aan : De mensch gaat verre in drift , ( en deze is licht te ontvonken , ) Naarmate van 't gestel hem door het lot geschonken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.10	Waar leeft één mensch op de aard ' Die voor te verr ' te gaan in toorn ' stééds is bewaard ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.11	De mensch heeft reden , ja !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.12	men kan dit niet verzaken ; Maar heeft hy kracht om stééds daarvan gebruik te maken ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.13	't Kan zyn dat Neêrlands volk hiertoe meer kracht bezit Dan 't myne , 't Fransche volk , welks bloed licht word verhit : Ik twyfel echter sterk of eenig Nederlander , ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.14	Ja of gyzelf !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.15	de roem van Neêrlands waterstander , Die zich volmaakt bezit , zelfs in den heetsten stryd , ( Doch tevens echtgenoot en moedig krygsman zyt . ) Uw gade voor uw oog onkuisch zoud aan zien vatten , Haar ' hooner na den hoon zoud scheldende uit zien spatten , En als gy haar beschermde , en voorstond , volgens pligt , Uzelv ' zoud laten slaan in 't eerlyk aangezigt , En van een ' man die toont in drift niets heilig te achten , Daar reeds zyn kling u dreigde , uw noodlot af zoud wachten ; Ik zeg , ik twyfel sterk of eenig mensch op de aard ' In die omstandigheid voor toorn ' zou zyn bewaard , En niet licht op myn spoor , wat wetten 't ook verbieden , Meer doen kon dan hy wist , het bloed ééns zynde aan 't zieden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.16	Kan my dit alles niet verlichten by een ' man Die 't strenge van de wet met zagtheid tempren kan , Besef dan of myn dienst bewezen aan dees landen , 't Ontzet van Valkenburg uit zyner moordren handen , En 't uitstaan van de straf , ( ten minste van haar ' schrik , ) Niet opweegt tegen één te driftig oogenblik !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.17	Zo my uwe edelheid ziet smeeken om genade , Ik smeek die min om my , dan om myn trouwe gade ; Zo voor de Ruiters oog La Bordes fierheid zwicht , 'k Ben die vernedering myn dierbre gaê verpligt : Zy wilde om myn behoud zichzelf strafschuldig maken ; Zy vormde een stout ontwerp om myne boei te slaken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.18	't Waar ' mooglyk haar gelukt van ketens my te ontslaan , Had ik haar beê verhoord , die ik niet toe kon staan , Omdat de goede trouw , waaraan ik me acht verbonden , Door 't volgen van haar ' wil te zigtbaar wierd geschonden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.19	Zy wilde noch deez ' dag , toen zy me alleen mogt zien , Dat ik in haar gewaad den kerker zoude ontvliên ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.20	Zo groot een trouw , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.21	schynt u de ziel te ontroeren ; Besef hoe verr ' ze my tot droefheid moest vervoeren !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.22	Ben ik genade onwaard ' , ... de bittre tegenspoed Van myn getrouwe gade ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.23	Ontwringt me een ' tranenvloed !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2164.s.1	Met levendigheid , de voeten des admiraals ombelzende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2170.s.1	de ruiter , ontroerd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2174.s.1	Rys op .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2174.s.2	‘ Ik kan het zien dier tranen niet verdragen ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2174.s.3	Zo veel grootmoedigheid ter prooije aan zo veel plagen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2174.s.4	’ 'k Zal doen 't geen my betaamt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2174.s.5	Laat my een wyl alleen .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2177.s.1	Tegen den hoofdman , terwyl de soldaten met	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2180.s.1	la borde vertrekken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2182.s.1	Ontbie den raad , en doe uw ' meester her waarts treên .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2188.s.1	de ruiter , alleen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.1	Nooit voelde ik meer dan nu myn ziel door smart bestreden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.2	Een man van zulk een ' moed , zo vatbaar voor de reden , Zo openhartig , teêr , grootmoedig in zyn pyn , Kan , wat hy ook bestond , in 't hart geen booswicht zyn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.4	wat is de mensch !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.5	Hoe veel heeft hy te vreezen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.6	Wat is hy , wel beschouwd , een deerniswaardig wezen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.7	Hy is , wat hovaardy zyn ' trotsen geest verblind , Een speeltuig der fortuin , een kaarslicht in den wind .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.8	Een wezen , op elk tred van zo veel ramps omgeven , Is dwaas , wanneer 't ooit word door hoogmoed aangedreven ; En , licht ten voorwerp zynde aan ieders deerenis , Is 't uiterst Goddeloos wanneer 't onmenschlyk is .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.9	Het is zo zwak dat , hoe geneigd tot deugdbedryven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.10	Het nooit verzekerd is op 't spoor der deugd te blyven : De mensch zy wyd beroemd door 't edelst heldenstuk , Eén zinloos oogenblik stort hem in 't ongeluk .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.11	't Is waar , hy heeft de kracht om enveldaên te laken ; Maar is hy steeds in staat daarvan gebruik te maken ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.12	ô Neen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.13	all ' wat hy kan tot weering van gevaar , Is bidden dat de zorg des Hemels hem bewaar ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.14	La Bordes ziel is groot , myn bart acht hem met reden ; Eén driftig oogenblik doet hem 't schavot betreden !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.15	Aan welk een ' slag van 't lot , aan hoe veel harde elend ' Is hy niet bloot gesteld die 't schoon der deugd niet kent ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.16	ô Mensch !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.17	die zo veel hebt elk oogenblik te vreezen , Uw eerste , uw grootste pligt !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.18	zy menschenvrind te wezen : Wien past de ontferming meer met 's medesterflings druk , Dan hem wiens heil zo licht verkeert in ongeluk ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.20	die my hier tot rechter hebt verkoren , Gy doet De Ruiters ziel de stem der deernis hooren , En tevens eischt het recht , dat niet min heilig is , Dat ik haar stemme hoore , als die der deerenis : De wet roept neen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.21	wanneer de deernis spreekt van sparen ; Voor wie zal zich myn stem in zulk een ' stryd verklaren ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.22	La Borde wondde in drift zyn ' vyand op den grond : Dit is een wanbedryf , schoon hy 't in drift bestond ; De letter van de wet eischt inderdaad zyn leven ; Zal myn meêdoogendheid een schaadlyk voorbeeld geven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.24	ik , die vermaak in recht en weldoen schep , Ik , die hier magt en recht tot straf en sparing heb ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.25	Weet myn bestreden geest geen middel op te sporen , Om recht en deerenis , naar beider wensch , te hooren ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.26	Heeft niet La Bordes vuist zyn opperhoofd bevryd ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.27	Won hy 't Fantynsche volk niet na dien stouten stryd ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.28	Heeft elk , die ééns door drift zich spoorloos heeft vergeten , Zich altyd zo veel goeds , tot heil des lands , vermeten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.29	Is 't wel te denken dat elk mensch , gedoemd ten val , Hier ooit dat recht tot eisch van sparing hebben zal ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.30	Toont niet de Hemelzelf door 't sparen des gevangen , Dat hy hem van myn hand genaê wil doen erlangen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.31	En is de schrik der dood , dien hy heeft uitgestaan , Geen straf genoeg voor 't geen zyn gramschap heeft misdaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.32	Kan ik op zo veel grond geen ' schuldigen vergeven , Wiens hart met reden wierd tot gramschap aangedreven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.33	Zal die vergiffenis , heeft dit den minsten schyn !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.34	Hier in 't vervolg den loop der wetten schaadlyk zyn ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.35	ô Neen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.36	La Borde leev ' , hy leve in myn bescherming .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.37	Hy leev ' !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.38	het is gedaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.39	Beminnelyke ontferming , ô Goed my meerder waard ' dan alle heerschappy , Sieraad van 't heldenhart , gy zegepraalt op my !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.40	Ik juich om uw ' triomf !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.41	Hoe streelt gy myne zinnen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.42	Hoe zal 't Fantynsche volk my om die goedheid minnen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.43	Maar , bovenal , hoe zal La Bordes echtgenoot ' Hem danken die haar ' held bevryd heeft van de dood !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.44	Ik voel dat onze ziel geen eedler vreugd kan smaken , Dan door , zo veel men kan , gelukkigen te maken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.45	De vreugdetranen die het weldoen storten doet , Zyn paarlen aan de kroon van 't waarlyk groot gemoed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.46	De landvoogd nadert my .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.47	Ik moet zyn hart doorgronden : Ik heb in taal en daad hem koel en streng bevonden ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.49	zo ik voor de dengd dien jongling winnen mogt , Ik hield my ruim beloond voor dezen watertogt .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2268.s.1	de ruiter , de jonge valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.2	ik heb met ernst dit rechtsgeding doorlezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.3	De raad heeft naar de wet het vonnis uitgewezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.4	La Bordes hoon is groot ; maar dat verschoont hem niet : Een doodslag is strafwaard ' , waarom die ook geschied ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.5	't Dunkt my dus geenszins vreemd dat gy , door zucht gedreven Voor 't heilig recht , uw stem hebt tot zyn dood gegeven ; La Borde is voor den dienst aan dit gewest betoond , En 't geen hy verder deed , door 't hopmanschap beloond .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.6	't Voegde u , als rechter , niet den schuldigen te sparen ; Maar 't geen , vergeef het my , verwondering moet baren Is dat ik hooren moet dat gy , hoewel bewust Van myne nadering aan dees gedreigde kust , En wetend ' welk een magt ik heb in rechtsgedingen , Noch streng op 't straffen uws gevangen aan bleeft dringen : Als rechter was 't uw pligt te dringen op de straf ; Doch daar , door myne komst , u 't lot een middel gaf Om mógelyk de boei des schuldigen te slaken , Voegde u , als zoon , voor 't minst daar van gebruik te maken ; Want sprak La Bordes schuld , en baarde u dit verdriet , De erkentuis in uw hart betaamde 't zwygen niet .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.7	Wat ook La Borde zy , hoe billyk hy ook lyde , Hy was het evenwel die Valkenburg bevrydde ; Hy is en blyft altyd uw ' vaders redder , en De geen dien ik de hulp der negers schuldig ben. De schorsing van de straf tot ik ware aangekomen , Kon in geen ' kwaden zin ooit worden opgenomen : Wy zyn La Borde veel , onëindig veel !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.8	verpligt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.9	Gy slaat uwe oogen neêr !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.10	Zie my in 't aangezigt ; Spreek vry ; ik ben een mensch , als andren ; 'k wil dit weten ; Myn rang , myn roem , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.11	deed my dit niet vergeten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.12	Wat zocht gy door zo streng te dringen op de straf ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2307.s.1	De glans des raads , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2307.s.2	hangt van dit vonnis af .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.1	Zo dat gy om den raad slechts aan uw zy ' te krygen , De stem der menschlykheid en dankbaarheid deed zwygen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.2	Zo ik zo even u als rechter heb geroemd , Duld dat ge als zoon door my ondankbaar word genoemd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.3	Ware u , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.4	myn komst volstrekt bedekt gebleven , Ik had als rechter u verdienden lof gegeven : Uw strengheid had alsdan dit woeste volk doen zien , Dat gy het misdryf nooit de straf zoud doen ontvliên ; Myn hart had u beklaagd , dat gy een ' man moest dooden Die zo heldhaftig heeft uw ' vader hulp geboden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.5	Thans toont uw handelwyz ' , het smart me !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.6	eene inborst aan Die , als uw voordeel 't eischt , geen doodstraf duur zal staan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.1	Zy staat my duur , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.2	zy treft my boven maten ; Maar kon ik 't rechtsgeding aan uw beslissing laten , Behoudens de eer des raads ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.3	En is het in 's lands nood Myn zaak dat ik den raad ontzind voor 't voorhoofd stoot ' ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.4	Wy zyn verbazend verr ' van Nederland gescheiden , Men kan niet ieder ' dag hier krygsvolk henen leiden , En zagtheid , inderdaad , is hier het middel niet Ter zekre vestiging van Nederlands gebied : Aan 't aanzien van den raad is alles dus gelegen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.5	Indien uwe edelheid gelieve te overwegen , Dat , zo ge een vonnis scheurt geteekend door den raad , Ons hoog gezag daardoor vermindring ondergaat , En dat dit invloed heeft op alle onze andre zaken , 'k Stel vast dat gy nooit zult het vonnis krachtloos maken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.6	Neen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.7	nooit zult ge om een ' man zo laag van stam als hy ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2344.s.1	de ruiter , met snelbeid bem by de hand nemende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.1	Denkt gy wel , Valkenburg !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.2	dat gy spreekt tegen my ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.3	Die licht , ( hoor dit van my , zo gy 't niet hebt vernomen , ) Ben uit veel lager bloed dan 't zyne is voortgekomen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.4	Ik was gemeen matroos , hy was gemeen soldaat ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.5	De deugd , de heldenmoed , geen afkomst red een ' staat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.6	De man die met u spreekt kan daar bewys van geven : 'k Heb van één stuiver daags , als baangast , moeten leven , En 't lot van koningen , ( wat spyt voor 't aadlyk rot ! ) Is nu in myne hand , zo zeldsaam werkt het lot .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.7	De Hemel kiest , ter spyt der aadlyke onverlaten , Zyn werkuig naar zyn ' wil , uit aller menschen staten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.8	De worm , en de adelaar , de boom en kleinste plant , Beschouwt Hy met één oog , als 't werk stuk van zyn hand .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.9	De zandkorl is zyn werk , gelyk de bol der aarde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.10	In 't kort , de deugd alleen bepaalt der menschen waarde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.11	De dwaas zy met geboorte en edel bloed gevleid .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.12	Geboorte is inderdaad slechts een toevalligheid : Zy kan niet tot verdienste ons worden toegerekend , Zolang ons leven niet door weldoen is geteekend .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.13	Geen sterfling heeft zyn ' stam , zyne afkomst in zyn magt ; De Hemel schikt ons lot , die geeft ons ons geslacht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.14	De man die op zyn leest of schoonheid is hovaardig , Is 't voorwerp van elks spot , en is bespotting waardig , Die op geboorte pogcht verdient die minder spot , Daar de adeldom , als 't schoon , een gunst is van het lot ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.15	La Borde ontfing met ons van ééne hand het leven : Heeft hem het Fransche bloed te verr ' van 't spoor gedreven , Hy is daarom niet min myn tedre ontferming waard ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.16	Zo hy te sparen is , dient hy , als mensch , gespaard .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.17	Ik zal den raad voldoen , ik zal u vergenoegen , En tevens zal ik my naar myn beginsels voegen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.18	Gy , wilt gy in uw ' rang voortaan aanbidlyk zyn , Verlaat uw woest begrip , vergaap u aan geen ' schyn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.19	Wees mensch : dit smeek ik u .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.20	Ik wil u niet verneêren , Maar verg u slechts één zaak : kom !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.21	leer van my regeeren .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2386.s.1	de ruiter , de jonge valkenburg , valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.1	Indien , gelyk welëer , de stem der droeffenis , ( De grooten walgelyk ! ) u nóch behaaglyk is , Mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.2	duld dat een man die 't grootste deel zyns levens Met roem sleet in 's lands dienst , in kryg en rechtbank tevens , Wiens strenge zucht voor 't recht ontelbre malen bleek ' , U , schreijende , om 't behoud van uw ' gevangensineek ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.3	't Is waar , 'k heb hem welëer ter straf doen overgeven , Maar ik voldeed alleen den pligt my voorgeschreven : 'k Was rechter ; door myn ' eed gebonden aan de wet , Gedrongen door den nood , en tevens aangezet Door 's tyds omstandigheid , die geen genaê gehengde , Dewyl hier dikwyls 't volk zyn bloed in tweestryd plengde , En durvende in 's lands nood een ' raad , geneigd ter straf , Niet wederspreken in het vonnis dat hy gaf , Moest ik een ' oorlogsman , beschermer van myn leven , In weêrwil van myn hart , ter doodstraffe overgeven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.4	Uw edelheid begrypt dat zo ik aan dit strand Uw ' togt vernomen had naar dit gedreigde land , Ik zeker van myn ' post niet eer my had ontslagen , Voor dat ik Neêrlands vloot en u had op zien dagen , En dat ik dus de straf , op deez ' of geenen schyn , Geschorst had tot uw komst , wat ook 't gevolg mogt zyn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.5	Thans , door het lot verrast , verstoken van vermogen , Is al myn troost uw deugd !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.6	de Ruiters mededoogen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.7	Bestond La Borde veel , hy zag zyne echtgenoot , Mishandlen , en daarby zyn eigen hoon was groot .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.8	Ik twyfel of niet elk , zo fel tot toorn ' gedreven Als hy , de grimmigheid en wraak gehoor zou geven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.9	Het Fransche volk is fier , zyn bloed word licht verhit ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.10	Denk dat de mensch vertoornd bezwaarlyk zich bezit !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.11	Voeg hier opmerksaam by dat niemant ons vertoonde , Dat dees gevangen ooit één ' eenig ' sterfling hoonde : Hy is bekend voor fier , maar heusch .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.12	Zyn hart is teêr ; Dat van zyn ' hooner was het tegendeel , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.13	De waereld kende hem voor twistziek , licht genegen By wien zyn vrind niet was baldadigheid te plegen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.14	Noch meer , La Bordes dienst aan dit gewest gedaan , Verpligt ons die niet zagt met hem te werk te gaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.15	Is 't heden tyd om bloed te storten , of te sparen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.16	Hy is een oorlogsman : indien wy hem bewaren , Wat heeft uwe edelheid te wachten van een ' man Van wiens erkentnis men zich 't all ' beloven kan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.17	Zyn leven , eedle held !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.18	door uwe gunst beveiligd , Zy aan uw ' dienst , ten dienst van Nederland , geheiligd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.19	Doch is all ' 't geen hy heeft voor my en 't land bestaan , Te weinig om den held de dood te doen outgaan , Welaan !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.20	myn dienst , myn trouw , den staat zolang gebleken , Zy 't recht vergund één gunst van uwe hand te smeeken : Men schenk ' , ten loon van 't geen ik heb voor 't land verricht , Genade aan hem die my behield by 't levenslicht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.21	En om uw gunst dit land altyd te doen gedenken , Zal ik de helft myns goeds ten nut der armoê schenken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.22	Ontzeg die bede niet aan een ' trouwhartig ' man , Die , zonder trots te zyn , zichzelv ' beroemen kan Dat hy dees ryke kust belangeloos regeerde , En 't aanzien van ons volk by 't heidendom vermeêrde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2444.s.1	Zich aan de voeten des admiraals werpende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2453.s.1	de ruiter , hem omhelzende , en opheffende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2459.s.1	Sta op , eerwaarde held !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2459.s.2	uwe eedle erkentenis Vraagt my niets dan den prys dien zy hoogst waardig is .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2459.s.3	Uw landvoogdy was 't eêlst dat ik dit volk kon wenschen ..	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2459.s.4	Men vind veel grooten , maar slechts weinig eedle menschen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2459.s.5	Ik zal ...	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2464.s.1	de ruiter , valkenburg , de jonge valkenburg , een hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2475.s.1	Op uw bevel is hier de raad byéén , Mynheer , en wacht uw ' last om in dees zaal te treên .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2475.s.2	Maar burger en soldaat , door ongeduld bezeten , Verlangende uit uw ' mond La Bordes lot te weten , Rot saam ' by dit kasteel , en elk van ons raad licht Den wensch van 't zuchtend hart uit hun bedrukt gezigt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2475.s.3	De menigte groeit aan ; terwyl La Bordes gade , Naby de poort die dringt tot schreeuwen om genade .	None
+noms001mich01_01.TEI.2.text.body.div.div.head.2478.s.1	Zevende tooneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2480.s.1	de ruiter , valkenburg , de jonge valkenburg , mevrouw la borde , een hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.1	Verschoon een vrouw , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.2	die , door haar smart verheerd , Onäangemeld verschynt , en stout gehoor begeert .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.3	De raad is reeds by één , uw strengheid is gebleken , Dus kom ik voor La Borde u geen genade smeeken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.5	ik heb gehoord hoe gy den tweestryd doemt , En dat La Bordes wraak by u word moord genoemd ; 'k Weet dat , ( ik was het zelf die dit terstond ontdekte , ) De jonge Valkenburg u hier ten raadsman strekte , En 't is my wel bewust dat gy , zo gy hem hoort , Myn ' echtgenoot op nieuw zult doemen tot de koord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.6	Ik twyfel daaraan niet , gy zult het vonnis vellen ; Dus kan 't myn wit niet zyn u door gesmeek te kwellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.8	volstrekt bewust van uwe zucht voor 't recht , Die myn benepen hart thans alle hoop ontzegt , Wil ik u aan dees kust gelegenheid verschaffen Dat gy uw ' roem , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.9	vergrooten kunt door straffen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.10	Zo ge op 't beleedigd recht te wreken glori draagt , Wat roem baart u de straf van haar die 't recht belaagt !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.11	Ik , ik alleen verviel deez ' dag tot die verwoedheid : Ik heb 't gerecht belaagd : misbruikende al de goedheid Van gryzen Valkenburg , zocht ik myn ' echtgenoot Door een strafwaarde list te onttrekken aan de dood : Ik bood hem myn gewaad om 't oog der wacht te ontvlieden , Doch hy wilde op die wyz ' geenszins zich hulp zien bleden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.12	Die weigring trof myn hart , en spoorde op 't sterkst my aan Tot een noch stouter , doch strafwaardiger bestaan : Ik wilde in 't naaste bosch 't Fantynsche volk beroeren ; Ik wilde als hoofdmannin het naar dees muren voeren , La Borde redden , all ' wat my hierin weêrstond Doen sneuvlen , of , vol moeds , zelf sneuvlen op deez ' grond .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.13	Om my , om my alleen zag hy zyn borst bestryden , Alleen myne eer ter wraak is hy gebragt in 't lyden ; Hy deed voor my 't geen ik niet voor myzelf kon doen ; Dus wilde ik , trots 't gerecht , hem voor de dood behoên .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.14	Ziedaar wat strafbre drift myn moedig hart beroerde !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.15	Dank myn ' gemaal dat ik myn opzet niet volvoerde : Hy heeft bewerkt , ter spyt der drift die my bezielt , Dat Valkenburg my hier in heusche gyzling hield .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.16	Kom , straf , schoon 't me is mislukt om hem 't gerecht te ontrukken , Den kwaden wil , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.17	doe voor 't gerecht my bukken ; Toon dat gy zelfs den wil van 't kwaad uw gunst ontzegt , Verëeuwig dus uw zucht voor de eer van 't heilig recht : Want by zo streng een ' held is 't zeker kwaad geheeten , Dat ik voor myn ' gemaal zo veel my wil vermeten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.18	Doe meer : voorkom terstond , in 's lands verwarden staat : 't Ontwerp door my beraamd , zo gy me in vryheid laat : Want zo 't my is mislukt La Bordes boei te breken , 't Is my noch niet belet La Bordes dood te wreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.19	Ikzelf , ik klaag my aan : myn dierbare echtgenoot Getuige , in 't sterven zelfs , wat ik voor hem besloot .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.20	Het volk , door myn geween reeds tot gemor bewogen , Eischt myn ' gemaals behoud , luidkeels , met schreijende oogen : Myn invloed op dit volk , hun deelen in myn pyn , Toont een ' gestrengen raad wat ééns zyn lot kan zyn ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.21	Bewaar hem ; en , indien ge uw glori stelt in straffen , ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.22	Wilt gy 't gedreigde land een zekre rust verschaffen , Voorkom myn woede .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.23	Ikzelf heb u myn feit ontdekt , ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.24	Kan 't zyn , ontruk my 't licht , dat my ten walg verstrekt !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.1	De wanhoop heeft uw ' geest te verr ' van 't spoor gedreven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.2	Men kan de wanhoop licht een dreigement vergeven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.3	't Is uw geluk , myn kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.4	dat ik de driften ken , Dat ik myzelv ' bezit ... dat ik De Ruiter ben !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.5	't Zou my niet moeilyk zyn om u met grond te toonen Dat uw Fantynen , en al die dees kust bewonen , Volstrekt onmagtig zyn één enkel oogenblik , Ten nadeel van 't gerecht , myn hart te slaan met schrik .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.6	De wanhoop , inderdaad !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.7	doet u uzelf bezwaren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.8	Gy durft me een ' toeleg die ondoenlyk is verklaren !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.9	La Borde is hier geen man die als getuige geld , En niemant straft een ' wil noch niet te werk gesteld .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.10	Gedeeltlyk is me uw wit , reeds voor uw komst , gebleken ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.11	't Lust my niet langer van uw vreemd ontwerp te spreken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.12	'k Zal myn gemoed voldoen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.13	Wacht hier uw vonnis af , En oordeel of dit hart behagen schept in straf .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.14	Dat straks de raad verschyn ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.15	Gy zult getuigen wezen Of iemant van myn ' aart ooit noodig heeft te vreezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2569.s.1	Hy luistert valkenburg iets in 't oor , waarna by tegen den landvoogd vervolgt :	None
+noms001mich01_01.TEI.2.text.body.div.div.head.2575.s.1	Agtste tooneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2583.s.1	de ruiter , de jonge valkenburg , mevrouw la borde , la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2583.s.2	Raadsbeeren , hoofdlieden , en soldaten , aan den ingang .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2583.s.3	De raadsbeeren plaatsen zich in twee reijen , ter rechter en linker zyden van den admiraal en den landvoogd .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2583.s.4	La borde en zyne gemalin plaatsen zich tegen elkander over , vooraan op het Tooneel , waarna valkenburg , met een ' degen in de band , verschynt , en zich aan de linker zyde des admiraals plaatst .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.1	Ik heb , doorluchte raad , myne achting dubbel waard ' !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.2	Gezien wat wanbedryf den schuldigen bezwaart ; En tevens ingezien , naar 't voorschrift myner pligten , Wat uw ' gevangens schuld met reden kan verlichten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.3	De landvoogd heeft dees zaak niet in myn hand gesteld ; Neen , ze is my door de vrouw des schuldigen gemeld .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.4	Het vonnis dat gy gaaft steunt en op wet en reden ; Gy deed den schuldigen met recht ter strafplaats treden ; En daar aan 't vonnis niet volkomen is voldaan , Drongt gy , met recht , op nieuw op die voldoening aan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.5	Dit was uw pligt .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.6	Het hoofd van dees gedreigde stranden , Eischte uw ' gevangens bloed noch heden van myn handen ; Hy gaf in zucht voor 't recht , in strengheid , u niet toe : Thans eischt myn hart van my dat ik myn ' pligt voldoe .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.7	Indien myne uitspraak één ' der raden mogt mishagen , Hem voegt daarom geen ' haat den landvoogd toe te dragen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.8	Zo ze iemant , als een lid des raads , mishaaglyk schyn ' , 'k Hoop dat zy hem als mensch niet zal mishaaglyk zyn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.9	Gy stiet een ' man ter neêr , door gramschap aangedreven , Gy hebt hem op den grond verwoed een wond ' gegeven , De raad drong , naar de wet , rechtvaardig op uw straf ; Doch daar de Hemel u bewys van bystand gaf , En u , als waar ' 't een loon van 't geen gy voor dees landen Verrichtte , op 't wonderbaarst ruk te uit der beulen handen ; Daar gy uw opperhoofd , zelfs met uw lyfsgevaard , Zo loflyk hebt ontrukt aan zyner beulenschaar '; Daar ge onvoorbeeldlyk wreed in gade en eer beleedigd , En eenigzins uit nood , die beiden hebt verdedigd ; Daar ge als een eerlyk man de waarheid hebt verklaard , En zelf betuigt dat gy , schoon gy onkundig waart Dat gy uw ' vyand wondde in 't zand ter neêr geslagen , Rechtvaardig hebt verdiend daarvoor uw straf te dragen , En reeds 't schavot betrad , zelfs zonder mortery , Laat ik , op 's Hemels spoor , u met den doodschrik vry .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.10	Leef !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.11	Edelmoedig held !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.12	uw deugden ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2607.s.1	Tegen la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2627.s.1	mevrouw la borde , met vervoering .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2655.s.1	Laat my spreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2655.s.2	Uw moed is Valkenburg , uw trouw is 't land gebleken : Maak , door 't gebruik van beide , op nieuw , wanneer gy stryd , Dat elk De Ruiter dank ' dat hy u heeft bevryd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2655.s.3	'k Herstel u in uw ' rang .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2655.s.4	Aanvaard van my deez ' degen : Gebruik dien in 's lands dienst , trek Englands benden tegen ; Maar denk dat niets u eert , hoe stout ge uw ' vyand tart , Dan een bezadigde aart , en een menschlievend hart .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2655.s.5	Ziedaar myn ' strengen aart : ga , doe thans uw Fantynen , 'k Geef u daar vryheid toe , tot myn bederf verschynen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2646.s.1	Hy geeft la borde het geweer , waarmede valkenburg is uitgekomen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.1	ô Held !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.2	beschaam my niet : 'k Zal hen geleiden , ja !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.3	Maar tartende , in uw ' dienst , alle oorlogsongenaê .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.4	De Ruiter !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.5	eedle ziel !... uw deugd verdient rechtvaardig ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.6	Maar 't menschdom is geen ' vorst als held De Ruiter waardig .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.7	ô Myn gemaal !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.8	dees ziel voelt uwe erkentenis , Die door uw tranen spreekt , meer dan uitdruklyk is .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.9	Laat ons dien steun des lands als onzen vader eeren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.10	Ziedaar het waar geluk van mannen die regeeren !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2661.s.1	Hem met verwondering aanziende , en in tranen uitbarstende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2674.s.1	Zy ombelst , nevens haar ' gemaal , de voeten des admiraals .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2674.s.2	de ruiter , na hen te hebben opgehest , neemt hen beiden in zyne armen , terwyl hy , met nadruk , en in verrukking , tegen den landvoogd vervolgt :	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2679.s.1	la borde , snikkende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2684.s.1	De tranenvloed , ô held !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2684.s.2	dien my uw deugd ontwrong , En die my noch ontvloeit , boeit met myn hart myn tong , Dees kling , gezwaaid ten dienst des redders van myn leven , Zal nooit dan met myn kracht in 't veld myn vuist begeven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2688.s.1	valkenburg , tegen mevrouw la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2690.s.1	Hoe juicht myn hart , myn kind , by 't vlieden van uw pyn !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2694.s.1	de jonge valkenburg , uit een diep gepeins bekomende , tegen den admiraal .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2696.s.1	Het lot schonk my een ampt ; gy leert my 't waard ' te zyn !	None
+noms001mich01_01.TEI.2.text.body.div.div.head.2700.s.1	Laatste tooneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2702.s.1	alle de vorigen , en de hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2705.s.1	de hoofdman , schielyk uitkomende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2712.s.1	Daag op , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2712.s.2	aan 't hoofd van uwe waterscharen : Wy zien een kloeke vloot ons nadren langs de baren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2712.s.3	Zo veel ons oog kan zien , wend zy zich Oostwaarts heen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2712.s.4	't Fantynsche volk rukt aan , 't is alles op de been , Om zo 't de Britsche vloot gelukken mogt te landen ; Met nadruk 's vyands volk te ontfangen op de stranden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2716.s.1	de ruiter , tegen la borde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2725.s.2	thans wissche uw drift , in 't land ten dienst te staan , Het kwade uit dat zy deed , door ééns te verr ' te gaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2725.s.3	Wat ons betreft , mynheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2725.s.4	laat ons de waereld leeren Dat wy de kunst verstaan van stryden en regeeren , En dat menschlievendheid , geen rang , geen aadlyk bloed , Het waar sieraad is van den man van eer en moed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2720.s.1	Tegen den landvoogd .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2727.s.1	EINDE .	None
+noms001mich01_01.TEI.2.text.body.div.div.cf.p.2731.s.1	De Gecommiteerden tot de zaken van den Schouwburg hebben , volgens Octroy door de Heeren Staten van Holland en Westvriesland , den 5den November , 1772 .	None
+noms001mich01_01.TEI.2.text.body.div.div.cf.p.2731.s.2	aan hen verleend , het recht van deze Privilegie , alleen voor den tegenwoordigen Druk van MICHIEL ADRIAANSZ DE RUITER , Treurspel , vergund aan Jan Helders .	None
+noms001mich01_01.TEI.2.text.body.div.div.cf.p.2734.s.1	In Amsteldam .	None
+noms001mich01_01.TEI.2.text.body.div.div.cf.p.2734.s.2	den	None
+noms001mich01_01.TEI.2.text.body.div.div.cf.p.2736.s.1	September , 1780 .	None

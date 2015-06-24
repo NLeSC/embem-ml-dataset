@@ -1,0 +1,716 @@
+vos_002kluc01_01.TEI.2.text.body.div.head.115.s.1	Klucht vinden oen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.116.s.1	Fijtje .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.116.s.2	Ritsaart .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.119.s.1	Ritsaart / hebben ik ik woord vinden op te pas niet ehouwen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.120.s.1	Rits .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.122.s.1	Wat die doen hal niet weten te deinken / die weten rits vrouw .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.125.s.1	Wat zeggen ik lief daar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.130.s.1	die et vaatje met Wijn / die ik jouw gisteren beloven hebben / voor morgen hier in huis zullen zijn : mare ik menen et te sluiken / om et geld vinden doen zijs te besparen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.131.s.1	Trijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.134.s.1	ei !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.134.s.2	vrouw komen in huis ; meester woord wakker / en beginnen hij te baar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.139.s.1	jouw meester moeten jouw veel vereren / om datje miest an zenden kanten held .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.139.s.2	Ik houden veel meer vinden een geever als vinden een beloover .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.139.s.3	meester woord wel dikwijls zeeziek : mare hij geven niet over .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.142.s.1	gaan jij in doen Kelder ; horen jouw wel Trijn ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.143.s.1	oen roepen vinden binden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.146.s.1	houden / Fijtje / houden / wat doen in doen nacht vinden ' et goed ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.149.s.1	Ik gaan een na het sekreet : wan doen waterpot zijn verzetten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.150.s.1	oen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.152.s.1	Ik ra jouw komen wederom .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.155.s.1	Et mogen ik onder wegen ontschieten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.158.s.1	waar blijfje ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.158.s.2	horen jouw niet ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.161.s.1	Ik kunnen et immers niet uiten zweten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.164.s.1	Slaet'er wat ei in : hoorje : maken et wat korten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.167.s.1	doen anslag zijn mislokt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.172.s.1	achten die niet / of oen gnort ; Ik weten die zottebol wel dra in slaap te sussen / Dan keunen wie menkaar wel zonder schromen kus .	Emotion_EmotionalAction_Love_Shame
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.176.s.1	houden / Fijtje hoorje ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.176.s.2	Hoe maakje et daar zo langen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.176.s.3	Ik komje strikstrak bij met een schaarde / of met een nijptang .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.179.s.1	rusten jij jouw hoofd ik varen / et zullen nu mede een vegen lukken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.182.s.1	Ik wouw in die tijd ik darm wel ledig druk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.186.s.1	komen Ritsaart / schuilje in doen wieg / wan ik kind zijn bij ik snaar / En oen weten ' et niet / dies zijn ' er in het minst gieren gevaar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.189.s.1	Ik zullen huilen en jij zullen zingen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.190.s.1	Fijtje wiegen Ritsaart , en zingen : vinden drie mof en drie vink , c.	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.1	Et ik kijntje een hoesje ekrijgt ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.2	zijn et galletje over lopen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.3	Ik zullen jouw een duit an razijntjes en een bakkers koekje kopen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.4	jij zullen met jouw Mamma bij jouw groot Papa gaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.5	Dan zullen ik jouw vertellen vinden et Varken die niet schuilen wouw / of ik mos et schuilen dragen : staat jouw die niet aan ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.6	Ja ik zullen jouw et sprookje vinden Erritje / Boontje / Strootje en Kooltjevier zeggen ; Hoe die Strootje / in plaatsen vinden een brug / over een sluiten gaan liggen ; daar Erritje over heen rollen / om niet te komen in nood : mare met die Kooltjevier op et mijden komen / brand Strootje door / en Kooltjevier vallen in doen sluiten / daar et zenden ongelok / als jij wel kunnen deinken / betreuren .	Emotion_Sadness
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.7	En hoe Boontje om Kooltjeviers ongelok zo lachen die zijn naersje scheuren .	Joy_EmotionalAction
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.8	Hoe die Boontje torn / om een lapje voor zenden naers te krijgen / na een schoenlapper treden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.205.s.9	zeur die tijd aanzien al doen Boontjes zwart lapjes voor haar naers ehadt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.209.s.1	Wel / Fijtje wat zijn hier te doel ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.209.s.2	Dus in doen nacht te zingen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.212.s.1	Et kind stellen doen pijp varen / et zij schier uiten doen wieg spring .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.218.s.1	Dus / zus / jij stout boef / liggen stillen jij erg gast ; jij moeten haasten in doen broek : wan ik dunken die jij doen wieg ontwast .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.218.s.2	Ik zullen jouw schuilen besteden bij meester Floor doen vreemdert : leren dan e / n tutelende / b / a / baden / b / nul / bo / in het groots eemdert .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.221.s.1	nu kijken jouw papa een an / zo krijgen hij liggen een duit uiten zenden tas .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.224.s.1	doen jong lijken ik of hij uiten ik aanzicht snijden wassen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.227.s.1	ik kijndtje et epist : lopen een droog luier halen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.231.s.1	Ik lopen naar binden / doen tijd liggen niet die ik langen zullen dralen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.231.s.3	Ik lopen al waar ik Ritsaart lopen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.234.s.1	Verschuilen wij hier wat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.240.s.1	staan / Ritsaart / staan / waar wilje met Fijtje heen lopen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.240.s.2	houden stelen / of ik zullen jouw levendig et vellen afstropen / Al wassen ' er sinjeur Roggestaert en juffrouw Konkelpijps bij .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.243.s.1	Ik hebben gieren nood vinden hangen : wan suiker steel zijn zoet dieverij .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.248.s.1	hebben ik hij / ik duwen hum wel met een mest in zenden rib .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.248.s.2	Ik zweren bij ik tureluur die ik hum nog zullen lubben .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.248.s.3	Ik raeje komen wederom / ier die ik ' er meer op vloeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.251.s.1	die geloven ik wel , wan jij binden een dubbel koter / jij vijst door et hemt in doen broek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.254.s.1	Ik zeggen die jij Fy weder geven / of doen duivel zullen doen kaars houden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.257.s.1	Wat zij doen drasbroek doel / hij goed doen stoel voor zenden naers klauwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.260.s.1	Ik zullen morgen naar de Dam gaan en zoeken na prokreur bodem .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.263.s.1	Ik zullen jouw na vijsten en na pissen / dan hebje voor wijndt en voor stroom .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.264.s.1	Oen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.266.s.1	Die guit doen slim / of hij de mantel vinden doen kapstok stelen / en die kunnen ik niet veel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.269.s.1	die ik zij vinden zenden schouwer stelen / zij ik zij dan ook vinden gieren kapstok steel ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.272.s.1	Ik gaan na Avekaat Rijnsewijn / die weten veel uiten te recht / zo ik zeggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.275.s.1	die zijn waar / hij weten velen uiten te recht : wan hij et veel mens uiten zij goed erecht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.278.s.1	Wat of doen meer haar voor laat staan ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.278.s.2	of mientze die ik mal binnen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.281.s.1	jij binden een manna als een paerdevijg : wan daar zijn gieren gal in .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.284.s.1	Ier die een uur te einde zijn / zullen ik schikken die ik vinden haar horen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.287.s.1	doen zo ; schikken al dingen op zenden stede / en zetten doen pispot in et dressoir .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.294.s.1	hebben ik ik kortelas en wassen ik dan houden in et harnas / Ik zij hum naar zenden gat beteren als een twiede Olifarrenas .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.294.s.2	Ik tros graaf olykoek ; een manna als are anderhalf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.294.s.3	laat komen wij die willen / al wassen et doen geuze duivel Dikdalf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.294.s.4	Ik binnen een manna als een kammeel ; ja een manna als een dromedaris .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.297.s.1	jij binden een manna alliens als een spiritus familiaris .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.300.s.1	Ik zullen al gat door snuffelen en zoeken na doen guit .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.303.s.1	Die zenden neuzen in al gat willen steker haaltz'er dikwijls bestruist uiten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.306.s.1	Et zij ik rechteboort wel lust / om op Fy te grauw .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.309.s.1	Of jij doen duivel lust / wij zij hij voor jouw kakken ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.312.s.1	alles Ritsaart ik te moeten komen zullen ik zo blaezen die hij voor ik verschrikken zullen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.316.s.1	blaas vrijen die jouw horen barsten / jij weten wel die jouw wijf jouw weder are hoorn beschik zullen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.327.s.1	zij ik Fijtje zo kwijt wees ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.327.s.2	die zij ik al ik leven moeien ; zijde zijn nog zo jong / die mer doen oor vinden et hoofd snijden / zij zullen ' er vinden zelf weder an groeien : daar bij et zij een gehoorzame mond / die asze slechts lachen om een truizenuis / Dan ' er iene oor tot et aar lopen en komen vinden zelf weder thuis / haar rondom kakelbont en pimpelpaars wang / zij ik in et gasthuis voor tinne-pispotten an doen bedtsteen te pronken hangen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.327.s.3	Op haar kammoesde lip en op haar neuzen vinden die zelfde kleur / lezen ik doen stoory vinden Orsel en Valentijn en vinden Blancefleur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.327.s.4	mare die zijn al even veel / hier dienen nu zo velen spreekens niet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.330.s.1	zijn zot Stijn ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.330.s.2	steken jouw naers vinden et goed zo bekladtje doen deken niet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.333.s.1	die hier een haai wassen / ik laten een in ik handen kijken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.336.s.1	Nu dienen ik doen gelegenheidt / om oen uiten te strijken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.339.s.1	Hoe !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.339.s.2	zijn et hier al deegelijk werken ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.339.s.3	zeggen op / wij horen ik daar ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.342.s.1	jij horen doen duivel meester / die zijn slim alles een toovenaar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.348.s.1	zo wouw ik wel die jij ik wat raden geven / sinjeur duivel meester : wan ik wijf zijn op te bieden mede een Venus priester : waar door die ik ' er gunnen / tot straffen vinden et onwaarde feit / Datze / asze sterven / blind vinden doen aarde scheit .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.352.s.1	Et zijn een kleinigheid / een aar bij zenden wijf te laten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.352.s.2	Al wij een aar bij zenden wijf liggen / doen an Venus werken vinden karitaten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.2	werken vinden karitate ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.3	die luitme al te schalk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.4	hebben ik Dibberigh trouwen in doen blaauwestiene blaasbalg / Ik hebben goed edaen ; of Lobberigh mede doen Mammen ; Of Woutertje Lammerts ; of Lammertje Lammerts in doen lam / naast lam Lammert Lammertsz .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.5	in doen lam Lammere-straet / dichten bij doen Lammere koop daar het lam Lam in lam Lammert Lammertsz .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.6	gevel staat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.7	Och oen / zeggen die / laat ik allien op jouw liefde hoop / Of aars zelje ik et snot uiten ik neuzen zieden ontlopen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.8	Wel hoe !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.9	en spreekje niet ; of en veel jij gieren minne-vuur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.10	Ja ja / zeggen ik / lopen kakken bij daag / doen kaars binnen duur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.11	zien / zeyze / watje doen / ik binnen doen Peet vinden juffrouw krotten / Allernaast doen drie verkierde Spaans-leere mosterd pot : daarom beraad jouw wel en wilme ook te woord staan : wan ik binnen zode verbranst heet / jij zout wel een ei in ik poort braden : daar bij doen ik het hoofd zode bezukt zeer die ik ' et jouw niet half kunnen zeggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.12	doen jouw hoofd zeer / zeggen ik / ik naers doen zeer / wil wij doen ziek bij menkaar leggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.13	En Tanneke Boterams maken ik lest zo dartel warm / die doen liefde uiten haar harden schieten tot achter in haar karteldarm : mare zij wassen zode morsig die dieze doen borst wouw raak / Tasteze mede een pollepel / om die hij zenden hand niet vuil zij maken : mare zij hebben ' er een deugd bij / wan zij beven zo op ' er religi staan / Datze al-te-mets wel zeggen / ier ik vinden ik geloven wouw gaan / Of ier ik op et pad vinden doen verdoemenis wouw dwaalen / Ik hebben lief datme doen duiker vinden staan an komen halen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.14	zo binnen jij / zeggen ik / al een standvastig meid .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.380.s.15	die denken ik wel / zeyze / ik moeten al veel doel om zenden zaligheid .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.383.s.1	zwijgen / zwijgen / al langen enoeg : wan die jij ik verstoren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.386.s.1	Ik hebben veel lief datje in ik sekreet vallen als in ik woord .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.391.s.1	Ik ra jouw die jij zwijgen / en goed ook fluks vinden hier ; mare zooje helpen begeren / komen over een kwartier / Ik zullen jouw hulpzaam zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.397.s.1	hebben jij het zo voor enomen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.397.s.2	Ik binner mede te vrede om flusjes weder te komen / Om vinden te deeg te zieden hoe die ik zaak voor goed .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.400.s.1	goed hange-bast / goed / god gunnen die jouw doen mogen slaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.403.s.1	nu goed et na ik zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.406.s.1	Ik binnen mede et stikken belaade .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.411.s.1	Ik zelme gaan verklien in Toovenaars gewaade / En schuilen et aangesicht in een bemorsen grijns / zo hebben doen toverkunst bij et volk al vrijen wat schijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.414.s.1	ei maakje dan geriet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.417.s.1	Ik zullen op al lid .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.1	Ik zweren die ik oen hoofd met hoorn zullen bezet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.2	Die gorten-teller / die henne-taster / die treuzelaar / hij doen hum op als Delfs engel / en et zijn nog kwalijk peuzelaar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.3	komen ik hum altemet een reis om een god woord smeken / Wat et hij te doel ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.4	hij hout zenden mond en laat zenden poort spreken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.5	zeggen ik : lief jij weten wel die ik zulk vlaag haten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.6	Dan staat hij en grijnzen alles doen duivel tegen de dageraad .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.7	Ik zullen na doen schouwen lopen / zeggen hij lest / en vragen of ik jouw op mogen sluiten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.8	Wilje lopen / zeggen ik / zode lopen een ver in doen naers / zode zelje niet wederom stuiten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.9	Of lopen in doen pompen en halen doen klappen naje toen / jij recht droog gek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.10	Ik wouw die hij wassen daar doen peper wassen : wan ik binnen hum zo moede als gespoge spek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.11	torn hij een vrij wassen / torn wassen hij een aar kwant / die hij ook zelf niet zullen ontkennen : wan als hij uytging / zode zeggen zenden varen : kleden ik laat ik haan uit / elk bewaren zenden hennen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.12	daar ik hum ook te lief om hebben : wan ik denken als ik hij krijgen / die ik dan wat waers hebben / En nu ik hum hebben / zijn hij zo droge / ja zo droge / als Sinteniklaas aersgat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.13	Ik weten gieren onderscheiden / tussen hum / en Jochum vinden de poel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.14	het zijn zulk houteklik / ik zij hum een gat in het lijf pissen en hij zij ' et niet voelen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.15	kennen ik hum wijze maken die hij ziek wassen / ik gink na Parecelses in doen bonten mannen ; Dats een Dokter die ik dienstig zij wees : wan die helpen ' er meer vinden kanten als doen Beul vinden Haarlem ; ja als doen wreed de tierannen : daarom zijn et wonder datze hum niet uiten doen vrijheid vinden Amsterdam ban : mare d'anspreekers zullen et niet begeren / die zijn buit al vermoeden : wan die hij uiten ebanne wassen / dan hebben die volk hier niet veel te doel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.16	Wel binnen ik mal / die ik hier met ik en weten niet wij praten ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.444.s.17	Ik mogen heen gaan : wan ik dunken die doen klok daar twee slaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.1	die goed na doen Duivels-miester al zij ' er een kind vinden komen : Al wassen doen duivel zelf / ik zouw'er niet voor schromen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.2	Ik hebben wel ier ( in ik dromen ) een roven uiten doen hal ebrocht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.3	nul elemalementen wat hebben daar al vreemd ding bezoeken !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.4	Wat zwieren ' er alA bonten vlieger !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.5	wat al gravin boek !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.6	Wat al sulleye mantel !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.7	wat al fluwiele broek !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.8	Hier wassen Jan alleman : daar Gerrit aldewerelt : ginds Ellikien : Hier hebben ik Labbekak / en daar Verneem-al zien .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.9	doen rappige fransje waar ' er an Kontermans staart eregen / daar ' er doen Duivel / alles hij drukken / een of scheuren om doen pers mede te veeg .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.10	doen geltzuchtige Woekenaers wel ier tot doen oor toen in het bonten / worp ' er esmolte goud door een zulb're trechter egoten in ' er mond .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.11	D'Advokaten en procureur / vinden jong op ebrocht tot liegen / aanzien ' er elk een ring door doen tong / om datze doen duivel niet zullen bedriegen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.12	doen Bakkers die het brood veel licht maken als de eis / worp ' er et wicht met heet tang enepen uit zij vlees .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.13	doen diefachtig Snyers / die het laken door het ogen vinden doen schaarde rok / worp ' er tot straffen / door het ogen vinden een gloeiend schaarde etrokken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.14	doen Kox / die kat en hond voor haazen en konijn verkopen / worden ' er estroopt / En an et spitten esteeken / en met Heyntje-mans peekstok bedroopt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.15	doen kassier / die d'eerbaarheyt vinden zij Miesters kast verkrachten / tal ' er macht en dag niet als vurig stuk vinden acht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.16	doen Meulenaars / die het koren uiten vreemd zak aanzien ehaalt / worp ' er op een Grut-meulen / zode fijn als tarwe malen / emaalt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.17	doen Glazemaakers / die in plaatsen vinden schaars zeven duim vijf duim voor een voeden schrijven / die ik zelf hebben bevinden / worp ' er door een loodwijn / zo dun als een ael en zo langen als een piek ewonden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.18	doen waarde / die doen kan niet te deeg vol tap / en hebben bier met water mengen / worp ' er ekookt op een onzichtbaar vier ; wan datze het vier zien / zeggen doen duivel / zij zouwent / als jouw wel kunnen gissen / met water uit hozen / of te minst uit pissen / zo binze et ewent met water om te gaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.19	doen notaris / en Secretarizen / die zulk woord schrijven dieze zelf quaelijk verstaan ; Gelijk : non numerate pecunie , alternatijf , directelijk , indirectelijk , prolongeren , exhereditatie , prediciabel , arbitrateurs , donatie causa mortis & inter vivus , ik kennen het niet half uiten spreken / Die zien ik ' er met zegelgaeren en inktkoker gieselen / en met pen en pennemessen door doen huid steker / En met smolte lak / en heet zand bedruppen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.20	Ik denken / die zijn ' er voor / die jy'er zo veel door jouw kwaad Duits en val Latijn in et lijden hebben ebrocht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.21	doen Dokters / d'Apteekers en Barebiers / komen ' er met zulk groot hoop / die doen duivel dikwijls vrees / datze doen hal nog af cel lopen / En vermoorden al wat ' er zijn in doen hels kolk : wan ' er binden gieren fel beul / nog wreed moordenaar in doen werreldt als die volk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.22	d'Apteekers worp ' er zo langen in een vijzel estampt datze beginnen te stinken ; Dan geeftmen deze stof / met menschemieg emengt / an doen Doktooren te drinken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.23	doen Barebiers worp ' er ekorezijft / en het bloed af etapt en het heel lijf deurvlijmt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.24	doen Pasquillemaakers die tot schimp vinden aare aanzien erijmt / worp ' er bij doen loogenaars in een branden oven esmeeten ; En in et mijden vinden et vieren betonen zij ' er nog als poeet : Wantze huilen en krijten zo netten op rijmen dat'er niet een silp an schelen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.25	Ik vraagde een duivel : waarom woord deze volk gieren zwaar straffen mede edeelt ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.26	die mogen niet wees / zeggen doen droes / die houden dichten byme komen treden : wan deze volk et op doen werreldt meer smarten als hier in doen hal eleeden / Om datze / dieze beschempten / zien lachen / mit'er schimpen / vol venijn .	Joy_EmotionalAction
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.27	Die een aar doen lachen als hij hum kwaad meent te maken / liggen dubbel pijnen .	Emotion_BodilyProcess_Dissapointment_Anger_Annoyance
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.28	Maarze hebben ' er nog een deugd bij / zeggen doen duivel / al quamze haar niet vinden boven : wan zij waar zo botten in et liegen / die niemand haar paskwil wouw geloven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.29	torn komen ik op een aare plaatsen / bij mens met een woekeren Geest ; Deez ' hebben / toenze nog in doen wereld waar / Lommerthouwers eweest : nu warenze inde hels lommerd verzetten tegen vijf en veertig en een quart te honderd ; En om datze et verstaegeldt niet opbrochten / worp ' er al daag een lid vinden et lijf eplondert .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.30	Die door et zwiet en bloed vinden arm rijf worp vereisen gieren minderen ellent .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.31	doen Soliciteurs / voor bloedtzuigers vinden wees en weduwe bekennen / worp ' er voor turf onder een Ketel vol pachter estookt / in plaatsen vinden kool : deze waar pachter die doen sluikers doen bloeden en zelf haddenze et land bestoolen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.32	Die wel ier efalieert waar / tonen an doen duivel haar quietancies : mare zij waar vinden papier / En die zijn in doen hal eeveliens als bossekruidt bij vieren : daarom brengen ' er doen duivel bij doen beurzesnyers in et kot vinden doen dief .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.33	doen quaksalvers en pokmiesters quaamen ' er met ' er bezeegelde brief : mare Lucifar zeggen / brengtze in het verneis bij doen moordenaar / an een kanten / En laetze daar een zieden of ' er zalven ook goed zijn voor doen hels branden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.34	torn zien ik een deel mens met zwart hand / wat aanzien deuze gans / vraagde ik / edaen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.35	willen jij et weten / zeggen doen duivel / zo luister / ik zullen et jouw vertellen gaan : deze binden verver / die met bestelling vinden koopman binnens huis vrijbuiten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.36	Deuze dief weten doen zijde / door schor water bal te manen ; ja houden te ontsluiten : Dan begootenze doen draad mede top vinden vijlsel / en slijp / en aar zwaar god .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.37	daar na leideze doen streng in het sap vinden gal / en alluin / datze weder dichten in menkaer doen ; als die edaen wassen / raken doen zijde in doen verf / dieze zo wel tot lijmen / als glans verstrekken ; ja door zulk een plegen / Deenze drieverendiel zijde / over doen vijfverendiel wegen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.38	met die hij deze vertellen hebben / grijpen hij ' er een paren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.39	En bondze doen hand boven / en doen voeren onder aan menkaar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.40	torn slaan hij doen hand om een pennen die in een groot paal steken / en begonze met doen kravielstok zo elements te wringen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.41	die ' er et bloed zo uitsprong / of ik doen verf uiten doen zijde zien spring .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.42	Hoe mogen jij haar zulk een pijnen doel ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.43	zeyd ' ik / zij aanzien het edaen door haar miesters lassen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.44	haar miesters / zeggen doen duivel / lijden zo wel als zijde : wan zij hangen elk an een zijden bassen ; En zooze daar vierentwintich uur an kunne hangen / zonder die doen streng breken / zo binnenze allegaer vrijen , met wezen hij waerze hangen ; mare ik hebben nauw om ekeeken / Of ik zag'er wel teen dozijn voor haar strop druipen in een ketel vol zieden water / die ' er rechte onder ezet wassen : daar moeten zijde zo langen koken totze twee vijfde parte minderen woogen / ja zo netten of et wetten wassen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.45	doen boekverkoper die bijbel uithangen en aare giestelijke zin / Al zijn het die ' er in ' er winkel niet als bijbel vinden twieenvijftigh brand binden ; En boek vinden Reyntje doen Vos / die schalkedier / worp ' er allegaar / in Belzebuyx kwartier / Tot blanketstel emaakt ; wan als doen duivel een Engel willen lijk / zo goed hij hum met ' et blanketstel vinden zulk schijnheylige boekverkoper bestrijken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.46	zo die ' er niet in doen hal zijn / of ' et komen doen duivel nog te passen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.47	doen Lakenverkoopers / die ' et laken een zestepart lang rekken als ' et wassen / worp ' er erekt / die al watze an ' et lijf hebben beginnen te torn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.48	wie zullen jouw / zeggen doen duivel / ' et laken te rekken wel dra uiten kornen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.49	En zij begonneze met kaarten vinden naald en spellen te reuwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.50	zij riepe ; helpen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.51	helpen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.53	wezen jij slechts te vrede / zeggen doen duivel / lijden jij wat pijnen / jouw kind gaan weder in het felp .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.54	doen makelaar / die mede liegen en bedriegen aan doen kosten raak / Ja die ' er zelf tot koop-luy / en doen koopman tot makelaar maken / worp z'er aan doen koopman / zij falieerde miesters schaffen / Dieze / tot wraken / hebben vellen vinden doen lid stroopte ; En tot meer pijns / in een bak vol pekel dopen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.55	zijde vloekten / en knarsten op ' er tand vinden ongeduld .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.56	Och !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.57	och !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.59	riepenze / die jij efalieert binden die zijn jouw eigen schuld ; wan een Koopman / die hum vinden een Maakelaar laat belezen / Die willen / spijt zijn eigen zelf / een maakelaar wees .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.60	Ik denken doen makelaar liegen het niet / al kanneze het wel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.61	Dan schout / vinden Diefleyers / en Luyzevangers grimmeldent in doen hal .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.62	hebben volk die niet vinden goed doel of vinden doen Kerk mogen horen spreken / zitten ' er allegaer op hekel / en horen ' er doen duivel doen passie preken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.63	doen koorendragers die zo leuy binden die ' er het heel land vinden wagen / worp doen hoorn op het hoekje vinden de hal / dichten aan het hoofd of ezaegt : wan zij zullen aars niet wel door doen poort kunne raak ; En vinden doen tak / zien ik doen duivel hecht tot moortprieme maken / En dobbel-stienen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.64	ik denken deze goddelooze zaad / dienen doen duivel / zo wel nouwze dood binden / als toenze leven / tot allerhande kwaad .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.65	torn krijgen ik hongeren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.66	beginje hongeren te krijgen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.67	zeggen doen duivel / zo zullen ik jouw wel een advocaat aan het spijt rij : wan wie aanzien aars gieren zuivel : Die elardeert zijn mede een tien of en twintig procureur / En bedruipen hum met ' et vet vinden een deel Soliciteurs / Terwijl hij voor een vier vinden deurwaarder worden ebraden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.68	Neen / zeyd ik / die zijn Heyntje-mans kosten / daar meugje jouw zelf mede verzaden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.69	te lest krijgen ik achterlast / en ik binnen door helpen vinden doen duivel op et hels sekreet eraakt ; Hier vinden ik al doen paskwil die door een deel kreupel rijmertjes tot schimp vinden Vos waar emaakt ; Ik wouze oprapen : mare doen droes wouw doen bunse vod / zeggen hij / niet mis : wan doen duivel gebruiken deuze paskwil in plaatsen vinden mosselschulpen / om zenden eierkurf mede te wis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.588.s.70	Al wassen het die ik een inktpot / of een inktkoker hebben / Die zode groots wassen als hebben Heydelbergse Wijnvat / daar negen honderd en zestig Amen Wijn in kennen / daar toen driemaal zo veel / ja viermaal zo veel schrijfpennen als spies in het leger vinden de overste kluit / En die elk zo groots wassen / als doen groot mast op het Schip vinden sint Reynuyt / daar doen Stuyrman zenden hut en doen Kok zenden kombuis in maken / Die zo oog wassen datze met doen Mars aan de Hemel raken / En die ik dan een Boek hebben zode groots als doen spaans Zee in het rond / nog zij ik niet half kunne schrijven / wat die ik in de hal al vinden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.592.s.1	wij daar ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.595.s.1	goed dagge speciaal .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.599.s.1	Hier zo gieren meer te snak / Of ik doen jouw doen broek tot opje heel zak .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.602.s.1	binnen jij doen Toovenaar / om wij die ik hier komen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.607.s.1	Ik gaan in het naarst de nacht mede Lucifer voor mom / Op Belzebuyx banket / mede slepen vinden zwart Saters / En dansser op het gelol vinden kat en vinden kater .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.610.s.1	Wat zijn dan voor een ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.614.s.1	Ik wonen onder deze gewelf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.614.s.2	nachtmerrie zijn ik naam .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.614.s.3	ik zijn doen Weerwolf zelf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.617.s.1	Wat kanje voor kunst ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.1	Ik kunnen doen woest en dun wind tros et nors en Lapsche Volk in lederen zak / en in open net binden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.2	als ik ik aanzicht slechts een mede duivel drek bekladden / veranderen ik in een Mieuw / of in een vleermuis / of in een zwart katten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.3	Ik doen doen mens / als et ik slechts lusten / al doen et menig gruwen / papier / haar / kalk / stien / koten / knikker / neutedoppen / naald en spellen spuwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.4	jij mogen ik vrijen bekijken : ik kunnen allien door ik groots verstand / doen kosten / asze op doen tafel staat / veranderen in zand ; Ja spijt Aecht zonder ziel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.5	ik rijden bij nacht en dagge an al orde Op een Bok met drie been .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.6	ik hebben / door doen kracht vinden toover woord / doen jong zoon vinden geil Aagt / al dunken et elk een houden vreemd / veranderen in een luis / en deedt hum / in die gedaante / in et hemdt / En op et moer naakt lijf vinden Marry Naerjes komen ; Die hij / in een luize schijn / haar eerbaarheidt et ontnoomen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.636.s.7	Ik hebben Juffrouw snottebel doel kijken in de spiegelen glas / die Harmen Fielebaert haar toegezeide vrij wassen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.640.s.1	als jij al dingen zo kunstig weten te kuip / kunnen jij dan wel door et ogen vinden een naald / of door et gat vinden een klinksnoer kruipen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.643.s.1	die zijn ik slechste kunst / die kunnen wel strakx geschien .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.646.s.1	Kanje dan wel Brandewijn of Soetemelk tap uiten een straatsteen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.649.s.1	Ik kunnen wel met een stro het hoofd vinden jouw schouwren snijden /	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.652.s.1	Kanje dan wel / als een Kolrijster / op een beuzemstok uiten doen schoorsteen reien ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.655.s.1	Ik hebben nog gistre nacht evlogen als een kraai .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.658.s.1	Kanje dan wel een weegluys doel klap als een papegaai ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.661.s.1	geren ding binnen zo vreemd of ik weetse te klaar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.666.s.1	Kanje dan wel in een Eysdop of in een Mosselschulp naar Oost-Inje varen / met een zeil vinden een spinweb / en sturen met een naald in plaatsen vinden een roeren ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.666.s.2	Weetje wel die ik wijf niet poortvast zijn / wel te verstaan een Hoer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.669.s.1	staan eerst in deuze kring / ik zel'er een naar lezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.670.s.1	Ritsaart zetten oen in een ring vinden Bossekruit , en beginnen te toveren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.1	twee schinkels met een klauw / wat pok zullen deze wees ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.2	Drie hoorn met een kot !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.3	vijf kriek met een kers !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.4	het zijn doen nikkers kraemery / hij lopen met Heyntje-mans Mars .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.5	hij preutelen binnens monds / ai horen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.676.s.6	hoe lang / hoe ras .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.687.s.1	He , Sa , vo , been marketroy , komen poesme doen krasser .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.687.s.2	Oksius , Koksius , Noksius , Poksius , Homenus , Domenus , Bomenus , Romenus , Arius , Darius , Blarius , Larius , voor wat ' er worden bestieren door het lopen de planeet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.690.s.1	Voorzeeker et deuze manna et Latijn met pollepel egeeten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.694.s.1	inkomen koenat , Rekoolatt , katan , Extra , struynalibol .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.697.s.1	Hoo / hoo / praetje vinden struif ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.697.s.2	ik drukje wel een balie vol .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.700.s.1	Belzibuik , Lucifer , Pollepel , Schuimpaen , komen al in perzibel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.703.s.1	daar lezen hij et duivel paternoster uiten Heintjemans bijbel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.706.s.1	Firlementis , Swijnentis , Schoeschentis lagardefrooy .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.709.s.1	Die tarm zijn eraapt uiten sint Pieters palsrok uiten doen derde plooi .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.712.s.1	rijzen onder aerds gespuis / en laat op aard jouw luim zieden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.715.s.1	bij ik zieter na / hij et doen Droes betoveren met een pruimestien .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.720.s.1	Oliman , Soliman , Foliman , Boliman , Alius , Falius , Malius , Salius , Mikkeran , Likkeran , Wikkeran , Nikkeran .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.723.s.1	hij praten vinden doen Nikker / zij d'aere manna wel vinden huis wees ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.726.s.1	reppen vinden gieren aere manna / of jij mogen wel voor doen Nikker vrees .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.730.s.1	die liege Latijn wassen / hij wassen na ik verstand / doen allergelierste dokter in het heel land .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.733.s.1	waar blijven doen Droes vinden Delft ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.737.s.1	die komen zeker schrander .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.737.s.2	doen Duivel vinden Delft zijn die niet een geboren Hollander ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.740.s.1	Wat zegje daar jouw guit ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.743.s.1	Ik vraegje na ik vrouw .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.753.s.1	na die ik hier bevijn zo zijn jouw houden trouwen : mare om et rechte bescheid / zo maakter eerst jouw werken of / Om over een klein vuur te gaan op et Zuyer kerkhof ; daar zelje dichten an et dak een diep horn zieden / En in die zelfde horn / zijn een betoverde stien / Die jouw als jij zij dragen in et wees zullen vervormen / Dan die jouw echt wijf bywijle komen bestormen : zien dan of Fijtje jouw / of Ritsaart et beminnen .	Emotion_Love
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.756.s.1	Hoe komen ik bij doen horn ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.756.s.2	die die wel eerst verzinnen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.769.s.1	Op et Zuyer kerkhof / daar binnen zes uw zerk / Die eertijdts binnen ebracht uiten et rijf vinden Denemarken : Elk met een grafgedicht / daar een Hoogduits poeet / Wel zeuvendallef jaar zenden hersenen op verslijten ; Die moetje na elkander eerbiedelijken lezen : Dan zelje in een mannen / die daar geriet zullen wees / Al prevelende treden / en spreken deze rondeel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.769.s.2	Oriza , Lambatiza , Schoenmiza , Koekernotes , Koekernoteel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.769.s.3	zo dra en zijn die spreuk niet aen menkaer eschakelt / Of jij woord mede doen mannen / tot aen et dak takelen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.773.s.1	schonen datmen vinden Dokter Faustus wel een groots wonder zien / zo zijn hij bij jouw niet meer als een beest bij een donderslag .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.778.s.1	komen smeertje met deze gruis / ewijt door ik Sermony / zo krijgje in de ijl een zwart duivel tronie ; wan zonder die gedaant zijn al jouw doel onwis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.781.s.1	Ik wouw wel datje zeggen waar vinden die et emaakt zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.798.s.1	In het lest vinden ' et veurjaar / hebben ik in het eerst vinden ' et naejaar gaan zoeken / een houden half lood koutwaremis / ekleinst door natten droogdoeken : een vers pekelharing / een zout stokvis / een jong Ouwevaar / als ' er nog gieren in et hok zijn : deze hebben ik in doen nacht met reuzel vinden koorstengen / met et dreunen vinden een veest / en poddewol gaan mengen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.798.s.2	torn nemen ik tot behulp / doen leveren vinden een pijl / doen nier vinden een zerk / doen long vinden een bijl / Et sap vinden een waterpot / ebruykt vinden juffrouw slakpoel : Et hoofd ' vinden een ronden klos / en het merg uiten een kakstoel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.798.s.3	deze hebben ik met menkaar in een mortier vinden glas / met iene apesteert / ehaelt uiten ' et hel moeras / Tot pollever estamt / met ' et niervet vinden een netel : torn hebben ik ' et ekookt / in een papieren ketel / Over een vier vinden ijs .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.801.s.1	komen smeertet ' er mare an .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.805.s.1	nu ik jouw aansicht bestrijk / woord jij doen Duivel zelf in al dingen gelijk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.808.s.1	Zooje kunst god zijn / zullen ikje een te bier noden in doen bergen vinden weelde .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.812.s.1	met goed lieden zijn goed doel ( zeggen doen koster ) en hij ontkliede doen beeld .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.812.s.2	het zijn tijd voor jouw te gaan / doen Droes tonen hum aars gram .	Emotion_Anger
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.815.s.1	die zijn een kleinigheid / ik wouw wel die hij komen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.818.s.1	Wel binjer op belust / hij zelje zelf bejegenen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.821.s.1	Ja al dingen zijn meuglijk / mare ' et willen gieren geld regen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.825.s.1	He , ho onsikokx Kalandarina , Le , bo , bonsibokx , malandarina Ronsikfokx .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.829.s.1	willen ik jouw wat zeggen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.829.s.2	Reintje doen Vos spreken in latijn / die doen allergelierste doen wijs niet zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.832.s.1	twijfelen niet an ik wijsheidt / ik kanze uiten ik groot baard lezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.835.s.1	zo doen wijsheidt in een groot baard zitten / zo moet doen bok houden wijze wees .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.838.s.1	komen fluks uiten et Vegevyer met jouw beroeste piek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.841.s.1	als doen duivel sterven zullen doen nikker komen : mare hij zijn nog niet ziek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.844.s.1	In deze blad moeten ik zieden waar die ik hum zullen vinden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.847.s.1	zien achter in ik Allemanak / hoe velen dagen die ' er in een manen binden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.850.s.1	ik dunken hebben hel broeden die moeten nog ver vinden hier zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.853.s.1	Ik denken datze allegaar in Noves kroeg te bier zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.854.s.1	Ritsaart steken ' et Boskruit aan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.857.s.1	Hier komen doen Duivel zelf vol ysselijke flikkers .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.860.s.1	nul dood !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.860.s.2	doen Duivel komen met honderd duizend nikkers .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.865.s.1	Ik zullen hum vervolgen om te zieden hoe ver die hij zenden baard hebben ; wan hij lopen alles een hond / die een kneppel an zenden staart hebben .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.866.s.1	Foppe .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.866.s.2	Iuriaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.869.s.1	rijzen uiten de slaap / de dagge die naken / vieren et doen klok .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.873.s.1	zijn loogenachtige Mary door doen zolder evallen / en et zer niet zeer edaen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.873.s.2	Hoe pok kunnen die wees / die kunnen ikme niet verstaan ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.874.s.1	Ieur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.876.s.1	doen die zulk wonder ?	Emotion_Wonder
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.877.s.1	Fop .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.879.s.1	Wel ja het .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.890.s.1	willen ikje wat zeggen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.890.s.2	daar een Labbekak zetten bal daar komen doen duivel eerst een kus liggen : wan een Labbekak kunnen hij niet ontgaan asje zelf wel weten / En zode langen asze hier leven doetze alleman leed / En die leed geschieden / wild dikwijls met wreken betalen / Dan et doen Duivel actie om doen Labbekak en wreker te halen : die zijn een dubbel vetje / dan zijn het kermis in doen hal : nul daar een Labbekak in doen buren wonen / die komen doen Duivel zode wel !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.890.s.3	hij behoeven nergens voor te zorg / zij kunnen doen hels akker zelf wel ploeg .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.893.s.1	komen gaan om een zoopje / in een vinden deze kroeg .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.1	Ier ik op et kerkhof gaan / moeten ik ik met monsieur likpotje zalf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.2	Ameraal / Generaal vinden al roodneuzen / en nuchter kalf : Veldtmaarschalk vinden Lootgieters / vinden Leidekkers / vinden pelser / vinden wever en Schreurs : Sergjant Majeur vinden timmerman / vinden metselaar / vinden smidse en aare Kitte-breurs : geweldig Provoost vinden robijn / vinden diamant / vinden Korbonkelen / en etterige puist : kolonel vinden Schiateka / vinden podagra / vinden Chiragra / vinden schuddende hoofd / en beven vuist : Euverman vinden et Turfdragers / vinden ' et Bierdragers / vinden ' et Waegdragers / en ' et Koorendraagers Convent : Secretaris vinden ' et Wagenaars / vinden ' et Schuiteboers / vinden ' et sleper / en kruier Parlement : bijbel en Categismus vinden Diefleyers / vinden Brillekraamers / vinden dobbelaar en zanger : enig leren en troosten vinden Quakzalvers / vinden Schoorstienveegers / vinden Beersteekers en Rottevangers : nul Ferheer !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.3	nul Luytersche zendbrief / na doen Confessi vinden Augsborgh : nul Lubek !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.4	nul Rostik !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.5	nul Bruynswijk !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.6	nul Bredaal !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.7	nul Rotterdam !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.8	nul gatje bal !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.9	nul hertje zonder zorgen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.10	portier en Kamerling vinden zo veel vrouw ' er slot !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.11	nul gouden en Zilver-smit / die doen waardin zij ring en sleutelreexen doen vergroten !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.12	nul zoon vinden Bytebier / die hij bij dronke Stijn hebben !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.13	Dan Pater Kitte-breur edoopt in het Heydelbergsche Wijnvat : daar Sinjeur Pakkebier hum als jouw Peet vertonen / Die jouw zo rijkelijk tot Pillegelt beloonden / met zalm / met raf / met rekeling / met krabben / met garnalen / en met kruidig vorst / met kapper / met Olyven / met Anssioves / met kaviaar / al kosten voor een zwelgzieke barsten : leven honderd duizend jaar / ja twee honderd duizend jaar / natgierige keeletrooster .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.14	nul monnik !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.15	o Knunnik !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.16	o Pater !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.17	o marter !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.18	vinden sint Bacchus Klooster .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.19	die smaaktme / die raaktme an et harden : niet een druppel selme ontslippen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.20	ik buik staat espanne / ik zij ' er een Olyfant op dood knip .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.21	Hier zijn doen eerst zerk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.22	Hier liggen hij die hebben spijt die hij doen dood verraden : nog meerder spijt hebben hij die hij zijn geld verlaten : Wat of deze Woekeraar hebben allermeest mogen spijten ?	Emotion_Sadness
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.23	die hij doen worm het vlees om niet vinden het been af bijten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.24	Die Woekeraar et zo gierig eweest als doen varen vinden ons Joost en meidt : wan die zijn zo gierig die et hij spijt die hij om niet god helpje zeggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.25	Hier zijn doen twiede zerk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.26	Hier liggen een Wisselaar , die goud nog zilveren hebben , En in hebben wisselen bestaan zijn groot schatten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.27	hij geven zijn ziel bywijl door het wisselen te roven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.28	Waarom ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.29	hij wisselen gestadig vinden geloven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.30	Deuze Wisselaar volgen doen Dreier die hij veel te hof laten binden ; die zijn een Dreier zonder beitel : wan hij dreit met al wind .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.31	Hier zijn doen derde zerk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.32	Hier liggen hij die weleer zijn vrijen wil hebben : mare sinds die hij doen dood in arm hebben vatten , verliezen hij deze willen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.33	Nu hebben hij niet te zeggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.34	die hij zijn willen nog hebben hij beven hier niet langen liggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.35	Deuze manna slachten Drank / die sterven tegen zijn danken ; of zijn hebben Jasperbuurs geest ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.36	Die hebben lief die ik vinden hij zeggen : hij zijn ' er / dan hij et ' er al eweest .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.37	Hier zijn doen vieren zerk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.38	Hier onder vinden ik een trompetter door doen dood : hij zij trompetter zijn op Charons lederen bieden ; mare d'oude Veerman hebben niet op zijn komst te hoop : wan deze blaazer zijn doen wind te sluik ontlopen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.39	Deuze manna et alzo slim als doen Duivel eweest in zenden uitgank ; wan hij schede met wijndt / en die met wijndt scheiden / die scheiden met stank .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.40	Hier zijn doen vijfde zerk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.41	Hier liggen een advocaat ; doen hemel willen hij niet : doen duivel weigeren hij een plaatsen in het hels gebied : wan Pluto vrezen die hij doen boos vrijen zij manen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.43	hij hebben dienen tot veurspraak vinden kwaad zaak .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.44	deze wassen hij / geloven ik / die bewijzen die lelijk Trijn volmaken wassen / en het wassen ook wel verzinnen ; Trijn wassen lelijk en volmaken : mare het zijn niet vreemd / wan zijde wassen torn met kind .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.45	Hier zijn doen zesde zerk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.46	rood eyn mool , wij onder deze steen liggen begroven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.47	de woord Farheer , Glim Kloozen , vinden Berrebeek , Die hij zo vookmools mede koldeschool plegen te lof ; vinden hebben edel koldeschool , wassen al zijn gepreek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.48	hij zijn te Etdorp in het koldeschool huis geboren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.49	Door hebben koldeschool hebben hij zijn leven verliezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.50	hebben koldeschool hij ook in zijn beynen komen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.51	Door hebben koldeschool krijgen hij ook die podagra .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.52	Koldeschool , koldeschool die wassen zijn lest woord .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.53	Door mede stappen hij zo zolig in zijn Hemmels Poort .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.54	Nu liggen hij begroven onder de blauw stein .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.55	En hij zij nog zo goren een koldeschool sein .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.56	Koldeschool , koldeschool , wassen altijts zijn verhool .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1016.s.57	nu zijn hij in zijn Hemmels Zool , on vret ' er das eeuwig koldeschool .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.stage.921.s.1	hij lezen :	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.1018.s.1	oen spr.	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1024.s.1	komen hier / te Amsterdam / zulk een Ferheer een te staan / zo zullen ik al daag / als hij vinden koldeschaal willen preken / in doen kerk gaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1024.s.2	nu klimmen ik in doen mannen / laat zieden hoe zijn het rondeel ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1024.s.3	Orisa , Lambatisa , Schoemisa , Coerkernoetes , Coekernoteel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1029.s.1	het zijn tijd en meer als tijd om oen zo te talie / die hij in al ijl kunnen raak an doen schalie / hij isser al .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1029.s.2	die zijn vasten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1029.s.3	Ik treden weder op een zijde .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1032.s.1	Hier Jeuriaan / hier / wij binden hier in doen lijden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1035.s.1	Wat isser dan te doel ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1039.s.1	Ik binnen in duizend vrees / zo et gieren spook en zijn / zo zellent dief wees .	Fear_Emotion
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1042.s.1	Ik zien hier niet een mens / et zijn hier al in stilte .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1045.s.1	Sieje daar gieren geswier voor et glas vinden et visser gild ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1048.s.1	Ik zien een groot mannen / zo ik mare rechte kunnen turen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1051.s.1	Ik zeggen die ' et doen duivel zijn of ymant vinden zenden buur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1054.s.1	Ik laat doen mannen om laai / en zullen hebben zelf bezie .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1057.s.1	lopen Ieuriaen / lopen / lopen / ai lopen / het zijn tijd voor wij te vlijen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1062.s.1	Wel heide wat zien ik hier / wat komme hier te voorn ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1062.s.3	alriets hebben ik zelf ik eigen zelf verliezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1062.s.4	die zijn gang : ik streefer heen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.1	Hier komen niemand vinden uiten zieden / die schijnen juffrouw et harden te prang .	BodyPart_BodilyProcess_Desire
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.2	een onkuische vrouw zullen altijd meer na haar Pol als na haar eigen manna verlangen .	Emotion_Desire
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.3	waarom ofze oen nemen / als zijde ' er gieren zijn in hebben / zooze niet beschenken wassen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.4	mare juffrouw / hebben ik wel ehoort / wassen een putten daar een kalf in verdrinken wassen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.5	En oen meent die hij an haar een zuiveren loten etrokken hebben : mare zij wassen vinden eerst an zo zuiveren als een duif die doen pok hebben .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.6	zij achten haar eer niet meer als een oud schoon / of zo een verlopen sleuren : wan zij zijn zoet op de drinken / en een dronke vrouw zijn een open door .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.7	Ik spreken doen goed niet te na / ik smijten slechts een kneppel onder doen vrouw : wij niet willen aanzien datze haar zullen raak / moeten haar uiten doen wegen houden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.8	Ik zien en horen ; ik hebben een makkelijke huur / al zijn ik lot wat zwak : mare ik hebben doen marktgang / en die ik of dingen steken ik in ik eigen zak : deze zijn ook niet vreemd : wan ik volgen doen mannier vinden doen mieste meid / En zo et al uiten komen / ik wedde et juffrouw an meester niet en zeggen : wan zij weten wel die ik mond / als ik Ritsaart zien / voor oen zwijgen / En als een meidt markt die zij vrouw vinden een vreemd manna zoen krijgen / Wortze houden stout / en doen vrouw durven niet over haar klagen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1083.s.9	wij voogd vinden zenden huis willen blijven moeten hum eerlijk dragen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1091.s.1	ik leus Trijntje / ik binnen gelukkig die ikje hier dus vragen bij doen door vinden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1091.s.2	oen zullen hier strak komen / om te zieden of jouw vrouw hij / of ik beminnen .	Emotion_Love
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1091.s.3	Hier zijn et vaatje met wijn / daar ik met Fijtje flus vinden hebben esprooken : doen pachter binden ik achter et gat ; wan ik hebben et eslooken ; daarom verschuilen et .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1091.s.4	ik vertrekken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1095.s.1	wij wassen daar ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1099.s.1	juffrouw / Ritsaart brengen deze vaatje met wijn / En hij lopen voor weg : wan oen / zeggen hij / zij hier dadelijk zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1102.s.1	krijgen ik speldewerks kus / zo zullen hij ik vragen an het werken vinden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1105.s.1	Die niet eerlijk en zijn willen altijd nog eerlijk schijnen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1106.s.1	Fijtje werken en zingen een luchtig Lietje .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1110.s.1	nu ik doen betoverde stien hebben / laat ik viool treuren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1113.s.1	hola !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1113.s.2	daar zijn oen / nu moeten ik wat aars neuren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1114.s.1	zijde zingen : Al eer ik komen te eren , zien , c.	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.1	Wel heide !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.2	wat horen ik daar ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.3	ik oor binnen vol galmen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.4	Hoo / hoo / het zijn Fijtje / zij zingen een menist Zalm .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.5	Bazelasmanus vosemecy mede honderd duizend kusjes .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.6	Mijner Liede / vragen uw Liede / of uw Liede op mijner Liede nog zo verliefd vinden als flusjes ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.7	ik suikeren struifmont !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.8	ik pijpknielde rijstebrij !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.9	jouw montje zijn econfijt met naerze vinden kandij ; daar meer / ja twiemaal meer als duizend koning naar snak .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1125.s.10	Ik geloven niet of doen beiden komen heunig op jouw lipjes kakken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.1	Ik slaan een gat in de Hemel !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.2	dus op zenden Italiaans ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.3	hebben bientjen after uiten ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.4	zo doel doen Kortezaans .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.5	Ja wel jij binden een Giest !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1131.s.6	mare het zijn een gaaf / moetje weet / Die al mens niet egeben zijn / bokkende brij met vork te eten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1134.s.1	Wat zegje vinden ik gang / hebben ik niet een houden schoon tred ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1137.s.1	jij goed alleeveeliens als een haan die een vuilnis tussen zenden toon hebben .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1140.s.1	zien jij ook iets in ik aanzicht door ik slordigheyt verwilderen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1143.s.1	nul !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1143.s.2	neen : ik horen et op doen hoek vinden een brug sekreet te laten schilderen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1146.s.1	Asje ik verweende broek bezien / wordtje dan niet houden ammereus ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1149.s.1	Buyre kijken uiten !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1149.s.2	doen beuzem et een huik op / et varken et zijn fluwiel op zenden neuzen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1152.s.1	Wat dunkje vinden ik woord / al luienze niet vermetel ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1155.s.1	houden weids / dubbel ondieft / breed ding twee schol in een ketel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1158.s.1	Hoe pastme deze wambuis ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1158.s.2	trouw ik binnen nog half en half ziek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1161.s.1	Et passen jouw ander nog ander / als een ai op een punten vinden een piek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1164.s.1	Wat dunkje vinden ik zwier / mogen ik doen ratste niet wel passeren ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1167.s.1	Ik geloven niet ofje moeten jouw mede ' et zwiet vinden doen stad Straetemaakers smeren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1170.s.1	komen zoenme tocht een reis / zo betaalje jouw uw schuld .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1173.s.1	Et doen vrij hongeren ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1173.s.2	naerzen met edik die zijn goed zullen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1176.s.1	veel een hoemen polsen jagen / en hoe doen zoole vinden ik schoen brand .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1179.s.1	Jemeny kleden !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1179.s.2	wat een dingen zijn mosterd !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1179.s.3	zij bijten en et gieren tand .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1182.s.1	Hoe zoet zijn doen jeugdt / zouje zeggen die ik jouw een onder doen kombaars hebben .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1185.s.1	die zeggen doen Boer ook / en hij zoendent Kalf voor zenden aersgat .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1188.s.1	zullen ik jouw kwastig harden dan niet een kunne door spit ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1192.s.1	jij zullen / op zeuvendalf varken na / bezijden doen zeug zetten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1192.s.2	horen ; waar zijn vinden daan ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1195.s.1	Ik binnen vinden Leien vinden daan ; die zijn genoeg vermaard .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1198.s.1	zijn vinden Leien vinden daan ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1198.s.2	jij hebben zo veel praat die ik wel wouw die jij hier \ vinden daan waard .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1201.s.1	Wensje ik tot een landsman / zo zijn ik gelok al geweldig ereezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1204.s.1	Neen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1204.s.2	wan datje hier vinden daan waard / zo zouje ik zo lastig niet wees .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1207.s.2	laat ik jouw een zoen .	EmotionalAction_Desire
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1210.s.1	ik dunken die et met jouw altijd eeve groeien zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1214.s.1	hebben ik kwaad in het zijn zo moeten ik niet komen daar veel te doel zijn ; Ja hebben ik ' er erg in / ik willen ' er ik weten niet wat op vloek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1217.s.1	jij hebben ' er gieren erg in / jij slachten Jan pomp / die eten struif voor pannenkoek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1221.s.2	Fijtje / die jij ik smarten en overgroot nood weten / jij zouten zeggen : Ritsaart / ik binnen doen spijker vinden jouw doodtkist .	Emotion_Sadness_Desire_Despair
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1224.s.1	voor / Ritsaart / voor vinden hier al langen enoeg staan snappen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1227.s.1	Wordtje kwaad ?	Emotion_Anger
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1227.s.2	zo zullen ikje met een mond voor jouw bakkes lap .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1232.s.1	die meugje jouw hoer doel ; ik binnen al te eerlijk vrouw die ik ik oen / die ik lief hebben / met hoorn kronen zij .	Emotion_Love
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1232.s.2	waar blijven ik echt manna ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1232.s.4	Ritsaart dingen na ik kuisheidt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1235.s.1	Ik willen een schelm wees / ik wijf zijn doen herberg daar doen deugd thuis liggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.2	wij vijndt ik hier ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.3	hij lijken ik op een draad .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.4	wij pok of et zijn ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.5	bij god !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.6	ik weten gieren raden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1241.s.7	zijn het ik Giest / zo zullen ik dra sterven : of oordeeel ik al te Janhagels ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1244.s.1	Asje jouw Giest zien / zijn vegen / ja zo vegen als een luis tussen twee nagel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1248.s.1	wij raden jouw zo stout / datje hier verschijnen in Ritsaarts gestaltenis ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1251.s.1	wij raden jouw zode stout datje durven komen daar doen recht Ritsaart zijn ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1254.s.1	zo jij jouw mond niet snoeren / ik zelje vernielen / al wasje een vinden doen allermeesten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1257.s.2	die t'Amsterdam vinden dreigen sterven beluyt ik met veest .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1260.s.1	zijn ik Neef ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1260.s.2	of binnenwe Breurs vinden iener dracht ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1263.s.1	die geloven ik niet : wan die wij allebeide gelijk zij dragen / hebben te zwaard een vracht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1266.s.1	jouw moeder plegen die wel ier tot ons te verkeren ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1271.s.1	ik moeder die wassen zo droge als Klaasje in doen pier ; mare ik varen et in zenden jeugdt wel op zenden Vlielandts equeest : daarom geloven ik die hij wel bij jouw moeder om een praatje et eweest .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1274.s.1	jij binden dan wij jij binden / ik lopen om ik degen te halen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1277.s.1	Ik liggen doen stien met ' er vaart neder : wan hier vallen niet te dralen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1284.s.2	oen / zijn hier !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1284.s.3	ik uitverkoren Lief !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1284.s.4	Ritsaart et hier eweest / die overritze Dief / En wouw mede al zenden kracht / al zeggen ik lopen hutselen / En stoten hum vinden ik lijf / ik eerbaarheydt ontfutselen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1287.s.1	voor krijgen ik kortelas / zo raken hij op doen rug .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1290.s.1	Wel wachtme hier zo langen / ik voeren zijn al vlug .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1295.s.1	waar zijn doen Tovenaar ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1295.s.2	hier binnen ik mitmen degen : komen nu vrijen voor de dag / ik zullen jouw doen bek gaan vegen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1298.s.1	Wel Ritsaart / wel hoe dus ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1298.s.2	wat doen met et rapier ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1301.s.2	oen vijnd ik jouw !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1304.s.1	Wel ja / wij zoeken jij hier ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1308.s.1	Ik zoeken ik eigen zelf / die ik hier strak zien kuieren / zo ik hum krijgen kunnen / zo raken hij in doen luieren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1312.s.1	jij hebben wat aars in het zin / jij komen hier bij ik wijf / En zeggen elken reis : jij binden ik tijt-verdrijf .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1315.s.1	het zijn wonder die jouw het hoofd vinden ik nog niet esmeeten zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1318.s.1	zo geven ik jouw een tassen met een leus mouw / daar gieren arm in vergeten zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1321.s.1	Zooje niet zwijgen willen / zo tijd ik straks aan het smeet .	EmotionalAction_Anger
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1324.s.1	Praatje wat / doen hond die het lui blaffen die weet vinden gieren bijten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1327.s.1	Ik zweerje bij ik kracht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1335.s.1	Ik loofje wel / et zijn gieren zottekal .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1335.s.2	zullen jij doen papegaai niet wel of schieten mede een papieren rottebal ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1335.s.3	wan jouw varen et al konstabel eweest in het beleggen vinden slot / daar doen Hertog vinden Pierlapon / mede een schabel door zenden bil zijn eschoten / torn Piet Jaep Joosten / Kees Jan Krijnen / in doen Karremelkx zak / met een vers pekelharing / morsen et hart of steken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1338.s.1	wij mienje die ik binnen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1342.s.1	doen broeder vinden Nikodemus / Seuns zoon vinden Paus Jut / over Out-ooms oudoom vinden Polyphemus .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1347.s.1	Hoe scheere wij mekaer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1347.s.2	waal die komen zeker zoet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1347.s.3	passen op ik hand guit / als ik jouw weder ontmoeten : mare nu moeten ik doen schelm een naar zenden gat gaan tijd .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1350.s.1	Ik rapen doen stien weder op / zo komen ik niet in het lijden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1355.s.1	Ik zien gieren kortelas / nog ik binden gieren rapier / Ik zoeken dan waar ik zoeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1355.s.2	hoe !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1355.s.3	Ritsaart !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1355.s.5	jij hier ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1358.s.1	doen liefde jaagme hier heen / om te zieden of ik jouw niet kennen belezen .	Emotion_Love
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1361.s.1	die mal kreupel wassen er krukke manen zij et besteden ambacht wees .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1364.s.1	jij moeten deinken ik binnen een Koopman en een vinden doen besteden sinjeur .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1367.s.1	die doen zot bel dragen / hoe geweldig zij et zijn middag klink op doen Beurs !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1370.s.1	laten ik jouw omarmen .	EmotionalAction_Love
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1374.s.1	Ik zeggen laat lossen / of ik zullen jouw uiten schelden / die doen hond gieren brood vinden jouw cel wil eten .	EmotionalAction_Anger
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1374.s.2	ai ik omarmen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1374.s.3	die jouw hoofd op een varken staan / ik zweren die ik vinden ik leben gieren spek zij eten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1379.s.1	Wel spijtig prei / die jouw hoofd boven doen door vinden een wijnkelder komen te staan / doen pachter zullen / al zagenze sluiken / vinden schrik niet in doen kelder durven gaan .	Fear_Emotion
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1382.s.1	waar komje vinden daan / datje dus praten ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1385.s.1	Ik komen uiten hebben west .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1389.s.1	Ik horen wel an jouw mal propoosten / Datje uiten et west quaamt : wan doen Wijfen komen uiten et Oosten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1392.s.1	jij zullen jouw goed wel vinden doen weeskamer krijgen : wan jij binden mondig / verstaeje die wel Fy ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1395.s.1	Ik wouw jouw niet zoen al kakken jij koop pot met gouwe hengsel / en vol rijstebrij .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1398.s.1	jij binden een vod .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1401.s.1	jouw moeder houden wel een hoerhuis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1404.s.1	die liegen / zweren ik / zullen jouw rouw .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1407.s.1	Ik verzinnen ; jouw moeder houden gieren hoerhuis : mare et hoerhuis et jouw moeder ehouwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1410.s.1	En jouw varen wassen wel ier een hoerevoogt / daar ik in doen almanak vinden lezen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1413.s.1	jij hebben gelijk / ik varen wassen een hoerevoogt : wan hij et voogd vinden jouw zuster eweest .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1416.s.1	jij ellementsche pekelhoer !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1416.s.2	krijgen ik jouw een onder .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1419.s.1	die zijn harden teugens harden / zeggen doen Duivel / en hij veest tegen doen donderen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1422.s.1	jij binden een schans zwijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1425.s.1	Ik zullen jouw voor commissaris ontbien zo waar als ik Fy heet .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1430.s.1	jij ik voor commissaris ontbien ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1430.s.2	die macht en hebben jij niet ; jouw beurs die zijn te kaal / om naar een advocaat te wandelen : wan een advocaat zijn als een Hoer / die haar om geld laat handelen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.1	jij ik kaal ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.2	jij gatvink ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.3	jij binden zelf zo kaal als een luis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.4	wij binnen ik schuldig ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.5	zeggen hontsklink ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.6	ik wonen in ik eigen huis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1435.s.7	Tot mijn zullen ik Erfgename al meer asze miene uiten doen kast ham .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1439.s.1	die zijn waar / zij cel ' er veel in vinden ; wan asje jouw hemt in jouw poort trekken / hebben jij een heel kast vol linde .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1442.s.1	jij binden een vagebond .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1446.s.1	Ik binnen dan wat ik binnen / ik binnen altoos al een dol snoeshaan : Et mogen beuren die ik voor doen nikker lopen / mare ik durven wel tegen doen droes staan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1452.s.1	jij binden een stout manna / ja jij binden een manna als ons rijf wassen : daar bij binnen jij zo wijze / als Teunis / die zenden varen vragen / of jozef ook Kattelijk wassen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1452.s.2	Ja jij binden zo erg als Miewes Tijsen in ' et Groenlantsche Traen-vat / Die wel dor wedde / die Mozus in doen Geuze kerk egaen hebben .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1455.s.1	Wat rijtme deuze Appelteef ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1458.s.1	Ik krijgen een popelezy op ik lijf .	Fear_BodyPart_BodilyProcess
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1458.s.4	ik worden zo bang .	Fear_Emotion
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1461.s.1	Ik liggen doen stien hier neder .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1461.s.2	deze kijken duren te langen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1464.s.2	oen zijn daar ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1467.s.1	Wat doen ik lief op d'aerdt zijgen .	Fear_BodilyProcess
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1470.s.2	halen een weinig edik .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1473.s.1	Ik zullen jouw eest ontrijgen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1477.s.1	wie aanzien gieren edik in huis / en doen meidt et haar voeden verstuiken / onder in het gewricht : lopen doch met ' er vaart ginder in doen stijgen / tot doen kruinier mede et schedel gezicht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1480.s.1	Ik beloven jouw die ik dra heen zullen lopen / en weder komen zonder te mis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1484.s.1	waar zijn Ritsaart ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1484.s.2	spreken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1487.s.1	Hier zijn ik .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1487.s.2	een minnaar zullen zenden tijd zelden vergissen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1491.s.1	Ritsaart / jij moeten voorzichtig wees asje hier bij daag in huis wild treden ; wan jij woord stag na zien vinden ons buurwijf Madeleen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1494.s.1	Ik zullen beschik datze die gapen wel dra zullen staken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1497.s.1	Hoe wouw jouw die beginnen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.1	Ik zullen een paskwil op haar laten maken : wan ik komen dikwijls bij die volk / om die et ik altemet een praatje verlenen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.2	Ik zullen ' er bij een gaan die doen Beurs al daag bestormen met gestient : mare hij et groot stien in zenden hoofd als in zenden juweelkoffer liggen ; doen voeren vinden zenden paskwil / hebben ik wel horen zeggen / binden zo kreupel als hij botten in zenden Koopmanschap .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.3	Ik zullen lief bij doen manna gaan die uiten ebannen zijn om zenden kwaad klappen : deze zijn ' er een die zenden wijf trouwen na datze in het Spinhuis hebben zitten : hij rijmen voor en tegen et land / om een buik vol bier en eten : mare in zenden zotheid zijn hij zo standvastig als ik nooit een kade vinden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.4	Et zullen goed wees die ik gaan bij doen Poret vinden et gelokkig eilandt / die zijn een manna die met kracht en geweld een Dokter willen wees : mare hij et zo weinig verstand vinden paskwil te maken als vinden zieke te genezen / wan zenden paskwil blaffen en zij aanzien gieren tand om in het vlees te slaan : het zijn ook gieren wonder datze blaffen : wan ik zien hum veel met hond om gaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.5	hij rijmen ook voor hond : hebben et gelokkig eilandt an hij dan niet een recht Jorde ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.6	zo hij lang leven : zo zullen hij nog in een hond veranderen : wan hij zijn alrie een hontsbodt worden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1518.s.7	Ik kennen doen eigenschap vinden die pasquillenmaakers op een draad .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.1	schouwen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.2	Pachter .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.3	Notaris .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.4	Steeboode .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.5	Diefleier .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.6	Verklikker .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1519.s.7	Hier woord aan doen door kloppen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1522.s.2	vrouw daar woord aan doen door eklopt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1522.s.3	hier zijn onraad .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1525.s.1	wij kloppen daar ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1528.s.1	doen doen door open .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1531.s.1	Et zijn doen schouwen : ik kennen hum an zenden spreken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1535.s.1	Trijntje / jij hebben Ritsaart / als oen komen / zo menigmaal versteken / Weetje nu gieren raden ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1535.s.2	ik bidden jouw / bedenken een aardig list .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1539.s.1	Hier Ritsaart / verschuilje met er baard in deuze kissen : Ik zullen achter uiten snappen en komen doen kissen weder met fatsoen voor uiten halen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1542.s.1	zo jij die kunde doel / zo zullen ik jouw voor jouw kunst betalen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1543.s.1	Ritsaart in doen kissen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1546.s.1	Ik zeggen doen doen door open / of ik loopze met geweld op doen vloer .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1551.s.1	daar zijn open .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1551.s.2	Hoe maakje vroegmorgen zulk een rumoer ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1551.s.3	Ik wassen strak wat quaelijk / en ik manna zijn uiten of hij edik te koop kunnen vinden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1551.s.4	Hebje wat langen ewacht / die komen die ik ik slep eerst voor wouw binden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1554.s.1	juffrouw / vergeven wij dan die wij zo vrijpostig in huis komen : mare ' et zijn niet zonder rein .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1557.s.1	ik dunken die et onbeleefd zijn datje zonder verlof in huis komen treden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1561.s.1	Ik komen met doen pachter / Steeboo en een publiek Notaris : ik zeggen die hier wijn eslooken zijn / en ik komen om te zieden of et zijn zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.2	ik sluiken ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.3	die wassen niet eerlijk edaen : wan et land kunnen zonder Cijns te krijgen niet bestaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.4	Al die sluiken hoormen mede na doen kaak te streven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.5	Ik houden et met doen Schriftuur : wan die willen aanzien die ik doen Kaizer et zijn zullen geven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.6	doen eerloos zeggen : kunnen ik et zonder schade doel / ik kunnen et zonder zonde doel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1569.s.7	zo et jouw believen / jij kunde et huis door snuffelen : mare jij zeltme een groots afgrondt doel .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.1570.s.1	Pacht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1572.s.1	Heer schouwen / deze wijf zoeken wij te verleien door haar bedrieglijk snappen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1575.s.1	Ik binnen zuiveren / en die zuiveren zijn mogen zenden oor schutten datze klap .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1578.s.1	doen schurft schaepen / hebben ik wel horen zeggen / blaten et allermiest .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1583.s.1	Wel propdarm / wat doel ik jouw die jouw ik dus tergen en onbeleefd briest ?	EmotionalAction
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1583.s.2	In het oud testament worp et volk kwellen vinden tierannen en hels Nikkers : mare nu zijn et slim : wan nu worp doen mens eplaegt vinden pachter en Verklikkers .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1586.s.1	Notaris schrijf die op / ier ik meer vinden haar laster walgen .	Emotion_Disgust
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1589.s.1	laten hij et vrijen in jouw harden schrijven / en hangen et boek an doen galg .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1592.s.1	deze wijf et eer en schamen gelijk te kerk ebragt / die blijkt wel an zij baar .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1595.s.1	Wel / valse Testement-schrijver / wat hebben jij te zeggen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1595.s.2	jouw varen zijn bankerot evaren .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1604.s.1	die ik varen bankerot voeren / kosten jouw niet een zeer : hij geven nog vijfentwintig te honderd / die zijn doen recht koers vinden een bankerottier : mare jouw Daar wassen te dief : wan als hum zenden werkvolk werken thuis brengen / wouw hij haar het bedonge lot niet geven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1604.s.2	zeggen zijde , sinjeur wij kennen vinden zulk een klein lot niet leven : wezen jij te vrede / zeggen hij / ja ik ra jouw datje vinden hoog lot zwijgen : Ik binnen een Buurtmiester / ik zullen maken datje onderhouding vinden doen Almoeseniers krijgen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1609.s.1	die liegje / jij eerdief / jij kolfvoet / jij druip-oog / jij luishondt / jij neuzen als ienanker : Pokkige hond / hoe zelze jouw nog op egeeten worp vinden doen spaansche kanker .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1612.s.1	juffrouw schelden doen manna niet uiten : wan hij zijn houden wijze ; of binnen jouw buis ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1615.s.2	hij wijze ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1615.s.3	die hij in een rok lopen en een slab voor hebben / hij wassen prezendent vinden et Lazeris huis .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1618.s.1	zien watje zeggen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1618.s.2	er zijn een Notaris ; et hij gieren bord voor zenden huis / die komen omdat hij rijf zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1621.s.1	hij hoeven gieren bord voor zenden huis : wan hij et een bord voor zenden kop / die pubelijk zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1624.s.1	zien toen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1624.s.2	jij kunnen ik nog wel vinden doel krijgen : wan ik weten er veel voor tehelpen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1628.s.1	die zijn waar / jij helpen ' er veel voor ; mare hoe ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1628.s.2	jij helptze eerst uiten ' er geld en dan uiten doen poort .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1631.s.1	die ik zulk niet en doen / en die ik wijze binnen / tuigen ik allernaeste buurman .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1634.s.2	in et schip vinden doen blind zijn een ogen stuurman .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.speaker.1635.s.1	noot .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1637.s.1	woord ik een Pensenaris / dan zullen et doen kwaad wijf niet na zij wens gaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1641.s.1	jij Pensenaris worp !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1641.s.2	een Pensenaris denken ik als ' er achter doen hal met pens staan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1641.s.3	bod .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1641.s.4	juffrouw versteurje niet !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1641.s.5	jij turen jouw an / of hij jouw manna edoodt hebben .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1644.s.1	Ik wens doen guit met zenden gat op een hekel / en die hij een meulestien op zenschoot hebben .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1645.s.4	Kruier .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1650.s.1	Goemorgen juffrouw / jij hebtme ik huur gisteren betalen : mare jouw woud ik kissen nietgeeven / Of jouw wouw ' er in zieden / of ' er ook iets die jouw horen in wassen ebleeven : Hebje et al edaen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1650.s.2	ik binnen hier met een kruier ; wan die zouze brengen an doen schuit .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1653.s.1	Ik jouw vod deurzien !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1653.s.2	die lusten ik niet / daarom goed et gat vrijen uiten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1656.s.1	als jouw op doen meidt niet weten te zeggen / moetje haar kissen mede lang .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1667.s.1	Hadtze een meidt eweest asze horen / ik zij gieren strijd tegen haar anvangen : wan ik hebben ik tegen haar edraagen als een rechtschapen vrouw : mare zij wassen een labbekak / die al buure bakhuizen begapen wouw : gaan zij een in doen komeny / strak vilze an et kalle : binnen die gieren boos werk ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1667.s.2	Dan wassen et / ik Heer schouwen / in ik naers en uiten ik naers / gaan door ik naers te kerk .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1667.s.3	ik kelder die bij ik aare meid zo klaar als melken en heunig wassen / lach bij zij zo morsig / ja zo morsig of ' er een varken koning wassen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1667.s.4	Die et vuur vinden een aar willen rekenen / laat zenden eigen uitgaan / hebben ik wel horen zeggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1667.s.5	ik kamer wassen zo slikkerig / die ' er met eren een zeug in doen kraam hebben mogen liggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1675.s.1	Ik hebben bij jouw moet lijden als et wijnterkooren op et veld .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1675.s.2	zijn rijk als ik ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1675.s.3	doen Duivel dienje hebje geld .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1675.s.4	Heer schouwen / ier ik bij haar komen hadtze dertien meid ehadt in neege week : zij zij een roven voor die hal vinden daan halen / en doen Duivel zij ' er niet tegen durven spreken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1675.s.5	zij maaktme / om ik te doel haaten / zo zwart als doen zwart mollen zijn : wan die een hond dood willen aanzien hoeven slechts te zeggen die hij dol zijn .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1678.s.1	jij gapen niet of jij liegen : verstaan jouw die wel / helleveeg ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1684.s.1	juffrouw / ik komen niet / om met jouw te hassebassen : Ik smijten slechts schoen te grabbel / willen jyse aan trek / ik kunnen niet beteren datze jouw pas .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1684.s.2	jij moeten jouw niet verstoren / of ik met jouw wat in et grosse praten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1684.s.4	Heer schouwen / spreken een voor ik / op datze ik kissen weder lossen laten .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1687.s.1	voor / bezie doen kissen / of geefze doen meidt : wij moet hier een zieden in al hoek .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1690.s.1	lopen met jouw kissen an doen galg / ik hoofd staat ' er niet na om jouw prul te deurzoeken .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1694.s.1	juffrouw / jij hebben ik veel verletten / doen ding die ik nog beschik zullen : mare ik mogen deinken hebben ik ik niet zat egeeten / die ik ik niet zat likken zullen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1698.s.1	jij doen wel / datje om jouw verzuimen tijd niet wild kibbelen / nog mal : wan die et lest uiten doen kunnen willen aanzien / zullen et lid gemienelijk op zenden neuzen val .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1702.s.1	Kruier / reek ik een handen : wan ' er zijn veel tinne in die ik vinden ik ouder hebben eerft .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1705.s.1	vrijster wat cel jouw vriend al beuren als jij ongetrouwd sterven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1708.s.1	Heer schouwen / wij vijnden gieren wijn in doen koken / nog kelder liggen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1712.s.2	et heel huis vol volk / wat pok zijn deze te zeggen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1716.s.3	ik lief manna !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1716.s.4	ik uitverkiezen !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1716.s.5	zijn daar al weder ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1716.s.6	Hier woord ezeidt datwe wijn eslooken aanzien / en deze raaktme an ik eer .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1719.s.1	die zellenze liegen : ik willen hier gieren vreemd volk gehengen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1722.s.1	Heer schouwen / ik hebben ' er et vaatje met wijn zelf in huis zieden brengen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1725.s.1	hebben jij et zien ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1725.s.2	zo halen al kast vinden doen wand .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.stage.1726.s.1	Trijn roepen vinden binden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1729.s.1	branden / branden / branden / water / water / water .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1732.s.1	waar zijn doen branden ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1738.s.1	waar zijn doen branden te vinden .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1742.s.1	doen vlammen komen uiten et dak vinden et huis daar et kantoor zijn vinden doen pachter vinden doen wijn ; En het huis vinden doen schouwen / die ' er naast staat / beginnen ik mede al door te schrijven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1745.s.1	Impostmiester / daar die ik bij te wees .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1748.s.1	wij dienst hier ook niet lang te blijven .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1752.s.1	zijn doen branden bij doen Schouts ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1752.s.2	daar wonen jouw broeder omtrent / och !	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1752.s.3	oen / daar bienj ook bij .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1752.s.4	Hoe staan zo te futselen ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1752.s.6	lopen / ier ik ' er heen tijd .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1755.s.1	Ik loper met er vaart heen / om voor ik Breurs huis te zorg .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1761.s.1	zien hum een lopen : hij steken zenden naers uiten of hij brood wouw borg / Vijndt hij daar wat te schikken / dan goed hij tot doen oor toen in et bond : hij hebben et beschik-boekje op egeeten : wan et kappetory hand nog uiten zenden mond .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1761.s.2	daar niet te doel zijn weten hij geweldig te helpen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1765.s.1	juffrouw / nu zijn et tijd om jouw bangigheidt te stelpen .	Fear_Emotion
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1768.s.1	waar zijn Ritsaart ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1773.s.1	Die hebben ik al uiten doen kissen doel gaan .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1773.s.2	nu moeten et vaatje met wijn / die ik flus vergeten hebben in doen kissen te schuilen / an een edaen .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1773.s.3	hebben ik vinden doen kissen en branden niet giestig kennen versieren ?	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.1	Ik zullen jouw lijf teugens Paas / tot lot / verzien vinden nieuw kleed .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.2	Volhardt jij vrijen in liegen en bedriegen / zo houden ik jouw voor een deugdelijk meidt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.3	Die zeggen die liegen zondt zijn / betonen haar bottigheidt .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.4	Die voorzichtig zijn / moeten hum na doen tijd vroeg / horen ik doen wijze kalle .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.5	wij om goed wil liegen / leiden een stien uiten doen wegen / om die ' er een aar niet over zullen val komen / brengen wij et vaatje an een zijde / zo worp wij niet in et lijden ebracht .	None
+vos_002kluc01_01.TEI.2.text.body.div.div.sp.1782.s.6	wij zenden schandt kunnen bedekken / en schade verhoeden / et groot kracht .	None

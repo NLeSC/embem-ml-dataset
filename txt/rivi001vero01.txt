@@ -1,0 +1,814 @@
+rivi001vero01_01.TEI.2.text.body.div.head.230.s.1	De verovering van den Briel , Of grondlegging der Batavische vryheid .	None
+rivi001vero01_01.TEI.2.text.body.div.head.230.s.2	Treurspel .	None
+rivi001vero01_01.TEI.2.text.body.div.head.231.s.1	Eerste bedryf .	None
+rivi001vero01_01.TEI.2.text.body.div.head.232.s.1	Eerste tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.stage.235.s.1	Vander Mark , Entes , Treslong , de Ryk , Gevolg van Edelen .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.237.s.1	Vander Mark .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.250.s.1	Dus staen wy eindelyk op Hollands dier brengrond , Om hier een vast verblyf te zoeken ; daar 't verbond Van Brit en Kastiljaan ons 't landen heeft verbooden , In 't Engelsch Ryksgebied : dit wordt ons doordien snooden En haatelyken eisch des Spanjaards aangedaan , En daarom moeten wy hem dapper tegengaan , Met wel vereende magt : wy moeten 't onheil wreeken Op Alva , dat gedrocht , en zyn vermoogen breeken Zoo veel men immer kan ; men moet de dwinglandy , Den bloeddorst , dollen haat , en wat meer yslyk zy , Door hem aan ons betoond , den zynenruim vergelden .	Fear_Emotion_Hatred_Other
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.252.s.1	Treslong .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.264.s.1	Wy moeten Nederland , als waare vryheids helden , Ontheffen van zyn ' last , die onverdraaglyk is .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.264.s.2	Geen in des vyands dienst zy lyfsbehoudenis Vergund , indien wy hen verwinnen : maar de Koning Is Hollands Opperheer , aan wien 't ons voegt verschooning Van dit ons stout bestaan met ernst te smeeken , tot Wy vast verzekerd zyn dat hy het moordgebod Bevolen heeft ; zoo niet hy zal den Hertog stuiten , En roepen hem , vergramd , te rug als dees zich buiten Zyn strikt bevel gedraagt ; en doet de Vorst dit niet Dan blykt ons klaar dat zulks met zynen wil geschiedt .	Emotion_Anger
+rivi001vero01_01.TEI.2.text.body.div.sp.272.s.1	Philippus straffe hand heeft eerst die web geweeven .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.272.s.2	Een Koning , die zyn ' Zoon beroofdde van het leeven , Die Bergen , Montigny , en Egmond heeft gedoemd , Verdient geenszins dat hy zachtmoedig wordt genoemd , En kan , na zulk bestaan , geen Graaf van Holland blyven .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.274.s.1	Entes .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.279.s.1	Durft Alva , rood van bloed , zich 's Konings Dienaar schryven , Laat ons , met hem gelyk , uit Vorstelyken last , Als 't rechten krygsliên van een ' Spaanschen Koning past , Bewandelen den weg , dien wy hem zien betreeden .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.284.s.1	Dit voorstel dunkt my goed , gegrondvest op de reden .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.284.s.2	Myn Vrienden , laat ons voort den Briel verovren	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.286.s.1	de Ryk .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.289.s.1	Waartoe die haast , Mynheer ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.289.s.2	Wy moeten onderstaan gaan .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.289.s.3	Of niet met vriendlykheid die Stad is in te krygen .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.294.s.1	Wie zendt men daar best heen ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.300.s.1	Zacht , Heeren , laat ons zwygen .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.300.s.2	Een Veerman , die met spoed zyn Vaartuig herwaards wendt , Toont weinig vrees , en schynt aan my niet onbekend .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.sp.306.s.1	Wy voegen ons ter zy ' .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.306.s.2	Gy kunt dien Schipper spreeken ; En is u in dien man voor ons wat goeds gebleeken , Verzoek hem dan dat hy de Stad opeischen gaat .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.307.s.1	Tweede tooneel	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.310.s.1	Treslong , Koppestok , op zyn Vaartuig .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.312.s.1	Koppestok .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.314.s.1	'k Moet weeten van naby hoe 't hier geschapen staat .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.318.s.1	Kom hier aan Land , Kaptein ; ik heb u iets te vraagen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.322.s.1	Ik kom u daadlyk by .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.324.s.1	Derde tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.327.s.1	Treslong , alleen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.340.s.1	Wy moeten alles waagen Om ons in deezen muur te vesten met beleid ; Daar 't Eiland , door zyn ' stand en welgelegenheid , Ons zoo veel voordeel geeft , als 't Spanje schaê zal weezen , En nog deklip kon zyn , daer 's Konings magt , nadeezen , Zich op te bersten stiet en gansch verbryslen zal .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.340.s.2	Oranje , braave Held !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.340.s.3	gy die geen ongeval Of lyfsgevaaren vreest , om Neêrland te bevryden , Uw onverwelkbre roem zal 't meeste voor ons stryden , En overwinnen doen !	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.340.s.4	uw naam alleen doet meer Dan Lumeys woest Gevolg en al ons krygsgeweer .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.342.s.1	Vierde tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.344.s.1	Treslong , Koppestok ,	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.349.s.1	Wat is ' er van uw ' dienst ?...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.349.s.2	Maar wat komt gy hier Mynheer Treslong ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.353.s.1	Gy ziet die Schepen wel ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.358.s.1	Watraaken Die Schepen u of my ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.363.s.1	Zoo ze onder myn bevel Behoorden raakten ze u ligt meêr ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.370.s.1	Wel hoe !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.370.s.2	Ik tel Van verre in deeze Vloot wel zesentwintig Kielen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.370.s.3	Denkt gy Toledoos magt te water te vernielen ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.370.s.4	Of hebt ge iets anders voor ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.376.s.1	Ja .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.376.s.2	Luister eens , myn Vrind : Wy komen door 't geval , door stroomen , weêr en wind , Of 's Hemels wil veeleer , aan deeze Kust gedreeven .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.380.s.1	Gy komt uit Engeland ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.388.s.1	ôJa .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.388.s.2	Aldaar te leeven Als balling en van roof , viel ons te zuur en wrang , En daarom namen wy te saamen , reeds voorlang , Het eensgezind besluit , iets van gewigt te waagen , Gelyk wy nu gaan doen op Brielle .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.394.s.1	Ik moet u vraagen Of deeze gansche vloot met Krygsvolk is bevracht ,	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.398.s.1	Zelf overlaaden vol .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.404.s.1	De Stad is in uw magt , Zoo gy de waarheid spreekt , en 'k u den weg wil wyzen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.404.s.2	Zyn all ' die Schepen vol !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.415.s.1	Maar twee zyn Spaansche pryzen , Door ons , by Tessels reê , gelukkig opgedaan ; Doch de andere zyn zeer wel met dapper Volk belaên , Met Krygsliên , die den Staat en 't Stamhuis van Oranje Getrouw zyn , ook meteen zyn Majesteit van Spanje Erkennen voor hunn ' Vorst ; maar schriklyk zyn verstoord Op Alva , Perenot , en andren , die , door moord , Door bloed - en gouddorst , wreed , de Vryheid ondermynen .	Emotion_Loyalty_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.sp.419.s.1	Dat Volk is naar myn ' smaak .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.424.s.1	Dus zou 't byna wel schynen Dat gy de goede zaak waart toegedaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.430.s.1	Myn Heer , Ik dien myn Vaderland , en stel daarin myne eer Dat ik de goede zaak de hand zal moogen leenen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.432.s.1	Vyfde tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.435.s.1	Vander Mark , Entes , Treslong , de Ryk , Koppestok , Gevolg van Edelen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.438.s.1	Treslong , Vander Mark tegengaande .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.441.s.1	Die Veerman zal met ons zich op het naauwst vereenen , En trouw behulpzaam zyn .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.448.s.1	Dat hy met allen spoed , Uit onzer aller naam , dan staks een boodschap doet Aan hun die 't Eiland Brielle en zyne Stad bestieren .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.451.s.2	tegen Koppestok .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.453.s.1	Zult ge uw kloekmoedigheid dien toom wel durven vieren ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.458.s.1	Ja toch ; hier is geen mensch die u durft tegen gaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.458.s.2	Wat wilt gy dat ik zeg .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.471.s.1	Dien uw Regeering aan , Dat u Graaf vander Mark , Treslong en andre Heeren , Ontmoet zyn , aan wien gy , op hun volstrekt begeeren , U zelf verbinden moest te treeden in de Stad , Om van haar ' vollen Raad terstond te vergen , dat Zy twee Gemagtigden uit hen naar buiten zenden Tot ons , om alle kwaad voorzichtig af te wenden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.471.s.2	Verklaar hun , voor de rest , dat wy hier zyn geland , Om hen van 't Spaansche juk te ontheffen , Ferdinand Testuiten in zyn woên , en om 's Landsrecht te staaven .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.477.s.1	Ach !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.477.s.2	zag men 't Schip van Staat eens die gewenschte haven Bezeilen , 't bang geween der droeve Burgery Verkeerde rasch in vreugd !	Fear_Joy_Emotion_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.482.s.1	Op welk een wys zal hy Tochtoonen , aan den Raad , dat wy hem zulks gebooden ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.488.s.1	Hy heeft bewys , noch blyk , noch volmagts-brief van nooden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.488.s.2	Dat elk , die hem mistrouwt , het oog naar Brielsche Hoofd Slechts keer ' , de Schepen zie , en hem alsdan gelooft .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.492.s.1	Ik kan hem , ten bewys , voort een ' Geloofsbrief schryven .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.497.s.1	Uw Zegel en Geschrift zou weinig goeds bedryven ; Die teekens zyn aldaar tot nog toe niet bekend .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.503.s.1	Geef hem dien Ring , waar door uw ' Vader was gewend , Als Hoofdbaljuw dier Stad , zyn order te doen gelden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.512.s.1	Dat uitstel , en dien schroom , verveelen onze Helden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.512.s.2	Wy , 's Dwinglands dwingers , zyn reeds alle regelmaat En wetten van ons volk , dat thans in kluisters gaat , Ontwassen : zullen wy hier naar bepaaling hooren !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.512.s.3	Neen , Slaaven voegt die band ; wy , wyzyn vry gebooren : Wy haaten slaaverny .	Emotion_Hatred
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.515.s.1	Treslong , den Ring aan vander Mark geevende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.518.s.1	Daar , dappere Admiraal , Aanvaard myn ' Zegelring .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.521.s.2	geeft den Ring , na hem beschouwd te hebben , aan Koppestok .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.524.s.1	Volvoer nu altemaal , Wat ik u heb gezegd ; wy zullen 't u beloonen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.527.s.1	Koppestok , heengaande .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.532.s.1	En ik , Heer Admiraal , zal my gehoorzaam toonen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.532.s.2	Maar zoo men op 't Stadhuis my eens gevangen houdt ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.530.s.1	Wederkeerende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.538.s.1	Hoe , daar ge uit eigen wil u nergens toe verstout , Maar , als gepreste Boô , van ons en onzent wegen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.538.s.2	Alleen een boodschap doet , waar zyt gy voor verlegen ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.545.s.1	Ik zal dan derwaards gaan , op uw bevel , en keer Met Stads gemagtigden , wil zulks de Raad , straks weêr ; Doch houd men my daar vast , ik zal 't geduldig lyden , Op hoop dat gy welhaast my moedig zult bevryden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.547.s.1	Zesde tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.576.s.1	De Stad thans onbezet , wier Krygsvolk 't , Utrechts Sticht , Op uitgedrukten last , geweldig plaagt , verligt Ons werk in zwaarte , indien de Brielenaars besluiten , Door tegen weer , ons volk voor hunne Vest te sluiten ; Zy zyn nu veel te zwak dan dat hun Burgery Dit onderneemen zou ; die dwaaze raazerny Gedyde tot haar straf ; zy moeten ons vertrouwen Als vrienden , of voortaan als vyanden aanschouwen ; Zy kiezen een van twee : geen langer weiffeling Moet ons meer stil doen staan : had Egmonds staalen kling Min weiffelend geweest , hy dus geen brug gelegen Waarover wy hier 't eerst de Spanjaards binnen kreegen , Hy was nooit schandelyk onthoofd op 't Hofschavot .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.576.s.2	Dat elk die voor ons is zich zelf niet schuil hou ' tot Wy by hem komen , neen , nu moet men zich verklaaren Voor Prins of Hertog ; want men duldt geen weiffelaaren ; Die 't met den eersten houdt wordt onze lotgenoot , En meê een vryheidstut ; maar die zich af en snood , Voor Alva waapnen laat , is 't leevenslicht onwaardig , En grooter schelm dan hy .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.576.s.3	Myn Vrienden dat men vaardig Den Dwing land tegen ga : Menspaar ' zyn ' aan hang niet , Daar hy in ons geen deugd of edelheid ontziet .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.591.s.1	Laat ons de Geestlykheid , geen Kastiljaan en , spaaren , Myn Broeders schim komt 's nachts gestadig om my waaren , En zet my tot de wraak op zyne moorders aan .	Emotion_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.591.s.2	Deedt hem Toledo 't hoofd van 't edel lichaam slaan , En voorts zyn bloedig lyk en overschot vertoonen , 'k Zal dien geweldenaar zyn moordery beloonen , En , valt hy in myn hand , hem martlen door de koord , Of door noch wreeder straf .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.591.s.3	Men moet aan hem den moord Der eedle Batenburgs , en die van andren , wreeken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.591.s.4	Geen mensch moet ter behoud ' van een ' dier Beulen spreeken , Of hy wordt straks verdacht hun deelgenoot te zyn .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.596.s.1	Acht ge ieder Kastiljaan strafwaardig , met wat schyn Is de Geloofsgenoot dier schelmen dan onschuldig ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.598.s.1	de Ryk	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.604.s.1	Uw haat houdt perk noch paal ; gy toont u te ongeduldig , Te zeer op 't Roomsch Geloof gebeeten : ons geweer Moet allen zielendwang , en vryheidschennis , meer Bestryden dan 't gevoel ' van andre braave menschen , Die , eveneens als wy , herstel van vryheid wenschen .	Emotion_Hatred
+rivi001vero01_01.TEI.2.text.body.div.div.sp.608.s.1	Wie zyn Geloof belydt is even goed als hy .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.617.s.1	Veel Roomschen haaten ook de vreemde dwinglandy ; Zy zullen nevens ons den grond der vryheid leggen , Verbittren wy hen niet door schamper doen en zeggen ; Hun medehulp zal ons doen zegevieren : want Tweehonderd vyftig man zyn niet in staat om 't Land Te redden en daaruit de Spanjaards te verjaagen .	Emotion_Hatred_Anger_Spitefulness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.637.s.1	Wy moeten van 't geweld der Vreemden ons beklaagen , En nooden ieder een tot zyn behoudenis .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.637.s.2	Men weet het grootste deel des volks gehoorzaam is .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.637.s.3	Om dat het nog geen ' weg ter uitkomst zag gelegen ; Duszal , wen Brielle en Voorndoor ons wordt in gekreegen , En 's vyands over magt maar eenmaal afgeweerd , Al 't Neêrlands volk doen zien hoe min het dwang begeert , Terwyl de vryheidszucht der oude Batavieren , Zal blinken uit hun doen en laaten ; dus bestieren Wy alles tot ons best .	Emotion_Other_Desire
+rivi001vero01_01.TEI.2.text.body.div.div.sp.637.s.4	Daar 't Utrechts volk alree Bossu en Ferdinand weêrstreeven , durven meê De kloeke Brusselaars de tiende Penning weigren : Geschiedt dit heden reeds , hoe wil hunn ' moed dan steigren Wanneer wy door het Zwaard die schatting tegenstaan , En wy alhier de Zon der Vryheid op doen gaan , Waar elk , voor Alvaas woên , dan kan een wykplaats vinden ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.661.s.1	Men moet van nu af aan recht werkzaam zyn , myn vrinden , En brengen 't volk aan Land , dat in de Schepen wagt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.661.s.2	Bezet het hier omtrent , met onze kleene magt , Zoo groots als 't mooglyk is ; doet tromp en trommel raazen , Om de Afgezondenen der Stad dus te verbaazen , Dat ze ons veel duizenden gelooven sterk te zyn .	Fear_Emotion_Wonder
+rivi001vero01_01.TEI.2.text.body.div.div.sp.661.s.3	Wat aan 't getal ontbreekt vervull'men door den schyn , Voor 't oog , en , inderdaad , met rapheid , moed en krachten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.661.s.4	Wy planten hier nu 't eerst de Vryheids vaan , en wagten Vermeerdering , in kracht , in aanzien en getal , Zoo dra wy meester zyn van Eiland , Stad en wal ; Dit zal ons dag aan dag al meer doen zegepraalen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.661.s.5	Wanneer de gulde Zon haar flikkerende straalen Aan dit gewest ontrekt , zy Koor - en Misgewaad , Kassuiffel , Kap en Stool , Altaar en Kerksieraad , Geplonderd , en ten buit van ons en onze Helden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.661.s.6	Dat ieder , die ons durft voor watergeuzen schelden , Verstomd sta , en , met schrik , beschouw ' hoe Nederland Hierna , door Nassauws zorg , met zulk een vastenband Van Een dracht , tot geluk zyns Burgers , blyft gebonden , Die voor de dwing landy , onbreekbaar wordt bevonden .	Fear_Emotion_BodilyProcess_Wonder
+rivi001vero01_01.TEI.2.text.body.div.div.stage.663.s.1	Einde des Eersten Bedryfs .	None
+rivi001vero01_01.TEI.2.text.body.div.head.667.s.1	Tweede bedryf .	None
+rivi001vero01_01.TEI.2.text.body.div.stage.671.s.1	Vander Mark , Entes , Treslong , de Ryk , Duivenvoorde , Gevolg van Edelen , Bootsvolk en Soldaaten ; welke laatsten , geduurende dit Tooneel , allerbande Krygsbehoeftens , als uit de Schepen baalende , achterwaards en zylings overbrengen : ook ziet men eenige Standaarts , Vaandels , Vlaggen en Wimpels zwieren ; zynde in den grond , ter wederzyden van het Tooneel , geplant .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.673.s.1	Duivenvoorde .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.677.s.1	Gy Heeren , wat is dit , dat gy u hier op 't strand Tot eenen aanval schikt ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.677.s.2	Wat eisch maakt gy op 't Land En Volk ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.707.s.1	Wy komen hier by u als vrienden landen , Om dus gesaamentlyk , het scherp van Alvaas tanden Te stompen , wen hy u tot op 't gebeente knaagt .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.707.s.2	Uw rechten dien hy schendt , de schatting die hy vraagt , En zyn geweldnaary , doen ons te saamen komen , Om hem te keeren .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.707.s.3	Wy , wy hebben voorgenomen , Uit Held Oranjes last , voor Hollands vryën Staat , Kloekmoedig 't hoofd te biên aan hem , die , door verraad , Ons meer der drukt dan ooit zyn ' Koning heeft gebooden Te moogen doen ; waarom wy u op 't vriendelykst nooden Ter oopning uwer Poort ; 't is tyd dat ge ons ontvangt , Om uwen Landgenoot , door boei en band geprangd , Verlossing , ademtogt en vryheid te bezorgen .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.707.s.4	Gy ziet de tyranny , met moorden en verworgen , Van dag tot dag , al meêr en meêr , in bezigheid , Daar de arme Burgery en Weeuwen Wees vastschreidt , Om 't droevige verlies van Vrienden , Bloed verwanten , Van Man en Vader !	BodilyProcess_Sadness
+rivi001vero01_01.TEI.2.text.body.div.sp.707.s.5	ja , gy hoort , aan alle kanten , Hoe 't klaagende Gemeen om de onderdrukking zucht , Waarvan de ryksten liên , de kneevlaary ontvlucht , Uit dit verdrukt Gewest , zich elders nederzaten : Dus wordt door duizenden dit vruchtbaar Land verlaaten En van zyn volk ontbloot : dit kan men tegengaan ; Indien gy maar met ons de hand aan 't werk wilt slaan , Dan zult gy van alom ons helpers toe zien vloeijen , En , uur op uur in magt , in moed en aanzien groeijen .	HeavyHeartedness_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.sp.721.s.1	Wy weeten al te wel dat Alva , buiten recht , Den tienden Penning heft , en een belasting legt Die ons te moeilyk valt ; maar wy zyn onderdaanen Des Konings die daarom in 't minst niet moogen waanen Ontrokkenen te zyn aan 't Graaffelyk gezag .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.721.s.2	Wy worden wel gedrukt ; doch kunnen ons beklag Doen gelden voor den Troon , daar ons de Vorst zal hooren ; Aldus wordt Neêrlands recht met eer en roem herbooren , Door Koningklyke gunst , zoo men verzoekend ' blyft , Toledo streng beklaagt , en anders niets bedryft Tot nadeel van het Hof of Vorstelyk vermogen .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.725.s.1	De Koning en zyn Hof zien Alva zelfs naar de oogen .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.729.s.1	Waarom dan Vorst en Hof en Alva niet weèrstaan ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.733.s.1	Om dat men in één ' keer nooit al te ver mag gaan .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.742.s.1	Na 's Keizers overdragt van zyne Heerschappyen Op zynen Zoon Philips , zyn alle muiteryen , Die tegen deezen Zoon , door ons als Vorst erkend , Met welken schyn 't ookzy , ooit worden aangewendt , Ten hoogste straffens waard .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.747.s.1	Die Zoon zwoer ons met eeden , Dat hy ons billykrecht nooit zou met voeten treeden .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.751.s.1	Treedt dan de Koning zelf uw rechten met den voet ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.755.s.1	Hy is aan spraakelyk voor 't geen zyn ' Landvoogd doet .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.759.s.1	Klaag dan zyn ' Landvoogd aan .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.762.s.2	met drift .	BodilyProcess_Anger_Annoyance
+rivi001vero01_01.TEI.2.text.body.div.sp.771.s.1	Hoe kan ik langer zwygen !	None
+rivi001vero01_01.TEI.2.text.body.div.sp.771.s.2	Daar is geen recht aan 't Hof van Spanje te verkrygen ; Dit ziet gy zelf , Mynheer , al zwygt gy zulks nog stil .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.771.s.3	De Landvoogd doet hier niets dan met des Vorsten wil , Schoon d ' eesten daar alleen de schuld van dient te draagen , Tot zoolang dat men Vorst en Landvoogd kan verjaagen ; Ten zy de Koning zich , in tyds , gezeggen laat , En spoedig 't recht hersteld van deezen vryën Staat .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.779.s.1	Gy wilt dan dat men u de Poorten zal ontsluiten En binnen laat om dus de Spaansche magt te stuiten ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.779.s.2	Maar zyt gy sterk genoeg , indien 't u wordt vergund , Dat gy de Kastiljaan , van hier verdryven kunt , Wanneer hy d'aanval waagt gansch raazende en verbolgen ?	Offended_Emotion_BodilyProcess_Anger
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.781.s.1	vander Mark .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.808.s.1	Wy kennen ons in staat dien Landaart te vervolgen .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.808.s.2	Prins Willem , die alleen op goede tyding wagt , Zal straks , uit Dillenburg , met Duitsche Leger magt , Met Paltzer , Sax en Hes , de Nederlanden naadren : Graaf Lodewyk doet reeds in Vrankryk volk vergadren : De Brusselaar verlangt naar uitkomst : Utrechts volk .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.808.s.3	Met dat van Zeeland , wenscht , met zynen scherpen dolk , Op 't minste goed gerucht , het yzerjuk te breeken , Dat elk met weêrzin draagt : Oranjes Legerteeken , Zyn Vorstelyk beleidt , des Volks getergde wraak , En 's Hemels onderstand , bevordren onze zaak .	Emotion_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.sp.808.s.4	Ons volk , nog ingescheept , vol yver en verlangen , Brandt om aan Land te treên en 't laatst bevel te ontvangen Ter storming op den muur , die ligt wordt overheerd , Waardoor de Burgery zou lyden ; dies begeert Oranje , door myn ' mond , dat zich de Brielenaaren Met ons vereenigen , om allerlei gevaaren Aldus , gelykerhand , te keer te kunnen gaan .	Emotion_BodilyProcess_Desire
+rivi001vero01_01.TEI.2.text.body.div.sp.808.s.5	Gy , Heeren , moet dit straks de Vroedschap doen verstaan .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.808.s.6	Wy eischen kort beraad en willen uwe schaden , Waar 't weezen kan , verhoên .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.808.s.7	Wy geeven tot beraaden Alleen twee uuren tyds ; want zoo alsdan 't besluit Nog weiffelbaar mogt zyn , zal deeze Stad ten buit Voor myn Soldaaten en myn moedig Zeevolk weezen ; Doch zoo men ons ontvangt heeft niemand iets te vreezen .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.811.s.1	Duiven voorde , na den Edelman , door hem medegebragt , stil gesproken te bebben .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.813.s.1	Wy gaan en doen terstond van uwen eisch verslag .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.814.s.1	Tweede tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.837.s.1	Ga , vander Hoeve , zorg , voor 't einde van deez ' dag , Dat Spiegel , Kabeljaauw , van Dorp , van Everdingen , Ruikhaver , Duivel , Daam en Graaf , de Stad omringen ; Doch enkel maar van verre ; om 't Krygsvolk zoo 't behoord Te voeren aan den wal op 't eerst gegeeven woord .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.837.s.2	Gy , Entes , geef terwyl de Schepen zulk een legging Die dienstig zy om ons , terstond , op de eischontzegging , Te sterken met Kanon , zoo 't op een stormen gaat , Waarvan ik alle zorg aan Brand en Jelmer laat , Daar Franssen en de Goede al 't noodig tuig ontschepen , Dat Steltman en Merouws bevelen zal te sleepen Waar 't Robol en Gilain het allernuttigste acht , Ten aanloop op den muur ; om , met d'aanstaanden nacht , In spyt van 't Raadsbesluit , de Stad te kunnen winnen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.826.s.1	Een Edelman binnen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.842.s.1	Geen weigring van dien Raad vermeesterd onze zinnen , Noch zal ons wanklen doen na gy den storm gebiedt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.847.s.1	De zwakke Burgery , zal , eer zulks eens geschiedt , Wen zy dien toestel merkt , de Noordpoort straks ontsluiten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.854.s.1	Wie lust tot vluchten heeft , ga door de Zuid poortbuiten , Tot dat men eindelyk het vliên beletten kan ; Dus wordt de Vesting zwak en gansch ontleedigd van De zulken , die , gestuit , ons zouden wederstreeven .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.858.s.1	Wy gaan , Mynheer , om acht op uw bevel te geeven .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.862.s.1	vander Mark , Treslong , de Ryk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.870.s.1	't Zal niet ondienstig zyn dat gy den Veerman spreekt ; Wy hooren ligt van hem wat binnen meest ontbreekt , En ons voordeeligst is , zoo men de storm moet waagen , En aan wat kant des muurs men 't stormtuig dient te draagen : Hy wagt op uwen last en blyft van verre staan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.874.s.1	Maar zou ik op zyn reên wel zeker durven gaan ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.881.s.1	Ja ; hy is Geus in 't hart : hy zal ons niet bedriegen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.881.s.2	Hy 's een rondborstig man , die ons niet voor zal liegen : Ik heb , in vroeger tyd , hem wel iets meêr betrouwd .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.886.s.1	Dat hy dan nader kome , en ons in het kort ontvouwt Hoe 't alles binnen staat , en wat hy heeft vernomen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.889.s.1	Treslong , Koppestok werkende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.891.s.1	Treê toe .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.891.s.2	Gy moogt by ons , als uwe Vrienden , komen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.895.s.1	Vander Mark , Treslong , de Ryk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.895.s.2	Kopperstok .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.898.s.1	vander Mark , tegen Koppestok .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.902.s.1	Gy deedt uw boodschap wel , en hieldt getrouw uw woord ; Maar hebt gy uit den mond der Heeren niets gehoord Dat ons tot nut kan zyn ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.906.s.1	Dat zou wel konnen weezen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.910.s.1	Hoe vond gy 't in den Raad ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.924.s.1	In siddring en in vreezen .	Fear_Emotion_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.924.s.2	De Raad was op 't Stadhuis vergaderd , toen ik daar Verscheen , en elks gezicht !	Fear_BodyPart_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.924.s.3	stond angstig , bang en naar .	Fear_HeavyHeartedness_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.924.s.4	Ik opende eerst den last , door u my opgelegen , En moest toen buiten staan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.924.s.5	Na alles te overwegen Deed Nikker my de vraag , hoe sterk van volk gy waart ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.924.s.6	Ik zei ' , vyfduizend man ; waardoor den Raad , vervaard , Twee Heeren met my zondt , die gy reeds hebt gesprooken .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.927.s.2	glimlagchende .	Joy_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.929.s.1	Gy hebt zeer wel gezegd .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.932.s.1	de Ryk , lagchende .	Joy_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.935.s.1	Hoe heeft hy toch gerooken , Ons Krygsvolks juist getal ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.935.s.2	hoe wist hy 't zoo naby ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.938.s.1	Treslong , tegen Koppestok .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.940.s.1	Uw gissing was niet kwaad .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.940.s.2	Wat zegt de Burgery ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.950.s.1	By veelen wekt gy vreugd , by weinigen , daar tegen , Verdriet : het Kloostervolk is u meest ongenegen : De Geestlykheid schynt my het allerminst gesticht ; Zy roepen van den eed , van Kerkdienst en van pligt , Van Alva , Koning , Graaf , en van zich streng te wreeken Aan Ketter en aan Geus !	Joy_Emotion_Sadness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.950.s.2	terwyl 't Gemeen dat preeken Door gaans slaat in den wind en naar verlossing haakt .	Emotion_Desire
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.953.s.1	Vander Mark , tegen Koppestok .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.956.s.1	Ga weder naar de Stad : gy zyt zoo wel bespraakt Dat gy daar meerder volk in ons belang kunt trekken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.959.s.1	Koppestok , met levendigheid .	Joy_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.962.s.1	Oranje , is 't woord ; die naam zal hulp voor u verwekken En maaken dat gy daar haast meester worden zult .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.968.s.1	Vander Mark	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.971.s.1	De Geestlykheid draagt meest van al het kwaad de schuld ; Ik heb dit meêr gezegd , en 't is genoeg beweezen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.990.s.1	Wy moeten niet te diep in haaren handel leezen , Maar de Religietwist vermyden waar men kan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.990.s.2	Wy moogen in 't geheim wel lagchen met den Ban Van Bisschop en van Paus ; maar om de Pausgezinden , In Vryheidslust , aan ons en ons belang te hinden , Dient de ergernis geweert ; zoo wy dus werkzaam zyn Zal onzen arbeid meêr gedyën : dit venyn Der tweespalt , om 't Geloof , verdeeldt de Nederlanden ; Daar de afkeer van 't gewigt der ketenen en banden Behoorden één te zyn in 't Nederlands gemoed , Dat ziel - noch lichaamsdwang nooit slaafsche hulde doet , En spoedig ééns zal zyn in hem van hier te dryven , Zoo men slechts ieder laat in zyn gevoelen blyven , En niet meêr tergen zal door schelden of geraas , 't Recht kenmerk van een ' zot , en teeken van een ' dwaas .	Emotion_EmotionalAction_Hatred_Disgust_Anger_Annoyance
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1003.s.1	En echter zien wy hen , die de Eendracht moesten voeden , De scheuring koesteren en 't allerhevigst woeden ; Daar 't Geestelyk gezag de Spanjaards voor zal staan , Tot deezen ook de hand aan hunne goedren slaan ; Want naauwlyks zullen daar de Kerken iets door lyden , Of daadlyk zal hun tong de Spanjaard ook bestryden , En zelfs verketteren , gelyk aan ons geschiedt : Wie op hun Kerklyk , ja , terstond geen , amen , biedt , Iets hunner goedren eischt , of 't minst durft tegenspreeken , Wordt lasterlyk gegispt en schandlyk doorgestreeken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1007.s.1	Vander Mark , Treslong , de Ryk , Koppettok , Rochus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1013.s.1	Ik , die op uw bevel iets uittevoeren dacht , Ben deeze Vriend ontmoet en heb hem hier gebragt ; Hy weet hoe 't in de Stad zich schikt naar u genoegen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1016.s.1	Vander Mark , tegen Rochus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1018.s.1	Wat nieuws brengt gy van daar ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1020.s.1	Rochus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1032.s.1	Mynheer , de Burgers voegen Zich , voor uw zaak , byeen , verlangende dat gy Hen rasch verlossen zult van Alvaas tyranny .	Emotion_Desire
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1032.s.2	De Stadsregeerderen , voor u op 't hoogst verlegen , Zyn raadloos en verbaast .	Fear_Emotion_Awe_Wonder_Despair
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1032.s.3	Die Spanje zyn genegen Verzaamlen 't kostlykst goed by hunn ' gereedsten schat , Op Wagen , Kar , of Sleê , waarmeê zy onze Stad Ontruimen ; zoo dat gy geen tegenweer zult vinden : De Vesting wordt ontbloot van Paus - en Spaansgezinden , En de allerbittersten zyn reeds de Zuidpoort uit .	Emotion_Benevolence
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1047.s.1	't Wordt tyd , Treslong , dat gy het verder vluchten stuit ; Wien gy het waardig keurt kunt gy myn gunst belooven ; Doch die niet blyven wil , moet gy zyn goedren rooven , En leedig laaten gaan waar 't hem behaagen zal .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1047.s.2	Laat vyfentwintig man u volgen langs den wal , En voorts de Zuidpoort in ; ligt houdt men haar nog open Na de uuren van beraad en uitstel zyn verloopen ; Maar wordt u zulks belet , door 't sluiten deezer Poort , Verzoek de ontsluiting dan ; doch zoo men u niet hoort , Gebruik dan vry geweld , doet haare deuren breeken , Of daar , door Pek en Rys en Stroo , den brand in steeken , Tot gy eene oopning vindt tot straf der Geestlykheid .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.1049.s.1	Zevende tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1051.s.1	Vander Mark , de Ryk , Koppestok , Rochus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1054.s.1	Vander Mark , tegens Koppestok en Rochus , zyne reden vervolgende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1063.s.1	Myn Vrienden , ik bedank u beiden voor 't beleidt , En voor uw ' goeden dienst aan 't Vaderland beweezen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1063.s.2	Keert naar den Briel , tracht daar de Burgers te beleezen Tot ons belang , en wy , wy zullen uwe trouw Vergelden ; ja , gy zult , wanneer dit Staatsgebouw Zal op zyn grondvest staan , alsdan den roem ook draagen , Dat gy daar de eerste hand , met ons , hebt aangeslaagen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1067.s.1	Ik twyffel niet , Mynheer , of alles zal wel gaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1072.s.1	Kom , Rochus , laaten wy de Stedelingen raân , In spyt van die 't mishaagt , Oranjes volk te styven .	Emotion_Disgust
+rivi001vero01_01.TEI.2.text.body.div.div.head.1074.s.1	Agtste tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1076.s.1	Vander Mark , de Ryk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1088.s.1	Wy moeten nu vooral niet langer leedig blyven , Maar aan de Noordpoort ook het Krygsvolk naadren doen , Om allen wederstand , van binnen , te verhoên : Twee uuren zyn aldaar slechts tot beraad gegeeven , Doch niet ter wapening , om ons te wederstreeven .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1088.s.2	Dat de aanval deezer zyde aan Robol word ' belast , Terwyl Treslong de Stad aan d ' andren kant verrascht .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.1087.s.1	Einde des Tweeden Bedryfs .	None
+rivi001vero01_01.TEI.2.text.body.div.head.1092.s.1	Derde bedryf .	None
+rivi001vero01_01.TEI.2.text.body.div.stage.1095.s.1	Elizabeth , Frederik , Maria .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.1097.s.1	Frederik .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1104.s.1	Zeg , Moeder , hoe zal 't gaan hier blyft geen uitkomst open !	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1104.s.2	De Zuid poort is reeds digt ; wy kunnen 't niet ontloopen ; De Watergeuzen staan ' er voor , is my gezegd !	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1104.s.3	De Heeren deezer Stad doen waarlyk al te slecht Dat wilde volk alhier aan Land te laaten komen : Waarom zulks niet belet ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.1106.s.1	Elizabeth .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1109.s.1	Hoe word dat ondernomen ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1109.s.2	Och !	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1109.s.3	hun gebied heeft uit en geldt hier thans niet meêr .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.1111.s.1	Maria .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1113.s.1	Dat moet wel gelden .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1119.s.1	Neen , de Geuzen zyn te zeer Verbittert , te verwoedt , belust op 't beeldenbreeken , En heet op Kerkenroof .	Emotion_BodilyProcess_Anger_Spitefulness
+rivi001vero01_01.TEI.2.text.body.div.sp.1124.s.1	Als zy zich daar op wreeken , Geraaken wy best vry .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1132.s.1	De Geestlykheid , myn Zoon , Werdt meest door hen geplaagd , met onverdraagbren hoon .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1132.s.2	Geen heilig misgewaad zal onze Priesters dekken ; Geen Klooster kan voortaan tot eene wykplaats strekken ; Geen Monnik , Klop nog Non zyn voor hun plondring vry .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1138.s.1	Waar blyft Oranje dan ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1138.s.2	hebt gy niet zelve aan my Verzekerd en beloofd dat hy ons zal bevryden ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1142.s.1	Het zyn de Geuzen , kind , die voor Oranje stryden .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1146.s.1	Waar vreezen wy dan voor ?	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.sp.1150.s.1	De Prins is immers goed ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1154.s.1	ô Ja !	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1154.s.2	maar vander Mark en Entes zyn verwoed ' .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1158.s.1	Zyn zy vergramd ' op ons !	Emotion_Anger
+rivi001vero01_01.TEI.2.text.body.div.sp.1158.s.2	wy hebben niets misdreeven ,	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1162.s.1	Zy haaten Alva fel .	Emotion_Hatred
+rivi001vero01_01.TEI.2.text.body.div.sp.1167.s.1	Die naam doet my zelf beeven !	Fear_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.sp.1167.s.2	Ik haat hem ook , en dacht hy voor de Geuzen waar .	Emotion_Hatred
+rivi001vero01_01.TEI.2.text.body.div.sp.1172.s.1	De Koning , Geestlykheid en Spanjaards met elkaêr Zyn tegens Prins en Geus .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1178.s.1	Maar allen die voordeezen Gelyk Treslong , van Hoorne en Egmond zyn verweezen , Ei zeg met wien dat zy het hielden ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1183.s.1	Zy , myn Kind , Zy hielden 't met den Prins en Geuzen .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1189.s.1	Wel dat vind Ik onbegrypelyk .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1189.s.2	Maar , Moeder , onze Koning , Met wien houdt hy het toch ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1193.s.1	Met Alva .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1200.s.1	Geen verschooning Vindt by dien Hertog plaats , gelyk ik zeggen hoor , En by Prins Willem wel : vrees dan niet langer voor De Geuzen , maar laat ons het ook met deeze houên .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1204.s.1	Elizabeth , Kornelia , Frederik , Maria .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1206.s.1	Kornelia .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1218.s.2	Vrouw Philips , wy zien de Boomen en Gebouwen In 't Nieuwland omgehakt , gesloopt of afgebrandt !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1218.s.3	De Zuidpoort loopt gevaar en wordt haast overmand ; De Stadsregeerderen , met angst en schrik belaaden , Verhindren dit niet eens .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1218.s.4	Wy zullen de ongenaden Der Watergeuzen haast beproeven !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1218.s.5	uwe Man Is 't met den mynen eens , spand met de Geuzen an ; Van Duivenvoorde is meê dat woeste volk genegen ; Myn Rochus doet zelf meêr , ja , wil 't Gemeen beweegen Om hen de hand te biên ; dat niemand vindt geraên Voor Burgermeesteren dit hebben toegestaen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1222.s.1	Zou dan , in deezen nood , myn Vader ons verlaaten !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1226.s.1	Neen , Zuster , vrees dat niet .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1234.s.1	Ik hoordde hun Soldaaten , Van buiten , tegens ons , die over deezen wal Heen zagen , als ontzind ' en raazend ' schreeuwen : ‘ Zal De Burgery de Poort goedwillig open maaken !	Emotion_EmotionalAction_BodilyProcess_Anger_Annoyance
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1234.s.2	Of moeten wy van zelfs daar binnen zien te raaken ! ’	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1238.s.1	Koppestok , Elizabeth , Kornelia , Frederik , Maria .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1241.s.1	Elizabeth , Koppestok te gemoet gaande .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1243.s.1	Och , Koppestok !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1243.s.2	is reeds de vyand in de Stad !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1251.s.1	Wat vyand !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1251.s.2	raas je lui !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1251.s.3	Wie droes verteldde u dat ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1251.s.4	Wy zyn hem kwyt geraakt ; de Bloedhond is verdreeven ; Die rekel wordt alhier geen schatting meêr gegeeven ; Maar met zyn boos gebroedt uit Holland haast verjaagd .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1255.s.1	Och , Moeder !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1255.s.2	hoort gy 't wel !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1260.s.1	Al lang genoeg geklaagd !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1260.s.2	Oranje staat ons by , wy hebben niets te vreezen .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1264.s.1	Zou zulks met 's Prinssen wil aldus berokkend weezen ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1268.s.1	Myn Moeder denkt van ja .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1272.s.1	De Priesters zeggen , neen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1279.s.1	Zy spreeken zoo uit vrees , of binden hunne reên Aan Ferdinands bevel , die tegen 't vry geweten Doet handlen waar hy kan , en , op den roof gebeeten , Niets tracht dan ons , als Slaaf , te leggen aan den band .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1283.s.1	Koppestok , Pontus , Elizabeth , Kornelia , Frederik , Maria .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1285.s.1	Pontus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1288.s.1	ô Hemel !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1288.s.2	och !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1288.s.3	wat raad !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1288.s.4	De Noord poort staat in brand ; Daar Hopman Robol straks de vlam indeedt ontsteeken !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1293.s.1	Of hy de Poort verbrandde , of open heeft doen breeken , Wat raakt dat ons , als hy daardoor maar de oopning vindt ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1302.s.1	Helaas !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1302.s.2	terwyl de rook des volks gezicht verblindt , En 't vuur het hout werk vat , komt hy zelf aangeloopen Met eenen mast , en stoot de deuren daarmeê open , Trokt verder in de Stad , met vander Mark , en al De zynen volgen hem .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.1304.s.1	Vyfde tooneel	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1306.s.1	Koppestok , Philipszoon , Pontus , Elizabeth , Kornelia , Frederik , Maria .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1309.s.1	Philipszoon , zyne Vrouw en Kinderen omhelzende .	EmotionalAction_Love
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1320.s.1	Nu is ons ongeval Voorby !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1320.s.2	myn waarde Vrouw !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1320.s.3	en gy myn lieve Kindren , Zyt nu van 't Spaansche juk , en wat ons meêr kon hinderen , Met deeze Burgery , verlost !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1320.s.4	ô blyde dag !	Joy_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1320.s.5	Treslong trekt met zyn volk de Zuidpoort in !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1320.s.6	ik zag Hem met de Oranjevaan , verblyd , ter Stad instreeven !	Joy_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1320.s.7	Prins Willem heeft zyn volk , in 't eind , bevel gegeeven Om ons van 's Dwinglands wrok en 's Bloedraads eisch te onslaan !	Emotion_Spitefulness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1320.s.8	Nu zyn Doorluchtigheid eens heeft dien stap gedaan , Zal hy , in korten tyd , meêr Steden tot zich trekken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1328.s.1	Dat zegge ik ook ; want elk ik warsch van 's Spanjaards vrekken En ongebonden ' aart ; hun trotsche hovaardy , En wreede zielendwang , en dolle raazerny , En bloeddorst en geweld , bezwaarlyk te beschryven , Zal 's Konings hoog gezag uit Holland doen verdryven .	Emotion_Disgust
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1332.s.1	Zyn dan de Geuzen ook niet wreed ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1341.s.1	Zy zyn verwoed ' Op al wat Spanjaard is en Geestlyk ; maar zeer goed En dienstig voor ons volk en Hollands onderzaaten , En voor d ' Oranje Vorst kloekmoedige Soldaaten , Die onvertsaagt de dood trotseeren in 't gezicht .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1345.s.2	Moeder , zie dan uwe zwaarigheid verligt .	Worry_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1349.s.1	Dit maakt my wat gerust .	Emotion_Relief
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1356.s.1	Dit nieuws , die goede tyding , Myn lieve Vader , ach !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1356.s.2	geeft ons al t ' saam ' verblyding !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1356.s.3	Maak toch dat gy aan ons altyd wat goeds vertelt !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1356.s.4	Want als myn Moeder treurd is ook myn hart ontsteld .	Worry_Emotion_BodyPart_BodilyProcess_Sadness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1359.s.1	Philipszoon , zyne Dochter opneemende en kusschende .	EmotionalAction_Love
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1361.s.1	Myn Dochter , ik zal nu zeer dik wils vreugd vermelden !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1367.s.1	Gy hoort wel , Moederlief , naar Vader ons vertelden , Dat wy nu zyn verlost , de Dwingland is verjaagd , En dat Prins Willem zorg voor onze Burgers draagt !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1370.s.1	Philipszoon , hem kusschende .	EmotionalAction_Love
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1379.s.1	Ja , Frederik , dat 's waar !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1379.s.2	Wy moeten nu opheden Oranjes Admiraal en volk gaan tegentreeden : Daarna moet gy , myn Zoon aanteeknen ‘ hoe den Briel , Op d ' eersten van April , in 's Prinssen handen viel ’ , Om in 't vervolg aldaar nog by te kunnen zetten : ‘ Daardoor heeft hy , in 't eind , de Graaffelyke wetten Vernietigd ’ ; want zyn ' moed , zyn ' arm , en wyzen raad , Maakt Holland , door den tyd , weêr tot een ' vryën Staat .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1383.s.1	Koppestok , Kornelia .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1386.s.1	Kornelia , hem weder houdende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1395.s.1	Een woordje ; Koppestok .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1395.s.2	Gy moet my onderrechten Of dat behoorlyk is ; ‘ men zegt , de Geuzen vechten Met hulp des Duivels’ ...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1395.s.3	Hoe , gy lagcht !...	BodilyProcess_Other
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1395.s.4	Ik heb gehoord , Toen ik hen buiten zag , in 't naadren deezer Poort , Die toegeslooten bleef , dat zy den Duivel riepen Ter opening , waarom al de onzen spoedig liepen , Gelyk ik mede deed , eer 's Geuzen Duivel kwam .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1406.s.1	De Spaansche hebben hem tot helper , en de stam Van Alva is uit Hel en Afgrond voortgekomen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1406.s.2	Maar al 't geroep dat gy van Duivel hebt vernomen , Is enkel maar de naam van een ' heldhaftig ' Man , Een ' Krygsheld van den Prins , een ' Geus , die 's Paussen Ban , En Bloedraad , Alvaas trotsch , 't geweld der Buitenlandren , En dat van allen dwang , met zyne medestandren , Voor ons bevechten zal .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1410.s.1	Zoo is 't maar beuzlaary ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1416.s.1	Voorzeker , anders niet .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1416.s.2	Wanneer gy van naby Dien Duivel kennen zult , die zich alom hoort roemen Als Krygsheld vanden Prins , zult gy hem Engel noemen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1419.s.1	Kornelia , terwyl men de trom roert .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1421.s.1	Wat of dat weezen mag ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1421.s.2	Ik hoor de trommel slaan !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1424.s.1	Koppestok , achterwaards naar binnen ziende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1433.s.1	Wat zou dat zyn ; Treslong voert zyn Soldaaten aan , En vander Mark komt meê van de andre zyde naadren .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.1432.s.1	Onder een geduurig Krygsgerucht , geschreeuw en gejuich , trekken Vander Mark , van de eene , en Treslong , van de andere zyde , op het Tooneel , hebbende ieder Matroozen en Krygsvolk achter zich ; doch de Burgeren , Vrouwen , Boeren en Kinderen , voegen zich op den voorgrond , voor het andere Gevolg .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1439.s.1	Vander Mark , Entes , Treslong , De Ryk , Koppestok , Rochus , Philipszoon , Elizabeth , Kornelia , Frederik , Maria , Gevolg van Mannen , Vrouwen , Boeren , Kinderen , Edelen , Matroozen , en Soldaaten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1442.s.1	Vander Mark , tegen het Oorlogsvolk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1463.s.1	Myn Vrienden , gy kunt thans een ' goeden roof vergaadren ; Behoudens dat gy hier de Burgery niet schaad Gy moogt de Geestlykheid vervolgen met uw ' haat , En 't Kerk - en Kloostergoed in onze Schepen laaden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1463.s.2	Gy Hedding , d'Ovelens en Vlierhop , zult de schaden Der Burgeren verhoên .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1463.s.3	Van Warmont , Thomaszoon .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1463.s.4	Van Sweten en van Vliet , zyn met hun volk geboôn De Posten deezer Stad naauwkeurig te bezetten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1463.s.5	Gaat , Burgers , naar uw huis , op uwe goedren letten ; Want de uitgeweekenen het hunne werdt door my Verbeurd verklaard ; maar elk die treedt op onze zy ' Heeft aan de Hoofdwagt zelfs zyn ' naam maar op te geeven , By Hopman Looy , daar hy als Vriend wordt opgeschreeven , Om deelgenoot te zyn van ons en onzen buit .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.1448.s.1	Matroozen en Soldaaten binnen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.1454.s.1	Drie Edelen binnen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.1462.s.1	Burgers , Vrouwen , Boeren en Kindren binnen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.1466.s.1	Agtste Tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1469.s.1	Vander Mark , Entes , Treslong , de Ryk , Duivenvoorde , Gevolg van Edelen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1472.s.1	Treslong , aan Vander Mark , Duivenvoorde de toonende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1477.s.1	Rentmeester Duiven voorde , alreeds ter Zuidpoorte uit , En op de vlucht gegaan , verzogt ik weêr te keeren ; Gelyk gy ziet dat hy gedaan heeft ; en veel ' Heeren Van de oude - en niuwe - wet bragt hy aan onzen kant .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1484.s.1	Dus toont hy zyne vlyt , ten dienst van 't Vaderland ; Zoo worden wy gestyfd door meerder Prinsgezinden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1484.s.2	Ga , yvraar onzer zaak , navorschen hoe veel ' vrinden 't Verovren van den Briel aan ons heeft toegebragt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1490.s.1	Nu elk uit dit begin een wenschlyk eind verwagt , Zal 't allergrootst getal der hier gebleeven ' menschen Haast voor Oranje zyn .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1497.s.1	Wie zou niet liever wenschen Den Koning en den Prins getrouw te weezen , dan 't Uitlandige geweld en dat van een ' Tyran ?	Emotion_Desire
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1497.s.2	Wie zou zyn eigen nut dus uit het oog verliezen ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1501.s.1	Voldoe dan ons verzoek .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1503.s.1	Duiven voorde .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1507.s.1	Na eens uw zy ' te kiezen , Blyft , tot des Prinssen dienst , myn hulp u toegezegd , Terwyl gy , in zyn ' naam , der Vryheids gronding legt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.1510.s.1	Negende tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1513.s.1	Vander Mark , Entes , Treslong , de Ryk , Gevolg van Edelen , Matroozen en Soldaaten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1516.s.1	Vander Mark , terwyl de zynen bezig zyn den buit over het Tooneel , en als naar de Schepen , te brengen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1526.s.1	Wy zien ons volk den roof in onze Schepen draagen ; Daar 't houte beeld werk thans aanstukken wordt geslagen , En dat van steen niet min verbrysling ondergaat : 't Niet waardig schilder werk en onnut Kerksieraad , Doen wy geheel en al in flenteren hervormen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1526.s.2	Ik zie met Zielsvermaak het driftig beeldenstormen En Altaar breeken aan !	Joy_Emotion_BodilyProcess_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1526.s.3	waar 't Geestelyk geklag , Geprevel en geschrei , myne ooren kittlen mag , Daar baade ik me in een zee van allerlei genoegen .	Joy_Emotion_BodilyProcess_Sadness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1532.s.1	De Burgers zullen zich niet by de plondraars voegen ; Der Kerkenschendery behaagt niet algemeen , Maar baart in veeler hart , spyt , afkeer en geween .	Emotion_BodyPart_BodilyProcess_Dissapointment_Sadness_Disgust_Benevolence
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1549.s.1	Wat winsten trekken wy van't breeken en verscheuren ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1549.s.2	Wat voordeel geeft het ons dat medeburgers treuren , Om 't laf verbryzelen van kalk , van hout en steen ?	Emotion_Sadness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1549.s.3	Dat wy juweelen , goud - en zilverwerk byeen Vergaêrden , en 't metaal , zoo koper , loot , als yzer , Gebruikten t ' onzen dienst , wy deeden waarlyk wyzer , En zouden de andere gezindheên niet in 't hart Van ons vervreemden doen .	Emotion_Disgust
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1549.s.4	Oranje hoort met smart Zulk ongebonden werk , en zou het gaarn beletten , Om al het Neêrlandsch volk op Alva aan te zetten .	Emotion_Sadness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1549.s.5	Laat elks gevoelen vry en zonder aanstoot : want Hoe eigenaartig is 't , in 't vryë Nederland , Elk aan zyn eigne keur 't geweten vry te laaten !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1549.s.6	Geen dwang vest ooit met vrucht zyn ' Troon in vryë staaten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1555.s.1	Men moet de Geestlykheid betaalen voor den hoon Ons eertyds aangedaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1560.s.1	Geef dan rechtvaardig loon Aan dien meest schuldig zyn .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1564.s.1	Zy zyn al t ' saamen schuldig .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1568.s.1	En echter maakt haar straf de Roomschen ongeduldig .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1572.s.1	Zy zyn toch altemaal niet even straffenswaard .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1586.s.1	Zy zyn nogtans doorgaans heerszuchtig in den aart , En durven op 't gezag der Opperheeren smaalen ; Geen Wolf is zoo gezet op telkens roof te haalen , Als 't gros dier Geestlykheid , wier hart van eigenbaat , Van hoogmoed , schraapzucht , toorn en wraaklust zwanger gaat ; Wie haar slechts tegenspreekt of fouten aan durft toonen , Wordt Ketter , Geus of schelm , onwaardig te verschoonen , En't Zwaard , of wel de Koord , of loutring door het Vuur , Wordt straks zyn deel ; haar wraak staat vaster dan een muur Van 't allersterkst metaal en yzer t'saam geklonken ; En zou dit doen ons hart tot weêr wraak niet ontvonken !	Emotion_Greed_BodyPart_BodilyProcess_Anger_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1590.s.1	't Zal ons zelfs dienstig zyn zachtzinnig voort te gaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1597.s.1	Wanneer het alles hier in vuur en vlam zal staan , Kan hy die't met haar houdt in deezen puinhoop blyven , Of elders gaan : dat elk , wien ons belang wil styven , Zyn afgebrande Stad vergeete op onze Vloot .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1601.s.1	Wat 's dit gezegt !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1607.s.1	Ik wil dat Brielle straks , ontbloot Van zyn vervoerbaar goed , zal door den brand verteeren ,	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1611.s.1	Spreekt gy in ernst !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1615.s.1	ô Ja .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1641.s.1	Wanneer wy ooit begeeren Ons zelfs te vestigen op Hollands grond , alwaar Wy veilig kunnen zyn voor d ' aanval en 't gevaar , Waarmeê Tolede ons dreigt , en daar hy is te stuiten , Daar onze watermagt gelukkig kan vrybuiten , 't Is hier , 't is in den Briel en 't Brielsche Landgebied : De mond der Maas , dien gy hier open gaapen ziet , Wordt aan den Zuiderkant genoegzaam digt geslooten , Hier moogen wy de hulp van onze Bondgenooten Verwagten ; ja , men kan alhier hunn ' onderstand Ontvangen , en hen weêr , te water en te land , Wanneer zulks wordt vereischt , gemaklyk ondersteunen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1641.s.2	Vrouw Fama zal den lof van ons door 't Land doen dreunen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1641.s.3	Zoo wy ons hier met kracht versterken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1641.s.4	Al wie vreest Voor Alvaas haat , door hem gebannen is geweest , En 't Vaderland bemindt , zal zich , op die geruchten , Begeeven aan dit oord en zynen dwang ontvluchten : Dus wordt ons dagelyks ver meerdering van magt , Van helpers en van goed , blyhartig , toegebragt .	Emotion_Hatred_Love
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1641.s.5	Maar zoo wy deeze Plaats verbranden of bederven , Dan zullen wy altoos als balling moeten zwerven ; Geen Burger zal ons weêr ontvangen in zyn Stad , Wordt eenmaal onze naam met zulk een vlek bekladt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1667.s.1	Treslong begrypt dit wel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1667.s.2	't Waare al te snood misdreeven , Eene ongegronde vrees zoo laf gehoor te geeven , Dat we een gelegenheid van zulk een groot belang Ontslippen lieten ; neen , wy moeten , buiten dwang , Dit Eiland noch de Stad begeeven of verlaaten : Zulk aarslen zou gewis ons Zeevolk en Soldaaten Verflaauwen doen in moed , en brengen ons in haat Van onzen Landgenoot : geen Neêrlands onderzaat Die dees vertwyffeling en lafheid niet zou vloeken .	Suspicion_Fear_Emotion_Hatred
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1667.s.3	Wy moeten nu veeleer , met allen yver , zoeken Ons te bevestigen .	Emotion_Dedication
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1667.s.4	Wy staan hier met den voet Op Hollands drempel vast , indien wy maar , vol moed En heldendapperheid , dit voordeel kloek bewaaren , Houdt hier de teugelstreng , ten geessel der Barbaaren , En onderstand van hen , die , hoop - en ademloos , De hulp van onzen kant verlooren voor altoos , Zoo wy , nu ons 't geluk als in den mond komt loopen , Dit voordeel met den voet verschopten .	Emotion_Hope
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1667.s.5	Laat ons hoopen , Na den Oranje vorst des kundschap is gedaan , Dat ons die Held terstond kloek moedig by zal staan ; Geen aarsling heeft hem ooit 's volks welzyn doen vergeeten ; Geen misslag van gewigt werdt ooit dien Prins geweeren .	Emotion_Hope
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1711.s.1	Voor my , 'k heb menigmaal gebeden , slechts op 't strand , Een Graf , voor 't koud gebeente , in 't lieve Vaderland Te vinden ; maar , ô vreugd !	Joy_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1711.s.2	nu zal 't my in de wallen Van een dier Steden zelf , naar wensch , te beurt te vallen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1711.s.3	Komt laaten wy de Vest versterken ; laaten wy Niet vreezen voor 't geweld .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1711.s.4	Verkies nu rasch , of gy Als bloodaards sterven wilt , van wien men zal verhaalen : Zy , die den trotschen waan van Alva deedden daalen , Wanneer , met 's Burgers wil , het Eiland van den Briel , En deeze schoone Stad , in hunne handen viel , Waardoor het Slot des Lands met een viel in hun handen , Versmeetten roeke loos zyn ' Sleutel , door 't verbranden Der Stad , wier Burgery , ter Geuzen hulp gereed , Gestort is in 't bederf van die zy bystand deedt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1711.s.5	Uit zulk eene over maat van bloheid zal men hooren , Dat grooter overmaat van opspraak wordt geboren .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1711.s.6	Of wilt gy dat men zal vermelden tot uw ' lof : Twee honderd vyftig man , door list van 't Spaansche Hof , Het Britsche Ryk ontzegt , met vierent wintig Schepen , Zyn aangeland te Brielle en hebben 't aangegreepen , Ja 't Eiland en zyn Stad niet enkel overheerd , Maar in 't vervolg van daar den aanval afgekeerd Van Hertog Ferdinand en al zyn medestanders ; Dien toomeloozen hoop van In - en Buitenlanders , Verlooren moed en kracht ; daar de eer en yverzucht In 't edel Neêrlands volk , door 't loffelyk gerucht Van Lumeys heldendaên , zoo wonderbaar herleefdden , Dat , door hun braaf bedryf , de Kastiljaanen beefdden .	Fear_Honor_Emotion_BodilyProcess_Dedication
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1711.s.7	Aldus heeft vander Mark dien hoeksteen van het Land Gevestigd , in den Briel , waarop der vryën hand , Door Nassauws vlyt beweegt , het Staatsgebouw volmaaktte , Waarin een ' vryën Staataltoos voor 't wel zyn waaktte , En nog blyft waakende , voor 't vryë Nederland , Ja daar de Vryheid zelf bestierd der Staaten hand En haare woonplaats houdt ; terwyl de Oranje bladen Aan Takken van dien Stam , voor allerhande schaden Van 't een en ander Kruis en hinderende Zon , De Maagd beschaduuwde en altoos beschutten kon ' !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1711.s.8	Wie zou , om na zyn ' dood dus eeuwiglyk te leeven , Niet duizendmaal voor de eer dier daaden 't leevengeeven !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1716.s.1	Maar wy zyn veels te zwak , te weinig in getal , Tot het verde ligen van Eiland , Stad en Wal .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1720.s.1	De Burgers zullen ons voorzeker bystand bieden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1724.s.1	Men kan zich niet gerust vertrouwen op die lieden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1729.s.1	Zoo slechts een deel van hen vrywillig medewerkt , Zien wy in weinig tyds den muur genoeg versterkt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1734.s.1	Hoe keeren wy van hier de Spaansche Legerbenden Die Alva en Bossu ons op den hals zal zenden ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1742.s.1	Wy , die de menigten der Spanjaards nimmermeer Ontzagen , zouden nu , ontbloot van schaamte en eer , In een bemuurde Stad , die saamgeraapte magten Ontwyken , en hun komst niet moedig durven wagten !	Honor_Emotion_Awe
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1746.s.1	Ons hart heeft nooit voorheen die laffe vrees gevoed .	Fear_Emotion_BodyPart
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1760.s.1	Dat nooit hun groot getal vermindere onzen moed .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1760.s.2	Wy willen nu niet meêr hun vluchtelingen tellen , Maar toeslaan in den hoop en hem ter aarde vellen .	Emotion_Hope
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1760.s.3	Dat elk het Vaderland strekt ten Aristides , Timoleon , Tyrteus , Locrens , Themistokles , Ten Cocles , Scevola en Fabius , wier daaden Huns vyands overmagt verachtten en versmaadden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1760.s.4	Daar nu Miltiades voor onzen Vlootvoogdt zwicht , En Brutus zwaarste deugd Oranjes weegt te ligt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1760.s.5	Moet geen van ons voor Griek - of Roomsche helden wyken , Maar ook hun ouden roem voor d ' onzen doen bezwyken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1763.s.1	Vander Mark , na eenige bedenking , tegen de zynen , tot nog met draagen van den huit bezig zynde geweest .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1791.s.1	Dat men de buit niet meer in onze Schepen laê ; Maar , met den Burger , Muur en Poort verstrerken ga .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1791.s.2	Ik ben met u getroost het uiterste af te wagten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1791.s.3	Op uwe stem Treslong , zal 't volk zyn ' pligtbetrachten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1791.s.4	Geef ter versterking last daar gy zulks dienstig acht En stel waar 't noodig is behoorelyke wagt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1791.s.5	Gy , Entes , laateen deel van 't grof kanon ontscheepen , En daadlyk op den wal , door onze Zeelien , sleepen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1791.s.6	Zien wy inmiddels toe waar de oopning allerbest Den vyand nuttig schynt ter nadring deezer Vest , Om die , met noodig tuig , te stoppen en te sluiten , Op dat wy , dus gedekt , den aanloop moogen stuiten , Waarmeê hy ons welhaast op 't felst bestormen zal .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1791.s.7	Ik moet zyn Hoogheid straks van dit gewenscht geval Omstandig kundschap doen , door een ' getrouwen Bode , Om zyn Doorluchtigheid tot onze hulp te noode ; Op dat die Heldt alhier betreê den eersten trap , En voorts ten zetel styg ' van 't Stedehouderschap , Met Vorstelyker glansch dan hy 't voorheen bekleedde , Eer Alva herwaards kwam en Neêrlands kluister smeedde .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.1767.s.1	Edelen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.1767.s.2	Matroozen , en Soldaten binnen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.1773.s.1	Treslong , binnen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.1777.s.1	Entes , binnen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1793.s.1	Einde des Derden Bedryfs .	None
+rivi001vero01_01.TEI.2.text.body.div.head.1797.s.1	Vierde bedryf .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.1801.s.1	Rochus , alleen .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1824.s.1	Hoe werkzaam toont ons volk zich nu aan allen kant !	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1824.s.2	De Vesting wordt gesterkt , en met geschut beplant ; Op dat de tyranny voor haar het hoofd mag stooten , Wordt ieder open weg , ter naadring , afgeslooten , Gevuld en toegestopt met tonnen , die , vol aard ' Gestort en ingestampt , hier zyn byeen vergaêrd ; Waartoe den eigenaar zyn vaat werk zelf ontleedigt En aanbiedt , op dat Brielle aldus mag zyn verdeedigd , Ja zyne vaaten zelfs , ter plaats der vulling draagt Of aanrolt , en 't verlies daarvan veelmin beklaagt , Dan zich gelukkig acht van 't zyne wat geeven Ten beste van het Land .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.1824.s.3	De Vrouwen , aangedreeven Door liefde tot den Prins , zien wy haar schortekleên Ontknoopen , en , met drift , verslentren ondereen , Om van de ontweefde draên vervolgens lont te draaijen ; Men ziet den grond met schroot van yzer werk bezaaijen , En 't buskruid brengt men ook van alle zyden aan , Om , als de Spanjaard komt , het schietgeweer te laên .	Emotion_BodilyProcess_Love_Dedication
+rivi001vero01_01.TEI.2.text.body.div.sp.1824.s.4	Dus heeft Graaf vander Mark geen reden van te klaagen , Dat zich de Burgery niet yvrig heeft gedraagen ; Wen haar Oranjes deugd in 't hart geschreeven staat , En nooit dan door den dood uit haar gedachten gaat .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1827.s.1	Treslong , Rochus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1830.s.1	Rochus , Treslong tegen gaande .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1835.s.1	Wat dunkt u nu Mynheer , van onze Stedelingen ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1835.s.2	Of ziet gy nu niet klaar dat men u by zal springen Op 's vyands nadering ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1835.s.3	daar heden Vrouw en Man , Voor u en voor Lumey , reeds doen wat ieder kan ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1840.s.1	Wy zien dit duidelyk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1840.s.2	Maar 'k moet u nog iets vraagen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1844.s.1	Wel wat , Mynheer ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1850.s.1	Wanneer de Spanjaard op komt dagen , Of dan door watervloed , geen groote hindernis , Ter aankomst deezer Stad , in 't Land , te maaken is ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1855.s.1	Dat kan ik zelf wel doen , en alle binnenwegen Bederven als ik wil .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1859.s.1	Gy zelf !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1864.s.1	Zyt niet verlegen ; Ik weet daartoe den weg .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1868.s.1	Maar kan dit rasch geschien ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1878.s.1	Ja , in een oogenblik .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1878.s.2	Gy hebt maar te gebiên , En ik , zoo 't noodig word , hak Nieuwlands Sluisken open , Waar door 't benedens dyks geheel zal onder loopen , En hier het laage Land , in eenen waterplas Verkeerd , ongangbaar wordt , door modder , slykendras ; Dus blyft de hoogen dyk dan enkel te betreeden Ter naadring deezer Vest .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1883.s.1	Ga heen , verhaast uw schreeden , En laat het water in .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1890.s.1	Dit is alsnog te vroeg : Na 's vyands landing zelf heb ik nog tyds genoeg , Om hem , 't onverwagtsten spoedigst , te verrasschen , En te bedremmelen in zoo veel ' waterplassen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1895.s.1	Vander Mark , Treslong , Rochus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1898.s.1	Vander Mark , Treslong by de hand neemende , en met hem ter zyde treedende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1914.s.1	Bossu , naar 't schynt , voor ons en voor dit oord bevreesd , Is , met tien vaanen volks , in aantogt reeds geweest , Om ons by Rotterdam , of Dort , of Sluis , in 't landden Te stuiten ; mogelyk heeft hy aan alle schandden Gedacht , die Brederode aan Maximiliaan , Weleer , in deeze streek , zoo dikwerf heeft gedaan ; Want onzen wil alhier heeft hy niet kunnen weeten , Daar wy door weêr en wind zyn aan dit strand gesmeeten : Hoe 't zy , ik hoor dat hy van Utrecht op Schiedam Getrokken is , van waar hy 't noodig Vaartuig nam , En thans op Maaslandsluis reeds over is gevaaren .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1914.s.2	Ik gaf aan Koppestok bevel om deeze maaren , Van Simonsz , Fokke en Bruin , verzeld , straks na te gaan ; Gelyk zy heden doen , en alles gade slaan , In een snelzeilend Jacht , dat Voorne is om geloopen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1917.s.1	Treslong , op Rochus wyzende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1923.s.1	Wy kunnen zeer veel goeds van deezen Burger hoopen : Hy is recht Prinsgezind en een doorkundig man , Die hier al 't laage Land met water vullen kan : Doet gy slechts Nieuwlands Dyk met grof kanon bestryken , En wy , wy zullen hier de Spanjaards af doen wyken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.1926.s.1	Vander Mark , naar Rochus gaande .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1928.s.1	Zult gy ons zulken dienst bewyzen kunnen ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1936.s.2	Mynheer , ik kan en zal zulks doen , om de ongenaê Dier Beulen ook te ontgaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1936.s.3	Maarzoo 'k , aan onze zyden , Van u verwerven mogt een weinig medelyden Voor ongelukkigen , 't was my zeer aangenaam .	Joy_Emotion_Compassion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1941.s.1	Zoo 't in myn magt staat , spreek .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1947.s.1	Ik weet gy zyt bekwaam 't Moed willig Oorlogsvolk , op Geestlyke Persoonen , Te teuglen in 't woên .	EmotionalAction_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1953.s.1	Hoe , zou ik zelf verschoonen Een haatelyk gespan , dat , trosch en wreed van aart , Ons overal vervolgt en dood en wonden baart !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1957.s.1	Spaar dan de zulken slechts wier schuld niet is gebleeken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1981.s.1	Hun schuld is algemeen : dit lydt geen tegenspreeken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1981.s.2	Na Egmond en van Hoorn het leeven zyn ontroofd , Heeft myne Ruitery gezworen , zich het hoofd , Ter denking aan de wraak , geduurig kaal te scheeren , Tot zy gewrooken hadt het moorden deezer Heeren ; En sedert hebben zy de Geestlykheid geplaagd , Voor haare opstookery , gekneveld en verjaagd , Waar 't mooglyk was , om 't kwaad dat dees bedryven deeden .	Emotion_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1981.s.3	Ons Bootsvolk , eveneens verbitterd en te onvreden , Draagt op de Murs , een Roos , of Nap , of Pelikaan , Of 't wapen van den Turk : Treslong , door spyt geraên , Zal haar zyns Broeders bloed op hals en kop doen daalen : Sonoy , wil haar den hoon , hem aangedaan , betaalen : De Ryk , voor wien men hier de trom met yver roert , Werft een nieuw Vaandel volks , het welk den naam reeds voert Van 't bloedvaên volk ; dus blykt wat hy denkt uitterechten Op hen die met hunn ' mond of handen ons bevechten ; En wel op de eersten 't meest , wier vuige huichlaary Ons vloekt en 't Spaansch gedrag durft zeegnen : maar zoo gy Eén Kloosterling , Jesuiet , of Priester aan kunt toonen Die ons heeft dienst gedaan , 'k zal al de rest verschoonen .	Offended_Emotion_Sadness_Spitefulness
+rivi001vero01_01.TEI.2.text.body.div.div.stage.1986.s.1	Vander Mark , Treslong , Rochus , Elizabeth , Frederik , Maria .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1994.s.2	Rochus !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1994.s.4	Treslong !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1994.s.5	ik vrees voor ongeval , En dat de Kastiljaan weêr meester worden zal !	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1994.s.6	Hy 's nu te Swartewaal en komt de Briel herwinnen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1994.s.7	In minder dan één uur zien wy hem weder binnen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1994.s.8	Dit 's door een ' Kloosterbroêr ons daadelyk gezegd .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.1998.s.1	Wat heeft hy meer verhaald ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2004.s.1	Bossu was een oprecht , Goedhartig , inlands Heer , die 't Krygsvolk herwaards leidde Als Oppergeneraal .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2007.s.1	Rochus , tegen vander Mark .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2010.s.1	Gy moogt hem vry verbeide : Ik wenschte wel dat ik zyne aankomst reeds vernam .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2018.s.1	Waar of die Kloosterboef dees tyding toch bekwam ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2018.s.2	Hy hoopt door looze list ons aller hart te ontroeren , En deeze Burgery ten opstand aan te voeren .	Fear_Emotion_BodyPart
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2018.s.3	Waar is die Prevelaer ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2018.s.4	op dat ik hem doorstoot , Of wel door pyniging zyn straf des doods vergroot !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2026.s.1	Stel u gerust , Mynheer , wilt minder toornig weezen .	Emotion_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2026.s.2	De Burgers zyn u trouw en schynen niets te vreezen ; De Kindren steunen zelfs op uwe dapperheid , En met Treslong en my is alles zoo beleid , Dat Spanjaard en Bossu als haazen zullen vluchten .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2030.s.1	Maar , Rochus , is 't wel waar ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2039.s.1	Gy zult veel minder zuchten , Wanneer ge een waterzode alhier bereid zult zien , Die aan geen ' Spaanschen mond zal smaaken ; ja , misschien Zal Graaf Hennin , geleerd door schaê , welrasch vervloeken , Dat hy , in drassig Land , de Watergans dorst zoeken .	Fear_EmotionalAction_BodilyProcess_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2044.s.1	Vander Mark , Treslong , Koppestok , Rochus , Elizabeth , twee Edelen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2047.s.1	Koppestok , met drift , tegen Vander Mark .	BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2051.s.1	't Is zeker dat Bossu ons hier verrasschen wil ; Zyn Schepen , opgepropt met Krygsvolk , nadren stil En haastig om de Stad , zoo 't zyn kan , te overvallen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2055.s.1	Welaan , men spoede zich dan daadlyk naar de wallen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2058.s.1	Treslong , tegen Vander Mark .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2075.s.1	Zorg dat het hand geschut hem voor de Zuid poort groet , Waar by ge uw Musquettiers zeer stil verbergen moet , Om 't eerste vyands rot gewis te kunnen raaken , En let wel op den Dyk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2075.s.2	Wy zullen 't zien te maaken , Wanneer de Kastiljaan durft nadren aan de Stad , Hy zich bezetten ziet van alle kanten ; dat Hem 't water overvalt , eer hy het kan vermoede : Ik zal me in aller yl dan naar Bernisse spoede En steeken , met myn volk , zyn Schipgevaart in brand , Of van den oever af , of booren 't met de hand In 't grondelooze diep : 't vernielen zyner Schepen , Terwyl hy van alom door 't water wordt beneepen , Verhaast zyn veege vlucht : zorgt gy voor Poort en Muur , En voorts als 't is gezegd ; dan zal ik , binnen 't uur , Bezorgen dat Bossu , in 't ongeregeld wyken , Een meenigte zyn 's volks hervormen ziet in lyken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2082.s.1	Gy , Rochus , die Treslong getrouw hebt onderricht , Blyft by hem , volg zyn ' last en denk aan uwen pligt , Gelyk ik , zoo 't betaamt , myn pligten ga volvoeren .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2086.s.1	Treslong , Koppestok , Rochus , Elizabeth .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2089.s.1	Koppestok , terwyl achterwaards eenige Boeren , Boerinnen , enz. met pak en zak over het Tooneel , als Stadwaards , gaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2092.s.1	Men ziet een goed getal der omgeleegen ' Boeren , Van 't Land , zich Stadwaards spoên , om 't Spaansch geweld te ontgaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2095.s.1	Elizabeth , onder het gerucht van Trommel en Trompet .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2098.s.1	Al 't volk komt op de been .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2098.s.2	Hoort hoe de Trommels slaan , Wie weet of niet Bossu de Stad van verre nadert .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2103.s.1	Hy is nog niet geland .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2103.s.2	Ons Krygsvolk wordt vergaderd Door Entes en de Ryk ; ik hoor hun beider stem .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2107.s.1	Treslong , Koppestok , Rochus , Elizabeth , Kornelia , Frederik , Maria .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2114.s.1	Bossu zal hier haast zyn ; helaas !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2114.s.2	ik vrees voor hem , Wyl hy ons straffen zal , zoo hy door't moedig vechten , Hier niet worde afgeweerd !	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2114.s.3	Des Konings Oorlogsknechten Ontscheepen zich welhaast en spoeden naar ons toe .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2124.s.1	Myn oogen zyn byna door al het kyken moê , Daar ik eerst tonnen vuldde en aarde heb aangedraagen Met knaapen van myn ' slag .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2124.s.2	By weinigen die klaagen Zingt ver het grootste deel ‘ Wilhelmus van Nassouw !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2124.s.3	’ Dat is de braave Prins daar ik het ook meê hou ' , En die , als Vader zegt , ons spoedig by zal springen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2129.s.1	Laat ons dan altemaal te zyner eere zingen ; Zoo hy ons by wil staan heeft Stad en Land geen nood .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2133.s.1	Treslong , Koppestok , Rochus , Philipszoon , Elizabeth , Kornelia , Frederik , Maria .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2135.s.1	Philipszoon .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2138.s.1	Nu komt de vyand haast ; ik heb zyn kleene Vloot Alreê zien naderen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2141.s.1	Frederik , naar Philipszoon lopende	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2143.s.1	Hoor Vader , 'k moet u spreeken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2146.s.1	Treslong , tegen Rochus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2148.s.1	Laat ons dan gaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2152.s.1	Ik zal 't hem bitter op doen breeken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2155.s.1	Koppestok , tegen Rochus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2157.s.1	Den vyand ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2165.s.1	Zult gy dat doen ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2168.s.1	Rochus , met drift op zyne borst slaande .	Honor_EmotionalAction_BodyPart_Dedication
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2171.s.1	Ja , Schipper Jan , Ik zelf , ik zal dat doen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2177.s.1	Koppestok , en Philipszoon , gelyk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2179.s.1	Wy gaan met u .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2185.s.1	Dat kan Niet zyn : wy gaan alleen met eenige Soldaaten Of Bootsvolk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2190.s.1	Koppestok en Philipszoon , te gelyk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2192.s.1	Zouden we u , in dit gevaar , verlaaten !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2201.s.1	Daar vrees ik juist niet voor ; maar vander Mark begeert , Dat hier de Burgery haar ' Muur en Wal verweert En niet daar buiten ga : dus hebt gy 't minst te schroomen .	Fear_Emotion_Shame
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2201.s.2	Ik heb iets van gewigt met Rochus voorgenomen , Dat mooglyk 's vyands trosch kortstondig brengt ten val , En daar heel Nederland , uit vreugd , van daavren zal .	Joy_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2205.s.1	Koppestok , Philipszoon , Elizabeth , Kornelia , Frederik , Maria .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2209.s.1	Ik vrees dat Rochus drift hem in 't bederf doet loopen ,	Fear_Emotion_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2214.s.1	Daar weeke Vrouwen zyn , is weinig goeds te hoopen Van 't Manvolk , dat haar klagt altyd de handen bindt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2217.s.1	Elizabeth , met drift .	BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2225.s.1	Daar weeke Vrouwen zyn !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2225.s.2	Gy kent ons niet myn Vrind : 't Is ver van daar : gy mist : wy zyn geen weeke Vrouwen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2225.s.3	Wanneer Bossu ons hier bestormt zult gy beschouwen , Hoe weinig wy den Mans , in dapperheid en moed , In d ' aanval af te slaan , bezwyken ; neen , geen voet - Noch stroo - noch hairbreet zelf wil hen het Vrouvolk wyken !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2225.s.4	Geen praatjes zyn hier nut ; dit zal door daad en blyken .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2230.s.1	Maar Moederlief !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2235.s.1	Wel zoo !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2235.s.2	wel vrouw Elizabeth , Gy spreekt als een Heldin .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2238.s.1	Kornelia , zeer driftig .	BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2260.s.1	Zoo doet zy .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2260.s.2	Welke wet Heeft aan de Vrouwen ooit verbooden , om de wallen Meê te verdedigen ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2260.s.3	Was Vrankryk niet gevallen In Koning Hendriks magt van Engeland , indien Zich de Orleansche Maagd niet aan hadt durven biên Voor d ' Erfgenaam van 't Ryk ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2260.s.4	heeft zy zich niet gekweeten , Dat Karel , toen niet meer dan Dauphyn slechts geheeren , De Britten overwon , den Franschen Troon beklam , En 's Engellanders hooft de Leliekroon ontnam ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2260.s.5	Dit deedde een Maagd , dit deed Johanna voor haar ' Koning .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2260.s.6	Een andre , eveneens in naam , heeft haare wooning , Haar Moederlyke Stad , Beauvais , wanneer die Plaats Byna verwonnen was , door 't stormen des Soldaats , Behouden door haar ' moed , dewyl zy zelf met Maagden En Vrouwen , meer dan Mans , haar vyanden verjaagdden ; Waarvoor daar eens in 't Jaar wordt ommgang gedaan , Waarin de Vrouwen voor , de Mannen achter , gaan : En hoe veel Steden zyn , door dapperheid der Vrouwen , Ja hoe veel Landen zelfs zyn niet door haar behouên ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2260.s.7	Dit laatst geval is nu juist hondert Jaar geleên ; En zouden wy alhier de Mannen wyken ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2260.s.8	neen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2268.s.1	Wie dacht ooit dat alhier ook zulke Vrouwen waaren ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2268.s.2	Wanneer Bossu dit ziet zal hy de moeite spaaren Om dikwerf zyn bevel ten storm te geeven ; want Daar ieder vechten durft , beleidt met goed verstand , Is ligtlyk van een ' wal den aanval af te weeren .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.2271.s.1	Tiende tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2278.s.2	Vrienden !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2278.s.3	staat my by !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2278.s.4	Wilt toch de wreedheid keeren Die my wordt aangedaan !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2282.s.1	My dunkt gy zyt gewondt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2313.s.2	een verwoede Geus , die my verstoken vondt In eenen hoek der Kerk , na 't Klooster was ontheiligd , Viel raazende op my aan , daar ik my dacht beveiligd Te weezen voor hun woên ; hy greep my by den baard , Doorstiet myn borst en wierp my , vloekende , ter aard ' , Ja heeft aan my de schuld van Alvaas kwaad gegeeven !	Emotion_EmotionalAction_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2313.s.3	Graaf vander Mark en hy doen beurtelings ons beeven !	Fear_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2313.s.4	De Spanjaard , en de Geus zyn even toomeloos , Gelyk in ontucht , wreed , onredelyk en boos .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2313.s.5	Daar ons Toledo sterkt , houdt hy noch maat noch paalen , Door , op den Geus , ons leet met woeker in te haalen : Waartegen weêr Lumey alle onze Kerken schendt , En op de Geestlykheid zyn dolle woede wendt , Niet onderzoekende wie schuldig of onschuldig Op 't wreedst mishandeld wordt .	Emotion_Unhappiness_Sadness_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2313.s.6	Is 't niet genoeg , geduldig , Stilzwygende aan te zien , de Kerken overal , Waar hy slechts meester wordt , tot eenen Paardenstal Misbruiken ?	Aquiescence_Emotion_EmotionalAction
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2313.s.7	Laat uw oog in 't Klooster Rugge weiên Rondom zyn ' Tempel wand ; beschouwt eens , zonder schreijen , Hoe zynen blanken muur , van schilderwerk ontbloot , Zyn eerste sieraad mist , het Altaar al te snood Verbryzeld en alom het beeldwerk weggeslagen !	BodilyProcess_Sadness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2313.s.8	Wie zal zulks kunnen zien en niet met reden vraagen , Waarom de Plonderaar met zilver , met fyn goud , En 't edele gesteent ' , zich niet te vreden houdt ; Maar 't houte by telwerk en kalk en steen doet breeken , En zich aan 't kunstpenseel eens Schilders komt te wreeken ?	EmotionalAction_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2316.s.1	Philipszoon , tegen Pontus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2319.s.1	Maar , Vader , wat de Geus van uwe Kerken haalt , Wordt , door de Spanjaards , ruim uit Burgerroof betaald .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2334.s.1	Wel hoor , ik wil Lumeys noch Alvaas kwaad verschoonen ; Zy zyn de besten niet en heet op wraak betoonen ; Maar de eerste werkt niet zacht voor Vryheid van het Land , En de andre smeedt voor ons een ' yzren Slaafschen band .	Emotion_Desire_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2334.s.2	Daar vander Mark zich haast bepaald ziet door Oranje , Wordt daaglyks Ferdinand nog opgehitst uit Spanje : Terwyl de Graaf 't bevel des Prins te buiten gaat En diens bestraffing wagt , verheft des Konings Raad Het Hertoglyk bedryf , daar 's Paussen gunst betooning Den Hertog wydt den hoed en degen , ter belooning Der wreedheên die hy pleegt : beschouw dit zoo als wy , Dan kiest ge ook vander Marks , maar nimmer Alvaas , zy ' .	EmotionalAction_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2340.s.1	Zy beide , door hun drift in gruuwlen te bedryven , Te fel , verpligten ons in 's Koning eed te blyven , Daar niets ter Waereld u noch my van kan ontslaan .	BodilyProcess_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2345.s.1	De Koning heeft aan ons den eersten eed gedaan ; Dat hy die 't eerst volbrenge en ons niet laat verdrukken	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2349.s.1	Wie laat Lumey begaan in alle gruuwelstukken ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2356.s.1	De wraak van Merula , en Alvaas helsch bedryf .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2362.s.1	Een uitvlucht van dien aart heeft weinig om het lyf .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2362.s.2	Begeert hy wraak , laat hy zich op de Spanjaards wreeken .	Emotion_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2366.s.1	Hy zegt , zy woeden meest door 't geestelyke preeken .	EmotionalAction_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2410.s.1	Rampzaalge Geestlykheid , in zulken tydsgewricht !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2410.s.2	Daar ons des Paussen wil en 's Konings last verpligt , Om elk het oud Geloof krachtdaadig in te scherpen , En alle nieuwigheên te doemen , te verwerpen ; Daar 't Bisschoplyk geboden 's Land voogds hoog gezag , Daar de Ovrigheid beveelt , de Spanjaard , dag op dag , Zelfs dwingende gebiedt den opstand te verdoemen , En wie de Kerk verlaat ' , doodschuldigen te noemen , De afdwaaling Kettery te heeten , en de straf Die de Inquisitie , hier en elders , daar voor gaf , Hoe schaadlyk voor dit Land , den menschen aan te pryzen Gelyk een heilig werk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2410.s.3	Wy doemen , wy verwyzen Wat naar den afval zweemd , en opstand koestren kan , En moeten 't doen , op straf van ongenade en Ban ; Doch zien , aan d ' andren kant , daar wy dien last volbrengen , Ons ongeluk ten top , ons bloed wreedaartig plengen : Al waar de Geus verwindt , of listig meester wordt , Zien we ons , voor 't allerminst mishandelt , wreed verkort , In 't oud Geloof veracht , met de Altaars omgesmeeten , En met al 't heiligen verwoed van een gereeten .	Emotion_EmotionalAction_Unhappiness_Disgust
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2410.s.4	Hier legt een Offerkleed , daar 't edel Wierookvat , Ginds een Maria-beeld , met brein en bloed bespat !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2410.s.5	Geen Kruis wordt aangezien dan met verachtlyke oogen ; Geen dierbaar overschot , of 't is met slyk betoogen !	Emotion_Hatred_BodyPart_Disgust
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2410.s.6	Het rein Wy water stroomd , met den gewy den Wyn En Olie , langs den vloer der Kerk , daar 't wit Satyn , Het Karmozyn Fluweel , en meerder kostlykheden , Daar 's Priesters ingewand , verpletterd en vertreeden , Voor elks gezicht ten toon , zich siddrende verspreid En de overmaat vervult van alle afgryslykheid !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2410.s.7	Geen één der onzen , die , doorstriemen of door wonden , Hun wreedheid niet gevoelt !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2410.s.8	geen Non blyft ongeschonden ; Daar ieder Klooster-Cel thans wordt een ontuchtspoel , Blyft geen gewyd Gesticht in stand door hun gewoel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2410.s.10	ik zweeg tot nog hoe 'k onze Regulieren , Wel negentien in tal , door die bloedgraage Gieren , In 't Monniks-heil gewaat , zag martlen door de Koord , En hangen aan een ' balk ! 'k heb hun gekerm gehoord , In Rugges Kloosterschuur !	Fear_BodilyProcess_Despair
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2410.s.11	dit 's door Lumey gebooden ; Ik zag der Geuzen woên en ben , gewond , ontvlooden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2423.s.1	De gramschap van den Geus , die zich beledigt acht , En Alvaas tyranny heeft zulks te weeg gebragt : Hy gaf den Geuzen stof tot deeze gruuweldaaden ; Hy heeft door Zwaard en Vuur , door Galgen en door Raden Hier 't allereerst gewoed : maar zoo de Oranje Held , Aanvaardende 't bewind , Lumey geen paalen stelt , En ieders Kerkgebruik alom niet vry zal geeven , En ieders recht beschermt , verbeure ik lyf en leeven .	Offended_Emotion_Anger_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2423.s.2	't Is voor den Staat , den Prins en voor ons zelfs ; maar niet Voor Entes noch Lumey dat gy ons yvren ziet .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2426.s.1	Pontus , terwyl men een naderend gerucht hoort , en eindelyk een deel vluchtelingen verschynen en zich bergen ziet ; bestaande deeze vlucht , uit Geestelyken , zoo Mans - als Vrouwspersoonen , gevolgt door Edelen , Matroozen en Soldaaten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2430.s.1	Wat moordkreet kryscht en knerscht op nieuw weêr in myne ooren !...	EmotionalAction_Hatred_BodilyProcess_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2430.s.2	Ziet zelfs de Geestlykheid het deugdlyk hart doorbooren !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2430.s.3	Ziet nu der Geuzen woên en bergt my voor hunn ' haat .	Emotion_EmotionalAction_Hatred_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.head.2433.s.1	Elfde tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2436.s.1	Entes , Koppestok , Philipszoon , Pontus , Elizabeth , Kornelia , Frederik , Maria , eenige Edelen met Degens , Matroozen met Bylen , en Soldaaten met Zwaarden gewapend .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2439.s.1	Entes , met ontbloot Zydgeweer , tegens Koppestok en Philipszoon .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2459.s.1	Hoe Vrienden , hoort gy hier naar Paapen beuzelpraat ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2459.s.2	Denkt nu aan nutterzaak ; bezet met ons de wallen , Waarop het Spaansch geweld zoo daadlyk aan zal vallen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2459.s.3	Prins Willem eischt uw dienst , de Staat en 't Vaderland Begeeren dat gy nu kloekhartig saamenspand , Tot welzyn van u zelfs , van Vrouwen en van Kindren .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2459.s.4	Biedt tegen weer aan hun , die hier uw recht vermindren , De wetten van ons Land vertrappen met de voet ' , En doemen u ter straf ; het uitgestortte bloed Der Helden , door de hand dier Beulen wreed vergooten , Schreeuwd , krytende , om de wraak !	Emotion_EmotionalAction_BodilyProcess_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2459.s.5	de moord der Landgenooten , Waarvan de zwarte aard nog roode teekens draagt , Heeft onze loome zucht ter wreeking lang beklaagt .	Emotion_Dissapointment_Sadness_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2459.s.6	Al wat slechts reuk ontleend van Spanjaards of van Paapen , Is enkel en alleen tot ons bederf geschapen : De Kastiljaan en Beul doen wat de Geestlykheid Hun aanpreekt en beveeld ; niets is ons opgeleid , Niets wierdt ons afgeperst , nooit heeft men bloed zien stroomen , Of 't is uit preevlaary der Paapen voortgekomen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2464.s.1	Die menschen zyn zeer naauw gebonden aan 't bevel Van Koning en van Paus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2481.s.1	Zoo is 't ; gy zegt zeer wel : Dit wierden wy gewaar , in hunnen blinden handel , Hun liefdeloos gedrag en spooreloozen wandel , Hun maateloos geschreeuw en schendende adderstong , Waardoor men ieder Leek tot straf der Geuzen dwong ; De wreedheên roemende , als doorluchtige bedryven , Als daaden , die 't gezag van Paus en Koning styven .	Emotion_Hatred_BodyPart_Love
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2481.s.2	Dus werdt een wreed gebod verkondigt met vermaak Door deeze Geestlykheid , die , heet op bloed en wraak , Geen zachtheid hulde doen , maar haar Gemeente leeren , Dat zy door vuur en staal moet loutren en bekeeren : Dier halven moeten wy haar ook door brand en moord Verbeetren , en voldoen aan haar gesproken woord .	Emotion_BodilyProcess_Compassion_Other_Desire_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2485.s.1	De Spanjaards dwingen haar daartoe .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2492.s.1	Dat zyn maar listen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2492.s.2	Komt , Vrienden , laaten wy daarover niet meêr twisten , En liever het geweld des vyands wederstaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2492.s.3	Doch gy , doem waarde Paap , zult geenszins straf ontgaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.head.2494.s.1	Twaalfde tooneel .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2497.s.1	Pontus , alleen , aan den laatsten steek , die Entes hem wilde toebrengen , ontweeken zynde .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.1	Ja , ik gevoel myn straf , hoewel geheel onschuldig Aan de oorzaak van het kwaad , dat hier zoo menigvuldig , Tot myn verdriet en smert , door 's Konings oorlogsmagt , Deeze arme Burgery te veel is toegebragt : Ik zag zulks met verdriet , en moest de Bloedplakaaten , En Spaansche kneevlaary , als Nederlander , haaten ; Maar dat elk zwygen moest , stond ook aan my niet vry Te zeggen , schoon myn hart , om alle moordery En wreedheên , dikwils kromp .	Emotion_Hatred_BodyPart_BodilyProcess_Sadness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.2	Daar my wierdt opgelegen Te roemen zulk bestaan , heb ik zoo veel gezweegen Als eenig Geestlyk lid daarvan gezweegen heeft ; Maar als ons Paus en Vorst bevel tot spreeken geeft , Wie durft dat hoog gezag moedwillig wederstreeven ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.3	Wie zwygt dan 't voorschrift stil , ter leezing hem gegeeven ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.4	Dus spraken wy alleen ; doch dit is nooit geschied Met mynen vryën wil , maar enkel met verdriet : En zyn ' er onder ons geweest die bitter spraken , Kan my , rampzalige , eens anders doen dan raaken ?	Emotion_Sadness_Spitefulness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.5	Ben ik daar schuldig aan ?...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.6	Ellendig Nederland !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.7	Wat hangt u boven 't hoofd een wolk van oorlogsbrand !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.8	Wat stroomen bloeds zult gy nog uit uwe adren loozen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.9	Hoe zal hy die den weg ter strengheid heeft verkoozen Nog zuchten !...	BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.10	Hoe zal hy , die zoo veel menschenbloed Vergiet , in 't eind geleerd door ramp en tegenspoed , Zich dier geweldnary en bitterheid beklaagen !	Emotion_EmotionalAction_Hatred_Remorse
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.12	sta my by !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.13	Ik heb een deel der slagen , Door striemen slechts , gevoeld , die 't Land nog voelen zal , Eer alle tyranny alhier geraakt ten val !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.14	Ik heb 't begin gezien van Nederlands kastyding , En heb nu weêr 't begin gezien van zyn bevryding ; Spaar , Hemel , my het lyf !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2531.s.15	om nog 't begin te zien Dat zulk vervolgen stuit , en van zyn ' grond doet vliên !	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2533.s.1	Einde des Vierden Bedryfs .	None
+rivi001vero01_01.TEI.2.text.body.div.head.2537.s.1	Vyfde bedryf .	None
+rivi001vero01_01.TEI.2.text.body.div.stage.2541.s.1	Bossu , Lodogno , Spaansche Wachten .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.2543.s.1	Bossu .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.2557.s.1	Ik vreesde ligt , als gy , zoo 't water verder bruischte , En over deezen Dyk , als in de laagte , ruischte : Maar nu wy op het Land nog droogvoets kunnen gaan , Schynt aan den Zuidpoorts-Muur het stormen ons geraên .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.sp.2557.s.2	Ik gaf Furtado last om daar , met Oorlogsknechten , De Ladders zeer gezwind en moedig op te regten , Terwyl ik hier , gerust en klaar genoeg , kan zien 't Beklimmen van den wal en hoe de Geuzen vliên , Hoe hy de Stad verwindt en brengt in 's Konings handen , Eer vander Mark zich zelv ' daar vestigt te onzer schanden .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.2557.s.3	Ik hoor nog geen gerucht aan d ' een ' of andren kant : Misschien heeft onze komst hun hart reeds overmand , Door zulk een ' doodschen schrik , dat zy de Vest verlietten .	Fear_Emotion_BodyPart
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.2559.s.1	Lodogno .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.2567.s.1	't Schynt buiten alles stil ; wy hooren nog geen schieten , Om dat ' er op den Muur , of op de zwakke Poort , Geen aanval is gedaan ; maar als de brandklok , moord , En storm , en onraad klept , en 't dondren der Kartouwen 't Gehoor verdooven zal , kon 't u nog wel berouwen Dat gy , door 't water zelf verwittigd van hun vlyt , Niet weêr te rug gegaan , maar voortgetrokken zyt .	Emotion_Remorse
+rivi001vero01_01.TEI.2.text.body.div.sp.2582.s.1	Waarmeê zou vander Mark ons weêrstand bieden konnen ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.2582.s.2	Hy heeft geen Houwgeweer , Musquetten of Kanonnen , En , voor een handvol volks , byna geen kruid en lood ; De Burgers zyn meestal gevlucht , of niet zoo snood Dat zy dien trotschen Graaf rebellig bystand bieden ; Want waar het ooit gebeurt dat Ingezeten ' lieden Des Konings magt weêrstaan , wordt straks hun Stad , door 't Zwaard En Vuur , geheel verdelgd : dus ben ik niet vervaard Voor tegenweer : Lumey heeft Brielle reeds verlaaten ; Bezet daar schans en wal met moediger Soldaaten ....	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.sp.2582.s.3	Maar , Hemel !...	None
+rivi001vero01_01.TEI.2.text.body.div.sp.2582.s.4	Wat is dit ...	None
+rivi001vero01_01.TEI.2.text.body.div.sp.speaker.2585.s.1	Lodogno , ziende een gedeelte van vuur , en hoorende het afgaan van kleen Geweer .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.2590.s.1	Het is 't Musquet gekraak Der Geuzen , die , te wel gewapent voor hun zaak , In 't geen men Nieuwland noemd , ons Krygsvolk lastig vallen ; Hoe zal 't ons dan vergaan in 't stormen op de wallen ?	None
+rivi001vero01_01.TEI.2.text.body.div.sp.2596.s.1	Dit Handgeschut kan ons byna geen hinder doen : Het zyn stuiptrekkinge van zwakheid .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.2596.s.2	Wil u spoên En doet straks op den Muur des Konings Standaart planten .	None
+rivi001vero01_01.TEI.2.text.body.div.sp.2602.s.1	Wanneer ons Kruis , in 't oog van Lumeys vloekverwanten , Al wendlende , op de Vest , voor u ten pronk zal staan , Stel dan de zege vast , en treê zelf Stadwaards aan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2606.s.1	Bossu , alleen , met Spaansche Wachten , terwyl het Schutgeweer al nader en naderby wordt los gebrandt , zoo dat men ' er eindelyk het vuur van ziet .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.1	't Geschiet wordt weêr herhaald , met meêr geweld en krachten !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.2	Wat roekeloos bestaan !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.3	Wie had ooit durven wagten , Dat breideloos gespuis dit onderneemen zou ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.4	By 't schenden van hun ' eed , en 't breeken hunner trouw , Heeft dit weêrbarstig schuim , aan Zwaard en strop ontdooken , Van Zeeroof zich geneerd , en dikmaals 't leed gewroken Dat hunne medemaats rechtvaardig overkwam .	EmotionalAction_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.5	Na dien verwaten hoop moedwillig ondernam 's Lands Sleutel aan de vuist des Konings stout te ontvreemen , Gelyk dit Eiland is , moest elk terstond verneemen Dat waar Bossu een Land Stadhouderlyk gebiedt , Hy , door verzuim , geen Stad ten roofnest worden liet .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.6	Maar hoe ; het water wast !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.7	en 't klettren der Musquetten Schynt aan Furtadoos moed de nadring te beletten !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.8	Waar toeft nu Sanchio !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.9	Daar bulderd het Kanon !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.10	Ach dat ons Krygsvolk straks het stormen maar begon ....	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.11	Welaan ik zal dan zelf daarmeê begin doen maaken .... ô Hemel ! 'k zie van verr ' door 't vuur myn Schepen blaaken !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.12	De vlam vliegt hooger op , terwyl de Krygsknecht wykt !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.13	Ik zie hoe myn ' Soldaat in moed en kracht bezwykt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.14	Een kleene waterstroom is tot een Zee gewassen !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.15	Myn volk versmoord in slyk en slibbrige moerassen !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.16	Hoe raak ik door den vloed weêr by de mynen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.17	ach !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2632.s.18	Gelukkig zoo 'k voor my een ' weg ter uitkomst zag .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2637.s.1	Bossu , Furtado , Spaansche Wachten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2639.s.1	Furtado .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2654.s.1	Mynheer , het is gedaan , wy zyn alreeds verwonnen , Eer nog , van onze zyde , een aanval werdt begonnen : Geen dapperheid , of moed , of vyandlyk geweer , Ontruktten ons het hart ; geen water heeft zoo zeer Ons doen te rugge gaan , dan 't schenden onzer Kielen , Waarop de Geuzen straks als dolle Tygers vielen , Die steekende in den brand , of van den oever af , Of boorende in den grond ; dit scheen ons volk een Graf , Waarin wy altemaal ellendig zouden smooren ; Waarom zy daadelyk den weg ter vlucht verkooren : De dapperste nogtans zyn willig en bereidt , Om u , ons Opperhoofd , in alle veiligheid , Eerst op Nieuw-Beyerland en voorts op Dort te brengen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2659.s.1	Bossu , Lodogno , Furtado , Spaansche Wachten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2679.s.1	Gy zyt verpligt , Heer Graaf , ons wyken te gehengen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2679.s.2	Des Konings dienst vereischt dat gy op heden zwicht .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2679.s.3	Ik heb , zoo veel ik kon , voldaan myn ' Krygsmans pligt ; Maar 't was onmoogelyk dat wy de Vluchtelingen , By 't branden onzer Vloot , tot d ' aanval konden dwingen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2679.s.4	Verwagt haast beter tyd , die ligt in 't kort verschynt ; Der Kastiljaanen deugd , zoo dra hun vrees verdwynd , Zal Brielle , op 't onverwagtst , herwinnen voor den Koning ; Maar straf dan schrikkelyk en denk om geen verschooning .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2679.s.5	Geen recht geloovigen doen Kettren onderstand , Gelyk dees Burgery ; steek dan haar Stad in brand , Om dat zy 't Muitgespan daar binnen lietten trekken : Haar val zal de andre Steên ten toom en breidelstrekken , Om meerder trouw en vlyt , voor Vorst en Opperheer , Voor Kerk en Kerkendienst te toonen .	Emotion_Dedication_Loyalty
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2679.s.6	't Strekt tot eer Van u en ons al t ' saam ' , in 't Vorstelyk vermoogen Geen kreuk , van 't muitend graauw , geen schending , te gedoogen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2683.s.1	't Is tyd , en meêr dan tyd , te wyken elders heen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2695.s.1	Ons volk geraakt , door slyk en water , reeds byë en En heeft Nieuw-Beyerland , naar 't schynt , ter wyk verkooren .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2695.s.2	Veel Vaartuig , dat de Geus niet kon ten gronde booren , Is , zwemmende uit den stroom , aan d ' oever weêr gebragt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2695.s.3	Lumey , mistrouwende zyne al te zwakke magt , Vervolgt geen vluchteling , maar laat hen vry vergaêren : Dus zal , in Dordrechts wal , hun siddring rasch bedaar en ; Waarna ge u wreek en kunt van deezen hoon en smaad .	Fear_EmotionalAction_BodilyProcess_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2699.s.1	Maar zoo men daar voor ons de Poorten sluiten laat ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2703.s.1	Dan gaan wy Rotterdam , in aller yl , bezetten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2708.s.1	En zoo zy ons aldaar den intred ook beletten , Wat dan , in 't eind , gedaan ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2727.s.1	Ik zal wel maaken dat Men ons daar binnen laat .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2727.s.2	Wy moeten deeze Stad Verzeekren voor den Vorst .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2727.s.3	Ik ken haar Burgerheeren , En Vroedschap , voor zeer zacht en minlyk in 't regeeren , Waarvan ik ligtelyk de ontsluiting eener Poort Verkrygen zal ; te meêr , zoo men my spreeken hoort In hunnen Raad , van wien 'k het doorgaan slechts zal vergen , Voor my en voor myn volk ; maar zoo men my durft tergen Door weigring , zal ik hen nog zachter ondergaan , Om ons , in 's Konings naam , den doortogt toe te staan Met weinig volks gelyk ; doch niemant krygt ons buiten , Na wy eens binnen zyn ; en tracht men ons te stuiten , In 't werkelyk bezit te neemen van den Wal , De Poorten , en wat meêr ons dienstig schynt , dan zal Ons Rotterdam 't verlies , alhier geleên , betaalen , En elk die weerstand biedt , ten duistren afgrond daalen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2739.s.1	Uw aart komt wonderbaar met d ' onzen overeen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2739.s.2	Uw heldenhart is vreemd van alles wat gemeen , Laf en flaauw moedig is .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2739.s.3	Gy zyt een Nederlander , Maar meerder Spaansch van aart dan de andren met elkander ' .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2739.s.4	Gy laat ons wraakzwaard vry , gy duldt der Kettren straf En 's Muiters ondergang !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2739.s.5	dus zyt gy flaauw noch laf , Maar edel , groot van ziel , en waardig dat u 't leeven Uit Spaanschen , in het Ryk van Spanje , was gegeeven .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2744.s.1	Zoo ge Alvaas krygsmoed paart met uwe ervaarenis , Zegt elk , dat Held Bossu een waare Spanjaard is !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2749.s.1	Sluit altoos uw gehoor voor 's Burgers jammer klagten , Wilt ge als een Kastiljaan u eeren zien en achten !	Honor_Emotion_EmotionalAction_Despair
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2774.s.1	Schoon 'k niet altyd het oor wil sluiten voor genaê , Myn wraak staat heden vast , ten zy een grooter schaê Dan deeze , en haar gevolg , myn oogmerk doe vertraagen : 'k Zal , met een Neêrlands hart , de muitery belaagen .	Emotion_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2774.s.2	Wy gaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2774.s.3	Maar vander Mark , beef , schrik en sidder vry , Wanneer ik wederkome !	Fear_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2774.s.4	Uw trek tot roovery , Uw heerschzucht , en uw lust tot schenden en vernielen , Dryfveêren die uw vlucht en rapheid meêr bezielen Dan 't heil van Nederland , doen u slechts werkzaam zyn Tot 's Burgers ondergang .	Emotion_Other
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2774.s.5	Barbaar , met welken schyn Mengt ge u in onzen twist , met uwe Luikenaaren ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2774.s.6	Gy en Sonoy zyt hier maar vreemden en Barbaaren , Die ons verschil niet raakt !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2774.s.7	waar gy uw voeten zet Hoont gy de Kerk en klinkt der Beeldenstorm-Trompet !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2774.s.8	Ontmenschte , u helsch bedryf aan Geestlyke persoonen , Kan uw bloedgierig hart en wreedheid elk vertoonen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2774.s.9	Doch na gy ons 't beleg ziet slaan om deezen wal , En storm op storm uw drift en wrevel mindren zal , Bossu de Stad herwindt , die gy niet kunt bevryden , Dan zal hy , ô Lumey !	Emotion_BodilyProcess_Anger_Annoyance
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2774.s.10	u zoo gestreng kastyden , Dat al uw vreemd gevolg , door deeze straf ontroerd , Nooit weêr der Geuzen Vlag op 's Hollands bodem voert .	Emotion_Moved
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2780.s.1	Manriques , alleen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.1	Vertoef , Bossu !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.2	vertoef !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.3	Ik zie myn Vrienden vluchten , En moet alhier , ten prooi van Muitelingen , zuchten !	Fear_BodilyProcess_Unhappiness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.4	Oproerig volk , durft gy uw ' Koning tegengaan , Wiens Landgebied de Zon steeds in haar ' dag ziet staan ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.5	Die nergens weêrgaê heeft in rykdom en vermoogen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.6	Ellendigen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.7	gy zyt in uwe hoop bedroogen , Zoo gy iets hoopen durft van uw geringe magt !	Emotion_Hope
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.8	Wat baat uw tegen weer , daar uw te zwakke kracht Uw dwaasheid kenlyk maakt en ganschlyk zal bederven ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.9	Rampzaligen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.10	gy zult als Land verraaders sterven , Ten zy ge u rasch verzoend met onzen Vorst en Kerk !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.11	Niets kan u redden , niets , dan 's Hemels wonder werk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.12	Maar ik , aan welk een ' kant zal ik thans uitkomst vinden !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2800.s.13	Hier zwaaid geen Kruisvaan meêr , daar myn verbaasde Vrinden , Te zeer doorschrik geraakt geweeken zyn naar 't strand , My laatende , gewond , in 's muiters wreede hand , Nu 'k hier geen schuilplaats zie waar ik my kan versteeken ; Wyl 't Veld , benedens Dyks , verkeerd in waterbeeken , Geen lichaam zoo verzwakt als 't myne wyken laat .	Fear_Emotion_Wonder
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2804.s.1	Manriques , Rochus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2811.s.1	Ik heb den Spanjaard schoon vernesteld !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2811.s.2	alles gaat Ons nu voorwind .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2811.s.3	Ja wel , wat stond dat volk te kyken Wanneer zy voor den vloed , als uilen , moesten wyken !..	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2811.s.4	Maar wat zyt gy voor een ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2813.s.1	Manriques .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2820.s.1	Ik ben een Edelman , Getroffen door een loot , en die , verlaaten van Myn Volk , in 's Konings dienst , alhier met roem zal sneeven ....	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2820.s.2	Ik wage het sterven af en haat het schandlyk leeven , Indien ik 't van de gunst der Geuzen ooit geniet .	Emotion_Hatred
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2825.s.1	Ik ben een Geus , die nooit een ' Kastiljaan doorstiet , Noch aan de Geestlykheid de handen heeft geschonden ,	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2830.s.1	Treslong , Manriques , Rochus .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2830.s.2	Gevolg van Bootsvolk en Soldaaten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2840.s.1	Vriend Rochus , Burgerheld !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2840.s.2	nu heb ik ondervonden Dat gy , kloekhartig Man , de goede zaak getrouw , Een steunsel worden zult van 't vryë Staatsgebouw , Het welk Oranje zelf van hier zal op doen rechten , Na zyn Doorluchtigheid , van duizende Oorlogsknechten Gevolgt , het Spaansch geweld om onzent wil weerstaat ; Hy heeft den Grond geleid waarop men bouwen gaat .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2849.s.1	Schoon 't gansche Nederland , in één verbond getreeden , Uws Konings eisch weêrstondt en elk aldaar de schreeden Van Nassaus volgen dorst , wat baaten 't ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2849.s.2	niet met all '; Aan welk een ' kant zou 't volk ontwyken zynen val ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2849.s.3	Geen Koning is de wraak van onzen Vorst ontwassen , Wiens Septerstaf gebiedt de beide waereldassen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2871.s.1	Myn Vrienden , wreek u niet op deezen Kastiljaan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2871.s.2	Gy , afgemat door 't bloên , zult geenszins straf ontgaan , Maar sneuvlen , schoon wy niet de handen aan u schenden ; Neen , 't is ons meerder eer uws Konings Legerbenden , Die reê ten stryde zyn , te vallen op het lyf .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2871.s.3	Zie de overwinning reeds ons loffelyk bedryf Bekroonen , daar zy ons het hoofd , met Krygs laurieren En Eikebladeren , haast meerder zal versieren !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2871.s.4	Wy zullen dagelyks aangroeijen in gezag , Maar Spanjes Heerschappy zal mindren dag op dag .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2871.s.5	Gy , die in alles u gedraagen hebt als mannen , Laat Spanjes aanhang ons vry doemen en verbannen ; Gy hebt ten dienst van 't Volk en 't lieve Vaderland , De Schepen van Bossu bedorven of verbrand , En Rochus deedt dit Land met water overstroomen ; Door hem en ons is meest de zegepraal bekomen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2871.s.6	Daar dees Paasavondstond , hierna altoos gedacht , In zeegning blyven zal by 't roemryk nageslacht ,	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2875.s.1	Op welken grond kunt gy die ydelheên gelooven ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2884.s.1	Die denking , welke aan ons wordt ingestort van boven , Zal niet in ydelheid verdwynen , als gy hoopt , Maar weezendlyk bestaan ; dus wordt de magt gesloopt Van Spanjes Mogendheid , wanneer Philips dees Landen Voor vry verklaaren moet , verbreekende alle banden Waarmeê hy die , tot nog , gestreng gebonden hieldt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2889.s.1	Vander Mark , Treslong , Manriques , Rochus , Gevolg van Edelen , Bootsvolk , en Soldaaten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2901.s.1	Nu triomfeeren wy .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2901.s.2	Dat elk , met vreugd bezield , Dees' blyden avond vier ' , met allerlei gezangen !	Joy_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2901.s.3	Dat deeze Saterdag , waarop wy ons verlangen Verkreegen , wen van hier de Spanjaard is verjaagd , By al 't Batavisch volk den naam van heilryk draagt , Gelyk hy waarlyk is !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2901.s.4	Wy kunnen , zonder vreezen , In deezen tyd , vernoegt en luchtig vrolyk weezen .	Joy_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2901.s.5	Wat Spanjaard heeft zich daar op eenen struik geplaatst ?	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2905.s.1	Hy is gekwest , Mynheer .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2910.s.1	Zorg dan in aller haast , Uws Broeders bloed ten zoen , dat gy hem op doet knoppen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2915.s.1	Neen , geen verwonde schelm , die niet meêr voort kan loopen , Mag myne wraak voldoen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2924.s.1	Is hy uw ' toorn ontwaard , Hy heeft de doodstraf toch verdiend .	Emotion_Anger
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2924.s.2	Wy moeten de aard ' Van Spanjaards zuiveren , zoo veel wy immer kunnen , En hun geen oogenblik het leeven langer gunnen , Dan men het leevenslicht hun niet ontneemen kan .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2924.s.3	Verfoeilyk Dienaar ....	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2929.s.1	Neen , ik ben een Edelman , In 's Konings dienst gewond , daar ik op 't pad van eere ....	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2932.s.1	Vander Mark , hem , ten einde zyner reden , doorstootende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2935.s.1	Uw ' roem in schande zocht .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2935.s.2	Dat hy nooit wederkeere Van waar hy kwam ' ....	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2935.s.3	Ga heen , uw bloedrol is volspeeld .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.2938.s.1	Manriques , ter neder stortende .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2940.s.1	Barbaar !... ô Hemel !...	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2940.s.2	'k Sterf .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2962.s.1	Gy hebt my lang verveeld .	Emotion_Annoyance
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2962.s.2	Al waar men Spanjaards vindt , het zy in modder poelen , Of halfverdronken Land , doet hun de straf gevoelen , Door hen voor ons bereidt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2962.s.3	Die beulen moeten voort , En wat hier Geestlyk is zal sterven door de koord .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2962.s.4	Voor my geen blyder uur dan dat ik my mag wreeken , En met myne eige hand hun wree vlighart door steeken .	Joy_Emotion_EmotionalAction_BodyPart_Vindictiveness_Annoyance
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2962.s.6	dat ik eens myn wraak aan Alva koelen kon ' !	Emotion_BodilyProcess_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2962.s.7	Welk een geluk zoo ik dien bloedhond overwon En Krygsgevangen zag !	Emotion_Happiness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2962.s.8	hoe zou ik my vermaaken , In hem de wreede ziel , al spartlend ' , te doen braaken !	BodyPart_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2962.s.9	Wat zou ik foltering voor hem verzinnen !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2962.s.10	ja Ik zou aan dien Tyran het zwaard van ongenaê , Met meer dan helsche pyn , op 't schriklykst , doen geevoelen En in zyn laauwe bloed myn heete drift verkoelen !	EmotionalAction_BodilyProcess_Anger_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2962.s.11	Zyn lillend ingewand wierdt langs den grond gesleurd , Daar zyn moord zuchtig hart , ten boezem uitgescheurd , Myn tanden , tong en mond , ten bittren prooi verstrekten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.2967.s.1	Vander Mark , Entes , Treslong , Rochus , Gevolg van Edelen , Bootsvolk en Soldaaten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2984.s.1	Bossu is reeds op weg naar Dort , en zoo 'k ontdekten , Uit iemant die terstond de Dortsche Vest verliet , Is 't zeker dat hy zich daar buiten houden ziet ; De Poorten zyn daar toe , haar deuren digt gesloten , En 's Burgerstegenstand zal hem het hoofd doen stooten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2984.s.2	Wat was 't ons aangenaam de Spanjaards , vuil beslikt , Bemodderd of doornat , al beevende en verschrikt , In hunne vlucht , te zien en tergend ' na te jaagen !	Fear_Emotion_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2984.s.3	Dus hebben wy van hen nog sommigen verslaagen , Die , worstlend ' met den dood , zich in het diep moeras Verschoolen , daar ons staal of loot hen doodlyk was , En pynlyk bragt omhals ; want niemant kreeg genade : Ik laghten om 't gesmeek , en wreekten myne schade En 't zielsverdriet dat elk van hen aan d ' onzen deedt .	Emotion_Sadness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2998.s.1	Gy , Entes , zyt zoo braaf als ik een Krygsman weet .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2998.s.2	Gy toont u in 't geheel vervreemd van mededoogen , Wylu 't Maraans geschrei nog nimmer heeft bewoogen !	Emotion_BodilyProcess_Compassion_Despair
+rivi001vero01_01.TEI.2.text.body.div.div.sp.2998.s.3	Gy volgt myn schreeden na , het Geestlyk kleed ten haat , Waarin een lichaam steekt , heerszuchtig , trosch en kwaad , Ja onverbiddelyk in heil - en voor spoedsdagen , Wiens tong , in tegenspoed , door weenen en door klaagen , Altoos naar uitkomst zoekt , en ons den Hemel sluit , Of opent , zoo 't haar lust ; schoon my zulks nimmer stuit , Noch uw gerechte wraak in 't minste doet verkouden .	Emotion_EmotionalAction_Hatred_Unhappiness_Other_Vindictiveness
+rivi001vero01_01.TEI.2.text.body.div.div.stage.3003.s.1	Vander Mark , Enthes , Treslong , de Ryk , Rochus , Gevolg van Edelen , Bootsvolk en Soldaaten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3016.s.1	Uw zege , ô wakkre Graaf !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3016.s.2	zal nu haar loopbaan houden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3016.s.3	De Waalen zyn alreeds uit Vlissingen verhuisd , De Bouwers van 't Kasteel verjaagd , hun werk vergruisd En ganschlyk omgewroet : de Burger zal beletten , Dat eenig Spanjaards rot weêrkomt zyn Stad bezetten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3016.s.4	Nogmeer , Mynheer , nogmeêr ; geen zwakke Burgery , Maar de Regeering zelfs verkiest Oranjes zy ' En deedt u , door van Erp , om hulpe en bystand vraagen Eer gy het Spaansch gespuis van hier hadt weggeslagen , Of eer men dacht dat zulks zoo wel gelukken zou ' .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3024.s.1	De Brielsche Burgerschaar , die 'k nog niet veel betrouw ' , Belet my dat ik thans geen sterke hulp kan geven ; Doch al die nieuwelings by ons zyn ingeschreeven , Min van geweer bedeelt , dan trouw voor 't Vaderland , Laate ik volkomen vry te gaan naar 't Vlissings strand .	Emotion_Loyalty
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3036.s.1	Men is daar meêr voorzien van krygsnood wendigheden , Dan van stoutmoedigen om andren voor te treeden , Die men straks volgen zal en van geweer voorzien ; Daar is slechs volk van doen om d ' opstand hulp te biên : Van Erp heeft dit den Prins , in Dillenburg , doen weeten , En zyn Doorluchtigheid zal 't nimmermeer vergeeten , Zoo , door uw zorg , die Stad voorhem verzekerd wordt , Dat Alvaas Zeemagt krenkt , zyn Landgebied verkort .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3044.s.1	'k Moet eerst de Burgery en Dorpeling doen zweeren , Den Vorst als Graaf , den Prins als Stedehouder , teeeren , En 't Vaderland getrouw te blyven tot ' er dood : Wanneer zulks is geschied wordt ligt myn magt zoo groot , Dat ik de Vlissingers meêr bystand toe kan zenden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3063.s.1	't Geluk schynt meêr en meêr op onze zy ' te wenden .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3063.s.2	Wy zien van tyd tot tyd , elk uur , elk oogenblik , Veel ' uitgeweekenen , van d ' allereersten schrik , Door onzen overval veroorzaakt , zich herstellen , En keeren in den Briel , om ons , als medgezellen , Ten dienste van den Prins , kloekmoedig by te staan ; Welk heus verzoek gy hun onmooglyk af kunt slaan .	Fear_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3063.s.3	Uit Vlaandren nadren ons vier welbekende Helden , Vier Heeren , die altoos zich in de bresse steldden Van 't Land , ( van Schoone wal , van Watervliet , Casteel , En Haverschot , ) daar elk van hen zich door een deel Navolgers ziet verzeld , en door landeigen Boeren , Voorstanders onzer zaak , die , door de tong te roeren Van Alvaas boos bedryf , den dwingland zyn ontvlucht , Om , onder uw beleid , in aangenaamer lucht , In deeze Stad , met ons , zyn ' aanval af te wagten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3075.s.1	Al wie zyn ' pligt , ten dienst der Lande , wil betrachten , Vindt hier , door ons beschermt , een vaste en zeekre wyk , Nu Vrankryk , Engeland , en 't Duitsche Keizerryk , Aan ons een menigte kloekhartige Soldaaten , Oranje ten geval , haast zullen overlaaten , Om aan den Kastiljaan meer Steden van waardy Te ontrukken : dus gesterkt wordt Hollands volk weêr vry , En zal zich , met de Zeeuw ' en kloeke Stichtenaaren , Van Vorst Philippus zelf nog doen voor vry verklaaren .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.3081.s.1	Vander Mark , Entes , Treslong , de Ryk , Koppestok , Philipszoon , Rochus , Elizabeth , Kornelia , Frederik , Maria , Gevolg van Edelen , Burgeren , Vrouwen , Boeren , Kinderen , Boetsvolk en Soldaaten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.3084.s.1	Koppestok , tegen vander Mark .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3098.s.1	Mynheer , al 't volk doet u verzoeken , deezen nacht , De volle vrolykheid te vieren in haar kracht .	Joy_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3098.s.2	De Burgers altemaal , met Kindren en Vrouwen , Verzinnen elk wat nieuws ter eere van Nassouwen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3098.s.3	Het Zee volk smyt de muts met blydschap toorens hoog , En roept , ‘ Prins Willem leeve ! ’ uit der Soldaaten oog Blinkt hunnen heeten lust om Spanjaards op te zoeken , Waar zy te vinden zyn !	Joy_Emotion_BodyPart_BodilyProcess_Desire
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3098.s.4	't Kriöeld in alle hoeken Van dit verloste Land , daar elk nu blyder tyd , Door uw bescherming wagt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3098.s.5	Gy hebt den Briel bevryd , En onze Burgery van strengen last ontheven !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3098.s.6	Nu moet ge aan haar den smaak van 't zoet der Vryheid geeven , En laaten aller vreugde een onbepaald genot .	Joy_Emotion_BodilyProcess
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.3101.s.1	Entes , tegen vander Mark .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3113.s.1	Ja , vier de dertelheid nu eens 't volkomen bot .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3113.s.2	Laat ieder naar zyn ' lust verspillen en verteeren ; Door 't geld verdoen zal 't volk te beter rooven leeren : Dus wordt met 's Vyandsschaê , 't verlies weêr ingehaald , En al wat elk verkwist , uit Spanjes kas betaald .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3113.s.3	Zoo leeven wy vernoegd ; dus zyn wy waarlyk vryën ; Zoo blyven wy verpligt met dapperheid te stryên ; Dus trekt hier ieder wat van onzen oorlogsbuit ; Zoo schudt der Spaanschen zeef hier Peruus goudmyn uit , Waar van zich menig mensch kan voeden en geneeren ; Dus geeft men vreugde uit winst , en blydschap in 't verteeren .	Joy_Emotion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3135.s.1	Dit volk is meêr geneigd tot zuinigheid ; nun aart Is spaarzaam ; maar het geld , door hen by een vergaêrd , Is veil en by der hand , wanneer 't hun Opperheeren , 's Lands Staaten , door den nood gedrongen , slechts begeeren , En noodig rekenen tot welzyn van het Land .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3135.s.2	Dus spaaren wy met vrucht en geeven onderstand , Als 't billyk wordt vereischt .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3135.s.3	Maar als men ons , door schenning Van recht , om pracht en praal te voên , den tienden Stout afdwingt met geweld , dan grypt dit vreed zaam volk Veel min in hunne beurs , dan naar Musquet en Dolk .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3135.s.4	Geen gierigheid heeft ons een bede aan Graaf of Koning Doen weigren ; maar zyn Raad , wel verre van verschooning Te geeven , drukten ons te meer ; hun hovaardy Hieldt Neêrlands volk als slaaf der Spaansche pronkery , Min eigen aan den Vorst dan aan zyn ' Hovelingen ; Dit deedt ons weigring zyn en uit den beugel springen .	Emotion_Greed
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3135.s.5	Dus kan de spaarzaamheid een Land behouden ; maar Onnut verspil brengt Volk en Ryken in gevaar .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.speaker.3138.s.1	Vander Mark , neemende een Speer van iemand van 't gevolgd , plant dezelve voor op het Tooneel en zet ' er vervolgens een ' witten Hoed op .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3201.s.1	Ziet hier Lumey de Speer der Vryheid nederzetten , En kroonen met den Hoed dier Maagd ; beschermt de wetten Van Hollands vryën Staat , dan zal hy veilig staan , Wenhem Oranjes zorg versierd met Lauwer blaên , En Staats - en Krygslast torscht op zyn door luchte schouder : Hy 's de eerste stem des Raads , hy 's onze Stedehouder , En ik , als Admiraal , volvoer alhier zyn ' last : Hy zal Toledoos juk , dat nooit uw schoudren past , Afwerpen van uw ' hals : hy werft ons Bondgenooten En Legers , voor zyn geld , en sterkt onze Oorlogsvlooten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3201.s.2	Geen Alva is by ons als Landvoogd meêr in acht , Noch geen Bossu heeft hier Stadhouderlyke magt : Zy zyn geheel onwaard in Holland te gebieden : Neen , Koningsslaaven , neen , gy zyt by vryë Lieden Gehaat , als al te streng , te bitter slaafsgezind , Te doof voor 't Burgerrecht , verbysterd en verblind Door 't Kroonengoud ; den Staf te zien doet hen verbleeken Of bloozen ; maar de Prins durft voor uw rechten spreeken , En voor uw Vryheid zelf den Sabel zwaaijen !	Fear_BodilyProcess_Shame
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3201.s.3	Hy Is meêr 's Lands Vader nog dan Hoofd der Staat voogdy !	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3201.s.4	Hy , uit het Duitsche bloed , uit Vorstelyke looten , Uit Keizer Adolphs Stam roemruchtig voortgesprooten , Verheft het Nassauws huis , door deugd , in heerlykheid , Verr ' boven allen rang en alle Majesteit .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3201.s.5	Dit streept drie kleurde Merk , dit Vaandel van Oranje , Beschermd door 's Prinssen arm en Hollands Leeuw , zal Spanje Nog strekken tot behoud , na 's Konings hoogmoed En 't vry Batavisch volk , met luister , zegepraald .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3201.s.6	Oranje strydt voor 't Land , uit Vaderlyke ontferming ; Uit liefde voor dit Volk en teedre zielserberming , Put hy zich zelven uit , verteerd zyn geld en goed , En steekt zich diep in schuld , ja waagt zyn Vorstlyk bloed : Wy vechten slechts om roof en om ons ryk te maaken ; Maar hy wordt , strydende , arm , vecht om uw boei te slaaken , En om de Vryheid hier te vesten op haar ' Troon !	Emotion_Love_Compassion
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3201.s.7	Volgt dus zyn Hoogheid na , dan staat de kans ons schoon , Om zulk een ' vryën Staat in Neêrland op te richten , Dat menig Koning kryk voor zyne magt moet zwichten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3201.s.8	Intusschen laate ik elk het vreugdbedryven toe , Dat ieder zyn geluk door juiching blyken doe ; Nu Spanjes overmagt dit Eiland moest verlaaten Staat onze Zege vast ; nu hebben myn Soldaaten Eerst recht verwonnen ; nu , nu is de Burgery Van Voorne en van den Briel verlost van dwinglandy .	Joy_Emotion_EmotionalAction_Happiness
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3201.s.9	Terwyl hier de eerste grond ter Vryheid is gelegen , Zal onze Oranjevorst , met zynen Heldendegen , De strenge koord , die ons tot nog aan Spanje bondt , Ontknoopen met verstand , en dees staatzieke wond , Waaruit heel Neêrland bloed , zoo wysen heilzaam heelen , Dat hier geen Kastiljaan weêr komt voor Meester Daar 't dankbaar Nageslacht , meer dan de Tydgenoot , Ons braaf bestaan beroemd , gelyk hun magt vergroot ; Ja Hollands moedig Volk zal vreemde Koningryken , En Koningen , voor zich doen buigen en bezwyken .	Emotion_Other
+rivi001vero01_01.TEI.2.text.body.div.div.sp.3201.s.10	Viert dan een ' blyden dag die Neêrland dierbaar is , En , in der Vryën hart , in heilgedachtenis Van eere blyven zal , zoo lang hun Nageslachten Het slaafsche juk weêrstaan en de edle Vryheid achten .	None
+rivi001vero01_01.TEI.2.text.body.div.div.sp.stage.3165.s.1	Hy plaatst het Oranjevaandel naast de Speer en Vryheids Hoed , zettende vervolgens , aan de andere zyde , het Hollandsche Wapen .	None
+rivi001vero01_01.TEI.2.text.body.div.div.stage.3203.s.1	Einde des Vyfden Bedryfs .	None

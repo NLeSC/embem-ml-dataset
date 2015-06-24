@@ -1,0 +1,864 @@
+stee033tham01_01.TEI.2.text.body.div.head.198.s.1	Thamas Koelikan , of doen verovering vinden hebben Mogolsche rijk ; Treurspel .	None
+stee033tham01_01.TEI.2.text.body.div.head.199.s.1	eerst bedrijf .	None
+stee033tham01_01.TEI.2.text.body.div.head.200.s.1	eerst toneel .	None
+stee033tham01_01.TEI.2.text.body.div.stage.202.s.1	Nadir , Nasser .	None
+stee033tham01_01.TEI.2.text.body.div.sp.speaker.204.s.1	Nadir .	None
+stee033tham01_01.TEI.2.text.body.div.sp.215.s.1	o Ja , ik waard zode !	None
+stee033tham01_01.TEI.2.text.body.div.sp.215.s.2	hebben geven ik velen genoegen , die gei , om bij u ' rank onsterflyke eer te vroeg , afkerig vinden doen rusten die gij in ik hof genieten , ik smeekte die ik uw uiten Ispahan ontbieden ' .	Joy_Emotion_EmotionalAction_Desire
+stee033tham01_01.TEI.2.text.body.div.sp.215.s.3	gei nopen ik , door u ' moede en glorieryk verlangen , mede vreugde in Lahor , in ik leger , uw te ontvangen .	Joy_Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.sp.215.s.4	gei zullen , na u begeerte , op zijn keizer oorlogsmagt , zode talryk alles ik ooit te vellen hebben brengen , Hier , in zijn waggelen rijk , onfeilbaar triomferen : Die vijand kunnen geren heir vinden Persianen karn .	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.sp.speaker.218.s.1	Nasser .	None
+stee033tham01_01.TEI.2.text.body.div.sp.227.s.1	ik vorst , hoe teder u gul ik ' oud broeder vleien , ik hebben meer bewijs , dan hij , vinden u genegenheid : laten hij gans Persie in u afzijn vrijen bestieren ; Ik plukken , door uw leiden , hier eeuwig laurier .	None
+stee033tham01_01.TEI.2.text.body.div.sp.227.s.2	verwachten die Nasser zien vol moed , gelijk een ' zode vinden groot Nadir voegen , in het oorlogsveld betoon ' .	None
+stee033tham01_01.TEI.2.text.body.div.sp.227.s.3	Gelei u volk te strijd ' .	None
+stee033tham01_01.TEI.2.text.body.div.sp.227.s.4	zijn zijn mijn offerande ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.227.s.5	Elk uur , elk ogenblik vertoeven zijn ' ik schande .	None
+stee033tham01_01.TEI.2.text.body.div.sp.252.s.1	doen dartel Mahomet , verschrikken , vinden laf aard , Door vleier dwaas bestieren , de legerstafs onwaard ' , velen meer in weelde dan in oorlogskunde ervaren , weerstreven ik mede een heir vinden moedeloos schaarde ; Ik tijgen de Industroom , zelf zonder tegenstand , rijden over ; Lahor zijn verwinnen ; het gans landen mede zijn vijand bloeden bedekken : mare om ik legervanen Een ' wegge rotten in hebben harden vinden Indostan te baan , worden kloek beleggen vereischt , niet minnen dan krygsgeweld .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.252.s.2	doen roekeloosheid zijn geren kenmerk vinden een ' held .	None
+stee033tham01_01.TEI.2.text.body.div.sp.252.s.3	doen keizer , in zijn heir begraven mede zijn groot , In zijn verschansing door ik bende insluiten , beroven vinden toevoer , worden , hoe listig hij het verbloemen , vinden hongersnood drukken ; hij zijn te vallen doemen : mare eer ik strydbaar volk , door wij mede wis schrede Op het glibbrig spoor vinden eer stoutmoedig voortreden , Die laf menigte in zij sterken zullen verslaan , moeten zij doen hongersnood te deel doel vergaan : Of zode doen vijand zelf , tot wering die ellende , Een ' aanval durven bestaan op ons legerbenden , Dan wachten , in het openen veld , hebben Persiaansche stalen Op het onbedreven heir een vroeger zegepralen .	None
+stee033tham01_01.TEI.2.text.body.div.sp.264.s.1	gei zullen uw hier , niet minnen dan op doen Agwanen , wreken .	None
+stee033tham01_01.TEI.2.text.body.div.sp.264.s.2	doen vorst vinden Indostan , die zijn verbinden durven breken , Die door hoogmoedig schrift uw eest vermetel honen , Die thans , in het mijden vinden zijn krijgsmacht , vrezen betonen , wieden velen geringer tal vinden bende kunnen versagen , Die eerelooze vorst verdiend doen wreed plaag : Ja , in zijn laf bestaan , zijn het hij te groots een eer , die hij zijn straffen ontvang ' door het Persiaansch geweer .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.1	u drift , u jeugdig harden voeren uw vinden het spoor de rijden : doen keizer Mahomet hebben roemenswaarde zede : Veracht hij niet te velen ; beklagen zijn ' tegenspoed .	None
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.2	Indien ik waar , alles hij , in wellust opvoeden , Gewoon in wulps plegen , in dartelheid te leven , En aan een vleien hof een dwaas gehoor te geven ; Ik zij , niet minnen dan hij , hoogmoedig , ontrouw , laf , Een zwak beschermer zijn vinden kroon en legerstaf .	None
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.3	zijn voorspoed zijn te groots , en maken hij onvermogend .	None
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.4	Die ryksbestierder , hoe verbasteren , zijn meedoogend , Tot weldaen steeds geneigd en tot vergiffenis , Zoverr ' zelf , die zijn harden hierin te deugdzaam zijn .	None
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.5	geren snood wraakzucht hebben vermogen op zijn zin : hij pogen door dwingelandij geren schat aan te winden : hij zij minnen keizer zijn , dan vader , op zijn ' tronen , Indien hij , minnen geluk , meer tegenspoeds gewoon , zien hebben geoefent in het bestieren vinden zijn staat , En minnen vermogen aan zijn vleien hof laten .	Emotion_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.6	doen vleitaal baard de vallen vinden het volkryk Indostan , schonen Nizamelmoluk , in spijt vinden Alikan , uiten zuchten voor Mahomet , voor het heil de onderdaan , die dwazen keizer in oprechtheid durven vermanen , hij toon die zijn macht , hoe groots , niet kunnen bestaan , Indien hij weigeren op zijn staat achten te slaan , En die , hoe meer hij zijn in waardigheid verheffen , Hoe meer hij zijn verplichten voor landen en volk te leven .	None
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.7	die vorst , mede al zijn heir , alsof hij feestdag vuren , In blinkend praalgewaad uitsporig opsieren , Aan het krygsvuur ongewoon , verzeld vinden all ' zijn vrouw , die vorst moeten Indostan de legerstaf betrouwen ; de lafsten opperheer , die door onwetendheid ontelbaar bende hier te slachting hebben leiden .	None
+stee033tham01_01.TEI.2.text.body.div.sp.309.s.1	u Persianen , die , door heldenmoed bewegen , te wis zegepralen in het krygsveld zijn tijgen , bedrijven in de strijd , te oorlog opvoeden , Verwachten meer geluk vinden u beleggen en moede .	None
+stee033tham01_01.TEI.2.text.body.div.sp.309.s.2	wie zieden u dapper vuist , gewoon te triomferen , Welhaast mede weinig volk gans Indostan verheeren .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.1	ik hebben mede deze klein heir ik ' toeleggen niet bestaan , het En zijde ik vijand door zijn groot zijn ' verraen , Die , torn ik arm zien op doen Agwanen hebben wreken , ik nopen in deze rijk hebben oorlogsvuur te stoken .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.2	zijde aanzien trouweloos ik hunn ' bijstand aangeboon , Opdat ik Alikan verhieve op zijn keizer tronen .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.3	Die snood voorwaarde zijn door ik niet aannemen : ik hebben echter heen misleiden , om tot ik witten te komen .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.4	uiten schandlyk zelfbelang hebben trouweloos Alikan , Arglistig ondersteunen vinden al zijn vloekgespan , zijn ' keizer , om het verraad door ik beleggen te stijf , doen groot feil vinden een ' veldheer doel bedrijf .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.5	mare doen aanslag zijn vergeefs : het Mogolsche ryksgebied , Al baten ik doen ontrouw , zijn voor die verrader niet .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.6	zijn gruwzaam wanbedrijf zullen hij in het korten berouwen .	Emotion_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.head.328.s.1	Tweede toneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.330.s.1	Nadir , Nasser , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.332.s.1	Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.338.s.1	ik vorst , uiten zijn vijand heir zijn twee Mogolsche vrouw Hier aankomen : zijde , na het schijnen vinden hogen rank , begeren uw te zieden ; een zaak vinden groots belang , Die al spoed vereischt , aan uw bekennen te manen .	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.338.s.2	Ik doen zij , op zij bede , tot aan u tent genaken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.343.s.1	Gelei doen vrouw hier .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.346.s.1	Nadir vervolgen , terwijl Malek vertrekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.348.s.1	Wat ongemeen geval !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.354.s.1	Verwonderd , weten ik niet wat ik vermoeden zullen .	Emotion_Wonder
+stee033tham01_01.TEI.2.text.body.div.div.sp.354.s.2	Wat staan wij , heil of ramp , uiten deze komst te wacht ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.354.s.3	Twee vrouw in u heir !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.354.s.4	het verbijsterd ik gedachte .	Emotion_Wonder
+stee033tham01_01.TEI.2.text.body.div.div.head.356.s.1	Derde toneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.358.s.1	Nadir , Nasser , Milko , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.360.s.1	Milko .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.1	o Nadir !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.2	op het gerucht vinden u grootmoedigheid , Niet minderen dan u moede door Azie verbreiden , durven zien een teder vrouw een ' toeleggen onderwinden , die ieder waerelddeel zullen zonder weerga vinden ; Een ' toeleggen , die welhaast ik dierbaar vaderland te vallen rukken , of herstellen in zijn ' alouden staan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.3	gei zullen , hoe oog roemen door steeds te zegepraal , o Held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.4	op deze dagge de groot lof behalen , Indien u zelfbelang voor uw deugd zwichten ; zode gij iets bestaan , die nooit een koning hebben verrichten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.5	hebben Indostansche heir hebben , voor ontelbaar mond , Gebrek aan spijs ; het worden vinden hongersnood verslinden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.6	ik slachten , ( o yslykheen ! ) ik slachten verwoed elkaer ; Elk krygsknecht worden , uiten node , zijn ' spitsbroeder moordenaar , Daar het ros , daar doen elefant wij moeten te voedsel strekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.7	ik durven hebben nodig aan de keizer zelv ' onttrekken ; Ja , onder het muit vinden eerbiedigheid ontbloten , alles hij misnoegen tonen , hij dreigen mede doen dood .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.8	doen keizerin , voorlang door wanhopen aandrijven , brengen , ondank ons zorgen , in het heimlyk zien om het leven .	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.9	In wanorde , in gebrek , in woede , in moordgekerm , zullen haasten , het en zijde u gul zien over wij erberm ' , doen zwaar hongersnood wij gans heir vernielen .	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.10	weder , weder die onheil ; tonen wat deugd uw bezielen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.1	Mevrouw , u stout bestaan verbaasd ik : gei allee beschamen en vorst en volk : u moede zijn ongemeen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.2	gei nopen ik , die ik uw doen groot gul bewyze , ik staatzucht overwinn ' , ik ' vijand sparen en spyze !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.3	gei vrezen hier geren gevaar !..	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.4	Door u heldinnedaad Bewyst gij u zuiver trouwen voor u ' gedreigden staan , terwijl een talryk heir zichzelf geren ' wegge durven baan Door minderen bende heen , zien schandlyk baden in traan .	Emotion_BodyPart_BodilyProcess_Loyalty_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.5	Indien gei waarheid spreken , dan tonen ik u verhalen , die ik , zodra het ik lusten , onfeilbaar zegepralen , En dus verhinderen die ontelbaar legerschaar , Door hogen node persen , door het stalen zien het leven sparen : gei stellen , zode gei niet veinzen , grootmoedig in ik hand de ondergang en het heil vinden vorst en vaderland , verwachten een wonderdaad , en tonen ik een gaadlooze achten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.6	ik zij , tot mijn eer , misschien voldoen aan die verwachting , uw toon die ik deugd voor ik belang niet zwichten , Ja iets bestaan , die nooit een koning hebben verrichten ; Indien een vijandin , die , ver ' vinden ik te vrees , ik het groot geheim betrouwen , ik niet verdenken moeten wees .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.7	ik verdiend , in plaatsen vinden roemen , door lichtgeloovigheid , doen schande , die een vrouw mijn eerzucht hebben misleiden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.1	ik vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.2	kunnen zij verhalen uw achterdocht verwekken ?	Suspicion_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.3	Hoe !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.4	zij een logen zij tot voordeel kunne strekken ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.5	Gyzelf hebben ik gemeld , die zijn vijand legermacht , beroven vinden toevoer , zijn tot hongersnood brengen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.6	vergeven ik , die ik uw te stout durven tegenspreken , En uiten meedoogendheid voor een vijand smeken , wie hoogmoed zijn vernederen , en die , door uw behoeden , uw doen eis toen zullen staan , die gei rechtmatig doen .	Worry_Emotion_EmotionalAction_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.1	doen traan , loods storten uiten twee bekoorlijk oog , Verwekken in u ' geest een spoedig mededogen !	Emotion_BodyPart_BodilyProcess_Compassion_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.2	Een schoon hebben op uw velen magts door veinzerij !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.3	Bedwing u drift , prins ; betrouwen doen zaak aan ik .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.4	Mevrouw , die gij inderdaad uw zullen een gul beloven , Die nimmer weerga vinden , gaan ik begrip te boven : ik vleien zien niet zode liggen : gei durven te velen bestaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.5	ik zij aan u ' hongersnood in het minst geren twijfel slaan , Ja , zonder die ik het melden , u groots gevaar vermoeden , doen u verhalen ik niet hebben tegendeel bevroeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.6	zullen gei , betrouwende op ik goedheid , onbedacht ik melde , die u volk elkaer wanhopend slachten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.7	Dus , mede een wis hopen op u bederven , ik strelen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.8	moeten gei , u ' vorst getrouw , niet voor een ' vijand helen die u rampzalig heir , door deze omkeer , doen macht benemen zijn tot al tegenweer ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.9	Vergeefs verbergen gij ik de grond vinden u gepeins : u list bedriegen ik niet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.10	Waartoe dan meer te veinzen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.11	zeggen , die u leger , door geren ' hongersnood ontrust , vinden woede , binnenkryg , nog doodsgevaar bewust , ik hopen mede meer geluk te weer , dan voordezen , zode u gewaand node ik zorgeloos doen wees .	Emotion_Hope_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.12	Op welk een ' zwak grond u hopen ook steune , ik vinden die gij op die voeden allee uw het veinzen onderwind .	Emotion_Hope
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.13	mare denken niet die ik ooit , door minnen voor ik te wak , Myzelven krachteloos , u ' keizer sterk zullen manen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.2	zijn gei Nadir , door gans Azie vermaard , wie edelmoedigheid alom verwondering baard ?	Emotion_Wonder
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.3	gei , die uw menigwerf in bloeden , in traan baadde , gaan mede u zelfbelang , niet mede u deugd te raden , Ja tonen lafhartigheid , terwijl gij ik betigt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.4	de minst krygsknecht zij , waar ons node verdichten , het verbreden vinden die mare ' velen meer dan ik betamen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.5	doen groot Nadir moeten de veinzerij zien schamen .	Emotion_Shame
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.6	gei hout ik niet verdenken : u oogmerk blijken ik klaar .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.7	bedienen uw schandlyk vinden wij jammerlijk gevaar ; Bestry een weerloos heir ; verdubbelen ons ellende ; voldoen u ' wreed lusten ; moord ons legerbenden ; vernielen gans Indostan door u bloeddorstig stalen ; veinzen geren geloven te slaan aan ik oprichten verhalen ; Bedek u schande dus ; zorgen die u moord de lustre vinden u geveinsd deugd niet t'eenemaal verduister '; Opdat doen wereld wanen ' die gei door heldenmoed , Niet uiten lafhartigheid , op het weerloos leger woeden .	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.8	Rampzalig vaderland ! ik hebben uw , uiten roekeloosheid , Om u behoudenis , leveren aan doen boosheid , uw al hopen ontrukken vinden ooit door heldendaen , uiten eedle wanhopen , vinden u ' vijand uw te ontslaan .	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.9	ik gevoelen , door deze daad , een knaging ik bestrijden , Die , in u ' zwaar druk , ik fel smarten doen leiden .	Emotion_BodilyProcess_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.1	Wat hatelijk verwijten !	Emotion_Hatred
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.2	gei achten ik wreed en laf !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.3	gei honen ik !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.4	Deze talen verdiend een zwaar straffen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.5	mare , zijn ik laf en wreed , ik zullen het voor uw niet wees : vinden ik gevoeligheid staan uw geren ramp te vrees .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.6	ik zullen Nizamelmoluk uiten zijn keizer heir ontbien : zien , zien dan hoe ik ik vinden u gevaar bedienen ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.head.491.s.1	vieren toneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.493.s.1	Milko , Nasser , Semire .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.513.s.1	Mevrouw , wezen niet beducht : u groot moede bevredigen de vorst niet minderen dan u argwaan hij beleedigt : zijn edelmoedigheid , die gei in twijfel slaan , te zwaar toetsen stellen door u heldinnedaad , zij minderen in zijn ziel voor u belang spreken , zode hij , zelf door het verwijten , u moede niet zijn ' blijken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.513.s.2	zijn aard zijn ik bekennen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.513.s.3	begeren gij die zijn zode mede u rampzalig rijk meedoogendheid betoon ' ?	Emotion_Compassion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.513.s.4	hebben staan aan uw allee : gebie : ik zullen uw vernoegen ; uiten ijver voor u heil ik bede bij doen uw vroeg ; u vorst , u legermacht , u schreijend Indostan , Zolang het ik glorie duld , beschermen zijn ik kunnen .	BodilyProcess_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.513.s.5	mare eer ik iets verrichten ' , verwachten ik , tot beloning vinden ik beloftenis , een klein gunstbetooning : betrouwen ik een geheim ; ontdekken u ' naam aan ik : het zijn billijk die ik weten ' voor wij ik bijstand zijde .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.526.s.1	gei tonen u deugd , prins , door edel mededogen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.526.s.2	u bijstand zullen , voor wij , bij Nadir velen vermogen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.526.s.3	mare u grootmoedigheid , die ik verwonderd maken , Die uw in yvervuur zelf voor u ' vijand blaken , zij , zode ik weigering vinden uw ik ' naam te ontdekken uw enigszins weerhouden , uw tot geren glorie strekken .	Emotion_Wonder
+stee033tham01_01.TEI.2.text.body.div.div.sp.526.s.4	Ik eisen niet voor myzelve een overtuigend blijk vinden edelmoedigheid , mare voor het Mogolsche rijk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.526.s.5	Ik zullen , op u bevel , ik ' naam voor uw niet helen , Zodra gei waardig zijn in ik geheim te deel .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.535.s.1	Mevrouw , indien u rank u fierheid evenaren , Dan worden gans Indostan misscheen om uw sparen , En , door een huwelijk vinden twee dierbre vredepanden , Aan Persie verknopen mede onverbreekbre band .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.535.s.2	Ach !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.535.s.3	zode uw het vaderland na eisen te hart gaan , verbergen ik geren geheim , waarin ik hopen bestaan .	Worry_Emotion_Hope_BodilyProcess_Loyalty
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.1	ik hebben uw verstaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.2	gei pogen doen deerniswaarde ellende uiten enkel baatzucht vinden wij leger af te wonen .	Emotion_Greed
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.3	zijn deze meedoogendheid ?	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.4	doen hopen op heldenvreugd , Op eeuwigdurende eer , op het waardig lot de deugd , die aan een groot ziel onfeilbaar zijn beschoren , behoren uw voor wij rijk tot bijstand aan te sporen .	Joy_Emotion_Pride
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.5	Ach , prins !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.6	zode uw doen deugd na eisen te hart gaan , ontzeggen ik dan geren helpen , waarin ik hopen bestaan .	Worry_Emotion_Hope_BodyPart_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.sp.560.s.1	u driftig achterdocht , mevrouw , zijn onrechtvaardig : ik plicht zijn ik velen meer , dan ik belang , waardig .	Suspicion_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.560.s.2	Ik zullen u ' eisen voldoen ; en al doen minnesmart , Door u bekoorlykheen veroorzaakt in ik harden , Kloekmoedig weerstaan , ja trachten te overwinnen , Totdat u rank ik blyke , en ik uw mag beminnen .	Emotion_BodyPart_Love_Sadness_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.560.s.3	ik hebben rijden genoeg bespeuren : u fier weigering , Die hooggeboornen voegen , verbannen ik twijfeling .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.560.s.4	Vaarwel .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.560.s.5	Ik zullen niet weer voor u zichten verschijnen , Eer doen ijver , die ik blaken , u wantrouwen doen verdwijnen .	Suspicion_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.head.562.s.1	vijfde toneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.564.s.1	Milko , Semire .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.566.s.1	Semire .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.577.s.1	Prinses , wie zieden eerlang , misleiden ik hopen ik niet , Door zijn vijand deerenis een einde aan wij verdrieten , wij heir vinden hongersnood , vinden onverdraagbre plaag , hebben weerloos vaderland vinden oorlogswoede ontslaan , te eenemale in rusten , in macht , in eer herstellen , En uw in echt vereend mede deze janhen held .	Emotion_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.577.s.2	zode zullen wij ongeval uw tot geluk verstrekken , uw aan doen minnedrift vinden Alikan onttrekken , uw paar mede een ' prins , die , door een eedle daad , Zoveel u minnen verdiend , alles Alikan u ' haten .	Emotion_Hatred_BodilyProcess_Love_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.1	Ja , zijn keizer gunsteling , Semire !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.2	doen ik gruwen : doen vorst pogen ik vergeefs aan Alikan te huwen , Aan het yslyk vloekgedrocht , die , mede een trouweloos feit , mede ryksverraad betigt , arglistig vrijpleiten , Op zijn betigters , weer getrouwheid zijn blijken , zien fel wreken hebben door zijn verwoed treek .	Emotion_Disgust
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.3	mare spreken ik vinden geren liefde : in deze droef staan behagen ik niets , dan het heil vinden het kermen vaderland , o Ongelukkig vorst !	HeavyHeartedness_Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.4	o kwijnen onderzaten !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.5	o Dierbaar Indostan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.6	mogen uw ik bijstand baat !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.7	Ik zijn geheel voor uw : ik zij , in u doodsgevaar , Kloekmoedig meer bestaan , indien het ik mogelijk zijn ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.600.s.1	doen nicht vinden Mahomet , uiten keizerlijk loot , uiten Tamerlans slachten , uiten Aurengzeb spruiten , Rechtaarde Milko geven , door onnavolgbren moede , Een overtuigend blijk vinden zij doorluchtig bloeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.1	ik hebben geren gevaar ontzien , om heimelijk te vlucht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.2	zijn heen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.3	na zijn vijand heir , daar het all ' ik staan te duchten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.4	Wat kunnen een vrouw bestaan door klacht , door geween ?	Emotion_BodilyProcess_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.5	ik moede zijn groots genoeg ; mare ach !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.6	ik macht te kleed .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.614.s.1	gei zullen door fier deugd op Nadir meer vermogen , Meer winden op zijn ' zode door twee bekoorlijk oog , Tot heil vinden het zuchten rijk , dan ooit , door wapenkracht , wij heir verrichten kunnen op zijn vijand legermacht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.633.s.1	Ik weten , schonen Nadir , tros , vermetel , ongenadig , Door dol wraken vervoeren , afgrijselijk wreed , moorddadig , Wanneer zijn gramschap woeden niets in hebben leven sparen ; die echter menigwerf zijn edelmoedig aard zijn grimmigheid weerhouden ; die hij , door deugdbetooning , de scepter meer verdiend dan zijn onttroonde koning : zijn wreed oploopendheid , zijn misdrijf baard hij smarten ; mare doen edelmoedigheid zijn eigen aan zijn harden .	Emotion_Sadness_Anger_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.div.sp.633.s.2	geren ' snood Alikan , afkerig vinden doen wreed , Ontbied hij , in zijn heir , uiten ons legerstede ; mare Nizamelmoluk , een ' loffelijk ' onderdaan , Die , Mahomet getrouw , hebben rijk niet zullen verraen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.633.s.3	deze geven ik hopen : o ja ! het zullen ik misschien geluk ' Aan het gruwzaam ongeval de droef staan te ontrukken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.633.s.4	komen , laten wij Nadir zieden ; opdat ik spoedig blijk ' Wat deze vorst verrichten voor het Indostansche rijk .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.635.s.1	Einde de eerst bedrijf .	None
+stee033tham01_01.TEI.2.text.body.div.head.639.s.1	Tweede bedrijf .	None
+stee033tham01_01.TEI.2.text.body.div.stage.643.s.1	Nizamelmoluk , Alikan , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.sp.speaker.646.s.1	Malek , tegen Nizamelmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.sp.651.s.1	ik koning willen uw hier zijn oogmerk openbaar .	None
+stee033tham01_01.TEI.2.text.body.div.sp.651.s.2	Ik weten zijn opzetten niet : vrezen echter geren gevaar : u eedle vijand zullen zijn glorie niet verraen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.651.s.3	ik zullen hij u beide komst in het leger doel verstaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.655.s.1	Nizamelmoluk , Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.657.s.1	Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.666.s.1	gei , Nizamelmoluk , ontbieden door de koning , genieten , door zijn vijand keuren , een groot gunstbetooning , Een ' dierbren voorrang , die genoeg te kennen geven Wat achten deze vorst voor u verdiensten hebben ; En die hij niemand , uiten wij leger , na zijn oordelen , zijn groots bestaan kunnen doel gedyen tot zijn voordeel , Dan gei , die onbeschroomd zijn heldendeugden roemen , En mede geren duistre talen zijn ' krygstogt wettig noemen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.669.s.1	Nizamelmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.674.s.1	hebben voegen aan Alikan zode stout vinden ik te spreken ; Aan uw , wie onschuld niet genoegzaam zijn blijken , Aan uw , die vinden verraad in schijn uzelv ' verschonen , Wanneer gij u ' ijver dus voor het vaderland betonen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.681.s.1	mijn ongeveinsd trouwen zullen onweerspreekbaar blijk , En deze verdenken ontbod daarover het vonnissen strijken .	Emotion_Loyalty
+stee033tham01_01.TEI.2.text.body.div.div.sp.681.s.2	zode iemand iets tot schae vinden Indostan besluiten , Dan zijn hij schuldig die doen vijand hier ontbieden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.1	Een overtuigend blijk !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.2	zode achten gij ik dan schuldig ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.3	zode moeten dan Alikan , voor het vaderland zorgvuldig , bekommeren die ik vorst en volk verraden zij , ik hier verzellen ? het rijk behoeden door zijn trouwen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.4	Doorslepen hoveling !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.5	gei zullen ik niet misleiden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.6	laten wij doen logen uiten doen waarheid onderscheiden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.7	doen vijand , hebben ik ik bezoedelen mede verraad , En spannen ik mede hij aan tot nadeel vinden de staan , zij , door ervarenis in staatkunde onderwijzen , Niet roekeloos ik ontbien , mare al argwaan vrees .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.8	hebben Nadir uw ontboon , ik spreken uw vinden ontrouw vrijen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.9	Ik geven geren reden tot achterdocht , mare gei .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.10	u ijver , die voor het rijk uw nodeloos doen wak , bedekken in zijn keizer geest ik pogen verdenken te manen , uw aanspoorde om mede ik na zijn vijand heir te gaan , Misschien uiten enkel vrezen die ik uw hier mogen schaen , Deze ijver geven ik rechte , o Alikan !	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.11	te denken , die gei , voorheen verdenken , u ' plicht , u trouwen durven krenken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.714.s.1	Ik duchten , op wis grond , die uw arglistigheid , Die ik doen zwichten , en uw vrijen vinden ontrouw pleiten , uw zullen door Nadirs gul de rykstroon doel bekleden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.714.s.2	doen staatzucht zijn spitsen in gruweldaen te smid .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.714.s.3	ik zeggen andermaal , die gei , die Nadirs deugd pryst , gei , wieden doen vijand thans doen groot gul bewyst , bij zien in het heir ontbied , om uw allee te spreken , ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.725.s.1	gei kunde ik ' aanslag , zode ik schuldig zijn , verbreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.725.s.2	gei , die bij Nadir door u bijzijn ik bespieden , Verhoe die toeleggen ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.725.s.3	Neen , gei vrezen mijn ontrouw niet ; gei vrezen allee , die ik , vinden argwaan innemen , u schandelijk verraad trouwhartig voor zullen komen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.725.s.4	denken , hoe gei meer ik tergen , in schijn ik schuldig achten , uw zuiveren , hoe ik meer u ' ijver houden verdenken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.1	varen voor ; verbergen voor ik de grond vinden u gepeins ; bedriegen ik , zode gei kunde , door u behendig veinzen ; Verdenk , beschuldig ik ; voegen al u kunst byeen : ik zien echter , uw te spijt , door al u loosheid heen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.2	Indien gij u doelen bereiken , staan al ik te duchten : gei zullen de tronen bekleen ; ik in u boeien zucht , Of door een wreed dood u grimmigheid voldoen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.3	Aanstaande keizer !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.4	spreken : wat loten , u wraken te zoenen , zullen ik beschoren zijn ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.5	of staan ik niets te vrees ?	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.6	Ik weten die Alikan u gunsteling niet zullen wees .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.7	Dan zullen het Mogolsche rijk , door uw zorgen bewaken , ontheffen vinden een ' vorst , wie ryksbestier gei wraken , volmaken gelukkig zijn , het heelal te wonder strekken , En koning Nadir uw voor al ramp dekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.1	Indien gei het rijk niet winden door uw arglistigheid , hebben zijn te minst een goed waarmee gij u staatzucht vleien .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.2	Ik kunnen , uiten achterdocht , uw het zelfde feit verwijten , die u geveinsd drift te bits ik toen durven bijten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.3	gei voeren die stout talen , dewijl gei schandlyk wanen die uw doen vijand rijden een ' wegge te rykstroon banen : gei kunde u dwaas hopen , u blijdschap , niet verbergen .	Joy_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.4	Of durven u overmoed zode onbeschaamd ik tergen , Opdat ik roekeloos uiten gramschap iets bestaan , Waardoor ikzelf ik storten in zijn keizer ongenade ?	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.5	Neen , listig Alikan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.6	gei zijn niet meer ervaren , In u vermetel jeugd , dan ik in rijp jaar .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.7	Ik , die hebben veinzen doemen , die all ' u treek kennen , Die vinden u ' wrevlen nijd hebben smaadlyk doelwit zijn ; Ik , door geren gramschap , door gene eigenbaat bewegen , zien al u poging aan mede medelijden oog .	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.8	kaar weder tot u ' plicht ; betoon een zijn berouw ; beschermen hebben rijk , uzelv ' , door ongeveinsd trouwen .	Emotion_Loyalty_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.9	Ik zullen , zodra ik uw voor het vaderland zien leven , u list , u veinzerij , u ' toeleggen uw vergeven ; Ja , uiten erkentenis , uw eren alles een ' vriend , Die ik verachting nooit door ontrouw hebben verdiend .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.776.s.1	Nadir , Nizamelmoluk , Alikan , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.776.s.2	Lyfwachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.790.s.1	tonen , zode gei Nadir zijn , gewoon aan eedle daad , Of Alikan bij uw zijn ' keizer hebben verraden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.790.s.2	mijnheer , ik zijn verdenken vinden zulk een gruwelstuk , bij deze meegezant , bij Nizamelmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.790.s.3	hij zullen , zodra gei hij doen waarheid zullen ontdekken , mijn onbevlekt trouwen niet meer in twijfel trek ; mare , t'eenemaal rusten op u getuigenis , doel blijk hoe volmaken voor uw zijn achten zijn .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.790.s.4	u deugd , u glorie eisen die gei ik trouwen verdedigen , Nadien zijn argwaan uw , niet minnen dan ik , beleedigt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.790.s.5	spreken tot mijn onschuld niet , dan voor uzelv ' allee .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.1	zij ik getuigenis geloven verdienen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.2	Neen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.3	het zij ik tot schande , en uw tot erg lijden gedyen : Een vijand zijn altoos verdenken vinden veinzeryen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.4	ik zullen echter klaar doel zieden aan u ' gedreigden staan , die Nadir niets begeren door bijstand vinden verraad .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.5	horen , Nizamelmoluk , wat ik hebben voornemen , En waarom ik ontbod uw in ik heir doen komen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.6	u leger , uitteren , vinden hongersnood geplaagd , Op het enkel zichten een Persiaans vertsaagd , Door binnenkryg verdelen , vinden hopen ontbloten , aan het muit , Aan het moord , machteloos ik zegepralen te stuiten , u talryk leger worden vernielen , zodra het ik lusten : deze rijk zijn in ik macht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.7	stellen echter uw rusten : ik zullen in u weerloos heir , het geren door onlydbre ellende ik ziel tot deernis nopen , mede fris legerbenden geren ' schandelyken moord , geren gruwzaam feit bestaan : Ik eisen geren ' stroom vinden bloeden ; ik dingen na lauwerblaen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.8	o Ja !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.9	ik willen ik gul aan Indostan bewijzen , ik voordeel afstaan , en u kermen leger spijs , Indien u vorst , leren hoe weinig hij vermogen , zien willen behoeden door een billijk vredesverdrag .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.10	Die weldaad zullen meer vreugds verwekken in ik zin , Dan doen eer vinden door ik ' moede gans Indostan te winden .	Joy_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.1	mijnheer , ik kunnen genoeg besef welk een vreugde , Die al overtreffen , uiten waar heldendeugd In groot ziel spruiten , die het edel mededogen Verkiezen voor het wellen vinden het vijandelijk vermogen : Ook weten ik die u harden na zulk een blijdschap trachten : u weldaad , wij beloofd , zijn niet bij ik verdenken .	Joy_Emotion_BodyPart_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.2	geren laf vleierij doen tot u ' lof ik spreken : uw edelmoedigheid zijn Azie blijken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.3	vergunnen ik , die ik vragen ' hoe uw die zwaar elend ' , Die hongerswoede , die verdeeldheid zijn bekennen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.4	Of zijn uw niets gemeld ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.5	gei zullen , door louter gissen , Of door een vals berichten , doen waarheid kunne mis , En dus een eedle gul beloven , die , versmaden , En vruchteloos voor wij heir , u macht te boven gaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.6	geloven gij die ik vorst , door all ' u Persianen , zien , zode doen node hij dringen , geren ' wegge zij durven baan , mare , tot vermijding vinden een glorieryke dood , Lafhartig zij vergaan vinden zwaar hongersnood ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.7	Erken , indien gei het wanen , o Nadir !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.8	u verblinding .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.9	ik vrezen , in doodsgevaar , geren hagchlyke onderwinding : doen wanhopen , onbevreesd , vinden razernij verzeld , maken vinden een ' bloodaart zelf een ' zegepralend ' held .	Fear_Emotion_Despair_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.846.s.1	Alikan , tegen Nadir .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.856.s.1	Hoe heilryk zijn wij loten , nu ons legerschaar , Door hongeren niet geplaagd , beveiligen voor gevaar , vinden heldenmoed bezielen , tot tegenweer bereiden , geren ' danken verschuldigd zijn aan u meedoogendheid !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.856.s.3	u deernis , vreemd , verbazend , overbodig , verdenken vinden veinzerij , zij , zijn ' zij wij leger nodigen , Misschien , zodra gij wij hebben behendig uitgehoort , verkeren in wellen , in oorlogswoede , in moord .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.859.s.1	Nadir , tegen Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.1	gei achten ik dan bekwaam tot snood veinzeryen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.2	gei vrezen niet die die talen uw kunnen tot lijden gedyen ?	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.3	Indien ik trouweloos door list ik voordeel zoeken , Dan moeten gij zwijgen vinden u zorgelijk achterdocht ; Nadien ik , fel tergen door u vermetel spreken , In spijt vinden het vrijgeleide ' die honen zij kunne wreken .	Suspicion_Worry_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.4	gei tergen ik roekeloos , of beleedigt ik in schijn ; mare tonen u trouwen te velen , dan die zij oprichten zij zijn .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.5	wij schaamtloos , mede gevaar , een ' vijand durven trotseren , Om listig vinden zichzelv ' al achterdocht te weer , zijn veeltijds minnen bedenken op het welzijn vinden de staan , Dan op zijn zelfbelang , op lafheid , op verraad .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.6	gei spreken , alsof gei loods , ver ' vinden ik wraken te vrees , ik dienstig zijn wezen , of dienstig pogen te wees .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.881.s.1	gei wanen die deze talen ik spijt verwekken : mare neen ; Ik zijn uw die verplichten voor deze vrindlykheen , Die , schonen een vals gerucht ik glorie hebben schenden , doel zieden hoe Alikan aan Nadir zijn verbond .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.884.s.1	Nadir , tegen Nizamelmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.1	gei , die ik niet verdenken , en echter uw elend ' , u ' zwaar hongersnood , u ' binnenkryg ontkennen , gei zullen ontwijfelbaar doen waarheid ik ontdekken , Indien het geren ' argwaan , in u nadeel , zij verwekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.2	Een edel harden , alles het u ' , betrouwen zien onvervaard Op het onherroeplyk woerd een vijand vinden ik ' aard .	Emotion_BodyPart_Trust
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.3	mare ik willen deze oorzaak vinden ontkenning doel verdwijnen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.4	gei , Malek , doen terstond doen vrouw hier verschijnen , Ik zullen bewijzen , hoe , door wat onfeilbaar blijk , het Gevaar ik zijn bekennen vinden het Indostansche rijk , Ik doemen u loosheid niet ; ik prijs u veinzeryen , Zolang doen oprechtheid uw tot onheil zij gedyen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.5	mare alles gei zij zullen zieden , die , door heldinnetaal , vinden uw ellende ik een ongeveinsd verhalen Tot u verlossing doen , en ik tot mededogen Voor het kermen talloos heir een vijand hebben bewegen , Dan zullen gij , op die zichten volkomen overreden , behoeden voor lastertaal , bekennen het gene ik weten : Of zode gei listig nog een uitvlucht durven verzinnen , Weerspreek dan het zijn verbaal vinden eene uiten u vorstin .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.6	zijde komen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.7	Ontken ik nu de schrik , die gei betonen , Die uw vinden veinzerij beschuldigen , zij verschonen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.894.s.1	Tegen Nizamelmoluk , terwijl Malek vertrekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.916.s.1	Nadir , Nasser , Milko , Nizamelmoluk , Alikan , Semire , Malek , Lyfwachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.923.s.1	Mevrouw , gei zullen terstond na u begeerte aanschouwen die zien een groot ziel op Nadir mogen betrouwen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.923.s.2	zien hoe doen koning rijden , uiten mededoogendheid , Voor u ellendig volk een heilryk loten bereiden .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.930.s.1	Mevrouw , ik zullen u heir voor ondergang behoeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.930.s.2	mare Nizamelmoluk , uiten vrezen vinden kwaad vermoeden , ontkennen de hongersnood , die vorst en volk vernielen : u bijstand zijn ik nut .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.1	doen deugd , die uw bezielen , o Edelmoedig held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.2	voldoen aan ik verwachting .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.3	Nadien zij gaadloos zijn , verdiend zij een gaadlooze achten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.4	verwachten niet , nu ikzelve uw wij gevaar belijden , die Nizamelmoluk die waarheid uw ontstry ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.5	het Gevaar , die uw weerhouden de node de legerschaar vinden ons keizer aan de koning te openbaar , zijn het uw niet , mare het mijn ; ik hebben die daad verrichten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.6	ik ijver blaken voor het rijk : bekennen ; gei weten u ' plicht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.939.s.1	Tegen Nizamelmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.952.s.1	Prinses ! het verbaasd ik uw in zijn vijand heir te vinden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.952.s.2	wij zij , daar iemand zien een daad durven onderwinden , Die het rijk verdelgen of redden door onbedacht trouwen , vermoeden die Milko zelf die daad verrichten zij ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.956.s.2	Milko ? zijn keizer nicht ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.956.s.3	zijn het mogelijk het geren wie horen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.962.s.1	Prinses , u eedle rank , hoe oog gei zijn baren , strekken minderen tot uw eer , dan u heldinnemoed , Die u slachten verheffen , die vorst en volk behoeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.978.s.1	o Held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.978.s.2	ik kunnen voor uw wij krygswee niet verbergen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.978.s.3	het zijn noodloos uw voor wij een groot daad te vergen : gei weten die wie vergaan vinden hongersnood en moord : wij jammer deren uw : wie betrouwen op u woerd : Ik vrezen niet die gij u deugd baatzuchtig zullen verzaken , Door het minst kwaad gebruiken vinden ons elend ' te manen , Door wij te dwingen tot een schandlyk vredesverdrag .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.978.s.4	Een held , alles Nadir , doen velen minnen het geren hij vermogen , Dan het geren zijn glorie eisen ; kunnen zijn belang versmaden , Wanneer het geren hopen verschaffen tot nieuw lauwerbladen ; En stellen geren vreugde , geren ' roemen , in zijn vijand schande en schae , mare in meedoogendheid , in weldaen , in genae .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.1	zode zijn het .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.2	Ik zullen ik ' eisen op rechte en rijden vasten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.3	Ik eisen vinden Mahomet doen land , die , bewesten de Indus , door wellen , meinedig , tegen rechte , Aan het Indostansche rijk voordezen zijn hechten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.4	Aan Persie behoren doen koningklyke zetel , Door Tamerlan bouwen , doen onschatbaar tronen , vermetel vinden all ' u keizer alles zij wettig eigendom bezitten , wij ontroven : ik eisen die tronen wederom .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.5	Vorst Abas brengen weleer een legermacht te vellen , Opdat zijn bondgenoot zien op de tronen herstellen : mare keizer Homajoen , bevestigen in het gebied vinden het muiten Indostan , houden zijn beloven niet ; hij schenden hebben ryksverding , mede Persie sluiten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.6	u keizer staf aan ik het verdrag die bondgenoot .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.7	zelf Mahomet , verplichten in krijgen ik bij te staan , mare ongetrouw , hebben niet aan wij verbinden voldoen , torn het wuft Agwaansche volk , oproerig aanspannen , ik dreigen , en torn ik strijden in het rijk de Ottomannen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.8	Ik eisen vergelding voor zijn ontrouw , ik betoond .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.9	hij , die ik roekeloos in ik gezant honen , En telkens op de eisen , hij billijk voorschrijven , Een wrevelig antwoord , vol verachting , hebben geven , zijn echter , nu zijn ramp erbarmelijk voor hij pleiten , hebben voorwerp vinden ik helpen en mededoogendheid .	Emotion_Compassion_Disgust_Annoyance
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.10	hij komen , opdat ikzelf aan hij ik gul bewyze , Aan hij doen wreed schenke , en het kwijnen leger spyze ; hij spreken ' ik in deze heir ; hij zien , zelf deze dagge , Hoeveel zijn krygselende op ik gemoed vermogen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.11	gei , Nasser , zullen terstond , om hij ik ' willen te ontdekken , mede Nizamelmoluk na zijn vijand heir vertrek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.12	Ik wachten uw , binden het uur , mede Mahomet hier weer .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.13	hij blyke , door u komst , hoe ik een ' keizer eer .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.14	Prinses , ik zullen deze dagge , ver ' boven u verwachting , Voor u kloekmoedigheid een teken mijn achten Aan uw bewijzen , tot bevordring vinden doen vrede .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.15	gei zullen hier veilig zijn , alles in u legerstede .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.16	gei , Alikan , vertoeven .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1023.s.1	Milko , Alikan , Semire .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1035.s.1	Prinses , minnen uw doen koning ?	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1035.s.2	Of zij prins Nasser uw beminnen ?	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1035.s.3	ik eisen verschoning , Indien ik stout vragen uw enigszins misdoen : denken die een minnend harden gedurig argwaan voeden .	Emotion_BodyPart_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1035.s.4	zij Nadir goed uw zijn achten kunne toon , te vordering vinden doen vrede , dan alles hij beide kroon Vermaagschapt door een ' echt , die uw aan ik ontroven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1035.s.5	scheppen gei bedragen in deze achten , uw beloofd ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.2	zij deze achten ik niet tot genoegen strekken , Indien zij het vaderland aan het krygswee kunnen onttrekken ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.3	gei twijfelen die doen prins , of Nadir , ik beminnen !	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.4	gade , vragen deze aan hunzelf , zode gei het geraden vinden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.5	gei moeten blyhartig , om ik liefde woerd ' te wees , In plaatsen vinden het minnevuur de vijand laf te vrees , ik afstaan voor het geluk vinden het schreijend vaderland .	Fear_Joy_Emotion_BodilyProcess_Love_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.6	wij onvermogend zijn tot zulk een offerhand ' , wij meer zijn voordeel zoeken dan het voordeel ons staat , zijn mijn liefde onwaard ' , die moeten ik dodelijk haten .	Emotion_Hatred_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.7	ik harden , door uw ontlasten vinden al erkentenis , zullen echter meer bestaan dan het uw verschuldigd zijn ; het zullen uw , die het niet beminnen , nochtans trouwhartig rad .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.8	ik hebben uw , zijn of vals , betigt mede gruweldaad ; ik hout uw noch verdenken , die gei , om zijn keizer tronen , de vijand , tegen het rijk , u helpen hebben aangeboon : hij schijnen , zode gei hij rijden u ' dienst niet hebben huldigen , verwittigen die ik uw mede ontrouw hebben beschuldigen ; hij woerd uw uiten wij heir , misschien opdat u list Aan wij doen wreed , aan hij zijn weldaad , niet betwisten ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.9	trachten , nu het gevaar vinden het rijk geren macht hebben op u zin , te minst om u gevaar u liefde te overwinnen , Eer Nadirs deugd uw storten in zijn keizer ongenade .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.10	die niets , dan u behouden , uw thans te hart gade .	None
+stee033tham01_01.TEI.2.text.body.div.div.head.1066.s.1	Zesde toneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1069.s.1	Alikan , allee .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.1	Ondankbre !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.2	ik zullen u ' schimplust haasten bepalen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.3	doen ik , o staatzucht !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.4	op doen liefde zegepraal : gei blaken ik , in eedler gloed , voor kroon en scepterstaf : doen liefde zijn , in een harden alles het mijn , velen te laf .	Emotion_BodyPart_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.5	Ik zullen , door zijn vijand gul , hebben keizerrijk regeren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.6	o schrander Nadir , die , om achterdocht te weer , Staatkundig , door een ' glimp vinden edelmoedigheid , ik bits bejegenen , dus ik ' meegezant misleiden , ik ophoud in u heir , om ik alleen te spreken !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.7	ik zullen toon die ik klaar u doelwit zijn blijken ; ik zullen ik bedienen vinden deze gunstig ogenblik .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.8	Doch , schonen ik vol vinden hopen , vervreemden vinden dwazen schrik , In uw ik ' toeverlaat blijmoedig durven aanschouwen , ik zullen echter op u gul ik niet te velen betrouwen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.9	o Triomferend held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.10	vrezen , vrezen , misleiden gij ik , die Alikans verderf tot Nadirs vallen gedijen ' .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.stage.1088.s.1	Einde de tweede bedrijf .	None
+stee033tham01_01.TEI.2.text.body.div.head.1092.s.1	Derde bedrijf .	None
+stee033tham01_01.TEI.2.text.body.div.stage.1095.s.1	Nadir , Alikan , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.sp.speaker.1098.s.1	Nadir , tegen Malek .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1101.s.1	gei zullen , vinden wachten verzeld , de keizer komst verbeiden , En hij eerbiedig in ik legertent geleiden .	None
+stee033tham01_01.TEI.2.text.body.div.sp.speaker.1104.s.1	Alikan , terwijl Malek vertrekken .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1115.s.1	Vorst Nadir , niet vernoegd die ieder heldendaad vinden zijn gevreesde klink het geloven te boven gaan , En die zijn strijdbaar arm het heelal hout opgetogen , begeren doen glorie vinden grootmoedig mededogen !	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.sp.1115.s.2	gei sparen een ' vijand , die , vinden al hopen ontbloten , ellendig zij vergaan vinden zwaar hongersnood , het En waar het uw behagen wij ongeval te stuiten !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1115.s.3	zelf bieden gij wij gunstig aan een vredesverdrag te sluiten !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1115.s.4	u weldaad , wij beloofd , u deugd zijn ongemeen : Die edelmoedigheid , o held !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1115.s.5	voegen uw allee .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1126.s.1	gei , Alikan , gei kunde , door deze gul te rome , u waar mening , uiten bevreesdheid , loods verbloemd !	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.1126.s.2	Die talen verbaasd ik niet : een hoveling , alles gei , Doorslepen , uitgeleerd in list , in veinzerij , zullen zijn gedachte steeds uiten achterdocht bedekken , zode hij doen oprechtheid zij tot nadeel kunne strekken .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1126.s.3	mare deze loosheid zijn onnodig : spreken oprichten .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1126.s.4	verwachten gij , vinden ik gul , niets ander dan gei zeggen ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.1154.s.1	Indien een ander held , in staan te triomferen , beloven vinden wij rijk de ondergang te weer , En zelf doen vrede begeren ; ik zij , op wis grond , Vermoeden die zijn harden , in weerwil vinden zijn ' mond , Een ' loos toeleggen smeden , om , zonder krygsgevaren , Een kroon te winden , door een ' vijand heir te sparen ; die hij de keizer , alles uiten ijver voor doen vrede , Door kunstig staatsbeleid lokken in zijn legerstede , Om , alles vorst Mahomet behendig zijn ' gevangene , hebben machtig ryksgebied vinden Indostan te erlangen ; die hij , door bijstand , uiten wij rijk hij aangeboon , Door ons groot helpen verwinnaar vinden de tronen , ( ik kunnen mede rijden vinden die toeleggen heen verdenken , ) Aan een ' die groot het rijk te leengebied zij schenk , verzekeren die wij volk , bevredigen , hij getrouw , Door een ' uiten wij bestieren , zijn zege staf zij .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1154.s.2	zode zij een ander zien ontwijfelbaar dragen , zien vleien op die wijze zijn glorie niet te waag .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1154.s.3	Ervaren staatzucht denken die doen opperheerschappy mede rechte verkrijgen worden door list , door veinzerij : zijde zullen een loods bedrog , het geren teder ziel doemen , Een loffelijk daad vinden waar held noemen .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1154.s.4	liggen wraken gei die denken : onzeker , weten ik niet Of Nadirs eerzucht doemen wat staatzucht hij gebied .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.1	gei , aan de toeleggen vinden u groot medepligtig , zijn , in het ontveinzen vinden u stout bestaan , voorzichtig : gei vrezen die ik uw , uiten eerzucht , mogen versmaden ; En bieden door ander ik u ' vreemd bijstand aan : Nu toetsen gij ik ; en pogen , zolang uw ik gepeins nog niet blijken zijn , u ' aanslag ik te ontveinzen : In twijfel wat ik harden vinden u besluiten voelen , Bewyst gij , door u list , wat oogmerk gei bedoelen ; Opdat ikzelf , bewust vinden het geren gei pogen te smoren En tevens ik ontdekken , uw ik besluiten doen horen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.2	gei vleien uw mede doen hopen die Thamas Koelikan , Die Thamas tronen bekleden in het vorstelijk Ispahan , de naam vinden dwingland , vinden verrader , niet zullen vlijen , Indien hij Indostan alles keizer kunnen gebieden : mare het schijnen uw onbekend , die , zin ik Nadir worden , Ik het Persiaansche volk rechtvaardig hebben bestieren ; die , torn ik het gans rijk tot koning hebben verkiezen , doen aloude lustre vinden ik staat worden herboren ; die Thamas , ik te wraken , rechtmatig worden onttronen ; Ik , voor ik dienst , uiten erkentenis kronen : Ik plegen geren wellen ; ik schenken ik het rijk vrijwillig .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.3	ik zuchten tot heersen en u staatzucht zijn verschillig : Ik wensen om het heil de volk ; gei wensen uiten eigenbaat : ik oogmerk wassen oprichten ; hebben uw zijn kroonverraad .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.4	Die talen behagen uw niet : gei denken liggen , uiten ik reden , die ik , uiten deernis , zijn genegen tot doen wreed : mare schorten u oordelen op , totdat gij onfeilbaar zien Of Nadirs eerzucht doemen wat staatzucht hij gebied .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.5	Een vijand zullen niet liggen een keizerrijk versmaden .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.6	Misschien bereiken gei het witten vinden u geheim daad .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.7	het zijn rechte , nu Alikan voor ik behendig veinzen , die hij verhalen zijde wat Nadir waarlijk peinzen .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1197.s.1	het zijn vruchteloos die ik poog door veinzerij te ontdekken , Of wij doen hongersnood tot schade of heil zullen strekken .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1197.s.2	Ik durven ik vinden u deugd beloven die misschien ...	None
+stee033tham01_01.TEI.2.text.body.div.sp.1197.s.3	doen keizer naderen wij ; ik zullen haasten u doelwit zieden .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1202.s.1	Mahomet , Nadir , Nasser , Nizamelmoluk , Alikan , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1209.s.1	o Vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1209.s.2	u ongeluk , u komst , u vasten betrouwen Op ik geven woerd , verplichten ik uw te aanschouwen alles mijn bondgenoot , ja alles ik ' waarde vriend .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1209.s.3	Door deze omhelzing blijk ' hoe Nadir uw beminnen .	Emotion_Dedication_Loyalty
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1211.s.1	Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1229.s.1	uw edelmoedigheid , in wij gevaar te weer , doen ik , o koning !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1229.s.2	uw alles ik ' verlosser eren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1229.s.3	gei hebben , door dapperheid , ik groot legermacht mede weinig oorlogsvolk bykans te vallen brengen : Nochtans verwerven gij , o held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1229.s.4	door het al vernielend strijd zode groots een ' lustre niet alles door u medelijden .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1229.s.5	Ik zullen de rijk tronen vinden groot Tamerlan , En het Persiaansche landen , hechten aan Indostan , na inhoud vinden de eisen , mede rechte ik voorschrijven , Aan u zeeghaftig rijk vrijwillig weergeven : Ik zullen doen schuld , weleer aan Abas niet voldoen , En ik verbinden , vinden uw in oorlog bij te staan , Waarin ik schuldig beven , uw t'eenemaal vergoeden : ik zullen juichen uw voldoen , opdat hebben yslyk woeden vinden krijgen , vinden hongersnood , vinden tweedracht , tot uw eer In wreed , in overvloed , in zijn geluk verkeren ' !	Emotion_Happiness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.1	hebben woedend oorlogswee vinden all ' u legerschaar , Door onverhoopt gul , door vrede , te doel bedaren , verwekken meer blijdschap in ik mededoogend harden , Dan uw het verrassend einde ' vinden uw onlydbre smarten : Ik , die ik ' lusten nooit stellen in moord , in vernielen , smaken thans een waar vreugde ; ik redden ontelbaar ziel ; ik verwerven , door zijn vijand heir te ontheffen vinden elend ' , Een gadeloos geluk , voorheen ik onbekend .	Joy_Emotion_Happiness_BodyPart_Compassion_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.2	doen macht tot weldaen zijn een voorrecht vinden doen groot ; Een voorrecht , meest , verzuimen , vinden weinig genieten ; Een heil , waardoor ik zien de grootheid waardig maken , Waardoor een eedle ziel doen zoet weelde smaken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.3	ik hebben dus , al spaarde ik uw hebben keizerrijk , ja het leven , velen minnen voor u geluk , dan zelf voor het ik ' bedrijven .	Emotion_Happiness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.4	laten wij , tot sterking vinden wij weerzydsch ryksgezag , wij nauw verenen door een eeuwig vredesverdrag .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.5	Een dierbaar echtverbond zullen wij het vermogen geven , Waardoor wij , aaneen verknopen , doen koning doel beven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.6	doen schoon Milko , die , door edelmoedigheid , Voor u ' gedreigden staan een uitkomst hebben bereiden ; Die , door zij vaderland meer dan zichzelf te min , hebben waardig voorwerp zijn vinden ik verbaasd zin ; zijde , die ik hoog dan u kroon en scepter achten , vinden wij ik neef wensen uiten Tamerlans slachten , En weer uitmuntendheid ik ' zode in liefde ontvonken , zijde tot een echtgenoote aan deze prins schenken .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1262.s.1	Alikan , te zijden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1264.s.1	o fel spijt !	Emotion_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1267.s.1	Nasser , tegen Nadir .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.1	ik vorst , u dierbre gul , gewoon ik niets te ontzeggen , tonen u liefde voor u ' zode .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.2	vergunnen ik , daar gei eisen alles koning , alles verwinnaar , die ik ik bede doen alles onderdaan , alles minnaar .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.3	maken ik , doorluchtig vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.4	ik , zuchten om u ' druk , Een ' blijde deelgenoot vinden u aanstaand geluk ; staan toen die Nasser zien aan schoon Milko huwe , Opdat ik jeugdig bloeden , verenigen mede hebben uw , En dus veredeld door het aloud heldenbloed vinden groot Tamerlan , u nederlaag vergoeden ' !	Joy_Emotion_Happiness_BodilyProcess_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.6	ik zullen voor uw , alles doen yvrigste uw maag , deze bloeden , uiten Nadir zelv ' spruiten , moedig waag , Daar gei , dreigen , ontrust door het Zuidlandsch muitgespan , geren waar keizer zijn vinden het machtig Indostan ; Ik zullen , verzekeren vinden de goed willen ik vader , u wraken gestreng voldoen op deze ryksverraders .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.7	bedenken , opdat u gul een ' vijand zode verplichten ' , Hoeveel die vijand eest voor u geluk verrichten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.1273.s.1	Tegen Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.1	ik zijn genoeg bekennen , o edelmoedig koning !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.2	Hoeveel ik schuldig zijn voor uw gunstbetooning .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.3	Hoe wensen ik die ik macht , om uw een waardig blijk vinden danken te geven , aan u weldaen zijn ' gelijk !	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.4	mare die u goedheid niet in grimmigheid verkeere !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.5	die Nadir voor zijn ' zode een ander gift begeren !	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.6	Een keizer zijn altoos verbond aan zijn woerd .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.7	gei eisen vinden ik een bruid die Alikan behoren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1311.s.1	Ik hebben , alles koning , alles verwinnaar , u beschermer , u ryksbehoeder , u verpligter , u ontfermer , verhinderen die ik zode uw smeekte , zode hebben niet Om het weergaeloos bezitten vinden Milko zijn ' geschieden : die voorwerp zijn allee die onderwerping waardig .	EmotionalAction_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1311.s.2	gei zijn , in het schenk vinden u gunst , onrechtvaardig : u stout weigering , waardoor gij ik versmaden , geschieden , misleide vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1311.s.3	voor een ' die uw verraad .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1315.s.1	hij , onlangs vals betigt , hebben , door zien vrijen te spreken , ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1319.s.1	zijn schuld zijn , voor u komst , onfeilbaar ik blijken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1324.s.1	ik trouwen voor het keizerrijk zijn aan ik ' vorst bekennen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1327.s.1	Nadir , tegen Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1331.s.1	zijn heimlyk vloekgespan veroorzaakte uw elend ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1331.s.2	Ja , vorst , ik hebben voorlang , uiten staatzucht vinden die snood , ik schandlyk , op zijn ' naam , u ' scepter aanbieden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1336.s.1	ik hebben op ik bederven arglistig toeleggen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1351.s.1	weten u behoudenis danken aan het heilige gast vryrecht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1351.s.2	u krygswee , ik voorzeggen , tonen die zijn vloekgenooten , ik vleien op zijn ' naam , voor hij u ' vallen besluiten : zij snood raden allee , door uw te velen betrachten , hebben u verwaarlozen heir tot hongersnood brengen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1351.s.3	gei zullen , opdat ik uw voorzigtiger doen wees , zij trouweloos geschrift te overtuiging lezen , Zodra wij vredesverdrag , en doen echtverbintenis vinden Milko mede ik ' zode , door uw bevestigen zijn .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1359.s.1	Hoe kunnen ik Alikan , ik ' gunsteling , verdenken ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1359.s.2	ik durven , door nijd bezielen , bij uw zijn glorie krenken .	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1359.s.4	vergunnen ik , die , in het wenschlyk vreebesluit , Ik ik beloven houden aan hij en aan zijn bruid .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.2	kunnen ik woerd bij uw dan geren geloven verkrijgen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.3	vermoeden gij , die ik hij onschuldig zij betygen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.4	Een ' listig ' hoveling , door schandelijk kunst , Door laf vleierij dringen in u gul ; Een laag ziel , betigt , bekwaam toen gruwelstuk , Gewoon uiten eigenbaat u volk te onderdrukken ; die snood achten gij ( o smaad ! ) meer u betrouwen woerd ' , Dan Nadir , die u heir , u rijk , u leven sparen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.5	gei , die niet vrezen u woerd , u die verbinden te breken , durven , tot een uitvlucht , ik vinden u beloven spreken , terwijl u rampspoed , tot behoudenis vinden de staan , uw , bij een ' onderdaan , vinden die beloven ontslaat !	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.6	zijn deze erkentenis voor ik genadig toon ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.7	vermetel !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.8	moeten gij ik , u ' overwinnaar , honen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.9	ik mededoogendheid misbruik in u ' druk ?	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.10	gei vleien uw rijden te velen mede u aanstaand geluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.11	ik zullen , eer ik grimmigheid aan uw te vallen mogen strekken , Tot vordering vinden u heil , uiten u zichten vertrek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.12	plegen raden , terwijl ikzelf ik ' fel spijt bedwing ' , mede Nizamelmoluk , of mede u ' gunsteling .	Emotion_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.13	Rampzalig keizer !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.14	beven , zode ik getergde goedheid verkeerd in haten , in wraken , in wreedheid , in verwoedheid .	Fear_Emotion_Hatred_BodilyProcess_Anger_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.div.stage.1389.s.1	Mahomet , Nasser , Nizamelmoluk , Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1403.s.1	Ik zullen , nadien u harden , onbuigzaam voor ik bede , geren achten slaan op u heil , op doen aanbieden vrede , Voor u behoudenis een ' dierbren bijstand kies , Eer Nadir uw doen hopen vinden uitkomst doen verlies ; ik zullen toon , schonen ik wraken , ik ' bits smaad te zoenen , Onfeilbaar door u ' vallen ik liefde kunnen voldoen , die ik , zelf meer dan gei , u deerniswaarde ellende , u ' wis ondergang vinden uw poog af te wonen .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1403.s.2	het zijn nodigen , daar gyzelf uw storten in het groot gevaar , die ik , uw ondank , uw doen kroon en het leven sparen ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1408.s.1	Mahomet , Nizamelmoluk , Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1421.s.1	Wat ijselijk overmaat vinden wede staan ik te duchten !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1421.s.2	Ik , die ik ' vallen bewenen , ik stervend volk horen zucht , ik ' vijand nederig vleien , zien ik beroemd slachten , mijn eedle afkomst door die vijand tros veracht .	Emotion_BodilyProcess_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.1421.s.3	zij ik , ( o bitter spijt ! ) om lyfsgenae te vinden , ik oud doorluchtig huis aan het laai slachten verbinden vinden Thamas Koelikan , een klein hoofdmans zode , Door schandlyke overmacht bezitter vinden een ' tronen ?	Emotion_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1421.s.4	o groot Tamerlan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1421.s.5	wat smaad waar uw beschoren , Indien het ik lusten na deze vredesverdrag te horen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1427.s.1	Ach , vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1427.s.2	tergen Nadir niet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1427.s.3	Wat kunnen , in deze node , Verhindren die zijn macht uw dwinge ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1431.s.1	Milkoos dood .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1436.s.1	wild gei , die het moord haten , doen onschuldig doel sterven ?	Emotion_Hatred
+stee033tham01_01.TEI.2.text.body.div.div.sp.1444.s.1	zij hand voldoen ik ' willen : ik zullen het vinden zij ' moede verwerven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1444.s.2	Ik stemmen veeleer zij dood , waarvan ik zuchten gruwen , Dan die zij wij bloeden besmetten , ik zij aan Nasser hu ' .	Emotion_BodilyProcess_Disgust
+stee033tham01_01.TEI.2.text.body.div.div.sp.1444.s.3	ik wanhopen gade zij voor : ik willen , om ik ' ramp te weer , Op Nadir door ik dood kloekmoedig triomferen .	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.1459.s.1	gei worden door fel smarten , door wanhopen , wreed misleiden : u sterven zijn ' geren moede ; hebben zijn ' lafhartigheid .	Emotion_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.1459.s.2	vergeven ik deze talen : u heilloos offerande , schikken tot wering vinden een ingebeeld schande , zijn ' dodelijk voor u heir , verderfelijk voor de staan , En voor u oud slachten een onvergeetbre smaad .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1459.s.3	voorkomen die ongeval ; ach !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1459.s.4	duld niet die ik melde :  Vorst Mahomet , die dwaas tot wanhopen overhellen ,  Ja om een hersenschim zien angstig hebben ontzielen ,  hebben , door zijn laf dood , zijn talryk heir vernielen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1467.s.1	u weigring zijn gronden , ik vorst ; mare zij zijn gevaarlijk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1467.s.2	u dreigend doodsgevaar te weer , vallen bezwaarlijk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1467.s.3	Mislei de vijand ; veinzen te stem in de prijs vinden u behoudenis , opdat hij het leger spyz ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1467.s.4	ik mogen een vreeverbond , uiten dwang stemmen , verbreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.1	o Neen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.2	behelpen uw niet mede eerelooze treek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.3	Indien gij ( o gruweldaad ! ) die veinzerij bestaan , zullen gij , om het verbreken vinden een heilige vreeverbond , Daar Nadir blijk geven vinden edel mededogen , Verdienen die gyzelf arglistig worden bedriegen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.4	doen vijand , die u heil en wis ondergang In zijn vermogen hebben , bestaan geren ' snood dwang , Wanneer zijn ijver , ver ' vinden door hebben stalen te woeden , Door onverhoopt wreed uw gunstig pogen te hoed .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.5	voldoen hij ongeveinsd ; verlaten uw op ik trouwen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.7	die ik raden u heir , u rijk , uzelv ' behouden ' !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.8	die Nadirs dierbre gul ..!	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1487.s.1	Die gul gaan uw te hart .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1499.s.1	gei zullen zij niet versmaden , het en zijn ' zij uw hevig smartte .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1499.s.2	herstellen wij ryksgeluk , ik keizer !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1499.s.3	horen na ik .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1499.s.4	gei worden te langen misleiden door laf vleierij .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1499.s.5	deze echtverbond , die uw geren onheil kunnen verwekken , zullen uw ontwijfelbaar tot waar glorie strekken ; Ja , in het volmaken geluk vinden het juichen Indostan , u ' stam doel rome op een ' tweede Tamerlan .	Joy_Emotion_EmotionalAction_Happiness
+stee033tham01_01.TEI.2.text.body.div.div.stage.1504.s.1	Mahomet , Milko , Nasser , Nizamelmoluk , Alikan , Semire .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1509.s.1	Prinses , voldoen u ' wensen ; trachten zijn keizer vallen te stuiten : het Gevaar eisen korten beraden : doen hij tot vrede besluit .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1535.s.2	duld die ik smeken ' voor het angstig vaderland , Erbarmelyk dreigen , in hopeloozen staan , Voor het stervend talloos heir , voor u gelieven vrouw , Voor onderdaan die zij welzijn uw betrouwen , En voor u dierbaar kroos , die om meedoogendheid , Om uitkomst in doen ellende , erbarmelijk mede ik schreien : Betoon u liefde alles vorst , alles echtgenoot , alles vader : u goedheid zijde voor wij !	Fear_Emotion_EmotionalAction_BodilyProcess_Love_Dedication_Desire_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.1535.s.3	niet voor een ' staatsverrader , Die , zijn ' zijn trouwen oprichten , aan het rijk ik af zij staan , zijn minnen beteuglen , uw vinden u beloven ontslaan .	Emotion_Love_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1535.s.4	u mild gul , beducht een vrye ziel te dwingen , Een vrouw uiten u slachten een echtkeur op te dringen , Genadig deelende in ik blijdschap , in ik smarten , beloven aan Alikan ik hand , indien ik harden Volkomen zijn ' geneigd zien bij die gift te vroeg : Ik tonen uw tegen hij nooit enig ongenoegen : ik zijn ' mede die bruigom rijden , nadien het ik ' vorst behagen , verenigen , zode doen krijgen ik ' echt niet hebben vertragen : mare thans bedienen ik ik vinden het rechte , aan ik geven ; Ik redden u legermacht , ik vaderland , u leven , te kosten een minnaar die ik liefde onwaardig zijn : ik weigring maken uw vrijen vinden u beloftenis .	Emotion_Love_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1542.s.1	Mevrouw , deze gaan te ver ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1542.s.2	ik tegen rechte te honen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1542.s.3	Ik , vaardig in ik trouwen voor het vaderland te toon , wensen yvrig die ik vorst mede Nadir zien verzoenen ': ik Verzaak ik ' minnegloed .	Emotion_BodilyProcess_Love_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1547.s.1	ik zullen zijn konings eisen voldoen : Ik zijn tot weigering de vrede niet meer verbond .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1551.s.1	gei hebben , o Indostan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1551.s.2	u ' keizer weergevonden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1555.s.1	Nizamelmoluk , tegen Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1558.s.1	ik geven in al ijl , opdat ik het onheil stuiten ' , Aan Nadir kennis vinden deze heugchlyk vreebesluit .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1561.s.1	Nasser , tegen Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1563.s.1	Ik zullen , zijn het u begeerte , uw bij die vorst geleiden .	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1570.s.1	Welaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1570.s.2	gade in ik heir deze heil terstond verbreden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.1568.s.1	Tegen Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.1	Ik zullen , op het wreed misleiden , versmaden , gezond , betigt , doel blijk die ik harden in doodsgevaar niet zwichten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.2	ik doen , indien ik gouden voor ik iets kunnen verwerven , Tot ik gerecht wraken de trots Nadir sterven !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.3	zijn dood zijn niet genoeg ; ik fel spijt eisen meer : ik stuit ook het vredesverdrag , bestemmen tot zijn vijand eer !	Emotion_Spitefulness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.4	die zelf doen keizer ik op die verrader wreken , ik ' raden uiten blindheid volgen ' , het geven woerd verbreke , ik diene alles hij zijn ' stam voor Milkoos echt behoeden !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.6	die wij volk , gespysd , nopen tot oorlogsmoed , Heldhaftig voorgetreen door all ' mijn eedgenooten , Door Mahomets misnoegen en felgedreigde groot , Door vorstin , weer belang aan het ik ' verbond zijn , hebben loten vinden Alikan in het bloedig veld besliss ' , de Persiaan verwinn ' , zichzelf hebben leven sparen , Een ' laf vorst onttroon ' , tot keizer ik verklare !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.7	Ik juichen in ik gevaar ; ik sneef , mest ik het heldenloon , te minst mede doen hopen op doen Indostansche kroon .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1597.s.1	Einde de derde bedrijf .	None
+stee033tham01_01.TEI.2.text.body.div.head.1601.s.1	vieren bedrijf .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1617.s.1	Ja , prins , ik dankbaar ziel erkennen doen deugd uw vader , Die , tot zijn eeuwig eer , doen helpen een ryksverraders Grootmoedig doemen , versmaden , een ' vijand gul bewyst , Aan wij doen wreed schenken , wij kwijnen leger spyst .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1617.s.2	Nooit kunnen ik dankbaarheid die weldaad evenaren : mare , schonen ik machteloos zijn een kermen heir te sparen , hij naar te volgen door het versmaden vinden een kroon , Ik kunnen mijn achten hij bewijzen in zijn ' zode : u groot ziel , waarin u ' vader deugd leven , verplichten ik , mede ik hand aan uw ik harden te geven .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1629.s.1	zijn het zijn , prinses , die gei , niet uiten gehoorzaamheid , mare uiten een vrye keuren , ik mede u liefde vleien ?	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.sp.1629.s.2	zijn het mogelijk die ik minnen op die geluk mogen hopen ?	Emotion_Happiness_Love
+stee033tham01_01.TEI.2.text.body.div.sp.1629.s.3	verklaren uw ongeveinsd : ik zullen ik ' vader nopen , hij doel besluit , zelf in weerwil vinden ik harden , Tot afstand ons trouwen , zode Nadirs eisen uw smarten : ik zuiver minnevlam doen ik die huwelijk wraak , Indien het , tot ik verdrieten , uw zij rampzalig manen .	Emotion_Love_Sadness
+stee033tham01_01.TEI.2.text.body.div.sp.1629.s.4	Ik haten de huwlyksdwang , al minnen ik ziel uw teder .	Emotion_Hatred_BodyPart_Love
+stee033tham01_01.TEI.2.text.body.div.sp.1636.s.1	uw edelmoedigheid verbaasd ik meer en meer .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1636.s.2	Ik durven uw ongeveinsd en zonder schaamte ontdekken , die ik wij echtverbond tot zijn geluk zullen strekken .	Emotion_Shame
+stee033tham01_01.TEI.2.text.body.div.sp.1636.s.4	waar het heilryk voor de keizer , voor de staan !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1643.s.1	vermoeden gei dan , prinses , die Nadir het rijk verraad ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.1643.s.2	Hoe kunde gei vrees , daar u ramp zijn verdwijnen ?	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.1643.s.3	Daar Persianen en Mogollen zien verenen ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.1656.s.1	ik houden die vereniging , o prins !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1656.s.2	voor ongewis , Zolang hebben vreeverbond nog niet bezweren zijn , En doen Indostansche vorst , door Alikan bedriegen , Onzinnig niets beschouwen dan door zijn ' gunstlings oog .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1656.s.4	doen edelmoedigheid uw vader zijn te groots : zijn deugd redden wij te vragen uiten ons hongersnood .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1656.s.5	Hoe duchten ik die ik vorst , om Alikan te wreken , vinden hogen node ontlasten , hebben vreeverbond zullen breken , En , echter machteloos u heir te weerstaan , mede al zijn legermacht erbarmelijk zullen vergaan !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1665.s.1	gei spelden uw het erg .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1665.s.2	zij doen keizer , tot beloning de hoogst gul , zijn woerd verbreken aan de koning ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.1665.s.3	Een ' machtig ' vorst verraen , die , vreemd vinden wreed wellen , In spijt de vijandschap , hij op de tronen herstellen ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.1665.s.4	Dan zijn ' zijn ondergang , ik ' vader wraken , rechtvaardig : Een trouweloos opperheer waar uw smarten onwaardig .	Emotion_Compassion_Sadness
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.1	doen kracht de vleierij zijn uw nog onbekend .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.2	wijd niets aan Mahomet , zode hij doen wreed schenden .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.3	Staatzuchtige Alikan , leren op gruwelstuk , Geneigd door zijn keizer vallen zijn ' wensen te doel geluk , nopen die misleiden vorst , die trouweloosheid doemen , Tot eerloos krygsbedrog , het geren hij alles wettig roemen : Steeds doen hij Mahomet tot euveldaen besluit , schonen Nizamelmoluk die misdrijf pogen te stuiten .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.4	Grootmoedig prins !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.5	beklagen , indien gei Milko minnen , En in ik droefenis geren stof tot blijdschap vinden , beklagen wij talryk heir , ik ' keizer en zijn staat .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.6	Helaas !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.7	u ' vader gul zullen Indostan niets baat .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.8	het zijn billijk die ik rijden ik vaderland bewenen ' .	BodilyProcess_Sadness
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.9	Al het gene ik vreezend hopen zijn vinden u helpen allee .	Fear_Emotion_Hope
+stee033tham01_01.TEI.2.text.body.div.sp.1692.s.1	u vrezen , u smarten verkleinen , in ik verliefd zin , doen vreugde vinden ik prinses niet vruchteloos te min .	Fear_Emotion_Love_Sadness
+stee033tham01_01.TEI.2.text.body.div.sp.1692.s.2	ik zullen roemryk sterven , of , in spijt vinden Alikan , Indien doen node hebben eisen , u schreijend Indostan , u ' keizer en zijn heir , eer Nadirs wraken zullen woeden , uiten zuchten voor u belang , voor ondergang behoeden .	BodilyProcess_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.stage.1696.s.1	Milko , Nasser , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1702.s.2	hebben belge uw niet die ik mede smarten ik ' plicht , Op het koninklijk bevel , voldoen aan zijn keizer nicht .	Emotion_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1702.s.3	ik moeten , in verzekering , zij afzonderlijk bewaren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1706.s.1	ik zien wij te doelen stellen aan nieuw krygsgevaren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.1	o fel tegenspoed !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.2	o onverdraagbre honen !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.3	doen koning kerkeren uw !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.4	En ik , ik zijn zijn zode !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.5	hebben zijn ik vader zelf die ik prinses beleedigt !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.6	zullen u gevoeligheid , alles uw ik minnen verdedigen , Ja op ik hoofd misschien ik ' vader gramschap laad , Op ik u wraken voldoen voor deze bits smaad ?	Emotion_Love_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.7	Of mogen ik tederheid nog na u liefde trachten ?	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.8	Ik durven niets ander dan afkerigheid verwachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1730.s.1	u roekelooze drift verzwaren ik groots verdrieten .	Emotion_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1730.s.2	verplichten ik door u helpen ; mare tergen u ' vader niet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1730.s.3	Ik achten zijn deugd te oog , dan die ik ooit zij denken die die beroemd held , die wij doen vrede willen schenk , Die uiten meedoogendheid wij hongrend leger voeden , Die het Indostansche rijk voor ondergang behoeden , Die geren bedragen scheppen in zijn vijand ongeluk , ik , die onschuldig zijn , uiten wreedheid zullen verdrukken .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1730.s.4	het zijn al in gevaar : doch geven die vorst geren schuld .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1740.s.1	zij Nasser deze smaad gedogen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1740.s.2	mede dulden hebben heilige gastvryrecht in Milko zieden schenden ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1740.s.3	In uw , aan weer belang ik welstand zijn verbond ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1740.s.5	deze honen , u rank , ik liefde zijn velen te groots .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1740.s.6	geven wij een klaar berichten waaruit deze onheil sproot .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.1738.s.1	Tegen Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1745.s.1	zien Nizamelmoluk gevangene herwaarts komen , ik prins ; uiten hij worden goed deze ongeval vernemen .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1751.s.1	Milko , Nasser , Nizamelmoluk , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1754.s.1	Milko , tegen Nizamelmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1761.s.1	mijnheer , ik zien uiten u ' ramp , ik zien uiten u droefenis Wat vinden ik kerkering doen zorgelijk oorzaak zijn ; die ons vorst , misleiden , gespysd door Nadirs goedheid , die koning roekeloos tergen tot gramschap , tot verwoedheid , Ja het heilzaam vreeverbond vernietigen hebben , in wanen die wij verzadigen heir die held kunnen weerstaan .	Emotion_Sadness_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1769.s.1	wij vaderland , bykans aan het krygsgevaar onttogen , Op nieuw te doelen stellen aan zijn vijand wraakvermogen , zullen haasten vergaan , het en zijde die vijand , door genae , In edelmoedigheid ik hopen te boven gade .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1783.s.1	Poog , door u ' raden , doen drift vinden deze prins te weer , Die ik zijn helpen beloven , wieden ons ramp deren , mare die het gevaar vergroten door onbedachtzaamheid .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1783.s.2	ik Versma u ' bijstand niet : verlossen wij door beleggen , Eer , door u hevigheid , al ons hopen verdwyne .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1783.s.3	En gei , voldoen u ' plicht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.1777.s.1	Tegen Nasser .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1786.s.1	Nasser , tegen Milko .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1788.s.1	u vaderland zijn het mijn .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1790.s.1	Malek leiden Milko , vinden Semire volgen , in een de zyvertrekken , en keren aanstonds te rug .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1790.s.2	Twee de Lyfwachten verzellen zij .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1796.s.1	Nasser , Nizamelmoluk , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1806.s.1	In zijn keizer doodsgevaar zijn het ik een dierbre troosten , Te hopen op doen deugd vinden Nadirs waardig kroos .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1806.s.2	Die koning , eest vermurwen door ons tegenspoed , Nu fel tergen , verstoren , reden op wij te woeden , ik ' onberaden vorst te bonze vinden de tronen , o Prins !	BodilyProcess_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1806.s.3	worden goed door uw verbeden , door zijn ' zode .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1815.s.1	wachten voor u ' keizer vinden ik deernis , zode ik bede Op Nadir iets vermogen , een onverdiend wreed .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1815.s.2	het Gevaar weerhouden ik niet : doen erbarmlyke offerhand ' , Door zijn konings wraken begeren , zijn Milkoos vaderland , Ja het maagschap vinden een bruid , ik waard dan hebben leven .	Emotion_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1815.s.3	Ik gade ; ik zullen uw een blijk vinden mijn oprechtheid geven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1839.s.2	nemen een goed tij tot zijn rijk verlossing zijn : het zijn nog te vragen om wij te ontheffen vinden het gevaar , Nu Nadirs grimmigheid , te hevig aan hebben blaken , hij voor een ogenblik zijn rijden doen verzaken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1839.s.3	Ik , die onschuldig zijn aan het breken vinden het verdrag , Die al , het geren doen trouwen een onderdaans vermogen , mede ik gevaar bestaan om het ongeval te weer , wieden deyver voor doen wreed in zijn konings heir doen karn , En die hij kennis geven vinden Alikans verraad , worden averechts belonen mede kerkering , mede smaad ; hij dreigen ik ( deze zijn doen vlucht vinden voor ik ' vorst te smeken , ) het Verraad , door ik gemeld , zelf op ik hoofd te wreken : En zullen het geren misdaad zijn , alles gij in zijn hevigheid Niet voor u vaderland , mare voor u ' vijand pleiten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1839.s.4	Wanneer , in fel woede , een edelmoedig koning Zoverr ' zijn ' aard verzaken , die hij een dienstbetooning mede smaad , mede dreigen lonen , o prins !	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1839.s.5	dan hebben hebben bloeden de minst voorrang niet op het vaderlijk gemoed .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1839.s.6	gade mede wij die belang , niet mede u drift , te raden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1849.s.1	mare zode ik niets verrichten , uiten vrezen vinden ongenade , zullen Milkoos maagschap mede zij vaderland vergaan , En ik , zij liefde onwaard ' , ik harden , ik bruid verraen .	Fear_Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1849.s.2	ik zullen , zolang ik leven , u leger niet vernielen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1849.s.3	Nooit zullen een laf schrik , die merken vinden laag ziel , Beletten die ik uw , o ik prinses !	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1849.s.4	betoon ' Wat Milkoos bruigom voegen tot eer vinden Nadirs zode .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1859.s.1	alles doen eerst hevigheid de konings zijn verdwijnen , zullen het vaderlijk harden aan het bloeden gehoor verlenen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1859.s.2	die doen edelmoedigheid , die Nadir eigen zijn , Op uw voorbee dan ik ' keizer loten besliss ' !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1859.s.3	ik hopen op u ' vader deugd .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1859.s.4	Ik zien die vorst genaken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1859.s.5	ik zwijgen '; ik doen hij niet in fel woede blaken !	Emotion_BodilyProcess_Anger
+stee033tham01_01.TEI.2.text.body.div.div.stage.1866.s.1	Nadir , Nasser , Nizamelmoluk , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1884.s.1	dragen zorgen die , na ik ' lassen , doen toestel tot de strijd Op het spoedigst vaardig zijde : vertrekken ; betoon u vlijt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1884.s.2	Wat hebben , in weerwil vinden ik gunstig mededogen , de snood Mahomet tot krygsverraad bewegen , terwijl hij strijd op strijd , die hij verliezen beven , onfeilbaar blijk vinden zijn onvermogen geven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1884.s.3	gei , tergen ik lang niet mede roekeloos ik te smeken : ik willen onherroeplyk ik op die verrader wreken ; zijn heir vernielen ; hij , vinden het ryksgezag ontbloten , Niet handelen alles een ' vorst , mare straf mede doen dood .	Emotion_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1884.s.4	Ik zijn te fel tergen ; spreken niets tot zijn verschoning , Of duchten een zelfde straffen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.1	u wraken zijn rechte , o koning !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.2	gei zijn op het snood verraen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.3	gei hebben vorst Mahomet , In spijt vinden u belang , uiten doodsgevaar redden : mare hij , zien nauwelijks zien ontheffen vinden doen ellende , Of durvende , uw te honen , doen wreed arglistig schenden ; Ondankbaar door bedrog uw storten in gevaar ; verdiend niet die u gul te tweedemaal hij sparen ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.4	het Belang vinden Alikan , vesten op gruweldaad , doen hij onzinnig uw , zijn rijk , zichzelv ' verraden ; hij maken zien schuldig door een blind drift allee : mare deze verschonen hij niet vinden krygsverraad ; o neen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.5	hij moeten zien nimmer aan een ' gunsteling verslaven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.6	Een keizer zijn verplichten zijn vorstelijk woerd te staf .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1919.s.1	o Nizamelmoluk !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1919.s.2	vergeefs verbergen gij ik Wat Mahomet bewegen tot krygsverradery .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1919.s.3	geren Alikan allee doen hij het gevaar trotseren , Ondankbaar ik verraen , zijn ' hogen rank onteeren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1919.s.4	Die heilloos oppervorst hebben aan ik ' zode , te echt , uiten laf schrik zijn nicht mede weerzin toezeggen : zijn hoogmoed , aanhitsen , ontijdig , onrechtvaardig , Vermetel , achten ik ' zode die hoog gul onwaardig , Te huwen aan het slachten vinden groot Tamerlan : mare doen eedle gunsteling , die hoofd vinden het vloekgespan , doen ontrouw , doelen op doen keizerlijk staat , Een loods verleider vinden trouwhartig onderzaten , Een eerloos hoveling , op vleien africhten , doen arglistig Alikan verdiend u ' keizer nicht .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.1	Ik durven uw voor ik ' vorst tot geren genadig nopen : zijn misdrijf zijn te groots om iets voor hij te hopen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.2	Ik beven voor het gans rijk : hebben zullen , u wraken te zoenen , Onschuldig aan het vergrijpen , voor Mahomet voldoen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.3	o machtig keizerrijk ! het zijn mede uw omkomen ; Ik zien een zee vinden bloeden uw akker overstromen , u schat uitputten , u talryk heir vernielen , doen vrouw mede zij kroos in doen oorlogswoede ontzielen : doen groot Nadir zelf , tot u verderf bedriegen , hebben mede u ' jammerstaat in het einde ' geren mededogen ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.4	mare neen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.5	ik vleien ik nog die uw onnozelheid In het edelmoedig harden voor u behoudenis pleiten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.6	o Wydberoemde held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.7	die u verstoren zin uw edelmoedigheid zoverr ' niet overwinnen , die u getergde wraken doen schuldeloozen doemen ' !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.9	kennen u belang .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.1936.s.1	hij werpen zien aan zijn konings voeren , en vervolgen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1945.s.2	wat belang ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1955.s.1	u ' roemen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1955.s.3	worden wij heir vernielen , u wraken te offerande , het waar uw , doorluchtig held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1955.s.4	een onuitwischbre schande ; Ja vruchteloos hebben u arm de groot lof behalen , zode Nadir , woedend , niet op Nadir zegepralen .	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1964.s.2	hebben baar in uw geren zwaar ongenoegen die ik , knielen , ik bede bij zijn vijand bede durven vroeg .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1964.s.3	ontzeggen u ' droef zode geren gunstig krygsbesluit : hij smeken voor het vaderland vinden zijn gelieven bruid .	EmotionalAction_Desire_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.1964.s.5	moeten die heldin doen dood vinden all ' zij maag , En ik , terwijl gei juichen , ik ongeluk beklagen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1977.s.1	rijzen beide .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1977.s.2	Ik scheppen geren ' lusten in wreedvergoten bloeden : ik hebben nooit moorddadig op doen onnozelheid woeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1977.s.3	ik zij het rijk beschermen mede doen tederheid een vader , Indien het , op ik rusten , vrijwillig zijn verrader , de snood Mahomet , de loos Alikan , te straffen ik overgeven , mede al hebben vloekgespan : ik zij ik , ik zij Indostan gerecht wraken verschaffen , te voorbeeld vinden het heelal gestreng doen boosheid straf , Genadig toon die ik vijand niets verliezen , alles hij , op het snood verraen , ik tot beschermer kiezen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1989.s.1	ik hebben doen ontrouw uw ontdekken ; ik zullen nog meer verrichten ; ik willen voor ik vaderland uw tot genae verplichten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1989.s.2	Vertraag u wraken ; beproef hoeveel ik trouwen vermogen ; vergunnen ik , in wij heir , hiertoe een ' enklen dagge .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1989.s.3	ik keizer , machteloos u ' moede te weerstreven , zullen , op ik ' raden , aan uw doen ontrouwen overgegeven ; hebben vonnissen vinden zij dood zelf onderschrijven ; ja zien stillen in u macht , op hopen vinden u genae .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1993.s.1	gei hebben , vermogen gei iets , doen vreebreuk kunne weer .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2001.s.1	het wassen ik onmogelijk , daar doen ontrouwen hij regeren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2001.s.2	verwachten , opdat zij straffen doen verder boosheid stuiten ' , Nu het krygsgevaar genaken , die hij uiten vrezen besluiten ' .	Fear_Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.2012.s.1	Ik zij u ' eisen voldoen , u heldendeugden loon , En , mede zij dood voldoen , u ' dwazen vorst verschonen , Indien ik zeker weten die hij , uiten zijn berouw , In spijt vinden Alikan , u ' raden niet doemen zij .	Emotion_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.2012.s.2	hebben zijn vergeefs pleiten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2012.s.3	Ik zullen u heir verrassen ; En , nu gei het opzetten weten , op u bedrijf pas : Ik zullen , mede u prinses , uw kerkren in ik tent : zode blijven ik doelwit aan u ' keizer onbekend .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2019.s.1	laten ik , zode het nodigen zijn , tot overgaaf hij dwingen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2019.s.2	ik hebben meer vermogen , dan zijn snood gunsteling , Op het harden vinden het oorlogsvolk in het nijpen vinden het gevaar .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2023.s.1	gei hij verraden !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2033.s.1	Ja , opdat ik trouwen hij sparen ' !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2033.s.3	uw deugd zijn Indostan blijken : gei zullen in koel moed uw op die vorst niet wreken , zode het heilzaam oproer hij in u vermogen stellen : ik vrezen niets voor Mahomet , dan het woedend krygsgeweld .	Fear_Worry_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2033.s.4	laten ik beproeven wat ik ijver kunnen verwerven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2040.s.1	zij Milkoos bloedverwant u wraken te offeren sterven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2040.s.2	Die schande voor ik bruid zijn ' schande voor u ' zode , En voor ik ' vader zelv ' een onuitwischbre honen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2056.s.1	Ik kunnen , om door u ' echt ik glorie niet te krenken , Aan uw een ander bruid , in plaatsen vinden Milko , schenk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2056.s.2	mare neen ; om zij , om uw , om Nizamelmoluk , vergeven ik Mahomet hebben roekeloos gruwelstuk , alles hij , uiten zijn berouw , zien in ik macht zullen stillen , En over het vloekgespan een billijk vonnissen vel .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2056.s.3	verwerven , door u beleggen , u ' keizer lyfsgenae .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2056.s.4	vertrekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.2054.s.1	Tegen doen Lyfwachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2061.s.1	u heldendeugd zijn zonder weerga .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2080.s.1	uw edelmoedigheid , onmogelijk naar te streven , Die smarten in het straf vinden , mare wellust in het vergeven ; Die ik verbaasd ziel een heilzaam voorbeeld strekken , In ik een sterk zuchten tot eeuwig eer verwekken ; uw edelmoedigheid , te hoogst toppen stijgen , zullen keizer Mahomet tot dankbaarheid bewegen , alles hij , door uw behoeden , in uw zijn ' waardsten vriend , En in zijn vriend zelf zijn kroonbelagers vinden .	Emotion_Sadness_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.2080.s.2	vergunnen ik die ik harden in Milkoos blijdschap deel , zij bloeden voor het mijn erkenn ' , mede zijn keizer heil zien streele , En dus , door uw op het spoor de waar deugd leiden , vinden ver u voorbeeld volgen ' door mededoogendheid .	Joy_Emotion_BodyPart
+stee033tham01_01.TEI.2.text.body.div.div.sp.2090.s.1	u deernis voor een ' vorst , in onkunde opgetogen , Door het vleien hofgezin erbarmelyk bedriegen , En voor een zuchten rijk in hogen oorlogsnood , zijn ' loffelijk , zode die drift niet uiten u liefde sproot : ik willen echter in ik ' zode geren mededogen wraak ; En prijs , om Milkoos deugd , hebben vuur die uw doen blaken .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2090.s.2	mare vleien uw niet te velen voor het waggelen Indostan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2094.s.1	Wat geven ik stof tot vrezen ?	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.1	het Verraad vinden Alikan , doen ontrouw Mahomet , ja al .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.2	het zijn onzeker die Nizamelmoluk een ' dwazen woordverbreker , Door zijn ' getrouw raden , tot overgaaf verplichten '; Of tegen het vloekverbond , door oproer , iets verrichten ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.3	Niets ander zijn bekwaam doen onweerbre legerbenden , de keizer , het gans rijk , te ontslaan vinden krygselenden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.4	zode Nizamelmoluk hebben eene en het ander mest , zullen het heir , door hij verdelen in onderling twisten , Door fel binnenkryg zichzelf bykans vernielen , En het Persiaansche stalen hebben overschot ontzielen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.5	Ik zien , hoe doen uitslag zijde , in het korten ik ' eisen voldoen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.6	ik wraken hebben anderszins geren uitstel toestaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2115.s.1	doen keizer zullen , bevreesd , zien aan het gevaar onttrekken .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2121.s.1	het zij ik , niet minnen dan uw , tot zijn genoegen strekken : Ja ik zij , in weerwil vinden zijn ontrouw , vinden die honen , hij , door zijn volk verraen , herstellen op de tronen .	None
+stee033tham01_01.TEI.2.text.body.div.div.head.2123.s.1	Zevende toneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2129.s.2	een gruwelstuk !...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2133.s.1	Wat doen uw zwygend beven ?	Fear_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.sp.2138.s.1	u wachten zijn omkopen ; ik dreigen u dierbaar leven ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2138.s.2	ik wachten doen duisternis ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2151.s.1	ik strijd deze nacht !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2151.s.2	doen dagge verdwynt allengs .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2151.s.3	ik toeleggen zijde volbrengen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2151.s.4	Ziedaar voor wieden gei smeken : hij zijn ik gul onwaardig ; hij dwingen ik tot zijn straffen .	Worry_EmotionalAction_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.2151.s.5	zijn het heir te strijd vaardig ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2160.s.1	ik hebben u ' lassen verrichten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2160.s.2	mare ik vrezen de koningsmoord , Nu al hebben vloekgespan nog niet zijn opsporen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2160.s.3	getrouw Orosmin , die ik het verraad ontdekken , En mede een delen de wachten zijn trouwen in schijn bevlekken , Opdat u doodsgevaar door list worden afwennen ; de trouw Orosmin zijn al niet bekennen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2164.s.1	o Ramp !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2164.s.2	o Milko !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2171.s.1	ik willen doen gruwel onderzoeken , En door een vreemd bestaan doen schuldig verkloeken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2171.s.2	geveinsd Mahomet !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2171.s.3	beven mede u ' vloekgenoot : Vermeetlen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2171.s.4	wachten u straffen , of redden uw door ik dood .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2173.s.1	Einde de vierde bedrijf .	None
+stee033tham01_01.TEI.2.text.body.div.head.2177.s.1	vijfde bedrijf .	None
+stee033tham01_01.TEI.2.text.body.div.stage.2181.s.2	Twee Lyfwachten .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2190.s.1	beletten ik niet , Semire !	None
+stee033tham01_01.TEI.2.text.body.div.sp.2190.s.2	uiten deze tent te tred .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2190.s.3	Ik weten ik wacht door ik traan te overrijden ; En gei , geven gei geren blijk vinden mededoogendheid ?	Emotion_BodyPart_Compassion_Sadness
+stee033tham01_01.TEI.2.text.body.div.sp.2190.s.4	hebben naar krygsgerucht , die zien alom verspreiden , doen ik beklemmen ziel ontwijfelbaar bevroeden , die Nadirs bende op het Mogolsche leger woeden .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2194.s.2	volgen ik ' raden , prinses !	None
+stee033tham01_01.TEI.2.text.body.div.sp.2201.s.1	o Onweerstaanbre schrik !	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.2201.s.2	o akelig nacht !	None
+stee033tham01_01.TEI.2.text.body.div.sp.2201.s.3	o angstig ogenblik !...	None
+stee033tham01_01.TEI.2.text.body.div.sp.2201.s.4	Semire ! het zijn vergeefs ik dus te weerstreven ; ik voldoen ik ongeduld .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2209.s.1	gei wagen u dierbaar leven .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2209.s.2	Wat kunnen een teder vrouw in doodsgevaar bestaan ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.2209.s.3	doen zijn keizer onheil uw tot wanhopen overslaan ?	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.sp.2209.s.4	zullen gij , alles het erbarmelijk loten vinden ons legerschaar uw nader zijn bekennen , doen moordzucht doel bedaren ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.2213.s.1	vertoeven , indien het gevaar voor uw te dringen zijn .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2221.s.1	Ik volgen uw hier , op hopen vinden zijn rijk behoudenis : Ik vrezen niet voor myzelve , en zullen uw niet verlaat .	Fear_Worry_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.2221.s.2	mare ach !	None
+stee033tham01_01.TEI.2.text.body.div.sp.2221.s.3	u ongeduld kunnen Mahomet niets baat .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2221.s.4	dewijl ik vruchteloos ik vaderland bewenen , vrezen ik angstvallig harden voor ik prinses allee .	Fear_Emotion_BodyPart_BodilyProcess_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.sp.2227.s.1	het Gevaar vinden Indostan , niets ander , doen ik vrees .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.2227.s.2	ik zien of Nadirs wraken wij hebben te vallen verwijzen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2238.s.1	Prinses !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2238.s.2	zijn vlieden gei heen in deze naderen nacht ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2238.s.3	wij heir worden aantasten door zijn keizer legermacht ; En ik , te leur stellen in het yvrig medelijden , zijn vaardig tegen hij voor wij behouden te strijd .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2243.s.1	gei vaardig tot bederven vinden Milkoos vaderland !.. o zwaar tegenspoed !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2243.s.2	rampzalig offerhand ' !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2252.s.1	Ik zullen , zode wie doen zege op Mahomet verwerven , Meepligtig aan zijn ' vallen , helaas !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2252.s.2	u liefde durven ; En zode het geluk verkeerd , tot heil vinden Indostan , Dan schenken ik ik prinses aan snood Alikan .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2252.s.3	ik willen , nu ik minnend harden uw eeuwig moeten ontberen , Stoutmoedig sterven , of uiten wanhopen triomferen .	Emotion_BodyPart_Love_Desire_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2256.s.1	kunnen het zijn die Nadirs zode doen zege in twijfel slaan ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2265.s.1	Ik vrezen u ' keizer niet , dan om zijn krygsverraad .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2265.s.2	ik vader , blootstellen voor het stalen de muitelingen , kennen all ' doen ontrouwen niet die hij na het leven ding .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2265.s.3	zijn gruwzaam doodsgevaar , ik plicht , u vorst , mijn eer , Ja al nopen ik tot gezwind tegenweer .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2265.s.4	Indien ik lang toeven , ik waar een ryksverrader .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2280.s.1	hebben voegen een ' heldenzoon te strijd voor zijn ' vader : Ik doemen de ijver niet die roemryk uw bezielen : mare alles u dapper vuist wij angstig heir vernielen , die dan , om ik allee , in doen ijselijk oorlogswoede , uw edelmoedigheid vorst Mahomet behoeden !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2280.s.2	Versma ik bede niet ; wijd all ' doen gruwlykheen Aan zijn keizer gunsteling , aan Alikan allee : Verhoor ik , die , in spijt de tweedracht ons staat , zode ik uw niet min mogen , uw echter nooit kunnen haten ; Die , daar gij wij leger dreigen , ik op u deugd betrouwen , En zelf , indien gei sneven , u dood bewenen zij .	Emotion_Hatred_BodilyProcess_Love_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2285.s.1	gei doemen ik ' ijver niet !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2285.s.2	Ik moeten ik minnen verzaken !..	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2285.s.3	Vaarwel : ik zullen stervend ik uw achten waardig manen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2294.s.1	o Nasser !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2294.s.2	Indostan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2294.s.3	misleide Mahomet !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2304.s.1	Prinses , gei hebben misschien wij vaderland redden , de groot held verkloeken , hij al macht benemen , de zode , voor wij belang , de vader voor doel komen , zode gei die janhen prins , wie harden uw toebehoren , Door smeken , door geween , daartoe hebben aangespoort .	EmotionalAction_BodilyProcess_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2304.s.2	zullen gei , een minnares , door traan , door bidden , Tot bijstand voor wij rijk geren ' minnaar overrijden ?	EmotionalAction_BodyPart_Sadness_Desire_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2309.s.1	zijn Milkoos harden bekwaam tot zulk een snood bestaan ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2309.s.2	zij Nasser , op ik bede , zijn ' vader doel vergaan ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2314.s.1	u poging hebben te minst in het strijd hij verhinderen , die vijand overheert , wij groots gevaar verminderen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.1	moeten u verkeerd drift , Semire !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.2	een nieuw smarten Vermetel doel ontstaan in ik ellendig harden ?	Emotion_BodyPart_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.3	Wat zij die jong held vinden Milkoos deugd gevoelen , Indien ik eereloos zijn schande dor bedoelen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.4	weerhouden die stout talen ; beklagen ik ongeluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.5	Ik zullen , terwijl ik ziel , mede onweerstaanbren druk , In het oorlogswee , doen zijde ' ik vaderlands moeten kies , Door het stalen ik maagschap , of ik ' bruidegom verlies .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.6	o Dierbaar overschot vinden ik beroemd slachten !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.7	gei worden deze ogenblik erbarmelijk ombrengen , Of overwinnen en moord lafhartig , onrechtvaardig , Een ' koning , die ik achten , een ' prins , ik liefde waardig .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.8	Ik wensen voor u behouden een zege , die ik doemen ; Ik vrezen doen nederlaag een vijand , die ik roemen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.9	Ik zullen , het zijde gij in de strijd rechtvaardig worden verklaren , Of schandlyk overwinnen , vinden doen uitkomst ik beklagen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2340.s.1	bedenken die Nadirs deugd , die Nassers tederheid , die u besluiten echt voor u belang pleiten , En hopen , nu het krygsgerucht gelukkig zijn verdwijnen , ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2347.s.2	zij Nadir zien mede Indostan verenen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2347.s.3	Daar Mahomet , behoeden , ondankbaar hij versmaden ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2347.s.4	Daar heilloos Alikan op het gruwzaamst hij verraad ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2347.s.5	zij Nadir iets voor wij verrichten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2347.s.6	zij hij kunnen ...?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2351.s.1	ik zien iemand naderen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2355.s.2	wij leger zijn verwinnen .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2360.s.1	Milko , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.2363.s.1	Milko , tegen Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2366.s.1	Doorgrief ik beven harden door het ijselijk verhalen vinden zijn keizer nederlaag , vinden Nadirs zegepralen .	Fear_BodyPart_BodilyProcess_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.1	Prinses , beklagen u ' ramp in doen akelig al nacht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.2	u leger , loods misleiden door doen omgekochte wacht , hebben nauwelijks door verraad ik ' vorst in wanen verrassen , alles yllings Mahomet door wij worden aantasten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.3	mare ( welk een omkeer ! ) ik roepen aan al kant :  Vorst Nadir zijn ontzielen , vermoorden door zijn trawant .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.4	 Op deze naderen krijten ontdekken zien het eedgespan vinden Persianen ; het roepen :  ik stry ' voor Indostan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.5	 Al het vloekrot , nu bekennen , bestrijden door getrouw , worden door hebben wrekend stalen zeeghaftig neergehouwen , terwijl het Mogolsche heir , op wij gejuich ontstellen , In wanorde uiten de strijd na zijn verschansing snellen , Doch spoedig navolgen , en onbekwaam te strijd , de Persianen woede onmogelijk kunnen vermijden , Ja zien , te offerande , uiten laf siddering , uiten wanhopen , overgeven aan doen opheffen klink .	Fear_Joy_Emotion_EmotionalAction_BodilyProcess_Despair_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.6	Prins Nasser zenden ik hier , om het volk te doel bedaren , Indien het , verbitteren , uw niet wild in het leven sparen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2394.s.1	ik doen ik sterven , nu ik vaderland vergaan , Nu in een kort dood al ik geluk bestaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2394.s.2	mare leven vorst Mahomet ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2399.s.1	ik hebben niets vinden hij vernemen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2399.s.2	ik prins trachten zijn keizer dood grootmoedig voor te komen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.1	zij u meedoogendheid , o edelmoedig prins !	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.2	die felgedreigden vorst iets baat ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.4	geenszins .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.5	vereren Mahomet !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.6	ontelbaar legerbenden !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.7	ik maagschap !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.8	ach !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.9	gei sneven in doen algemeen ellende ; En ik , die hopeloos u al plaag lijden , Die , afpijnigen , uw een zoet dood benijden ; vinden zelfmoord afschrikken , door wanhopen aandrijven ; Ik moeten , in dodelijk wede , u ramp overleven ...	Fear_Worry_Emotion_Envy_Desire_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.10	mare hoe !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.11	wij naderen wij ?..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.12	Wat heil ! het zijn Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2418.s.1	Mahomet , Milko , Nizamelmoluk , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2418.s.2	Gevolg vinden Lyfwachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2422.s.1	Wat wonder hebben ik ' vorst uiten doodsgevaar redden ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2426.s.1	Ik leven , prinses !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2426.s.2	ik leven , om schandelijk te sterven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2432.s.1	zij Nasser het moorden stalen in het bloeden een keizer verf ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2432.s.2	hij hebben ik ' wensen voldoen ; hij redden uw uiten de node , na zijn beloftenis : wat dreigen uw ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2438.s.1	Nadirs dood .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2438.s.2	Ik , vinden die moord verdenken , zijn het onheil niet ontwijken : doen prins hebben ik sparen , om zien op het felst te wreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2449.s.2	verdenk hij niet ; verwachten op Milkoos bede , Op het smeken vinden zijn bruid , wel haasten een blijde vrede .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2449.s.3	Nu Nasser , ik te liefde , uiten edel mededogen , uw aan de overmoed vinden het krygsvolk hebben onttogen ; Nu hij , alles legerhoofd , uw zijn vermogen tonen ; uw , naar zijn ' vader dood , vinden dol wraken verschonen ; Nu zullen die zelfde prins wij verder onheil weer , Ja al u ongeluk in voorspoed doel verkeren .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2464.s.2	waartoe de vorst mede ijdel hopen vlijen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2464.s.3	zijn dood zijn al zijn heil .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2464.s.5	doen edelmoedigheid vinden Nadirs groot zode , mede wij gevaar bewegen , zullen niets op het muitziek harden vinden het oorlogsvolk vermogen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2464.s.6	Die prins beloven uiten dwang die hij , zijn wraken te zoenen , Op wij de bende eisen door beul zij voldoen : hij zullen door het oog gezag de moedwil niet betomen , Indien hij weigeren die beloven naar te komen , zijn ' vader dood niet wreken in wij onschuldig bloeden , Een vijandin verhoren , vorst Mahomet behoeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2472.s.1	wijd , wijd u ' vallen aan ik , o vorst ! ik hebben onvoorzichtig de hongersnood gemeld ; ikzelf zijn medepligtig , Door ik vermetelheid , ( o overmaat vinden druk ! ) Aan zijn vijand razernij , aan al u ongeluk .	Emotion_Unhappiness_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.2472.s.2	ik wild uw behoeden door een roeklooze onderwinding .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2478.s.2	u moede , u deugd ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2478.s.3	ik gunsteling , ik verblinding ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2478.s.4	ik wanhopen doemen uw niet ...	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2478.s.5	ik tong verstijven vinden schrik ... o ijselijk ondergang !...	Fear_Emotion_BodyPart_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.sp.2478.s.6	Ik sterven elk ogenblik .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2482.s.1	zien Nadir !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2482.s.2	zien die vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2482.s.3	o wonder !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2482.s.4	zien hij leven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2487.s.1	Wat heil !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2491.s.1	Hoe groeien ik angst !...	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2491.s.2	ik doen ik spoedig sneven !	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2497.s.1	Nadir , Mahomet , Milko , Nizamelmoluk , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.1	Ja beven , ondankbre !	Fear_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.2	beven ; gei zijn in doodsgevaar .	Fear_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.3	Onwaardig legerhoofd !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.4	verrader !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.5	moordenaar !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.6	Lafhartig vloekgedrocht , gewoon u woerd te schenden !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.7	Sneef , sneef op het straftooneel , in het aanzien mijn bende , In het aanzien vinden u volk , te onuitwischbre schande ' , het Heelal te voorbeeld ; strek een heilzame offerhand ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.8	ik hebben , alles ik ' bondgenoot , uw in ik heir ontvangen ; ik hebben , uiten meedoogendheid , in spijt vinden ik belang , u stervend volk spijzen , uw het kroonverraad gemeld , u ' scepter niet begeren , uw op de tronen herstellen : mare gei , vinden schaamte ontbloten , belust op gruweldaad , verbreken hebben vreeverbond , durven yllings ik verraden , Ja kopen ik wacht om , hebben eerloos ik vermoorden , het En waar ik al het verraad door list hebben opgespoort , Een loods gerucht verspreiden , doen ondankbre muitelingen verbijsterd , heen straffen door trouwen heldenklingen .	Emotion_Compassion_Shame
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.9	gewaand Muzulman !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.10	wat doodstraf uw genaak ' , u yslyk wanbedrijf verdiend nog streng wraken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2524.s.1	Ik hebben , uiten blind drift , ik vorstelijk woerd verbreken , mare u verleiden wachten in moordzucht niet ontsteken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2528.s.1	ontkennen gei het gruwelstuk ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2535.s.2	zode gei weten Wat Alikan vermogen door onweerstaanbre list ; uw edelmoedigheid , betoond in ons plaag , En vreemd vinden zelfbelang , zij Mahomet beklagen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2546.s.1	Prinses , u tederheid , u voorspraak baten hij niet : hij stemmen in al het geren door Alikan geschieden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2546.s.2	betreuren geren ' snood vorst , die het heilige rechte beleedigt ; mare denken die ik gezag doen onnozelheid verdedigen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2546.s.3	vrezen niets : ik zullen , om u deugd , uw paar mede ik ' zode , uw , mede die echtgenoot , verheffen op de tronen vinden het machtig Indostan , uw lijden na ik staat , En Nizamelmoluk het bestieren in hand laat .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2554.s.2	ik wachten geren heil , indien ik keizer sterven , Indien uw overmacht zijn dierbaar kroos onterft : Ik willen veeleer mede hij hebben straftooneel betreden , Dan , door zijn ' ondergang , een plaatsen vinden eer bekleden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2558.s.1	gei tergen ik goedheid !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.2	ik onbaatzuchtig harden , die all ' doen aanlokkelijkheid de ijdel staatzucht tarten , die nooit zijn ' waar plicht vermetel hebben schenden , Aan het vaderland getrouw , aan zijn keizer eer verbond , Door zuiver gloriezucht op het krachtigst aansporen , begeren vinden uw geren gift , die uw niet toebehoren ; Ja het worden op het felst gezond , o vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.3	nu gei durven denken die Nizamelmoluk , ontaard , zijn deugd zij krenken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.4	zullen het kroos vinden Mahomet u gramschap ondergaan , schonen het nimmer tegen uw een misdrijf hebben bestaan ?	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.5	zullen het , vinden de tronen beroven , in ramp , in schande leven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.6	Of zullen u streng wraken doen onschuldigen doel sneven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.7	Betoon die gij over heen grootmoedig uw ontfermen , zij erfdeel niet begeren , doen onnozelheid beschermen .	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.8	zij doen Indostansche kroon de roemen uw zoon vergroten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.9	maken vinden prins Nasser , uiten u heldenbloed spruiten , geren ' ryksgeweldenaar ; bezwalk zijn ' lustre niet ; laten zijn keizer waardig kroos hebben wettig erfgebied .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.1	zij Milko mede doen kroon vinden Indostan zien strelen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.2	Ik , mede u ' zode vereend , in doen eeuwig oneer deel ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.3	Ik doemen zijn liefde niet ; hij zijn mijn achten woerd ': mare ik sidderen , zode u macht ik mede een ' dwingland paren .	Fear_Emotion_BodilyProcess_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.5	wild gei het kroos de keizer niet verschonen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.6	Wat nopen uw dan aan ik een wreed gul te toon ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.7	die ik en ik slachten een loten te wacht staan , uw eedle goedheid , of u wrekende ongenade !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2596.s.1	ik angstig harden bezwijken in doen yslykste ongeluk .	Fear_Emotion_BodyPart_BodilyProcess_Unhappiness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.1	Doemwaardig voorwerp !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.2	blozen om all ' u gruwelstuk .	BodilyProcess_Shame
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.3	die Nizamelmoluk , door waar dapperheid , mede Milko uw beschamen ' !	Emotion_Shame
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.4	zien heen te dood bereiden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.5	uw , laffer dan doen minst uiten al uw onderdaan , verwijfd moordenaar !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.6	uw vroeg ijdel traan .	BodyPart_Shame
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.7	Beklee de rank , die uw een overwinnaar schenken : Door die verheffen worden u glorie niet krenken , Nu het kroos vinden Mahomet hebben erfrecht hebben verliezen : ik winnen voor ik ' zode deze rijk , aan uw te lid beschoren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.8	delen , mede die janhen held , deze rijk alles keizerin : hij zijn geren dwingland ; neen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.9	die prins verdiend u minnen .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.2612.s.1	Tegen Milko .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2620.s.1	Ik paar mede de zode , terwijl doen wraken de vader ik bloedverwanten moord !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2630.s.1	Ik straffen doen krygsverraders : u maagschap , het vorstelijk bloeden , worden door ik ' zode redden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2630.s.2	doen glorieryke nicht vinden snood Mahomet zullen , mede ik ' zode paren , ik ' lustre niet bevlekken ; En het huwelijk mede die prins uw tot geren schande strekken , Al worden u bloedverwant , die het rechte de volk honen , Door ik gerecht wraken vinden doodstraf niet verschonen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.1	Ik hebben , uiten goedheid , niet uiten zuchten tot euveldaad , Een ' edelmoedig ' held , mare meest myzelv ' verraden ; Myzelv ' , die , hopeloos , doen afgrysselykste smarten , Een knagen naberouw , gevoelen in het stervend harden .	Emotion_BodilyProcess_Sadness_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.2	hebben doelen vinden Alikan zijn ik te laten blijken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.3	hebben voegen uw , Nadir !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.4	vinden mijn ontrouw uw te wreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.5	denken echter , zode u gul ik droef bede verhoren , die ik , onschuldig in het bestemmen vinden de moord , vinden het misdrijf onbewust , door Alikan dringen , u leger deze nacht mede weerzin hebben bespringen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.7	verhaasten u wraken ; slachten , slachten uw offerhand ': mare stellen geren ' keizer bloot aan openbaar schande ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.2649.s.1	Nizamelmoluk , tegen Nadir .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2666.s.1	het voegen uw , doorluchtig held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2666.s.2	u wraakzucht in te tomen , Totdat gij uiten Alikan doen waarheid hebben vernemen ; Totdat uw zeker blyke , uiten zijn bekentenis , Of keizer Mahomet aan moordzucht schuldig zijn .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2666.s.3	doen ontrouw gunsteling , die , aan het hoofd de muitelingen , de hopeloozen vorst tot strijd durven dwingen , Ja al het Mogolsche heir , in mijn afwezendheid , Door schijn vinden waar trouwen arglistig hebben misleiden , moeten , eer gei het vonnissen vellen , zode hij u bende sparen , Door dwang , door pyniging , uw al openbaar .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2666.s.4	gei zullen , zode Mahomet geren lyfsgenae verwerven , En u verblind wraken zijn waardig kroos onterft , Nadat uw doen onschuld vinden die keizer zijn blijken , Door het schenden vinden uw eer hij op uzelven wreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2666.s.5	Bedwing u woede , of duchten een eeuwig naberouw .	Emotion_Anger_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.2675.s.1	gei tergen mijn eedle wraken door u vermetel trouwen .	Emotion_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2675.s.2	verbloemen geren gruweldaen : hebben zullen uw niet geluk Een ' koningsmoordenaar aan het wrekend stalen te ontrukken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2675.s.3	aanschouwen , arglistig !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2675.s.4	eer ik grimmigheid bedaar ' , bij het vroeg morgenlicht , zijn straffen in het openbaar .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2675.s.5	doen dagge vertoeven te langen : ik woede zijn ongeduldig .	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.2679.s.1	zijn deze u deugd ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2679.s.2	wreed !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2684.s.1	o Nadir ! ik sterven onschuldig .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2684.s.2	o Angstig Indostan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2684.s.3	o schande !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2684.s.4	o dierbaar kroos !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2688.s.1	rampzalig monarch !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2688.s.2	uw onschuld zijde u troosten !	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2694.s.1	Nadir , Mahomet , Milko , Nasser , Nizamelmoluk , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2699.s.1	doen dood vinden Alikan bevredige uw , ik vader !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2699.s.2	gei zijn wreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2709.s.1	bewenen gei die verrader ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2714.s.1	Door hij zijn ' Mahomet vinden het misdrijf vrygekend , Indien ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.1	verbannen u vrezen , zien het einde ' vinden uw elend ' .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.2	ik vorst , ik poog vergeefs die hoofd de moordenaar , te openbaar straffen , na u bevel te sparen , En zoeken hij in de strijd ; wanneer zijn vloekgespan In wanhopen roepen :  ik sterve , of veilig Alikan !	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.3	 Ik , mede een delen vinden het heir de vijand nagetogen , Stoutmoedig op hunn ' schrik , vinden schielijk ik bedriegen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.4	Ik geven , terwijl ik wij dolzinnig weerstreven , ik aarzlend krygsvolk moede ; ik roepen :  Vorst Nadir leven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.5	 rampzalig Alikan , door wij op nieuw bespringen , Door het sneuvlen vinden zijn volk tot overgaaf dwingen , spreken , dodelijk wonden , zijn ' vorst al stervend vrijen vinden opgestemden moord , vinden krygsverradery .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.6	Welhaast worden al het gevolg vinden Alikan verklaren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.7	Door zijn bekentenis behoeden ik zijn keizer maag , Zodra het verwinnend heir , zelf zonder tegenstand , In zijn vijand legerstede u zegevanen planten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2742.s.1	zullen Nadir op zichzelv ' in het einde triomferen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2742.s.2	Of zullen gij , uiten blind wraken , u ' groot naam onteeren ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2742.s.3	Een ' vorst verwijzen , die meedoogendheid verdiend ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2742.s.4	Hoe zullen gei Mahomet ontmoeten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.1	alles ik ' vriend .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.2	o Keizer !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.3	worden doen honen , uw t'onrecht aanwrijven , vergoeden door Indostan , mede vreugde uw weergeven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.4	zullen uw ervarenis , uiten haten tot ydlen lof , doen vleier , tot u heil , verbannen uiten u hof ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.5	zullen gei , nadat uiten weelde u ramp zijn spruiten , doen plegen , doen dartelheid uiten u paleis verstoten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.6	Ja toon aan u volk , door loffelijk staatsbeleid , die gei gelukkig worden door u rampzaligheid ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.7	zullen Nizamelmoluk uw steeds te raadsheer strekken ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.8	zullen Milko mede ik ' zode een ' edel echt voltrekken ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.9	achten gij u genegenheid ik waardig ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.10	staan gei toen die ik mijn eis , in u rykstad , zelf voldoen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.2747.s.1	Nadir omhelzen Mahomet , en vervolgen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2766.s.1	zij Nadir iets vergeefs op Mahomet begeren ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2766.s.2	ik zullen onophoudlyk uw alles ik ' beschermer eren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2771.s.1	o Onvoorzien geluk !	Emotion_Happiness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2776.s.1	gei tonen , volmaakt held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2776.s.2	die gij in grootmoedigheid u hoogst glorie stellen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2784.s.1	laten wij , nu al het verraad , al het krygswee , zijn verdwijnen , wij beide legermacht in waar vrede verenen ; Opdat u oorlogsvolk blijmoedig ademen halen ' , En doen overwonneling op doen ontrouw zegepralen ' !	Joy_Emotion_BodyPart_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.stage.2786.s.1	EINDE .	None

@@ -1,0 +1,496 @@
+fres003pefr01_01.TEI.2.text.body.div.div.head.127.s.1	doen elektriciteit ; of Pefroen mede hebben schaaps-hoofd ge-electriseerd .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.127.s.2	Klugt-spel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.128.s.1	eerst toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.131.s.1	Ritsaert , Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.137.s.1	RITSAERT .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.137.s.2	Wel , Ot , ik denken hebben niet , vinden daeg , zode laten te komen in de Haeg .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.148.s.1	OTJE .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.148.s.2	Door al die pleisteren , dikwijls stal , zijn wij de Avond overval .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.148.s.3	Ik zeggen wel : die gei bier niet vragen zij komen ; mare het wassen , tijd genoeg !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.148.s.4	die tyds-genoeg behoren nimmer horen te worp !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.148.s.5	daar zijn niet slim , het geren iemand zode bedriegen , alles die .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.153.s.2	Hoe , Ot , moraliseerje wat ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.170.s.2	mogen ik , voor uw Moraliseeren !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.170.s.3	Ik zij jouw een ander leven lederen ; wan , zode ik het zeggen mogen , ik heer , jouw spelen de snoeshaan al te zeer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.170.s.4	zijn of jouw zullen , in het eend , belanden , alles het een nul , P , op zijn ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.170.s.5	jouw hand Staan niet tot werk rechte voor .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.170.s.6	En daar u Oom zijn passen doen mogen steken , strekken doen gans Erfnis vinden hij , aen jouw , mare tot verderfnis : wan , in doen plaats vinden god gebruiken , passeren die keelgat , maag en buik Etcetera ; tot die te lest Niet ander zijn alles stank te goed .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.175.s.2	hebben jij gedaan ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.175.s.3	zode raden ik , die jij nooit die tekst herhaeld .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.181.s.2	fiat !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.181.s.3	wie zullen u bevel prijzen ; En doel gelijk doen heer wijze .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.186.s.2	zwijgen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.190.s.1	OTJE . ik zullen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.194.s.2	Ot !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.198.s.2	Ik zwijgen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.198.s.3	ik heer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.202.s.2	spreken !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.206.s.2	ik zullen hebben doel , wat wilje meer ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.213.s.2	Ik mogen op uw zode liggen niet kijven !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.213.s.3	mare Ot , of Lysje ook uiten ik schrijven verstaan hebben , alles die ik hier zij wachten ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.218.s.2	vrezen jij niet een zeer !	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.218.s.3	zijde kunnen jouw schrift wel duidlyk lezen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.227.s.2	Dan zij zijde hier al moet wees .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.227.s.3	laat zieden ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.227.s.4	het zijn nog geren hallef-agt	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.225.s.1	hij zien op zijn horloge .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.234.s.2	mare blijven zijde hier ook deze nacht , Om zich te doel Electriseeren vinden jouw ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.243.s.2	o Fielt !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.243.s.3	zijde blijven logeren bij Grietje Schaeps hoofd , daar zijde thans Te huis liggen ; die haar eigen man - Broers - Weduwe zijn , ik hebben haar vinden zaak , Te spreken , die wij beide raak ; waar naar zijde weer tot Grietje keren .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.248.s.2	Ja !... alles zijde zijn ge-Electriseerd .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.252.s.2	die raak jouw niet ! het kennen wel gebeuren ,	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.271.s.2	Wat zij Pefroen een keel op-scheuren , alles hij die een te oor komen , ik wedde , die hij haasten vinden Amsterdam zij komen , om zijn wijf te ham ; mare hoe hij haar die zij betalen die laat ik daar ; doch ik vertrouwen alles die hij haar wel plak zij .	EmotionalAction_BodyPart_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.271.s.3	Pefroen laten zien niet meer begekken , En het Varken naar de Haeg vertrek , zo dikwijls alles hebben lusten , kwansuis : Om Grietje Zus , alleenig thuis , Niet doen , alles nacht en dagge te kreunen , Wat in haar ziekte t'ondersteunen ; wan Griet zijn al zode wel doortrapt alles Lysje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.276.s.1	Ritsaert .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.276.s.2	Wat of jij al snappen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.276.s.3	Hoe hebje die zode nauw vernemen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.287.s.2	Zelf : die zijde , onder doen Uileboomen , hebben een groots - Juffers-Logement , daar ook velen heer zijn gewend Te komen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.287.s.3	ik hebben ook hoorn zeggen : alles die jouw daar plegen thuis te liggen , zode dikwijls , alles jouw mare allee , Te paard , zijn naar de Haeg gereen , En ik hebben te Amsterdam laten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.291.s.2	Ei !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.291.s.3	houden een op daar vinden te praten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.296.s.2	doen waarheid worden zode noo zeggen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.303.s.2	lopen een naar het Valk - huis ; laat doen knecht , ik Jas en Mantel-zak , uw geven , Die op doen sjees zijn blijven ; En roepen de Hospes binden .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.307.s.2	god .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.311.s.2	maken die ik niet langen wachten moeten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.313.s.1	Tweede toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.316.s.1	Ouwekennis , Ritsaert .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.322.s.1	Ouwekennis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.322.s.2	Wat zijn ' er vinden Mynheers begeren ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.327.s.2	kunnen ik hier , mede ik knechten , logeren Voor deze Nacht ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.333.s.1	OUWEKENNIS .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.333.s.2	o Ja !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.333.s.3	mijnheer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.333.s.4	Al wassen het voor honderd en nog meer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.340.s.2	Nieuwsgierigheid hebben ik drijven , die ik ik herwaerds hebben begeven , Om doen elektriciteit te zieden .	Emotion_Other
+fres003pefr01_01.TEI.2.text.body.div.div.sp.351.s.2	deze Huis zijn , dagelijks , vol vinden Lien , zode klein en groots , om een te aanschouwen , Hoe elk , die willen , hier vuur kunnen spuwen gelijk een Vuurberg , die hebben kraken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.351.s.3	Indien ik slechts worden aanraken , zode zien ik : die uiten mens hand doen vonk vlieg , die zij brand , alles vuur slaan uiten een stenen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.356.s.2	ik bekennen , die kunst zijn ongemeen vorderen in desselfs ontdekking .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.361.s.2	 ik dunken , hij hebben al velen betrekking Op Ritsaert !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.368.s.2	ik Spoeide ik te meer : Nadien ik tocht , een gints en weer , vinden Amsterdam ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.372.s.2	 hij zijn het !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.377.s.2	Om zaak vinden aenbelang , een reizen moeten manen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.381.s.2	 ik zullen niet ontdekken , wij ik ben.	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.388.s.2	 Ik twijfel , of ik hij niet kennen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.388.s.3	zijn wees komen ik meer te voorn !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.388.s.4	 gei zijn niet in de Haeg geboren Heer Hospes ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.395.s.2	Neen ik heer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.395.s.3	 ik zijn al Verraen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.395.s.4	wat of ik zeggen zullen ? ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.395.s.5	 laten gei uw ook Electiseeren ? ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.399.s.2	die weten ik niet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.410.s.2	velen groot heer zijn hier , al lang dan een uur Of drie wezen ; het schijnen , of zijde , het vuur die zijde bij zij in het lichaam dragen , begeren , om daar uiten te jagen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.410.s.3	Ik zullen , mede u verlof !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.410.s.4	een gaan vernemen , of hebben zijn gedaan .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.412.s.1	Derde toneel ,	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.2	het zijn Ouwekennis gewis !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.3	hij lijken ' er Wel duidlyk naar ; hij zijn hebben zeker !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.4	Hoe !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.5	hij zijn Hospes ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.6	neen : die kunnen Niet zijn ; mare waarom geven hij dan geren antwoord ? het zij een klucht vertonen , die Ouwekennis hier zij wonen ; het zij kunne wees : wan , het zijn waar , Ik hebben hij in geren zeel jaar zien , het zijn mogelijk : alles hebben juist wassen , die hij vinden Amsterdam verhuizen wassen , alwaar hij , in Pefroen zijn buren Ook tappen ' , en kamer hebben verhuren ; Die nering zijn daar liggen verlopen , die hij zijn naar de Haeg gekroopen , mede pakken en zak , om Logement Alhier te houwen ; het zijn een venten , Die immers over al wezen  zijn , En vol uitvinding en vol geest  zijn : Ik zullen hebben nooit vergeten , torn hij geven een wortel , aen Pefroen , Die goed knellen dan een stok-slag : Taesse !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.439.s.7	Roussi ! ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.442.s.1	vieren toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.455.s.2	Precies mede het klok-slag vinden acht , gaan doen heer heen : Dan wachten doen duitser ieder een alles voorn , en die blijven zode duren , Tot die doen klok slaan negen uur ; Dan zijn hebben tappen toen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.460.s.2	geven ik een pijp !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.460.s.3	ik zullen vasten een roken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.462.s.1	vijfde toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.471.s.2	naar ik begrijpen : zode zijn ik wees hij vergeten ; te minst schijnen hij niet te weten die ik die geren zijn , die hij eer zo fraai betrekken ... daar zijn hij weer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.474.s.1	zesde toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.483.s.2	ik heer , hier zijn Tabak en pijpen ; daar staat hebben vuur .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.488.s.1	RITSAERT zien op zijn horloge .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.488.s.2	 het zijn haasten op het nijpen , die zijde moeten komen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.493.s.2	 het worden oog tij , die ik hij een ontdekken ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.498.s.2	o spijt !	Emotion_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.498.s.3	daar vallen ik pijp aen duizend stuk .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.502.s.2	 zode ik lang wachten zullen het hier niet lukken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.504.s.1	zevende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.507.s.1	Otje , Ouwekennis , Ritsaert .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.515.s.2	daar liggen doen Jas en Mantel-zak !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.515.s.3	Ik zweten , warentig !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.515.s.4	vinden die pakken ; het zijn zwaar , alles ik zij , geloven .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.527.s.1	OUWEKENNIS , tegen Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.527.s.2	Ik zullen hebben strak , voor jouw , wel boven doel brengen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.527.s.3	zode het uw believen , ik heer , willen jij een mee gaan , heen en weder , In gintse kamer ? ik hebben jouw zaak vinden aenbelang bekennen te manen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.522.s.1	tegen Ritsaert .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.532.s.2	helen gaarne !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.532.s.3	Hospes .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.532.s.4	 Ot !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.532.s.5	passen jij Op Lysje ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.536.s.2	ik zullen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.538.s.1	Achtste toneel	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.546.s.2	vertrekken mare vrijen : Dan kunnen ik ook een fris stop .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.546.s.4	horen ik aen doen door niet klop ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.546.s.5	o Ja ! het zijn Lysje ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.549.s.1	Negende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.552.s.1	Pefroen , Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.2	het zijn Pefroen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.3	ik Bezwyk !... wat komen die venten hier doel ?	Fear_BodilyProcess
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.4	het zijn gewis een geven !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.5	ja wel , ik willen zweer : hebben spoken hier door het Electriseeren ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.6	deze Huis komen ik helen angstig voor .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.563.s.7	hij waarde voorzeker ! ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.567.s.1	PEFROEN .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.567.s.2	Jongkman !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.567.s.3	horen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.571.s.2	ik zijn Doof goed vriend .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.575.s.2	Ik menen : ik kenje ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.2	ik verstaan jouw niet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.3	spreken op !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.4	wij zijn ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.5	Een Eunyer ; of een tovenaar ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.6	Blyf vinden ik kleed !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.7	die zijn raar .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.8	Of zoeken jouw mede ik wegge te vlieg ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.9	Blyf staan !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.583.s.10	jouw moeten ik niet bedriegen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.587.s.2	Ik zijn Pefroen , gelijk jouw zien .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.592.s.2	ik zijn steken blind !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.592.s.3	en zien jouw niet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.596.s.2	daar zijn ik hand .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.602.s.3	hebje knijpen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.602.s.4	jouw woud ik door doen schorsteen sleep !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.602.s.5	Wat bliefje vriend ! ik hebben geren gevoelen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.608.s.2	goed ook een zetten , op die stoel , ik hebben hooft-pyn , kennen ik iets gebruik , hebben jij geren Snuifje ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.613.s.2	Ik kunnen niet ruiken , Door ik verkoudheid .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.618.s.2	lusten jouw Drop ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.618.s.3	Daar zijn een stukje , eed die op .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.623.s.2	Ja Dievesmeer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.623.s.3	zij ik die proef ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.623.s.4	Ik hebben geren smaak ! het zullen niet behoeven .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.628.s.2	Pasjensi !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.628.s.3	 ik moeten een binden gaan Vernemen wij hij zijn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.631.s.1	tiend toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.640.s.2	komen aen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.640.s.3	het zijn tij , te pak ons bies , Eer die wie lang tij verlies , En wij Pefroen niet weder betrappen ; mare liggen die wie al zijn beklappen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.642.s.1	Elfde toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.650.s.2	zijn Lysje nog niet hier komen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.656.s.2	 jij meugd wel vinden doen wortel droom , Taesse Roussi !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.656.s.3	... ik vrezen voor jouw !	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.660.s.2	Wat mompel jij ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.672.s.2	ik heer , ik zij , wassen ik alles jij , vinden hier vertrek , Hoe eer hoe lief , zonder gek , het zijn hier niet pluizen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.672.s.3	Pefroen zijn geest zijn nog zode daedlyk hier wezen , Die mede ik , ik zeggen jouw , het zijn geren logen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.672.s.4	te Schoorsteen haasten wassen uiten vliegen , zode ik zijn hand hebben aen-geraekt .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.676.s.2	het zijn of jejou nog angstig maken .	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.680.s.2	Gewis !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.680.s.3	of vreesje dan geren schennis ?	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.688.s.2	ik zijn al te wel vinden Ouwekennis bericht , hoe hier doen zaak staan .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.688.s.3	jij moeten een ras naar Lysje gaan ; mare laat die goed hier zode niet liggen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.688.s.4	komen , volgen ik , ik zullen hebben jouw wel zeggen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.690.s.1	Twaalfde toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.697.s.1	OTJE , doen Jas en Mantelzak opnemen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.697.s.2	het zijn of doen winden zijn helen verdraeid !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.697.s.3	hebben werken die schijnen hier gans bekaeid .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.697.s.4	Wat duiker zijn daar voor gestommel ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.699.s.1	Dertiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.707.s.2	Ot !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.713.s.2	 waar bergen ik ik ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.713.s.3	daar zijn doen Drommel Weerom ; hij kennen ik .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.717.s.2	horen een , Ot !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.721.s.2	Ik groeten jouw Geesje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.723.s.1	Veertiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.733.s.2	ik geloven , hij spotten Wat mede ik !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.733.s.3	laat die knecht mare dwaal ; zijn meest , zullen daar voor betalen , Die ik niet meer bekreunen zullen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.733.s.4	doen Muis , zijn eindelijk in doen vallen , Die aen ik kaas hebben staag knabbelen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.735.s.1	vijftiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.738.s.1	Ouwekennis , Pefroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.744.s.2	ik hebben jouw geren praetjes voor gerabbelt !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.744.s.3	Wat dunkje nu ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.749.s.2	jouw hebben ' et rechte ,	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.756.s.2	hij komen hier flusjes mede zijn knechten , En vragen ; of hij hier kennen logeren .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.756.s.3	Om zien te doel Electriseeren ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.760.s.2	Die hoofs taal verstaan ik niet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.765.s.2	die zijn iets , die hier in Huis geschieden , En die gei nog niet hebben vernemen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.773.s.2	ik zijn om geren Eledries komen , gelijk jouw weten ; mare die ik haar een mogen betrappen bij malkaer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.773.s.3	En Griet zullen ik zo wel betalen die zijde ik wijf nooit in zullen halen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.781.s.2	zode ik mede raad uw helpen mogen , Ik menen , die ik op deze dagge Hoe laat hebben zijn , nog zode te manen , die al , wat gei aen zullen raak , In vuur verandert .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.785.s.2	Vuur !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.785.s.3	die branden ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.790.s.2	Ja vuur !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.790.s.3	alles vuur zijn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.797.s.2	daar zijn ik hand zode gei het niet doen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.797.s.3	... mare , uw  Buurman , Ik hebben geren lijf die tegen het vuur  kunnen alles ik in branden vliegen zijn ik dood .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.805.s.2	jij zullen niet brand !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.805.s.3	vrezen geren node : hebben vuur , die uitje lijf zullen komen , behoeven jouw zelf niet voor te schromen ; mare die jouw wat te naar verkeerd , Die worden , gelijk tot as , verteren .	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.2	gans bloeden !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.3	die zullen verschrik'lyk wees !	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.4	 jij , Ritsaerd !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.5	meugd voor zeker vrees : die jij , mede een verschroeide huid , vinden avond nog , naar bed toen bruid .	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.6	 Ik zullen ik zelf nu niet meer kwellen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.7	mare , kunnen ik eest een Brief bestellen naar portugal ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.816.s.8	.... ik veel , die jouw raad zijn voor hartlyvigheid niet kwaad .	Fear_BodilyProcess
+fres003pefr01_01.TEI.2.text.body.div.div.head.818.s.1	zestiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.837.s.2	Om Ritsaerd hier uiten het huis te jagen , mede wat chinees wortel-slagen : die wassen de eisen wel vinden Pefroen ; mare die zij ik geren voordeel doel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.837.s.3	Een Hospes moeten zijn gans handelen Zodanig : die zijde nimmer wandelen Voor bij zijn door .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.837.s.4	En Ritsaert tellen Al mild dan Pefroen hebben gelden .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.837.s.5	ik weten , hoe hij te Amsterdam verkeren ,  hebben : daar hij tot mijn velen verteren  hebben .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.837.s.6	En , zijn Pefroen , op nieuw , zode dwaas , die hij zijn wijf , zode fraai , de baas laat spel , Ik kunnen nooit beletten , alles zijde hij hoorn op willen zet .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.839.s.1	zeventiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.842.s.1	Lysje , Ouwekennis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.847.s.1	LYSJE .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.847.s.2	dagge Ouwekennis !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.847.s.3	waar zijn ik manna ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.851.s.2	Hoe komen jij hier ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.859.s.1	LYSJE . ik hebben , Otje vinden Heer Ritsaert , onder wegge gesprooken , Ik weten al wat ' er zijn besluiten mede jouw en Ritsaert , torn Pefroen zien onverwagt hier op komen doel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.2	nauw wassen Heer Ritsaert hier komen deze avond , of wij zij hebben droom ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.3	jouw manna , hier zoeken Logement , worden vinden ik ; ik vinden hij , kennen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.4	wie staan beiderzydsch verklaren , daar wie elkand'ren weder zien , naar lang tij , zode onverwagt !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.5	Ik vragen ; wat of hij herwaerd brengen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.6	zijn antwoord wassen : om uwent weg hebben hij doen reizen in het hoofd krijgen , Daar op beginnen ; hij over jouw Te klagen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.7	Weetje wat ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.8	ik zij , ( willen jij om geren vergifnis smeken ) hij echter Beterschap verspreken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.9	wan , Lysje !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.10	tussen wij zeggen !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.883.s.11	wie weten jouw gemeenzaemheid mede Ritsaert ; daar Pefroen zijn voorhoofd Gestaeg om kroud ! het zijn ongeoorloofd , Voor een getrouwd Vrouw , alles die zijde mede een ander tij op het pad .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.892.s.2	jouw beteren , op jouw uw dag : voorheen durven jij het wel waag , torn jij ik naulyks laten mede rusten , Op die ik zij voldoen jouw lusten ; hebben komen jouw nog wel in gedachte : Hoe ik jouw onthaelde mede verachten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.902.s.2	Das zijn waar : ik beging , naar ik onthoud , Een meer dan schandelijk fout , waar vinden ik walgen !	Emotion_Disgust
+fres003pefr01_01.TEI.2.text.body.div.div.sp.902.s.3	mare ik zullen manen , die jij weer bij jouw manna zullen raak In goed vertrouwen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.902.s.4	mits , die jij ik raad wild volgen ; denken die vrijen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.906.s.2	mare hoe zullen jij het mede Ritsaert stillen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.912.s.2	willen daar jouw zelf nu niet bij kwellen , daar komen jouw manna .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.912.s.3	verschuilen zode langen In deze kamer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.914.s.1	Achtiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.917.s.1	Pefroen , Ouwekennis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.923.s.2	Och !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.923.s.3	die gang verlichten ik !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.930.s.2	hebben Electriseeren zullen uw verlicht , willen ik zweer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.930.s.3	die jij zullen zijn gelijk een pluizen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.935.s.2	ik barsten die zijn niet al te ruimen , En kunnen die doen Eledries genezen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.945.s.2	die zij ik dienstig wees . ik hebben veeltijds steeking in ik bloed .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.949.s.2	daar zijn elektriciteit voor god .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.953.s.2	Voor hoofdpijn ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.959.s.2	o het Electriseeren kunnen al hoofdpijn vinden uw karn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.963.s.2	En tandpijn ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.974.s.2	In een omzien !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.974.s.3	ja : Al hadje het Scheurbuik , Podagra , Zodanig , die ik jouw moeten laf ; Al waar jouw in een verkeerd have verzeilen ; en die jouw neuzen gevaer vinden in te storten lopen : zien daar !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.974.s.4	doen elektriciteit kunnen manen , die jij wel haasten herstellen zij raak .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.979.s.2	Wel edel Dries hebben dan velen Brein .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.988.s.3	doen Heer vinden kratze { ? } stein / hebben zelf een Boek daar vinden schrijven , hebben geren te kleven zijn uitgeven : daar vinden ik meest die wonderen in .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.992.s.2	mare wanneer zien ik daar vinden beginnen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.996.s.2	Wel aen , ik gade die Heer een roep .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.998.s.1	Negentiende toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1004.s.2	Hoe die ik nu ik wijf haar snoepen mede Ritsaert zullen betalen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1006.s.1	Twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1009.s.1	Ritsaert , Pefroen , Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1018.s.2	mogen het Geluk ik treffen deze dagge : die ik ik oude Vriend ontmoete ; En hier op het onverwagst begroete ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1028.s.2	 Ja , alles jij zitten op het galg veld ,  Dan worden ik niet vinden jouw kwellen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1028.s.3	 Taesse !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1028.s.4	rouw !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1028.s.5	rouw !... och ! ik zijn vergeten !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1028.s.6	 ik Wortel zijn langen wegge smijten ;  mare hebben ik die , ik verzekeren jouw : die ik jouw mede begroten zij .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1033.s.2	 doen manna zijn boos !	Emotion_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1033.s.3	hij krabben zijn oor  vinden spijt .	Emotion_EmotionalAction_BodyPart_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1038.s.2	 ik willen ik daar aen niet storen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1038.s.3	Hoe vaart ik oude Vriend ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.2	Ik vaar Niet !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.3	mare ik staan !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.4	jouw vraegd al raar .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.6	Roussi !... hebben ik nu ik wortel  Ik beuken hij de kop tot mortel ,  die zijn een !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.7	die zijn tweemaal !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.8	die Cosyn  ik tergen !... mare het zullen geren driemaal zijn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1050.s.9	 Friou !... ik moeten ik dulden verkrachten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1052.s.1	Een-en-twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1055.s.1	Lysje , Pefroen , Ritsaert , Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1063.s.1	LYSJE doen door openen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1063.s.2	Hoe langen of ik hier nog moeten wachten ?...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1063.s.3	 Och daar zijn ik manna !... waar bergen ik ik ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1068.s.2	karonje !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1068.s.3	vuil Meer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1068.s.4	o prei !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1068.s.5	ik Verscheurje dadelyk mede ik tand .	BodyPart_BodilyProcess_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1072.s.2	schenden aen geren zwak Vrouw u hand !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1081.s.2	Taesse !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1081.s.3	Roussi !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1081.s.4	Friou !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1081.s.5	waar zijn ik Endje wortel nu ?...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1085.s.2	 die zijn mist !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1089.s.2	Ja wel ! ik verliezen vinden spijt ik zin .	Emotion_EmotionalAction_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.head.1091.s.1	Twee-en-twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1094.s.1	Ouwekennis , Pefroen , Otje , Ritsaert , Lysje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.2	Wat zijn ' er voor wellen hier binden ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.3	het zijn of hebben Huis op stelt rijden !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.4	houden op !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.5	eer die ik , goekoop , smijten Een Stoel of Tafel tussen beide .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.6	Ei lief !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.7	laat ik jouw een lijden Tot wat bedaertheid .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.8	horen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1108.s.9	jouw weten die ik beloven hebben ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1103.s.1	Tegen Pefroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1113.s.2	het doen ik leed , die ik doen wortel hebben verliezen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1119.s.2	lellen wij mede wortel niet aen d'ooren ; ik hebben nu geren Radix China meer .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1123.s.2	geren brokje ?...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1127.s.2	Neen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1134.s.2	die spijt ik zeer !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1134.s.3	ik zij het nog gebruik alles een braaf , Taesse Roussi Friou Titave .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1139.s.2	hebben nu geren spijt , om die verliezen : alles jij , vol vuur ...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1144.s.2	alles edel Dries ?... o Ja !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1148.s.2	het zijn immers afspreken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1153.s.2	Ik veel ik bloeden in het lijf al koken ; mare , ik hopen niet , die hij Ritsaert kennen .	BodyPart_BodilyProcess
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1157.s.2	Wie ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1170.s.2	edel Dries : wan , zode die venten En hij hebben malkand'ren een zijn , te zij niet vreemd , nog ongemeens zijn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1170.s.3	die ik verbranden zode tot as die zelf geren beentje over wassen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1170.s.4	Ik vraeg hebben lief aen zijn knechten  een .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1170.s.6	Jongkman , wezen zode god , en zeggen  een : Of ook jouw meest kennis hout mede edel Dries ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1176.s.2	jouw vraegd al stout !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1176.s.3	Wat raak hebben jouw : mede wieden ik meest In kennis zijn ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1182.s.3	lief , wezen ' er zode kwaad niet om : het wassen mare om reden ...	Emotion_Anger
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1182.s.4	kennen jij hij ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1186.s.2	scheel Dries ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1186.s.3	o neen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1190.s.2	jouw Heer ?...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1195.s.2	Hoe zijn zode weetzugtig ?	Emotion_Other
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1195.s.3	daar staat hij ; vraeg hij zelf die zijn kluchtig !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1203.s.2	 hij zij ik zeggen netten zode velen  alles ik mogen weet bij ik keel !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1203.s.3	 Ik zien hij mede ik wijf wel praten ,  Voor het lest kunnen ik hebben vrijen toelaten ;  mare strakjes zijn doen klucht gedaan .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1207.s.2	Ot !... hoorje wel ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1211.s.2	ik heer komen aen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1217.s.2	halen Kratsenstein en helpen hij dragen zijn instrument .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1224.s.2	 vinden zijn dag  hebben ik zoo'n nader ooit meer horen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1224.s.3	 het lijken wel Chinees .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1228.s.1	RITSAERT tegen Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1228.s.2	komen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1228.s.3	spoeid uw voor .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1230.s.1	Drie-en-twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1233.s.1	Pefroen , Ouwekennis , Ritsaert , Lysje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1238.s.2	waar zijn Ot ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1242.s.2	Die zijn edel Dries gaan ham .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1247.s.2	uiten China ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1253.s.2	raak jouw wat aen het maal ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1253.s.3	ik geloven jouw verstaan , in deze tij , Te China zitten of zijn het kwijt ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1264.s.2	Wel neen ; mare ik horen Ritsaert even Aen Ot een raere boodschap geven ; het lijken , of die horen aen een Chinees .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1264.s.3	terwijl ik , bij ik zelf , vrezen : Of Krats doen stenen niet kunnen vertaeld zijn In vuursteen , die wel kunnen gehaeld zijn bij edel Dries , die over al hebben vuur uithaelt .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1270.s.2	 hij lijken zode mal  Niet alles voorheen ; en treeft de spijker  netten op de kop .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1277.s.2	zien daar , ik kijk ' er Geheel vinden af : wan , naar ik merken , zode zijn hebben hier bestoken werken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1282.s.3	die zulje ander kijken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1282.s.4	gade nu niet , alles een Blooaerd , strijken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1284.s.1	vierentwintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1287.s.1	Otje , Ouwekennis , Pefroen , Kratsenstein , Ritsaert , Lysje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1293.s.2	maken plaats !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1293.s.3	zijn hier ruimen bidden omtrent ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1293.s.4	daar hebje nu hebben Instrument .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1297.s.2	zode aenstonds zullen ik nu beginnen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1303.s.2	het lijken wel een Spinwiel , om te spin .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1303.s.3	waar of die ronden Suikerfles toen dienen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1307.s.1	OUWEKENNIS , tegen Kratsenstein .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1307.s.2	passen nu mare op jouw les .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1313.s.1	KRATSENSTEIN .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1313.s.2	Gar wol !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1313.s.3	Ik begyf zien .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1317.s.2	 Ja , ik begrypje !...	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1322.s.2	daar hebje nu hebben Blikke-pypje mede Gouwe franje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1328.s.2	Wat een Lomp !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1328.s.3	Een blikken Wynverlaters pompen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1328.s.4	mede franje !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1333.s.2	daar zijn nu doen koorde vinden blauw zijde .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1339.s.2	 Ja , die behoren  Wel om ik wijf en Ritsaers keel ;  Voor elk een Endje wassen niet velen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1343.s.2	waar moeten ik zet deze Pikbak ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1348.s.2	Zetz har .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1355.s.1	PEFROEN tegen Kratzenstein .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1355.s.2	 Heer , moetje pikken ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1355.s.3	pik strak  ik wijf , rondom aen al kanten ,  Op die zij de te goed branden .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1359.s.2	nu , menen ik zijn ' er wat vergeten .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1363.s.2	Wel wat !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1367.s.2	Een Schaeps - hoofd .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1373.s.2	Moetje het vreten ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1373.s.3	Of hebje niemendal vinden daeg steken in jouw hol maag ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1379.s.2	ik hebben wel een Schaeps - hoofd zes of zeel ; lopen , laat doen Meid ' er een vinden geven ; zeggen : die zijde in doen kelder staan .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1382.s.1	vieren en twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1385.s.1	Pefroen , Ouwekennis , Ritsaert , Lysje , Kratsenstein .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1394.s.3	vinden nieuw of aen ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1398.s.2	ik zullen straks mede vuur ....	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1404.s.1	OUWEKENNIS . ik zij nu niet drygen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1404.s.2	Straks alles jouw vuur begind te krijgen , zode vuren ' er dan op lossen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1408.s.2	gewis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1410.s.1	vijf en twintigste toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.stage.1416.s.1	Otje mede een markt-emmer , daar in een Schaepshoofd , Pefroen , Ouwekennis , Kratsenstein , Ritsaert , Lysje ,	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1421.s.2	Dat's het laatst Schaepshoofd die ' er zijn	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1426.s.2	zijn al klaar ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1431.s.2	s zijn noun richtig	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1438.s.1	OUWEKENNIS , tegen Pefroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1438.s.2	staan hier nu stillen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1437.s.1	hij geest hij doen emmer aen d { ? } n arm .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1443.s.2	kijk hoe voorzichtig planten hij zijn voetjes op doen pik .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1447.s.1	RITSAERD .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1447.s.2	hij schijnen besterven en vol schrik .	Fear_Emotion_BodilyProcess
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1458.s.1	OUWEKENNIS tegen Perfroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1458.s.2	houden nu mare moede !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1458.s.3	ik zullen hij wel paaien !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1458.s.4	laat hij aan het Wiel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1453.s.1	tegen Lysje	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1456.s.1	tegen Kratzenstein .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1462.s.2	komen ik zullen draaien .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1471.s.1	KRATSENSTEIN tegen Pefroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1471.s.2	Das zien doen Hand schlaam de pijp , zo das zijn het wol !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1476.s.2	Ja !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1476.s.3	ik begrijpen vinden vasten te houden .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1483.s.2	Bald wird komen Das Feur !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1491.s.1	OUWEKENNIS mede zijn vinger dangs doen pijp vakende vlieg daar vonk uiten ik hebben het al vernemen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1491.s.2	doen vonk spring waar ik raak	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1489.s.1	hij raakt-Pefroen aen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1495.s.2	daar vliegen ' er een , parjen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1495.s.3	die kraken !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1503.s.2	Ik worden benaaut ! ik zullen nog verbranden .	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1503.s.4	helpen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1503.s.5	hebben vuur springen uiten ik hand !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1503.s.6	raak ik niet aen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1501.s.1	tegen Ouwekennis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1509.s.2	 roepen nu jouw Vrouw !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1509.s.3	 geven haar doen Hand .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1515.s.3	och !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1515.s.4	ik wouw die ik hebben nimmer hebben beginnen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1515.s.5	doen Droes hebben Eeledries verzinnen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1521.s.1	RITSAERT , tegen Pefroen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1521.s.2	ik Heer , indien ik uw voorheen Beledigd hebben .....	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1526.s.2	Ja , ongemeen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1526.s.3	Blyf vinden ik lijf !... ik zullen het jouw vergeven .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1532.s.3	manna , ik beloofje al ik leven , Getrouw te blijven !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1532.s.4	geven ik een zoenen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1532.s.5	Ik zullen het deze , nooit weder doel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1539.s.2	laat lossen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1539.s.3	hebben Vuur springen uiten mijn oog !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1539.s.4	En neuzen en Mond !.... hebben tocht meedogen !	Emotion_Compassion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1539.s.5	ik vergeven jouw al .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1539.s.6	blyf mare vinden ik lijf .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1544.s.2	Ik zullen ik lief manna .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1558.s.2	wennen manna und wijf die fride Machen , zode zind das , { problem } !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1558.s.3	gute zachen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1558.s.4	de har hebben ja gemeritierd Das manna ihm bald Canonisierd .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1557.s.1	hij nemen Ritzaerts hoed en zetten die Pefroen op het hoofd ; zijn naar , hij die aenrakende , uiten doen goud boord rondom vuur uitspringen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1562.s.2	zien daar , Pefroen zijn nu een heilige !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1569.s.2	ik Schei uiten ! het zijn hier voor ik niet veilig .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1569.s.3	daar staat hebben Schaeps-hooft .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1567.s.1	hij zetten doen emmer neder .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1580.s.1	OUWEKENNIS geven hij de Emmer wederom over .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1580.s.2	Zacht !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1580.s.3	blijven staan .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1580.s.4	ik vriend , vatten deze Roemer aen ; En drinken een voor doen schrik .	Fear_Emotion
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1575.s.1	hij geven hij een glas mede brandewijn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1579.s.1	zode alles Pefroen naar het glas grijpen vliegen doen brandewijn in branden .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1592.s.3	helpen ik .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1592.s.4	wan Vuur en vlammen die overstelpen ik .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1592.s.5	Of ik ik , hand nog hebben !... ja wel waar zijn ik ?... zeker in doen hal .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1587.s.1	hij voelen naar zijn hand .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.stage.1591.s.1	Ouwekennis raak hebben Schaepshooft aen , zijn uiten doen vonk spring .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1601.s.2	zien daar ik Schaepshooft mee al brand !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1601.s.3	hebben vuur springen waerlyk uiten zijn tand .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1601.s.4	jij zijn mare Eeledries in schijn ; mare , och !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1601.s.5	jij zullen kwae-Droes wel zijn .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1612.s.3	deze Kunstuig , ik willen hebben graag belijden , wassen onbekend in oud tijd .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1612.s.4	zode gei , in zeker landen , nog waar , ik zien uw voor een tovenaar ; Al schonen gei zelf doen rein ontdekken , waar uiten ik zulk een vuur verwekken , alles iemand worden ge-Electriseerd	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1618.s.1	PEFROEN , tegen Ouwekennis .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1618.s.2	 mare hebben ik nu doen kunst leren ,  Om ook ik wijf in branden te steker ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1626.s.2	 Gewis ! ik zullen jouw wel nader spreken ;  mare zien hebben onderwijl wat in :  Misschien , die zijde wel naar jouw zijn  zullen beteren ....	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1633.s.2	 ik zullen ook nog wat wachten  mare krygd zijde ooit weder in gedachte  Om weder ... haar vonnissen die staat pal :  alles die ik zij verbranden zullen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1638.s.1	RITSAERT , tegen Otje .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1638.s.2	houden op mede draaien .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1644.s.1	OTJE Wel , ik zij ' er Wel moe of worp ! ik hebben ik schouw uiten het lid draaien .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1650.s.2	zijn jij vermoeden ?	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1650.s.3	Ik zijn verbranden en helen verschroeien vinden Eeledries dries , die Salamander .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1656.s.2	komen , gaan wie binden mede elkander .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1656.s.3	t worden eetens-tyd : doen tafel staat dekken .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1662.s.2	 ik neuzen hebben vinden het gebraad  Al luchten !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1662.s.3	staan vasten ik kakebeen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1668.s.3	komen straks binden .	None
+fres003pefr01_01.TEI.2.text.body.div.div.head.1670.s.1	Zes-en-twintigste en laatst toneel .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1681.s.2	gade mare heen !	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1681.s.3	ik zullen uw wel volgen , denken die vrijen .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1681.s.4	Ik lusten al zode graag wat goed alles jij .	None
+fres003pefr01_01.TEI.2.text.body.div.div.sp.1681.s.5	zode ik lang staan , ik zij hier ontdekken , Misschien velen elektrisch gek , Om voor te draaien , die hebben stuiten ; mare doen elektriciteit zijn uiten .	None

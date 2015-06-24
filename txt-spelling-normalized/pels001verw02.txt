@@ -1,0 +1,1408 @@
+pels001verw02_01.TEI.2.text.body.div.head.200.s.1	doen verwaand hollands fransman .	None
+pels001verw02_01.TEI.2.text.body.div.head.200.s.2	blijspel .	None
+pels001verw02_01.TEI.2.text.body.div.head.201.s.1	eerst bedrijf .	None
+pels001verw02_01.TEI.2.text.body.div.head.202.s.1	eerst toneel .	None
+pels001verw02_01.TEI.2.text.body.div.stage.207.s.1	Michiel uiten hebben huis vinden Stoffel , Reinhart , uiten hebben huis vinden Kristine , naar elkander uiten zien .	Joy_Emotion_EmotionalAction
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.209.s.1	Michiel .	None
+pels001verw02_01.TEI.2.text.body.div.sp.212.s.1	ik Heer , een brief .	None
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.214.s.1	Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.sp.216.s.1	Dat's goed , wat zijn ik in verlangen !	None
+pels001verw02_01.TEI.2.text.body.div.sp.220.s.1	zij zijn vinden ik Heer .	None
+pels001verw02_01.TEI.2.text.body.div.sp.224.s.1	Ik zien het .	None
+pels001verw02_01.TEI.2.text.body.div.sp.224.s.2	Wanneer hebben gei zij ontvangen ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.231.s.1	het wassen gisteren avond bij half teen , en , ik zocht uw overal daar ik de wild fransman docht Te vinden , zelf in al doen huis daar ik t'zaamen Va tutti spelen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.244.s.1	Michiel , het wassen uw een kunst te ramen zijn wie wezen zijn ; doch na het schrijven vinden u Heer , moeten hij hier uiten de Haag voor elf zijn , of eer .	None
+pels001verw02_01.TEI.2.text.body.div.sp.244.s.2	Verzuim niet in deez ' buren zijn aankomst te verbeiden , En hij terstond in het huis vinden Stoffel te geleiden , die ik expres voor hij huren hebben ; hier zullen hij Door doen bedekken door , gemakkelyk en vrijen mede zijn Konstantia zien kunne onderhouden , En geven aan zij moed , of Neef geren misvertrouwen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.248.s.1	ik Heer zijn uw verplichten .	None
+pels001verw02_01.TEI.2.text.body.div.sp.253.s.1	mare ik wachten Francois ; dies gaa , roepen Stoffel aanstonds hier mede Jakomyn , mare dra .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.254.s.1	Tweede toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.256.s.1	Stoffel , Reinhart , Michiel , Jakomyn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.258.s.1	Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.260.s.1	HEer Reinhart , wel wat nieuw hebben gij ' uiten deez ' brief lezen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.269.s.1	Heer Eelhart , Stoffel , zullen hier deze morgen wees ; Daarom zijn het nodigen die gei hier gestadig blijven Omtrent doen door : wan ik verwachten hij , zode hij schrijven , Voor ellef uur , en hebben zijn niet ver vinden teen , passen op , ontvang hij wel ; ik zullen hij mede ijver dienst bij zijn Meestres , doen ik voor vinden zijn komst doen weten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.273.s.1	Ik zullen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.285.s.1	gei , Jakomyn , houden jouw terstond reden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.285.s.2	zode gei doen kunst hebben om een losbol te verrassen ; zullen het nu doen tij zijn om te degen op te pas , Ik hebben Francois rijden velen vinden jouw bevalligheid , vinden jouw lieden Adel , en verdiensten uitleggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.285.s.3	doen gek zijn helen verliefd , hij komen mede ik beneden , Om daat'lyk uiten te gaan .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.285.s.4	zijn stemmig in u rijden , maken die ' er niets aan uw of aan de opschik falen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.285.s.5	mare zijn al het huisraad vinden d'uitdraagster rijden halen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.288.s.1	Jakomyn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.291.s.1	het zijn al rijden ; en dus hebben ik ik laten kap , zullen het wel staan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.296.s.1	Treff'lyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.296.s.2	Kanje nu verstandig klap , zode zijn hij in hebben net .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.301.s.1	mare het kleden zijn ik wat klein .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.301.s.2	Hoe schikken die voor Mevrouw vinden Swalgenbittelstein ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.310.s.1	helen schonen voor een Moffin , voornaam'lyk nu zijn zin In jouw niets meerder alles jouw schatten , en staan beminnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.310.s.2	maken gei slechts aan doen door te staan die hij jouw groeten , En vrindelyk vinden jouw woord toegelonkt , hij moeten Straks uiten gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.310.s.3	zode wie deez ' gelegenheid verzuimen vinden zijn verliefdheid , liggen krijgen hij een and're luim .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.315.s.1	Wat ik belangen , wezen vrijen rusten , ik geven uw ik woerd , die ik ik rol zode wel zullen spel alles het behoren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.320.s.1	mare Stoffel , zijn zijn jouw medaalje en gild keten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.320.s.2	jij moeten jouw Graaflykheids karakter niet vergeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.324.s.1	Hier hebben ik zij in ik zak .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.332.s.1	Goed , goed , zode zijn gij in alles Wel uitdossen , komen hangen doen ketting om jij hals , jij ridderlijk staan moeten hij hier door bemerken , helpen , zonder tydverzuim , wij opzetten voor uitwerken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.332.s.2	hij komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.339.s.1	Verzy mihr ich willen euch gebitten haan gans freindlich das ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.343.s.1	het zijn tot u dienst , en gaern braden .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.346.s.1	Derde toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.348.s.1	Francois , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.350.s.1	Francois .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.353.s.1	DAar Reintje , houden ik hoeden , tene allons mon peigne .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.357.s.1	Daar zijn hij .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.360.s.1	Francois , zien kemmende en zingen .	Joy_EmotionalAction
+pels001verw02_01.TEI.2.text.body.div.div.sp.366.s.1	Fillis a mon coeur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.366.s.2	Hola , zijn zijn jouw ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.366.s.3	Hoe vallen ik juist au korps ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.366.s.4	hoe staan ik die rubands ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.370.s.1	helen wel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.376.s.1	Wat dunken uw vinden l'epee , en vinden mest gands ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.380.s.1	het staan al ryk'lyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.387.s.1	Ma peruque zijn die niet zwierig ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.387.s.2	zijde kost ik trante Ecus .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.391.s.1	ik Heer , gei zijn niet gierig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.398.s.1	het zijn niet te velen : ik hebben die vinden Pierre Poitevyn , Grand Perrukjeer du Roi gekoft .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.403.s.1	die kunnen wel zijn , het zijn schande ' koop .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.409.s.1	hebben hij ik die minderen wil geven , Ik hebben die niet begeren ; mare a propos daar even hebben ik zien , die gei mede ons buurman spraakt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.416.s.1	ik Vertolkte , op zijn verzoek , een brief die hij wat raken : En door hebben opschrift , hebben ik , in hebben breedte , lezen die hebben doen zelfde graven zijn , die ik het denken te wees .	Emotion_Moved
+pels001verw02_01.TEI.2.text.body.div.div.sp.420.s.1	Hoe wassen hebben opschrift ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.426.s.1	Aan ik Heer Christophoro vinden Zwalgenbuttelstein , graven vinden Schirwitsbach ; zode alles hij te wenen worden aan het keizer hof heten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.428.s.1	Faancois .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.432.s.1	zode zijn het assurement een Comte ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.444.s.1	Wel te weten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.444.s.2	hij wassen in groot gul te hof , en wel zien ; mare ik hebben gist'ren uiten zijn knechten verstaan , mede wieden Ik helen gemeenzaam zijn , die hij zijn landen , en staat , allee uiten inzicht vinden zijn dochter hebben verlaat .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.444.s.3	wild zeker Potentaat hij wild mede geweld zijn kind ontschaaken , zode wassen hij op zij gesteld ; zode die hij vlugtte : meer kennen ik doen knecht niet zeggen , alles die ik beezig wassen doen zaak bij te liggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.455.s.1	Mafoi , zijde meriteert wat groot , een Potentaat wouw die zij schaken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.455.s.2	en zij zijn vinden zode hogen staan , Ja , Reintje , ja , zijde kennen een Potentaat behagen , het zullen gewis doen Keizer zijn , ik willen wel Cornes dragen Wanneer zij een Keizer planten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.455.s.3	doen graven hebben niet gelet Op het stuc .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.459.s.1	Waarom ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.469.s.1	Om die een's Konings bloeden nooit smet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.469.s.2	Ah !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.469.s.3	jouw vous jure , kennen ik zij slechts possideeren L'Amour d'un Empereur zij ik niet offenseeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.469.s.4	ik zijn nu wel een zode zeer alles ooit verliefd op zij .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.469.s.5	ik zij ' er zijn fortuin door maken ; zijn het niet zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.474.s.1	Wel deeglyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.491.s.1	En France zijn niet een Duc , of Comte Die niet graag zwager vinden de Koning wassen , sans bonten , Hoe meenig zijn ' er door zijn vrouw of zuster groots vinden staan worden ; die ik slechts die eer genieten !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.491.s.2	mare Reintje , hebje niets tot ik faveur vernemen vinden laten Comtesse , liggen zij ik geluk dus komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.491.s.3	hebben werken staan noch zode willen mede ma Couzinez trouwen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.491.s.4	die ik mede jouw hier op ik graag beraden willen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.495.s.1	zijn op ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.505.s.1	Och !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.505.s.2	dor ik jouw ik harden een openbaar , ik hebben un sertein secret die ik jouw zij verklaren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.505.s.3	Un grand secret , daar ik bonheur vinden dependeert ; mare eer ik het jouw ontdekken begeren ik die jouw zwaard .	Emotion_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.509.s.1	Ik zweren nooit , ik zijn menist .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.515.s.1	beloven ik dan te zwijgen , En die nooit iemand zullen vinden jouw te weten krijgen hebben gene ik jouw vertrouwen , al dingen ik naar jouw hals .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.525.s.1	ik verzekeren n , ik zullen ik niet ander houwen , alles Een eerlijk knechten ; wanneer hebben ik of mijn vriend Niet schaden kunnen , zullen gei ik altijd getrouw bevinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.525.s.2	mare ik raden uw , Heer , die gei ik geren geheimnis zeggen vinden groots belang : wan zien , een knechten zijn mare een knechten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.525.s.3	Die op doen trouwen vinden knechten , of meid , niet durven betrouwen , doen zot , mede op zij woerd , of eed velen te bouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.532.s.1	mare zwijgen ik , Reintje , ik raken in groot ongemak !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.532.s.2	ik zij zonder uw helpen en raden , een zwaar pakken ik halen op de hals .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.532.s.3	ik zijn kaal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.534.s.1	Reinhart	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.538.s.1	zijn die wat wonder ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.538.s.2	gei zijn een Edelman ; kaal zijn zijn niet bezonders Voor Edellui ; die zijn oud .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.544.s.1	mare die zijn het niet altemaal ; Le grand secret zijn , die ik kaaler zijn alles kaal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.548.s.1	ik verstaan : gei hebben geren gelden , en mogelijk velen schuld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.553.s.1	bieden devine , voor meer , alles dertig duizend gunnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.557.s.1	die achten gei immers mare een vodderij .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.569.s.1	nul ja , die zijn mare een bagatelle .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.569.s.2	Ik vragen ' er weinig naar ; mare zode die beuzeling ma Tante komen te voorn , zij zijn assez foible , om zien daar over te verstoren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.569.s.3	Ja zijde zij ik zij Nicht wel weigeren durven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.569.s.4	zij zijn vrijen avaricieus .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.576.s.1	die zijn zijn , gei hebben niet mist raden ; mare wat geven gij om zij .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.576.s.2	bij laten Comtesse zijn goed kans .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.602.s.1	Ik hebben voor zij ook meer tendresse : mare ik moeten zij in een maand wegge aanzien ; lang niet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.602.s.2	ik hebben hier alles in Parys intrige nog krediet , En al ik gelden zijn op .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.602.s.3	ik hebben in die achttien dag , Die ik uiten Vrankryk hier wezen zijn , groot slag Gekreegen mede doen kaart , en mede va tutti , ik zij het Wel kunnen reeknen ; ik hebben drie beursjes vol mede gouden torn ik hier komen ; laten zieden , ik ontvangen drie duizend kronen vinden deux Banquiers , genaamd ... ; mare c'et touwen un , zijde wonen Hoe heet hebben dans laten rue ... ik hebben vergeten , mare het wassen zilvergeld , en ik geven die aan een wisselaar Voor gouden , a dix pour sent doen part , om liggen te kunnen met nemen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.602.s.4	ik houden noch vinden ecus noch dukatonnen : Ja ik twijfel of ik die voor het dragen aanzien wouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.602.s.5	Noch hebben ik zeventig quadrupels , zus ik zij ik wel verzinnen , het wassen , laten zieden omtrent doen tachtig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.606.s.1	Niet alles quadrupels , Heer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.639.s.1	Oui ma foi , waarachtig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.639.s.2	Dan nog aan frans double , en enkel pistolets mede enig ander gouden , die ik daar na te Mets winnen vinden een Alleman , die daar zijn beurs moeten laten Minst aan goudguldens , en hebben meest wel aan dukaaten , Te samen , na ik gissen , omtrent deux mille ecus .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.639.s.3	Dan nog doen toute sorte omtrent doen duizend plus uw moins , die ik hier en daar vinden goed vriend lenen , En die ik heen , ma foi , ook weder te geven menen , En noch menen , zode ik trouwen mede ma Couzine , of mede Madame laten Comtesse .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.639.s.4	Ook hebben ik wel gewed , die ik in minderen , alles trits mois trouwen zullen wees , En daar zijn haasten een maand vinden om , die doen ik vrees die ik gajure liggen zullen zijn gefrikkesseerd : wan ik hebben bij ik Nicht nog niet avanceren , En het geld cinq cents Louis .	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.639.s.5	zien Reintje deze zijn mon rest , zijn daar wel mille ecus ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.644.s.1	zijn in deze beursje het lest vinden al u gelden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.649.s.1	Oui .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.655.s.1	Wel die maken weinig uiten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.655.s.2	zijn zijn hebben ovrig ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.657.s.1	Francois	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.672.s.1	zijn zij het wees , het zijn verbruien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.672.s.2	ik willen zeggen om doen bruid , die moed ik hebben beschooren , hebben ik uiten krevekeur ik meest gelden verliezen , Ik hebben geren zin alles ik spelen , en wassen in het nauw , Omdat ik Nicht ik gans geren hopen geven , en ik gauw trouwen moeten zijn , mafoi , ik zijn zonder die ellendig , wan lukken hebben Huw'lyk niet , o Reintje , ik zalder schendig Aan reien , vrezen ik , zode ik Nicht ik niet verlossen , Of laten Comtesse ; wan mede doen eerst frans post verwachten ik ma ruine .	Emotion_Hope
+pels001verw02_01.TEI.2.text.body.div.div.sp.672.s.3	Ik durven hebben kwalijk zeggen Wat zwaar affaire ik niet al op het harden en liggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.676.s.1	u schuld , menen gij ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.680.s.1	Ja ik schuld , Reintje , en dan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.684.s.1	En dan wat meer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.689.s.1	Iets die ik zode niet zeggen kunnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.689.s.2	Daar horen gei meer , alles ooit ik moed noch hebben vernemen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.693.s.1	ik Heer spreken zacht : ik zien zij mede u Nicht daar komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.696.s.1	vieren toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.698.s.1	Kristine , Meinsje , Francois , Konstantia , Baske , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.700.s.1	Kristine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.704.s.1	NU , Meinsje , maken dan het malen omtrent half een klaar , ik moeten na doen noen vijf , zes visite af doel , daar velen aan liggen zijn , gaa in .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.706.s.1	Meinsje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.708.s.1	die zijn teugens ienen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.713.s.1	zijn gei daar , mon Couzin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.718.s.1	Ma Tante om uw te dienst .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.722.s.1	zijn gaan gij ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.727.s.1	Promener un Caffe .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.732.s.1	mogen ik uw Wel iets verzoek ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.737.s.1	Waarom niet , par laten vertu !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.743.s.1	Gaa dan voor ma Couzine een aardig Aapje kopen , ik hebben horen zeggen , die vinden al soort mede hoop zijn aankomen uiten Westinjen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.749.s.1	In wat slag hebben ma Couzine wel doen meest zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.751.s.1	Konstantia .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.754.s.1	Ik mogen uw zode velen moeite nu niet vergen ; het zijn onnodig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.760.s.1	geven gei ik dan refus ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.764.s.1	gei zijn al te overbodig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.779.s.1	Non ma Couzine , die ik dienst refuseren , dunken ik , pour dire vray , die ik niet estimeert .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.779.s.2	An France wassen niet een vinden all ' doen Demoizelles Aan het hof : wan ik staan daar zeer wel avec les belles ; Of ik hebben dagelijks vinden doen eene , of doen and're emplooi Om kant , waaier , of un toer doen parel ....	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.779.s.3	Quoi !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.779.s.4	lachen gei ' er om ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.785.s.1	Wel ja , het zij haarlien goed vroeg , alles uw , ik dunkens , zulk een zijn na haar genoegen En zijn te kopen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.791.s.1	C'est laten mode ; ik bestellen Die ding mare , en hebben die daat'lyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.795.s.1	Voor wie gelden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.800.s.1	nul qu'elle impertinance , een Dame om gelden te vragen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.804.s.1	Die wijze vinden doel zij hier doen juffer niet behagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.815.s.1	doen wereld zij mede rijden zeggen , die ik zode velen fraaiheid niet voor niet gekreegen hebben : behalve die , zullen ik daar voor geren jonkman wil verplichten zijn , alles ik het zelf betalen kennen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.823.s.1	Wat gril !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.823.s.2	doen wereld hier te landen zijn wel impertinent : Die kosten zijn door doen eer vinden een commandement Vol op betalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.827.s.1	Hier zij ik daar doen gek mee schaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.832.s.1	Ab le maudit pais !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.838.s.1	Ik zij dan weder karn , Indien ik wassen alles gei , naar Vrankryk , Neef , wat doen gei hier toch , daar uw niets behaaghelyks ontmoeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.846.s.1	zwijgen stillen , morveuze , ik kunnen u klappen niet lang horen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.846.s.2	het zijn schande , foei , daar gei zode edel zijn geboren , die gei niet meerder le beau mond hebben zien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.850.s.1	mare horen een , moed .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.857.s.1	zwijgen stillen ; zullen ik het noch een gebieden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.857.s.2	Gaa heen mare , mon Couzin , en kunde gij een Aapje krijgen die fraai zijn , koop hebben .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.861.s.1	moed , ik bidden uw ...	EmotionalAction_Hope_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.866.s.1	zullen gei zwijgen , Of niet ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.872.s.1	Ma Tante , ik zijn hier niet bekennen , zeggen ik zijn ik omtrent , die goed kunnen vinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.877.s.1	dicht bij doen nieuw Markt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.882.s.1	Ho !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.882.s.2	ho !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.882.s.3	le mars neuf ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.886.s.1	Sa Baske .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.889.s.1	Baske .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.891.s.1	Madame ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.909.s.1	komen geven hier ik sluier mede ik maske , En ma Couzines coiffe , ik vrezen hebben zullen op straat Zeer stuiven , mon Couzyn , hebben woord heten weer : ik braadt Schier in doen zinnen .	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.909.s.2	alles gei een Aapje hebben gekreegen , En wij wild vinden , horen dan , ecoutez , ik zullen tegen Half twaalven wees tot ik frans Kraamer , of ik Goudsmit , of doen Kantverkoopster in hebben hof vinden Brussel , of wel tot ik Franje-of Spiegelkooper ; Ik hebben wel achten , of teen boodschap ; mare ik hopen ' er deze ochtend wel doen helft of meerder af te doel , ik hebben ook wel vijf of zes vizites naar de noen Te geven , mon Couzin , dus , wild gei mede wij eten , moeten gei voor een thuis te komen , niet vergeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.914.s.1	ik zullen tot Montagne , of in het heer Logement Dineeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.919.s.1	vinden gij wij niet , maken , datge het Aapje zenden tot ons .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.926.s.1	ik zullen hebben zode bestellen gaan , ma Tante jouw suizen vod serviteur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.930.s.1	goed dagge Neef .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.935.s.1	vod servante .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.939.s.1	Wat zot geneig zijn die !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.944.s.1	Ik kunnen het niet goed , Neef .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.944.s.2	Dan ik het leren hebben .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.948.s.1	mare het zijn niet galand .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.954.s.1	Ik geven Daar weinig om .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.961.s.1	het zijn al te enorm .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.961.s.2	bij wat kanaalje hebben zijde geconverfeerd , ma Tante ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.961.s.3	zij zijn vinden taalje Niet vreemd ; mare zijde hebben air , noch porren , noch mines .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.967.s.1	ik gissen , die zijde zode kwalijk opbrengen in Zeland zijn , Hoewel zijde langen in een frans kostschool hebben gelegen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.977.s.1	na ik merken , Neef , doen ik niets na uw zijn te degen , Waarom lellen gei ik dan gedurig aan hebben hoofd , Hoe moed graag zieden zij , die ik zijn aan uw verloofd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.977.s.2	gei zeggen , die gei ik minnen , en het zijde ik zitten , of wandelen , Of eed of drink , of werken , gei hebben op al ik handelen zode velen te zeggen , en tonen ik zode groots een blijk vinden weerzin , die gei ...	Emotion_Other_Disgust
+pels001verw02_01.TEI.2.text.body.div.div.sp.983.s.1	Mon Couzin hebben groots gelijk , u doel hebben al te velen doen laten methode basse .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.989.s.1	Ik zeggen het pour votre bonneur , hebben hebben mauvaise grace .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.993.s.1	Gaa vrijen dan elders .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1000.s.1	zwijgen ; gei woord te zeer vereren , die zulk een Cavaljier uw kleuter pretenderen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1000.s.2	mare , mon Couzin , ik zij ik tij hier wel verklappen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1000.s.3	komen Nicht , wie zullen nu wat ras moet stap .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1005.s.1	Adieu ma Tante .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1018.s.1	Mais , ma Niece , al weder zode stijf ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1018.s.2	zode noch wat laag , en wat recht op u lijf .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1018.s.3	zijde moeten nog in de Haag het salet wat frequenteren , ( Adieu ) Daar zullen zij noch l'air vinden hebben hof wel lederen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1018.s.4	komen Baske , volgme ; en gei Couzin , alles het zijn zeggen , brengen wij vinden het Aapje op doen eene of doen ander plaatsen bescheid .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.1020.s.1	vijfde toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1022.s.1	Reinhart , Francois .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1026.s.1	WAt hebben u moed hebben druk !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1060.s.1	Dus brengen zij ' er in estime bij gens d'honneur , mon drole , oh !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1060.s.2	ce seroit un crime Voor iemand , alles hij een vizite ontvangen hebben , zode hij incontinant die niet wederom en geven , Le plus heau passetan , die iemand weten te vinden zijn toujours etre a laten presance vinden zijn vriend , Niets gaan ' er voor het falet , daar halen ik op hoe die Aan deze zij coiffure , aan die zij juppe zitten , Daar discoureert ik vinden laten cour , en vinden laten mode Op een galant , en admirable methode ; Et pour laten Renommee , om een groot naam Te krijgen , zijn geren dingen te wereld zode bek waam Dan zien te vinden vinden boutique tot boutique , ik verzekeren uw , Ma tante antand laten politiek , Door paradox .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1060.s.3	mare zeggen ik een hoe die hebben staan mede laten Comtesse ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1060.s.4	of hebben gei mede zij meid geren praten vinden ik hebben ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1071.s.1	Ja toch , zij scheppen een groots behagen In uw mines , en in al wat zij uw zien dragen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1071.s.2	gaan gei voorbij zij door , zijde ogen uw na , en weten Hoe die gei gist'ren , hoe gij eergisteren waard kleden ; Ja ik zwijgen vinden kleed'ren ; niet een lintje , strik , of veter zijn aan u lichchaam , of , ik Heer , zijde weten hebben goed Dan ik , ja dan gei zelf .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1080.s.1	C'est d'etre bieden nouri , Oh !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1080.s.2	wat verschelen zijde velen bij ma Couzine , die ik nauw een aanzien , schonen ik al dagge veranderen vinden kleed'ren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1087.s.1	Wel zijn het zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1087.s.2	gei voegen niet bij elkander , En daarom vatten ik niet , hoe gei zij vrijen moogt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1087.s.3	het zijn vreemd , die zode een Heer , alles gei , niet hoog pogen Te zieden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1092.s.1	C'est politiek .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1098.s.1	nul ! ik merken het , om niet te dolen , hout gei in het vrijen mede u Nicht een openen molen , liggen mede een gieuw gauw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1104.s.1	netten raden , Reintje ; ik zweren hebben ik mare slechts akces bij laten Comtesse ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1111.s.1	Heer het hebben zij verwonderd , die gei het rijden niet hebben nemen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1111.s.2	zij dunken gei moeten zij in doen buren verwelkomen , zijde maken meer werk vinden uw , alles gei vinden zij doen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1123.s.1	Bon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1123.s.2	die vatten ik Reintje , en ik zullen die bel occasion waarnemen : zien terwijl wat meerder circonstances Te weten , en let wel op all ' zij contenances , alles ik zij groeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1128.s.1	Dan zijn het nu tvd : ik zien zij voor , het En zijde ik mist , mede zij Staatjuffer aan doen door .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.1131.s.1	Zesde toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1133.s.1	Jakomyn , Pleuntje , Reinhart , Francois .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1144.s.1	gij Apollonichen / hool bij de zilveren smidse de zilveren blaasbalg / om dats feuwer aan het zode hitzen : Und zagen im / hij moeft oech da zilveren kamerpot Gans bald verguld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.1146.s.1	Pleuntje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1149.s.1	ik denken doen pispot , mienje tot doen zilversmid ; zullen ik die met doen blaesbalg halen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1154.s.1	Ja freilich / ich willen him straks met varen gelden betsaalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1158.s.1	zijn wachtje naar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1162.s.1	Ik stellen ik in postuur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1166.s.1	zijn het gang ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1171.s.1	Ja , lid op al wel , en wachten ik thuis zode langen , Tot ik wederom komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.1174.s.1	Reinhart , terwijl Francois in het voor bij gaan diep groeten , en Jakomyn laai neigen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1177.s.1	die gaan treft'lyk wel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1177.s.2	wie moet de gek voor helpen , het zullen wel gaan , ik zien het aan het groeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.1179.s.1	Zevende toneel	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1181.s.1	Jakomyn , Reinhart , Stoffel , Pleuntje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1185.s.1	HEer Reinhart , hebben ik het na u zijn maken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1194.s.1	mare lijk ik in deze kleden niet wel een totebel ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1198.s.1	Neen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1198.s.2	Hoe gij ook zijn moogt , gei behagen de gek bijzonder .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1202.s.1	mare ik maken Hoogduits wouw die wel lukken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1209.s.1	Wonder : hij kunnen allee doen frans , en nederduits talen , Doch beide slechts genoeg , gelijk meest altemaal doen jong lien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1213.s.1	Hoe zullen hij eind'lyk bij ik raak ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1221.s.1	die menen ik deze na doen middag noch te maken , zijn mare gestadig aan doen door , ik hebben hebben al helen ver brengen , hij zijn naar jouw gelijk alles mal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1221.s.2	Ik hebben hij mede een hopen vergulden opsnyeryen velen wijze maken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1221.s.3	hij willen mede al kracht jouw vrijen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1227.s.1	mare al , wat ik hij ontfutslen kunnen , ik Heer , zullen ik het niet houwen ? het zij ik spijten alles ik het weer moeten geven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1231.s.1	mede fatsoen wel schaar , mare niet willen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1235.s.1	Wel die versteit zien : mare zullen hij wel spel wil ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1240.s.1	Daar zijn hij dol naar ; doch ik verbieden uw op de hals Niet vals te spel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1245.s.1	Neen , half zuiveren , en half vals .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1245.s.2	vinden vrouw woord die nu zode kwalijk niet nemen .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.1248.s.1	Achtste toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1250.s.1	Reinhart , Eelhart , Jakomyn , Stoffel , Kornelis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1255.s.1	mare ik zien daar ik vriend , zijn vriendelijk wel komen , Heer Eelhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.1257.s.1	Eelhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1260.s.1	hartelijk danken , ik zij uw in deze gewaad liggen zijn voorbij gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1267.s.1	Ik bidden uw maken op straat geren seremonien , noch compliment , daad'lyk Of flus kunnen het mede gemak scheiden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1267.s.2	het zij zeer schaadlyk zijn voor uw liefde .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1267.s.3	Ik zijn Lakei om uwent willen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1271.s.1	ik hebben uw Maseur beloofd , gelukken u list .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1277.s.1	spreken stillen , ik Heer , gei zoudtheel liggen hebben spel verbrodden kunnen , die ik zode tref'lyk tot u voordeel hebben beginnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1281.s.1	verschonen ik dan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1286.s.1	ik Verzoek om goed willen , handelen ik gelijk alles knechten , of ik blyf geren ogenblik uw bij ,	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1292.s.1	Wel dan , blyf hier , ik zullen ik na u voorschrift richten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1292.s.2	mare die ik aan deez ' Heer en Dame mijn plicht Niet af te liggen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1296.s.1	Neen : daar zijn geren haasten bij , wachten ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1301.s.1	Mevrouw ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1307.s.1	verschonen ik , wan Heer Reinhart mede wij lachen : Ik zijn zijn dienaares en doen uw , ik zij hovaerdig Op zode velen eer zijn , wij , en ons staan onwaardig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1313.s.1	ik Heer , hebben gaan nu in doen wereld helen verkeren ; gelijk ik Heer zijn in lakei transformeren , zode maken ik ik tot graven , en tot Gravin ik dochter .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1317.s.1	Hoe kunnen ik deze verstaan , Heer Reinhart !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1327.s.1	Ik verzochter heen beide toen ; gei zullen doen rijden straks verstaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1327.s.2	Daar woonenze in die huis , ik Heer , gei zullen ' er gaan logeren , en al het volk mede vol macht gebieden ; Al schijn het groot , hebben zijn mare gemeen lied , Heer Eelhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1327.s.3	Jakomyn , en Stoffel ik begeren , die gei ik vriend , alles ik zullen handelen .	Emotion_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.1331.s.1	Wel , ik Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1336.s.1	Nu komen , u blijven zullen doen tij hier niet verlengen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1336.s.2	treden in ik Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.1338.s.1	Kornelis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1340.s.1	ik zullen u valies dan hier doel brengen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1345.s.1	zijn ander ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1345.s.2	mare blijven al te saam bij een , misschien zijn het nodigen die ik zien vinden doen een of doen ander die .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1347.s.1	Einde vinden hebben eerst bedrijf .	None
+pels001verw02_01.TEI.2.text.body.div.head.1351.s.1	Tweede bedrijf .	None
+pels001verw02_01.TEI.2.text.body.div.stage.1355.s.1	Francois , Aapekoopster , mede een Baviaan op de arm .	None
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.1358.s.1	Francois , zingen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1368.s.1	AImable Bergere , quand tromperons nous laten garde severe d'un mary jaloers .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1368.s.2	Quand tromperons nous laten garde , c. Hier zijn wij aan het huis , klop aan .	None
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.1370.s.1	Aapekoopster .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1372.s.1	mare wij zullen ik betalen ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.1376.s.1	Ik ; brengen het Aapje mare in huis , en komen jouw gelden hier halen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1381.s.1	die ik vinden niemand zij boodschap , hebben gieren schijn , Sinjeur .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1396.s.1	zeggen die hebben komen vinden Monsieur zon Couzin .	None
+pels001verw02_01.TEI.2.text.body.div.sp.1396.s.2	zingen : S'il zijn desbonneste , il zijn du devoir , doen lieden mettre en test , ce quil croit avoir Il zijn du devoir doen lieden mettre c.	Joy_EmotionalAction
+pels001verw02_01.TEI.2.text.body.div.div.stage.1399.s.1	Aapekoopster , Reinhart , Francois .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1403.s.1	dagge vriendschap , daar nemen an .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1407.s.1	Hoe hier deze Aap ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1413.s.1	gieren vrees , nemen an , Monsieur kozijn zait , die ik hier moeten wees .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1420.s.1	hij , Reintje !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1420.s.2	aproche tooi , laten zij slechts binden gaan , bij ma Couzine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1424.s.1	mede die groot Baviaan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1432.s.1	Oui da : het zijn een present die ik zij moeten vereren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1432.s.2	het geschieden par orde vinden ma Tante .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1438.s.1	het lijken wel schaar , mare daar zijn Meinsje , ei brengen toch deze vrouw een bij Mejuffrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1449.s.1	WEl hoe staan hebben nu mede ik gevrij bij laten Comtesse en ma Couzine ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1456.s.1	ik hebben vernemen vinden doen gravin zij knechten wanneer gei daar zullen komen , die gei zullen welkom zijn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1456.s.2	zijde vinden in u manier vinden salueeren een zeer ongemeen zwier .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1463.s.1	Voi laten mon drole !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1463.s.2	ce kwee c'est te kunnen leven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1463.s.3	En ma Couzine ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1468.s.1	Die zijn ongevoelig , even gelijk een blok of stenen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1477.s.1	laten zot bete !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1477.s.2	ik zweren , kunnen ik bij laten Comtesse aanraken , nimmermeer Aan zij te denken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1482.s.1	gei zullen wel doel , laten zij lopen , gei moogt mede meerder grond op u Comtesse hoop .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1487.s.1	mare zode die missen , Reintje , ik wassen desespere .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1491.s.1	Bemintge u Nicht dan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1496.s.1	Niet alles par necessite .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1501.s.1	Die rijden dientge ik wat klaar uiten te liggen , zullen ik zij vat .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1515.s.1	ik hebben zij al langen uw wil zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1515.s.2	Hoe Reintje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1515.s.3	zullen ik par amour zij vrijen , quoi , Een Zeeuws of hollands kind ik min , non , ma foi , vinden geren noblesse , en die hebben Hof nooit frequenteerde ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1515.s.4	Neen , Reintje , die ik mede ik aanzoek zij vereren , geschieden uiten inzicht : wan ik wassen au desespoir !	Emotion_Despair
+pels001verw02_01.TEI.2.text.body.div.div.sp.1519.s.1	het wassen dan uiten plegen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1524.s.1	Neen , noch uiten liefde , noch deveir .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.stage.1528.s.1	Francois , Aapekoopster , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1536.s.1	mare doen Aapekoopster zien ik daar weder te huis uiten komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1536.s.2	hebben ma Couzine ik present niet aannemen doen bonne grace ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1542.s.1	kijk , ik kennen gieren spaans , ik verstaan Niet watje zeggen wild .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1542.s.2	Monsieur , waar vraagje na ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1549.s.1	zeggen jij het zij , Reintje , ik kunnen ik in u vilein langage Niet exprimeeren : het zijn te kanaaljeus ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1549.s.2	j ' Enrage !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1554.s.1	ik Heer vragen , hoe zijn Nicht hebben Aapje ontfaugen hebben , Hoe het zij behagen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1554.s.2	Hoe zij ' er houden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1565.s.1	Wel onbeleefd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1565.s.2	Ik zeggen er ; nul hoe hebben Monsieur kozijn ' lopen straat op , straat neder , om jouw deze mooi biest te kopen , die hij jouw schenken !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1565.s.3	hebben jouw Monsieur kozijn niet lief , ik verstaan het ik dan niet ; mare zij trek ' er mond houden schief En scheets : ik docht zij scheiden hebben biest niet mooi te vinden , zij heten het ik an een stoel , of zode mare , vasten te binden , En zeggen , gaan heen , het zijn wel .	Suspicion_BodyPart_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.1572.s.1	mare geven zijde het par bazard , Door die hebben komen vinden ik niet cens een douz regard .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1577.s.1	doen garde aan het biest , Monsieur kozijn !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1577.s.2	wij hebben zenden leven !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1577.s.3	hebben biest zij bijten , varen , zode zijde het doen garde wouw geven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1585.s.1	die zeggen ik niet , morbleu !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1585.s.2	hebben volk zijn hier , ma foi zode botten , alles beest : Reintje , ik bidden explique mooi .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1590.s.1	Zeg of zij om zynent willen zijn Aap mede vriend'lyke oog Niet eensjes aanzien ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1598.s.1	zeggen ik die , varen , het wassen een loog , hebben lijken ' er niet een na .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1598.s.2	zijde moeten gieren groots verstaan vinden Aapen aanzien : wan ik weten ' er in hebben landen gieren mooi ; mare beliefje nu ik gelden te lang ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1604.s.1	zien deze pistolet kunjy op handontfangen ; Indien ik doen Aap niet houden , zullen jij die houwen ; mare hout ik hij , moetje ' er noch acht aanzien , zijn het niet zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1608.s.1	mare wat tij komen ik weder ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1608.s.2	kijk het moeten niet houden langen duren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1614.s.1	el a raizon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1614.s.2	komen jij hier over drie vieren uur wederom , verstaaje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1618.s.1	ik gaan dan heen , Monsieur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1618.s.2	Gendag .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1636.s.1	kwee diantre , wat of ma Couzine schorsen mogen , die zijde niet estimeert presens , galant , servies , wat ik doen , of aanvang par laten vie , Ik zweren jouw die ik zij liggen ook een toon zullen wij zijde offences geven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1636.s.2	Hoe Reintje , ik zijn niet mal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1647.s.1	Wat voordeel vindtge in zulk een stuurse Nicht te vrijen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1647.s.2	ik Verwonder ik , die gij uw aan zulk ondankb're pryen Noch laten gelegen zijn .	Emotion_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.1647.s.3	gei minnen zij niet , nochtans passen gei zij op ; daar gei misschien een goed kans verwaarlozen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1647.s.4	Iemand , die twee haazen denken te jagen Op een tij , die mest en zullen hebben zien beklagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1647.s.5	geven uw geheel aan doen gravin , en laten u Nicht mare lopen : wan gei vrydtze uiten liefde noch uiten plegen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1657.s.1	mare Reintje , jij geven ik geren meerder esperance vinden laten Comtesse , alles vinden ik stuurse Nicht Konstance , En niemand weten zode wel alles gei , in welk parket Ik steken ; die ik worden vinden ik schuldenaar gered .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1667.s.1	Wel horen : wat aanbelangt u schuld , ik weten te maken die gei gemak'lyk aan wat uitstel zullen geraken , tot die een rijk vrouw uw brengen een vol beurs , alles gei op het trouw staan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1667.s.2	doen meest crediteurs zijn zode te paaien en te dwingen tot hebben zwijgen , Om uw weer op een nieuw krediet te doel verkrijgen , Opdat alzo zij schuld te meer verzekeren zijde .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1675.s.1	Wistje al ik crediteurs , ik weten , Reintje , jouw zullen ik beklagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1675.s.2	ik hebben ' er vijf of zes die vinden een and're Natuur zijn alles gemeen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1675.s.3	Ab jouw ik laisse pendre , zode gei die raad .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1696.s.1	willen ik zij een raden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1696.s.2	Cuisiniers , Lingeres , Violons , Tailleurs , Cabaretiers , Marchand doen vinden , barbier , Vendeuze doen dantelle , Et plusieurs autres pour bieden regaler laten bel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1696.s.3	die zijn te zeggen kok , Dansmeesters , Rottisseurs , Perruquiers , Limonadiers , Vendeurs doen likeur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1696.s.4	Billard , Caffe .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1707.s.1	Al wat jouw daar komen op te tal , Ah fi !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1707.s.2	J'enrage , het zijn slechts klein bagatel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1707.s.3	Menus frais doen plaisirs , die nimmer crediteur zode oog achten die hij om zode klein leur en zuur , helen uiten Parys komen om ik hier te komen vinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1711.s.1	Wat weten ik het , licht'lyk hebben een vinden heen hier wel vriend .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1717.s.1	die zijn ver gezogd en helen onzeker ; mare pardi !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1717.s.2	ik liggen nog meer op het harden , daar ik geren raden toen zien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1721.s.1	nog meer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1728.s.1	Ja ik vrezen , indien ik vrijen woord vernemen In Vrankryk , die ' er wel vijf juffer overkomen , mede negen kind .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1732.s.1	Om wat oorzaak ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1737.s.1	Om ik trouwen Om ver te stoten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1737.s.2	Elk vinden zij wassen graag ik vrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1741.s.1	zode hebben gij liggen aan doen een of doen ander trouwen geven ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1745.s.1	mede woord honderd malen ; mare nimmer vasten beschrijven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1749.s.1	mogen die zode door ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1757.s.1	die doel doen frans altemaal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1757.s.2	denken een aan het jaar twee , drie en zeventig , hoe kaal wassen menig Fransman daar liggen t'Uitrecht afkomen , hebben hij op die wijze zijn mesures niet nemen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1757.s.3	Dus zien gei Reintje , ik hebben mede trouw groot haasten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1762.s.1	Daar komen u moed , zijde schijnen onsteld !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1762.s.2	Reinhart gaan stillen in buiten .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.1766.s.1	Francois , Kristine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1772.s.1	Hoe dus verbazen Ma Tante ?	Emotion_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.1777.s.1	Ah mon Neveu !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1782.s.1	Wat zijn uw wedervaren , Wat schorten ' er ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1787.s.1	nul die Aap !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1787.s.2	mare laten ik eest bedaren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1791.s.1	Wat haperen ' er ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1800.s.2	hebben ik het niet geempescheerd mede moeite , wij zijn hebben groot malheur arriveren de wereld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1800.s.3	Foei !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1800.s.4	zijn hebben gei zulk een die gekreegen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1800.s.5	Foei , mon Neveu !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1805.s.1	varen voor , wild gei die ik te degen u mening vatten : Wat doen hebben Aapje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1816.s.1	Le Cocquin , die beest , die vlegel vinden een Baviaan , Couzin , hebben ma Couzine , en al zij kleed'ren helen ontheisterd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1816.s.2	Ja wij weten , hebben wie de rekel niet teisteren , Wat niet gebeuren zijn !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1822.s.1	Ei , zeggen ik toch helen en al , L'affaire , Ik zweren die ik ik revancheren zullen .	EmotionalAction_Vindictiveness
+pels001verw02_01.TEI.2.text.body.div.div.sp.1828.s.1	Wel horen dan , weten die op doen eerst aanblik ma Couzine uw al zode wel , alles doen Aap uitlachte .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1833.s.1	laten Cocquine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1838.s.1	het hebben vrijen wat rijden : wan zode groots een Baviaan In plaatsen vinden ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1846.s.1	hebben gei ik intrige eest verstaan , gei preest ik zeer , ma Tante , o !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1846.s.2	daar schuilen zode wat onder .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1846.s.3	doen schoon inventie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1846.s.4	mare gei vatten die niet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1851.s.1	Wat wonder , gei zeggen die niet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1860.s.1	Ma Tante , ei zeg ik eest hoe die doen kwesti , die ik Aap mede ma Couzine hebben , Toch aflopen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.1	Wel , zijde wild u Aap schier mede zij oog Niet aanzien , noch zelf in zij kamer meer gedogen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.2	ik bond hij echter aan een paal vasten , tot die gei zullen komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.3	Ik gaan naar ik kamer toen , om ik Te kleed , en ik laten ik Nicht zij punt d'Espanje Voortwerken ; mare ik hebben ik Coife en rok mede franje , nauw aandoen , of ik horen een schrikkelijk krijten , Die ma Couzine geven , alles doen ik zij groots lijden .	Fear_Emotion_BodilyProcess_Sadness
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.4	Ik vliegen mede Meinsje naar zij kamer toen : daar vinden wie doen Aap , die vinden doen paal zien weten hebben t'ontbinden , En ma Couzine op het lijf afspringen wassen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.5	zode alles doen schelm wij zien , smijten hij zijn poten om zij hals , scheuren zij manchet en fichu , en zij Coifure , En gaan zode schriklyk aan , die hebben par aventure , Martyn doen Huisknecht wij niet in die ogenblik Te helpen komen mede een knuppel , en een strik , En wij ontzet , hebben wassen liggen euvel aflopen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1889.s.6	Foei , mon Couzin , zode groots en vuil een beest te kopen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1900.s.1	Ma Tante wel !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1900.s.2	wij hebben zulks vinden een Aap gedocht , Die hier in Holland door een fransman wassen gebrogt , die hij niet goed opvoeden zij zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1900.s.3	kwee diantre , lieden passeray jouw mon epee par le ventre ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1900.s.4	Daar liggen doen hopen vinden ik inventie nu in doen as .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1905.s.1	Ei , zeggen toch , mon Couzin , wat die inventie wassen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.1	gei weten , ma Tante , een knechten , hoe trouwen hij ook mogen wees , zijn liggen mede gelden en mede beloften te belezen , En die zode klein zijn alles u Baske , mede banket Of and're snoeperij , hoe nauw ik op hij lid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.2	terwijl wie dan hier door te groots een risque lopen , die deze of gene liggen een lijf knechten om kunnen kopen , En stillen , ma Couzine , avec een zwier , te hand Een Minnebrief , vinden d'een of d'andere galant , zode denken ik , ik zij de Aap , die schier zode groots vinden lid alles ons Baske zijn , doel in zijn livrei verkleden , En wild hij al alles een mens doen , ja lang straat Op d'achterpooten , net alles op twee been gaan , zij ik hij doel doen fleep vinden ma Couzine dragen ; Ha , ha , lid wel , zode kunnen geren vrij hij iets vragen , Of mede hij spreken ; en aldus door zulk een gast zode waar wie vinden zorg en al vrezen ontlasten .	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.3	mare deze zijn het noch niet al .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.4	gei weten die hier niet ander In het landen braden woord vinden doen botten nederlander , Dan het geren zij wij voor zieden doel , wanneer hebben mare doen naam vinden mode dragen , hoe dol hebben zijn mogen , hoe infaam ; alles ma Couzine dan vinden doen Aap in Baskes kleed En prat bonnetje , die voor mode zij passeren , volgen worden ; zij voor al het gejuffer razend dol naar aapen zijn : ik zij dan die goed mede schip vol , doel uiten Westinjen hier in Holland overkomen , En winden zode velen gelden alles ik zij durv en droom ; teen twintig centjes ruimen op elk een kargezoen , En hier doen koopman rechte negotie lederen doel .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.5	ik mogen in het eest , alles om wat nieuw , daar met railjeeten , mare ik wedde die mode bij doen dame zij passeren : wan zode een stom knechten zij zij ook niet verraden alles zij een , incognito bij goed gezelschap gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1948.s.6	Wat dunken , ma Tante , vinden doen inventie ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1953.s.1	Z ' zijn bijzonder Galant , en nooit horen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1960.s.1	mare die zijn ook geren wonder : In Vrankryk zijn hebben volk gemeenlijk inventief .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1960.s.2	mare zijn beven doen Aap daar na , die onbeschofte dief ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1964.s.1	Ik hebben hij op doen plaatsen doel aan doen schutting binden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1969.s.1	laten ik begaan , ma Tante , ik zullen hij daar wel vinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1978.s.1	Ei maken uw het beest strak kwijt , en stellen Constancie weer Te vreen , en zet zij toren , zijn het mogelijk , wat te neder .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.1978.s.2	ik tij verlopen : zullen ik behoorlijk mijn zaak beschik , mon Neveu , die ik het wat korten te maken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1978.s.3	Adieu .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1986.s.1	Ma Tante , indien ma kampanje uw niet Desagreabel wassen ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1992.s.1	gaan gei in huis en zien Wat daar te doel zijn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1992.s.2	ik moeten ik Advokaatiets zeggen , En komen zode weer , ik hebben uw ook iets voor te liggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1998.s.1	Aan ik , ma Tante ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.1998.s.2	jouw suizen touwen a fait a vous .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.2000.s.1	Zevende toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2008.s.1	NAar't zeggen vinden ma Tante zijn Nicht zeer en cour oux .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2012.s.1	zode horen ik daar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2016.s.1	Wat raden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2021.s.1	Ik weten uw niet te raden ; gei zijn hier wijzer in , alles ik .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2027.s.1	Wel het kunnen niet schaden , die ik jouw meenig horen : twe weten meer alles een .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2032.s.1	trachten mede onschuldigen en smeken zij te vreen Te stillen .	EmotionalAction_Desire_Despair
+pels001verw02_01.TEI.2.text.body.div.div.sp.2038.s.1	mare gei weten , ik komen mede zij humeur Niet over een , al wat ik zeggen schijnen zij te storen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2038.s.2	die gei hebben doen ; ik weten die zij uw lief horen alles ik .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2042.s.1	Ik bidden ...	EmotionalAction_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.2048.s.1	Ei Reintje die excuses aan een zijde , maken jij doen baan eest klaar ; ei Reintje , jouw vous prie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2052.s.1	ik zij uw liggen hinder doel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2060.s.1	Non punt , doen cermonie , ik houden het voor een grand servies , alles gei ik slechts gerieven Voor ditmaal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2064.s.1	ik zullen dan doel al wat ik Heer believen .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2068.s.1	Jakomyn , Francois , Reinhart , Pleuntje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2075.s.1	NO kaar bald wie / und verges zode nicht de spiegelen met zijn golden lijst te hol vinden Abiegel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2080.s.1	Daar zien ik laten Comtesse .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2085.s.1	Ik zeggen nog volg ik raden , het zijn nu doen recht tij , eer die zij binden gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2090.s.1	Bringt mich mein parel auch / und willen meer nicht meer kwellen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2096.s.1	Hoe maken ik ik abord ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2107.s.1	ik Heer , gei moeten hebben stillen gelijk alles of hebben par rencontre komen , aks kaks , die gei verlof bij laten Comtesse krijgen , om straks doen eer vinden zij aangenaam gezelschap te genieten , ik zullen het ondertussen bij u Nicht zieden ronden te schieten , die zij uw wel handelen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2114.s.1	ik Gaa dan vragen , ja ik ma foi , Prend garde die gij uw ook wel dragen in uw plooien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2119.s.1	Wol / doen das / god .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2123.s.1	Ik komen zode weder .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.2125.s.1	Negende toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2127.s.1	Francois , Jakomyn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2136.s.1	MAdamoizelle jouw prens laten liberte , mais avec troep doen zelle Peutetre doen m'offrir en touwen bumilite ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2143.s.1	doen har moes wis / die ich kein Fransois verstee / Sprech lief nederduits / wassen willen doen har mir zagen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2149.s.1	D'avoir l'honneur , zode het u genadig mogen behagen , vinden uw in u logies te heet welkom .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2154.s.1	die zijn zij gros eer die meer geschieden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2161.s.1	En om uw ook te entretenir , zode het uw te passen mogen komen ; En ik franchise niet worden kwalijk opnemen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2166.s.1	Wat tij ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2171.s.1	Apres un heure .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2176.s.1	Ich kunnen euch nicht versteen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2180.s.1	te vier .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2191.s.1	ja ik har / meer worden gros eer gescheen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2191.s.2	Ich binnen hier onbekant / en mus verschuldigd blijven An die meer doen eer doel / das zi meer doen tijd verdrijven : Te meer / wannen het komen vinden zulk ein kavaljier .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2199.s.1	L'Honneur vinden u presence achten ik een singulier bonheur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2204.s.1	doen har sprech duits .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2210.s.1	het zijn duits vinden het zwierig op doen mode , Entrelar de mede frans in elk periode .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2215.s.1	Wat zijn die dingen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.1	Wat zullen ik zeggen , het nederlands luiden Enorm , alles het niet mede frans wat klaar worden beduiden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.2	alles par exempel ; ik zijn u dienaar Heer , klinken beestig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.3	jouw suizen vot serviteur , Monsieur ; Oh !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.4	die zijn geestig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.5	Hoe prat zijn deze .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.6	ik Heer , ik gebied ik in uwegunst !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.7	Mais jouw ik recommande a vous , Monsieur , die zijn kunst .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.8	die zijn aardig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.9	zijn hebben niet inpertinent te zeggen , Helaas !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.10	indien ik uw ik harden mogen openen liggen , gei zullen hebben blaken zieden in een zuiver vlammen , Die uiten doen vonkjes vinden uw oogjes oorsprong nemen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.11	mare horen : Si doen mon coeur , ik doel mogen ouverture , gei zonde ' er une flamme in vinden toute puur , Alleenlyk gecauseerd door vos petits beaux jeux , Mademoizelle , be ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2245.s.12	klinken die niet merveilleux ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2250.s.1	Forwaar ich zijn verzest	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2256.s.1	zode doel meest al doen vrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2256.s.2	Ik menen ' er touwen le soir uw met te onderhouden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2263.s.1	wassen red'ning / und wassen zeggen vertreib ; vinden ieder wassen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2263.s.2	doen har spielt wol pieket /	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2267.s.1	Ik spelen het zeer gaern .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2276.s.1	Das Gefelt weer / ich hab lusten funf / zex dozein dukaaten mede euch zij waag .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2282.s.1	ik zullen ik die zode liggen niet laten Afwinnen ; of het moeten zijn par courtoisie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2289.s.1	Nein / Das fuegt das Fraulein nicht vinden Swalgenbuttelstein .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2297.s.1	ik zien daar ik knechten , mede u verlof Mademoizeele , Ik moeten hij spreken vinden een zeker bagatelle vinden groots gewicht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2297.s.2	jouw suizen vot serviteur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2306.s.1	Ich binnen Sein allernedrigste / und verplicchtste Dienarin / Bis uber eine stund .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.2308.s.1	tiend toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2320.s.1	IK hebben u Nicht belezen , die gei nu tamelijk wel zullen ontvangen wees : zijde wachten uw ; mare houwen zij niet op .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2320.s.2	zij zijn door het wellen vinden doen Aap onpasselijk worden en onsteld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2320.s.3	maken uw ontschuldiging wat korten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2320.s.4	zijde willen wat rust .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2320.s.5	velen woord zullen zij voor deze tij niet lust .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2327.s.1	Ik hebben ook weinig tij , omdat ik binden het uur moeten wees in hebben huis vinden ons nabuur , bij laten Comtesse .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2332.s.1	Wel zode hebben gei al beginnen Te vrijen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2340.s.1	Oui mon drole , ik achten zij al half gewinnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2340.s.2	laten villen parlement .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2340.s.3	Ik zijn zeer wel vinden zij onthalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2344.s.1	maken mede u Nicht nu ook u zaak klaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2349.s.2	zode kunnen ik doen eene , of doen and're Bruid niet mis , Niet zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2353.s.1	Voorzeker Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2353.s.2	hij kosten zien wel vergissen .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.2355.s.1	Elfde toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2357.s.1	Reinhart , Pleuntje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2362.s.1	ik zien daar doen meid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2362.s.2	Ei Pleun , zeggen die Heer Eelhart hier Straks komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2366.s.1	Heer Eelhart !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2366.s.2	heide , Heer Eelhart !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2371.s.1	Wat getier , zijn die ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2377.s.2	hebben doen klepel niet gerammeld In deuze klok , wij weten hoe langen hij hebben gesammeld .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.2379.s.1	Twaalfde toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2381.s.1	Reinhart , Eelhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2391.s.1	HEer Eelhart , Och !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2391.s.2	u lief Konstance zijn zode verblijd , Om die gei hier tot zij ontzet komen zijn , die zij onverduldig zijn , om uw te zieden en spreken In doen achter zadel , daar ik doen muur hebben door doel breken , uw zullen bezoeken , door doen nieuw gemaakt door .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2391.s.3	zijn zijde in flot , of zijn doen grendel daar noch voor ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2391.s.4	doen die daar af , en maken doen door vinden u kanten openen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2396.s.1	mare vrezen zij niet die zijde helen liggen gevaar mogen lopen die iemand wij verspieden , en steurde ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2401.s.1	Ik nemen die zorg Op ik .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2405.s.1	Ik zijn zeer wel rusten op zulk een borg .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2411.s.1	zijde veinzen zien ziek te zijn , en zullen zij kamer sluiten vinden binden , opdat daar niet een mens vinden buit zullen kunnen in zieden , noch inkomen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2416.s.1	Ach !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2416.s.2	ik vriend , Wat lot ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2420.s.1	u vriendschap hebben aan ik velen meer verdienen !	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2422.s.1	Einde vinden hebben tweede bedrijf .	None
+pels001verw02_01.TEI.2.text.body.div.head.2426.s.1	Derde bedrijf .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2436.s.1	NU ma Couzine slapen , hopen ik zode wel te waken , die ik zeer haasten mede laten Comtesse schrappen zullen raak .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2444.s.1	die kunnen niet mis , wan zijde wassen zode zeer verheugd Om u bezoeken , zode zeggen doen knecht , die zij doen vreugde te oog uiten scheiden ; mare hoe staan hebben dan scheppen mede uw Nicht ?	Joy_Emotion_BodyPart
+pels001verw02_01.TEI.2.text.body.div.sp.2444.s.2	hebben zij , eer zijde zien begeven tot slapen , uw aanhoren ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2454.s.1	En ik excuzes helen civiel ontvangen ; ik weten niet die zijde zich ooit goed houden .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2454.s.2	zij air wassen vriendelijk ; zijde kennen mede meer gratie nygen alles ooit , ik zij wel zijn in ma Couzine krijgen , Al zijn zijde ziek , zode doux wassen zijde , en zode galand .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2459.s.1	En laten Comtesse ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2467.s.1	Die gaan voor , cela s'entend .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2467.s.2	ik hebben evenwel aan uw zode groots een obligatie , die gij al jouw leven langen zullen blijven in ik gratie .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2467.s.3	ik menen noch een manna vinden jouw te maken .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2473.s.1	ik zullen uw raan die gij eest denken aan uw zelf .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2473.s.2	hebben zullen mede ik wel gaan .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2473.s.3	Ik zijn een manna , een Heer vinden het mijn , ik hebben geren schuld .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2487.s.1	die wild ik ook wel om een hoeden vinden duizend gunnen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2487.s.2	mare ik zijn Jonker , en ik spruiten uiten Aad'lyk bloeden ; zien die verzet geheel doen schaarsheid vinden hebben goed .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2487.s.3	ik wedde laten Comtesse , al weten zijde , die ik niet een stuiver hebben in doen wereld , kennen ik mare ik Adel zuiveren bewijzen , zij velen eer mede ik een huuwlyk doel Dan mede een manna , al hebben hij twee drie millioen , zode hij niet Aad'lyk wassen ; die bloeden hebben wat te zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2487.s.4	die bloeden !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2487.s.5	die bloeden !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2494.s.1	zijn die verschillen niet uiten te liggen vinden het uw en het ons ? het ons zijn rood : zijn het uw grauw Of witten , of donker groeien , of paersch , of bliksem blauw ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2494.s.2	verschonen ik , zode ik uw steur of ophouw mede ik praten .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2509.s.1	ik hebben noch geren haasten ; mare , die gei deze diskoers woud laten , zijn beter .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2509.s.2	Edellien , alles wie zijn , scheppen geren Pleizier , wennen gei lien zode profond zullen wil treden In die misterien , wie verstaan wij mede elkander .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2509.s.3	C'est klaar pour nous ; al zijn het wat duister voor een ander .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2509.s.4	zijn het niet genoeg , alles wie een Dame rijk vinden goed Begooghlen kunne door doen estime voor wij bloeden , En titel ; die zij om wij al and're meprizeren , En mede wij trouw ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2513.s.1	Om zij gelden te zieden verteren .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2526.s.1	Quand laten depense zijn bel , en die ik een Lakei zes , zeven hout , koetsier , en koets , en dikmaals vrijen Ballet en bal geven , zes amis doen bonne grace Trakteert ; in doen Opera hebben laten meilleure place , Un loge , uw deux ....	None
+pels001verw02_01.TEI.2.text.body.div.sp.2530.s.1	gei reppen vinden geren komedie ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.1	komedie .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.2	ik Spuuw wanneer ik een komedie zien .	EmotionalAction_Disgust
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.3	Oh doen Opera zijn velen meer naar doen mode Reintje .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.4	komedie , fi !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.5	ab fi !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.6	daar kost hebben mare een kleintje , Een gunnen in doen bak , een huisje een dukaton .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.7	het moeten zode zijn , die ' er geren kanaalje komen kennen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.8	Wat dunken uw , alles ik een depense doen si bel , Die dan zijn gelden beklagen a - t'il doen laten cervelle ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2547.s.9	ik woord gerenommeerd ; hebben geven respect : elk een slaan achten op wij .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2553.s.1	ik Beken het ; mare het zijn hier niet gemeen , Noch zeer achten .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2553.s.2	ik zij het hier gelden verspillen heet .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2553.s.3	Hoe !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2553.s.4	hebtge in Vrankryk , dan u tij niet wel verslijten ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.1	ik hebben een het geluk hebben in Vrankryk , die ik in doen groot kamer vinden Mevrouw doen Koningin Dix mille ecus verliezen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.2	doen Koning admireerde ik koelheid , omdat ik het niet meerder estimeerde Dan een bagatelle .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.3	Ik geven een een balet Aan een Marquise , het geren mede violons , banket , flambouw , en ander wel vieren duizend kronen koste .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.4	zijn voor ik laten Marquise ook vinden een pakken verloste , die ik een jaar langen hebben gedragen op ik harden .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.5	Ha Reintje !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.6	jouw suizen beau , dispost , galand , gaillard .	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.7	Al kost zij ik wat gelden , Ah ! het zijn een vrouw de vrouw !	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.8	ik hebben drie jaar langen zij helen pompeuslyk onderhouden ; zijde kost ik ...	None
+pels001verw02_01.TEI.2.text.body.div.sp.2581.s.9	mare ik zien le Comte , ik spreken hij aan , ik willen zonder zijn conge niet bij zijn dochter gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2584.s.1	Francois , Stoffel , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2596.s.1	IK kunnen het niet laten , of ik moeten uw congratuleeren In u logies , en uw ik dienst presenteren : ik hopen , die wij voizinage in het korten ik helen en al In hebben faveur vinden u ' genadig brengen zullen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2596.s.2	Om eternellemant u serviteur te heet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2609.s.1	Ich binnen ihm gantz verpflicht fuer die civilitaeten / Dasselbe waard ich ihm vinden meiner seithen auch Mitt freud ' erzeigen / Heir / wannen ich das rechte gebrauch / Und die methode waard dieser leuteren wis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2615.s.1	die deze hebben fondament vinden meer verbintenis zullen zijn , zijn mon espoir .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2631.s.1	Das hoff ' ich / und ich schwehr Dasch ich kein mens zon / alles meinen har ehr .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2631.s.2	Mein Tochter hatt mir zo vallen wonderliche ding zij seinen lob erzehlt / dass zien zien nicht gering Verpflicht achten durchs besuch / das er ihr gebet / Fuernemlich weil er zo courtees mitt jeder lebet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2636.s.1	zij ik vizite zij in iets ook empescheeren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2645.s.1	zien warren dorren dem har auff .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2645.s.2	Er wird zien gantz verehren / hij / Plonje / hij / bring die de har alzo balt Vy Iungffer Iacobine	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2653.s.1	Ik zullen , wild het uw gevallen , die ik un beure , uw deux u dochter op mogen pas , Straks bij zij gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2659.s.1	nul !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2659.s.2	das gefaelt mir aussermassen .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2664.s.1	Stoffel , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2668.s.1	WAt dunken uw , gaan hebben zode niet wel , Heer Reinhart ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2675.s.1	Braaf , gei spelen natuurlijk , en helen wel doen rol vinden graven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2675.s.2	zode Jakomyn gelijk alles gei , zij zelf kunnen dragen , hebben zijn onmogelijk of ons aanslag moeten wel slag .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2680.s.1	Ik twijfel niet , ik Heer , of het zullen wel gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2680.s.2	mare gei , Die voor Lakei spelen , spelen gij u rol zo wel alles wie ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2684.s.2	wat doen ik dan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2689.s.1	Op de Adel zode te schempen , passen die Lakeyen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2698.s.1	horen : Ik kunnen ik zuchten niet dempen , alles ik die fanfarons horen fnat'ren vinden zij bloeden ; En eerelyker lien dan zijde , uiten overmoed , verachten bejegenen , en aanzien over schouder .	BodilyProcess_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.2698.s.2	hij mogen hebben doel , wij willen ; mare het zijn een gek .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2698.s.3	Ik houd'er Niet vinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.1	het zijn wel ; mare doetge uw zelf niet te korten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.2	hebben gei geren delen daat in , ik Heer , alles doen Adel woord verongelijken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.3	torn ik u vader zien begraven Op het Sas vinden Gent , wassen het niet zode adellijk en braaf begrafenis , alles ooit een Edelman genieten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.4	Wat wassen doen staatsie groots !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.5	Wat wassen doen toestel groots !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.6	gei laten ' er zelf geren vieren , geren achten kwartier dragen ; mare vijftien wapen vinden u adellijk maag , versieren het uw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.8	verzaken gij uw zelf ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2714.s.9	Ik willen uw toon , die gei , wat doen degen of doen spel betreffen , geren Edelman in Neerland hoeven te wijken ; Ja uw bij graven en Baronnen moogt gelijk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.1	Ik kennen ik zelf helen wel , en weten wel , die gei langen mijn ouder hebben kennen , waarom ik blijde ontvang , die gei ik herinneren uiten wat stam ik zijn spruiten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.2	mare gei kennen ik niet , zode gei menen , die ik mede groot de spot dryf , of een oud , en adellijk slachten Niet meer , alles doen afkomst vinden een boer of burger achten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.3	Gelukkig !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.4	die een reeks vinden ouder kunne noemen , Op welk daad , op weer deugd zijde mogen rome , alles zij gemoed , door die voorbeeld aanporren , En in die daad , in die deugd geoeffend woord ; mare een , wie daad , vol uitspoorigheid , doen nemen vinden zijn Voorvaders , en beroemd slachten beschamen , En die elk een verguizen , een lanterfant , een vent Die mare aan zijn lievry , en wapen woord gekend , Of opsnyt vinden zijn Stam bij Juffets , en op balen , kunnen het bij geren snedig boer , noch zedig burger halen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.5	zode ik ' er somtijds een verachten , zode spreken ik vinden zulk onbehoudene .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2737.s.6	ik liggen mede een Edelman , zode hij zijn omgang , zijn deugd , en manier , Niet boven hebben gemeen doel kennen en versieren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2741.s.1	ik Heer , ik weten daar in nooit zode velen onderscheid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2749.s.1	die zijn geren wonder , gei waard steeds in dienstbaarheid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2749.s.2	doen treffelijk Adel , wassen bij uw een zwier Lakeyen , Hofmeesters , Koks , koetsier , Karossen , en Lievryen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2749.s.3	Indien gei deftig gedachte had hebben , gei zullen ...	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2754.s.1	Meinsje , Reinhart , Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2758.s.1	OCh , Reintje , och !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2758.s.2	och !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2762.s.1	Wat zot getier zijn die ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2767.s.1	wassen zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2767.s.2	wassen zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.1	Och , och !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.2	ik moeten hebben huis verlopen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.3	ik hoeve nimmermeer op onz ' Mevrouw zij gul te hoop .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.4	Och , ons Juffrouw , och , Konstancie zijn gewis haas op .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.5	zijde hebben hebben hazenpad kiezen ; geven de schoppen An eer en deugd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.6	Ik hebben haar in een jonkman arm zien , en zonder zien in het minst te beschermen voor zijn gezoen !	EmotionalAction_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.7	het wassen of zijde het al haar leven langen gedaan hebben .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.8	Wat goed ik an !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2778.s.9	Och Reintje , ik binnen zode bang !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2782.s.1	Wanneer zijn deze gebeuren , en zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2786.s.1	Hier naast en daad'lyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2791.s.1	wassen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2791.s.2	wassen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2791.s.3	hier nachst ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2795.s.1	Ja tocht !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2800.s.1	zwijgen stillen , het zijn dikwijls schaad'lyk Te zeggen ding die ik niet helen vasten en weten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2805.s.1	wassen sagst du vinden hier nechst ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2805.s.3	weist du wassen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2813.s.1	gei deedt velen beter , die gei wat bezaadigder vertelde , hebben geren gei denken te zieden , en uw zode niet ontstelde .	Fear_Worry_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.2813.s.2	Wat menen gei die gei zagen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2818.s.1	wassen habt ' er tocht gezehn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.1	Ei lief horen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.2	Mevrouw geven flus aan ons doen doen huisknecht lassen , die hij jouw Heer zijn Aap zij binden An ons schutting , om die hij hij daar zij vinden , En brengen hij wederom , of tot hij doen Aapevrouw wederom zij halen , en tot heurent brengen zij .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.3	mare denken een vinden die schelm !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.4	hij weten hebben touwen te ontknopen , zien los te maken , en hij zet het op een lopen , En spring ; en torn wie hij vang willen , vliegen hij in doen tuin hier naast wij al uiten hebben ogen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.5	Ik kijk hij in doen tuin vinden buurman na , mare jemie !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.6	Ik kijken , alles wassen ik in een spel vinden doen Akkedemie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.7	ik zien door doen venster heen vinden buurman achter zadel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.8	daar staat Konstancie , het zijn zode waar alles ik het verhalen , In doen arm vinden een netten , en jong , en mooi vrij .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.9	ik verschrikken zeer , en docht , wat droes !	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.10	hoe komen hij bij ' er ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.11	Of zijde bij hum .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.12	ik gaan na haar kamer , die ik in het slot sluiten vinden , en mist doen sleutel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.13	het wassen verbrod , zode ik merken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.14	kijk , terwijl ik achter wassen lopen , wassen zijde doen veurdeur fraai behendig uitgesloopen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.15	Wel wij zij denken , die zode jong een kleuter hebben Die knijpen in haar kop , die part in heur gat .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2844.s.16	zien daarom dor ik in hebben huis niet lang blijven , Ik weten wel , die Mevrouw ik toch daar uiten zij drijven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2852.s.1	In meinen hauze / das sein eitel persen / nein wij icherrst ihr mich / das kunnen unmueglich / ja nicht sein .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2857.s.1	gei hebben liggen mist zien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2857.s.2	hebben gei ook aan zij kamer Geklopt ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2862.s.1	Wel neen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2868.s.1	zode doen het , dus kunnen ik wat bekwaam oordelen : wan hebben werken dunken ik al vrijen verwarren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2868.s.2	Gaa , Meinsje , klop een aan zij kamer , mare wat hard .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2872.s.1	Reinhart , Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2879.s.1	GAa Stoffel , zeggen nu aan Konstance die zij op het klop vinden Meinsje , niet laten op te doel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2879.s.2	ik moeten zij foppen zijn het moog'lyk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2879.s.3	het werken wassen daar te naast bij verbrod .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2879.s.4	mare ik zullen het wel maken , die ik doen oud vrouw bedod .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.2882.s.1	Stoffel , binden wezen zijn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2884.s.1	Ik hebben hebben zij gezegd , zijde zullen hebben doel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.1	het Ontkennen moeten wij nu bijstaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.2	Ik kunnen ik niet wel gewennen tot logen , dan allee tot loogens als in node , Om besteden willen geschien , al zijn die noch zode groots .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.3	horen : om dan mede fatsoen zeer onbeschaamd te liegen , zode moeten ik zeggen , die zij oog zij bedriegen , die zij oud en krank zijn vinden gezicht ; en moeten hebben zijn laten hier Konstance , slechts in plaatsen vinden Jakomyn verschijnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.4	Ik zullen zij die zaakje wel ontleggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.5	passen jij mare , die jij zegt , gelijk jouw ik horen zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2898.s.6	Daar komen zijde weder .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2902.s.1	Meinsje , Stoffel , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.1	JA wel , ja wel , het zijn toverij !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.2	Konstance lach en slapen , en niemand wassen ' er bij .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.3	Ik zien en spreken ' er mede .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.4	Ja wel , ik staan zode verwonderd , alles of het te Keulen in ik oor hebben donderen !	Emotion_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.5	Hoe lijk zijde ik kaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2911.s.6	Wel wij hebben die gissen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2916.s.1	zo zien manna ja / das mehr gleich dan eigen zijn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2920.s.1	die ik jouw dochter nu een zieden mogen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2929.s.1	willen zien sichen / Das kunnen gantz fuuglig / und zo gleich geschehen / Ich willen alzo balt henkommen fur die thuur .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2933.s.1	Reinhart , Meinsje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2938.s.1	gei geven velen moeite , Meinsje , aan ons nabuur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2938.s.2	hij zijn een zeer groots Heer , een graven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2943.s.1	wij zij die droom !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2943.s.2	Wat doen hij hier ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2950.s.1	hij zijn hier onbekend komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2950.s.2	ik weten vinden zijn knechten ook , die hij niet bekennen willen zijn , zien daarom komen hij hier slechts in gemeen schijn , En hout mare een Lakei of twe .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2955.s.1	Ja wel te weten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2955.s.2	zijn hij een graven , of zode een dingen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2960.s.1	zijn goud keten , En penning op zijn barsten , wijzen zulks genoegzaam uiten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2964.s.1	nul Rein ; wat binnen ik blij , die deze een graven beduiden .	Joy_Emotion_Relief
+pels001verw02_01.TEI.2.text.body.div.div.sp.2978.s.2	Ik zullen doen spaarpot vinden ik zeuntje An stuk smijten : nu dan key'ren das een deuntje , En kopen voor hebben geld een penning .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2978.s.3	kijk zijn peet , geven hij een ketting tot zijn pil gift .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2978.s.4	zode weten Ik ons Dirrikje ook mooi tot een graven te maken , Niet waar !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2978.s.5	wel kunnen een mens zode an een Graafschap raak ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.2982.s.1	zwijgen stillen , daar komen ik Heer doen graven wederom .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.2986.s.1	Stoffel , Meinsje , Reinhart , Konstantia .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3000.s.1	MEin kind worden komen / aber ich willen das ihr euch verbinden / Das ihr vinden zien / vinden mir / vinden keinerhande sachen An keinen mens wohrdt und geplauder sollet machen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3000.s.2	Er zijn mir hoegst daran liggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3005.s.1	Wel , ik Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3005.s.2	ik beloven hebben jouw , als een vrouw met eren , op ik eer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3009.s.1	Ik ook .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3015.s.1	komen dan herfuer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.3018.s.1	Meinsje , zien Konstantia , in doen door vinden Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3020.s.1	Wel Heer die zijn Konstancie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3024.s.1	Wel hoe !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3024.s.2	zijn lijken die aan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3028.s.1	Aan al doen remonstrantie .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3034.s.1	Wat praten jouw Meinsje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3034.s.2	wat ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3034.s.3	hebben lijken zij niet een zeer ; ik hebben zode wel oog in ik hoofd , alles gei .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3040.s.1	kijk hier !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3040.s.2	hebben lijken ' er niet ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3040.s.3	Wat droes !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3040.s.4	hoe ken't haar meer gelijk ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3040.s.5	zij zijn eveneens geklied : ik Heer , jouw zullen hebben kijken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3045.s.1	Das wereld ja ik lich zieden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3051.s.1	mare hoe , ik binnen niet vergissen , hebben zijn Konstansje zelf , wat droelie ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3051.s.2	ja zijde zijn het .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3051.s.3	Konstansje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3051.s.4	Juffrouw ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3051.s.6	zijde zwijgen en lachen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3056.s.1	geren wonder .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3056.s.2	verstaan deez ' nederduits ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3061.s.1	Wel daar schuilen doen Drommel onder , ik gaan Juffrouw halen , komen , dan kenje zelf hebben zieden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3065.s.1	Ras , naar u kamer toen , Mejuffrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3069.s.1	het zullen geschien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3082.s.1	NU zullen ' er meerder na ik gissing niet behoeven braden te zijn , alles die gei zij maken te oversnoeven , Ik zullen jouw helpen , die zijde al hebben ongelijk de wereld hebben , al geven zijde het allerzekerst blijk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3082.s.2	spreken hard , en houdje kwaad : gei moeten jouw aan zij lel , Noch temen storen .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3089.s.1	ik zullen die zaakje helen wel stillen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3089.s.2	vertrouwen het ik toen , ik Heer : ik weten die oud kol , Wel om haar staart te doel om lopen alles een tol .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3093.s.1	Daar komen zij mede Konstancie .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3097.s.1	Konstantia , Meinsje , Stoffel , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3102.s.1	IK doen nu jouw begeren .	Emotion_Love_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.3102.s.2	Wat zijn het nu ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3106.s.1	nul jouw zullen zode kijken , ik wild jouw zweer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3110.s.1	Wat zullen ik zieden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.3112.s.1	Meinsje	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3114.s.1	ik Heer , waar beven jouw dochter daar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3119.s.1	zien zijn nach binden zij gegangen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3124.s.1	Ai lief , varen , Ai laat zij toch noch een uiten komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3131.s.1	Narreryen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3131.s.2	Verirt ihr mich ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3137.s.1	Neen toch , ik willen al kwesti mijden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3137.s.2	horen Juffrouw , tussen wij , kijk , zijn een groots dispuut .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3137.s.3	ik zeggen die jij wees zien ' er eveleensjes uiten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3147.s.1	wassen de wezen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3147.s.2	zeggen ihr dol ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3147.s.4	darf manna eben zien beiden ' zij sammen sehen / kunnen manna kein urtheil geben / Ohne dem / zien gleichen zien auff keiner weise nicht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3151.s.1	Neen , Meinsje , het hapertje , geloven ik , aan jouw gezicht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3156.s.1	wassen doen een en doen aar slechts hier , jouw zullen gewis verstommen Konstansje , zode als zijde jij lijken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3161.s.1	zien worden nicht komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3165.s.1	wij lijken ik zode ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3169.s.1	ik Heer zijn dochter .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3176.s.1	Wat geven ik na die gelijk ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3176.s.2	mogen ik niet een ogenblik Wat rnsten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3176.s.3	moeten gei ik om die beuzelingen storen , In mijn slaap ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3176.s.4	Wat zullen hier lang niet gebeuren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3185.s.1	Vertrey doch wij / s zijn de Frauwen ongeduld / Die zolche possen macht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3185.s.2	Wir haben keinen schuld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3185.s.3	Nein juffer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3193.s.1	Meinsje , ik dor die nooit op jouw vertrouwen , die jij ik op deze wijze ' denken voor de gek te houden , Een weinigje gaan heen , mare deze gaan al te grof , doen het op een ander tij niet weer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3193.s.2	mede u verlof ik Heer , ik gaa .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3198.s.1	Stoffel , Meinsje , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3209.s.1	s muss nicht wiederum geschehen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3209.s.2	Hoert ihr das wohl / ewr weib / wil mir das nicht verstehen / Ich nehmet uebel auff .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3214.s.1	Ja , hebben j'er beide te gaar gelijk doel zieden , ik wedde , jouw spraakt , alles ik , ik varen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3223.s.1	Ich willen nicht laenger vinden die narrereien hoer / Verstehest du das wohl / weib ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3227.s.1	houden wel , het zullen niet meer beuren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3232.s.1	Kein enkel worden vinden mir / nog meiner Tochter ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3241.s.1	Du hasts mir zugesagt .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3245.s.1	gewis , wezen mare wel te vreen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3252.s.1	Ich solte sonsten dich bij meiner treu curiren Dass du nicht wie mich leichtfertig solst vexiren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3256.s.1	Daar zijn Mevrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3260.s.1	Kristine , Meinsje , Reinhart , Baske .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3268.s.1	WEl meid , wat doen hier op straat , En mede die Heer hier naast in kwestie , of in praten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3268.s.2	hij schijnen storen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3268.s.3	Ik zien ook die hij jouw begraauwde .	EmotionalAction_Other_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3268.s.4	Wat wassen doen rijden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3278.s.1	kijk doen woord , die hij kaauwde , verstaan ik niet , hij zijn een mof , of zode een dingen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3278.s.2	hij zeggen niet veel , laat zieden , hij zeggen , hij zeggen , en het gaan hij kluchtig of ; mare laat hebben Reintje jouw vertellen , Die weten hebben goed mede die knoetery te stillen , als ik kennen doel , Mevrouw , hij hebben vinden woerd tot woerd , doen hiel horlement , zode wel als ik , horen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3282.s.1	Wat wassen ' er Reinhart ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3288.s.1	zullen zijde zij beloften houden En ik doen mijn , geren vinden tween mogen het uw vertrouwen , Waarom hij toornig wassen .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3296.s.1	jouw geven ik het toen , jij zijn doen dienaar vinden Francois , mare jouw schelden ik niet kwijt , wan jij zijn in ik dienst , en zullen ik aanstonts zeggen Wat hier gebeuren zijn , en hoe deze affaire liggen ; Of ik beloven , die ik het niet pardonneren zullen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.1	Ja Rein , of jij ik wenken , of toeknikt , ik zijn niet mal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.2	willen jij het gat uiten , ik niet : wat geven ik naar doen mof , Al zijn hebben die zijde op haar gelden en Adel stoffen , Al binden het graven , en al willenze hier niet bekennen staan , ik steur ik an gieren ketting noch gieren klied , Noch gouwe penning , neen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.3	zij hij ik wel wat geven als ik Mevrouw hebben gat uiten schoppen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.4	Neen ik moeten leven , En ik hebben hier een houden goed huis in .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.5	horen , Mevrouw : doen Baviaan , die an doen schutting met een touwen binden wassen , raken lossen , en zode ik hij na willen kijken zien ik in het huis hier naast , een Juffertje zode lijk na jouw Couzine , die vasten slapen , die ei , en ei , Niet goed na mekaar kennen lijk , na ik zeggen An Reintje , en buurman ; die hebben niet geloven woud .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.6	Ik zeggen die zijde lieden het met haar eigen oog zullen Bekyken , alles doen graven zijn dochter voor doen door doen komen , en ik brocht ' er ons Juffrouw voor ; mare niet gelijk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.7	Daar uiten zijn deze dispuut rijzen , Of zijde mekaar vinden stelen , vinden grootheid , en vinden wees gelijken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.8	Ik zeggen ja , en zijde lieden zeggen neen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.9	doen juffer gaan doen een na doen and're kwaad weer heen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3327.s.10	mare ik hebben buurman , eer zijn dochter voor mogen komen , Belooven moet , die ik denken zij , noch droom , An iemand , wij het ook wassen , hebben alderminst vinden hij Of haar te reppen , die hij mede een forse stemmen ik toegraauwde , als jij juist op het meten komen en wij horen , Mevrouw .	EmotionalAction_Other_Desire_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3332.s.1	wassen het hierom die doen graven hij zode verstoren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3332.s.2	zijn daar zode velen aan vasten of zijde ik die vertellen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3341.s.1	Meer alles gei denken Mevrouw ; daar kennen een groots wellen vinden komen ; het zijn een graven , die onlangs hier uiten wenen vluchten zijn , en noch bij geren mens zijn verschijnen , En niet bekennen willen zijn , waarom hij zijn vluchten ; Dies hij een haater zijn vinden praatjes , en gerucht , Om hier incognito een pozen te kunne blijven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3345.s.1	Ik zullen ' er niet een woerd vinden zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3350.s.1	Neen bij lijf !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3350.s.2	jouw kennen Mevrouw niet , Reintje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3355.s.1	Ik kennen jouw al te wel , Die zode velen spels maken mede jouw temen , en gelel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3364.s.1	Meid geren mede woord .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3364.s.2	willen jouw een aan de graven gaan vragen , zeggen Reinhart , of het hij en zijn dochter zullen behagen , die ma Couzine en ik hij in zijn nieuw huis Congratuleeren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3371.s.1	ik wedde , Mevrouw , die deze kwansuis doen boodschap zijn , en die jouw zelfs zelt wil kijken Of beide doen Juffertjes mekaar zode wel gelijk , gelijk ik zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3376.s.1	Mevrouw , wat uur gelieven uw die Ik vragen zullen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3381.s.1	zode hij nu geren vizites hebben , vragen die hebben hij believen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3385.s.1	ik zullen het uw straks kenbaar maken .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.3387.s.1	Dertiende toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3393.s.1	HEem , Stoffel , hij ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3397.s.1	Alhier .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3402.s.1	Mevrouw weten al zaak Door Meinsje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3409.s.1	die zijn niet goed , hebben dwarsbomen wij beginnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3409.s.2	Mevrouw te foppen , zode alles Meinsje , hebben wat in .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3409.s.3	zij zijn erg en loods , en laten zode ligt'lyk zien niet doek , ik vrezen , die zijde al nauw zullen wil onderzoeken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3416.s.1	het zijn zeker .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3416.s.2	zijde willen jouw vizites geven straks , Of flusjes , en jouw in hebben nieuw huis als kaks Congratuleeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3420.s.1	Wel wat raden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3425.s.1	Hoe staan doen ding mede Frans , en Jakomyn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3434.s.1	ik dochter weten te zingen , gelijk hij dansen willen : en dansen , gelijk hij zingen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3434.s.2	gei zullen bekomen het geren daar hij , en gei , naar dingen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3434.s.3	zijde weten helen wonderlijk de gek doen kappen te vollen : ik denken die zijde beide straks te samen spel zullen ; wan Jakomyn die hebben een kaart gekommandeerd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3440.s.1	het zijn wonder na ik zijn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3440.s.2	doen staan vinden zaak keren helen schonen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3440.s.3	ik moeten Mevrouw slechts in doen kamer lijden , terwijl zijde bezig zijn te spel mede haar beide .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3444.s.1	Ik denken die al dan verbrod wassen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3452.s.1	Ganschlyk niet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3452.s.2	Denk zelf , alles zijde Francois bij Jakomyne zien , Hoe zij die aanstaan zullen ; voornamelijk zode zij in het praten afmeten kunnen , die zijde elkander niet haaten ; het Welk Jakomyn , zode ik hopen , wel maken zullen .	Emotion_Hatred
+pels001verw02_01.TEI.2.text.body.div.div.sp.3457.s.1	Gewis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3457.s.2	Ik zullen het zij in hebben oor wel bijten .	EmotionalAction_BodyPart_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.3463.s.1	Wel dan zijn Konstancie doen ons ; het zullen mede een dan klaarlyk blijk , die zijde en Jakomyn malkand'ren niet gelijk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3468.s.1	Heer Reinhart , zullen Mevrouw wij wel geloven ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3473.s.1	Ja , zijde moeten : doen mare jouw plegen , en roepen Michiel hier .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3477.s.1	ik Gaa .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.3479.s.1	Veertiende toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3481.s.1	Reinhart , Michiel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3486.s.1	IK weten Michiel , jouw kennen die al beide taal vrijen reed'lyk , maken die wel te kunne koeterwalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3494.s.1	zode wat ik Heer ; hebben in hebben allerminst geren zorgen , Voor ik .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3494.s.2	Kornelis zullen niet minderen , ik blyf uw bergen , zijn rol ook treffelijk uitvoeren voor Notaris , hij hebben ' er drie jaar bij wonen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3494.s.3	wassen doen inventaris vinden zijn schuld nu reden , hebben werken wassen klaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3502.s.1	Wat inventaris , nemen jij die memorie zijn , Die zijn schuld , en zijn and're vuil feit Wel inhouden ; mare niet mede partikulariteiten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3502.s.2	hebben hoeven zode net niet : doen jouw goed , betrachten jouw eer Hier in .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3506.s.1	geloven ik , het zullen aan wij niet haperen , Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3508.s.1	Einde vinden hebben Derde bedrijf .	None
+pels001verw02_01.TEI.2.text.body.div.head.3512.s.1	vieren bedrijf .	None
+pels001verw02_01.TEI.2.text.body.div.stage.3515.s.1	Kristine , Konstantia , Reinhart , Baske .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.1	IK hebben uw menigmaal , doch te vergeefs bidden die gei meer zwierig , en galanter uw zullen kleed , mare ik zien hebben zijn vergeefs , hoe ik uw meerder bidden , Hoe gei hebben minderen doen ; fi !	EmotionalAction_Desire
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.2	die fontange zitten Een half pink te oog .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.3	zijn die een kaper zet ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.4	Die strik zijn velen te korten .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.5	Hoe hangen die manchet , gei weten niet vinden wat groots gevolg die ding zijn : doen dame vinden het Salet zijn hier in wonder fijn ; zijde weten op een zij wat kapsels goed pareren , zijde nemen net in achten al wat kunnen doel charmeeren ; die zijn doen kunsjes om galands te winden .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.6	Ha !	None
+pels001verw02_01.TEI.2.text.body.div.sp.3531.s.7	Op zulk een Dame hebben een ider het ogen , zode dra zijde komen in hebben Salet .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3542.s.1	moed , ik kunnen niet ontkennen , die gei het verzoeken hebben ; mare ik kunnen ik niet gewennen tot zode velen gril alles ik in doen juffer , die doen mode volgen en het Salet handteeren , zien .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3542.s.2	Een net en zinnelijk kleden , mede mooi garnituur , achten ik genoeg ; mare zode velen frats , zode velen kuur vinden nieuw fatsoen , en het geren uiten Vrankryk komen kunnen , vinden ik niet goed , ja ik hebben daar zelf een af kaar vinden .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.1	u rede tonen die gei noch velen zullen moet lederen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.2	zode zijn zijde al te malen die niet velen converseren mede le beau mond .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.3	Nicht maken ik toch niet beschaamd Door zulk een slechten discours , bij laten Comtes , het betamen geren lien vinden kwaliteyt , die talen te voer , waarlijk Ik zijn voor uw bevreesd , gei zullen al helen bez waarlijk het rekwireren postuur zijn kunnen nemen .	Worry_Emotion
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.4	ik zijn dichten bij doen vijftig jaar , gei noch geren twintig , en Ik doen in een Salet , noch mede velen meerder graci ik compliment , alles gei ; ik let wel op doen spasie vinden hebben vertrek , en daar doen ik ik pas naar .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.5	Ik zet ik voeren alles ik op doen straat gaa , helen proper op doen maat .	None
+pels001verw02_01.TEI.2.text.body.div.sp.3564.s.6	ik hebben uw doel lederen dansen Om d'air te krijgen en de rechte zwier de frans ; mare , a mon grand regret , ik zien geren verbittering .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3567.s.1	Meinsje , Kristine , Reinhart , Konstantia , Baske .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3572.s.1	DAar zijn doen waaier , en doen strik die boven hangen Op ons groot zadel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3576.s.1	het zijn wel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3582.s.1	nu zelje kijken , Of die knoetin en wij Konstancie niet gelijk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3582.s.2	zijde zijn ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3587.s.1	Knoetin ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3587.s.2	spreken mede meer omzigt en respect vinden zulk lieden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3591.s.1	zijde zijn een gravin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3601.s.1	jouw gekt daar immers met , wel , Rein , waar uiten zijn jouw blijken die zij een gravin zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3601.s.2	ik zien nooit daar vinden gieren teken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3601.s.3	zij hebben , torn ik ' er zien , gieren gouwe ketting , noch gieren penning om ' er hals .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3601.s.4	zijde een gravin ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3601.s.5	wel toch : zien jij doen ketting ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3606.s.1	Al dragen zijde geren goud keten , zij zijn evenwel gravin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3620.s.1	Ik zullen ' er zode wel heet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3620.s.2	Ik zeggen dan die gravin , die zonder ketting goed , Die hier zode dadelijk wezen zijn , aan doen straat , gelijken net op en toppen , vinden boven tot beneden , vinden hoofd tot voeren , en zijde zijn net zode besnijden , zode langen , zode korten , zode sinal , zode lijvig , en zode rank , zode vet , zode mager , net zode zwart , zode bruine , zode blank , alles ons Juffrouw , die Konstancie heet , ik willen zweer , zode jyze bij malkaar zien in die zelfde kleed , Die zijde straks al beide an hebben , die jouw zullen daar in verdwalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3626.s.1	mare ik zeggen Meinsje , ' r zijn doen schuld vinden jouw zichten , jij dwaalt , jij zijn hier door jouw oog , Die rijden vinden ouderdom wat duister zijn , bedriegen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3630.s.1	Mevrouw zullen het zelf zieden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3636.s.1	ik willen het stillen aan Mevrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3636.s.2	jij hebben niet wel zien , komen aan , wat zegje nu , zijn jij ' er met te vreen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3640.s.1	Ik wild ' er wel aan stillen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3648.s.1	komen Nicht .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3652.s.1	Belief het jouw die ik aan zullen schelm ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3657.s.1	Ja .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3659.s.1	Kristine en Konstantia gaan in het huis vinden Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3670.s.1	zijn die dan nu zode wel klaren , zeggen Meinsje , die jij hebben doen graven beloofd , torn hij jouw ernstig bidden , die jij geren mens vinden hij of vinden doen zaak zullen zeggen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3670.s.2	nu horen hij het , mare ik menen daar zullen een huisje liggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3677.s.1	Wat zij ik doel , torn ik Mevrouw deze zode verstaan , zij wouw die ik hebben zeggen torn zij wij krakeel vinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3677.s.2	Wat leiden ik ook aan die mof , wat geven ik om die knoet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3677.s.3	Ik zijn zijn meid niet , gewis !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3688.s.1	Ik menen hij zullen jouw groeten , Indien hij jouw mare een krijgen in zijn huis , jouw kent Die moffe koppen niet ; hij zijn zode wreed een vent .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3688.s.2	wij weten wat hij jouw niet , krijgen hij jouw in zijn hand , zullen lederen , zode hij jouw op straat niet aan laten rand , Ik staan niet in jouw plaatsen om duizend gunnen , ja , Ik doen hebben om geren twe , ik zij , zijn ik gaa , of staan , altijd vol angst zijn die hij ik mogen vinden .	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.3695.s.1	Heden !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3695.s.2	Wel Rein , ik worden zode bang , die ik vinden vrezen doen lid zode beven als of ik ...	Fear_Emotion_BodyPart_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.3695.s.3	Och ! het zijn mede ik gedaan , daar zijn doen mof !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3695.s.4	wat raden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3701.s.1	willen ras naar binden gaan , En sluiten doen door in slot ; ik zullen zijn gramschap trachten , Indien hebben moog'lyk zijn , een weinig te verzachten .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3711.s.1	doen door zijn toen , vrezen niet die zijde weder komen zullen , Ik hebben daar voor gezorgd ; hoe staan hebben binden al ?	Fear_Emotion
+pels001verw02_01.TEI.2.text.body.div.div.sp.3718.s.1	na wensen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3718.s.2	doen moed zien vreemd die zijde ' er Neef ontmoette bij mijn dochter , die zijde zeer eerbiedig groette : zijde zwellen vinden spijt , alles zijde zien die hij Jakomyn Toelonkte , en blijk laten aan zij verloofd te zijn .	Emotion_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.3722.s.1	zijn zijde verloofd ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3741.s.1	Ja toch .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3741.s.2	Ook hebben zij hij teen Dukaaten In het spel afgeknerpt ; en na wat min'lyk praten , krijgen zij een orlogie vinden de gek op trouwen , en zijde geven hij weder in doen plaatsen een groot ring , die gei zij hebben geven , om aan haare pink te steker , zij hadder twee die net elkander gelijken , jouw weten hebben nu wel , het zijn die Amesfoorder stenen ; hij pryst die oog , en zij wel wedde die ' er geren zode schoon ring niet zijn te krijgen : ik moeten vertrek , zode ik doen zaak niet door ik lachchen wild ontdekken ; hebben zijn onmoogelyk zien in te tomen ; wan zijde maken hebben wonderlijk !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3741.s.3	dan kussen hij een zij hand ; Dan liggen hij op zijn knie , en bidden die zijde doen gratie hij gunn ' vinden een lonk ; dan hout zij ' er reputatie gelijk alles een gravin ; dan vuren zij ' em weder wat bot .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3741.s.4	zijde weten ' er ongemeen te vroeg na die zot .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3746.s.1	Michiel , Reinhart , Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3750.s.1	ik Heer , zij zullen gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3755.s.1	Ras Stoffel dan naar binden , deze werken moeten uitvoeren , gelijk alles wie het beginnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3759.s.1	Ik zullen het wel klaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3767.s.1	komen nu mare weder voor de dagge .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3772.s.1	Ik weten niet of ik het wel durven waag , Rein , hij zien zode wreed .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3779.s.1	hij zijn al wegge , en hebben hebben jouw vergeven !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3779.s.2	Doch op conditie die , zode langen alles jij zullen leven , jij vinden zijn dochter , noch vinden hij meer reppen zullen ; Indien jouw die beloven , vergeven zijn doen schuld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3784.s.1	Ik zullen ik leven niet vinden hij een woerd meer spreken alles mede Mevrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3789.s.1	hij zeggen die hij hebben ook zullen wreken , Indien hij ander horen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3797.s.1	mare Rein ; nu zijn wij allien , biechten een rechte op , en na jouw consekwentie ; menen jij zelf niet die wie Konstantia flus zien daar naast ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3797.s.2	komen antwoord een te degen op ik vragen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3802.s.1	Wel Meinsje , zijn jouw slechten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3802.s.2	gaan jij niet zelf terstond naar haare kamer , daar jij zelf Konstantie vinden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3807.s.1	gelijken doen Juffrouw , die wie zien , dan Konstancy Niet op en toppen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3807.s.2	ja om haar heel kontenancy ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3811.s.1	Neen zeggen ik noch , jouw dromen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3816.s.1	Neen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3816.s.2	en ik zeggen jouw ja ; mare daar zijn Mevrouw , die zullen wij scheiden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3820.s.1	Ha , ha , ha !	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3824.s.1	Stoffel , Kristine , Reinhart , Konstantia , Meinsje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3835.s.1	IEk binnen euch obligirt : zien woell's nicht uebel deuten / Dass ich zien nicht tractier / geleich ik solche leuten verschuldigd zijn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3839.s.1	ik Heer , wie zijn zeer wel voldoen .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.3843.s.1	Konstantia , Kristine , Meinsje , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3847.s.1	moed maken het korten , ik denken niet die jouw noch zullen gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3868.s.1	Ik kunnen niet lang zien Francois uitspoorigheden ; hebben ik voorheen hij achten , nu hebben ik rijden Om hij te haaten , die ondankbren ; mare ik zweren , het zullen hij berouwen , Nicht .	Emotion_Remorse
+pels001verw02_01.TEI.2.text.body.div.div.sp.3868.s.2	Hoe , zonder die hij doen eer ik aandoet vinden een woerd te vragen of te zeggen , zien te verloven ; ja die het slim zijn , steeds te liggen En lel aan ik hoofd die ik uw trachten zij Te disponeren , die gei eind'lyk worden zijn vrouw ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3868.s.3	Noch gist'ren hebben hij ik geklaagd , die gei zijn zin Op hol brengen ; wild gei hij niet weder woud beminnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3868.s.4	wij weten ook of hebben niet uiten desperatie zijn , die hij mede laten Comtesse zijn in verbintenis ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3868.s.5	Ja die zullen zeker zijn ; Couzine zulk gril richten gei al uiten , nu zij ik lichtelijk wel wil die deze niet voortgaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.1	moed ik gunnen hij zijn Gravin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.2	geloven , ik hebben voor hij minnen liefde , alles tegenzin .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.3	Hoe , zulk een losbol zode te eerst hopen te geven vinden trouwbeloften ?	Emotion_Hope
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.4	neen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.5	Matante , ik weten wie leven Wel in een tij , en landen , daar lang vrijerij Niet meer doen mode schijnen ; mare echter mogen wie Wel een beproeven , door wij weigerig te houwen Of het ernst zijn ; het groot delen de jongeling zullen Wel menen die hebben zode behoren , en liggen daarnaa het wij wel verwijten die ik staan reden zode dra alles zijde mare spraak .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.6	voegen hier bij noch in het bijzonder die ik meer rijden hebben alles ander , het komen ik wonder En vreemd te voor , die ik niet hebben minst woerd kennen spreken , niet kennen doel , of Neef die hebben ' er voor velen op te zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.7	alles doen vrijer rechte beminnen , hebben ik horen , die zijde geren fout zullen vinden In zij meesteres : wan doen liefde zien geren lijden .	EmotionalAction_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.3890.s.8	gelijk ik ook geloven die moed deze spreekwoord weten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3894.s.1	zullen gei dan liggen wel zijn mede hij in doen echt treden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3900.s.1	die weten ik juist niet ; doch die zijn vergeefse rijden , wan hij zijn nu verloofd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3906.s.1	ik menen echter , zode jouw uw mare Wat minnelyker tonen , die hij in plaatsen vinden zij uw trouw zullen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3911.s.1	geenszins , ik hebben flus ik zode gedragen , die hij mede rechte niet kunnen vinden mijn straffen heid klagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3916.s.1	tonen uw wat vrind'lyk in ik tegenwoordigheid ; Contrarieer ik niet voor al .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3921.s.1	Ik zijn bereiden Te doel wat moed gebied .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3928.s.1	Ik kunnen niet lang duren : Mevrouw , jouw komen nu uiten hebben huis vinden ons buur , Wat dunktje , wij hebben nu vinden wij gelijk ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3928.s.2	kosten jij zij uiten elkander toch wel kennen vinden nabij ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3937.s.1	Wel ja , een blind zelf , zij daar verschillen in merkel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3937.s.2	Wat malligheid komen jouw in deze dwaling sterk ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3937.s.3	Nicht zijn velen kort alles doen dochter vinden ik Heer doen graven ; wegge , zijde gelijken , zeggen ik , zij alzo zeer alles jij ik Nicht gelijken : zij zijn bruine vinden haar en oog , Nicht , in hebben tegendeel , zijn blond .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3944.s.1	jouw zijn bedriegen , jouw hebben verkeren zien , Mevrouw , het zijn zeker waar , die jij abuis hebben ; zeggen wassen zijde niet blond vinden haar , zeggen , Rein , jouw weten hebben wel ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3954.s.1	zij zijn bruine ; ik zeggen wel te voorn , die jij hebben mist zien , mare het zeggen wassen verliezen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3954.s.2	horen , Meinsje , jouw worden oud , jouw oog zieden zode klaar Niet alles voor deze ; die zijn al doen schorting ; mare jij slachten al doen uw lieden , zijde wil hebben niet weten , zij worp boos alles zijde een worp oud heten .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.div.sp.3958.s.1	Ja wel ik !...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3964.s.1	jij hebben flus jouw brillen niet op hebben , het Gezicht worden duister : wan ik zeggen jouw noch een die zijde niet na Nicht gelijken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3978.s.1	Ja wel wat mot ik lijden !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3978.s.2	ik oog duister ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3978.s.3	neen , ik laat het hachje zode niet glijden , zij ik niet kennen zieden , die zijn een zotte kuur : Ja wel ke daar , ik worden schier uiten ik tureluur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3978.s.4	Om jouw te toon die ik noch niet hoeve te bril , geven ik een boek , of brief , zode asje zelf zullen wil , Ik zullen hebben lezen , ik kunnen zieden , en hier vinden dadel , doen kommesaal die Rein daar op zenden kin hebben staan : zieden die doen blind lieden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3978.s.5	en op Mevrouw haar wang , zien ik een druppel noch vinden die blanketsel hangen , die zijde te nochtend daar op smeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3984.s.1	Wel ik ra !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3984.s.2	doen meid worden dol en spelen hier onbeschaamd doen baas .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3984.s.3	zwijgen ; pakje goed bij een , gei zullen aanstonds vertrek .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3988.s.1	Mevrouw , ik bidden , horen ....	EmotionalAction_Desire_Despair
+pels001verw02_01.TEI.2.text.body.div.div.sp.3995.s.1	Wat Mevrouw ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3995.s.2	mede ik te gek , En loogens op doen mouw te spellen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3995.s.3	pakje wegge , komen nooit in ik zichten , en doen gelijk ik zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3995.s.4	Blanketsel !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3995.s.5	niemand hebben ooit dus vinden ik gesprookeh .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.3999.s.1	doen sloof woord oud , hebben hebben zij aan het gezicht ontbreken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4004.s.1	geloven jij nu noch niet die jouw gezicht vergaan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4013.s.1	jouw maken ik zinneloos mede zulk zotte praten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4013.s.2	Ik zijn niet blind , ik zien zode wel gelijk voor deze ; Ik zij eer zeggen datje zelf blind mot wees , Ik zien hebben minst dingen , daar steken een bosje haar , die grijs zijn , uiten Mevrouws Kornet , zijn die niet waar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4013.s.3	zijn ik nu blind ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4017.s.1	Wat grijs ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4017.s.2	ik zijn niet grijs .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4023.s.1	laat kijken Mevrouw , het zijn zeker waar ; hier uiten zullen kennen blijk die ik wel zien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4028.s.1	Wel hoe of het lang lukken zullen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4028.s.2	Gaa voor uiten ik gezicht ; ik zien doen meid woord mal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4036.s.1	zwijgen stillen , ik willen geren woerd meer vinden jouw horen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4040.s.1	moed het zijn niet waardig uw daar over te verstoren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4045.s.1	Niet storen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4045.s.2	hoe !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4045.s.3	ik grijs ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4045.s.4	jouw zullen noch deze dagge vertrek : zijn ik grijs ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4049.s.1	Mevrouw , ik bidden die ik mogen ...	EmotionalAction_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.4056.s.1	Ik willen niet horen , jouw zullen dadelijk vertrek , Hier helpen geren bidden , zullen jouw zode stout mede ik gek ; mede ik !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4056.s.2	geren meer respect te dragen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4056.s.3	voor gaa wegge , komen nooit weder in ik ogen , doen daad'lyk het geren ik zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4071.s.1	het zijn wel ik gaan , mare jouw mogen ook verzekerd wees die ik niet zwijgen zullen , ik zullen ook een boekje lezen , Ik zullen an alleman ontdekken die jouw jouw altijd blanket , en smeren , al binnen jouw een Mevrouw , die schelen ik niet , zij ik daarom niet zeggen mogen die jij al grijs binden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4071.s.2	wel kedaer , hebben zijn gieren leugen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4071.s.3	Ik zeggen hebben jouw noch een , Mevrouw , jouw binden zode grijs gelijk een duif , en zode jouw wild die ik het bewijs , bukken mare een neder , het zullen in jouw nek zode daad'lyk blijk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4071.s.4	jouw binden al oud , en woud nog gaarne jong gelijk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4071.s.5	jouw binden wel zestig jaar ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4076.s.1	Wel zijn ' er dan geren raden , Om deze meid ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4080.s.1	zwijgen stillen , ik zegje datje gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4084.s.1	zwijgen , Meinsje , zwijgen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4089.s.1	het zijn goed , ik zullen vasten uiten doen hoek , ik goed , en kleed in ik kissen bij een gaan zoeken .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4093.s.1	Kristine , Konstantia , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4101.s.1	Ik zijn ' er vinden ontstellen , zijn zijde zode astrant ?	Emotion_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.4101.s.2	die zijn een meid ! ik geloven die zij in hebben gans landen geren weerga hebben ; ik grijs ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4101.s.3	ja wel , ik verliezen ik zin , En zijn wel zestig jaar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4101.s.4	wat mogen die beest beginnen , zij zullen voor uiten ik huis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4105.s.1	moed hebben gelijk .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4110.s.1	zullen zijde zode spreken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4110.s.2	zulk een klein respect ik toon ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4110.s.3	ik ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4117.s.1	spreken zachtjes moed , ik zien Couzin naar wij toen komen vinden zijn gravin ; hij hebben zijn afscheid ras nemen .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4121.s.1	Francois , Kristine , Konstantia , Reinhart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4131.s.1	moed , pardonneeer ik , en gei ook Couzine , die Ik uw zode dadelijk niet conduiseerde ; ik hebben mede laten Comtesse zode een onderhouden beginnen , Op een helen raaf sujet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4137.s.1	die hebben hij wel verzinnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4137.s.2	wassen het zulk een raaf sujet ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4147.s.1	Voor zeker , par ma foi , Iets wonderbaarelyks , iets vreemd , ma Tante , Eh quoi ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4147.s.2	ik zien ma Couzine lachen .	Joy_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.4159.s.1	Ja zulk een groots genoegen vinden zijde in u discours , zijde zullen zien zelf vroeg na ik believen , zijde zullen uw mede meer vermaken aanhoren dan voorheen , zijde krijgen nu groot smaken In al u hoofs zwier , en zullen vinden uw graag lederen , Hoe die ik aan hebben hof gentil moeten converseren ; zijde estimeert uw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4159.s.2	hebben zij uw flus niet meer faveur tonen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4166.s.1	In al de tij die ik zij Serviteur wezen hebben , zijn ik nooit zode doux vinden zij ontvangen , ik zijn zij verobligeerd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4176.s.1	hebben zullen vinden uw afhangen Noch verder in zij gul te dringen , ik blyf bergen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4176.s.2	Voor ma Couzine , zijn rusten op mijn zorg .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4176.s.3	Ik zullen zij zieden voor uw geheel te disponeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4176.s.4	zijde zullen ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4191.s.1	jouw vous rends grace .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4191.s.2	Ik zullen uw declareeren Un grand secret , een zaak die ik zode daad'lyk zijn Gerencontreerd , een zaak daar ik behoudenis En ik fortuin aanhangt , jouw suizen doen touwen le mond , Le plus heureux ; mare ik doen ook zeer groot zonde , Om uw ik Nicht noch alles galand te dienst , en ik te engageren mede een and're Dame , ik zijn Alreeds geengageerd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4196.s.1	Hoe gei uw engageren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4196.s.2	En zonder ik ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4206.s.1	Ik bidden laten ik ik excuseren , Ma Tante , ik weten die gei het , noch u aimable Nicht , Niet kwalijk nemen zullen : het zijn zijn hebben wassen ik plicht u raden te vragen , voor aleer die ik die zaak zode ver pousseerde .	EmotionalAction_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.4211.s.1	mare engagement te maken , En toch mede wij ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4217.s.1	mede laten Comtesse , mon espoir .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4224.s.1	mede laten Comtesse ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4224.s.2	wel ik zullen uw ik pouvoir Ook toon op ik beuren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4229.s.1	Ik bidden uw horen ik spreken , ik Vezeker uw ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4234.s.1	Ik willen ik hoofd niet mede uw breken , ik deze affront te doel ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4239.s.1	verstaan ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4245.s.1	ik willen niet een woerd Meer vinden uw horen , zode gei u beloften voor Niet wederom herroepen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4251.s.1	Ah kwel impertinence ; Een Graafschap zijn ik velen meer waard alles Nigt Konstance .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4266.s.1	Inpertinente , zijn deze doen lot voor al vlijt Die ik hebben aanwenden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4266.s.3	welk een groot spijt !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4266.s.4	Ik hebben uiten Zeeland hier Konstantia doel komen , Om die ik bij ik zelf voor langen hebben voornemen , Indien hebben moog'lyk wassen , uw beide door doen trouwen t'Saam te verbinden , op die namaals daar door zij doen aaloude Adel vinden wij stamhuis alles voorheen , Ja mede meer lustre alles die immer hebben gescheenen , Uitblinken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4266.s.5	hebben ik niet Konstantia belet , Ondankb're , die zijde zij zien zelf verbinden , mede Heer Eelhart , die ik horen vinden treffelijk vriend En middel te zijn , ik weten die zij elkaar beminnen .	Emotion_Love
+pels001verw02_01.TEI.2.text.body.div.div.sp.4278.s.1	Ma Tante , doen Adel vinden wij stamhuis zullen meer glans verkrijgen door ik echt mede laten Comtess' , die kans Docht ik die aan wij huis , en ik te groots een voordeel beloven , om af te staan , ik stel hebben aan u oordelen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4278.s.3	een gravin ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4278.s.4	Ik weten , schonen gei het ik reprocheert , Ma Tante , die gei ik verkiezing applaudeert .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4283.s.1	gei zijn verdwalen ; ik u verkiezing applaudeeren , ik Zeg die gei uiten ik huis terstond zullen delogeeren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4290.s.1	Fiat donc , deloger ; in het heer Logement zijn plaatsen genoeg , ik zoeken een kruier hier omtrent ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4294.s.1	zijn het ernst ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4302.s.1	zode dadelijk zullen gei ' er een gaan halen , die hij voor mede uw komen , ik zullen hij wel betalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4302.s.2	jouw suizen votre Valet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4306.s.1	Ik blyf u dienares .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4310.s.1	zien toen !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4315.s.1	Om ons Nicht verlaten ik geren Comtes .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4321.s.1	Francois , zingen , Fille Bergere c. Reinhart .	Joy_EmotionalAction
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.1	PAr bleu , ik willen geren meer reproches hier verdragen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.2	zagen gei wel hoe ma Tante en ma Couzine zien ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.3	Voila mon drole , het geren ik jouw hebben voorgespeld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.4	jouw l'ai bieden devine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.5	Hoe waar zijde ontstellen ?	Worry_Emotion_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.6	Ik hebben jouw wel zeggen , die ik nog een zij toon Aan ma Couzine , wij die zijde hebben durven honen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.7	laten sorte besteden hoe ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.8	hebben zullen een grand depit , En hartzeer zijn voor zij , alles zijde ik trouw zien .	Emotion_Envy_Sadness
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.9	zode maken ik zijn fortuin !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.10	Ach die zijn te kunne leven : C'est avoir doen l'esprit ; die kunnen hebben bloeden wij geven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.11	Nu zien gij het onderscheid ; flus kosten jouw het niet verstaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4346.s.12	wassen ik geren Edelman , zijde hebben hebben nooit braden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4351.s.1	ik Heer , gei hebben beloofd een manna vinden ik te maken : zode ik in dienst kosten vinden ik Heer de graven geraken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4360.s.1	die hebje wonder wel bedocht , helen goed , bon , bon , ik Beken hebben Reintje , deze zijn une bel occasion , Om jouw in zijn faveur helen diep te insinueren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4364.s.1	zijn met ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4376.s.1	Gaa willen hij jouw services offreren , hij hebben ik flus verzoeken die ik hij zenden zij Een Nederlander , die ik kennen voor getrouw , hij zoeken een hollands knechten , ik zullen voor jouw cautie blijven vinden jouw getrouwigheid , en verder bedrijf .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4376.s.2	Gaa assureer hij deze .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4383.s.1	ik zijn uw verplichten , ik Heer , Voor deze groot gul , en danken u hart'lyk zeer , ik Gaa dan mede u verlof !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4383.s.2	en ik hopen ik het wel zullen maken mede de Heer graven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4390.s.1	Ik wensen succes aan uw zaak , komen mede ik in huis , en zoeken ik al ik bagage strak Byeen , opdat ik ik op het spoedigst ' heen pakken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4390.s.2	mare zijn zijn doen kruier ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4394.s.1	ik zullen hij zenden , gaa mare binden .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.4396.s.1	Twaafde toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4402.s.1	Reinhart kloppen , Kornelis doen openen , Michiel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4407.s.1	RAs , roepen Michiel , het zijn tij , jouw lieden moeten straks beginnen , Of hij ontsnappen wij liggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4407.s.2	Hebje al jouw zaak klaar ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4411.s.1	wie zijn reden , komen voor Kornelis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4415.s.1	nemen hij zijn .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4418.s.1	Reinhart gaan om doen kruier .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4418.s.2	Einde vinden hebben vieren bedrijf .	None
+pels001verw02_01.TEI.2.text.body.div.head.4422.s.1	vijfde bedrijf .	None
+pels001verw02_01.TEI.2.text.body.div.stage.4426.s.1	Francois , Kristine , kruier , te gelijk mede zij uiten huis komen , en een paren pistool , laars , een valles , en een Mantel op doen kruiwagen liggen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4435.s.1	Hola !	None
+pels001verw02_01.TEI.2.text.body.div.sp.4435.s.2	prens garde , ik pistool niet te stoten .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4435.s.3	jouw suizen vort oblige voor het geren ik hebben genieten , Ma Tante ; krui mare naar hebben heer Logement .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4441.s.1	Couzin ik raa uw noch een , zode gei te raden zijn .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4441.s.2	bedenken wat die jouw doen , hebben zullen jouw gewis berouwen .	Emotion_Remorse
+pels001verw02_01.TEI.2.text.body.div.sp.4446.s.1	die gaa zode het willen , ik hopen mede laten Comtes te trouw .	Emotion_Hope
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.4448.s.1	kruier .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4451.s.1	Mevrouw mogen ik wel in doen buren een pakken of vieren mede goed ophyssen ?	None
+pels001verw02_01.TEI.2.text.body.div.sp.4451.s.2	ik zijn dadelijk weder hier .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4455.s.1	Ja lopen mare heen .	None
+pels001verw02_01.TEI.2.text.body.div.sp.speaker.4458.s.1	Francois tegen doen kruier .	None
+pels001verw02_01.TEI.2.text.body.div.sp.4462.s.1	mare maken die jij jouw niet doen zoeken , Ik zijn vrijen haastig , en par bleu ik raken aan het vloek ...	EmotionalAction_Anger
+pels001verw02_01.TEI.2.text.body.div.sp.4468.s.1	hij zijn zo kwaad niet , lopen , wan mon Couzin zullen liggen hij noch bedenken eer hij afscheid nemen vinden Nicht .	Emotion_Anger
+pels001verw02_01.TEI.2.text.body.div.sp.4473.s.1	Non par ma foi !	None
+pels001verw02_01.TEI.2.text.body.div.sp.4477.s.1	mare zien wat wil deze lieden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4484.s.1	Kornelis , alles een Notaris mede enig e papier in doen hand , Kristine , Francois , Konstantia , Michiel alles een fransman .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.4487.s.1	Kornelis tegen Michiel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4490.s.1	HIer zij hebben moet zijn , na die zijde wij beduiden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4490.s.2	wonen in deze huis Mevrouw Kristina ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4499.s.1	ik Heer Francois , zij Neef wonen bij zij ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4503.s.1	Wel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4508.s.1	Indien ik doen eer mogen aanzien , ik wensen hij een enkel woerd te spreken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4512.s.1	Dan komje rechte vinden passen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4516.s.1	Wat mogen die volk ontbreken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4521.s.1	die moeten ik horen , mare ik geloven niet na ik uiten zij wees spoor , die hun aankomst velen goed beduiden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4525.s.1	Wel nu wat brengen zijde ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4529.s.1	Wel wouje die zij iets brengen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4533.s.1	hebben mogen ' er liggen na zijn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4539.s.1	laten zij niet lang wacht , hebben schijnen zijde aanzien haasten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4544.s.1	ik Heer zijn gei doen manna die wie hier zoeken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4550.s.1	ik ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4550.s.2	och , ik weten nergens vinden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4550.s.3	wij zoekje vriend ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4550.s.4	kennen jouw ik ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4550.s.5	of hebjy wij iets te zeggen , zode maken hebben korten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4555.s.1	ik hebben iets die ik uw voor moeten liggen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4555.s.2	ik zijn een Notaris .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4564.s.2	dewijl uw zijn berichten die ik mede laten Comtes zullen trouw , komje liggen Om ik te bidden , die ik uw zinnen employeren Om het Huwelyks Contrakt voor ik te minuteren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4564.s.3	Ik zweertje , daar zijn ik hand .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4568.s.1	ik Heer die wassen hebben niet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4572.s.1	Wat dan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4576.s.1	Ik zullen hebben uw voor zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4581.s.1	Fluks , gei zien , Ik worden wachten ; of brengen gei gelden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4581.s.2	allons , laten horen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4585.s.1	Deez ' manna komen vinden Parys .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4589.s.1	Hoe klinken hij die in doen oor .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4593.s.1	Wat meer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4605.s.1	hij zijn door een brief aan ik geaddresseerd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4605.s.2	En hebben een volmacht , voor getuige passeren , Om uw te vragen uiten doen naam vinden vijf mevrouw , Die jouw elk bijzonder hebben beloofd te zullen trouw Of gei begeren die zijde mede kind mede al Hier zullen komen , om die trouwen te vier , ik zullen , doen prokuratie , alles wie voor doen heer komen , uw toon .	Emotion_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.4610.s.1	wij zij ooit vinden zulk ding droom , zijn het mogelijk ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4610.s.2	ja wel !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4614.s.1	mare moed ik staan alles stom .	BodilyProcess_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.4618.s.1	Ik hebben nog niet braden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.4621.s.1	Francois tegen Kristine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4623.s.1	geloven jouw deze ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4623.s.2	waarom ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4628.s.1	wie aanzien vol macht uw in arrest te zet , zode gei ik straks niet telt drie duizend pistolet .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4632.s.1	Wel !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4636.s.1	Wel vinden wieden hebben gei die prokuratie ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4641.s.1	zij zijn vinden een Monfieur Kabot , het zijn een banquier , die ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4647.s.1	mist .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4647.s.2	Ik kennen zode geren Banquier , ik zijn hij ook niet schuldig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4647.s.3	Ik ra vinden ongeduld .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4647.s.4	durven gei ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4657.s.1	Niet onverduldig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4657.s.2	hij wonen , laten zieden , hebben zijn ... zode in een nauw straat , Ik zullen uw zeggen zijn uiten deze schuld ontstaat ; hij hebben verscheiden vinden u crediteurs doel tal Een som , zijn voor zijde hij in hand moeten stillen u Obligacien , wild hij in deze stad Wat meerder vriend , en korrespondenten hebben .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4662.s.1	Wat crediteur ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4666.s.1	horen : hebben zijn een resje t'zaamen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4670.s.1	Wat resje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4678.s.1	Ik hebben juist niet onthouden al die nemen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4678.s.2	Althans Doktooren , en Tandtrekkers , Orvitaan , En Chirugyns , zien ik ook onder ander staan , Elk vinden die hebben uw vinden een zwaar kwaal genezen , vinden die Spanjolos , zode ik doen naam wel hebben lezen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4682.s.1	Wel nu zijn het ander niet ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4682.s.2	een schoon bagatel !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4686.s.1	Wat grouwlen horen ik ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4690.s.1	moed , wij zij die denken ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4690.s.2	wel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4695.s.1	ik moeten antwoord aanzien ; of gei ik zullen konsenteeren Of niet , opdat ik ik hier naar kunnen reguleren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4699.s.1	Wat konsenteeren , he ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4705.s.1	Oui , zo mot zij zek , Of zij zij protesteren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4710.s.1	snoeren jij altijd de bek verrot waal !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4715.s.1	morren bleu !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4719.s.1	laten ik mare mede hij spreken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4723.s.1	Ik mogen ik hoofd niet mede die beuzelingen breken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4730.s.2	beuzelingen , Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4730.s.3	hebben gei dan niet horen Wat ik zeggen hebben ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4730.s.4	ik zeggen uw die gei ik voor , zullen moet tal achtentwintig duizend gunnen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4734.s.1	Wat !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4734.s.2	hebben gei in Parys maken zode groot schuld ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4738.s.1	Wel lief deugd !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4738.s.2	wat zijn die ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4743.s.1	Hoe , vraagje wat zijn die ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4743.s.2	achten gei zode groot som niet meer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4750.s.1	Ma Tante , wat zij ik die acht ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4750.s.2	die zijn niet doen pijn waardig Om vinden te spreken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4755.s.1	Wel Couzin die vinden ik aardig .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4762.s.1	Ik achten die som niet meer alles gei een Dukaton .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4762.s.2	het zijn wel gebeuren die ik mede eenmaal Va , meer winnen , Ook wel verliezen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4766.s.1	komen , komen , gei moeten ik straks betalen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4770.s.1	Wel ja .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4774.s.1	mare op deez ' dagge , zien daar moeten niet aan faalen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4779.s.1	zij Neef uw deze dagge zo merkelijk som nog tal ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4787.s.1	Ja Mevrouw , gewis hij moeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4787.s.2	komen , komen Monsieur , laten wij op straat niet razen noch niet kijven , Ik zullen zode dadelyk het protest voor uw gaan schrijven , In deze stad zijn rechte , schonen hij doen schuld ontkent .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4787.s.3	wie vinden hij hier na wel in zijn logement .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.4792.s.1	Konstantia , Kristine , Francois .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4796.s.1	WAt dunken uw moed ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4801.s.1	hij wachten noch wel wat meerder dag , En krijgen hij het dan noch mare , zode hebben hij niet te klagen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4812.s.1	Vous riez , bon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4812.s.2	Ik zullen ook lachchen a mon toer , alles ik trouwen zullen zijn mede laten Comtesse , un jour .	Joy_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.4812.s.3	zij inkomst zullen ik haasten gelegenheid fourneren Om al deze lachchen , en deze schamperlyk railleren , Noch een hier na uw weer te brengen in de zijn .	Joy_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.4823.s.1	zij ik niet lachchen ?	Joy_BodilyProcess
+pels001verw02_01.TEI.2.text.body.div.div.sp.4823.s.2	gei roemen zode vinden die Graa vinden , hebben zijn al laten Comtesse , alles of zij al hebben bewijzen hebben Graafschap vinden zij vaar ; ik hebben wel meer voor deze zien , die iemand hier oog opgeven hebben , Die in zijn vaderland hebben vinden de ploeg leven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4823.s.3	Wat zekerheid hebben gei die zijde het niet hebben geloogen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4823.s.4	Daar zijn wel gauw lieden op deze wijze bedriegen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.1	Enquoi , ma Tante ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.2	quoi ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.3	menen gei die ik niet kunnen Aan iemand zieden , of hij een Vorst , of Edelman , Un Duc , un prins , un Comte , of burger zijn ; doen trek vinden het wees kunne ik die sur le champ ontdekken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.4	Wel aan , ik zij zode langen zijn a laten Cour wezen , En die niet kunne zieden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.5	wezen daar niet voor bevreesd , jouw voos cela d'abord , & vous ik faites rire .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.6	el zijn Comtesse , oui , cela s'entend sans dire , zijde hoeven geren blijk vinden zij staan en Graaf'lykheid ; zij wees tonen hebben klaar , pour mooi , ik zijn bereiden , zij onder eed un certificat te geven , die zij een Comtesse zijn : Ah !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.7	zijde weten gentil te leven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4856.s.8	jouw vous assure , die doen Graafelyke staan , bij zij a yeuls , voor langen al in de hoogst graat voeren zijn , ik kunnen die zode zeker in zij hand En oog zieden , die ik daar voor wel durven verpanden ik hoofd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4861.s.2	mon Couzin ... gei wagen u hals te liggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4868.s.1	Non , ma Couzine , non , ik gaa vasten op ik gezicht ; En daarenboven hebben zijde ik een preuf geven , die ik geren twijfeling meer over zijn blijven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4872.s.1	Wat preuve ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4878.s.1	Un Diamant , die zij meer komen te staan Dan duizend Dukatons , zien , ik hebben die noch aan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4882.s.1	mare hebben gei al verstaan vinden steen en vinden ring ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4892.s.1	kwee ik demandez vous ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4892.s.2	zeggen toch een vinden wat ding hebben ik geren kennis ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4892.s.3	ik zijn in al geverseerd , En in juweel zijn geren mens die ik passeren ; Ik kennen doen fout , ik weten hoe die ik een stenen moeten zet : ik hebben in Parys allee wel duizend pistolet Aan diamant , en juweel gespendeerd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4896.s.1	Wat deedt gei daar met Neeff	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4901.s.1	Wel ik hebben die vereren Aan dame , Nicht ; hoe die verstaan zien zonder vragen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4905.s.1	doen juwelier , geloven ik , die uw gaarne zien ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4911.s.1	Oui da , par laten morren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4918.s.1	zijde hebben groots gelijk , zijde worp in hebben korten vinden zulk koopman rijk : zode gei een vals stenen zode oog bij heen waarderen , alles hier ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4922.s.1	Hoe vals ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4928.s.1	Ja die uw laten Comter vereren , zijn vals .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4933.s.1	Comment !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4937.s.1	hebben zijn een Amersfoordet stenen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4942.s.1	Ik liggen om Amersfoort , ma Tante !	BodilyProcess_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.4946.s.1	het zijn ' er een .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4954.s.1	Ab , Vous avez raison .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4954.s.2	die hebje niet vergeten , mare doen Amersfoorder zijn doen besteden , moeten jouw weten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4954.s.3	Mais quoi ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4954.s.4	vous riez .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4964.s.1	Wel wij of niet lachchen zij Om zulk een dwaasheid !	BodilyProcess_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.4964.s.2	Neef , nu zien ik die ik jouw Niet rechte kennen hebben , wan nu tonen gei u gebreken , ik zien gei weten nergens vinden , en wild vinden al spreken ; Wat mens , ik zwijgen Juwelier , wassen ooit zode zeer ontzind , die hij doen steen die ik te Amersfoort velen vinden , Noch hoog achten alles die wie uiten hebben Oosten krijgen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4975.s.1	ik zullen ik expliceren , zode gei mare zode langen wift 2 wygon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4975.s.2	Ik zeggen dan Amersfoort , een Stad dichten aan doen zee , Ma Tante ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4975.s.3	Le Ocean ... hebben hebben een schoon Re , En grenst aan Persie , daar vinden ik diamant , zode schonen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4975.s.4	deze machtig volk zend , dik wil zij gezant , In Ambassade ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4986.s.1	Hoe noch slim ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4986.s.2	Amersfoort liggen die in Persie ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4986.s.3	Wel wij hebben ooit horen vinden zulk een stoutheid ; die gei noch velen op durven geven vinden Vrankryk , die gaan heen , daar zijn ik onbedreeven ; mare zode te spreken vinden een stad die zode naar bij liggen zijn aan doen Eem , en uitkomen aan hebben ij , Een stad daar ik vinden hier in weinig tijd kunnen komen , die zijn belachchelyk ; wat hebben gei voornemen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4992.s.1	Ma Tante , excuses mooi .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4992.s.2	Hoe zijn ' er in deze landen Dan ook een Amersfoort ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.4997.s.1	mare , Neef , achten gei het geren schande zelf in u vaderland zode onbekend te wees ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5012.s.1	Non , ma Couzine , non , daar woord ik om gepreezen ; geren cavalier zullen zien zode velen verneed'ren , om deze landen te noemen , neen , ik wassen velen lief stom , Ja , ma Couzine , ik zij niet wil nomineeren doen steden , schonen zij ik daar wild voor vereren Al het zilveren , gouden en gelden , die in die steden zijn .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5012.s.2	jouw suizen troep bon Francois assurement , gewis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5012.s.3	[ Konstantia gaan stillen in huis . ]	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5016.s.1	Aapekoopster , Francois , Kristine .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5021.s.1	MOnsieur , ik hadje graag om het ov'rig gelden gebeden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5021.s.2	Voor het Aapje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5031.s.2	Deez ' spreken noch mede civiel rijden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5031.s.3	jouw hebben een pistolet op hand ontvangen , wachten ; Pour vos civilitez zode geven ik jouw ' er noch achten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5031.s.4	Mars .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5035.s.1	Gramersys , Monsieur .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5039.s.1	Meinsje , Kristine , Francois .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5044.s.1	Mevrouw , vinden al ik leven hebben ik het zode duidelijk niet zien als nu daar even .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5048.s.1	Wat hebje weer zien ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5057.s.1	Wat ik zien hebben : wel , jouw loven ik toch niet als ik jouw doen zaak vertel , En jagen ik het huis uiten ; ik zeggen die ik u Nicht flus in doen arm , Hier naast hebben vinden een Heer zien , en zonder scharmen , zijde haar laten kus , ik doen ik hebben liegen , mare nu heb ik het weer zien wel duidelijk en klaar .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5061.s.1	Wat zegje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5065.s.1	Ja Mevrouw , ik zullen jouw uiten gaan liggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5069.s.1	Ik achten jouw zieden niet velen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5088.s.1	Mevrouw , laat ik een zeggen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5088.s.2	horen dan Mevrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5088.s.3	Ik zocht in al haasten ik goed bij een , en docht vasten , zode ik nu verhuizen moeten , die zijn die kleuter schuld , met zien zien ik haar zelf komen , zijde lijken verbazen , en hebben doen sleutel voor nemen , vinden heure kamerdeur , zijde hebben die in haar zak ; ik roepen juffrouw , mare zijde willen niet horen , en zijde steken doen sleutel bij ' er ; wij zij denken zulk ding , zijde smijten doen door weder toen ; of het slot niet of wouw spring , Of die iets ander die beletten , ik zien doen door staat an , torn docht ik strak nu hebben zij gewis wat voor ; Ik volg , en zien die zijde sluipen achter doen tapijt , Ik lopen ' er schielijk naar , ik docht , ik willen ik kwijten , vinden mijn plegen , en zieden ...	Emotion_Wonder
+pels001verw02_01.TEI.2.text.body.div.div.sp.5088.s.4	Mevrouw ik vinden de muur Daar door slaan , wel wat dunkje vinden die Kuur ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5092.s.1	mare , Meinsje , zijn het wel zijn ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5096.s.1	Mevrouw kunnen het zelf kijken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5100.s.1	Couzin wat dunken uw zijn die ding na gelijk ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5106.s.1	Ma foi ma Tante , ik weten niet wat ik denken zullen : Een doorbreken muur !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5106.s.2	ik geloven doen meid zijn mal .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5113.s.1	Ja mal jij mare wat heen , willen jij hebben ook niet loof ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5113.s.2	hebben raken jouw meer als ik , zij zijn al vasten heen estoven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5113.s.3	Doch het schelen jouw hachelijk niet , verliezen jeien Nicht , jij krijgen weer een Gravin in plaatsen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5119.s.1	Wel hoe Couzin gei zwijgen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5119.s.2	deze speld woord helen verwarren !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5119.s.3	ik zien daar iemand komen , Die na de graven gelijken .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5132.s.1	Ma Tante het schijn droom .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5132.s.2	Oui par bleu restez ici pour un moment .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5132.s.3	Ik zullen mede Meinsje gaan en zieden vinden doen and're kanten Si c'est laten verite , en hoe het daar zijn geschapen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5132.s.4	Jarni , ik beklagen ik gouden , doen Duivel bal al doen Aapen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5132.s.5	Ik komen zode daad'lyk weer ,	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5137.s.1	Stoffel , Kristine , Francois , Mrinsje .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5144.s.1	ik Heer , geloven ik vrijen , Blyfhier , ik verzeker uw doen ontwarring zijn naar bij vinden u komedie , gei zullen tijd genoeg beschouwen , de doorbreken muur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5148.s.1	Voor wieden moeten ik uw houden ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5153.s.1	Voor graven pour vous servir .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5158.s.1	Eh bieden ma Tante ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5165.s.1	Eh bieden ; Couzin gei zwijgen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5170.s.1	het zijn zijn ; Mait vous nee dites rien .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5174.s.1	Wat zullen ik zeggen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5181.s.3	laten maudite jupe , zij houwen ik in het eene en het ander huis pour dupe .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5189.s.1	gei hebben ' er wel velen meer bedriegen in Parys , zode woord ik tot zijn schande en schade een eind'lyk wijze .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5189.s.2	mare die zijn niet al , hier zijn twee deftige Edellieden , zijn vinden de een uw komen zijn handschoen aan te bieden Om ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5189.s.3	mare daar zijn de een , misschien die gei hij kennen .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5194.s.1	Francois , Reinhart , Kristine , Meinsje , Stoffel .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5198.s.1	HOe Rein een Edelman ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5203.s.1	nul ja Francois , ik ben't , vinden stam en deugd velen meer dan gei zullen kunne wees .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5207.s.1	Lakei !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5213.s.1	mare die gei het zijn blijken nimmermeer voor deze .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5213.s.2	En die ik het om u moed niet laten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5213.s.3	[ wijzen op zijn degen . ]	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5219.s.1	laten hij begaan , Couzin , op die hij wij doen waarheid doen verstaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.1	Mevrouw , Heer Eelhart , die voor langen mede harden en zin besluiten hebben u Nicht Konstantia te min , krijgen door doen meid , die zij tot uwent hebben brengen , doen tijding die zijde worden mede zulk een nauw wachten bewaren , die zijde geren brief ontvangen kosten noch schrijven , die zijde voor altoos hier misschien zij moet blijven ; dewijl die gei zij aan u Neef hebben toegezegd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.2	hij moeten naar Mech'len , om een zaak die daar in recht bepleiten zij worp , daar hij velen wassen aan gelegen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.3	hij vinden zien zelf benard , zijn harden wassen wel geneegen , Om zijn Konstantia , zijn lief minnaares , Te zoeken te Amsterdam ; mare dan lopen zijn proces Gevaar .	Emotion_BodyPart_Benevolence
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.4	hij vragen ik raden in deze zwaarigheden ; Ik raden hij , die hij trek naar Mech'len om velen reden , En ik beloven hij , zelf naar Amsterdam te gaan , Al aan te wonen wat ik dunken te zijn geraden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.5	Hier komen , kennen ik nooit enig middel vinden , Om mede Konstantia te spreken , of door vriend Een brief te geven , doch ik vinden haasten bekwaam stof ; ik hebben voor twee jaar Francois zien aan het frans hof , Ik kennen zijn humeur , ik verklee ik , zoeken te raak In zijn dienst , hebben welk ik lichtelijk kennen maken , mede hij te prijzen , en te spreken na de mond .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5255.s.6	Ik wassen noch nauw in huis , of ik ondek terstond ik aan Konstantia , die ik daar op verklaren Hoe het staan , en die gei zij voor Frans allee bewaren : zijde staan ik toen , die ik zullen al list en vlijt Aanwenden , opdat zijde worden vinden Francois bevrijden ; die ik , indien ik kosten , een eerlijk middel vinden , zij overleev'ren zullen aan Eelhart , of zijn vriend ; zijde wassen verzekerd , die zij Oom en Voogd mede een , mede Eelhart's midd ' len en slachten wel wassen te vreen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5260.s.1	Wat dunken ma Tante ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5275.s.1	Ik weten gelukkiglyk te ontdekken , de dagge , die gei al t'faam zullen naar u hofstede trek : ik weten die hebben huis hier naast hebben lang tij te huur staan , en mede u huis hebben een gemeen muur .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5275.s.2	Ik huur hebben , en ik hebben , gelijk hebben wassen besteeken , doen muur in hebben vertrek uw Nichts , stillen door doel breken , Daar die door het goud leren bedekken zijn , en deez ' manna Die vol intrige zijn , en zeer velen taal kunnen , weten in deze huis zode wel doen rol vinden graven te spel , die wij voornemen zijn gelukken in al deel , Ook hebben zijn dochter hier niet weinig toen braden .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5275.s.3	mare daar komen uw Nicht mede haar bruidegom aan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5280.s.1	zij Bruidegom ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5285.s.1	Mevrouw hebben ik jouw non bedriegen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5285.s.2	Ik hebben niet mist zien , nu zien jouw het mede jij oog .	None
+pels001verw02_01.TEI.2.text.body.div.div.head.5288.s.1	Achtste , en laatst toneel .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5292.s.1	Konstantia , Eelhart , Kristine , Francois , Reinhart , Meinsje , Jakomyn , kruier , Stoffel , Michiel , en Kornelis , in Lakeis kleed .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5298.s.1	moed ik bidden onschuldig ik , ik verzeker uw doen tij zullen toon die gei niet wel onderrichten en zijn vinden Eelhart , en Francois .	EmotionalAction_Desire_Despair
+pels001verw02_01.TEI.2.text.body.div.div.sp.5305.s.1	Mevrouw , gei zullen niets vinden die uw mishagen zullen , ik zijn bij al u vriend In Zeeland , wel bekend ; en ik verzoek u woerd Niet eerder voor die gei rusten zijn zode het behoren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5310.s.1	die zijn ook reed'lyk , en ik zullen daar over schrijven , Om vinden doen waarheid voor altoos rusten te blijven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5315.s.1	Ma Tante ...	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5319.s.1	zwijgen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5324.s.1	Mevrouw , ik bidden ondertussen , die Ik hebben op deze wijze ...	EmotionalAction_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.5329.s.1	Voila ma Tante .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5339.s.1	Al wat Hier in mogen zijn misdoen , vergeven ik uw vinden hart .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5339.s.2	Nicht hebben gelijk hebben , hebben zij ik altyt smarten , die zijde trouwen wassen aan een kwistgoed alles Couzin .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5339.s.3	ik hebben hij niet rechte kennen , hij hebben ik door denschyn bedriegen : Reinhart hebben zien alles een vriend gekweeten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5343.s.1	Heer Eelhart , zullen gei u beloften ook vergeten ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5350.s.1	gei doen ik ongelijk , vergeten !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5350.s.2	hoe ik Heer , vinden wieden ik zode velen gul ontvangen hebben en eer , ik zijn niet ondankbaar ; ik zullen ik woerd uw aad'lyk houden .	Emotion_Other
+pels001verw02_01.TEI.2.text.body.div.div.sp.5350.s.3	ik zuster zullen mede uw , zijn het zij verkiezing , trouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5363.s.2	ik Heer , schonen ik nu hebben verstaan Al het geren door u beleggen zijn in deze werken braden , zode wensen ik noch , die ik doen waarheid wassen blijken vinden het geren doen Crediteur en doen Notaris spreken : ik begrijpen niet hoe die paren in deze handelen komen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5367.s.1	het zijn ons knecht , Mevrouw .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5372.s.1	u knecht ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5372.s.2	ik staan verstomd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5372.s.3	Wat willen die ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5382.s.1	Al hebben geren zij u Neef te last liggen , zijn zijn , hij zullen ' er zelf niet durven tegen zeggen , ik bedenken die vinden om uw doen zaak te doel verstaan , En was't in't eest slechts spel , het zullen haasten natuurlijk gaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5382.s.2	mede doen eerst frans pos zullen hij doen brief krijgen , Daar zijde vinden spreken , ik behoeven hebben niet te zwijgen : hij hebben hebben zelf gezegd .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5387.s.1	zijn het zijn Couzin ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5398.s.1	Oui , Ma Tante , of ik hebben al willen loochenen ; jouw suizen Au desespoir , indien gei ik geren gelden wild geven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5404.s.1	ik horen nu hoe die Messieurs in Vrankryk spoorloos leven .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5404.s.2	mare daar bedenken ik iets , zijn door gei zeker kunde uw vinden u Crediteurs ontslaan .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5408.s.1	Ja , schieten gei munten .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5414.s.1	Neen , naar Oostindien , wie zullen het zieden te maken , die gei voor Assistent of zode iets aan zullen raak .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5414.s.2	zijn gei te vreen ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5419.s.1	Wel ja : mare par necessite .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5424.s.1	Geluk , Heer Eelhart , mede Konstantia , komen treden In huis , ik moeten ik die doorbrooken muur een toon .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5428.s.1	Ai Juffrouw , bidden Mevrouw , die ik mogen blijven wonen .	EmotionalAction_Hope_Desire
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.5430.s.1	Konstatia .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.5435.s.1	Jakomyn tegen Francois .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5439.s.1	Wel spreken gei u Gravin nu niet een aan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5439.s.2	zijn u genegenheid , ik Heer , zode haasten vergaan ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5439.s.3	Ik blyf u dienaares tot al tij .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5445.s.1	Kanaalje !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5445.s.2	Mais jouw te payerai .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5449.s.1	Wat koeterje , wat maalje ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.speaker.5452.s.1	Francois tegen de kruier .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5454.s.1	Hoe rekel , komje nu eest weer ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5461.s.1	Neen , ik hebje al langen wachten , ik Heer , mare ik wassen al te schrik'lyk bang Om jouw te storen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5465.s.1	jij mogen voor de duivel bruyen .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5469.s.1	het zijn beter die jij jouw laten na hebben dolhuis kruid .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5474.s.1	nul varken !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5474.s.2	vlegel brengen ik equipage weder In huis .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5474.s.3	Moffinne pels !	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5478.s.1	Ik liggen mede jouw , ik Heer .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5483.s.1	vinden elk bespot , verachten , zijn het niet om te creveeren ?	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5483.s.2	mare ik zullen ik , zode ik ik kunnen , die zweren ik , revancheren .	None
+pels001verw02_01.TEI.2.text.body.div.div.sp.5488.s.1	Monsieur Francois hebben hier natuur'lyk wel verbeelden doen dwaaze en slechten rol , die meenig losbol spelen .	None
+pels001verw02_01.TEI.2.text.body.div.div.stage.5490.s.1	Einde van vijfde en laatst bedrijf .	None

@@ -1,0 +1,864 @@
+stee033tham01_01.TEI.2.text.body.div.head.198.s.1	Thamas Koelikan , of De verovering van het Mogolsche ryk ; Treurspel .	None
+stee033tham01_01.TEI.2.text.body.div.head.199.s.1	Eerste bedryf .	None
+stee033tham01_01.TEI.2.text.body.div.head.200.s.1	Eerste tooneel .	None
+stee033tham01_01.TEI.2.text.body.div.stage.202.s.1	Nadir , Nasser .	None
+stee033tham01_01.TEI.2.text.body.div.sp.speaker.204.s.1	Nadir .	None
+stee033tham01_01.TEI.2.text.body.div.sp.215.s.1	ô Ja , myn waarde zoon !	None
+stee033tham01_01.TEI.2.text.body.div.sp.215.s.2	het gaf my veel genoegen , Dat gy , om by uw ' rang onsterflyke eer te voegen , Afkeerig van de rust die ge in myn hof genoot , My smeekte dat ik u uit Ispahan ontbood ' .	Joy_Emotion_EmotionalAction_Desire
+stee033tham01_01.TEI.2.text.body.div.sp.215.s.3	Gy noopt my , door uw ' moed en glorieryk verlangen , Met vreugd in Lahor , in myn leger , u te ontfangen .	Joy_Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.sp.215.s.4	Gy zult , naar uw begeerte , op 's keizers oorlogsmagt , Zo talryk als men ooit te velde heeft gebragt , Hier , in zyn wagglend ryk , onfeilbaar triomferen : Die vyand kan geen heir van Persianen keeren .	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.sp.speaker.218.s.1	Nasser .	None
+stee033tham01_01.TEI.2.text.body.div.sp.227.s.1	Myn vorst , hoe teêr uw gunst myn ' ouder broeder vleit , 'k Heb meer bewys , dan hy , van uw genegenheid : Laat hem gantsch Persië in uw afzyn vry bestieren ; Ik pluk , door u geleid , hier eeuwige lauwrieren .	None
+stee033tham01_01.TEI.2.text.body.div.sp.227.s.2	Verwacht dat Nasser zich vol moeds , gelyk een ' zoon Van grooten Nadir voegt , in 't oorlogsveld betoon ' .	None
+stee033tham01_01.TEI.2.text.body.div.sp.227.s.3	Gelei uw volk ten stryd ' .	None
+stee033tham01_01.TEI.2.text.body.div.sp.227.s.4	Waar is myne offerhande ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.227.s.5	Elk uur , elk oogenblik vertoevens waar ' my schande .	None
+stee033tham01_01.TEI.2.text.body.div.sp.252.s.1	De dartle Mahomet , verschrikt , van laffen aart , Door vleijers dwaas bestierd , des legerstafs onwaard ' , Veel meer in weelde dan in oorlogskunde ervaren , Weêrstreeft my met een heir van moedelooze scharen ; Ik toog den Industroom , zelfs zonder tegenstand , Reeds over ; Lahor is verwonnen ; 't gantsche land Met 's vyands bloed bedekt : maar om myn legervanen Een ' weg rot in het hart van Indostan te banen , Word kloek beleid verëischt , niet min dan krygsgeweld .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.252.s.2	De roekeloosheid is geen kenmerk van een ' held .	None
+stee033tham01_01.TEI.2.text.body.div.sp.252.s.3	De keizer , in zyn heir begraven met zyn grooten , In zyn verschansing door myn benden ingesloten , Beroofd van toevoer , word , hoe listig hy 't verbloemt , Van hongersnood gedrukt ; hy is ten val gedoemd : Maar eer myn strydbaar volk , door ons met wisse schreden Op 't glibbrig spoor van eer stoutmoedig voorgetreden , Die laffe menigte in haar sterkte zal verslaan , Moet haar de hongersnood ten deele doen vergaan : Of zo de vyand zelf , tot weering dier elenden , Een ' aanval durft bestaan op onze legerbenden , Dan wacht , in 't open veld , het Persiaansche staal Op 't onbedreven heir een vroeger zegepraal .	None
+stee033tham01_01.TEI.2.text.body.div.sp.264.s.1	Gy zult u hier , niet min dan op de Agwanen , wreken .	None
+stee033tham01_01.TEI.2.text.body.div.sp.264.s.2	De vorst van Indostan , die zyn verbond durft breken , Die door hoogmoedig schrift u eerst vermetel hoont , Die thans , in 't midden van zyn krygsmagt , vrees betoont , Wien veel geringer tal van benden kan vertsagen , Die eerelooze vorst verdient de wreedste plagen : Ja , in zyn laf bestaan , is 't hem te groot eene eer , Dat hy zyn straf ontfang ' door 't Persiaansch geweer .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.1	Uw drift , uw jeugdig hart voert u van 't spoor der reden : De keizer Mahomet heeft roemenswaarde zeden : Verächt hem niet te veel ; beklaag zyn ' tegenspoed .	None
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.2	Indien ik ware , als hy , in wellust opgevoed , Gewoon in wulpsche pracht , in dartelheid te leven , En aan een vleijend hof een dwaas gehoor te geven ; Ik zou , niet min dan hy , hoogmoedig , ontrouw , laf , Een zwak beschermer zyn van kroon en legerstaf .	None
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.3	Zyn voorspoed is te groot , en maakt hem onvermogend .	None
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.4	Die ryksbestierder , hoe verbasterd , is meêdoogend , Tot weldaên steeds geneigd en tot vergiffenis , Zoverr ' zelfs , dat zyn hart hierin te deugdzaam is .	None
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.5	Geen snoode wraakzucht heeft vermogen op zyn zinnen : Hy poogt door dwinglandy geen schatten aan te winnen : Hy zou min keizer zyn , dan vader , op zyn ' troon , Indien hy , min geluks , meer tegenspoeds gewoon , Zich had geöefent in 't bestieren van zyn staten , En min vermogen aan zyn vleijend hof gelaten .	Emotion_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.6	De vleitaal baart den val van 't volkryk Indostan , Schoon Nizamëlmoluk , in spyt van Alikan , Uit zucht voor Mahomet , voor 't heil der onderdanen , Dien dwazen keizer in oprechtheid durft vermanen , Hem toonen dat zyn magt , hoe groot , niet kan bestaan , Indien hy weigert op zyn staten acht te slaan , En dat , hoe meer hy is in waardigheid verheven , Hoe meer hy is verpligt voor land en volk te leven .	None
+stee033tham01_01.TEI.2.text.body.div.sp.300.s.7	Dien vorst , met al zyn heir , alsöf hy feestdag viert , In blinkend praalgewaad uitsporig opgesierd , Aan 't krygsvuur ongewoon , verzeld van all ' zyn vrouwen , Dien vorst moet Indostan den legerstaf betrouwen ; Den lafsten opperheer , die door onwetendheid Ontelbre benden hier ter slagting heeft geleid .	None
+stee033tham01_01.TEI.2.text.body.div.sp.309.s.1	Uw Persianen , die , door heldenmoed bewogen , Ter wisse zegepraal in 't krygsveld zyn getogen , Bedreven in den stryd , ten oorloge opgevoed , Verwachten meer geluks van uw beleid en moed .	None
+stee033tham01_01.TEI.2.text.body.div.sp.309.s.2	Wy zien uw dappre vuist , gewoon te triomferen , Welhaast met weinig volks gantsch Indostan verheeren .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.1	'k Had met dit kleene heir myn ' toeleg niet bestaan , 't En zy myn vyand door zyn grooten waar ' verraên , Die , toen myn arm zich op de Agwanen had gewroken , My noopten in dit ryk het oorlogsvuur te stoken .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.2	Zy hebben trouwloos my hunn ' bystand aangeboôn , Opdat ik Alikan verhieve op 's keizers troon .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.3	Die snoode voorwaarde is door my niet aangenomen : 'k Heb echter hen misleid , om tot myn wit te komen .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.4	Uit schandlyk zelfbelang heeft trouwlooze Alikan , Arglistig ondersteund van al zyn vloekgespan , Zyn ' keizer , om 't verraad door myn beleid te styven , De grootste feilen van een ' veldheer doen bedryven .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.5	Maar de aanslag is vergeefs : 't Mogolsche ryksgebied , Al baat my de ontrouw , is voor dien verrader niet .	None
+stee033tham01_01.TEI.2.text.body.div.sp.327.s.6	Zyn gruwzaam wanbedryf zal hem in 't kort berouwen .	Emotion_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.head.328.s.1	Tweede tooneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.330.s.1	Nadir , Nasser , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.332.s.1	Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.338.s.1	Myn vorst , uit 's vyands heir zyn twee Mogolsche vrouwen Hier aangekomen : zy , naar 't schynt van hoogen rang , Begeeren u te zien ; een zaak van groot belang , Die allen spoed verëischt , aan u bekend te maken .	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.338.s.2	Ik deed haar , op haar beê , tot aan uw tent genaken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.343.s.1	Gelei de vrouwen hier .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.346.s.1	Nadir vervolgt , terwyl Malek vertrekt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.348.s.1	Wat ongemeen geval !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.354.s.1	Verwonderd , weet ik niet wat ik vermoeden zal .	Emotion_Wonder
+stee033tham01_01.TEI.2.text.body.div.div.sp.354.s.2	Wat staat ons , heil of ramp , uit deze komst te wachten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.354.s.3	Twee vrouwen in uw heir !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.354.s.4	't Verbystert myn gedachten .	Emotion_Wonder
+stee033tham01_01.TEI.2.text.body.div.div.head.356.s.1	Derde tooneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.358.s.1	Nadir , Nasser , Milko , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.360.s.1	Milko .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.1	ô Nadir !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.2	op 't gerucht van uw grootmoedigheid , Niet minder dan uw moed door Azië verbreid , Durft zich een tedre vrouw een ' toeleg onderwinden , Dien ieder waerelddeel zal zonder weêrgaê vinden ; Een ' toeleg , die welhaast myn dierbaar vaderland Ten val rukt , of herstelt in zyn ' alöuden stand .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.3	Gy zult , hoe hoog geroemd door steeds te zegepralen , ô Held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.4	op dezen dag den grootsten lof behalen , Indien uw zelfbelang voor uwe deugden zwicht ; Zo ge iets bestaat , dat nooit een koning heeft verricht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.5	Het Indostansche heir heeft , voor ontelbre monden , Gebrek aan spyzen ; 't word van hongersnood verslonden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.6	Men slagt , ( ô yslykheên ! ) men slagt verwoed elkaêr ; Elk krygsknecht word , uit nood , zyn ' spitsbroêrs moordenaar , Daar 't ros , daar de elefant ons moet ten voedsel strekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.7	Men durft het noodige aan den keizer zelv ' onttrekken ; Ja , onder 't muiten van eerbiedigheid ontbloot , Als hy misnoegen toont , hem dreigen met de dood .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.8	De keizerin , voorlang door wanhoop aangedreven , Bragt , ondanks onze zorg , in 't heimlyk zich om 't leven .	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.9	In wanörde , in gebrek , in woede , in moordgekerm , Zal haast , 't en zy uw gunst zich over ons erberm ' , De zware hongersnood ons gantsche heir vernielen .	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.386.s.10	Weer , weer dat onheil ; toon wat deugden u bezielen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.1	Mevrouw , uw stout bestaan verbaast me : gy alleen Beschaamt en vorst en volk : uw moed is ongemeen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.2	Gy noopt my , dat ik u de grootste gunst bewyze , Myn staatzucht overwinn ' , myn ' vyand spare en spyze !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.3	Gy vreest hier geen gevaar !..	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.4	Door uw heldinnedaad Bewyst ge uw zuivre trouw voor uw ' gedreigden staat , Terwyl een talryk heir zichzelf geen ' weg durft banen Door minder benden heen , zich schandlyk baad in tranen .	Emotion_BodyPart_BodilyProcess_Loyalty_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.5	Indien gy waarheid spreekt , dan toont my uw verhaal , Dat ik , zodra 't my lust , onfeilbaar zegepraal , En dus verhinder dat ontelbre legerscharen , Door hoogen nood geperst , door 't staal zich 't leven sparen : Gy stelt , zo gy niet veinst , grootmoedig in myn hand Den ondergang en 't heil van vorst en vaderland , Verwacht een wonderdaad , en toont me een gaadlooze achting .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.6	'k Zou , tot myne eer , misschien voldoen aan die verwachting , U toonen dat myn deugd voor myn belang niet zwicht , Ja iets bestaan , dat nooit een koning heeft verricht ; Indien een vyandin , die , verr ' van my te vreezen , My 't grootst geheim betrouwt , my niet verdacht moest wezen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.411.s.7	'k Verdiende , in plaats van roem , door lichtgeloovigheid , De schande , dat een vrouw myne eerzucht had misleid .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.1	Myn vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.2	kan haar verhaal u achterdocht verwekken ?	Suspicion_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.3	Hoe !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.4	zou een logen haar tot voordeel kunnen strekken ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.5	Gyzelf hebt my gemeld , dat 's vyands legermagt , Beroofd van toevoer , is tot hongersnood gebragt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.422.s.6	Vergeef my , dat ik u te stout durf tegenspreken , En uit meêdoogendheid voor eenen vyand smeeken , Wiens hoogmoed is verneêrd , en die , door u behoed , U de eischen toe zal staan , die gy rechtmatig doet .	Worry_Emotion_EmotionalAction_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.1	De tranen , loos gestort uit twee bekoorlyke oogen , Verwekken in uw ' geest een spoedig mededoogen !	Emotion_BodyPart_BodilyProcess_Compassion_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.2	Een schoone heeft op u veel magts door veinzery !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.3	Bedwing uw driften , prins ; betrouw de zaak aan my .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.4	Mevrouw , dat ge inderdaad u zoud een gunst beloven , Die nimmer weêrgaê vond , gaat myn begrip te boven : Men vleit zich niet zo licht : gy durft te veel bestaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.5	'k Zou aan uw ' hongersnood in 't minst geen twyfel slaan , Ja , zonder dat men 't meldde , uw groot gevaar vermoeden , Deed uw verhaal my niet het tegendeel bevroeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.6	Zoud gy , betrouwende op myn goedheid , onbedacht My melden , dat uw volk elkaêr wanhopend slagt ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.7	Dus , met een wisse hoop op uw bederf , my streelen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.8	Moest gy , uw ' vorst getrouw , niet voor een ' vyand helen Dat uw rampzalig heir , door dezen ommekeer , De magt benomen is tot alle tegenweer ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.9	Vergeefs verbergt ge my den grond van uw gepeinzen : Uw list bedriegt my niet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.10	Waartoe dan meer te veinzen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.11	Zeg , dat uw leger , door geen ' hongersnood ontrust , Van woede , binnenkryg , noch doodsgevaar bewust , My hoopt met meer geluks te weeren , dan voordezen , Zo uw gewaande nood my zorgeloos doet wezen .	Emotion_Hope_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.12	Op welk een ' zwakken grond uw hoop ook steune , ik vind Dat ge op dien voet alleen u 't veinzen onderwind .	Emotion_Hope
+stee033tham01_01.TEI.2.text.body.div.div.sp.452.s.13	Maar denk niet dat ik ooit , door min voor my te waken , Myzelven krachteloos , uw ' keizer sterk zal maken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.2	zyt gy Nadir , door gantsch Azië vermaard , Wiens edelmoedigheid alöm verwondring baart ?	Emotion_Wonder
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.3	Gy , die u menigwerf in bloed , in tranen baadde , Gaat met uw zelfbelang , niet met uw deugd te rade , Ja toont lafhartigheid , terwyl ge my betigt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.4	Den minsten krygsknecht zou , ware onze nood verdicht , 't Verbreiden van die maar ' veel meer dan my betamen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.5	De groote Nadir moest der veinzery zich schamen .	Emotion_Shame
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.6	Gy houd my niet verdacht : uw oogmerk blykt my klaar .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.7	Bedien u schandlyk van ons jammerlyk gevaar ; Bestry een weerloos heir ; verdubbel onze elenden ; Voldoe uw ' wreeden lust ; moord onze legerbenden ; Verniel gantsch Indostan door uw bloeddorstig staal ; Veins geen geloof te slaan aan myn oprecht verhaal ; Bedek uw schande dus ; zorg dat uw moord den luister Van uw geveinsde deugd niet t'eenemaal verduister '; Opdat de waereld waan ' dat gy door heldenmoed , Niet uit lafhartigheid , op 't weerloos leger woed .	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.8	Rampzalig vaderland ! 'k heb u , uit roekeloosheid , Om uw behoudenis , gelevert aan de boosheid , U alle hoop ontrukt van ooit door heldendaên , Uit eedle wanhoop , van uw ' vyand u te ontslaan .	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.480.s.9	'k Gevoel , door deze daad , een knaging my bestryden , Die , in uw ' zwaren druk , my feller smart doet lyden .	Emotion_BodilyProcess_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.1	Wat hatelyk verwyt !	Emotion_Hatred
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.2	Gy acht my wreed en laf !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.3	Gy hoont my !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.4	Deze taal verdient een zware straf .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.5	Maar , ben ik laf en wreed , ik zal 't voor u niet wezen : Van myn gevoeligheid staat u geen ramp te vreezen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.489.s.6	'k Zal Nizamëlmoluk uit 's keizers heir ontbiên : Zie , zie dan hoe ik my van uw gevaar bedien ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.head.491.s.1	Vierde tooneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.493.s.1	Milko , Nasser , Semire .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.513.s.1	Mevrouw , wees niet beducht : uw groote moed bevredigt Den vorst niet minder dan uw argwaan hem beleedigt : Zyne edelmoedigheid , die gy in twyfel slaat , Ten zwaren toets gesteld door uw heldinnedaad , Zou minder in zyn ziel voor uw belangen spreken , Zo hem , zelfs door 't verwyt , uw moed niet waar ' gebleken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.513.s.2	Zyn aart is my bekend .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.513.s.3	Begeert ge dat zyn zoon Met uw rampzalig ryk meêdoogendheid betoon ' ?	Emotion_Compassion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.513.s.4	Het staat aan u alleen : gebie : 'k zal u vernoegen ; Uit yver voor uw heil myn beê by de uwe voegen ; Uw vorst , uw legermagt , uw schreijend Indostan , Zolang 't myn glorie duld , beschermen waar ik kan .	BodilyProcess_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.513.s.5	Maar eer ik iets verricht ' , verwacht ik , tot belooning Van myn beloftenis , een kleine gunstbetooning : Betrouw my één geheim ; ontdek uw ' naam aan my : 't Is billyk dat ik weet ' voor wie myn bystand zy .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.526.s.1	Gy toont uw deugden , prins , door edel mededoogen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.526.s.2	Uw bystand zal , voor ons , by Nadir veel vermogen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.526.s.3	Maar uw grootmoedigheid , die my verwonderd maakt , Die u in yvervuur zelfs voor uw ' vyand blaakt , Zou , zo myn weigering van u myn ' naam te ontdekken U eenigzins weêrhield , u tot geen glorie strekken .	Emotion_Wonder
+stee033tham01_01.TEI.2.text.body.div.div.sp.526.s.4	Ik eisch niet voor myzelve een overtuigend blyk Van edelmoedigheid , maar voor 't Mogolsche ryk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.526.s.5	Ik zal , op uw bevel , myn ' naam voor u niet helen , Zodra gy waardig zyt in myn geheim te deelen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.535.s.1	Mevrouw , indien uw rang uw fierheid evenaart , Dan word gantsch Indostan misscheen om u gespaard , En , door een huwlyk van twee dierbre vredepanden , Aan Persië verknocht met onverbreekbre banden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.535.s.2	Ach !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.535.s.3	zo u 't vaderland naar eisch ter harte gaat , Verberg my geen geheim , waarin myn hoop bestaat .	Worry_Emotion_Hope_BodilyProcess_Loyalty
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.1	'k Heb u verstaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.2	Gy poogt de deerniswaarde elenden Uit enkle baatzucht van ons leger af te wenden .	Emotion_Greed
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.3	Is dit meêdoogendheid ?	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.4	De hoop op heldenvreugd , Op eeuwigdurende eer , op 't waardig loon der deugd , Dat aan een groote ziel onfeilbaar is beschoren , Behoorde u voor ons ryk tot bystand aan te spooren .	Joy_Emotion_Pride
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.5	Ach , prins !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.546.s.6	zo u de deugd naar eisch ter harte gaat , Ontzeg my dan geen hulp , waarin myn hoop bestaat .	Worry_Emotion_Hope_BodyPart_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.sp.560.s.1	Uw driftige achterdocht , mevrouw , is onrechtvaardig : Myn pligt is my veel meer , dan myn belangen , waardig .	Suspicion_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.560.s.2	Ik zal uw ' eisch voldoen ; en al de minnesmart , Door uw bekoorlykheên veröorzaakt in myn hart , Kloekmoedig wederstaan , ja trachten te overwinnen , Totdat uw rang my blyke , en ik u mág beminnen .	Emotion_BodyPart_Love_Sadness_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.560.s.3	'k Heb reeds genoeg bespeurt : uw fiere weigering , Die hooggeboornen voegt , verbant myn twyfeling .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.560.s.4	Vaarwel .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.560.s.5	Ik zal niet weêr voor uw gezigt verschynen , Eer de yver , die my blaakt , uw wantrouw doe verdwynen .	Suspicion_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.head.562.s.1	Vyfde tooneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.564.s.1	Milko , Semire .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.566.s.1	Semire .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.577.s.1	Prinses , wy zien eerlang , misleid myn hoop my niet , Door 's vyands deerenis een einde aan ons verdriet , Ons heir van hongersnood , van onverdraagbre plagen , Het weerloos vaderland van oorlogswoede ontslagen , Ten eenemale in rust , in magt , in eer hersteld , En u in echt veréénd met dezen jongen held .	Emotion_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.577.s.2	Zo zal ons ongeval u tot geluk verstrekken , U aan de minnedrift van Alikan onttrekken , U paren met een ' prins , die , door eene eedle daad , Zoveel uw min verdient , als Alikan uw ' haat .	Emotion_Hatred_BodilyProcess_Love_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.1	Ja , 's keizers gunsteling , Semire !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.2	doet my gruwen : De vorst poogt my vergeefs aan Alikan te huwen , Aan 't yslyk vloekgedrocht , dat , met een trouwloos feit , Met ryksverraad betigt , arglistig vrygepleit , Op zyn betigters , wier getrouwheid is gebleken , Zich fel gewroken heeft door zyn verwoede treken .	Emotion_Disgust
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.3	Maar spreek my van geen liefde : in dezen droeven stand Behaagt my niets , dan 't heil van 't kermend vaderland , ô Ongelukkig vorst !	HeavyHeartedness_Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.4	ô kwynende onderzaten !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.5	ô Dierbaar Indostan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.6	mogt u myn bystand baten !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.593.s.7	Ik ben geheel voor u : 'k zou , in uw doodsgevaar , Kloekmoedig meer bestaan , indien 't my mooglyk waar ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.600.s.1	De nicht van Mahomet , uit keizerlyke looten , Uit Tamerlans geslacht , uit Aurengzeb gesproten , Rechtäarde Milko geeft , door onnavolgbren moed , Een overtuigend blyk van haar doorluchtig bloed .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.1	'k Heb geen gevaar ontzien , om heimelyk te vluchten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.2	Waar heen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.3	Naar 's vyands heir , daar 't all ' my staat te duchten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.4	Wat kan een vrouw bestaan door klagten , door geween ?	Emotion_BodilyProcess_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.5	Myn moed is groot genoeg ; maar ach !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.607.s.6	myn magt te kleen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.614.s.1	Gy zult door fiere deugd op Nadir meer vermogen , Meer winnen op zyn ' zoon door twee bekoorlyke oogen , Tot heil van 't zuchtend ryk , dan ooit , door wapenkracht , Ons heir verrichten kan op 's vyands legermagt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.633.s.1	Ik weet , schoon Nadir , trots , vermetel , ongenadig , Door dolle wraak vervoerd , afgryslyk wreed , moorddadig , Wanneer zyn gramschap woed niets in het leven spaart ; Dat echter menigwerf zyn edelmoedige aart Zyn grimmigheid weêrhoud ; dat hy , door deugdbetooning , Den scepter meer verdient dan zyn onttroonde koning : Zyn wreede oploopendheid , zyn misdryf baart hem smart ; Maar de edelmoedigheid is eigen aan zyn hart .	Emotion_Sadness_Anger_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.div.sp.633.s.2	Geen ' snooden Alikan , afkeerig van de vrede , Ontbied hy , in zyn heir , uit onze legerstede ; Maar Nizamëlmoluk , een ' loflyk ' onderdaan , Die , Mahomet getrouw , het ryk niet zal verraên .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.633.s.3	Dit geeft my hoop : ô ja ! 't zal my misschien gelukken ' Aan 't gruwzaam ongeval den droeven staat te ontrukken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.633.s.4	Kom , laat ons Nadir zien ; opdat my spoedig blyk ' Wat deze vorst verricht voor 't Indostansche ryk .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.635.s.1	Einde des Eersten Bedryfs .	None
+stee033tham01_01.TEI.2.text.body.div.head.639.s.1	Tweede bedryf .	None
+stee033tham01_01.TEI.2.text.body.div.stage.643.s.1	Nizamëlmoluk , Alikan , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.sp.speaker.646.s.1	Malek , tegen Nizamëlmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.sp.651.s.1	Myn koning wil u hier zyn oogmerk openbaren .	None
+stee033tham01_01.TEI.2.text.body.div.sp.651.s.2	Ik weet zyn opzet niet : vrees echter geen gevaren : Uw eedle vyand zal zyn glorie niet verraên .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.651.s.3	'k Zal hem uw beider komst in 't leger doen verstaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.655.s.1	Nizamëlmoluk , Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.657.s.1	Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.666.s.1	Gy , Nizamëlmoluk , ontboden door den koning , Geniet , door 's vyands keur , een groote gunstbetooning , Een ' dierbren voorrang , die genoeg te kennen geeft Wat achting deze vorst voor uw verdiensten heeft ; En dat hem niemant , uit ons leger , naar zyn oordeel , Zyn groot bestaan kan doen gedyën tot zyn voordeel , Dan gy , die onbeschroomd zyn heldendeugden roemt , En met geen duistre taal zyn ' krygstogt wettig noemt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.669.s.1	Nizamëlmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.674.s.1	Het voegt aan Alikan zo stout van my te spreken ; Aan u , wiens onschuld niet genoegzaam is gebleken , Aan u , die van verraad in schyn uzelv ' verschoont , Wanneer ge uw ' yver dus voor 't vaderland betoont .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.681.s.1	Myne ongeveinsde trouw zal onweêrspreekbaar blyken , En dit verdacht ontbod daaröver 't vonnis stryken .	Emotion_Loyalty
+stee033tham01_01.TEI.2.text.body.div.div.sp.681.s.2	Zo iemant iets tot schaê van Indostan besloot , Dan is hy schuldig dien de vyand hier ontbood .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.1	Een overtuigend blyk !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.2	zo acht ge my dan schuldig ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.3	Zo moest dan Alikan , voor 't vaderland zorgvuldig , Bekommerd dat ik vorst en volk verraden zou , My hier verzellen ? 't ryk behoeden door zyn trouw ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.4	Doorslepen hoveling !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.5	gy zult my niet misleiden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.6	Laat ons de logen uit de waarheid onderscheiden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.7	De vyand , had ik my bezoedelt met verraad , En spande ik met hem aan tot nadeel van den staat , Zou , door ervarenis in staatkunde onderwezen , Niet roekloos my ontbiên , maar allen argwaan vreezen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.8	Had Nadir u ontboôn , 'k sprak u van ontrouw vry .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.9	Ik geef geen redenen tot achterdocht , maar gy .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.10	Uw yver , die voor 't ryk u noodeloos doet waken , Bedekt in 's keizers geest my poogt verdacht te maken , U aanspoorde om met my naar 's vyands heir te gaan , Misschien uit enkle vrees dat ik u hier mogt schaên , Deze yver geeft my recht , ô Alikan !	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.704.s.11	te denken , Dat gy , voorheen verdacht , uw ' pligt , uw trouw durft krenken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.714.s.1	Ik ducht , op wisser grond , dat uwe arglistigheid , Die my doet zwichten , en u vry van ontrouw pleit , U zal door Nadirs gunst den rykstroon doen bekleeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.714.s.2	De staatzucht is gespitst in gruweldaên te smeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.714.s.3	'k Zeg andermaal , dat gy , die Nadirs deugden pryst , Gy , wien de vyand thans de grootste gunst bewyst , By zich in 't heir ontbied , om u alleen te spreken , ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.725.s.1	Gy kunt myn ' aanslag , zo ik schuldig ben , verbreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.725.s.2	Gy , die by Nadir door uw byzyn my bespied , Verhoe dien toeleg ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.725.s.3	Neen , gy vreest myne ontrouw niet ; Gy vreest alleen , dat ik , van argwaan ingenomen , Uw schandelyk verraad trouwhartig voor zal komen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.725.s.4	Denk , hoe gy meer my tergt , in schyn my schuldig acht , U zuivert , hoe ik meer uw ' yver hou verdacht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.1	Vaar voort ; verberg voor my den grond van uw gepeinzen ; Bedrieg my , zo gy kunt , door uw behendig veinzen ; Verdenk , beschuldig my ; voeg al uw kunst byéén : 'k Zie echter , u ten spyt , door al uw loosheid heen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.2	Indien ge uw doel bereikt , staat alles my te duchten : Gy zoud den troon bekleên ; ik in uw boeijen zuchten , Of door een wreede dood uw grimmigheid voldoen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.3	Aanstaande keizer !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.4	spreek : wat lot , uw wraak ten zoen , Zal my beschoren zyn ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.5	of staat my niets te vreezen ?	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.6	Ik weet dat Alikan uw gunstling niet zal wezen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.743.s.7	Dan zal 't Mogolsche ryk , door uwe zorg bewaakt , Ontheven van een ' vorst , wiens ryksbestier gy wraakt , Volmaakt gelukkig zyn , 't heeläl ten wonder strekken , En koning Nadir u voor alle rampen dekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.1	Indien gy 't ryk niet wint door uwe arglistigheid , Het is ten minste een goed waarmeê ge uw staatzucht vleit .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.2	Ik kan , uit achterdocht , u 't zelfde feit verwyten , Dat uw geveinsde drift te bits my toe durft byten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.3	Gy voert die stoute taal , dewyl gy schandlyk waant Dat u de vyand reeds een ' weg ten rykstroon baant : Gy kunt uw dwaze hoop , uw blydschap , niet verbergen .	Joy_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.4	Of durft uw overmoed zo onbeschaamd my tergen , Opdat ik roekeloos uit gramschap iets besta , Waardoor ikzelf my storte in 's keizers ongenaê ?	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.5	Neen , listige Alikan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.6	gy zyt niet meer ervaren , In uw vermeetle jeugd , dan ik in ryper jaren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.7	Ik , die het veinzen doem , die all ' uw treken ken , Die van uw ' wrevlen nyd het smaadlyk doelwit ben ; Ik , door geen gramschap , door geene eigenbaat bewogen , Zie al uw pooging aan met medelydende oogen .	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.8	Keer weder tot uw ' pligt ; betoon een waar berouw ; Bescherm het ryk , uzelv ' , door ongeveinsde trouw .	Emotion_Loyalty_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.770.s.9	Ik zal , zodra ik u voor 't vaderland zie leven , Uw list , uw veinzery , uw ' toeleg u vergeven ; Ja , uit erkentenis , u eeren als een ' vriend , Die myn verächting nooit door ontrouw heeft verdient .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.776.s.1	Nadir , Nizamëlmoluk , Alikan , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.776.s.2	Lyfwachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.790.s.1	Toon , zo gy Nadir zyt , gewoon aan eedle daden , Of Alikan by u zyn ' keizer heeft verraden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.790.s.2	Mynheer , ik ben verdacht van zulk een gruwelstuk , By dezen meêgezant , by Nizamëlmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.790.s.3	Hy zal , zodra gy hem de waarheid zult ontdekken , Myne onbevlekte trouw niet meer in twyfel trekken ; Maar , t'eenemaal gerust op uw getuigenis , Doen blyken hoe volmaakt voor u zyne achting is .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.790.s.4	Uw deugd , uw glorie eischt dat gy myn trouw verdedigt , Nadien zyn argwaan u , niet min dan my , beleedigt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.790.s.5	Spreek tot myne onschuld niet , dan voor uzelv ' alleen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.1	Zou myn getuigenis geloof verdienen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.2	Neen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.3	't Zou my tot schande , en u tot erger leed gedyën : Een vyand is altoos verdacht van veinzeryën .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.4	'k Zal echter klaar doen zien aan uw ' gedreigden staat , Dat Nadir niets begeert door bystand van verraad .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.5	Hoor , Nizamëlmoluk , wat ik heb voorgenomen , En waarom myn ontbod u in myn heir deed komen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.6	Uw leger , uitgeteerd , van hongersnood geplaagd , Op 't enkele gezigt eens Persiaans vertsaagd , Door binnenkryg verdeeld , van hoop ontbloot , aan 't muiten , Aan 't moorden , magteloos myn zegepraal te stuiten , Uw talryk leger word vernield , zodra 't my lust : Dit ryk is in myn magt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.7	Stel echter u gerust : 'k Zal in uw weerloos heir , 't geen door onlydbre elenden Myn ziel tot deernis noopt , met frissche legerbenden Geen ' schandelyken moord , geen gruwzaam feit bestaan : Ik eisch geen ' stroom van bloed ; ik ding naar lauwerblaên .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.8	ô Ja !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.9	ik wil myn gunst aan Indostan bewyzen , Myn voordeel afstaan , en uw kermend leger spyzen , Indien uw vorst , geleerd hoe weinig hy vermag , Zich wil behoeden door een billyk vreêverdrag .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.817.s.10	Die weldaad zal meer vreugds verwekken in myn zinnen , Dan de eer van door myn ' moed gantsch Indostan te winnen .	Joy_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.1	Mynheer , ik kan genoeg beseffen welk een vreugd , Die alles overtreft , uit ware heldendeugd In groote zielen spruit , die 't edel mededoogen Verkiezen voor 't geweld van 't vyandlyk vermogen : Ook weet ik dat uw hart naar zulk een blydschap tracht : Uw weldaad , ons beloofd , is niet by my verdacht .	Joy_Emotion_BodyPart_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.2	Geen laffe vleijery doet tot uw ' lof my spreken : Uwe edelmoedigheid is Azië gebleken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.3	Vergun my , dat ik vraag ' hoe u die zware elend ' , Die hongerswoede , die verdeeldheid is bekend .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.4	Of is u niets gemeld ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.5	Gy zoud , door louter gissen , Of door een valsch bericht , de waarheid kunnen missen , En dus eene eedle gunst beloven , die , versmaad , En vruchtloos voor ons heir , uw magt te boven gaat .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.6	Gelooft ge dat myn vorst , door all ' uw Persianen , Zich , zo de nood hem drong , geen ' weg zou durven banen , Maar , tot vermyding van een glorieryke dood , Lafhartig zou vergaan van zwaren hongersnood ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.7	Erken , indien gy 't waant , ô Nadir !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.8	uw verblinding .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.843.s.9	Men vreest , in doodsgevaar , geen hagchlyke onderwinding : De wanhoop , onbevreesd , van razerny verzeld , Maakt van een ' bloodaart zelfs een ' zegepralend ' held .	Fear_Emotion_Despair_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.846.s.1	Alikan , tegen Nadir .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.856.s.1	Hoe heilryk is ons lot , nu onze legerscharen , Door honger niet geplaagd , beveiligd voor gevaren , Van heldenmoed bezield , tot tegenweer bereid , Geen ' dank verschuldigd zyn aan uw meêdoogendheid !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.856.s.3	uw deernis , vreemd , verbazend , overbodig , Verdacht van veinzery , zou , waar ' ze ons leger noodig , Misschien , zodra ge ons had behendig uitgehoort , Verkeeren in geweld , in oorlogswoede , in moord .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.859.s.1	Nadir , tegen Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.1	Gy acht my dan bekwaam tot snoode veinzeryën ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.2	Gy vreest niet dat die taal u kan tot leed gedyën ?	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.3	Indien ik trouweloos door list myn voordeel zocht , Dan moest ge zwygen van uw zorglyke achterdocht ; Nadien ik , fel getergd door uw vermetel spreken , In spyt van 't vrygelei ' dien hoon zou kunnen wreken .	Suspicion_Worry_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.4	Gy tergt my roekloos , of beleedigt my in schyn ; Maar toont uw trouw te veel , dan dat ze oprecht zou zyn .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.5	Wie schaamtloos , met gevaar , een ' vyand durft trotseren , Om listig van zichzelv ' alle achterdocht te weeren , Is veeltyds min bedacht op 't welzyn van den staat , Dan op zyn zelfbelang , op lafheid , op verraad .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.874.s.6	Gy spreekt , alsöf gy loos , verr ' van myn wraak te vreezen , My dienstig zyt geweest , of dienstig poogt te wezen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.881.s.1	Gy waant dat deze taal my spyt verwekt : maar neen ; Ik ben u dier verpligt voor deze vrindlykheên , Die , schoon een valsch gerucht myn glorie heeft geschonden , Doen zien hoe Alikan aan Nadir is verbonden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.884.s.1	Nadir , tegen Nizamëlmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.1	Gy , die my niet verdenkt , en echter uwe elend ' , Uw ' zwaren hongersnood , uw ' binnenkryg ontkent , Gy zoud ontwyfelbaar de waarheid my ontdekken , Indien 't geen ' argwaan , in uw nadeel , zou verwekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.2	Een edel hart , als 't uw ' , betrouwt zich onvervaard Op 't onherroeplyk woord eens vyands van myn ' aart .	Emotion_BodyPart_Trust
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.3	Maar 'k wil deze oorzaak van ontkenning doen verdwynen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.4	Gy , Malek , doe terstond de vrouwen hier verschynen , Ik zal bewyzen , hoe , door wat onfeilbaar blyk , 't Gevaar my is bekend van 't Indostansche ryk , Ik doem uw loosheid niet ; ik prys uw veinzeryën , Zolang de oprechtheid u tot onheil zou gedyën .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.5	Maar als gy haar zult zien , die , door heldinnetaal , Van uwe elende my een ongeveinsd verhaal Tot uw verlossing deed , en my tot mededoogen Voor 't kermend talloos heir eens vyands heeft bewogen , Dan zult ge , op dat gezigt volkomen overreed , Behoed voor lastertaal , bekennen 't gene ik weet : Of zo gy listig noch eene uitvlucht durft verzinnen , Weêrspreek dan 't waar verbaal van ééne uit uw vorstinnen .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.6	Zy komt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.910.s.7	Ontken my nu den schrik , dien gy betoont , Die u van veinzery beschuldigt , haar verschoont .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.894.s.1	Tegen Nizamëlmoluk , terwyl Malek vertrekt .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.916.s.1	Nadir , Nasser , Milko , Nizamëlmoluk , Alikan , Semire , Malek , Lyfwachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.923.s.1	Mevrouw , gy zult terstond naar uw begeerte aanschouwen Dat zich een groote ziel op Nadir mag betrouwen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.923.s.2	Zie hoe de koning reeds , uit mededoogendheid , Voor uw elendig volk een heilryk lot bereid .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.930.s.1	Mevrouw , ik zal uw heir voor ondergang behoeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.930.s.2	Maar Nizamëlmoluk , uit vrees van kwaad vermoeden , Ontkent den hongersnood , die vorst en volk vernielt : Uw bystand is my nut .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.1	De deugd , die u bezielt , ô Edelmoedig held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.2	voldoet aan myn verwachting .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.3	Nadien ze gaadloos is , verdient ze een gaadlooze achting .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.4	Verwacht niet , nu ikzelve u ons gevaar bely , Dat Nizamëlmoluk die waarheid u ontstry ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.5	't Gevaar , dat u weêrhoud den nood der legerscharen Van onzen keizer aan den koning te openbaren , Is 't uwe niet , maar 't myne ; ik heb die daad verricht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.945.s.6	Myn yver blaakt voor 't ryk : beken ; gy weet uw ' pligt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.939.s.1	Tegen Nizamëlmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.952.s.1	Prinses ! 't verbaast my u in 's vyands heir te vinden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.952.s.2	Wie zou , daar iemant zich een daad durft onderwinden , Die 't ryk verdelgt of red door onbedachte trouw , Vermoên dat Milko zelf die daad verrichten zou ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.956.s.2	Milko ? 's keizers nicht ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.956.s.3	Is 't mooglyk 't geen wy hooren ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.962.s.1	Prinses , uw eedle rang , hoe hoog gy zyt geboren , Strekt minder tot uwe eer , dan uw heldinnemoed , Die uw geslacht verheft , die vorst en volk behoed .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.978.s.1	ô Held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.978.s.2	ik kan voor u ons krygswee niet verbergen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.978.s.3	't Is noodloos u voor ons een groote daad te vergen : Gy weet dat wy vergaan van hongersnood en moord : Ons jamren deert u : wy betrouwen op uw woord : Ik vrees niet dat ge uw deugd baatzuchtig zult verzaken , Door 't minste kwaad gebruik van onze elend ' te maken , Door ons te dwingen tot een schandlyk vreêverdrag .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.978.s.4	Een held , als Nadir , doet veel min 't geen hy vermag , Dan 't geen zyn glorie eischt ; kan zyn belang versmaden , Wanneer 't geen hoop verschaft tot nieuwe lauwerbladen ; En stelt geen vreugd , geen ' roem , in 's vyands schande en schaê , Maar in meêdoogendheid , in weldaên , in genaê .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.1	Zo is 't .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.2	Ik zal myn ' eisch op recht en reden vesten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.3	Ik eisch van Mahomet de landen , die , bewesten Den Indus , door geweld , meineedig , tegen recht , Aan 't Indostansche ryk voordezen zyn gehecht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.4	Aan Persië behoort de koningklyke zetel , Door Tamerlan gebouwd , de onschatbre troon , vermetel Van all ' uw keizers als hun wettig eigendom Bezeten , ons ontroofd : ik eisch dien troon weêrom .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.5	Vorst Abas bragt welëer een legermagt te velde , Opdat zyn bondgenoot zich op den troon herstelde : Maar keizer Homajoen , bevestigd in 't gebied Van 't muitend Indostan , hield zyn belofte niet ; Hy schond het ryksverding , met Persië gesloten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.6	Uw keizer stave aan my 't verdrag dier bondgenooten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.7	Zelfs Mahomet , verpligt in kryg my by te staan , Maar ongetrouw , heeft niet aan ons verbond voldaan , Toen 't wuft Agwaansche volk , oproerig aangespannen , My dreigde , en toen ik streed in 't ryk der Ottomannen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.8	Ik eisch vergoeding voor zyne ontrouw , my betoond .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.9	Hy , die my roekeloos in myn gezanten hoont , En telkens op den eisch , hem billyk voorgeschreven , Een wrevlig antwoord , vol verächting , heeft gegeven , Is echter , nu zyn ramp erbarmlyk voor hem pleit , Het voorwerp van myn hulp en mededoogendheid .	Emotion_Compassion_Disgust_Annoyance
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.10	Hy kome , opdat ikzelf aan hem myn gunst bewyze , Aan hem de vrede schenke , en 't kwynend leger spyze ; Hy spreek ' my in dit heir ; hy zie , zelfs dezen dag , Hoeveel zyn krygsëlende op myn gemoed vermag .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.11	Gy , Nasser , zult terstond , om hem myn ' wil te ontdekken , Met Nizamëlmoluk naar 's vyands heir vertrekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.12	Ik wacht u , binnen 't uur , met Mahomet hier weêr .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.13	Hem blyke , door uw komst , hoe ik een ' keizer eer .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.14	Prinses , 'k zal dezen dag , verr ' boven uw verwachting , Voor uw kloekmoedigheid een teeken myner achting Aan u bewyzen , tot bevordring van de vreê .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.15	Gy zult hier veilig zyn , als in uw legersteê .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1019.s.16	Gy , Alikan , vertoef .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1023.s.1	Milko , Alikan , Semire .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1035.s.1	Prinses , mint u de koning ?	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1035.s.2	Of zou prins Nasser u beminnen ?	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1035.s.3	'k Eisch verschooning , Indien myn stoute vraag u eenigzins misdoet : Denk dat een minnend hart gedurig argwaan voed .	Emotion_BodyPart_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1035.s.4	Zou Nadir beter u zyne achting kunnen toonen , Ter vordring van de vreê , dan als hy beider kronen Vermaagschapt door een ' echt , die u aan my ontrooft ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1035.s.5	Schept gy behagen in deze achting , u beloofd ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.2	zou deze achting my niet tot genoegen strekken , Indien ze 't vaderland aan 't krygswee kan onttrekken ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.3	Gy twyfelt dat de prins , of Nadir , my bemint !	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.4	Ga , vraag dit aan hunzelf , zo gy 't geraden vind .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.5	Gy moest blyhartig , om myn liefde waard ' te wezen , In plaats van 't minnevuur des vyands laf te vreezen , My afstaan voor 't geluk van 't schreijend vaderland .	Fear_Joy_Emotion_BodilyProcess_Love_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.6	Wie onvermogend is tot zulk eene offerhand ' , Wie meer zyn voordeel zoekt dan 't voordeel onzer staten , Is myner liefde onwaard ' , dien moet ik doodlyk haten .	Emotion_Hatred_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.7	Myn hart , door u ontlast van alle erkentenis , Zal echter meer bestaan dan 't u verschuldigd is ; 't Zal u , dien 't niet bemint , nochtans trouwhartig raden .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.8	Men heeft u , waar of valsch , betigt met gruweldaden ; Men houd u nóch verdacht , dat gy , om 's keizers troon , Den vyand , tegen 't ryk , uw hulp hebt aangeboôn : Hy schynt , zo gy hem reeds uw ' dienst niet hebt gehuldigt , Verwittigd dat men u met ontrouw heeft beschuldigt ; Hy weert u uit ons heir , misschien opdat uw list Aan ons de vrede , aan hem zyn weldaad , niet betwist ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.9	Tracht , nu 't gevaar van 't ryk geen magt heeft op uw zinnen , Ten minste om uw gevaar uw liefde te overwinnen , Eer Nadirs deugd u storte in 's keizers ongenaê .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1063.s.10	Dat niets , dan uw behoud , u thans ter harte ga .	None
+stee033tham01_01.TEI.2.text.body.div.div.head.1066.s.1	Zesde tooneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1069.s.1	Alikan , alleen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.1	Ondankbre !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.2	ik zal uw ' schimplust haast bepalen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.3	Doe my , ô staatzucht !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.4	op de liefde zegepralen : Gy blaakt me , in eedler gloed , voor kroon en scepterstaf : De liefde is , in een hart als 't myne , veel te laf .	Emotion_BodyPart_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.5	Ik zal , door 's vyands gunst , het keizerryk regeeren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.6	ô Schrandre Nadir , die , om achterdocht te weeren , Staatkundig , door een ' glimp van edelmoedigheid , My bits bejegent , dus myn ' meêgezant misleid , My ophoud in uw heir , om my alléén te spreken !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.7	'k Zal toonen dat my klaar uw doelwit is gebleken ; 'k Zal my bedienen van dit gunstig oogenblik .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.8	Doch , schoon ik vol van hoop , vervreemd van dwazen schrik , In u myn ' toeverlaat blymoedig durf aanschouwen , 'k Zal echter op uw gunst my niet te veel betrouwen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.9	ô Triomferend held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1086.s.10	vrees , vrees , misleid ge my , Dat Alikans verderf tot Nadirs val gedy ' .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.stage.1088.s.1	Einde des Tweeden Bedryfs .	None
+stee033tham01_01.TEI.2.text.body.div.head.1092.s.1	Derde bedryf .	None
+stee033tham01_01.TEI.2.text.body.div.stage.1095.s.1	Nadir , Alikan , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.sp.speaker.1098.s.1	Nadir , tegen Malek .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1101.s.1	Gy zult , van wacht verzeld , des keizers komst verbeiden , En hem eerbiedig in myn legertent geleiden .	None
+stee033tham01_01.TEI.2.text.body.div.sp.speaker.1104.s.1	Alikan , terwyl Malek vertrekt .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1115.s.1	Vorst Nadir , niet vernoegd dat ieder heldendaad Van zyn gevreesde kling 't geloof te boven gaat , En dat zyn strydbare arm 't heeläl houd opgetogen , Begeert de glorie van grootmoedig mededoogen !	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.sp.1115.s.2	Gy spaart een ' vyand , die , van alle hoop ontbloot , Elendig zou vergaan van zwaren hongersnood , 't En ware 't u behaagde ons ongeval te stuiten !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1115.s.3	Zelfs bied ge ons gunstig aan een vreêverdrag te sluiten !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1115.s.4	Uw weldaad , ons beloofd , uw deugd is ongemeen : Die edelmoedigheid , ô held !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1115.s.5	voegt u alleen .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1126.s.1	Gy , Alikan , gy kunt , door deze gunst te roemen , Uw ware meening , uit bevreesdheid , loos verbloemen !	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.1126.s.2	Die taal verbaast my niet : een hoveling , als gy , Doorslepen , uitgeleerd in list , in veinzery , Zal zyn gedachten steeds uit achterdocht bedekken , Zo hem de oprechtheid zou tot nadeel kunnen strekken .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1126.s.3	Maar deze loosheid is onnoodig : spreek oprecht .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1126.s.4	Verwacht ge , van myn gunst , niets anders dan gy zegt ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.1154.s.1	Indien een andre held , in staat te triomferen , Beloofde van ons ryk den ondergang te weeren , En zelf de vreê begeerde ; ik zou , op wissen grond , Vermoeden dat zyn hart , in weêrwil van zyn ' mond , Een ' loozen toeleg smeedde , om , zonder krygsgevaren , Een kroon te winnen , door een ' vyands heir te sparen ; Dat hy den keizer , als uit yver voor de vreê , Door kunstig staatsbeleid lokte in zyn legersteê , Om , als vorst Mahomet behendig waar ' gevangen , Het magtig ryksgebied van Indostan te erlangen ; Dat hy , door bystand , uit ons ryk hem aangeboôn , Door onzer grooten hulp verwinnaar van den troon , ( Men kan met reden van dien toeleg hen verdenken , ) Aan één ' dier grooten 't ryk ten leengebied zou schenken , Verzekerd dat ons volk , bevredigd , hem getrouw , Door één ' uit ons bestierd , zyn zege staven zou .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1154.s.2	Zo zou een ander zich ontwyfelbaar gedragen , Zich vleijende op die wys zyn glorie niet te wagen .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1154.s.3	Ervaren staatzucht denkt dat de opperheerschappy Met recht verkregen word door list , door veinzery : Zy zal een loos bedrog , 't geen tedre zielen doemen , Een loffelyke daad van ware helden noemen .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1154.s.4	Licht wraakt gy die gedachte : onzeker , weet ik niet Of Nadirs eerzucht doemt wat staatzucht hem gebied .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.1	Gy , aan den toeleg van uw grooten medepligtig , Zyt , in 't ontveinzen van uw stout bestaan , voorzigtig : Gy vreesde dat ik u , uit eerzucht , mogt versmaên ; En bood door andren my uw ' vreemden bystand aan : Nu toetst ge my ; en poogt , zolang u myn gepeinzen Noch niet gebleken zyn , uw ' aanslag my te ontveinzen : In twyfel wat myn hart van uw besluit gevoelt , Bewyst ge , door uw list , wat oogmerk gy bedoelt ; Opdat ikzelf , bewust van 't geen gy poogt te smooren En tevens my ontdekt , u myn besluit doe hooren .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.2	Gy vleit u met de hoop dat Thamas Koelikan , Die Thamas troon bekleed in 't vorstlyk Ispahan , Den naam van dwingland , van verrader , niet zal vlieden , Indien hy Indostan als keizer kan gebieden : Maar 't schynt u onbekend , dat , sints ik Nadir wierd , Ik 't Persiaansche volk rechtvaardig heb bestierd ; Dat , toen my 't gantsche ryk tot koning heeft verkoren , De alöude luister van myn staten wierd herboren ; Dat Thamas , my ter wraak , rechtmatig wierd onttroond ; Ik , voor myn diensten , uit erkentenis gekroond : Ik pleegde geen geweld ; men schonk my 't ryk vrywillig .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.3	Myn zucht tot heerschen en uw staatzucht zyn verschillig : Ik wenschte om 't heil des volks ; gy wenscht uit eigenbaat : Myn oogmerk was oprecht ; het uwe is kroonverraad .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.4	Die taal behaagt u niet : gy denkt licht , uit myn rede , Dat ik , uit deernis , ben genegen tot de vrede : Maar schort uw oordeel op , totdat ge onfeilbaar ziet Of Nadirs eerzucht doemt wat staatzucht hem gebied .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.5	Een vyand zal niet licht een keizerryk versmaden .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.6	Misschien bereikt gy 't wit van uw geheime daden .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1190.s.7	't Is recht , nu Alikan voor my behendig veinst , Dat hem verholen zy wat Nadir waarlyk peinst .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1197.s.1	't Is vruchtloos dat ik poog door veinzery te ontdekken , Of ons de hongersnood tot schade of heil zal strekken .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1197.s.2	Ik durf my van uw deugd beloven dat misschien ...	None
+stee033tham01_01.TEI.2.text.body.div.sp.1197.s.3	De keizer nadert ons ; 'k zal haast uw doelwit zien .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1202.s.1	Mahomet , Nadir , Nasser , Nizamëlmoluk , Alikan , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1209.s.1	ô Vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1209.s.2	uw ongeluk , uw komst , uw vast betrouwen Op myn gegeven woord , verpligt my u te aanschouwen Als mynen bondgenoot , ja als myn ' waarden vrind .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1209.s.3	Door deze omhelzing blyk ' hoe Nadir u bemint .	Emotion_Dedication_Loyalty
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1211.s.1	Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1229.s.1	Uwe edelmoedigheid , in ons gevaar te weeren , Doet my , ô koning !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1229.s.2	u als myn ' verlosser eeren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1229.s.3	Gy hebt , door dapperheid , myn groote legermagt Met weinig oorlogsvolk bykans ten val gebragt : Nochtans verwerft ge , ô held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1229.s.4	door 't al vernielend stryden Zo groot een ' luister niet als door uw medelyden .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1229.s.5	Ik zal den ryken troon van grooten Tamerlan , En 't Persiaansche land , gehecht aan Indostan , Naar inhoud van den eisch , met recht my voorgeschreven , Aan uw zeeghaftig ryk vrywillig wedergeven : Ik zal de schuld , welëer aan Abas niet voldaan , En myn verbond , van u in oorlog by te staan , Waarin ik schuldig bleef , u t'eenemaal vergoeden : 'k Zal juichend u voldoen , opdat het yslyk woeden Van kryg , van hongersnood , van tweedragt , tot uwe eer In vrede , in overvloed , in waar geluk verkeer ' !	Emotion_Happiness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.1	Het woedend oorlogswee van all ' uw legerscharen , Door onverhoopte gunst , door vreê , te doen bedaren , Verwekt meer blydschap in myn mededoogend hart , Dan u 't verrassend eind ' van uwe onlydbre smart : Ik , die myn ' lust nooit stelde in moorden , in vernielen , Smaak thans een ware vreugd ; ik red ontelbre zielen ; 'k Verwerf , door 's vyands heir te ontheffen van elend ' , Een gadeloos geluk , voorheen my onbekend .	Joy_Emotion_Happiness_BodyPart_Compassion_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.2	De magt tot weldaên is een voorrecht van de grooten ; Een voorrecht , meest , verzuimd , van weinigen genoten ; Een heil , waardoor men zich der grootheid waardig maakt , Waardoor eene eedle ziel de zoetste weelde smaakt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.3	'k Heb dus , al spaarde ik u het keizerryk , ja 't leven , Veel min voor uw geluk , dan zelfs voor 't myn ' bedreven .	Emotion_Happiness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.4	Laat ons , tot sterking van ons weêrzydsch ryksgezag , Ons naauw veréénen door een eeuwig vreêverdrag .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.5	Een dierbaar echtverbond zal ons 't vermogen geven , Waardoor we , aanéén verknocht , de koningen doen beven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1259.s.6	De schoone Milko , die , door edelmoedigheid , Voor uw ' gedreigden staat eene uitkomst heeft bereid ; Die , door haar vaderland meer dan zichzelf te minnen , Het waardig voorwerp is van myn verbaasde zinnen ; Zy , die ik hooger dan uw kroon en scepter acht , Van wie ik neven wensch uit Tamerlans geslacht , En wier uitmuntendheên myn ' zoon in liefde ontvonken , Zy tot eene echtgenoote aan dezen prins geschonken .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1262.s.1	Alikan , ter zyde .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1264.s.1	ô Felle spyt !	Emotion_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1267.s.1	Nasser , tegen Nadir .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.1	Myn vorst , uw dierbre gunst , gewoon My niets te ontzeggen , toont uw liefde voor uw ' zoon .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.2	Vergun my , daar gy eischt als koning , als verwinnaar , Dat ik myn bede doe als onderdaan , als minnaar .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.3	Maak my , doorluchte vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.4	my , zuchtende om uw ' druk , Een ' blyden deelgenoot van uw aanstaand geluk ; Sta toe dat Nasser zich aan schoone Milko huwe , Opdat myn jeugdig bloed , veréénigd met het uwe , En dus verëdeld door 't aloude heldenbloed Van grooten Tamerlan , uw nederlaag vergoed ' !	Joy_Emotion_Happiness_BodilyProcess_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.6	ik zal voor u , als de yvrigste uwer magen , Dit bloed , uit Nadir zelv ' gesproten , moedig wagen , Daar gy , gedreigd , ontrust door 't Zuidlandsch muitgespan , Geen ware keizer zyt van 't magtig Indostan ; Ik zal , verzekerd van den goeden wil myns vaders , Uw wraak gestreng voldoen op deze ryksverraders .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1288.s.7	Bedenk , opdat uw gunst een ' vyands zoon verpligt ' , Hoeveel die vyand eerst voor uw geluk verricht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.1273.s.1	Tegen Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.1	My is genoeg bekend , ô edelmoedig koning !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.2	Hoeveel ik schuldig ben voor uwe gunstbetooning .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.3	Hoe wenschte ik dat myn magt , om u een waardig blyk Van dank te geven , aan uw weldaên waar ' gelyk !	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.4	Maar dat uw goedheid niet in grimmigheid verkeere !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.5	Dat Nadir voor zyn ' zoon eene andre gift begeere !	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.6	Een keizer is altoos verbonden aan zyn woord .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1299.s.7	Gy eischt van my een bruid die Alikan behoort .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1311.s.1	Ik had , als koning , als verwinnaar , uw beschermer , Uw ryksbehoeder , uw verpligter , uw ontfermer , Verhindert dat myn zoon u smeekte , zo het niet Om 't weêrgaêloos bezit van Milko waar ' geschied : Dat voorwerp is alleen dier onderwerping waardig .	EmotionalAction_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1311.s.2	Gy zyt , in 't schenken van uw gunsten , onrechtvaardig : Uw stoute weigering , waardoor ge my versmaad , Geschied , misleide vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1311.s.3	voor één ' die u verraad .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1315.s.1	Hy , onlangs valsch betigt , heeft , door zich vry te spreken , ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1319.s.1	Zyn schuld is , vóór uw komst , onfeilbaar my gebleken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1324.s.1	Myn trouw voor 't keizerryk is aan myn ' vorst bekend .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1327.s.1	Nadir , tegen Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1331.s.1	Zyn heimlyk vloekgespan veroorzaakte uwe elend ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1331.s.2	Ja , vorst , men heeft voorlang , uit staatzucht van dien snooden , My schandlyk , op zyn ' naam , uw ' scepter aangeboden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1336.s.1	Men heeft op myn bederf arglistig toegelegt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1351.s.1	Weet uw behoudnis dank aan 't heilig gast vryrecht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1351.s.2	Uw krygswee , my voorzegd , toont dat zyn vloekgenooten , My vleijende op zyn ' naam , voor hem uw ' val besloten : Hun snoode raad alleen , door u te veel betracht , Heeft uw verwaarloosd heir tot hongersnood gebragt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1351.s.3	Gy zult , opdat ik u voorzigtiger doe wezen , Hun trouweloos geschrift ter overtuiging lezen , Zodra ons vreêverdrag , en de echtverbindtenis Van Milko met myn ' zoon , door u bevestigd is .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1359.s.1	Hoe kan ik Alikan , myn ' gunsteling , verdenken ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1359.s.2	Men durft , door nyd bezield , by u zyn glorie krenken .	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1359.s.4	vergun my , dat , in 't wenschlyk vreêbesluit , Ik myn belofte houde aan hem en aan zyn bruid .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.2	kan myn woord by u dan geen geloof verkrygen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.3	Vermoed ge , dat ik hem onschuldig zou betygen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.4	Een ' listig ' hoveling , door schandelyke kunst , Door laffe vleijery gedrongen in uw gunst ; Een lage ziel , betigt , bekwaam toe gruwelstukken , Gewoon uit eigenbaat uw volken te onderdrukken ; Dien snooden acht ge ( ô smaad ! ) meer uw betrouwen waard ' , Dan Nadir , die uw heir , uw ryk , uw leven spaart !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.5	Gy , die niet vreesde uw woord , uw dier verbond te breken , Durft , tot eene uitvlucht , my van uw belofte spreken , Terwyl uw rampspoed , tot behoudnis van den staat , U , by een ' onderdaan , van die belofte ontslaat !	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.6	Is dit erkentenis voor myn genade toonen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.7	Vermeetle !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.8	moest ge my , uw ' overwinnaar , hoonen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.9	Myn mededoogendheid misbruiken in uw ' druk ?	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.10	Gy vleit u reeds te veel met uw aanstaand geluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.11	'k Zal , eer myn grimmigheid aan u ten val mogt strekken , Tot vordring van uw heil , uit uw gezigt vertrekken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.12	Pleeg raad , terwyl ikzelf myn ' fellen spyt bedwing ' , Met Nizamëlmoluk , of met uw ' gunsteling .	Emotion_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.13	Rampzalig keizer !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1384.s.14	beef , zo myn getergde goedheid Verkeert in haat , in wraak , in wreedheid , in verwoedheid .	Fear_Emotion_Hatred_BodilyProcess_Anger_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.div.stage.1389.s.1	Mahomet , Nasser , Nizamëlmoluk , Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1403.s.1	Ik zal , nadien uw hart , onbuigzaam voor myn beê , Geen acht slaat op uw heil , op de aangeboden vreê , Voor uw behoudenis een ' dierbren bystand kiezen , Eer Nadir u de hoop van uitkomst doe verliezen ; 'k Zal toonen , schoon myn wraak , myn ' bitschen smaad ten zoen , Onfeilbaar door uw ' val myn liefde kan voldoen , Dat ik , zelfs meer dan gy , uw deerniswaarde elenden , Uw ' wissen ondergang van u poog af te wenden .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1403.s.2	't Is noodig , daar gyzelf u stort in 't grootst gevaar , Dat ik , uws ondanks , u de kroon en 't leven spaar ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1408.s.1	Mahomet , Nizamëlmoluk , Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1421.s.1	Wat yslyke overmaat van wee staat my te duchten !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1421.s.2	Ik , die myn ' val beween , myn stervend volk hoor zuchten , Myn ' vyand nedrig vlei , zie myn beroemd geslacht , Myne eedle afkomst door dien vyand trots verächt .	Emotion_BodilyProcess_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.1421.s.3	Zou ik , ( ô bittre spyt ! ) om lyfsgenaê te vinden , Myn oud doorluchtig huis aan 't laag geslacht verbinden Van Thamas Koelikan , eens kleenen hoofdmans zoon , Door schandlyke overmagt bezitter van een ' troon ?	Emotion_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1421.s.4	ô Groote Tamerlan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1421.s.5	wat smaad ware u beschoren , Indien 't my lustte naar dit vreêverdrag te hooren !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1427.s.1	Ach , vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1427.s.2	terg Nadir niet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1427.s.3	Wat kan , in dezen nood , Verhindren dat zyn magt u dwinge ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1431.s.1	Milkoos dood .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1436.s.1	Wilt gy , die 't moorden haat , de onschuldige doen sterven ?	Emotion_Hatred
+stee033tham01_01.TEI.2.text.body.div.div.sp.1444.s.1	Haar hand voldoe myn ' wil : 'k zal 't van haar ' moed verwerven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1444.s.2	Ik stem veelëer haar dood , waarvan ik zuchtend gruw , Dan dat ze ons bloed besmette , ik haar aan Nasser huw ' .	Emotion_BodilyProcess_Disgust
+stee033tham01_01.TEI.2.text.body.div.div.sp.1444.s.3	Myn wanhoop ga haar voor : 'k wil , om myn ' ramp te weeren , Op Nadir door myn dood kloekmoedig triomferen .	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.1459.s.1	Gy word door felle smart , door wanhoop , wreed misleid : Uw sterven waar ' geen moed ; het waar ' lafhartigheid .	Emotion_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.1459.s.2	Vergeef my deze taal : uw heillooze offerhande , Geschikt tot weering van eene ingebeelde schande , Waar ' doodlyk voor uw heir , verderflyk voor den staat , En voor uw oud geslacht een onvergeetbre smaad .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1459.s.3	Voorkom dat ongeval ; ach !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1459.s.4	duld niet dat men melde : ‘ Vorst Mahomet , die dwaas tot wanhoop overhelde , ‘ Ja om een harsenschim zich angstig heeft ontzielt , ‘ Heeft , door zyn laffe dood , zyn talryk heir vernielt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1467.s.1	Uw weigring is gegrond , myn vorst ; maar ze is gevaarlyk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1467.s.2	Uw dreigend doodsgevaar te weeren , valt bezwaarlyk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1467.s.3	Mislei den vyand ; veins te stemmen in den prys Van uw behoudenis , opdat hy 't leger spyz ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1467.s.4	Men mag een vreêverbond , uit dwang gestemd , verbreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.1	ô Neen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.2	behelp u niet met eerelooze treken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.3	Indien ge ( ô gruweldaad ! ) die veinzery bestond , Zoud ge , om 't verbreken van een heilig vreêverbond , Daar Nadir blyken geeft van edel mededoogen , Verdienen dat gyzelf arglistig wierd bedrogen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.4	De vyand , die uw heil en wissen ondergang In zyn vermogen heeft , bestaat geen ' snooden dwang , Wanneer zyn yver , verr ' van door het staal te woeden , Door onverhoopte vrede u gunstig poogt te hoeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.5	Voldoe hem ongeveinsd ; verlaat u op myn trouw .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.7	dat myn raad uw heir , uw ryk , uzelv ' behou ' !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1483.s.8	Dat Nadirs dierbre gunst ..!	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1487.s.1	Die gunst gaat u ter harte .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1499.s.1	Gy zoud ze niet versmaên , 't en waar ' ze u hevig smartte .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1499.s.2	Herstel ons ryksgeluk , myn keizer !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1499.s.3	hoor naar my .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1499.s.4	Gy wierd te lang misleid door laffe vleijery .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1499.s.5	Dit echtverbond , dat u geen onheil kan verwekken , Zal u ontwyfelbaar tot ware glorie strekken ; Ja , in 't volmaakt geluk van 't juichend Indostan , Uw ' stam doen roemen op een ' tweeden Tamerlan .	Joy_Emotion_EmotionalAction_Happiness
+stee033tham01_01.TEI.2.text.body.div.div.stage.1504.s.1	Mahomet , Milko , Nasser , Nizamëlmoluk , Alikan , Semire .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1509.s.1	Prinses , voldoe uw ' wensch ; tracht 's keizers val te stuiten : 't Gevaar eischt kort beraad : doe hem tot vreê besluiten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1535.s.2	duld dat ik smeek ' voor 't angstig vaderland , Erbarmelyk gedreigd , in hopeloozen stand , Voor 't stervend talloos heir , voor uw geliefde vrouwen , Voor onderdanen die hun welzyn u betrouwen , En voor uw dierbaar kroost , dat om meêdoogendheid , Om uitkomst in de elende , erbarmlyk met my schreit : Betoon uw liefde als vorst , als echtgenoot , als vader : Uw goedheid zy voor ons !	Fear_Emotion_EmotionalAction_BodilyProcess_Love_Dedication_Desire_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.1535.s.3	niet voor een ' staatsverrader , Die , waar ' zyn trouw oprecht , aan 't ryk my af zou staan , Zyn min beteuglen , u van uw belofte ontslaan .	Emotion_Love_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1535.s.4	Uw milde gunst , beducht een vryë ziel te dwingen , Een vrouw uit uw geslacht eene echtkeur op te dringen , Genadig deelende in myn blydschap , in myn smart , Beloofde aan Alikan myn hand , indien myn hart Volkomen waar ' geneigd zich by die gift te voegen : Ik toonde u tegen hem nooit eenig ongenoegen : 'k Waar ' met dien bruîgom reeds , nadien 't myn ' vorst behaagt , Veréénigd , zo de kryg myn ' echt niet had vertraagt : Maar thans bedien ik my van 't recht , aan my gegeven ; Ik red uw legermagt , myn vaderland , uw leven , Ten koste eens minnaars die myn liefde onwaardig is : Myn weigring maakt u vry van uw beloftenis .	Emotion_Love_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1542.s.1	Mevrouw , dit gaat te verr ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1542.s.2	My tegen recht te hoonen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1542.s.3	Ik , vaardig in myn trouw voor 't vaderland te toonen , Wensch yvrig dat myn vorst met Nadir zich verzoen ': 'k Verzaak myn ' minnegloed .	Emotion_BodilyProcess_Love_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1547.s.1	'k Zal 's konings eisch voldoen : Ik ben tot weigering der vreê niet meer verbonden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1551.s.1	Gy hebt , ô Indostan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1551.s.2	uw ' keizer weêrgevonden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1555.s.1	Nizamëlmoluk , tegen Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1558.s.1	Men geve in aller yl , opdat men 't onheil stuit ' , Aan Nadir kennis van dit heugchlyk vreêbesluit .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1561.s.1	Nasser , tegen Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1563.s.1	Ik zal , is 't uw begeerte , u by dien vorst geleiden .	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.1570.s.1	Weläan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1570.s.2	Ga in myn heir dit heil terstond verbreiden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.1568.s.1	Tegen Alikan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.1	Ik zal , op 't wreedst misleid , versmaad , gehoond , betigt , Doen blyken dat myn hart in doodsgevaar niet zwicht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.2	Men doe , indien myn goud voor my iets kan verwerven , Tot myn gerechte wraak den trotsen Nadir sterven !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.3	Zyn dood is niet genoeg ; myn felle spyt eischt meer : Men stuite ook 't vreêverdrag , bestemd tot 's vyands eer !	Emotion_Spitefulness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.4	Dat zelfs de keizer my op dien verrader wreke , Myn ' raad uit blindheid volg ' , 't gegeven woord verbreke , My diene als hy zyn ' stam voor Milkoos echt behoed !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.6	dat ons volk , gespysd , genoopt tot oorlogsmoed , Heldhaftig voorgetreên door all ' myne eedgenooten , Door Mahomets misnoegde en felgedreigde grooten , Door vorsten , wier belang aan 't myn ' verbonden is , Het lot van Alikan in 't bloedig veld besliss ' , Den Persiaan verwinn ' , zichzelf het leven spare , Een ' laffen vorst onttroon ' , tot keizer my verklare !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1595.s.7	Ik juich in myn gevaar ; 'k sneef , mist my 't heldenloon , Ten minste met de hoop op de Indostansche kroon .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1597.s.1	Einde des Derden Bedryfs .	None
+stee033tham01_01.TEI.2.text.body.div.head.1601.s.1	Vierde bedryf .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1617.s.1	Ja , prins , myn dankbre ziel erkent de deugd uws vaders , Die , tot zyne eeuwige eer , de hulp eens ryksverraders Grootmoedig doemt , versmaad , een ' vyand gunst bewyst , Aan ons de vrede schenkt , ons kwynend leger spyst .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1617.s.2	Nooit kan myn dankbaarheid die weldaad evenaren : Maar , schoon ik magtloos ben een kermend heir te sparen , Hem na te volgen door 't versmaden van een kroon , Ik kan myne achting hem bewyzen in zyn ' zoon : Uw groote ziel , waarin uw ' vaders deugden leven , Verpligt my , met myn hand aan u myn hart te geven .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1629.s.1	Is 't waar , prinses , dat gy , niet uit gehoorzaamheid , Maar uit een vryë keur , my met uw liefde vleit ?	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.sp.1629.s.2	Is 't mooglyk dat myn min op dat geluk mag hopen ?	Emotion_Happiness_Love
+stee033tham01_01.TEI.2.text.body.div.sp.1629.s.3	Verklaar u ongeveinsd : ik zal myn ' vader nopen , Hem doen besluiten , zelfs in weêrwil van myn hart , Tot afstand onzer trouw , zo Nadirs eisch u smart : Myn zuivre minnevlam doet my dat huwlyk wraken , Indien 't , tot myn verdriet , u zou rampzalig maken .	Emotion_Love_Sadness
+stee033tham01_01.TEI.2.text.body.div.sp.1629.s.4	Ik haat den huwlyksdwang , al mint myn ziel u teêr .	Emotion_Hatred_BodyPart_Love
+stee033tham01_01.TEI.2.text.body.div.sp.1636.s.1	Uwe edelmoedigheid verbaast my meer en meer .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1636.s.2	Ik durf u ongeveinsd en zonder schaamte ontdekken , Dat my ons echtverbond tot waar geluk zal strekken .	Emotion_Shame
+stee033tham01_01.TEI.2.text.body.div.sp.1636.s.4	ware 't heilryk voor den keizer , voor den staat !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1643.s.1	Vermoed gy dan , prinses , dat Nadir 't ryk verraad ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.1643.s.2	Hoe kunt gy vreezen , daar uw rampen zyn verdwenen ?	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.1643.s.3	Daar Persianen en Mogollen zich veréénen ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.1656.s.1	'k Hou die verééniging , ô prins !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1656.s.2	voor ongewis , Zolang het vreêverbond noch niet bezworen is , En de Indostansche vorst , door Alikan bedrogen , Onzinnig niets beschouwt dan door zyn ' gunstlings oogen .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1656.s.4	de edelmoedigheid uws vaders is te groot : Zyn deugd red ons te vroeg uit onzen hongersnood .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1656.s.5	Hoe ducht ik dat myn vorst , om Alikan te wreken , Van hoogen nood ontlast , het vreêverbond zal breken , En , echter magteloos uw heir te wederstaan , Met al zyn legermagt erbarmlyk zal vergaan !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1665.s.1	Gy spelt u 't ergste .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1665.s.2	Zou de keizer , tot belooning Der hoogste gunst , zyn woord verbreken aan den koning ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.1665.s.3	Een ' magtig ' vorst verraên , die , vreemd van wreed geweld , In spyt der vyandschap , hem op den troon herstelt ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.1665.s.4	Dan waar ' zyn ondergang , myn ' vaders wraak , rechtvaardig : Een trouwloos opperheer ware uwer smarte onwaardig .	Emotion_Compassion_Sadness
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.1	De kracht der vleijery is u noch onbekend .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.2	Wyt niets aan Mahomet , zo hy de vrede schend .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.3	Staatzuchtige Alikan , geleerd op gruwelstukken , Geneigd door 's keizers val zyn ' wensch te doen gelukken , Noopt dien misleiden vorst , die trouweloosheid doemt , Tot eerloos krygsbedrog , 't geen hy als wettig roemt : Steeds doet hy Mahomet tot euveldaên besluiten , Schoon Nizamëlmoluk dat misdryf poogt te stuiten .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.4	Grootmoedig prins !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.5	beklaag , indien gy Milko mint , En in myn droefenis geen stof tot blydschap vind , Beklaag ons talryk heir , myn ' keizer en zyn staten .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.6	Helaas !	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.7	uw ' vaders gunst zal Indostan niets baten .	None
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.8	't Is billyk dat ik reeds myn vaderland beween ' .	BodilyProcess_Sadness
+stee033tham01_01.TEI.2.text.body.div.sp.1682.s.9	Al 't gene ik vreezend hoop is van uw hulp alleen .	Fear_Emotion_Hope
+stee033tham01_01.TEI.2.text.body.div.sp.1692.s.1	Uw vrees , uw smart verkleent , in myn verliefde zinnen , De vreugd van myn prinses niet vruchteloos te minnen .	Fear_Emotion_Love_Sadness
+stee033tham01_01.TEI.2.text.body.div.sp.1692.s.2	'k Zal roemryk sterven , of , in spyt van Alikan , Indien de nood het eischt , uw schreijend Indostan , Uw ' keizer en zyn heir , eer Nadirs wraak zal woeden , Uit zucht voor uw belang , voor ondergang behoeden .	BodilyProcess_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.stage.1696.s.1	Milko , Nasser , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1702.s.2	het belge u niet dat ik met smart myn ' pligt , Op 't koningklyk bevel , voldoe aan 's keizers nicht .	Emotion_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1702.s.3	'k Moet , in verzekring , haar afzonderlyk bewaren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1706.s.1	'k Zie ons ten doel gesteld aan nieuwe krygsgevaren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.1	ô Felle tegenspoed !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.2	ô onverdraagbre hoon !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.3	De koning kerkert u !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.4	En ik , ik ben zyn zoon !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.5	Het is myn vader zelf die myn prinses beleedigt !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.6	Zal uw gevoeligheid , als u myn min verdedigt , Ja op myn hoofd misschien myn ' vaders gramschap laad , Op my uw wraak voldoen voor dezen bitschen smaad ?	Emotion_Love_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.7	Of mag myn tederheid noch naar uw liefde trachten ?	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1717.s.8	Ik durf niets anders dan afkeerigheid verwachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1730.s.1	Uw roekelooze drift verzwaart myn groot verdriet .	Emotion_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1730.s.2	Verpligt my door uw hulp ; maar terg uw ' vader niet .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1730.s.3	Ik acht zyn deugd te hoog , dan dat ik ooit zou denken Dat die beroemde held , die ons de vreê wil schenken , Die uit meêdoogendheid ons hongrend leger voed , Die 't Indostansche ryk voor ondergang behoed , Die geen behagen schept in 's vyands ongelukken , My , die onschuldig ben , uit wreedheid zal verdrukken .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1730.s.4	't Is alles in gevaar : doch geef dien vorst geen schuld .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1740.s.1	Zou Nasser dezen smaad gedoogen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1740.s.2	met geduld Het heilig gastvryrecht in Milko zien geschonden ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1740.s.3	In u , aan wier belang myn welstand is verbonden ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1740.s.5	deze hoon , uw rang , myn liefde is veel te groot .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1740.s.6	Geef ons een klaar bericht waaruit dit onheil sproot .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.1738.s.1	Tegen Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1745.s.1	Zie Nizamëlmoluk gevangen herwaarts komen , Myn prins ; uit hem word best dit ongeval vernomen .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1751.s.1	Milko , Nasser , Nizamëlmoluk , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1754.s.1	Milko , tegen Nizamëlmoluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1761.s.1	Mynheer , 'k zie uit uw ' ramp , 'k zie uit uw droefenis Wat van myn kerkering de zorglyke oorzaak is ; Dat onze vorst , misleid , gespysd door Nadirs goedheid , Dien koning roekloos tergt tot gramschap , tot verwoedheid , Ja 't heilzaam vreêverbond vernietigt heeft , in waan Dat ons verzadigd heir dien held kan wederstaan .	Emotion_Sadness_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1769.s.1	Ons vaderland , bykans aan 't krygsgevaar onttogen , Op nieuw ten doel gesteld aan 's vyands wraakvermogen , Zal haast vergaan , 't en zy die vyand , door genaê , In edelmoedigheid myn hoop te boven ga .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1783.s.1	Poog , door uw ' raad , de drift van dezen prins te weeren , Die my zyn hulp belooft , wien onze rampen deeren , Maar die 't gevaar vergroot door onbedachtzaamheid .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1783.s.2	'k Versma uw ' bystand niet : verlos ons door beleid , Eer , door uw hevigheid , alle onze hoop verdwyne .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1783.s.3	En gy , voldoe uw ' pligt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.1777.s.1	Tegen Nasser .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.1786.s.1	Nasser , tegen Milko .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1788.s.1	Uw vaderland is 't myne .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1790.s.1	Malek geleid Milko , van Semire gevolgd , in één der zyvertrekken , en keert aanstonds te rug .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1790.s.2	Twee der Lyfwachten verzellen haar .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.1796.s.1	Nasser , Nizamëlmoluk , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1806.s.1	In 's keizers doodsgevaar is 't my een dierbre troost , Te hopen op de deugd van Nadirs waardig kroost .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1806.s.2	Die koning , eerst vermurwd door onze tegenspoeden , Nu fel getergd , verstoord , gereed op ons te woeden , Myn ' onberaden vorst te bonzen van den troon , ô Prins !	BodilyProcess_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1806.s.3	word best door u verbeden , door zyn ' zoon .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1815.s.1	Wacht voor uw ' keizer van myn deernis , zo myn bede Op Nadir iets vermag , eene onverdiende vrede .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1815.s.2	't Gevaar weêrhoud my niet : de erbarmlyke offerhand ' , Door 's konings wraak begeerd , is Milkoos vaderland , Ja 't maagschap van een bruid , my waarder dan het leven .	Emotion_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1815.s.3	Ik ga ; 'k zal u een blyk van myne oprechtheid geven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1839.s.2	neem een beter tyd tot 's ryks verlossing waar : 't Is noch te vroeg om ons te ontheffen van 't gevaar , Nu Nadirs grimmigheid , te hevig aan het blaken , Hem voor een oogenblik zyn reden doet verzaken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1839.s.3	Ik , die onschuldig ben aan 't breken van 't verdrag , Die alles , 't geen de trouw eens onderdaans vermag , Met myn gevaar bestond om 't ongeval te weeren , Wien deyver voor de vrede in 's konings heir deed keeren , En die hem kennis geef van Alikans verraad , Word averechts beloond met kerkering , met smaad ; Hy dreigt me ( dit 's de vrucht van voor myn ' vorst te smeeken , ) 't Verraad , door my gemeld , zelfs op myn hoofd te wreken : En zal 't geen misdaad zyn , als ge in zyn hevigheid Niet voor uw vaderland , maar voor uw ' vyand pleit ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1839.s.4	Wanneer , in felle woede , een edelmoedig koning Zoverr ' zyn ' aart verzaakt , dat hy een dienstbetooning Met smaad , met dreigen loont , ô prins !	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1839.s.5	dan heeft het bloed Den minsten voorrang niet op 't vaderlyk gemoed .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1839.s.6	Ga met ons dier belang , niet met uw drift , te rade .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1849.s.1	Maar zo ik niets verricht , uit vrees van ongenade , Zal Milkoos maagschap met haar vaderland vergaan , En ik , haar liefde onwaard ' , myn hart , myn bruid verraên .	Fear_Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.1849.s.2	Men zal , zolang ik leef , uw leger niet vernielen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1849.s.3	Nooit zal een laffe schrik , dat merk van lage zielen , Beletten dat ik u , ô myn prinses !	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1849.s.4	betoon ' Wat Milkoos bruîgom voegt tot eer van Nadirs zoon .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1859.s.1	Als de eerste hevigheid des konings is verdwenen , Zal 't vaderlyke hart aan 't bloed gehoor verleenen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1859.s.2	Dat de edelmoedigheid , die Nadir eigen is , Op uwe voorbeê dan myn ' keizers lot besliss ' !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1859.s.3	'k Hoop op uw ' vaders deugd .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1859.s.4	Ik zie dien vorst genaken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1859.s.5	Men zwyg '; men doe hem niet in feller woede blaken !	Emotion_BodilyProcess_Anger
+stee033tham01_01.TEI.2.text.body.div.div.stage.1866.s.1	Nadir , Nasser , Nizamëlmoluk , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1884.s.1	Draag zorg dat , naar myn ' last , de toestel tot den stryd Op 't spoedigst vaardig zy : vertrek ; betoon uw vlyt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1884.s.2	Wat heeft , in weêrwil van myn gunstig mededoogen , Den snooden Mahomet tot krygsverraad bewogen , Terwyl hem stryd op stryd , dien hy verloren beeft , Onfeilbre blyken van zyn onvermogen geeft ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1884.s.3	Gy , terg my langer niet met roekloos my te smeeken : 'k Wil onherroeplyk my op dien verrader wreken ; Zyn heir vernielen ; hem , van 't ryksgezag ontbloot , Niet handlen als een ' vorst , maar straffen met de dood .	Emotion_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.div.sp.1884.s.4	Ik ben te fel getergd ; spreek niets tot zyn verschooning , Of ducht een zelfde straf .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.1	Uw wraak is recht , ô koning !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.2	Gy zyt op 't snoodst verraên .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.3	Gy hebt vorst Mahomet , In spyt van uw belang , uit doodsgevaar gered : Maar hy , zich naauwlyks ziende ontheven van de elenden , Of durvende , u ten hoon , de vrede arglistig schenden ; Ondankbaar door bedrog u stortende in gevaar ; Verdient niet dat uw gunst ten tweedemaal hem spaar ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.4	't Belang van Alikan , gevest op gruweldaden , Doet hem onzinnig u , zyn ryk , zichzelv ' verraden ; Hy maakt zich schuldig door een blinde drift alleen : Maar dit verschoont hem niet van krygsverraad ; ô neen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.5	Hy moest zich nimmer aan een ' gunsteling verslaven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1901.s.6	Een keizer is verpligt zyn vorstlyk woord te staven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1919.s.1	ô Nizamëlmoluk !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1919.s.2	vergeefs verbergt ge my Wat Mahomet beweegt tot krygsverradery .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1919.s.3	Geen Alikan alleen doet hem 't gevaar trotseren , Ondankbaar my verraên , zyn ' hoogen rang ontëeren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1919.s.4	Die heillooze oppervorst heeft aan myn ' zoon , ten echt , Uit laffen schrik zyn nicht met weêrzin toegezegt : Zyn hoogmoed , aangehitst , ontydig , onrechtvaardig , Vermetel , acht myn ' zoon dier hooge gunst onwaardig , Te huwen aan 't geslacht van grooten Tamerlan : Maar de eedle gunsteling , dat hoofd van 't vloekgespan , De ontrouwe , doelende op de keizerlyke staten , Een loos verleider van trouwhartige onderzaten , Een eerloos hoveling , op vleijen afgericht , De arglistige Alikan verdient uw ' keizers nicht .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.1	Ik durf u voor myn ' vorst tot geen genade nopen : Zyn misdryf is te groot om iets voor hem te hopen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.2	Ik beef voor 't gantsche ryk : het zal , uw wraak ten zoen , Onschuldig aan 't vergryp , voor Mahomet voldoen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.3	ô Magtig keizerryk ! 't is met u omgekomen ; Ik zie een zee van bloed uwe akkers overstroomen , Uw schatten uitgeput , uw talryk heir vernield , De vrouwen met haar kroost in de oorlogswoede ontzield : De groote Nadir zelf , tot uw verderf bedrogen , Heeft met uw ' jammerstaat in 't end ' geen mededoogen ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.4	Maar neen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.5	ik vlei my noch dat uwe onnoozelheid In 't edelmoedig hart voor uw behoudnis pleit .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.6	ô Wydberoemde held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.7	dat uw verstoorde zinnen Uwe edelmoedigheid zoverr ' niet overwinnen , Dat uw getergde wraak de schuldeloozen doem ' !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1941.s.9	ken uw belang .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.1936.s.1	Hy werpt zich aan 's konings voeten , en vervolgt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1945.s.2	wat belang ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1955.s.1	Uw ' roem .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1955.s.3	wierd ons heir vernield , uw wraak ter offerhande , 't Ware u , doorluchte held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1955.s.4	eene onüitwischbre schande ; Ja vruchtloos heeft uw arm den grootsten lof behaalt , Zo Nadir , woedend , niet op Nadir zegepraalt .	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.1964.s.2	het bare in u geen zwaarder ongenoegen Dat ik , geknield , myn beê by 's vyands beê durf voegen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1964.s.3	Ontzeg uw ' droeven zoon geen gunstig krygsbesluit : Hy smeekt voor 't vaderland van zyn geliefde bruid .	EmotionalAction_Desire_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.1964.s.5	moet die heldin de dood van all ' haar magen , En ik , terwyl gy juicht , myn ongeluk beklagen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1977.s.1	Ryst beide .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1977.s.2	Ik schep geen ' lust in wreedvergoten bloed : 'k Heb nooit moorddadig op de onnoozelheid gewoed .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1977.s.3	'k Zou 't ryk beschermen met de tederheid eens vaders , Indien 't , op my gerust , vrywillig zyn verraders , Den snooden Mahomet , den loozen Alikan , Ter straf my overgaf , met al het vloekgespan : 'k Zou my , 'k zou Indostan gerechte wraak verschaffen , Ten voorbeeld van 't heeläl gestreng de boosheid straffen , Genadig toonen dat myn vyand niets verliest , Als hy , op 't snoodst verraên , my tot beschermer kiest .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1989.s.1	'k Heb de ontrouw u ontdekt ; ik zal noch meer verrichten ; 'k Wil voor myn vaderland u tot genaê verpligten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1989.s.2	Vertraag uw wraak ; beproef hoeveel myn trouw vermag ; Vergun my , in ons heir , hiertoe een ' enklen dag .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1989.s.3	Myn keizer , magteloos uw ' moed te wederstreven , Zal , op myn ' raad , aan u de ontrouwen overgeven ; Het vonnis van hun dood zelf onderschryven ; ja Zich stellen in uw magt , op hoop van uw genaê .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.1993.s.1	Gy had , vermogt gy iets , de vreêbreuk kunnen weeren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2001.s.1	't Was my onmooglyk , daar de ontrouwen hem regeeren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2001.s.2	Verwacht , opdat hun straf de verdre boosheid stuit ' , Nu 't krygsgevaar genaakt , dat hy uit vrees besluit ' .	Fear_Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.2012.s.1	Ik zou uw ' eisch voldoen , uw heldendeugden loonen , En , met hun dood voldaan , uw ' dwazen vorst verschoonen , Indien ik zeker wist dat hy , uit waar berouw , In spyt van Alikan , uw ' raad niet doemen zou .	Emotion_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.2012.s.2	Het is vergeefs gepleit .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2012.s.3	Ik zal uw heir verrassen ; En , nu gy 't opzet weet , op uw bedryven passen : Ik zal , met uw prinses , u kerkren in myn tent : Zo blyft myn doelwit aan uw ' keizer onbekend .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2019.s.1	Laat my , zo 't noodig is , tot overgaaf hem dwingen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2019.s.2	'k Heb meer vermogen , dan zyn snoode gunstelingen , Op 't hart van 't oorlogsvolk in 't nypen van 't gevaar .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2023.s.1	Gy hem verraden !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2033.s.1	Ja , opdat myn trouw hem spaar ' !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2033.s.3	uwe deugd is Indostan gebleken : Gy zult in koelen moede u op dien vorst niet wreken , Zo 't heilzaam oproer hem in uw vermogen stelt : 'k Vrees niets voor Mahomet , dan 't woedend krygsgeweld .	Fear_Worry_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2033.s.4	Laat my beproeven wat myn yver kan verwerven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2040.s.1	Zou Milkoos bloedverwant uw wraak ten offer sterven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2040.s.2	Die schande voor myn bruid waar ' schande voor uw ' zoon , En voor myn ' vader zelv ' een onuitwischbre hoon .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2056.s.1	Ik kan , om door uw ' echt myn glorie niet te krenken , Aan u eene andre bruid , in plaats van Milko , schenken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2056.s.2	Maar neen ; om haar , om u , om Nizamëlmoluk , Vergeef ik Mahomet het roekloos gruwelstuk , Als hy , uit waar berouw , zich in myn magt zal stellen , En over 't vloekgespan een billyk vonnis vellen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2056.s.3	Verwerf , door uw beleid , uw ' keizers lyfsgenaê .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2056.s.4	Vertrekt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.2054.s.1	Tegen de Lyfwachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2061.s.1	Uw heldendeugd is zonder wedergaê .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2080.s.1	Uwe edelmoedigheid , onmooglyk na te streven , Die smart in 't straffen vind , maar wellust in 't vergeven ; Die myn verbaasde ziel een heilzaam voorbeeld strekt , In my een sterke zucht tot eeuwige eer verwekt ; Uwe edelmoedigheid , ten hoogsten top gestegen , Zal keizer Mahomet tot dankbaarheid bewegen , Als hy , door u behoed , in u zyn ' waardsten vrind , En in zyn vrinden zelf zyn kroonbelagers vind .	Emotion_Sadness_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.2080.s.2	Vergun my dat myn hart in Milkoos blydschap deele , Haar bloed voor 't myne erkenn ' , met 's keizers heil zich streele , En dus , door u op 't spoor der ware deugd geleid , Van verre uw voorbeeld volg ' door mededoogendheid .	Joy_Emotion_BodyPart
+stee033tham01_01.TEI.2.text.body.div.div.sp.2090.s.1	Uw deernis voor een ' vorst , in onkunde opgetogen , Door 't vleijend hofgezin erbarmelyk bedrogen , En voor een zuchtend ryk in hoogen oorlogsnood , Waar ' loflyk , zo die drift niet uit uw liefde sproot : 'k Wil echter in myn ' zoon geen mededoogen wraken ; En prys , om Milkoos deugd , het vuur dat u doet blaken .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2090.s.2	Maar vlei u niet te veel voor 't wagglend Indostan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2094.s.1	Wat geeft my stof tot vrees ?	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.1	't Verraad van Alikan , De ontrouwe Mahomet , ja alles .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.2	't Is onzeker Dat Nizamëlmoluk een ' dwazen woordverbreker , Door zyn ' getrouwen raad , tot overgaaf verpligt '; Of tegen 't vloekverbond , door oproer , iets verricht ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.3	Niets anders is bekwaam de onweerbre legerbenden , Den keizer , 't gantsche ryk , te ontslaan van krygsëlenden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.4	Zo Nizamëlmoluk het ééne en 't andre mist , Zal 't heir , door hem verdeeld in onderlingen twist , Door fellen binnenkryg zichzelf bykans vernielen , En 't Persiaansche staal het overschot ontzielen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.5	Ik zie , hoe de uitslag zy , in 't kort myn ' eisch voldaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2111.s.6	Myn wraak had anderszins geen uitstel toegestaan .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2115.s.1	De keizer zal , bevreesd , zich aan 't gevaar onttrekken .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2121.s.1	't Zou my , niet min dan u , tot waar genoegen strekken : Ja 'k zou , in weêrwil van zyne ontrouw , van dien hoon , Hem , door zyn volk verraên , herstellen op den troon .	None
+stee033tham01_01.TEI.2.text.body.div.div.head.2123.s.1	Zevende tooneel .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2129.s.2	een gruwelstuk !...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2133.s.1	Wat doet u zwygend beven ?	Fear_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.sp.2138.s.1	Uw wacht is omgekocht ; men dreigt uw dierbaar leven ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2138.s.2	Men wacht de duisternis ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2151.s.1	Men stryde dezen nacht !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2151.s.2	De dag verdwynt allengs .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2151.s.3	Myn toeleg zy volbragt !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2151.s.4	Ziedaar voor wien gy smeekt : hy is myn gunst onwaardig ; Hy dwingt my tot zyn straf .	Worry_EmotionalAction_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.2151.s.5	Is 't heir ten stryde vaardig ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2160.s.1	Men heeft uw ' last verricht .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2160.s.2	Maar 'k vrees den koningsmoord , Nu al het vloekgespan noch niet is opgespoord .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2160.s.3	Getrouwen Orosmin , die my 't verraad ontdekte , En met een deel der wacht zyn trouw in schyn bevlekte , Opdat uw doodsgevaar door list wierde afgewend ; Den trouwen Orosmin is alles niet bekend .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2164.s.1	ô Ramp !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2164.s.2	ô Milko !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2171.s.1	'k Wil de gruwlen onderzoeken , En door een vreemd bestaan de schuldigen verkloeken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2171.s.2	Geveinsde Mahomet !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2171.s.3	beef met uw ' vloekgenoot : Vermeetlen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2171.s.4	wacht uw straf , of red u door myn dood .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2173.s.1	Einde des Vierden Bedryfs .	None
+stee033tham01_01.TEI.2.text.body.div.head.2177.s.1	Vyfde bedryf .	None
+stee033tham01_01.TEI.2.text.body.div.stage.2181.s.2	Twee Lyfwachten .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2190.s.1	Belet my niet , Semire !	None
+stee033tham01_01.TEI.2.text.body.div.sp.2190.s.2	uit deze tent te treden .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2190.s.3	Ik wist myn wachten door myn tranen te overreden ; En gy , geeft gy geen blyk van mededoogendheid ?	Emotion_BodyPart_Compassion_Sadness
+stee033tham01_01.TEI.2.text.body.div.sp.2190.s.4	Het nare krygsgerucht , dat zich alöm verspreid , Doet myn beklemde ziel ontwyfelbaar bevroeden , Dat Nadirs benden op 't Mogolsche leger woeden .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2194.s.2	volg myn ' raad , prinses !	None
+stee033tham01_01.TEI.2.text.body.div.sp.2201.s.1	ô Onweêrstaanbre schrik !	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.2201.s.2	ô Akelige nacht !	None
+stee033tham01_01.TEI.2.text.body.div.sp.2201.s.3	ô angstig oogenblik !...	None
+stee033tham01_01.TEI.2.text.body.div.sp.2201.s.4	Semire ! 't is vergeefs my dus te wederstreven ; 'k Voldoe myn ongeduld .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2209.s.1	Gy waagt uw dierbaar leven .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2209.s.2	Wat kan een tedre vrouw in doodsgevaar bestaan ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.2209.s.3	Doet 's keizers onheil u tot wanhoop overslaan ?	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.sp.2209.s.4	Zult ge , als 't erbarmlyk lot van onze legerscharen U nader is bekend , de moordzucht doen bedaren ?	None
+stee033tham01_01.TEI.2.text.body.div.sp.2213.s.1	Vertoef , indien 't gevaar voor u te dringend is .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2221.s.1	Ik volgde u hier , op hoop van 's ryks behoudenis : Ik vrees niet voor myzelve , en zal u niet verlaten .	Fear_Worry_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.2221.s.2	Maar ach !	None
+stee033tham01_01.TEI.2.text.body.div.sp.2221.s.3	uw ongeduld kan Mahomet niets baten .	None
+stee033tham01_01.TEI.2.text.body.div.sp.2221.s.4	Dewyl ik vruchteloos myn vaderland beween , Vreest myn angstvallig hart voor myn prinses alleen .	Fear_Emotion_BodyPart_BodilyProcess_Sadness_Despair
+stee033tham01_01.TEI.2.text.body.div.sp.2227.s.1	't Gevaar van Indostan , niets anders , doet my vreezen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.sp.2227.s.2	Men zie of Nadirs wraak ons heeft ten val verwezen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2238.s.1	Prinses !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2238.s.2	waar vlied gy heen in dezen naren nacht ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2238.s.3	Ons heir word aangetast door 's keizers legermagt ; En ik , te leur gesteld in 't yvrig medelyden , Ben vaardig tegen hem voor ons behoud te stryden .	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2243.s.1	Gy vaardig tot bederf van Milkoos vaderland !.. ô Zware tegenspoed !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2243.s.2	Rampzalige offerhand ' !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2252.s.1	Ik zal , zo wy de zege op Mahomet verwerven , Meêpligtig aan zyn ' val , helaas !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2252.s.2	uw liefde derven ; En zo 't geluk verkeert , tot heil van Indostan , Dan schenkt men myn prinses aan snooden Alikan .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2252.s.3	'k Wil , nu myn minnend hart u eeuwig moet ontberen , Stoutmoedig sterven , of uit wanhoop triomferen .	Emotion_BodyPart_Love_Desire_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2256.s.1	Kan 't zyn dat Nadirs zoon de zege in twyfel slaat ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2265.s.1	Ik vrees uw ' keizer niet , dan om zyn krygsverraad .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2265.s.2	Myn vader , blootgesteld voor 't staal der muitelingen , Kent all ' de ontrouwen niet die hem naar 't leven dingen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2265.s.3	Zyn gruwzaam doodsgevaar , myn pligt , uw vorst , myne eer , Ja alles noopt my tot gezwinde tegenweer .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2265.s.4	Indien ik langer toefde , ik ware een ryksverrader .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2280.s.1	Het voegt een ' heldenzoon te stryden voor zyn ' vader : Ik doem den yver niet die roemryk u bezielt : Maar als uw dappre vuist ons angstig heir vernielt , Dat dan , om my alleen , in de yslyke oorlogswoede , Uwe edelmoedigheid vorst Mahomet behoede !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2280.s.2	Versma myn bede niet ; wyt all ' de gruwlykheên Aan 's keizers gunsteling , aan Alikan alleen : Verhoor my , die , in spyt der tweedragt onzer staten , Zo 'k u niet minnen mag , u echter nooit kan haten ; Die , daar ge ons leger dreigt , my op uw deugd betrouw , En zelfs , indien gy sneefde , uw dood beweenen zou .	Emotion_Hatred_BodilyProcess_Love_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2285.s.1	Gy doemt myn ' yver niet !..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2285.s.2	Ik moet myn min verzaken !..	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2285.s.3	Vaarwel : 'k zal stervend my uwe achting waardig maken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2294.s.1	ô Nasser !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2294.s.2	Indostan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2294.s.3	misleide Mahomet !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2304.s.1	Prinses , gy had misschien ons vaderland gered , Den grootsten held verkloekt , hem alle magt benomen , Den zoon , voor ons belang , den vader vóór doen komen , Zo gy dien jongen prins , wiens hart u toebehoort , Door smeeken , door geween , daartoe had aangespoort .	EmotionalAction_BodilyProcess_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2304.s.2	Zoud gy , een minnares , door tranen , door gebeden , Tot bystand voor ons ryk geen ' minnaar overreden ?	EmotionalAction_BodyPart_Sadness_Desire_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2309.s.1	Is Milkoos hart bekwaam tot zulk een snood bestaan ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2309.s.2	Zou Nasser , op myn beê , zyn ' vader doen vergaan ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2314.s.1	Uw pooging had ten minste in 't stryden hem verhindert , Dien vyand overheert , ons groot gevaar vermindert .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.1	Moet uw verkeerde drift , Semire !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.2	een nieuwe smart Vermetel doen ontstaan in myn elendig hart ?	Emotion_BodyPart_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.3	Wat zou die jonge held van Milkoos deugd gevoelen , Indien ik eereloos zyn schande dorst bedoelen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.4	Weêrhou die stoute taal ; beklaag myn ongeluk .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.5	Ik zal , terwyl myn ziel , met onweêrstaanbren druk , In 't oorlogswee , de zy ' myns vaderlands moet kiezen , Door 't staal myn maagschap , of myn ' bruidegom verliezen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.6	ô Dierbaar overschot van myn beroemd geslacht !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.7	Gy word dit oogenblik erbarmlyk omgebragt , Of overwint en moord lafhartig , onrechtvaardig , Een ' koning , dien ik acht , een ' prins , myn liefde waardig .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.8	Ik wensch voor uw behoud een zege , die ik doem ; Ik vrees de nederlaag eens vyands , dien ik roem .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2334.s.9	Ik zal , 't zy ge in den stryd rechtvaardig word verslagen , Of schandlyk overwint , van de uitkomst my beklagen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2340.s.1	Bedenk dat Nadirs deugd , dat Nassers tederheid , Dat uw besloten echt voor uw belangen pleit , En hoop , nu 't krygsgerucht gelukkig is verdwenen , ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2347.s.2	zou Nadir zich met Indostan veréénen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2347.s.3	Daar Mahomet , behoed , ondankbaar hem versmaad ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2347.s.4	Daar heillooze Alikan op 't gruwzaamst hem verraad ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2347.s.5	Zou Nadir iets voor ons verrichten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2347.s.6	zou hy konnen ...?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2351.s.1	'k Zie iemant nadren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2355.s.2	ons leger is verwonnen .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2360.s.1	Milko , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.2363.s.1	Milko , tegen Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2366.s.1	Doorgrief myn bevend hart door 't ysselyk verhaal Van 's keizers nederlaag , van Nadirs zegepraal .	Fear_BodyPart_BodilyProcess_Sadness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.1	Prinses , beklaag uw ' ramp in de aakligste aller nachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.2	Uw leger , loos misleid door de omgekochte wachten , Heeft naauwlyks door verraad myn ' vorst in waan verrast , Als yllings Mahomet door ons word aangetast .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.3	Maar ( welk een ommekeer ! ) men roept aan alle kanten : ‘ Vorst Nadir is ontzield , vermoord door zyn trawanten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.4	’ Op dezen naren kreet ontdekt zich 't eedgespan Van Persianen ; 't roept : ‘ Men stry ' voor Indostan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.5	’ Al 't vloekrot , nu bekend , bestreden door getrouwen , Word door het wrekend staal zeeghaftig neêrgehouwen , Terwyl 't Mogolsche heir , op ons gejuich ontsteld , In wanörde uit den stryd naar zyn verschansing snelt , Doch spoedig nagevolgd , en onbekwaam te stryden , Der Persianen woede onmooglyk kan vermyden , Ja zich , ter offerhande , uit laffe siddering , Uit wanhoop , overgeeft aan de opgeheven kling .	Fear_Joy_Emotion_EmotionalAction_BodilyProcess_Despair_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.2388.s.6	Prins Nasser zend my hier , om 't volk te doen bedaren , Indien 't , verbitterd , u niet wilde in 't leven sparen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2394.s.1	Men doe my sterven , nu myn vaderland vergaat , Nu in een korte dood al myn geluk bestaat .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2394.s.2	Maar leeft vorst Mahomet ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2399.s.1	'k Heb niets van hem vernomen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2399.s.2	Myn prins tracht 's keizers dood grootmoedig vóór te komen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.1	Zou uw meêdoogendheid , ô edelmoedig prins !	Emotion_Compassion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.2	Dien felgedreigden vorst iets baten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.4	geenszins .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.5	Verheerde Mahomet !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.6	ontelbre legerbenden !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.7	Myn maagschap !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.8	ach !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.9	gy sneeft in de algemeene elenden ; En ik , die hopeloos uw aller plagen ly , Die , afgepynigd , u een zoete dood beny ; Van zelfmoord afgeschrikt , door wanhoop aangedreven ; Ik moet , in doodlyk wee , uw rampen overleven ...	Fear_Worry_Emotion_Envy_Desire_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.10	Maar hoe !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.11	wie nadert ons ?..	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2411.s.12	Wat heil ! 't is Mahomet .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2418.s.1	Mahomet , Milko , Nizamëlmoluk , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2418.s.2	Gevolg van Lyfwachten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2422.s.1	Wat wonder heeft myn ' vorst uit doodsgevaar gered ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2426.s.1	Ik leef , prinses !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2426.s.2	ik leef , om schandelyk te sterven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2432.s.1	Zou Nasser 't moordend staal in 't bloed eens keizers verven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2432.s.2	Hy heeft myn ' wensch voldaan ; hy red u uit den nood , Naar zyn beloftenis : wat dreigt u ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2438.s.1	Nadirs dood .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2438.s.2	Ik , van dien moord verdacht , ben 't onheil niet ontweken : De prins heeft my gespaart , om zich op 't felst te wreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2449.s.2	verdenk hem niet ; verwacht op Milkoos beê , Op 't smeeken van zyn bruid , wel haast een blyde vreê .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2449.s.3	Nu Nasser , my ter liefde , uit edel mededoogen , U aan den overmoed van 't krygsvolk heeft onttogen ; Nu hy , als legerhoofd , u zyn vermogen toont ; U , na zyn ' vaders dood , van dolle wraak verschoont ; Nu zal die zelfde prins ons verder onheil weeren , Ja al uw ongeluk in voorspoed doen verkeeren .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2464.s.2	waartoe den vorst met ydle hoop gevleit ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2464.s.3	Zyn dood is al zyn heil .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2464.s.5	de edelmoedigheid Van Nadirs grooten zoon , met ons gevaar bewogen , Zal niets op 't muitziek hart van 't oorlogsvolk vermogen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2464.s.6	Die prins beloofde uit dwang dat hy , zyn wraak ten zoen , Op ons der benden eisch door beulen zou voldoen : Hy zal door 't hoog gezag den moedwil niet betoomen , Indien hy weigert die belofte na te komen , Zyn ' vaders dood niet wreekt in ons onschuldig bloed , Een vyandin verhoort , vorst Mahomet behoed .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2472.s.1	Wyt , wyt uw ' val aan my , ô vorst ! 'k heb onvoorzigtig Den hongersnood gemeld ; ikzelf ben medepligtig , Door myn vermetelheid , ( ô overmaat van druk ! ) Aan 's vyands razerny , aan al uw ongeluk .	Emotion_Unhappiness_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.2472.s.2	'k Wilde u behoeden door een roeklooze onderwinding .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2478.s.2	uw moed , uw deugd ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2478.s.3	Myn gunstling , myn verblinding ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2478.s.4	Myn wanhoop doemt u niet ...	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2478.s.5	Myn tong verstyft van schrik ... ô Yslyke ondergang !...	Fear_Emotion_BodyPart_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.sp.2478.s.6	Ik sterf elk oogenblik .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2482.s.1	Zie Nadir !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2482.s.2	zie dien vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2482.s.3	ô wonder !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2482.s.4	zie hem leven .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2487.s.1	Wat heil !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2491.s.1	Hoe groeit myn angst !...	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2491.s.2	Men doe my spoedig sneven !	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2497.s.1	Nadir , Mahomet , Milko , Nizamëlmoluk , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.1	Ja beef , ondankbre !	Fear_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.2	beef ; gy zyt in doodsgevaar .	Fear_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.3	Onwaardig legerhoofd !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.4	verrader !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.5	moordenaar !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.6	Lafhartig vloekgedrocht , gewoon uw woord te schenden !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.7	Sneef , sneef op 't straftooneel , in 't aanzien myner benden , In 't aanzien van uw volk , ter onüitwischbre schand ' , 't Heeläl ten voorbeeld ; strek een heilzame offerhand ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.8	'k Heb , als myn ' bondgenoot , u in myn heir ontfangen ; 'k Heb , uit meêdoogendheid , in spyt van myn belangen , Uw stervend volk gespyst , u 't kroonverraad gemeld , Uw ' scepter niet begeert , u op den troon herstelt : Maar gy , van schaamte ontbloot , belust op gruweldaden , Verbreekt het vreêverbond , durft yllings my verraden , Ja koopt myn wachten om , had eerloos my vermoord , 't En ware ik al 't verraad door list had opgespoort , Een loos gerucht verspreid , de ondankbre muitelingen Verbystert , hen gestraft door trouwe heldenklingen .	Emotion_Compassion_Shame
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.9	Gewaande Muzulman !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2519.s.10	wat doodstraf u genaak ' , Uw yslyk wanbedryf verdient noch strenger wraak .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2524.s.1	Ik heb , uit blinde drift , myn vorstlyk woord verbroken , Maar uw verleide wacht in moordzucht niet ontstoken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2528.s.1	Ontkent gy 't gruwelstuk ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2535.s.2	zo gy wist Wat Alikan vermag door onweêrstaanbre list ; Uwe edelmoedigheid , betoond in onze plagen , En vreemd van zelfbelang , zou Mahomet beklagen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2546.s.1	Prinses , uw tederheid , uw voorspraak baat hem niet : Hy stemde in alles 't geen door Alikan geschied .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2546.s.2	Betreur geen ' snooden vorst , die 't heilig recht beleedigt ; Maar denk dat myn gezag de onnoozelheid verdedigt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2546.s.3	Vrees niets : 'k zal , om uw deugd , u paren met myn ' zoon , U , met dien echtgenoot , verheffen op den troon Van 't magtig Indostan , u leiden naar myn staten , En Nizamëlmoluk 't bestier in handen laten .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2554.s.2	ik wacht geen heil , indien myn keizer sterft , Indien uwe overmagt zyn dierbaar kroost ontërft : Ik wil veelëer met hem het straftooneel betreden , Dan , door zyn ' ondergang , een plaats van eer bekleeden .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2558.s.1	Gy tergt myn goedheid !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.2	myn onbaatzuchtig hart , Dat all ' de aanloklykheên der ydle staatzucht tart , Dat nooit zyn ' waren pligt vermetel heeft geschonden , Aan 't vaderland getrouw , aan 's keizers eer verbonden , Door zuivre gloriezucht op 't krachtigst aangespoord , Begeert van u geen gift , die u niet toebehoort ; Ja 't word op 't felst gehoond , ô vorst !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.3	nu gy durft denken Dat Nizamëlmoluk , ontäard , zyn deugd zou krenken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.4	Zal 't kroost van Mahomet uw gramschap ondergaan , Schoon 't nimmer tegen u een misdryf heeft bestaan ?	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.5	Zal 't , van den troon beroofd , in ramp , in schande leven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.6	Of zal uw strenge wraak de onschuldigen doen sneven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.7	Betoon dat ge over hen grootmoedig u ontfermt , Hun erfdeel niet begeert , de onnoozelheid beschermt .	Emotion_Desire
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.8	Zou de Indostansche kroon den roem uws zoons vergrooten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2581.s.9	Maak van prins Nasser , uit uw heldenbloed gesproten , Geen ' ryksgeweldenaar ; bezwalk zyn ' luister niet ; Laat 's keizers waardig kroost het wettig erfgebied .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.1	Zou Milko met de kroon van Indostan zich streelen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.2	Ik , met uw ' zoon veréénd , in de eeuwige onëer deelen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.3	Ik doem zyn liefde niet ; hy is myne achting waard ': Maar 'k sidder , zo uw magt my met een ' dwingland paart .	Fear_Emotion_BodilyProcess_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.5	wilt gy 't kroost des keizers niet verschoonen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.6	Wat noopt u dan aan my een wreede gunst te toonen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2592.s.7	Dat my en myn geslacht één lot te wachten sta , Uwe eedle goedheid , of uw wrekende ongenaê !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2596.s.1	Myn angstig hart bezwykt in de yslykste ongelukken .	Fear_Emotion_BodyPart_BodilyProcess_Unhappiness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.1	Doemwaardig voorwerp !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.2	bloos om all ' uw gruwelstukken .	BodilyProcess_Shame
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.3	Dat Nizamëlmoluk , door ware dapperheid , Met Milko u beschaam ' !	Emotion_Shame
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.4	zie hen ter dood bereid .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.5	U , laffer dan de minste uit alle uwe onderdanen , Verwyfde moordenaar !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.6	u voegen ydle tranen .	BodyPart_Shame
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.7	Beklee den rang , dien u een overwinnaar schenkt : Door die verheffing word uw glorie niet gekrenkt , Nu 't kroost van Mahomet het erfrecht heeft verloren : 'k Won voor myn ' zoon dit ryk , aan u ten leen beschoren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.8	Deel , met dien jongen held , dit ryk als keizerin : Hy is geen dwingland ; neen !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2615.s.9	die prins verdient uw min .	Emotion_Love
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.2612.s.1	Tegen Milko .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2620.s.1	Ik paren met den zoon , terwyl de wraak des vaders Myn bloedverwanten moord !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2630.s.1	Ik straf de krygsverraders : Uw maagschap , 't vorstlyk bloed , word door myn ' zoon gered .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2630.s.2	De glorieryke nicht van snooden Mahomet Zal , met myn ' zoon gepaard , myn ' luister niet bevlekken ; En 't huwlyk met dien prins u tot geen schande strekken , Al word uw bloedverwant , die 't recht der volken hoont , Door myn gerechte wraak van doodstraf niet verschoond .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.1	Ik heb , uit goedheid , niet uit zucht tot euveldaden , Een ' edelmoedig ' held , maar meest myzelv ' verraden ; Myzelv ' , die , hopeloos , de afgrysselykste smart , Een knagend naberouw , gevoel in 't stervend hart .	Emotion_BodilyProcess_Sadness_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.2	Het doel van Alikan is my te laat gebleken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.3	Het voegt u , Nadir !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.4	van myne ontrouw u te wreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.5	Denk echter , zo uw gunst myn droeve beê verhoort , Dat ik , onschuldig in 't bestemmen van den moord , Van 't misdryf onbewust , door Alikan gedrongen , Uw leger dezen nacht met weêrzin heb besprongen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2645.s.7	verhaast uw wraak ; slacht , slacht uwe offerhand ': Maar stel geen ' keizer bloot aan openbare schand ' .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.speaker.2649.s.1	Nizamëlmoluk , tegen Nadir .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2666.s.1	't Voegt u , doorluchte held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2666.s.2	uw wraakzucht in te toomen , Totdat ge uit Alikan de waarheid hebt vernomen ; Totdat u zeker blyke , uit zyn bekentenis , Of keizer Mahomet aan moordzucht schuldig is .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2666.s.3	De ontrouwe gunstling , die , aan 't hoofd der muitelingen , Den hopeloozen vorst tot stryden durfde dwingen , Ja al 't Mogolsche heir , in myne afwezendheid , Door schyn van ware trouw arglistig heeft misleid , Moet , eer gy 't vonnis velt , zo hem uw benden sparen , Door dwang , door pyniging , u alles openbaren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2666.s.4	Gy zult , zo Mahomet geen lyfsgenaê verwerft , En uw verblinde wraak zyn waardig kroost ontërft , Nadat u de onschuld van dien keizer is gebleken , Door 't schenden van uwe eer hem op uzelven wreken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2666.s.5	Bedwing uw woede , of ducht een eeuwig naberouw .	Emotion_Anger_Remorse
+stee033tham01_01.TEI.2.text.body.div.div.sp.2675.s.1	Gy tergt myne eedle wraak door uw vermeetle trouw .	Emotion_Vindictiveness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2675.s.2	Verbloem geen gruweldaên : het zal u niet gelukken Een ' koningsmoordenaar aan 't wrekend staal te ontrukken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2675.s.3	Aanschouw , arglistige !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2675.s.4	eer myn grimmigheid bedaar ' , By 't vroege morgenlicht , zyn straf in 't openbaar .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2675.s.5	De dag vertoeft te lang : myn woede is ongeduldig .	Emotion_Anger
+stee033tham01_01.TEI.2.text.body.div.div.sp.2679.s.1	Zyn dit uw deugden ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2679.s.2	wreede !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2684.s.1	ô Nadir ! 'k sterf onschuldig .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2684.s.2	ô Angstig Indostan !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2684.s.3	ô schande !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2684.s.4	ô dierbaar kroost !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2688.s.1	Rampzalige monarch !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2688.s.2	uwe onschuld zy uw troost !	None
+stee033tham01_01.TEI.2.text.body.div.div.stage.2694.s.1	Nadir , Mahomet , Milko , Nasser , Nizamëlmoluk , Semire , Malek .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2699.s.1	De dood van Alikan bevredige u , myn vader !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2699.s.2	Gy zyt gewroken .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2709.s.1	Beweent gy dien verrader ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2714.s.1	Door hem waar ' Mahomet van 't misdryf vrygekend , Indien ...	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.1	Verban uw vrees , zie 't eind ' van uwe elend ' .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.2	Myn vorst , ik poog vergeefs dat hoofd der moordenaren , Ter openbare straf , naar uw bevel te sparen , En zoek hem in den stryd ; wanneer zyn vloekgespan In wanhoop roept : ‘ Men sterve , of veilige Alikan !	Emotion_Despair
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.3	’ Ik , met een deel van 't heir den vyand nagetogen , Stoutmoedig op hunn ' schrik , vind schielyk my bedrogen .	Fear_Emotion
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.4	Ik geef , terwyl men ons dolzinnig wederstreeft , Myn aarzlend krygsvolk moed ; ik roep : ‘ Vorst Nadir leeft .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.5	’ Rampzalige Alikan , door ons op nieuw besprongen , Door 't sneuvlen van zyn volk tot overgaaf gedwongen , Spreekt , doodelyk gewond , zyn ' vorst al stervend vry Van opgestemden moord , van krygsverradery .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.6	Welhaast word al 't gevolg van Alikan verslagen .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2734.s.7	Door zyn bekentenis behoed ik 's keizers magen , Zodra 't verwinnend heir , zelfs zonder tegenstand , In 's vyands legerstede uw zegevanen plant .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2742.s.1	Zal Nadir op zichzelv ' in 't einde triomferen ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2742.s.2	Of zult ge , uit blinde wraak , uw ' grooten naam ontëeren ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2742.s.3	Een ' vorst verwyzen , die meêdoogendheid verdient ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2742.s.4	Hoe zult gy Mahomet ontmoeten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.1	Als myn ' vriend .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.2	ô Keizer !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.3	word de hoon , u t'onrecht aangewreven , Vergoed door Indostan , met vreugd u weêrgegeven ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.4	Zal uwe ervarenis , uit haat tot ydlen lof , De vleijers , tot uw heil , verbannen uit uw hof ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.5	Zult gy , nadat uit weelde uw rampen zyn gesproten , De pracht , de dartelheid uit uw paleis verstooten ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.6	Ja toonen aan uw volk , door loflyk staatsbeleid , Dat gy gelukkig wierd door uw rampzaligheid ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.7	Zal Nizamëlmoluk u steeds ten raadsheer strekken ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.8	Zal Milko met myn ' zoon een ' eedlen echt voltrekken ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.9	Acht ge uw genegenheid my waardig ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2761.s.10	Staat gy toe Dat ik myne eischen , in uw rykstad , zelf voldoe ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.stage.2747.s.1	Nadir omhelst Mahomet , en vervolgt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2766.s.1	Zou Nadir iets vergeefs op Mahomet begeeren ?	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2766.s.2	'k Zal onöphoudlyk u als myn ' beschermer eeren .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2771.s.1	ô Onvoorzien geluk !	Emotion_Happiness
+stee033tham01_01.TEI.2.text.body.div.div.sp.2776.s.1	Gy toont , volmaakte held !	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2776.s.2	Dat ge in grootmoedigheid uw hoogste glorie stelt .	None
+stee033tham01_01.TEI.2.text.body.div.div.sp.2784.s.1	Laat ons , nu al 't verraad , al 't krygswee , is verdwenen , Ons beider legermagt in ware vreê veréénen ; Opdat uw oorlogsvolk blymoedig adem haal ' , En de overwonneling op de ontrouw zegepraal ' !	Joy_Emotion_BodyPart_BodilyProcess
+stee033tham01_01.TEI.2.text.body.div.div.stage.2786.s.1	EINDE .	None

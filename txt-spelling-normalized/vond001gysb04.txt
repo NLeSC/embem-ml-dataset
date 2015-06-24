@@ -1,0 +1,1017 @@
+vond001gysb04_01.TEI.2.text.body.div.head.296.s.1	Gysbrecht vinden Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.head.296.s.2	Treurspel .	None
+vond001gysb04_01.TEI.2.text.body.div.head.297.s.1	hebben eerst bedrijf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.299.s.1	Gijsbrecht vinden Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.1	hebben hemels rechten hebben zien te lang lest Ontferremt over ik , en ik benaeude vest , En arm burgerij ; en , op ik volx gebed , En dagelijx geschrei , doen bang stad ontzetten .	Fear_Emotion_BodilyProcess_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.2	doen vijand , zonder die wie uitkomst durfden hoop , zijn , zonder slag of stoten , vinden zelf hebben vellen verlopen .	Emotion_Hope
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.3	ik broeder jagen hij naar , zijde nemen vasten doen wijken , En vlucht haastig lang de Haerelemmer dijk .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.4	zo stuiven doen zee voor winden mede haar gedreve golf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.5	zo zien ik menigmaal een kudde wreed wolf , En fel tigers vlieden voor het ysselijck geschreeuw vinden al dier vorst , de hongerigen leeuw , Om niet al levendig en vers te zijn verslinden vinden hij , die op zijn jacht geren aas en hebben vinden .	Fear_EmotionalAction
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.6	Hoe snel , hoe onvoorziens zijn deze kans gedraeit ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.7	Hier , daar hebben leger lach , zijn het veld alom bezaaien mede wapen en geweer , verbaasd vinden het lijf rijten , vinden ingebeeld schrikken , en uiten de hand smijten , Om zonder hindernis te vlijen lang de weg .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.8	Ja op het verjaren zelf vinden het jarig beleg worden d'afgestrede muur vinden het lang beleg ontslaan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.9	Hoe zullen hebben gans land vinden wij verlossing wagen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.10	doen Kermerlander hebben mede Waterlander die zweren duizentwerf , die hij mede zwaard en vieren Vernielen zij eerlang doen mens , en doen dak , En tot een kerreckhof en as en puinhoop maken ik oud , ik wettig erve , en delven al ik eer In een poel , tot wraak vinden Floris hun heer : Om wie vervloekt dood ik lijden zo onschuldig , alles iemand leiden mogen , doch draegh ik kruis geduldig : Of zo ik schuldig zijn , en hebben hebben ik missen , het zijn uiten onnozelheid , en zonder erg of list .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.11	Neef Velsen , langen tergen , vinden eigen wraak prikkelen , En woord aanzien ik hier listig in wikkelen , En het schoon voorstellen , en eest doen zaak verbloemen mede wonderbaeren glimp : mare ik hebben zij witten verdoemen , zo dra alles ik verstaan , hoe grof zijde zien vergrijpen , mede de gevangene graaf na Engelant te schip , En slaan die voorslag af , te besteden vinden het gemeen , En riet doen ridderschap en al doen groot stad Te roep , om de vorst zijn ' moedwil te besnoeien , En gene uitheems macht nog koning te moeien , nog overzees geweld te halen in hebben land ; velen minnen hebben hoofd de land te helpen aen een ' kanten : waar uiten een springvloed zijn vinden zwarigheen spruiten , Die over stellen gaan en vasten geboude slot , En dorp zonder einde , en mens zonder tal , vinden allerhande staat , die het eeuwig smarten zullen .	Emotion_BodilyProcess_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.12	nog houden doen wraak geren ' stand , en geven zien nooit te wreed ; Al hebben zijde uitgeroit , te negende lijden , Wat Velzens stam bestaan , of vinden zijn maagschap scheiden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.13	doen nieuw ridderschap en stellen in het gemeen verbond zien wel streng , mede diergezworene eed , Handtastinge en geschrift , die zijde bezeglen doen , vinden nu in eeuwigheid , mede onverzoembren haten , Aen woord , Velzens bloed , en Aemstel , deze smaad Te wreken , en vinden zoenen te reppen nog te roer .	Emotion_Hatred
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.14	wij maagschap zitten verdrukken , durven schillen nog wapen voer , En geven gewillig schot en loten , om zo rusten Te leven , en doen glans de adel blijven blussen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.15	Hier helpen geren tussen spraak vinden koning en heer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.16	ik wouw ik trouwen stad nog het onderst boven karn , mede burgerij mede al , wat ik zijn houwen en trouwen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.17	doen hopen wassen , die doen tijd allengskens slijten zij doen bitterheit de volx , en d'oude wrok versterven : waarom ik ik getrooste in ballingschap te zwerven velen jaar achter een .	Aquiescence_Emotion_Spitefulness
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.18	Of immers torn doen zode vinden Floris wereld halen in al ziel tronen , verhopen ik , zonder lassen vinden deze burgerije , Te karn in het bezitten en d'erref heerschappij vinden vechten en Aemstelstroom : dan lezen : het zijn al om niet .	Emotion_Hope
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.19	En wassen het om ik allee , hebben waar een klein verdrieten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.20	ik laten ik zelf vinden lid tot lidr in stuk zagen , En nemen op ik allee doen gruwelyxte plaag , Die ooit tiran bedenken ; wassen dan doen schuld boeten , En spreken ik daar met vrijen ik al t'onnozel bloed , ik lief gemalin , en willig onderzaeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.21	ik wouw , om hunnent willen allee , ik leven laten , Of spring in een ' poel , en stop deze wel , En dempen mede een ' springen doen nimmerzatte hal .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.22	die weten hij , die hebben al bezichtigen uiten de hogen , En wat in duister schuilen mede zijn doorzichtig oog ontdekken tot op de grond , en al hart kennen ; waarom hij ook ik rechte gehanthaest hebben in het einde , En mede de zegekrans ik heerlijk begenadigen , En tegen al doen macht de vijand verdaedight ; Die liggen slaan in de winden vinden oud genote deugd , waar aen wie volk en vorst verplicht vinden wij jeugd , zo yvrig , zonder ooit vinden trouwen te veranderen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.23	ik vader hebben gestrekt een hoofd vinden Waterlanderen , En Kennemer in het vellen , en mede geweld alom ( Hoewel door node persen ) vervolgen de adeldom , En al vijandschap op zijn hals laden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.24	doen koning Willem zij getuige vinden zijn daad , Indien hij eenmaal mogen verrijzen uiten hebben graf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.25	ik hebben graaf Floris trouwen handhaven bij zijn ' staf , zo langen hij zitten vervooght , en niet een woord kennen spreken , ik hebben hij zijn vader dood rechtvaardig helpen wreken , hebben koninglijck gebeente ontdekken , de fries temmen , En , alles geheim raad , in al zijn heil stemmen , mede Brero voor doen vuist hebben vlaams heir slaan , En in Kazant mede kracht de standaard weg dragen ; torn Guido nijdig wassen , die Floris , al het uitheems zinnen , zijn ' erfgenaam wouw huwen aen de Teems , En Vlaendren , Walchren zoeken te trap mede zijn rot .	Emotion_Envy
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.26	ook voeren ik over zee , om hij doen kroon de schot Te zet op hebben hoofd , hoewel hebben ander vallen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.27	ik staan de graaf en het volk te dienst mede lijf en ziel , En nog verzaemelt ik in het harnas zo velen troep , Die over Amsterdam en Aemstel wraak roep , En brullen nacht en dag , en zieden niet hoe doen vlammen vinden deze fel branden haar ' eerst oorsprong nemen uiten Floris geil barsten , en het schandelijk omhelzen , hebben schenden vinden ik nicht , die schoon bloem vinden Velzen , het verongelijken vinden de adel , in zijn rechte , bezweren mede zijn ' mond , verblind mens , zeggen , Indien geren wrok en wraak u oog dus verblind , zullen gij niet stof genoeg tot Aemstels onschuld vinden ?	Emotion_EmotionalAction_BodyPart_BodilyProcess_Vindictiveness_Spitefulness
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.28	Hoe zoeken ik hij vinden oud te maken tot een slaaf !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.29	Wat leed hij niet al leeds vinden bisschop en vinden graaf !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.30	ik wouw zijn loffelijk bloed in het bisdom niet gedogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.31	d'Aertsbisschop aen de Rijn kennen mede zijn nijdige oog Niet aenzien wij geluk , geven Gozewijn doen schoppen , En zet zijn neef de hogen mijter op .	Emotion_Envy_BodyPart
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.32	wie strijden om de staf , tot datze ik en woord , Aen weerzy vinden zijn paren , tot een triomf voeren In Uitrecht , mede velen smaets , vinden veer aanhoren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.33	ik hebben ik het Vrelantsch slot ontweldigen , hij Montfoort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.34	ik bekennen hebben slot wassen ik mede voorwaarde opdragen ; mare nergens om bouwen , dan om ik land te plaag .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.35	ik hebben zijn graeven vangenis wel zeel jaar langen bezuren , en Zwaenenburgh nog afstaan door dwang , ik erve in lid verkeerd , en manscbap moet zweer ; daar ik eest god allee , en ander gene heer ooit kennen in ik gebied , nog rekening geven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.36	nog dringen ik evenwel op ik zo stijf en straffen : Doch Haerlem dragen mede rechte doen groot schuld vinden al , die om zijn voordeel wrokken , en wensen ik sterk wal Te slecht tot de grond , in schijn vinden zijn graeven zaak , En weten zijn baetzucht loods te dekken mede doen wraak , Misbruickt hier toen de Zeeuw , doen Hollanders , en Vriezen , Om door ik grootheid niet aen eer te verlies .	Emotion_Greed
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.37	zo liggen doen zaak bij ik , en daar op gaan ik aen , En hebben in het zwaar beleg doen storm uitstaan , En dag en nacht voor aen worstelen op doen wal , het vermoeien volk sterken , en rustig uitvallen , ik ' broeder Ot kwetsen zieden sterven in ik ' schieten : krakeel neergeleght in branden , in honger node , gelijk een vader , ik voor het algemeen dragen : En nooit bezwijken ik moed in droef nederlaegen : nog ik blazen ik zelf op in voorspoed , nog zoeken roemen In zijn vijand ondergang : hoe node ik vijand noemen , Die onverzoenelijck zien tegen ik verzet , En wensen mede ik bloed zij blank geweer te smet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.38	ik vergeven zij deze feil , en dom onwetendheid , bevel ik in zijn hand , die rechte vinden onrecht scheit , En strekken in zijn hemel stoel de onderdruckten trooster .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.39	mare ik zien de vader daar vinden wij Katuizers klooster genaken vinden te zijde , op die hij ik begroeten ' .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.40	hij schijnen om wij geluk verheugen en wel gemoed .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.41	ik zullen goed verstaan uiten hij , die nimmer wassen bespreken , waarom hebben leger zijn dus schichtig opbreken .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.468.s.1	Willebord .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.1	ik welgeboren heer , doen zoet jezus zijde mede uw en uw stad , en staan uw eeuwig bij , In allerhande node .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.2	doen broeder vinden ons orde , En ik , zijn zo verblijd , alles ofwe levend worp trekken in de tronen vinden god volmaakt vreugde .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.3	wij klooster zingen , en klingt , en zijn niet meer verheugen Op het allerhoogst feest en heilig jaar getije , vuren vinden al doen kerk , te eer vinden Marije , doen zuiver moedermaeght , en Christus , haar zode , Die wij verlossen aen het kruis , en dragen een doornekroon , alles nu om uwent willen , die vinden doen wreed plaag de goddeloos krijg verlossen zijn en ontslaan : Nu al u vijand verbaasd zijn doorgaan , En laten tent , tuig , en hun hut staan , En al , wat zijde meer u volk te besteden geven .	Joy_Emotion_EmotionalAction
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.4	ik geloven god engel hebben de vijand wechgedreven , alles het heir de Assyriers , die zijn vermetel stemmen Hiskia horen laten , tot voor Jeruzalem , hebben welk in een nacht zo wonderlijk verkeerd , torn een , die het al regeren , die stof hij verleren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.5	Hoe menig dreigement , en vloek hebben ik horen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.6	Wat hebben ik gift en gal braken , en branden en mogen tieren , en het gans jaar schelden , en krijten , Niet ander , of zijde uw mede tand woud eten !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.7	d'Een zetten uw levend en ketenen op een rad : Een ander rollen uw naakt in Velzens spijckervat : Een ander wouw u hoofd , u beckeneel , verguld , En vat hebben in goud . het wassen bijster hoeze brulden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.8	zijde delen bloed voor wijn , u vlees voor voedsel uiten , Krackeelden om het ramen , en dingen na u huid , En woud die god oud op een ketel span , Tot endeloozen schrikken vinden schelm en tiran : mare god zijde eeuwig dank die hun boos hebben schutten .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.505.s.1	Gys .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.517.s.1	die d'opperste beschermen , hebben een vasten stutten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.517.s.2	Godtvruchte vader , die uw god en Christus loon , naardien doen broeder zien mede uw zo gunstig toon Te ik woerd , ik vertrouwen u vurig gebeen Die aanzien dag en nacht voor mijn stad gestreen , doen storm afkeren , en het vieren vinden ons dak ; wan wapen zijn onnut , zo d'engelen niet waken , En het ijverig gebed vinden het geestelijcke volk .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.517.s.3	Wat hangen uw over het hoofd een droef en donker wolk vinden zwarigheen , terwijl hier het leger hebben liggen : gei zijn niet misgedeelt in zijn oorloghs mild zege .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.519.s.1	willen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.526.s.1	geren haar zijn wij krenken , geren overlasten gebeuren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.526.s.2	ik hebben hebben klooster nooit in zijn dienst gestoord .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.526.s.3	wie aanzien staegh volhardt in ons oude ijver : doen boomgaard lijden geren schade aen vrucht , nog doen vijver Aen vis , nog doen kerk aen d'alderkleenste ruiten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.531.s.1	wij hebben dan de soldaets baldaedigheit stuiten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.531.s.2	Wat houden zo korten in dwang die breidelloos gans ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.539.s.1	mede geren inlegering wouw Egmont wij belasten : Behalve die hij zelf en zijn lijfwacht met , Die altijd tuchtigh zijn , hier nemen zijn legerstede , En boven ons poort , laten aanslaan zijn graeven wapen , daar wie in zekerheid rusten op mogen slapen .	Aquiescence_Emotion_Trust
+vond001gysb04_01.TEI.2.text.body.div.sp.548.s.1	die doen ik wel , gelijk een lijfelijk luchten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.548.s.2	ik zelf en al doen stad wassen meest om uw beducht , En vrezen ofge langen verjagen woerd , en plunderen .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.548.s.3	mare vader , zeg ik een ; een ieder zijn verwonderen , waarom het verbitterd heir zo onvoorziens vertrekken , En lief niet volharde in het opzetten vinden zijn ' wrok .	Emotion_Vindictiveness_Spitefulness
+vond001gysb04_01.TEI.2.text.body.div.sp.552.s.1	Verwonder uw niet een , doen node hebben heen dringen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.556.s.1	ik burger liggen stillen , en het leger onbesprongen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.564.s.1	vinden buit wel , mare niet vinden binden die gei het weten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.564.s.2	hebben winteren fel , wanneer een wolf de ander eed : zo gaan in het leger toen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.564.s.3	believen hebben uw te horen , Al het geren ik hebben horen mede deze ik eigen oor , En mede mijn oog zelf zien nog deze dag ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.568.s.1	eerwaard vader , spreken , ik lustre na het verslag .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.1	naar die ik d'oversten een wijlen hebben horen mompelen vinden Amsterdam , al stillen , bij duister t'overrompelen , rijzen tussen Diederick en Egmont een krakeel , die uitbarsten meer en meer : een ieder trek een delen vinden het krijgsvolck op zijn zijde , en zoeken hebben stuk te stijf , En na zijn eigen hoofd de aenslagh door te drijven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.2	velen Hoplien yverden te slissen hebben geschil .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.3	mare Diedriek , harden vinden hoofd , die nimmer luisteren willen na rijden , nog bescheid , en het vellen behoud mede krijten , wereld trots , overmits doen lang klaas vinden Kyten , doen Sparrewouwer reus , zo onbeschoft alles groots , In al wat hij drijven hij helpen en bijstand bieden , En Egmont mede zijn kolk en grof stemmen vervaren , hij drijven mede een vuist , die hij een wijlen te aarde In zwijmen lach en voor dood .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.4	die moedwil en die honen , de veldheer aandoen , gaan veel aen zij kroon , En zonder hebben ontzag de reus , fel bijten , ik hebben elckanderen terstond in het haar zitten , En onder een banier wraakgierig aengerant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.5	ik razen een heel week .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.6	doen twisten , hebben misverstand , En misvertrouwen wassen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.7	daar sporrelden doen zin .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.8	ik vrezen minnen doen stad , en meer verraden vinden binden ; Tot die al d'oversten verzaemelden helen stillen In het klooster , deze dag , tot slechting vinden het geschil : Doch al vergeefs : ik wassen velen eer zinnen te vechten , En deze onesfenheit mede degen te beslechten , Dan rekkelijk , en bedaard , te luisteren na verdrag .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.9	ik tradt'er in de hopen , gelijk ik zomwijl plegen , En spreken heen toen , en brengen aldus heen aen het bedaren : Manhafte hoplien , god willen het leger lang sparen , In onderling peis , hebben enig dat'er mogen u vijand , wij het ook zijde , gedijen tot ontzag .	Emotion_Awe
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.10	doen tweedracht zijn een passen , die al staat te schromen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.11	gedenken die uw doen stad , die het ruiken , op het lijf zullen komen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.12	Wat middel zijn ' er , om de Aemstel het hoofd te bieden , Nu elk , wantrouwigh , d'een na d'ander om moeten zieden ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.13	gei zijn , eer het iemand gisten , slaan of gevangene .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.14	Wanneer doen herder dwaelt , wat pad , wat recht gang , kunnen d'arme kudde gaan ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.15	dus maken een korten besluiten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.16	verdragen hebben schedel , of schorten de krijgen , en scheit'er uiten , En keren vinden waar gei quaemt : waar toen velen werk beginnen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.17	berokkenen zo velen spel , alles het niet waard afgesponnen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.18	ik merken die ik raad niet weinig hier vermogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.19	ik nemen ik woord in .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.20	zijde krijgen achterdocht , En zorg voor gevaar vinden u gesteurde wal , En die doen burgerij en lantzaet uiten mogen val .	Suspicion_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.21	daar lopen een klein gerucht , gei woerd al op doen been .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.22	doen dootschrick quam'er in .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.23	ik rukken het heir bij een .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.24	ik brak al heimlijck op , en zonder enig tekenen vinden hoorn en trompetten , of hut in branden te steken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.629.s.1	gei hebben doen stad , en ik geren ' klein dienst gedaan ; Een deugd die nimmer zullen uiten ik gedachte gaan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.629.s.2	gedenken ik in het gebed voor u altaar te goed .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.633.s.1	doen lief jezus neeme uw eeuwig in zijn hoeden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.635.s.1	arend zan Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.635.s.2	Gysbrecht vinden Aemstel : Vosmeer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.637.s.1	HEer broeder , zijn rusten , en luiden vinden vreugde doen klokken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.641.s.1	waar zijn hebben heir ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.641.s.2	hoe ver ' woerd gei hebben nagetrocken ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.643.s.1	Ar .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.645.s.1	Omtrent een booghscheut weg aen geren zijde Slooterdijck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.649.s.1	Hoe gaan het uw op de tocht .?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.658.s.1	zijde stuiven al gelijk Voor uiten , alles voor de wolf een kudde onnozel schaap .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.658.s.2	ik volk hoeven op die tocht geweer nog enig wapen , En keren mede rijk buiten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.658.s.3	doen Kermers scheen stom : wan hoe ik het vechten zoeken , zijde zien niet een om , En rekken vasten zij pad , vinden dootschen schrikken bezitten .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.665.s.1	nooit kraeide haan , alles hij doen kammen wassen afbijten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.665.s.2	nooit basta een doch , mare druipen helen stillen , alles hij het verliezen , mede intrekken staart , en hangen oor , door .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.665.s.3	Wat vogelen brengtge dus knevelen , en gevleugeld ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.672.s.1	hebben zijn een uiten doen vluchten vinden het vluchtig geveugelt , grijpen buit dijx , daar steken hij in hebben slijk .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.672.s.2	Hoe beven hij ! het aengezicht zien dood en bleek vinden schrikken .	Fear_Emotion_BodyPart_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.672.s.3	hij zijn slepen , sleuren , en hebben velen smaets lijden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.678.s.1	Een woedend gemeente en staat in rechte nog rijden , Wenze iemand over mogen .	Emotion_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.678.s.2	ik brengen hij hier voor ik .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.678.s.3	wij zijn gei ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.678.s.4	uiten wat land ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.680.s.1	Vos .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.690.s.1	Heer Gijsbrecht , strafme vrijen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.690.s.2	ik zijn vinden zijn vyants volk , en waardig om te sterven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.690.s.3	ik hebben met zoeken u stad en burger te verderven , En duizentmael verdiend een schandelijk dood .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.690.s.4	ik geven ik in u hand , persen door hogen node .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.690.s.5	ik ramp willen Kennemer en Waterlant behagen : mare ik zullen doen dood vinden uw mede minderen smarten verdragen Dan vinden ik eigen volk , die zien ondankbaar tonen , En ik ' getrouw dienst zo onrechtvaerdigh lonen .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.695.s.1	Wat zijtge voor een gast ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.695.s.2	of in wat land baren ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.1	ik zijn een Goyers kind , verval in god toorn , Te Laren opvoeden . ik ontlopen mijn ouder vroeg .	Emotion_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.2	ik vader vielme harden , wan ickme passelijk dragen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.3	ik hebben al ik leven lang gevolleght vreemd heer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.4	En buit moet het geren ik thuis niet willen lederen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.5	doen bitter armoede hebben ik hersenen wetten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.6	ik hebben menig stuk versieren , en het lijf daar naar zetten , Om door een braaf daad of aenslagh op te raken , En door een ander schade een ik fortuin te maken !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.7	mare altijd heeftze ik de rug toegewent ; Doch nooit zo dwars alles lest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.8	god schikking , ik bekennen het zijn sterk dan doen mens , of zijn geboortestarre : En of wij brein iets boud , zijde stoten hebben al om ver , En goed een ander gang .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.9	mede wat een listigheit , mede wat een ' rijp raad wassen d'aenslagh aengeleit , Om te vermeesteren u langen bestormen muur .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.10	zo Vosmeer na zijn ' zijn die schip hebben mogen sturen , gelijk hebben bij hij lach , zijde hebben , hebben zijn zijn , gewinnen in een uur door list , die in een jaar Door uiterlijk geweld nog storm wereld veroveren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.11	hebben schijnen die d'oversten verblind zijn en betoveren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.723.s.1	staan op en helen ik niets vinden al wat gei weten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.1	Nu zijn ik immers vrijen vinden hollands dier eed , En Egmont kunnen ik hier niet heet of verbieden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.2	hij dreigtme mede doen dood , en perstme hier te vlijen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.3	ik aenslagh zijn mislukken , en ijdel en onnut .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.4	Heer Gyzelbrecht , genade .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.5	ik geven ik in u schutten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.6	gei kuntme , wiltge slechts , een vriend en vader strekken , naardien ik uw het verraden volkomen willen ontdekken , En hoe het scheren lach , in zijn krijg geheim raad , Tot ondergang vinden uw , en uw heel staat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.739.s.1	ontbinden de knechten , zo mogen hij onverhindert spreken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.1	doen hoplien wensen dik hebben leger op te breken , naardien mede stormen op stormen , en endeloos gevecht , hebben heel ronden jaar , niet meer wassen uitgerecht Dan moeite en volk spillen , en tijd onnut verslijten : hebben welk zo menigmaal de veldheer wereld verwaten ; Een smaad die lastig vallen : en houden hij niet verplichten Zijn eer en eed , hij hebben zijn anker lang lichten : En och , of het waar gebeuren een goed wijlen te voorn , ik waar deze ongeluk nog onheil niet beschoren : wan het zijn een manen lijden , die ik hij heimlijck riet Te maken op ik woord , een eend vinden het verdrieten : En zo hij wassen zinnen een luttel volx te wagen , ik wouw hij in doen stad op bei ik hand dragen , En stap zelf voor aen , en maken zij hebben spoor , ik openen ik witten , en slaan hebben middel voor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.2	ik hebben zomwijl door doen gracht , bij duisternacht , zwemmen , En al doen wachten bespieden , en het groots rondeel beklimmen , die aen de hoek vinden het ij u sterk stad bewaren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.3	Hier liggen blijde in , en ander krijghsgevaert .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.4	ik nemen aen , en het kosten geschien , door muur en al te boren rechte waterpas , zo stillen , die niemand ik zij horen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.5	Wanneer nu door doen breuk een krijgsman heen mogen , zij het braaf puik , hier toen loten en uitgezocht , doen gracht , daar ondiepst zijn , mede rijzen op kerstnacht dam , En kruipen in het rondeel , om d'eerste poort te ram , alles d'afgewaeckte wachten vellen lach en vermoorden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.6	hebben heir dan over dam , en door geramde poort , Aen het nederhouwen , wat op straat zien openbaren , Terwijl doen burgerij kapel en kerk bewaren : En het wassen te nacht doen tijd , en vraeghtge na bewijzen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.7	gei zien , hoe daar een schip , hebben zeepaard liggen vol rijzen , hebben welk ik door doen vluchten verzuimen hebben en vergeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.8	Wat werdt'er niet al tijd mede kibbelen verslijten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.9	doen hoofd liggen vasten elendigh overhoop .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.10	ik schuiven doen schuld op ik . ik hebben menslevleesch god koop : nog weten niet wat ik drijven : zijde zullen het niet gehengen , die ik hebben volk zo liggen zij op doen vleeschbanck brengen , En jagen in zij dood .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.11	dus gaan het aen d'eene zijde : Aen d'andre stemdemen eendrachtelijck mede ik : Tewijl verlopen doen kans , en d'aenslagh beven vasten steken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.12	torn zochten'er een delen zij leed aen ik te wreken .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.13	daar komen , zonder slot , velen klacht t ' mijn lassen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.14	ik wassen een tovenaar , en daar op raken ik vasten , En mos , door pijnen persen , al het opgedichte melde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.15	ik doemen ik te dood , en heden zij het ik geld : mare gisteren avond brak een vriend ik boei lossen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.16	ik vlughte lang de dijk , gelijk een hollend ros .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.17	Doch hielt'er niet , uiten angst vinden het leven te verlies .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.18	ik slaan te zijde af , en schoot'er in doen bies , En steken in diep moeras al de verlijden nacht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.19	zijde trekken ik voorbij .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.20	ik hielme stillen , en zien het ; Tot die u burger komen doen Kermers nagevlogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.21	ik roepen om helpen , en wereld uiten diep moeras tijgen : wan ander wassen ik daar blijven en smoren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.22	Doch zo ik sterven moeten ; ik willen lief voor u poort , Aen wij ik het hebben verdiend , deze lastig leven laten , Dan bij ik eigen volk , die ik mede onrecht haten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.814.s.1	gade heen , ik schenk uw het lijf : hebben zijn geren straffens tijd , wie zijn vinden ons hals de groot vijand kwijt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.814.s.2	ik ontvang uw in ik ' dienst , en zullen uw wel betalen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.814.s.3	gade helpen terstond hebben rijzen en het zeepaard binden halen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.814.s.4	doen koude beginnen , en zijn nog ver ' vinden haar vertrekken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.814.s.5	In het wachthuis en op het slot zijn houden en branden gebrek : ik maghze straks verzien , en branden het rijzen tot as , zo kunne zijde hier met doen vasten niet verasschen , ik horen doen Goyer doen doen waarheid niet te korten , wan zijn vertelling stemmen mede vader Willebord .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.816.s.1	rijden vinden amsterdams maagd .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.1	NU stellen hebben puik vinden zoet keel , Om daar gezang op te spel , Tot lof vinden god , die op zijn ' tronen zitten zijn , zo oog en heerlijk , vinden waar hij zieden kennen , hoe begeerlijk hebben Sparen steken na Aemstels kroon ; Hoe wraak mede zwaard en mede speer doen torenkroon vinden het hoofd wouw schaar de schoon en wijd vermaard stad , En rukken door geweld vinden bende de vasten gordel vinden zij lende , Een plunderen haar kleinood en schatten ; En schenden d'edele en getrouw , gelijk doen schender Velzens vrouw , Wel ruimen zo waardig alles Heleen , de branden vinden een herboren Troje , En krijgen , die het overschot verstroie , naar die ik jaar hebben gestreen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.2	waar zijn doen reus mede al zijn stof , Die Gysbreghts stad te neder wouw ploffen , En om haar ' muur zijn arm slaan ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.3	Wat ijdel schrikken hebben hij slaan ?	Fear_Emotion_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.4	Wat ijdel vrees mogen heen jagen , Die nu mede schande strijken gaan ?	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.5	het zijn tijd doen kerk te stofferen , Te dansen , en te bancketteren , En mede een ' uitlaten geest deze blijdschap aen doen vreugde te huwen , Die vrolijk englen wij vernieuwen mede gezang , op god geboortefeest .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.6	trek in , o Aemstel , trek nu binden , Die zonder slag kunde overwinnen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.7	trek in , o braaf burgerij , Die uw zo moedig hebben kwijten , geren eeuw en zullen u eer vergeten , doen hemel staan uw eeuwig bij .	None
+vond001gysb04_01.TEI.2.text.body.div.head.856.s.1	hebben tweede bedrijf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.858.s.1	Willem vinden Egmont .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.858.s.2	Die drick vinden Haerlem .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.858.s.3	Hoplieden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.864.s.1	wie zijn bij het klooster weer , daar Willebord in vrede mede al doen broeder wonen , en storten zijn avontbee .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.864.s.2	het zullen nodig zijn die wie de hoplien openbaar hebben geren op hand zijn .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.866.s.1	Die .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.869.s.1	het zijn tijd , zijde weten garen Wat heimlijck bij wij broeden : verlossen heen vinden doen pijnen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.871.s.1	Eg .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.1	Manhafte hoplien , horen : wie aanzien , onder schijn vinden onderling krakeel , een ' aenslagh voornemen , Om goed tot wij witten op een springen te komen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.2	ik hebben daar op hebben heir vinden dag te rug voeren : mare die en zijn hebben niet , waar op doen veldheer loeren , nog het geren ik onder het volk velen dag horen mompelen , wij witten zijn deze nacht de vijand t'overrompelen , Nu hij zien veilig achten , en buit krijghsgevaer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.3	Voor het opgaan vinden doen manen [ hebben duncke niemand zwaar ] zullen het leger meest zijn vinden poort en vinden vest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.4	Wat is'er dan voor uw een rijk buiten te besteden !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.5	Hoe zultge weide gaan op het slot , en in doen stad !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.6	zo iemand streven na eer ; ik tonen hij het recht pad , doen heirbaan vinden doen deugd , om moedig op te steigeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.7	zijde offeren uw de prijzen , het en zijde het u hand weigeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.8	wij rustig zijn die spreecke , en houden doen wapen rijden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.9	wij zien flaeuwhartigh vinden , die die te rug treden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.10	ik hebben ik op deze stuk mede weinig beraden , En het zeepaard , die eest lach aen het ij , mede rijzen doel lade , Op dat'er doen soldaat rusten in schuilen mogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.11	doen Sparewouwer reus , mede ijver aengezocht , gaan mede doen bloem de volx en het puik vinden al doen groot Te nacht grootmoedig schip , op het noemen vinden doen loot : ik broeder Wouter zelf , Vianen , mede doen zorg En hoop vinden zijn huis : Abkou , en Ryzenborgh , putten , Grobber , Kuilenburgh , mede Arckel , Borsslen , voorn , En het graeven zoon beide : en het schip , naar die wie horen uiten wij ' doortrapt spie , zijn al in stad halen , Door Vossemeers beleggen : zo dat'er niets en falen Dan nu te nacht , zo ras zijde poort en slot breken , En Zwaenenburregh vuren , te lid op die rekenen , En voor mede al macht te volgen op hebben liggen de schrickelijcken brants , vinden Vosmeers toorts stichten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.908.s.1	Hop .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.910.s.1	doen veldheer geven slechts lassen , aen wij zullen niet gebrek .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.914.s.1	waar zullen ik goed een delen vinden het oorloghsvolk versteken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.918.s.1	het Katuizers klooster zijn wij het ree , hebben liggen hier bij .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.922.s.1	die volk zijn liefst verschonen , en vinden inlegering vrijen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.926.s.1	het zijn voor een kort wijlen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.931.s.1	Een Godtshuis zo t'ontwyen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.931.s.2	ik hebben hebben langen verschonen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.938.s.1	laat ik daar met betyen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.938.s.2	gei hoplien , voeren terwijl de voortoght herwaarts aen : Wanneer gei komen dan zullen hebben klooster openen staan , Of het moeten ik aen doen macht , die zweren ik heen , ontbreken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.945.s.1	ik gaan terwijl na stad , om Vosmeer nog te spreken , Die te gezet tijd komen zwemmen door de bodem .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.945.s.2	verstoren doen broeder niet , mare houden uw wat in tomen , En roepen niet luiden , ik mogen u stemmen te ver horen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.949.s.1	Een krijgsman laat zien vinden geren paepen ringeloren .	None
+vond001gysb04_01.TEI.2.text.body.div.stage.951.s.1	portier .	None
+vond001gysb04_01.TEI.2.text.body.div.stage.951.s.2	Diederick vinden Haerlem .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.953.s.1	Poor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.955.s.1	wij klopt'er ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.959.s.1	doen vrijen op , en vrezen niet : het zijn uw vriend .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.964.s.1	het zijn avond , en een tijd die wij geren vriendschap dienen : komen morgen vragen bij dag .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.969.s.1	Wat zullen wij hier gebeuren ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.969.s.2	ik zeg anderwerf , doen op .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.974.s.1	ik openen hier geren deur zo spade : gade u ' gang : komen morgen tijdig weer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.978.s.1	ik zeg voor het lest , doen op , en doen gei het niet , ik zweren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.1	wij zijtge , die dus razen , alles wild en uitgelaten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.2	wie dunken lang niet om ruiter nog soldaat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.3	Heer maarschalk , wel hoe dus ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.4	wat jagen uw hier zo spade ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.5	ik slaan uw het heilig kruis , torn het leger optrock , naar .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.6	ik geloven niet die gei wij al weder zoeken te kwellen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.7	En koomtge dus allee ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.8	waar zijn u rotgezellen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.991.s.1	ik komen allee .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.991.s.2	waar zijn u meest Willebord ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.995.s.1	te kerk , daar hij vasten , en zijn bidden storten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.999.s.1	gade roepen hij , wan ik moeten die goed vader spreken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1004.s.1	nul jezus , staan wij bij , deze zijn een misselijk tekenen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1004.s.2	ik hebben bellen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1004.s.3	hij komen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1008.s.1	gade roepen de vader , fluks .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1013.s.1	soldaat brengen wij helen zelden velen gelux .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1013.s.2	wie zienze node vinden voor , en allerliefst vinden achter .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1019.s.1	wij een hopman huizen , die hebben een trouw wachter , En ridderlijk beschutten , en hoeven geren poort nog slot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1027.s.1	doen besteden wachter zijn doen sterk en groot god , Die nimmermeer en slapen , en luisteren na wij zucht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1027.s.2	wie bidden stag om peis , en haten krijgsgeruchten , En horen mede verdrieten hebben kraaien vinden die haan .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1027.s.3	In oorlog houwen eest abdy en klooster aen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1031.s.1	gei zitten hier in het beleg voor al moedwil veilig .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1036.s.1	wie weet het Egmont dank , en houwen hij voor heilig .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1036.s.2	daar zijn doen vader zelf , zo bleek en afgevast .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1040.s.1	Heer maarschalk , wel , wat nu ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1044.s.1	ik komen bij uw te gast .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1050.s.1	gei zijn ik welkom , al komen gei ongebeden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1050.s.2	ik verwachten uw avond niet , en lustre na doen rijden die gei dus schichtig keren : daar zijn wat meer aen vasten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1056.s.1	ik verzoek allee op uw , en die door Egmonts lassen , Of ik wat krijgsvolck mogen te nacht in het klooster liggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1056.s.2	hebben zijn een krijgsmans bede , gei mooghtze niet ontzeggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1060.s.1	ik geloven gei deunen mede ik .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1065.s.1	het zijn errenst , en geren speld .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1065.s.2	En Egmonts eigen lassen : hij gafme deze bevel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.1	Hoe zullen ik deze verstaan ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.2	hebben Egmont die bevelen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.3	hij steken nooit Godtshuis aen , nog zoeken zien bij doen kool Te warm vinden die vieren . het zijn enkel misverstand .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.4	gei zijn ik welkom , ik heer , daar zijn ik hand .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.5	ik zullen uw en uw stoot gewillig innelaten mare het Godtshuis op te doel baldadig soldaat Of ruitren , ik lijden niet : ik vermogen het mede geren gemoed .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.6	hebben klooster zijn god erve , en jezus eigen god .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.7	wij klooster raken , die raken de appel vinden god oog .	BodyPart_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.8	Heer overste , geloven , het zijn buit wij vermogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1084.s.1	het zijn om een uur of twee te doel , te hoog drie .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1084.s.2	ik blijven uw borghr en houden u kerk en klooster vrijen vinden overlasten en schade , en zullen doen boosheid straf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1086.s.1	willen :	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.1	mede krijghsmans borreghtoght en hebben ik niet te schaffen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.2	Al waar het doen veldheer zelf , ik zeggen het hij in het gezicht : deze zijn een overoud en vorstelijk stichten , verzorgen in wreed en krijgen mede zegel en brief , die wij hebben kwetsen , gedenken een vorst de rijx te grief , Die zeggen : hij raken ik kroon wij het Godshuis iets misdoen .	Offended_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.3	sinds Andries zijn het wijden : hebben passen geren ' krijgsmans voeden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.4	het zijde ver ' die Diedrick nu zijn Katuizers vijand worden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.5	Twee Alexanders zelf , doen vieren en ook doen derde , gelijk doen tweede Urbaen , bevestighden deze slag vinden godsdienst , daar ik bruine wel d'eer vinden geven mogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.6	Ja op die geren gerucht zij storen wij gemoed , mogen niemand deze plaats , beneden honderd roede , Betimmeren , velen minnen bezwaeren mede de lassen , die d'oorlogh na zien sleipt , of enig oorloghsgast .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.7	wie staan op keizerlijcke en pauzelijcke weten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1109.s.1	doen weten zwijgen stillen voor wapen en trompet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1109.s.2	doen node breken weten : gei mogen op gene weten staan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1113.s.1	Ontwijtge dan het gewijd ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1120.s.1	alles David hebben gedaan , torn hij voor het zwaard vinden Saul te Nobe komen vlieden , En zijn hongeren boeten aen priesterlijk brood , die niemand ooit vermogen , het en waar het gezalfde hoofd .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1130.s.1	doen stout Usia wereld rechtvaerdelijck beroven vinden zijn gezontheit , torn hij het heiligdom ontwijde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1130.s.2	doen priester aanzien god en d'englen op zij zijden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1130.s.3	deze zijn hebben errefdeel , die wij te beurt vallen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1130.s.4	hij laten de graeven vloek rampzalig op zijn ziel , Die het Godtshuis in zijn rechte en vrijdom willen verdrukken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1130.s.5	hebben gei een ' aenslagh voor , hebben kunnen uw niet gelukken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1134.s.1	Hoe luiden de graeven vloek , die ik uw wel verstaan ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1143.s.1	die al heilige toorn en eeuwig ongenade allee niet treffen zullen doen kind , en de vader , nul gruwel !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1143.s.2	mare hij moeten mede Judas , god verrader , mede Lucifer en al zijn engel vergaan , En schaamrood en verdoemen voor jezus vierschaar staan .	BodilyProcess_Shame
+vond001gysb04_01.TEI.2.text.body.div.sp.1143.s.3	het zijn schrikkelijk , beginnen u harden nog niet te beven ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1147.s.1	Ja het klooster hebben die vloeken de lantsheer voorschrijven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1153.s.1	hebben zijde daar met zo het willen , ik openen nu geren poort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1153.s.2	het zijn kerstmis ; het klooster vuren god vrolijk boren ; doen hoog feest vinden het jaar ; dus laat deze werreck steken .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1161.s.1	Katuizerbroer , hier geld geren prevelen , nog preken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1161.s.2	bewilligen ik verzoek , en staan ik bede toen , Of ander lijden die ik hebben ongebeden doen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1161.s.3	doen tijd verlopen , het zijn spade : daar komen ik soldaat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1166.s.1	ik troosten ik eer doen dood , dan ik deze toen zullen laten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1166.s.2	Wat wild gij het hels vieren op uw hals laen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1171.s.1	voor mennen , vaart vrijen voor , en steken hebben klooster aen : het zijn kouten , zo mogen wie wij bij doen kool warm .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1178.s.1	Och maarschalk , houden gemak : och wild uw tocht ontfermen hebben zijn geren Kristen mens die branden in klooster stichten .	Emotion_EmotionalAction_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.1178.s.2	Al wat hebben Godtshuis hebben , huisvesting , vieren en liggen , En spijs , en drank , hebben zijn voor het krijgsvolk al te besteden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1182.s.1	Nu mennen , trekken vrijen in : trekken voor , ik blijven doen lest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1184.s.1	Vosmeer : Willem vinden Egmont ,	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1188.s.1	ik komen al heimelijk zwemmen door doen gracht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1188.s.2	waar sammelt Egmont nu ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1188.s.3	hij zij ik hier verwachten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1188.s.4	het zijn donker .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1188.s.5	ik zijn natten , en klippertant vinden koude .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1193.s.1	Wel waar of Vosmeer blijven , wij afscheid wassen , hij zij verzekeren op deze uur alhier zien laat vinden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1198.s.1	Hier zijn doen manna al zelf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1198.s.2	wij zien durven onderwinden Een ' aenslagh , vol gevaar , moeten pas op zijn tijd .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1204.s.1	wezen welkom , braaf barsten , nu blijken hebben , datge zijn Een krijgsman , op wie woord ik wel een kerk mogen bouwe .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1204.s.2	Hoe hebben gei het mede de heer vinden Aemstel al brouwen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.1	zo geestig , dat'er niets aen deze aenslagh falen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.2	doen burgerij hebben zelf hebben zeepaard inhalen , mede zang en triomf , alles die vinden Troje doen .	Joy_Emotion_EmotionalAction_Pride
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.3	ik sturen en houden hebben roeren : mare het oorloghsvolck , beneden In het schip , lopen groots gevaar .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.4	doen bodem slorpte het natten , Door het stoten op een ' paal , waar door een ieder zitten In het water tot doen knie , en vrezen te verstikken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.5	hebben ongemak wassen groots , nog durven niemand kikken : Doch het lek geraken dichten , en stoppen wonderbaar vinden zelf , torn brengen doen hoest wij weder in gevaar ; Vermits ik het schor geluid bescheidelijck kennen horen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.6	hebben god niet zelf verdoofd de Aemsterdammers oor , wie waar vinden wij stemmen en eigen keel verraen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.7	ik geven ik zelf moed , en heffen een rustig aen Te zingen , die hebben klinken , schonen hart en nier krompen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.8	Dan trantelde ik vinden koude : dan vallen ik een aen het pomp .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.9	zo raken wie in stad , daar , alles een waterval , Al het volleck schieten na het schip , vinden straat en burgwal .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.10	doen geest vinden oud en jong door een scheiden uitspannen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.11	ik brengen hebben Vosmeer toen mede kroes en mede kan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.12	mare het zagh'er deerlijk uiten , torn Gysbrecht laten gebieden , ik zij doen naast poort en het slot vinden rijzen verzien : wan door hebben langen beleg , en door doen koud dag wassen al doen turf verbranden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.13	ik holpze rustig dragen , En scheiden doen gaeust vinden al , in het bangste vinden die node : wan hebben hebben langen geduurt , doen zolder waar ontbloten , waar onder het krijgsvolk lach duiken in zijn liggen ; Doch d'avont vallen helen korten , en ik beginnen te klagen , En hielme gans vermoeien , en roepen : vinden daeg genoeg Geslaeft ; ik vallen aen't werken , na'et hoogtijt , zijn morgen vragen .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.14	hebben wachthuis zijn verzien .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.15	hebben zijn nu tijd vinden vier , na die gei vinden de schrikken de hollands banier genadig zijn verlossen , en ick'er het lijf af brengen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.16	ik schonckze vrijen gelag , en gafze geld .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.17	ik zoeken , Geveinft de arbeid om het hoogtijd uiten te stillen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.18	doen tijd gehengt nu niet uw al te vertellen : Hoe zorghlijck hebben in het schip en onder het krijgsvolk staan , En elk verschelen , en wat een ieder raetzaemst vinden ; Hoe ickze menigmaal mede dreigen helpen aen het zwijgen , En konze , om het leven zelf niet aen het bedaren krijgen : Hoe Arkel , helen verkouden , zijn eigen ponjaard bloot zetten hebben op de strot , en troosten zien doen dood , Om al zijn mackers niet door het hoest te verklikken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.19	Nu schort'er die wie elk wij werreck voor beschikken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.20	hebben zeepaard , zwanger vinden gewapend , zullen gaan In arbeiden , en vinden vracht , voor het opgaan vinden doen manen , Omtrent te middernacht , verlossen , alles doen kerk Op het hoogtijd zijn proppen vinden mens , die het niet merken : Dan zullen doen liggen in twee delen , eer het ymant horen , terstond vermeesteren doen Haerelemmer poort , En rammenze mede kracht : en ik , om uw te licht vinden ver ' , zullen dadelijk branden in het hol zeepaard stichteu , die mijden in doen stad bij d'andre schip liggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1268.s.1	doen maarschalk wachten op uw in het klooster , al bereit terstond mede duizend manna doen muur in te trek , En het leger liggen niet ver : ik gade hebben zij ontdekken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1272.s.1	En ik al weer na stad .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1272.s.2	nu veldheer , passen op het stuk .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1276.s.1	god geven die uw en ik deze aenslagh wel geluk .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1278.s.1	rijden vinden edelingen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.1	wie edelingen , blij vinden geest , te kerk gaan op het hoog feest de eest baren heiland groeten , En knielen voor doen klein voeren vinden het kind , waar voor Herodes vrezen : hebben kind waar voor een ster verrijzen , Die wijze mede haar straal wijzen doen donker plaats vinden zijn geboorte , En leitse in Davids oud poort , daar d'allerhooghste het laeghste prijzen .	Joy_Emotion_BodyPart
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.2	hebben oosten offeren wierook , goud , En bitter mirre .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.3	doen gaaf ontvouwen zijn kind godheid , priesterdom , vol waarde , En zijn sterflijckheit op d'aerde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.4	Hier liggen hij , die het al hebben bouwen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.5	het gevogelte , die op wiek zweven Zijn nest , doen vos zijn hol hebben , En wonen in berg , en in bos : Een stelen vinden ezelen en os de Schepper naeulyx herberg geven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.6	doen kribbe hij een wieg verstrekken , Die het aardrijk mede de hemel dekken , En elleck die bestellen zijn voeder .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.7	nul kind , gei zijn , gelijk u moer , mede plegen nog hoovaerdy bevlekken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.8	Hier voeren doen neergedaelde god doen trots wereld om mede spotten In zijn triomf , te smaad de hof .	Emotion_Pride
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.9	hebben nederig harden voeren hij na boven mede hij in het hooghgeboude slot .	BodyPart_Awe
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.10	Hier schuilen die goddelijk aengezicht , waar uiten doen zon scheppen haar liggen , En al ster glans , en lustre .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.11	Hier liggen hij zonder glans in het duister , Die englen tot zijn ' dienst verplichten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.12	de hemel rei wieg hij In slaap mede hun zoet stemmen , Die nooit vinden vaak en wassen beschieten , En wekken hebben hoofd vinden al groot , In het koningklijck Jerusalem .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.13	Augustus rijk verliezen zijn eer : doen rooms scepter reickt niet ver : hebben oogst versmaden latijns nemen : mare deze beheersen hebben al te zaemen , ook daar doen zon nemen haar ' kaar .	Honor_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.14	doen hemel het aardrijk en doen hal Scherp luisteren na zijn bevel , En siddren voor doen zuiver weten , Die hij door visser laat trompet , En blazen over duin en del .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.15	doen doek , daar deze kind in liggen zijn het purper vinden zijn majesteit , waar in doen herder hij aanschouwen , die god doen ziel komen vertrouwen , gelijk vinden oud wassen toegezeit : die god zijn kudde weide zullen , En hoed voor ramp en ongeval , En na hebben afgedwaelde vragen , die schaap op zijn schouder dragen mede vreugde bij het overig getal .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.16	Hier zijn doen wijsheid ongeacht : Hier gelden geren adel , staat , nog plegen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.17	doen hemel hebben hebben kleed verkiezen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.18	Al wij door ootmoed worden herboren , zijn vinden hebben hemels slachten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.19	gei die de vorstin hart liggen , gelijk een beek , en schiften en scheit hebben liggen vinden dik duisternis ; laat de tiran zijn ' aenslagh mis , Die de onnozel liggen liggen .	None
+vond001gysb04_01.TEI.2.text.body.div.head.1353.s.1	hebben derde bedrijf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1355.s.1	Badeloch .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1355.s.2	Gys breght vinden Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1355.s.3	Heer Peter .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1355.s.4	Bontgenoten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1355.s.5	Arend vinden Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1363.s.1	ik trek zo dra niet aen ik besteden en hooghtijts kleed , Om in doen kerk mede al doen stad te triomferen Voor god , die het leger drijven vinden d'aengevochte waal , En zien vernederen komen in Bethlems arm stelen , Of raken in een stoel aen het sluimeren en droom , En zijn benauwen en bang uiten mijn slaap komen ; gelijk doen dauw tuigen , die op ik kaak liggen .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1370.s.1	ik half ziel , wat's deze ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1370.s.2	hoe zietge zo beschreit ?	BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1370.s.3	Wat nevel vinden verdrieten bezwalckt u blinken oog , En hebben de hemel vinden u aanschijn dus betogen ?	Emotion_BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1370.s.4	Nu zijn rusten , en zeg , wat zijn hebben die uw smarten ?	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1372.s.1	baden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1376.s.1	ik liggen , helaas , ik liggen een zwarigheid op het harden .	HeavyHeartedness_BodyPart_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.1376.s.2	ik hebben in mijn slaap iets schrickelijx vernemen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1376.s.3	Een dromen bezwaren ik harden : gezicht doenme schromen .	HeavyHeartedness_BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1380.s.1	doen droom zijn bedroch : gei vrezen uiten misverstand .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.1	Nicht Machtelt , dochtme , staan voor mijn ledikant bedrukken , en in die schijn , waar in zijde bij haar leven ik dik haar hartewee te kennen plegen te geven , Toenze in haar traan smelten , en , vinden geduld beroven , doen hand deerlijk wringen , hebben haar trek uiten haar hoofd , doen blank borst krabben , en scheuren het kleed aen flard , En zien begruist vinden stof , zo die ik het nauw kennen hard , nog horen al het gekerm , en jammerlijk misbaar , nog het schelden op de graaf , voor schelm , geweldenaar , Verkrachter vinden een vrouw , zo kuis , zo welgeboren .	HeavyHeartedness_Emotion_EmotionalAction_BodyPart_BodilyProcess_Sadness_Despair_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.2	helaas !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.3	zijde komen ik niet in die stallen te voorn , gelijk haar zuiver ziel , vinden droefheid afgepijnt In het leven , nu voor god en d'engelen verschijnen , mede een pallemtack in haar sneeuwwit hand , En in hebben sneeuwit kleed , en oog , die nu brand In het hemels paradijs , alles ster aen doen luchten .	Emotion_Happiness_BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.4	ik sprackze al schreien aen , naar een diep zuchten : nul adelijcke spruiten vinden het hoog huis te woord , Om welk ongelijk doen held oorlog voeren , die oorlog , het welk , naar die gei in de heemel trockt , zo onverzoenelijck tot nog toen smoken , en wrokken ; Wat oorzaak drijven uw hier op ongerust pad ?	EmotionalAction_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.5	Of komtge om ons willen , mede zwarigheid beladen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.6	Om d'uwen bij te staan , in het kommerlijk beleg ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.7	Nicht Machtelt , het zijn vergeefs : doen vijand zijn weg .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.8	Wat treurtge ?	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.9	wie zijn vrijen vinden liggen , vinden bespringen : Dus helpen wij nu om oog bij god triomf zingen .	Joy_Emotion_EmotionalAction_Pride
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.10	Omring u hoofd mede liggen , in stede vinden lauwerkrans , En liggen de englen rijden mede vrolijckheit te dans .	Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.11	zijde schudden het hoofd , en scheiden vinden gramschap te veranderen In het aengezicht , en slaan doen hand vinden elkander , En stenen , en zuchten zwaar , en barsten in het einde dus uiten , mare mede een hees keel en dof en schor geluid : onnozel , zijtge nu vinden vijand ontslaan ?	Emotion_EmotionalAction_BodyPart_BodilyProcess_Despair_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.12	En slaeptge zo rusten ?	Aquiescence_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.13	en vreestge niemand liggen ?	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.14	daar gei , om mijn willen , op het alleruiterst zijn , En naast aen uw vallen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.15	op op , hebben zijn geren tijd vinden slapen : hebben zijn tijd na ander gewest Te vlijen vinden deze huis .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.16	doen vijand hebben doen vasten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.17	doen zeestadt staat in branden : hebben zijn mede haar gedaan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.18	Oom Gijsbreght hebben vergeefs zijn burger voorstaan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.19	geren tegenworstelen nog strijd mogen uw baten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.20	god heilige aanzien kerk en outers langen verlaat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.21	Op op , berg Gozewijn , voor al ik enig panden , Klaris , ik eigen harden , eer het heilig klooster branden ' , Eer enig booswicht haar mishandele en misbruicke , na zijn ' vervloekt lusten , en zijde haar oog luicke .	BodyPart_BodilyProcess_Shame
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.22	Al zjjn doen straat dichten bezetten , en nauw bewaren ; ik zullen Gijsbreght , ongequetst vinden spiets of enig zwaard , En , zonder een nop vinden het kleed door het vieren te zeng , Geleiden , en gezond op deze drempel brengen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.23	verlaat dan fluks deze slot : steken af , op god genade , En geven uw zeewaert in .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.24	voor , voor , eer het worden te spade .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.25	Al d ' englen zullen uw voor storm en voor strand Behoeden , die doen vlieden behoudens mogen belanden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.26	gedenken een welk een schrikken ik slaeprigh harden bevangen .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.27	ik haar die rijzen te berg , en aen een ieder hangen Een druppel nat : hebben zweten beginnen ik uiten te breken .	Fear_BodyPart_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.28	ik lijf wereld kil , alles ijs : ik wouw , en kosten niet spreken , En schieten uiten mijn dromen , al beven en bevreesd , grijpen toen , en zoeken vergeefs t'omhelzen haar geest , Die door ik arm druipen , en wechstoof uiten ik oog , En lietme helen verbaasd , en vinden hebben spook bedriegen .	Fear_Emotion_EmotionalAction_BodyPart_BodilyProcess_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.29	deze zijn hebben datme storen , en in doen zin spelen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1453.s.1	het zijn louter ijdelheid , die zien hebben brein verbeelden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1458.s.1	Och of hebben ijdel waar !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1458.s.2	ik hebben ik uur verslapen , Om na doen kerk te gaan . het zijn spade .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1460.s.1	Pe .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1462.s.1	Wapen , wapen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1467.s.1	beschermen wij , goed god : behoe wij voor gevaar .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1467.s.2	ik horen onraad .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1467.s.3	och ik zorg ik dromen zijn al te waar :	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1472.s.1	Heer Peter , wel hoe dus ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1472.s.2	wat porren uw zo te roep ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1472.s.3	Wat jagen uw hier bij nacht ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1477.s.1	god lof , die ik doen troep de vijand zijn ontvloon , te dood toen afmatten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1481.s.1	Wat vijand ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1481.s.2	hoe ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1481.s.3	gij razen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.1	doen vijand zijn in stad .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.2	hebben zijn mede Amsterdam en mede zijn hoog wal gedaan : zijde zijn doen wraak in het einde te buiten geval .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.3	doen gruwelijk Reus hebben een poort vermannen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.4	hebben zeepaard lust zijn vracht , en Vosmeer stichten de branden , In het branden vinden het gevecht , mede schimpen en braveren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.5	doen wachter vechten flauw , en zieden heen niet te karn .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.6	hebben leger trekken vasten in mede duizend , een macht zo groots alles Waterlant nog ooit te vellen brengen , En Kennemer , en fries , en Zeeu en Hollant t ' zaemen , mede al die , op wij bijten , herwaarts komen .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.7	doen kerstnacht hebben dienen tot deze verraeders werk , bestaan voor maeneschijn , torn het volleck in doen kerk mede offeren bezig wassen , en zingen in doen koren ; Terwijl doen stad , volvreught , alles Christus scheiden herboren , wie weder uiten doen muil de bleek dood verlossen .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.8	Vergeefs hebben deze beleg uw zo velen zweten kosten , En bloed en arrebeyt , nu al lopen verliezen .	Fear_BodyPart
+vond001gysb04_01.TEI.2.text.body.div.sp.1508.s.1	ik zullen terstond om oog gaan zieden vinden Schreiers torn .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1508.s.2	gei dienaers , brengen ik ' helm en harnas bij de hand .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.1	helaas wat goed ik aen , in deze droef stand !	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.2	zijn die triomf ?	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.3	heten die zijn vijand verjagen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.4	Nu kennen ik Haerlem eest : nu blijk Egmonts liggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.5	Nu lachenze om ik stad , zo langen vinden zij benijden .	Emotion_Envy
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.6	ik goed vroom manna goed kwijnen , en verbijten Zijn leed de dag , en brengen doen nacht door mede waken .	Aquiescence_Emotion_EmotionalAction_BodilyProcess_Sadness_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.7	ik vinden hij menigmaal mede traan op doen kaak : En vraag ik wat hij deren : hij zuchten , en antwoord niet , En kroppen zijn hartewee , verdubbelen ik verdrieten .	Emotion_EmotionalAction_BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.8	Hoe velen gelukkig zijn arm en slechten dorp , En hut liggen bouwen , minnen storm onderwerpen Dan enig herenhuis , die door het geboomte steken , En daar hebben bulderen de wind zijn kracht op breken .	Emotion_Happiness
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.9	weten hier vinden enig mens , ik weet'er vinden te spreken : alles ik de gans tijd ik leven overreken , vinden mijn bruiloft af , vinden die ik zitten verloofd : Wat storm waeiden ik niet sedert over het hoofd ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.10	Wat torn zijn zo oog , vinden waar ik oog doen baar , doen zee kunnen overzien vinden al ik wedervaren ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.11	En wij zien nog hebben einde vinden die beginnen strijd ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.12	Hier met gade ik mijn'man , naast god ik toevlucht , kwijt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1536.s.1	geduld mevrouw , geduld ; god proeven zijn uitverkoren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.1	ik kunnen bescheielijck en klaar het geklicklack horen En rammelen vinden het staal : het geluid komen dicht bij .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.2	doen schip brand al , en schitteren in het ij , En in doen Diemermeer en al burgwal .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.3	ik zien hebben groots gebouw , Jan wit gevel , val : hebben naast huis daar aen staat reden in licht branden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.4	doen klokken klep vasten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.5	doen heel waterkant zijn al in reppen en roeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.6	hebben bloedig zwaard goed weiden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.7	ik steeckt'er doen trompetten : ik horen doen mens schreien .	BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.8	brengen hier ik harnas .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.9	voor dienaers , schacht geweer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.10	Al wij in het harnas sterven , die sterven mede krijghsmans eer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.11	waar vriend in de node ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.12	waar zijn wij bondgenoot ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1561.s.1	Voor het huis vergaderen doen treflycksten , doen groot ; Heer Heemskerck , die vol vuur om uw zuster komen , Oudshoren , en Polaen , hoe grijs hij zijn en stram , Heer zweten , Teilingen , en Waermont , en u broeder , En Kuick , en Kraienhorst .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1561.s.2	geren leeuw zijn verwoed , Om aen te gaan op roven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1565.s.1	ik roepen ' heen voor de dag .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1567.s.1	bonten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1570.s.1	ik heer , het zijn vechten tijd , zo vechten helpen mogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1570.s.2	wie zijn troosten mede uw te leven en te sterven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1579.s.1	gei zullen in eeuwigheid bij god u lot verwerven , Voor deze trouw dienst , in mijn lest node .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1579.s.2	gei zien hier ander niet voor oog dan doen dood : Doch zooge zijn zinnen de vijand te verletten , zo velen wij mooghlijck zijde , en het leven op te zet bij stad en burgerij , zo volghtme : die zijn uw voor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1583.s.1	wie volgen algelijk , en houwen het zelf spoor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1587.s.1	beschermen ik ' lief manna , die bidden ik , vrome heer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1591.s.1	Mevrouw , betroume vrijen , ik zullen zonder hij niet karn .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1593.s.1	rijden vinden Klaerissen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.1	OKersnacht , schoon dan doen dag , Hoe kunnen Herodes het liggen verdragen , die in u duisternis blinken , En worden vuren , en aanbidden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.2	Zijn hooghmoedt luisteren na geren rijden , Hoe schelden die in zijn oor klinken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.3	hij pogen onnozel te vernielen , Door het moord vinden onnozel ziel , En wekken een stad - en lantgeschrey , In Bethlehem , eu op de akker , En maken de geest vinden Rachel wakker , Die waar goed door beemd en wei : Dan na hebben west , dan na het oosten .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.4	wij zullen die droef moer troost , Nu zijde haar lief kind durven ?	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.5	Nu zijde zij zien in het bloed versmoren , vergaan , die nauwelijks zijn baren , En zo velen zwaard rood verven ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.6	zijde zien doen melleck op doen tip vinden die besterven en bleek lip , rukken nog vers vinden moeder barsten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.7	zijde zien doen teder traentjes hangen , alles dauw , aen druppel op doen wang : zijde zietze vuil vinden bloed bemorsen .	BodyPart_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.8	doen winckbraeu dekken nu mede zijn booghjes Gelokene en geren lachen ooghjes , Die stralen tot in zijn moeder harden , alles ster , die mede haar gewemel hebben aanschijn scheppen tot een ' hemel , Eer het mede een mest betrekken wereld .	Joy_Emotion_BodyPart_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.9	wij kunnen d'elende en jammer noemen , En tal zo velen jong bloem , Die vroeg verwelckten , eerze nog haar fris blaar ontluiken , En liefelijk voor ieder ruiken , En zijn morgen drinken het eerst zeug ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.10	zo vellen doen zicht doen korenairen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.11	zo schudden een bui doen groen blad , Wanneer hebben stormen in het wild woud .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.12	Wat kunnen doen blind staetzucht brouwen , Wanneerze razen uiten misvertrouwen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.13	Wat luiden zo schendig die haar rout !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.14	bedrukt Rachel , staken deze waar : u kind sterven martelaar , En eersteling vinden hebben zaad , die uiten u bloed beginnen te groeien , En heerlijk tot god eer zullen bloeien , En door geren tirannie vergaan	None
+vond001gysb04_01.TEI.2.text.body.div.head.1646.s.1	hebben vieren bedrijf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1648.s.1	Gozewijn vinden Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1648.s.2	Klaeris vinden Velzen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1648.s.4	Gysbreght vinden Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.1	hebben lopen mede Amsterdam , gelijk gei horen , te eend , En wie verwachten delen aen d'algemeene ellende , het En zijde die elk vinden wij zien daetelijck verzien .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.2	Voor ik , ik zijn oud en traag : ik voegen niet die ik vlieden ; zo veel moeite zijn deze leven ik niet waardig .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.3	believen hebben god , hij komen '; zijn dienaer staat al vaardig : hij halen ik in zijn ' tronen en aengenaeme rusten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.4	mare gei , ik dochter , wieden hebben leven goed lusten , En in hebben bloeienst zijn vinden uw jong jaar , zetten gei het op vlucht aen , of jezus uw wouw sparen , En helpen in de node .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.5	Klaerisse , rein maagd , Die t ' onrecht nog de haten vinden vader Velzen dragen , begeven uw op doen vlucht : al d'andren zullen volgen .	Emotion_Hatred
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.6	doen vijand , blind vinden wraak , zijn bitter , en verbolgen , En allermeest op uw , o moer , vlucht voorheen .	Offended_Emotion_BodilyProcess_Vindictiveness_Spitefulness
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.7	ik helpen uw in die node mede traan , en gebeen , En volgen uw mede ik harden , daar ik geren voeren brengen .	BodyPart_Love_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.8	gade hene , Machtels kind , of god hebben wouw gehengen die gei bergen wereld : ik zijn meest mede uw begaan .	Worry_Emotion_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1670.s.1	Kla .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.1	Och , vader Gozewijn !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.2	waar zietge ik voor aen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.3	zo ik uw dus begeven , hoe zij die ik betamen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.4	gei zijn ik maagschap tocht , na vlees en geest te zaemen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.5	zij ik uw hier allee verlaten tot een ' roos , Die ik een vader strekken , en het christelijk geloven In het hart prenten , vroeg vinden kind been af herbaerde , de geest versterken , en het lijf in reinigheit bewaren ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.6	ik verlaat uw nimmermeer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1681.s.1	rijden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1683.s.1	deze outer zijn wij wijken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1685.s.1	god .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.1	nul edel maeghdeke , hoe zijtge zo gelijk vinden aard die klaar zelf , na wieden gei heten Klaerisse ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.2	waar vinden ik onderscheid in deze gelijkenis ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.3	torn het Sarazijnsche heir vermeesterde al doen stad daar sint klaar wassen , hoe droeghze zien ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.4	zijde treden grootmoedig in doen poort vinden het klooster , daar wonen : En zien de vijand weg , zo ras hij zien vertonen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.5	haar moed , haar sterk geloven , en ijverig gebed verstrekken haar een zwaard , en harnas , en helmet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.6	gei mogen dan , nu gei hebben die zelf gedachte , mede ik , voor deze altaar , doen vijand verwachten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.7	mare treckme ( die ik dood zijde ver ' vinden schande en smaad ) eest aen deze stram lijf ik staetighste gewaad , gelijk een Bisschop voegen , eer krijgslien wij verrassen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.8	zetten ik de mijter op : hij zullen niet kwalijk pas Op mjjn gezalfde kruin .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.9	brengen hier de gouden ring , En steken aen deze hand , die beven , de vingerlingk , daar ik doen bruid van stichten , doen rooms kerk , met trouwen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.10	geven ik de herdersstaf , tot steunssel vinden mijn oud , Daar ik god kudde met hoeden hebben , en geweit : ik hebben nooit doen teken vinden hebben Bisdom afleggen mede willen , mare door bedwangk : al leven ik alles bannen ; Al ruimen ik Henrick plaats , en Willem , en twee jan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.11	En het waar een klein verliezen , al hebben ik ik verkorten In nader en eer , wassen slechts geren Christensch bloed storten , En zo velen zaets vertreden vinden mens - en paardenvoet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.12	mos niet onschuldig volk doen schuld de heer boete ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.13	Nu kind , zetten uw hier , en die een ieder non mede ik de lofzang zingen vinden oude Simeon .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1732.s.1	vergunnen , o god op zijn bede , na u beloven , u ' knechten verlof ; Op die hij reis in rusten en wreed Om oog na het hemels vredehof : naardien ik mede mijn eigen oog de algemeen heiland zien , Die alles een zinnen schijnen uiten de hogen ; daar ieder zien in verblijden mogen : Een schoon zinnen , die mede haar straal hebben blind Heidendom verlichten , En Jakobs huis en Isrels palen verheerlijken , en nog velen vast stichten .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.1	die god uw al spaere , zijn het hier nog tijd vinden zingen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.2	doen vijand zackt vasten neder , om het klooster te bespringen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.3	Oom Gozewijn , komen hier : gei zijn stockout en traag ; Gedoogh die ik uw op ik beide schouder draegh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.4	Klaerisse nicht , gei zullen ik volgen mede deze rei , waar god , of het god geluk wij al willen geleien .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.5	Nu vader , volgen ik ' raad .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.6	doen vijand woeden en razen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.7	wij het leven berg willen , die berg hebben in de haasten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1747.s.1	gemak , ik trouwen neef , gei mogen deze moeite durven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1751.s.1	wie zijn alleens zinnen , en wel troosten te sterven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.1	Hoe nu ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.2	hebben god ik dan , door water en door vieren , Door spiets en zwaard redden , en menig blank rapier , die ik de Bisschop nog voor het outer zij zieden slachten , En in hebben lauw bloed doen nonnekens verkrachten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.3	die worden nimmer waar .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.4	o goddelijk slachten !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.5	Nicht Machtels geest verscheiden ik lief deze nacht : Een stemmen belasten ik haar kind en oom te berg .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.6	haar schimme woerd om uw : en moeten ik het uw nog vergen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.7	En maecktge zelf u ziel nog schuldig aen die mogen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.8	doen krijgslien zijn niet ver ' vinden deze kloosterpoort , Die liggen mede een slag te aarde neerwerpen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.9	deze godtgewijde vloer zullen het kuis bloed haasten slurp .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.10	hebben krijgsvolck naderen vasten , ik horen hebben aen het gedruis .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.11	ik bidden om zijnent willen , die levendig aen het kruis Om wij nagelen hangen , voor Sions wreed muur : ik bidden uw om zijn hant-en voet-en hartquetsuuren , En om doen doorn kroon , die het hoofd verpletten en brak , En om doen scherp spiets , die in zijn zijden steken ; Vergunme deze troosten , in zo velen zwaericheden , die ik u leven berg : o vader ; die ik heden onschuldig blijven mogen aen uw al bloed .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.12	deze enig zijn ik wensen : en kunnen ik u gemoed Door smeken nog gebeen nog bitter traan buigen ; zo nemen ik god en al zijn heilige tot getuige , die generlei gevaar , nog zelf doen fel dood , ik hinderden u lijf te berg in de node .	EmotionalAction_BodyPart_Sadness_Desire_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.1	gei hebben godvruchtig , neef , uw nevens wij kwijten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.2	wie zullen het nog voor god nog engel vergeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.3	de groot god allee zijde eer in het hemelrijck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.4	wie bidden uw , staan op : gei doen wij ongelijk , die gei te aarde knielen voor sterfelijk mens .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.5	Hoe zij ik schoon dood naar ' et lang leven wensen , Dan hier voor martelaar , op deze heilig stede , Te offeren ik bloed , in het vierighst vinden ik bede , Op het allerhoogst feest vinden god geboortenisse !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.6	waar of doen dood vertrekken ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.7	ik hebben een rein gewis , En haken langen te gaan na al ziel goed ; Al sedert die ik uiten ik ' zetel wereld zetten , torn Uitrecht , die de vorst , gelijk zijn ' vader , eren , Door staetzucht opruien , ik wars de nek toekeerde : vinden die tijd wassen ik al deze lastig leven moede .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1805.s.1	daar zijn doen vijand zelf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1805.s.2	ik vliegen na boven toen , En zullen , zo langen ik mogen , doen kloosterpoort beschutten , Of mijn helpen nog kosten u leven onderstutten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1807.s.1	Badeloch : arend vinden Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1810.s.1	HEer broeder , wel wat zijn deze ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1810.s.2	hoe keertge dus allee !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1810.s.3	nul god , waar blijven ik heer ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1810.s.4	zijn hij blijven ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1814.s.1	Neen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1818.s.1	Wat tijding brengtge dan ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1818.s.2	zeg op , zijn hij blijven ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1822.s.1	ik laten hij voor het stadhuis gezond en nog in het leven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1827.s.2	waar mogen hij zijn , ik troosten , ik hopen , ik hoofd .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1827.s.3	En keertge zonder hij ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1827.s.4	deze hadge niet beloven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1831.s.1	verslaan uw niet , mare toeven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1831.s.2	gei zullen hij haasten aanschouwen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1837.s.1	die toeven valtme bang .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1837.s.2	och wassen hij slechts behouden , In het onweer , die doen staat in zee drijven zonder roeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1837.s.3	ik bidden , verhaelme tocht al wat uw wedervoer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.1	gei eisen een ' zwaar eisen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.2	wij zij daar niet voor gruwen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.3	hebben zullen wij hartewee en droefheid slechts vernieuwen .	Emotion_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.4	wij horen deze treurspel aen , die niet zijn traan laat ?	BodyPart_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.5	Al staan hier Grobber zelf , en het heilloos bastertzaet , hebben waar onmogelijck die hij deze horen kunnen , hebben zijn een nieuw slag in mijn vers wond .	BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.6	ook steeckenwe al bei nog mijden in de druk : En wacht op de slag vinden het uiterst ongeluk , te zijde hebben god verzien , en zetten doen wraak palen : Doch nu gei het zo begeren , horen toen , ik zullen het verhalen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.7	wie komen niet zo haasten omtrent de middeldam , daar wat vergaring wassen vinden burgren , ik vernemen , Hoe het intrekken heir doen nieuw zijden alreede Vermeestert hebben , hebben volk onnut weerstant doen ; Dies Gysbreght laten gebieden , ik zij in vaardigheid doen brug , daar doen stad zien rechte in het mijden scheit , Verbranden , en voor al de Middeldam bezet ; Om zijn vyants overkomst , waar het mooghlijck , te beletten , En die ik d'oude zijde mogen vrij voor gevaar , schonen of hebben krijgsvolk vinden doen nieuw meest waar .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.8	hij zelf wassen doen voorst , om elleck moed te geven , En gaan daar op mede wij na markt en raethuis streven , En brengen mede al zijn macht doen burger op doen been , Die rukken hier en daar vinden alleszins bij een .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.9	ik spannen keten , voor het haastig verrassen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.10	ik stoppen de toegang dichten mede zakken , kast , kas , En al wat ik ree kennen vinden bij de hand .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.11	torn vliegen wie mede hij te zaemen na de branden , Om , waar hebben mogelijck , daar orde op te stillen : mare lezen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.12	hebben wassen te spade .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.13	wat mond kunnen uw vertellen de zuur arbeid vinden deze naar nacht , En mede hoe groots een ' mogen die over worden brengen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.14	ik zien doen dood gestroit lang burgwal , en straat : geren ' kruiswegh , die niet dichten bezetten wassen vinden soldaat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.15	ik ziet'er alleszins verbaestheit , en ik horen zien mengen onder een bloetstorting , branden en mogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.16	doen groot aeloude stad , vermaard in oorelogen , zo scheeprijck , en voor wij zien zee en stroom buigen , de vreemd en nabuur , en rijk tot ontzag , goed plotselijck te grond , en zinken mede een slag .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.17	wie worp niet te minnen door wanhopen aengedreven , die menig graefsgezinde en Kermer kosten zijn leven : En het Amsterlantsche bloed en sneuvelen niet allee .	Emotion_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.18	doen lijk groeien aen , en liggen onder een , hebben aanzicht na doen straat keren , of op zij rug .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.19	doen kennis vinden de weg , vinden steeg , straat , brug , En stad gelegenheid , bij schijnen vinden doen manen , komen dapper wij te baten , en houden doen drom staan de vijand , die dik hebben zeeten op een lopen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.20	Dan ging'er een een door , en dan een venster openen , wie groeiden in getal en moed , en rukken voor , Of het mooghlijck hebben wezen doen Haerelemmer poort , Die overweldigen wassen , mede dood te verkroppen ; En weer mede kracht al wat in stede wassen uiten te klop ; mare komen veel te spade .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.21	doen nauw ontslippen wachten verhalen wij hoe alree doen voortoght mede doen kracht de ruitren binden wassen : wij zij daar tegen mogen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.22	En schonen ik hier en daar een brug hebben opgetogen , ik recht weinig uiten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.23	doen branden nemen ymmer toen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.24	d'Ontsteltheit wassen te groots .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.25	ik weten niet waar , of hoe .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.26	ik broeder , proost Willem , komen , laden onder arm mede overschot vinden het kruis de heilants : helpen beschermen wij hoofdkerk , rijk bouwen te eer vinden Katrijn , En jezus moer zelf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.27	o burger , bergen Kristijn , Heer Gysbreghts zuster tocht ; en naulyx kosten hij spreken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.28	ik hebze in het vrouwekoor al beven versteken , En raken naulyx uiten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.29	doen lantreus is'er voor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.30	ik horen zijn stemmen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.31	hij lopen mede boom op doen door .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.32	Om god willen , goed doen kerk op het hoog feest ontzetten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.33	wie schieten derwaarts aen , om het onheil te beletten , alles tijger , die , bij nacht vinden hongeren uitgejaeght , bijten zijn op roven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.34	wie vlieg onvertsaeght Door vieren en zwaard heen , om het al voor god te wagen : mare vinden voor wij komst doen kerckdeur opslaan , En horen een galmen , die uitberst over straat , En over al doen stad , en god voor het voorhoofd slaan , In zijn hogen tronen , alles eer doen kerk de jood .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.35	d ' Altaeren en hebben keur zijn ophopen mede dood .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.36	Wat bleef'er ongeschent !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.37	wat kreegh'er niet een ' krak !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.38	het vluchten volleck zitten op trans , gewelf , en dak , En bieden nog tegenweer , en kwetsen wij zelf mede steen En houden uiten misverstand .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.39	ik horen doen vrouw wenen , En kind , die vol schrikken krioelen hier en daar , doen binnetranssen lang .	Fear_Emotion_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.40	doen kaars op het altaar Zijn sommige blussen , en sommige die blaken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.41	doen kerreckschenners woeden , en pas wat te raken , En vechten om de buiten , en plunderen het al , ook zelf hebben Marianum , die te pronk hangen aen het gewelf , worden afrukken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.42	ik zetten in het glibberig bloed zijn stap .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.43	ik torst'er kelk uiten , kassuiffelen , en kap , Die stijf staan vinden gesteente , en parel en rood goud , Om het heerelijckst , alles het plegen , wanneer ik hoogtijd hout , En keur en outerkleen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.44	doen kerstnacht lach in stuk .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1940.s.1	Hoe gaan het uw mede Kristijn ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1940.s.2	hoe mos deze Gysbreght drukken !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.1	En ik : bedenck die een .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.2	hoe staat ik het schouwspel voor !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.3	ik sleipteze bij het haar uiten wij lievrouwe keur , Om arm dun en teder mede koorde stijf binden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.4	Hoe diep gaan deze in het harden , die na haar huwelijk staan !	BodyPart_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.5	Doch Heemskerck meest , die dol deze lang niet verdroegh , torn zijde naer's hemel tronen haar blaken oog slaan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.6	wie slot wij wel dichten , en volghden hij altzamen , En rucktenze uiten doen macht de knevelaar : daar op quaemen doen Gelderschen , doen Zeeu , doen fries en Kennemaer vinden alleszins te hopen , vol spijt , op het groots misbaar , En om d'ontruckte maagd : ik zagh'er zijn graeven zoon , ik zagh'er d'Egmonts zelf en Diedrick met zien toon Om het moedighste in die strijd , mede Grobber , hels vinden aard .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.7	doen wind bulderen zo , eer het bijster weer bedaard de winter , tegen een , en weten vinden geren strijken , En zet in gevaar doen dam en doen dijk , Door het pers vinden de vloed .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.8	doen vijand wereld te sterk , En groeien , en doen mede kracht wij deinzen uiten doen kerk , En wijken na de Dam , om vers te zijn stijven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.9	Neef Heemskerck hebben bij het keur alree de geest geven , Die ridderlijk held en eer vinden zijn ' stam .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.10	Polaenen viel'er bij , die hij te hulp komen , En niemand week in moed nog billijckheit vinden oordelen , En Kuick , hij zeer gelijk .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.11	hier hebben doen deugd geren voordeel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.12	hebben heiligdom vinden het kruis de proost doen weinig nut .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.13	geren stool beschutten hij , nog geren vierkant muts , nog geren godtvruchtigheit kennen jezus priester helpen , torn wie , o Willem broeder , u bloed niet mogen stelpen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.14	daar gei te sneuvlen quaemt , rechte over het oog altaar .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1980.s.1	Wat horen ik hier al leeds !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1980.s.2	hoe veel ik ik zo na !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1980.s.3	verhaal ik evenwel al d'overige ellende .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1980.s.4	het beginnen vernoeghtme niet : ik verlangen mede schrikken na het eend .	Fear_Emotion_Desire
+vond001gysb04_01.TEI.2.text.body.div.sp.1980.s.5	Hoe kosten ik droef manna zo scheiden vinden zijn bloed ?	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.1	In zo velen ramp houden hij al de zelf moed , En ijveren om de Dam te houwen onbezweecken , waar lang doen vijand zoeken geweldig in te breken : gelijk een waterstroom geweld baard op een sluis , En elk gehoor verdoofd mede ysselijck gedruis .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.2	doen deur kant zien geweldig tegen het wringen de springvloets ; voor een wijlen , tot die zijde openen spring , En geven het water ruimte , de springvloed vrijen tomen , Die winden dan vellen , en rukken doen wortel mede de bodem , En huis en hof om ver , en zetten doen laag land In een baar zee , mede groen en nieuw strand .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.3	Dus gaan het , naar die ik wel een helen uur langen de Dam Verdadight hebben , zo dra doen burgerij doen vlammen te daecke vinden doen kerk te hemel uitgeslaegen , En het heerlijk gebouw zien brand licht liggen , En horen het moortgeschrey de volx , die oud en jong vinden boven , om hebben vieren t'ontgaen , te bersten springen , Of in doen spiets vallen te aarde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.4	deze gezicht benemen zij al de moed .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.5	doen hels Grobber stichte mede een gewijd toorts de branden in het heilig dak .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.6	Hoe leed hebben god , die hij doen mogen niet eer en steken !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.7	torn wassen hebben elk voor zien , een ieder berg zijn leven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.8	ik broeder roepen , ik zij ik fluks op het slot begeven , En zijn gemalin en kind gade slaan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.9	hij zelf week op het stadhuis , en beven doen lest staan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.10	ik wereld op weg verletten , en komen de burcht bewaren , En hopen doen goed god zullen ik ' heer broeder sparen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2016.s.1	Een hoopelooze hopen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2016.s.2	och Gysbreght , lief heer , ik rekenen uw al dood , en zien uw nimmer weer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2018.s.1	rijden vinden Edelingen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.1	waar wereld oprechter trouwen Dan tussen manna en vrouw te wereld ooit vinden ?	Emotion_Loyalty
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.2	Twee ziel , gloeiend aen een gesmeet Of vasten schakelen en verbond In lief en leed .	BodyPart_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.3	doen bannen , die het hart binden de moer aen hebben kind , gebaard mede wede en smarten , Aen haar barsten mede melk voeden , zo langen dragen onder het hart , verbinden hebben bloed .	BodyPart_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.4	nog sterk binden doen bannen vinden het paar , door hand aen hand verknopen , om niet te scheiden , naar datze jaar langen paren Een kuis en vreedzaam leven leiden , gelijk vinden aard .	BodyPart_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.5	daar zo doen liefde vallen , smelten liefde ziel mede ziel , En harden mede harden te gader .	Emotion_BodyPart_BodilyProcess_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.6	Die liefde zijn sterk dan doen dood .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.7	geren liefde komen god liefde nader , nog zijn zo groots .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.8	geren water blussen deze vuur , hebben edelst , die natuur te wereld hebben ontsteken , deze zijn hebben krachtighste cement , die hart binden , alles muur breken Tot puin in het einde .	BodyPart_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.9	Door deze liefde treuren doen tortelduif , scheuren vinden heer beminnen tortel .	Emotion_Love_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.10	zijde jammeren op doen dor rank vinden een bodem , verdrogen vinden wortel , haar leven lang .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.11	zo treuren nu Aemstels vrouw , En smelten , alles sneeuw , vinden rouw Tot water en tot traan .	Emotion_EmotionalAction_BodyPart_BodilyProcess_Love_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.12	zijde rekenen Gysbrecht nu al dood , Die om zijn stad en onderdaenen Zicht geven te bloot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.13	nul god , vetlicht haar kruis , die zijde de held op het huis mede blijdschap mogen ontvangen , Die tussen hopen en vrees drijven , En zuchten , en uitzien mede verlangen waar Aemstel blijven .	Fear_Joy_Emotion_Hope_BodilyProcess_Desire_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2073.s.1	ik dunken ik horen gerucht : daar roepen een aen doen poort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2073.s.2	god lof , hebben zijn ik heer : ik hebben zijn stemmen horen .	None
+vond001gysb04_01.TEI.2.text.body.div.head.2075.s.1	hebben vijfde bedrijf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2077.s.1	Gysbreght vinden Aemstel Badeloch .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2077.s.2	bieden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2079.s.1	ik lief , hoe hebtge dus uw oog uitkrijten ?	BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2086.s.1	Nu gei behoudens zijn .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2086.s.2	zijn al ik leed vergeten , ik trouwen bruidegom , ik hoofd , ik troosten , ik schatten : Nu gei behoudens zijn , wat geven ik om doen stad , Om al hebben wereltsch goed !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2086.s.3	hoe zijtge hier komen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.1	naar die doen vijand nu de Dam hebben innemen , nemen ik en het overschot na het raethuis toen doen wijken , En houden hij staan mede kracht , alles water voor de dijk ; daar het lantvolck opgeklept zien zoeken bij nacht te redden , En brengen vasten zode aen , en steen , palen , bed , En bulsters , en al wat de zeedijck stut kunnen , waar die zijn doorgeweeckt ; en zweten mede al manna .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.2	die spijten de groot reus , die laten zien vreselijk horen , En steken mede hals en hoofd , gelijk een steil torn En spits , boven het volk en al hoofd uiten , En scheiden een olyfant , die omsnoft mede zijn ' snuiten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.3	Zijn spiets wassen een mast in zijn grof vinger .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.4	ik zien hij manna op manna gelijk konijn slinger Wel driemaal om zijn hoofd , vatten bij het een been , En kneuzen dan hebben hoofd op stoep of op stenen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.5	hij kunnen mede zijn polsen een ' burghwal over spring , hij proeven op grendel doen deugd de stalen kling , houwen fel mede een slag door ijzer en door staal , En proeven zijn beckeneel op poort vinden metalen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.6	hij scheiden een Polyfeem , hebben krijghsvolckscheen zijn kudde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.7	doen torn vinden het stadhuis bewegen zien en schudden , zode dik hij op een ' pos , of op de gevel stoten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.8	hij vrezen Herkles knots nog Samsons vuist niet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.9	doen Kermers volgen hij , en Noorderlantsche knecht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.10	ik voeren de stormbock aen : ik goed doen ladder recht , En klimmen , mede d'eene hand te gevel uitgestreckt , In d'ander mede de schillen , die hals en hoofd bedekken Voor een hagelbui vinden steen houden en pijl .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.11	wij jeugd , daar tegen aen , die wentelen heel stijl En eicke balleken , en uitlezen houden , En wat'er zijn vinden oud tot plegen en praal bouwen , vinden boven in de hopen ; en ofze luttel hoop , zo dienen hebben om zij huid te dier te verkopen , En burgemeester en raden voor te staan , Tot kwijting vinden de eed haar overheit gedaan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.12	ik ziet'er zelf hebben bloed de overheit verhit , En stijf doen menen : behalve die hier zetten Blootshooft , en half kleden , en zonder weder te bieden , vinden zwak ouderdom ; en durreven wel zieden zo eetelijck een dood kloeckhartigh onder oog ; En vechten mede zij harden , nu hand niet en mogen .	BodyPart_Dedication
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.13	Een delen de burgerij beneden mede hellebaerd En sabelen en spiets doen poort en muur bewaren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.14	ik stijgen de torn op , die boven het dak komen reizen , In het mijden vinden het stadhuis ; vinden waar ik uw kennen wijze doen tent om doen stad , en hoe al het leger lach , En vinden wie trans ik flauw de Dom vinden Uitrecht zien , bij klaar en helder weer . ik zien hier uiten hoeze strijden , En mede de storrembock doen poort geweld aen doen , En ramden reizen op reizen , verdadight door een dak vinden schild , dichten voegen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.15	doen door geven krak op krak .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.16	wie stellen fluks in het werk doen dissel , en doen bijl , En hieuwen in hebben rond in stuk al stijl , En stoten spits en al het gevaarte vinden boven af ; hebben welk een ' slag en rook doen merreckt over geven ; En maken een vreselijk log in zo velen ijzeren kop ; die ander terstond , voegen in orde , stop .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.17	terwijl steken doen kerk doen naast huis aen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.18	vinden daar beginnen doen vlammen in het leien dak te slaan vinden het raethuis , en doen rook en smoken verblind wij oog .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.19	doen poort bezwijken , hebben volk komen razend invliegen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.20	ik wassen al ik vriend kwijt , en staan verbaasd en stom .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2157.s.1	En zaegtge torn nog niet na vrouw en kind om ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.1	In die verbaestheit scheiden een nevel uiten de hogen En goddelijk glans te blinken voor ik oog , En uiten die helder wolk komen een stemmen voor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.2	ik hebben hebben liggen zien , en zelf doen stemmen horen : nul Gysbreght , laetge nu Klaeris u nicht verliggen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.3	mogen uw oom Gozewijn , die grijs , niet bewegen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.4	En steltge huis en vrouw en kind in gevaar ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.5	torn schrickte ik , en stijgen af , en pakken ik vinden daar , Door een ' verhalen gang , die uitkomen in een ' kelder .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.6	ik aanbidden hebben heilig liggen , die voor ik gaan zo helder .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.7	ik raken op straat , en komen in het klooster frank en vrijen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.8	mare niemand geven gehoor , nog luisteren na ik , Die tegen het ongeval nog roekeloos wouw wrijten , En boven op hebben dak ik in hebben uiterst kwijten : wan eer ik boven komen , lach poort en pos om ver : Dies glee ik bij een touwen in het kloosterschuitje neder , die juist nog achter lach , en ik voeren de Aemstel over .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.9	daar klimmen ik op een ' bodem , nu dor en zonder lover , En luisteren hoe het mede god klooster voor vergaan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.10	ik denken die ik het misbaar mede bei ik oor vangen , En zien , torn ik een pozen verbaasd hebben zetten pronk , Een ' dikken rook en smoken , en naar de rook doen vonk , ik horen paardenvolk , die lang doen Doelebrugh komen trappelen na wij toen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.11	ik voeren worden vlucht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.12	ik hebben , o groots verzuim , deze brug niet afgesmeeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.13	ik vloogh'er heen , en zoeken te stil die vasten kreeten , En geven zij moed , en wouw doen ruiter houwen staan : zijde zullen achter ik doen brug in stuk slaan , Of steken haar in branden : mare niemand durven het wagen .	EmotionalAction_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.14	ook zien ik d'oude zijde nu brand licht liggen ; Een voorbode vinden hebben geren wassen naderhand gebeuren , En die doen Middeldam alree mos zijn scheuren ; Dies geven ik het op , en voor doen gans stad te besteden , En waerschuwde ieder een , en gafme lang doen vest na het slot toen , mede een sleip vinden mens arm en rijk , Een ' troosteloozen hopen , die herwaarts nemen doen wijken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2199.s.1	Bo .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2202.s.1	mos ik de Bisschop nog zieden sterven en d'abdisse ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2202.s.2	Och vader Gozewijn !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2202.s.3	och , rein maagd Klaerisse !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2206.s.1	Hoe zijn hebben mogelijck die gei het hebben kunnen zieden ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.1	het zijn mooglijck , guntge ik die ik uw daar op die .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.2	torn Heemskerck Borsselen vellen hebben voor uw oog , lach het lijk te zijde het keur , in een hoek tijgen , naar die ik in de drang de vyants ik versteken , Mits gei te rug weeckt , en vielt die passen te zwak .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.3	zo dra ik , om de branden , doen groot kerk mos ruim , ontwapenen ik de dood , en zetten helm en pluim vinden Borsselen op het hoofd , en toog zijn rusting aen , En binden hebben zwaard op zijde , om in die schijn te gaan wij vijand bespien , en lid hoe ik het maken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.4	ik volgen Haemste naar , torn hij in het klooster raken , En vliegen doen kerckdeur in , daar Gozewijn nog zitten , In het mijden vinden de rijden , die even vurig bidden , En door een vasten geloven op god zo moedig steunen , die niemand zien hebben woeden de vijand bekreunen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.5	hij scheiden een zinnen gelijk , en zijde doen klaar manen ; Al d'andren ster , die mede vreugde te rei gaan , En juichen om deze twee , daar zijde haar ' glans uiten scheppen .	Joy_Emotion_EmotionalAction
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.6	ik zaghze naulyx iets dan kuis lip reppen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.7	mare Haemste vaart hij toen mede opstropen arm , bekladden en rood , en vinden Kristijnes bloed nog warm , En vatten hij bij de baard mede d'eene , mede de degen reden in d'andre hand , bebloet en bloot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.8	torn steeg doen non op , en geren , hoe liefelijk vinden gemoed , Die geren leeuwin gelijken , wanneerze brullen en woeden , Dewijl doen jaeger het nest willen plunderen en beroven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.9	zo komen oprecht trouwen en eedle gramschap boven .	Emotion_Loyalty_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.10	zijde worstelen een wijlen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.11	Klaeris zetten voeden bij voeden , Omarremt Gozewijn , omringen vinden haar stoot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.12	wij zij het godvruchtig hoofd een haar bezeren kunnen , omheinen meten een muur vinden godtverloofde non , strengelen arm in arm ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.13	o christelijk knoop !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.14	ik zien doen deugd zelf , geloven , en Liefde , en hopen , mede haar zuster , die tegen Ondeught strijd , En na doen zege staan door kruis en medelijden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.15	doen vijand staan versust , en deisde om deze zaak : mare het aenzien vinden Klaeris bewegen het harden tot wraak , En brengen hij in de zijn de mogen vinden zijn vader , En die zijde d'afkomst wassen vinden Velzen , de verrader .	Emotion_BodyPart_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.16	hij blaken , en krijgen een koorts , en door doen koorts dor na haar en Aemstels bloed , en stoten eest door doen barsten mede zijn ' bebloeden dolk dan d'eene non , dan d'andere .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.17	zijde vallen overhoop , en liggen bij elckandere In het rond , gelijk een krans vinden roos , witten en rood .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.18	torn staan Klaerisse daar bij Gozewijn , ontbloten vinden menschelijcke helpen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.19	gei zoudze bei zieden pronk , alles bloem op haar ' steel , in een beemd , verdrinken vinden een rood plas .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.20	d'een zuchten nog , en d'een vertrekken hebben hoofd , die arm , en deze nog haar been .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.21	Een ander hebben de geest zo daetelijck geven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.22	doen Bisschop .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.23	schonen hij staan op d'oevers vinden zijn leven , betomen zien niet een vinden gramschap en vinden rouw .	Emotion_Sadness_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.24	u vader liggen doen hand wel eerloos aen een vrouw , mare zuipen nooit vrouwenbloet , of zijn daar om lasteren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.25	Dus blijken hebben datge zijn een overwinnen bastaard , na lichaam en na geest ; nu gei u aard betoon Aen non , die altijd in het woeden zijn verschonen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.26	En d'ander antwoord hij : gei zullen deze eedle rei , alles bastertbisschop , dan gaan volgen , en geleien .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.27	Hardtneckige , liggen nu de vals mijter neder .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.28	zo spreken hebben bastertzaet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.29	en rukken hij om ver mede stoel mede al in het bloed : doen mijter viel'er met .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.30	Klaerisse viel'er bij , torn zijde haar besteden doen , En houden hij even sterk om zijn hals vatten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.31	En scheiden vormen albast , mede purper overspat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.32	hij duwde het bloedig zwaard in zijn grijs stram zijden , Tot aen het vergulden vesten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.33	zo zien ik eer , te tij vinden het blind Heidendom , voor het aansteken vieren , mede zijn priester mest kelen een wit offerstier , mede gild hoorn , en wie rug doen kransen dekken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2285.s.1	Hoe dragen Klaerisse zien ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.1	zijde helpen de degen trek uiten zijn oom wonden zijden , en zetten hij terstond de mijter op hebben hoofd , en kussen de bleken mond .	EmotionalAction_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.2	hij openen pijnelijck zijn halfgelokene oog , En zietze nog een aen , en schijnen mede haar bewegen , Die hij zijn oog luiken .	Emotion_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.3	hij geven de lest zuchten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.4	zijde vangen de vegen geest , en die benaude luchten , En zwijmen een pozen vinden druk .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.5	mare Haemstede , eerze weder bekomen , die worrept haar op het dood lichaam neder , En boet'er schendig met zijn ' godvergeten lusten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.6	z ' Ontwaeckt in het eend , en worden vinden het schellemstuck bewust , En roepen : ik bruidegom , zien neder hoe ik lei , En hoe ik ik schoffeert .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.7	o zuiver maagd Marije !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.8	nul klaar , aenschouwtge deze ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.9	vrouw Machtelt , zien u kind .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.10	doen booswicht slaan haar klacht en woord in de winden , gelijk een vogelen grijpen het gepiep de simpel duif , alles hy'er uiten doen vlucht een vasten krijgen in zijn kluif .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.11	gade hene , zeggen hij , klagen u moer uw smarten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.12	hij trappeltze op doen buik , en op het benaeude harden , die haar hebben bloed te neuzen en mond uiten komen vliegen , En zijde de de dootsnick geven , en sluiten die hemels oog , En uitging ofze slapen , in zijn bisschop openen arm .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2317.s.1	horen god dan lang niet hebben jammerlijk gekerm vinden zijn gewijd bruid ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2317.s.2	of lusten hebben hij doen boosheid Te stijf in haar kwaad , door zijn strafteloosheit ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2322.s.1	wassen torn zijn moed koelen vinden al schendery , En d'oude wrok paaien .	Emotion_Spitefulness
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.1	hebben bleef'er nog niet bij .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.2	Niet ver vinden het altaar , vereren mede rijk gaaf , staan een albaste tombe : in deze lach begraven hebben kostelijk gebeente en d'overheilige as vinden een ' , die om het geloven aen god martelen wassen ; daar mos doen snood schelm zien zelf nog aen wreken .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.3	het zijn wonder , alles god zwijgen , die dood niet en spreken , hij schonze , en sloegh'er aen zijn klauw , vuil vinden bloed , En brackze brullen op mede groot overmoed .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.4	terstond komen hij een geur en iets wat lieflijcks tegen : mare die verwaten mens , [ wat zij zijn harden bewegen ! ] vaart grimmig voor , en stroit doen been hier en daar , En smijten doen tombe in twee ; en breken het gewijd altaar , gebied terstond de branden in het kloosterdack te steken .	HeavyHeartedness_Emotion_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.5	hebben vieren nemen d'overhant , waar voor doen plondraers week .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.6	ik komen omtrent doen Beurs , te water uitbouwen , Nu half branden , en zien al het zilverwerck en goud , plunderen heiligdom , tapijt , en schildrijen , Scharlaken , en fluweel , lang heen doen gaelerijen werpen overhoop , daar Grobber houden doen wachten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.7	doen vlam spelen in het goud , en schitterde bij nacht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.8	ik zagh'er bij een schaarde vinden weduwe en wees , Bekreeten en bedrukken , en die nog erg vrees .	HeavyHeartedness_Emotion_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.9	zo raken ik onbekend door het krijgsvolk heen bij het slot , Tot berging vinden ik lijf . ik vertrouwen ik uw en god .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.10	doen winden steken op ; ik horen hij in doen vlam bruisen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.11	Een zee vinden gloed verdrinken al d'overige huis .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.12	doen burcht liggen lassen . het waar goed die gij een ' uitval doen , En dan doen brug afbraeckt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2359.s.1	ik broeder staat reden	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2361.s.2	arend vinden Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.1	WAt zieden wij te moeten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.2	doen burghzaet komen vlieden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.3	ik manna lopen weer te rug , en zoeken vasten bij doen dood Zijn ' broeder , die hij mest , en al te trouwen beminnen , En niet verlaten zullen , het en zijde die hij hij vinden , En levendig of dood mogen toorts op de rug , In het uiterst gevaar .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.4	daar sloopenze doen brug .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.6	wat goed ik aen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.7	waar vinden ik mijn heer ;	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2373.s.1	Och , broeder , laetme lossen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2377.s.1	Hoe zijn het ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2381.s.1	Ik kunnen niet meer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2385.s.1	Hoe zijn hebben , arend broeder ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2389.s.1	Nu doen wij enig tekenen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.1	ik zijn de ademen kwijt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.2	ik kunnen niet lang spreken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.3	ik harden bezwijken door het bloeden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.4	ik hebben ik plegen voldaan , ik vaderlijk stad te eend voorstaan , na die ik hebben zo langen in ballingschap zwerven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.5	Heer broeder , ik nemen verlof , en alles ik zijn sterven zo voeren , indienge moeten verlaten deze plaats , ik lijk mede uw , op die doen wraaklust de soldaets hebben niet onteere , en gunnen hebben een gewijd stad .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.6	gedenken ik ziel voor god , o priester , in u bede .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.7	ik schey , ik zwijmen , ik sterven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.8	ik tijd zijn hier wezen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.9	Och vriend , bidden voor ik , o god , ontvang ik ' geest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2407.s.1	hij zijn bericht , en hebben genade bij god verwerven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2413.s.1	hij zijn mede krijghsmans eer in het harnas sterven , En volgen zijn ' broeder Ot in het hemels vaderland , En triomferen bij god .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2417.s.1	gei mest u recht hand .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2420.s.1	R.v.E.	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2426.s.1	Nu zullen hij zien voortaan te uitval niet beledigen , nog het Vrelandsch slot nog deze mede zulk een ' moeten verdedigen , nog het amsterdams rechte beschutten mede zijn zwaard , En draven door hebben heir op een luid brieschend paren , Om prijzen en eer in het stof door zweten en bloed te winden .	Honor_Emotion_BodyPart
+vond001gysb04_01.TEI.2.text.body.div.sp.2430.s.1	ik trek het lichaam uiten : ik dragen ' de dood binden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2432.s.1	doen heer vinden voorn mede de trompetter .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2439.s.1	ik heer , u ongeluk zijn wij vinden hart leed .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2439.s.2	wie staan voor deze gracht tot storremen reden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2439.s.3	het waar tijd en meer dan tijd , die gei uw korten beraede , En gaeft hebben huis voor op , mede hoop vinden genadig , En schut d'ongena .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2439.s.4	ik eisen het in zijn graeven nader , Door veldheer Egmonds lassen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2445.s.1	gei eisen die ik het ik schaem .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2445.s.2	ik schey'er zo niet af , alles mede ik eigen leven , En eer ik sterref zullen nog menig mede ik sneven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2447.s.1	Vo .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2449.s.1	zijn het eer die een held zien zelf verreuckeloos ' ?	Honor_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2453.s.1	ik hout doen plaats op hopen .	Emotion_Hope
+vond001gysb04_01.TEI.2.text.body.div.sp.2458.s.1	Hier zijn geren hopen altoos .	Emotion_Hope
+vond001gysb04_01.TEI.2.text.body.div.sp.2458.s.2	mede houwen zijn hier niet mede al uiten te recht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2462.s.1	die mogen ik dan bezie .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2462.s.2	wie zullen ' er om vechten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2473.s.1	het wassen vechten tijd , eer nog doen vijand uw stad , doen poort , en doen veest geheel vermeestert hebben .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2473.s.2	torn al klokken branden en mogen en onraad kleppen , En burger en soldaat om het zeer zij hand reppen : Nu die verweldight zijn , hebben raethuis afbranden , En wat in het harnas blonck , sneuvelen en vermannen , zijn het al vergeefs hebben slot en overschot verdadight .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2473.s.3	Bera uw korten , gei worden misschien nog begenadigen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2477.s.1	het zijn ik gewoonte niet te bidden om genade .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2483.s.1	het zijn wijsheid die ik zien uiten node te buit gade , En zijn gewoonte staak , en stellen het gevaar voor oog .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2483.s.2	zijde kies het goed vinden twee , die goed niet en mogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2487.s.1	ik verwachten een uitkomst dan , en geven hebben op aen god .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2492.s.1	Wat uitkomst wachtge tocht ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2492.s.2	gei zullen terstond deze slot vinden al kant zieden beladdren , en bespringen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2499.s.1	ik zalme vinden hebben ij zo lichtelijk niet dwingen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2499.s.2	ik hebben nog over al velen vriend op ik hand .	BodyPart_Loyalty
+vond001gysb04_01.TEI.2.text.body.div.sp.2499.s.3	ik toeverlaat , naast god , zijn ij en waterkant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.1	Geloofme , ik zoek uw niet mede woord te versagen , gij zullen hebben vinden die kanten zo heerlijk op zieden dag , mede schuit zonder tal , eer uw doen zinnen beschijn ' .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.2	Wat riem voeren of zeel hebben admiraal Persijn beslaan in zijn ' dienst bij fries en Waterlanderen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.3	Al het omgelegen volk rukken haastig bij elckanderen , En trekken vasten op de branden vinden kerk en toren aen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.4	Hoe zijn hebben mogelijck die macht te weerstaan , mede zo een hand vol volx , die door doen nederlaegen de vers vernielen stad vol schrix zijn , en verslagen ?	Fear_Emotion_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.5	gei vielt , het zijn waar , vinden het slot op uw vijand uiten : Wat helpen het ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.6	ik drijven uw in .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.7	gei woerd zo korten stuiten , En keren op uw burcht mede roo bebloede kop , vinden vrees die ik uw de toegang toen mogen stop .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2523.s.1	ik ontvangen geren leed , allee ik boezem zien bemorsen vinden bloed , vermits een kade , slingeren lang ik barsten , hebben vellen hebben afgeschuurt , en effen het vlees wrijven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2523.s.2	geren dootschrick drijven wij meer dan wie wij zelf drijven .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2527.s.1	daar niet gewinnen worden zijn het ijdel die ik strijd .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2531.s.1	Een krijgsman winden genoeg , al winden hij niet dan tijd .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2535.s.1	het wassen raedzaemst bij verdrag , en niet uiten node geven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2541.s.1	ik moer leren ik , die ik geren ' raad zij leven mede vijand , waar vinden ik het erg moeten vermoeden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2541.s.2	ik heer , ik hebben u ' raad voor deze tijd niet vinden doel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2549.s.1	ik meester hart trekken na al braaf held , Die voor zij eer en erve zien vrome te weer stellen .	Honor_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2549.s.2	d'Onmatigheit vinden wraak , plegen naar Velzens dood , hebben Egmont nooit bestemmen , nog iemand schuld vergroten .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2549.s.3	ik kennen hij , alles ik zelf : hij minnen uw in het bijzonder .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.1	hij minnen ik , alles hebben blijken , en keren hebben bovenst onder .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.2	hij minnen ik averechts .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.3	zijn liefde staat wij die .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.4	wij hebben doen stad vernielen , verwoesten mede zwaard en vieren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.5	En al de nacht gewoedt , alles wild en uitgelaten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.6	wij stoppen de Aemstel toen mede dood ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.7	wij doen straat ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.8	waar zien ik niet doen vlammen vinden die gesticht branden ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.9	Wat grafstee , wat altaar , wat kerk hebben zijn rover hand verschonen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.10	wat heiligdom , kapel , klooster , non Zijn vinden die klauw niet geschantvleckt , en schenden ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.11	Op die ik niet en repp ' , hoe gruwzaam zijn soldaat Na'et schenden martlen durven de godtgewijden staat ; daar al doen volgend eeuw mede laster vinden zullen spreken , En die god streng rechten te zijner tijd willen wreken .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.1	deze , leed !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.2	wassen een nacht vol ramp , vol ongeval : mare die ik overste willen schuiven op de hals Al wat'er zijn misdoen bij krijgslien zonder orde , En die door geren gezag in tomen houwen worp bij die gelegenheid , die lijden doen rijden niet , nog leren d'ervarentheit , en zijn wel meer geschieden ; bijzonder daar hebben harden vinden wraaklust wassen bezitten .	Emotion_BodyPart_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.3	wij keren een ' dol leeuw , naar het breken vinden zijn keten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.4	hij volgen zijn ' wreed aard , en vliegen mede een lopen , En grabbelen blindelings de ree uiten de hopen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.5	Wanneer het verbolgen zwaard raken uit's krijgsmans schede , hebben keren ' er langzaam in , en achten gebod nog bede , zien vorst nog veldheer aen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.6	hebben zwaard , tergen vinden wraak En gramschap , vinden in het bloed de vyants zoet smaak .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.7	doen duisternis de nacht maken al dingen ook gruwelijk : Dan schijnen hebben , wat ik dag zien schamen zij , minnen schuwelijck , In deze bloetdronckenschap , en blind en dartel lusten , Die tot een vonxken toen al het liggen vinden rijden blussen , uiten tam mens scheppen onredelijk dier , ik moeten , ik willen of niet , dan het heir de teugel vier .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.8	ik meest torn hij eest voor uw vasten komen , wouw wel bemachtigen doen muur vinden Amsterdam , mare in de grond doen stad zo schendig te verdelgen , wassen nooit zijn witten , en het vallen hij bitter te verzwelgen : Hoewel hebben krijghsrecht hij verschonen ; hij vergen niet hebben uiterst vinden zijn rechte , en straffen nog mede verdrieten : zijn tot verzachting en verschoning meer genegen , Dan al te stijf te staan op het punten vinden zijn degen .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.9	verschonen u leven tocht , en gunnen deze eer aen ik .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2605.s.1	ik zijn mede een dood voor al ik leven vrijen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2605.s.2	vertrekken , en wachten uw ik meer tijding te brengen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2605.s.3	ik troosten ik al wat god uw toelaten te gehengen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2607.s.5	Adelgund .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2607.s.6	Veenerick .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2607.s.8	Rafael .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2622.s.1	wie gaaf voorn korten en duidelijck bescheid .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2622.s.2	gei horen , hoe het oorloghsvolck tot storm staat reden : waarom hebben nodig waar , eer zijde deze huis besluit vinden achter mede een vlieden vinden schip en vinden schuit , ik vinden onnut gezin , en die geren noodweer bieden , ontslaan , en mede doen bloem de mennen te voorzien , Die machtig zijn het geweld de vyants af te karn , hebben welk wij komen aen boren mede storrembrugh en leeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2622.s.3	ik lief , geven uw schip : al zijn hebben scheiden pijnen , het zijn nodig .	BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2622.s.4	Peter zullen u trouwen leidsman zijn , En deze vluchten volk en uw en uw kind Vervoeren na een wijken , daar niemand uw kunnen hinderen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2622.s.5	troosten uw daar een wijlen te wacht , tot die god wij weder t'zamenbrenge , en gunnen een goed loten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2633.s.1	helaas , wat gade ik aen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2633.s.2	wat komen ik weder over ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2633.s.3	waar zentge ik , ik lief , Persijn de groot rover u ' vijand in de mond , die op wij vlammen en loeren uiten Zwaenenburgh , daar hij de graeven vlaag voeren ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2633.s.4	het verdrieten hij zulk een slot en vast burcht te durven , Die ongerechte gift .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2633.s.5	u zaad , u wettig erf Te blussen in haar bloed , zijn al zijn wensen en witten , Op die hij onverlet volharde in het nieuw bezitten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2637.s.1	Mevrouw , zijn wel troosten : ik zullen uw zelf geleiden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2641.s.1	ik nemen oorlof mede een kussen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2646.s.1	ik zullen vinden het huis niet scheiden nog schip gaan zonder uw , ik heer , ik waarde manna .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2650.s.1	ik volgen uw eer gei het weten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2654.s.1	daar weetge luttel vinden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2659.s.1	doen stroom zijn wijd genoeg , al stoptmen deze have , Een schuit ontslippen hebben liggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2664.s.1	ik zullen uw hier begraven , Bestulpen onder het puin .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2664.s.2	ik zien deze huis in branden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2668.s.1	d'Onsterffelijcke god hebben al in zijn hand .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2673.s.1	Och , of doen goed god zien ik wouw ontfermen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2678.s.1	Mevrouw , betrouwen op hij : hij kunnen wij wel beschermen , En voeren zijn eigendom door water vieren en vlammen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2682.s.1	gelijk doen branden tuigen vinden het gloeien Amsterdam .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2686.s.1	het zijn zijn gehengenis .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2686.s.2	wij durven zien daar in mengen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2690.s.1	Wanneer wij leed geschieden , dan zullen hij het ook gehengen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2694.s.1	ik lief gemalin , gei stellen uw het zwaar voor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2698.s.1	u droefheid hout geren maat , het benevelen brein geren spoor .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2702.s.1	Nu vollegh raad , mevrouw , en laat uw tocht gezeggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2704.s.1	Adel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2707.s.1	Och , moederlief , wat raad ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2707.s.2	zijde komen het huis beleggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2707.s.3	bewaren ik reinigheit , ik ' maeghdelijcken staat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2715.s.1	Och , dochter , moeder troosten zijn krank toeverlaat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2715.s.2	doen klockhen dekken vergeefs hebben sidderende kieken Voor een ' doortrapt vos mede schaduw vinden haar wiek : hij grijptze beide , en stroit doen pluim in doen winden , En koelen zijn ' lusten , en rukken doen moer vinden hebben kind .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2719.s.1	zullen gei dan oorzaak zijn die beide u kind sneven ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2723.s.1	ik zij om een manna wel bei ik kind geven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2727.s.1	bewegen u kroos uw niet , deze jongske kleed en teder ?	BodilyProcess_Love_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.2731.s.1	Niet luttel , mare ik manna beweeghtme nog al meer .	BodilyProcess_Love_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2733.s.1	v .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2735.s.1	Wat schreitge moederlief ?	BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2735.s.2	zijn gei bedroeven om vader ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2739.s.1	Om vader schrey ik , kind , om uw en wij te gader .	BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2743.s.1	u moer keren zien niet aen uw nog uw smarten .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2750.s.1	mede smart baren ik het kind , en dragen hebben onder het harden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2750.s.2	ik manna zijn zelf hebben harden . ik hebben zonder hij geren leven .	BodyPart_Dedication
+vond001gysb04_01.TEI.2.text.body.div.sp.2750.s.3	ik zullen uw om lief nog leed bezwijken nog begeven .	Emotion_Happiness_Unhappiness
+vond001gysb04_01.TEI.2.text.body.div.sp.2750.s.4	ik beloven uw houden en trouwen te blijven tot doen dood .	Emotion_Love_Loyalty
+vond001gysb04_01.TEI.2.text.body.div.sp.2754.s.1	het zijn ook getrouwigheit , wanneer ik scheit uiten node .	Emotion_Loyalty
+vond001gysb04_01.TEI.2.text.body.div.sp.2758.s.1	ik scheit om beter willen , om weder te verzaemen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2762.s.1	Indien ik vinden hij schey , wie komen nimmer t'zaemen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2766.s.1	gei schede menigmaal , en zaeght hij weer gezond .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2770.s.1	ik schede nooit , daar het zo bedroeven scheppen staan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2774.s.1	doen weerhaan vinden doen kans kunnen lichtelijk verkeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2778.s.1	het verkeerd nooit zo snel , of het wassen om ik te deren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2782.s.1	het wassen goed doen kind dan in zekerheid gebroght .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2786.s.1	het wassen goed , en hielme niet doen bannen de echt verknopen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2791.s.1	Een vrouw gedijen tot lassen : zijde weten niet uiten te recht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2796.s.1	Bestelme slechts een zwaard , ik zijn bereit te vechten , Te sterven aen doen zijde vinden mijn vrome manna .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2800.s.1	gei hebben een vrouwenhart .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2808.s.1	nemen een doen proeven daar vinden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2808.s.2	heldin staan eer alles onbeweeghde post .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2808.s.3	doen faam vinden vrouw roemen , die stad en volk verlossen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2808.s.4	u moer Baerte tonen hoe velen een vrouw vermogen , Wanneer zijde Ysselstein verdaedight jaar en dag .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2817.s.1	ik waerschouw uw , ik heer , eer overrompelen worp .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2817.s.2	doen triomfeerder stellen zijn vaandel in slaghorden , En d'eer de eerst storms verguntmen aen de fries , Die het volk in orde stellen : wij dienen geren tijdtverlies .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2817.s.3	ik voeren doen stormbrugh aen : ik steeckt'er doen trompet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2817.s.4	het zijn over tijd de muur en toren te bezet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2822.s.1	Al langen genoeg meren : dewijl doen node uw pressen , gehoorzaam uw heer , en kussen hij een voor het lest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2835.s.1	Zeer gaarne , braaf held , vergunme slechts een bede , En ruk , hebben zijn ik willen , deze lemmer uiten doen schede , En stoten hebben door deze barsten , en dopen hebben in deze bloed .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2835.s.2	het zijn goed die gei het zelf dan fries of Kermer doen , alles ik uw hebben de geest zieden geven door u wond , ik zoontje zonder hoofd , ik dochterke schenden , En horen al het huis vervullen mede branden mede moortgeschreeuw .	EmotionalAction_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2835.s.3	zo sterven ik nog u vrouw , geren kinderloos weduwe !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2835.s.4	zo mogen ik kind , of gei nog bei deze oog luiken , naardien ik zijn leven liggen niet lang mogen gebruiken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.1	nul gruwel , Badeloch , zijn ik vinden zulk een ' aard , die ik een vrouw , en nog ik eigen , mede ik zwaard , zo eerlijk voor haar , voor kind , en maag , En deze goed menen ik leven langen dragen , Vermoorden zij , gelijk een gruwelijk tiran ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.2	zo zijn ik lang niet u bedgenoot , u manna : zo hebben gei onbekend dus lang ik verslijten , En ik ik Christendom verzaken , ik ' plegen vergeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.3	Hoe laetge zulk een woord u ' kuis mond ontgaan ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.4	Of wiltge , die ik uw altzamen zullen verraen , En ik aen uw dood en schennis schuldig maken ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.5	het zijn tijd om weder te bieden : doen vijand genaken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.6	hebben goddeloos bastertzaet , bewegen door geren misbaar , die ons nicht Klaeris vinden Velzen , voor het altaar En het kruisbeelt , in het gezicht haers bruidegoms verkrachten , En trappelen op hebben harden , en om de dootsnick lachen , zullen dadelijk deze burcht veroveren verwoed .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.7	ik zullen ik vrouw , ik zaad zieden in elckanders bloed verstikken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.8	Grobber zullen het in een beker schenk , En die , zo lauw alles het zijn , de vader op doel drinken , Op die d'ontruste geest doorwaer ' zijn ingewand , En pijnig ' voor zijn dood hebben lossen en vlotten verstand .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.9	waar zijtge dienaers ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.10	waar ik lijfwacht ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.11	waar ik knaap ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.12	brengen herwaarts ik geweer , op mennen , wapen , wapen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.13	hebben zijn doen jong dag , en mede deze huis gedaan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.14	nog zullen hebben wraeckeloos zo niet te grond gaan : daar moeten een groots getal mede wij te hemel varen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.15	komen volghme , daerwe flus in het harnas bezig waar , In het mijden vinden de mogen . ik gevoelen een nieuw kracht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.1	waar wiltge heen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.2	u zelf verdrinken in doen gracht ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.3	doen slotbrugh branden vasten af .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.4	of hebtge voor te sterven , zo nemen wij t'zamen met : hier zijn u wettig erf , doen huwbaere Adelgund , d'onnoosle Veenerick .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.5	ik haar staan te berg : hoe kloppen ik harden vinden schrikken !	Fear_Emotion_BodyPart_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.6	Och vader , het zijn ik schuld : och , zijn zo niet verbolgen .	Offended_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.7	bedaren wat : ik gade schip : ik zullen de Deken volgen , Te water en te landen : hij voerme waar het hij lusten , Of na de wild ier , of aen doen noords kussen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.8	Nu vrezen ik geren gevaar , nog gene uitheems strand .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.9	ik nemen verlof .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.10	ik gade : ik kussen voor het lest u hand , gehoorzaam uw , gelijk een Christe vrouw passen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.11	ik schrey en klagen vergeefs .	EmotionalAction_BodilyProcess_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.12	och mennen , hout hij vasten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2889.s.1	ik heer , ontfermen uw tocht om u bedrukt vrouw : zijde luisteren na u ' raad : zijde zwijmen : zijde sterven vinden rouw .	Emotion_EmotionalAction_BodilyProcess_Compassion_Sadness_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2893.s.1	Och , vader , moer sterven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2893.s.2	wat goed ik leed aen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2897.s.1	het En zijde gei wat bedaard , hebben zijn mede haar gedaan .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2902.s.1	Om god willen , geven gehoor : gei zien hoe zijde uw min .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.1	Wat razernij zijn deze !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.2	wat onverzetbre zin !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.3	ik rechte mede jammer nog janken hier niet uiten : doen traan doel het hij niet .	EmotionalAction_BodyPart_Sadness_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.4	doen wreedheid worden stuiten mede dapperheid en moed .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.5	waar laat gei uw vervoeren !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.6	hebben kermen zijn onnut : ik moeten doen hand roer .	EmotionalAction_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.7	schip , schip .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.8	nu zijn troosten , ik lief , doen tijd zijn korten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2917.s.1	Voor het scheiden , laetme toen die ik ik bede storten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2917.s.2	Heer Peter , bidden voor wij , die god deze arm schaar Door zijn engel stuur , en mijn heer bewaere .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.1	gei die de vrome schillen en wis toevlucht zijn , En vinden de hemel af de jammerlijk strijd de mens gade slaan , en zien doen stellen dal , En wentelen , en zetten doen heerschappij palen ; erbarmen uw over deze bedrukken belegeren slot : beschermen het rechtvaardig hoofd , en berg hebben overschot de uitgeroide stad , genootzaeckt door doen baar , In lang ballingschap , op god genade , te varen , gei hebben hebben huisgezin vinden Noah wel behoeden , die op doen baar drijven en hogen watervloed ; torn het water immer wassen , tot daar doen ster blinken , torn het hemelhoog gebergte en al spits zinken , En al doen wereld lach in een baar zee dompelen over het hoofd , en kennen strand nog rijden .	EmotionalAction_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.2	gei troosten door doen duif die overbleve ziel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.3	d'Olijftack zeggen haar aen hoe al water vallen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.4	vertroosten wij desgelijx in droef ballingschap .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.5	gei weten daar vinden doen maat , en kennen de lest stappen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.6	u geest die blaeze in het zeel : u heilig engel stier hebben roeren , en zetten wij op , daar elk uw vrolijk vier .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2942.s.1	raden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.1	nul Gysbreght , zetten troosten u schouder onder het kruis uw opleggen vinden god . het zijn al vergeefs deze huis Verdaedight ; hebben wie het in wij behoeden nemen , hebben waar mede Amsterdam zo ver nooit komen : Dus weerstreven niet meer u trouwen gemalin .	Emotion_Loyalty
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.2	verlaat u wettig erve , en kwel uw nergens in .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.3	Al liggen doen stad verwoesten , en willen daar vinden niet ijzen : zijde zullen mede groot glans uiten as en stof verrijzen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.4	wan d'opperste beleggen zijn zaak wonderbaar .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.5	doen hollands menen zullen , eer drie honderd jaar verlopen , zien mede macht vinden bondgenoot sterken , En schop het rooms altaar mede kracht uiten al kerk , verklaren het graefflijck hoofd verval zijn rechte , En heersen staetsgewijs ; hebben welk een bits gevecht , En endeloozen krijgen en onweer zullen verwekken , die zien gans Christenrijck te bloedig aen willen trek .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.6	In het mijden vinden de twisten , en het woeden nimmer moede , verheffen uw stad haar kroon tot aen de hemel toen , En goed door vieren en ijs een ander wereld vinden , En donderen mede schudden op al vieren doen wind .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.7	u afkomst middelerwijl zullen geenszins onder gaan , mare eeuwig adelijck en eerlijk bestaan , Op slot en in stad ; en loffelijk regeren , En Aemstels oud nader zullen gunnen lof ontberen ; alles u naemhafte stad haar ' schouwburg openen doen , En voeren op het oog toneel u daad te moeten de burgemeester , en drymael twaalf raden , zitten op u ' schillen , vinden kruis overladen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.8	Dus geven uw haastig schip : het zijn tijd , wan zonder god En ons helpen , het wassen ongekomen mede deze slot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.9	ik zullen uw mede een ' mest en dikken nevel dekken , En voortgaan mede ik ' glans , de volk een leidster strekken , In het mijden vinden de stroom .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.10	scheppen moed , en wanhopen niet , mare volgen gehoorzaam naar hebben geren uw god gebied .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.11	Zijn willen zijn , die gei trekken na het vet land vinden pruisen , daar uiten hebben pools gebergt doen Wijsselstroom komen ruisen , Die d'oevers rijk vinden vlucht genoeglijk bespoelt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.12	Verhou uw daar , en wachten tot die doen wraak verkoelen .	Emotion_BodilyProcess_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.13	gei zullen in deze gewest een stad , Nieuw Hollant , bouw , En in gezond luchten , en welig landouw , Vergeten al u leed , en overbrogten druk ; waar door u nazaat klimmen de berg op vinden het geluk .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.14	vallen uw het verwoesten de godtsdienstigheit te lastig , Volhardt bij het oud geloven en god altaar standvastig , Op het spoor de ouder , uw moedig voorgetreen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.15	zo draven ik rechte na god , door al ster heen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.1	zijn gei die Rafael ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.2	zijn gei die zelf , die beide Tobias en zijn bruid zo veilig thuis leiden ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.3	Of lief d'afgezant de hemel , die zo klaar Voor Moses trek , gelijk een vurig pilaar ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.4	Of die de vrome lot nog bergen , eer het vieren vinden boven doen stellen steken in branden ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.5	of die de gloenden oven verkoelen , en brogt'er gaaf drie jongeling uiten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.6	wie volgen op u liggen : wie zieden het zijn god besluiten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.1	Nu buigh ik ik voor god , ik lief , ik uitverkoren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.2	Nu weigeren ik geenfins na uw raad te horen , En liggen hier het harnas af .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.3	hier baten geren tegenweer : Nu god deze huis verlaat , en gelt'er zwaard nog speer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.4	Al het volk gade voor , dan het lijk , en niemand hoeve te vrees ; ik zelf mede ik gezin zullen d'allerleste wees .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.5	Heer Peter , ik bidden uw , tassen deze heiligh kruisbeelt aen , die voor mijn ouder langen hebben op het altaar staan , En ik zijn aenge-erft .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.6	ik storten in tijd vinden wreed En oorlog menigmaal hier voor ik vurig bede , zo wel de nacht alles dag .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.7	horen mennen , horen naar ik .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.8	Wanneer ik uiten de stroom en Pampus raken voorbij , zo doen te slincke hand in zee zien op wat weilant , die merken heten vinden oud , een liggen en visser eilant , hebben welk een klooster dragen namen Mariengaerd , Een rijk en oud abdy : wie zullen derwaarts wij spoeden , voor winden voor stroom , mede riem en mede zeil , En daar doen vlieden verzien , en voorraad ommedeilen , En leven wijd raad .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.9	goed schip in die stallen , gelijk ik hebben belasten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3030.s.2	hoe bitter vallen hebben scheiden vinden zijn land , daar al lopen verliezen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3034.s.1	doen liefde tot zijn land zijn ieder aangeboren .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.3038.s.1	verdelgen stad , wie gaan , en komen nimmer weer ,	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3042.s.1	vaar wel , ik Aemsterlant : verwachten een ' ander heer .	None
+vond001gysb04_01.TEI.2.text.body.div.p.3044.s.1	uiten .	None

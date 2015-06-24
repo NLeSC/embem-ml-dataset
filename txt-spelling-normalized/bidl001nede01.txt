@@ -1,0 +1,720 @@
+bidl001nede01_01.TEI.2.text.body.div.head.138.s.1	doen muiterij en nederlaag vinden Midas , Of koning onverstand .	None
+bidl001nede01_01.TEI.2.text.body.div.head.139.s.1	eerst delen .	None
+bidl001nede01_01.TEI.2.text.body.div.head.140.s.1	eerst toneel .	None
+bidl001nede01_01.TEI.2.text.body.div.stage.143.s.1	Belachal , Nieuwsgierigheid doen bak opklimmen , voor hebben opgaan vinden hebben Gorayn , al lachen .	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.sp.speaker.145.s.1	Belachal .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.148.s.1	K zien het immers wel , wat nieuw zijn hier ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.speaker.150.s.1	Nieuwsgierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.152.s.1	komen op , komen op ,	None
+bidl001nede01_01.TEI.2.text.body.div.sp.158.s.1	ik zien niet een zeer , alles deze gordijn zo langen bekeeken , die ....	None
+bidl001nede01_01.TEI.2.text.body.div.sp.162.s.1	laten wij vinden hebben nieuw spreken ,	None
+bidl001nede01_01.TEI.2.text.body.div.sp.166.s.1	Al weder wat nieuw , en nooit wat goed ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.174.s.1	u leven zien gei ook , goed moed , geren zaak aan ; wel laten wij kijken ; liggen , alsje horen een oordelen strijken , Tot naadeel vinden hebben geren gei zien .	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.sp.179.s.1	Wat doel wie heet ? ik zien het minst niet , die naar wat nieuw gelijken ?	None
+bidl001nede01_01.TEI.2.text.body.div.stage.181.s.1	Hier waard hebben oud Gordijn weghalen .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.186.s.1	mede zin ; Wat dunken uw hier vinden ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.192.s.1	ik moeten beginnen Te lachchen , ha !	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.sp.192.s.2	ha !	None
+bidl001nede01_01.TEI.2.text.body.div.sp.192.s.4	wat zijn deze ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.192.s.5	Wat zijn die voor volkje .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.192.s.6	die hier zitten ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.196.s.1	het zijn Febus mede doen Zanggodinnen .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.200.s.1	Wel kunde gei die zode voor verzinnen ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.206.s.1	Wel ja , zien , die zijn Melpomene , deze zijn Clio , die Kalliope , deze Erato .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.210.s.1	Hoe kunje het weten .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.219.s.1	Aan het hand en hoofdtuig , daar Poeeten , En schilder zien gewoonelijk Aan kennen doel : komen hier een , kijken ; die zijn Euterpe , zode te noemen .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.219.s.2	Om het lachchend wees en doen bloem , En zien , die zijn Urania .	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.sp.225.s.1	Wel ja , wel ja , die lijkt'er naar .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.225.s.2	Ik hebben voor deze wel lezen , die die zode moeten wat stemmig wees .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.speaker.227.s.1	Niewsgierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.232.s.1	Wat dunken uw vinden doen schilderij ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.232.s.2	zijn daar geren kleur , of houwding bij ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.232.s.3	Wat zeggen gei ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.254.s.1	ik hebben wel horen zeggen , die schilder , als onenig liggen , ( Ik komen te mede wel , die gei het weten , bij deez ' en gunnen kladden Poeet ) En knib'len over kunst paneel .	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.sp.254.s.2	Die talen gebruik in het krakeel .	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.sp.254.s.3	Ook slaan helen fraai , wanneer ik smalen , doen woord uiten doen kunst halen .	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.sp.254.s.4	zijn vinden ik twisten , en kenner spreken : mare laten wij het hoofd niet verder breken mede Febus , die zode stillen hier staan , Of hij geren zaak te hart gaan ; Ik moetje een ander deuntje zingen , velen pretendent Kunstelingen , zijn op Apollo zeer verstoren , Om , naar ik rijden vinden ver hoord , die hij mede kracht weer voor doen zet , Niet hunn ' gedicht , mare zijn ' weten , Omtrent .... mare kunde gei loist'ren ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.258.s.1	Ja ,	None
+bidl001nede01_01.TEI.2.text.body.div.sp.262.s.1	En zonder spreken ?	None
+bidl001nede01_01.TEI.2.text.body.div.sp.266.s.1	Ja .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.1	Wel gade .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.2	Dan stillen mede ik , wie zullen horen , de dageraad Apol beschooren .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.3	Bedilal zeggen ik , die hij gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.4	Om mede zijn ' vriend onderling , een raden te plegen over zaak , Die doen eer vinden Midas zetel raak .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.5	hij vragen ik , os ik met wouw doel , mare deze zaak zijn nog groeien .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.6	Ik hopen heen al beide te schaar , En mede die het winden zullen te smeren ; Nu laten wij zieden , hoe het zullen vergaan .	Emotion_Hope
+bidl001nede01_01.TEI.2.text.body.div.sp.283.s.7	verschuilen uw wel	None
+bidl001nede01_01.TEI.2.text.body.div.sp.289.s.1	wezen niet beladen , ik zullen Midas , nog Apollo tergen , kunde gei u lachchen mare verbergen .	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.stage.291.s.1	Alhier gaan hebben nieuw gordijn openen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.292.s.1	Tweede toneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.294.s.1	Bedilal , Nijd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.296.s.1	Bedilal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.301.s.1	HIer zijn doen plaatsen ; o Nijd !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.301.s.2	aanzienlijk Afgezant , Heraut , en Legerraad vinden Koning Onverstand , de groot Midas , daar ik ik ' getrouw vriend , doen twisten en Achterklap , deze ogenblik mos vinden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.303.s.1	Nijd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.308.s.1	Bedilal nog alom Verbeterlost noemen , wieden Midas , alles een hoofd vinden zijn aanslag roemen , ik toeven , tot doen zinnen wat laag ... zacht , zijde komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.308.s.2	hebben barsten aardrijk schijnen zelf op zij komst te schromen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.310.s.1	Derde toneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.314.s.1	twisten , Achterklap , vinden onderen op , Bedilal , Nijd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.333.s.1	zijn welkom erg twisten , en listig Achterklap , gei weten , hoe Midas langen naar Febus meesterschap En wraken dingen hebben , zints hij mede ezel oor , Om die hij lief pan , alles zijn gespel mogen horen Geplaagd zijn ; mare nog rusten Apollo hier niet bij .	Emotion_Vindictiveness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.333.s.2	hij hebben voor eeuwig hij , denken , welk een tirannie !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.333.s.3	mare no zijn ' vriend ook te zangperke uitsmijten .	EmotionalAction_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.333.s.4	hij dreigen , die hij niet eerd , mede dood , en bau , en keten . het zijn eind'lijk tij , om een te dempen zijn gezag , Te proef , wat ik naar die honen op hij vermogen ; En al zijn wijsheid heetscht , of vrij konslen bloeien , doen vorstin , mens , en zij eernaam uiten te roeien ; hebben algemeen goed de letterkunde in spijt vinden rijden , die zij helpen , te dempen voor altijd , En hier toen zijn u raden de Vorst , en wij vinden nood .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.335.s.1	twisten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.1	ik zullen toon , die ik niet vergeessch zijn op ontbooden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.2	Ik hebben ik brein wetten , om een doen hovaardij vinden Febus Heiligdom te straflen , zode gei ik , Bedilal , Achterklap , en Nijd hebben oor wild leen , zullen ik vinden deze uur af , zijn lustre zode verkleinen , die niet een mens eerlang meer vinden hij weten zullen : Ja zode wij kracht ontbreken in node , of krygsgeval , zullen stout onweetenheid , een vinden u meelters vriend , hebben vinnig slag-zwaard vinden zijn wrok op zijde gaan binden .	Emotion_Pride_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.3	Bedilal , nu vinden naam , moeten ook vinden opperkleed , veranderen , gaade slaan , alwaar ik tij besteden In letteroeffening , om het zijn daar te zeggen , En alles Verbeterlust , verachten , weerleggen , En hekel al wat hij hoord , of lezen zien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.4	Een kunst in oud tij mede nut , en eer geschieden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.5	Nu kunnen het een handvat zijn om geest uiten te blussen , En kunst haatclijk te maken ; ondertussen moeten gei uw uiterlijk bekleden mede al het geren mare naar geleerdheid lijken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.6	halen titelen te lid vinden groot schrijver , en doen aan doen wereld blijk , die ook doen wijsheid zelf hebben wil uw verrijken , mede diep keanis .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.7	onnasporelijk begrip , En het zuiver oordelen : staan op lettergreep , en stippen alles of ' er al aan hangen ; om het mede een tittel te uiten , noemen uw een Criticus , daar kunde gei in besluit Al wat uw nodig zijn , om nu te tij , alles wijze Ook mede de gauw geest te twist om de prijzen gei hebben voorzichtiglijk deze mannekleed nemen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.8	wan zijn zijn achterklap , alles manna , ooit voorgekoomen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.370.s.9	gei zullen eenvoodigheit bedriegen mede die schijn , Die waand , die gei een vrouw bij vrouw mare kunde zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.365.s.1	Tegen Achterklap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.374.s.1	deze zijn doen recht wegge , om elk door haten te stijf .	Emotion_Hatred_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.376.s.1	Achterklap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.378.s.1	Wat zullen ik middelerwijl te zijden af bedrijf ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.389.s.1	gei zullen al , die gei hoord , die iets in lett'ren doen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.389.s.2	verstaan die enig schrift doen wereld geven voor goed , Of het zijn , in eer en rusten bedektelijk tegenvaaren , Niets vinden zijn , of kracht vinden zynekunst verklaren ; mare druk hij een schande , of lasterlijk daad Op het harden weer tegendeel niet liggen te toon staan .	HeavyHeartedness_Emotion_BodyPart_BodilyProcess_Remorse
+bidl001nede01_01.TEI.2.text.body.div.div.sp.389.s.3	Bedilal , gade terwijl uw slaatelijk verkleden , zode kunde gei ieder mede wat aanzien tegen treden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.391.s.1	vieren toneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.393.s.1	Achterklap , Nijd , twisten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.398.s.1	zijn voegen ik ik om goed aan stof , gelegenheid , En spraak te raak ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.409.s.1	Nu moeten gei mede meer beleggen , alles ooit u arbeiden doel ; wan zode zijde wij ontdekken , die zij de Koning , meer alles ooit , tot nadeel strekken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.409.s.2	Bedek u aangezicht , voor al ook deze gewaad mede Reedelijkheid , een stof , die zien wel plooien laten ; zeggen niets voorzeker , mare doen het zekerlijk geloven , Door vals brief , en getuige ; eer te roven zijn klein kunst , allee daar horen geheugen toen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.1	ik wassen onvermoogende , en worden rijden ik zelf moede , Nu scheppen ik aamtocht , en ik drift in het harden blazen vinden stout Onweetenheid , zullen Febus zelf verbazen : Ja nu door Nijd aldus , Vorst onverstand herleven ; zullen kunst en kennis zieden , hoe weinig wijsheid geven , Wanneer wij raadgespan zijn ' kracht wel doen werk ; mare ik neb vernoomeu , hoe zien Febus durven vetsterken , zijn ' oud weten , rijden weer stellen in zij gebruiken , Op die Vorst Onverstand voor zijn scepter duik ; mare niemand vinden wij Volk kunnen volger deze weten , doen hand op papier , aan boek , of pen zet .	BodilyProcess_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.2	eest moeten ik zedig , en tot deugd , en eer gezind , Een wild tijd toon , die ik wetenschap beminnen ; Dan langen zien oefenen in jouge en oud soonften ; bij stil ervarenheid , die schonen , en nut leren schisten ; Dan proef , of ik heen vinden ver volgen kunnen , zien hoedende ( wan deze verblinden hebben oordelen ) vinden Laatdunkenheid , die vaak in schijn vinden lusten breken , de braaf geest hebben hun oefening breken .	Emotion_Love_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.3	beletten ( zode luid zijn les ) te komen tot de trappen , vinden waar kennis , en staven wetenschap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.4	Hier naar ( wat liggen ik hij die schrijven willen , te voorn ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.5	Wat moeten doen bende niet vinden die Tiran al horen ? ) Verkiezen stijl , en stof , naar letter ocffening , alles of ' er helen iets groot aan stof te keur hangen , En elk vinden al stof niet schrijven mogen en dienten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.6	Die niets schrijven hebben , die teder kennen verplicht , Tot lof , beveeld hij streng , ja op verbod de pennen , die zien tot tegenspraak vinden niemand schrift gewennen ; geren onderzoek-schrift schryve , of aanwyze elk gebrek : ik mogen vinden taalkunst , nog vinden wijz'van zeggen spreken , te zijde door klaar vertoog , ik een en andermaaal , tonen hebben ' , die ik het merg , en het schonen verlla de talen , zijn vinden ik spreken willen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.7	Nog zullen gei dikmaals lezen , vinden onbeschaaftheid , en vinden schijn leren te wees , vinden zot vinding , en ergerlijk vermaken , vinden misbruik zijn kunst ; hoe ik doen geest wraken , En in hunn ' schaduw volgen , hoe gei mede Midas vaan , Ook bij doen onkundigste zijn ondergang wild banen : Nog willen hij , die die geren , wie ruw onkundigheid , alles doen ons , door de druk voor ieder oog liggen , Niet vinden verbeteren reppen , voor die hij zijn schristen zode hebben verbeteren , die een kenner die mogen zift .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.460.s.8	Kortom , wie moet hij , en zijn zoon mede kracht Bestormen , wilmen niet , die zijn verheven macht , wij al , en ons Vorst voor eeuwig dwing te zwijgen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.462.s.1	Achterklap	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.474.s.1	ik weten rijden doen onzijdigheid , zode ver ' voor wij te krijgen , die zijde Vrouw ijver al vinden daag verdagvaart hebben , Om scherp rekening te geven , hoe ik leven mede eer en zedigheid , op haare Schouwtooneelen , Ik weten , alles goed willen , zode stemmig zij te strelen , die zijde zij ' tederheid alreeds schenden achten .	EmotionalAction_Love
+bidl001nede01_01.TEI.2.text.body.div.div.sp.474.s.2	Ik hebben aan d'and'ren kanten doen vrolijkheid belacht , In schijn vinden los jeugd , bespotten , tergen , verweeten , die op hebben schouwtoneel , doen blijdschap worden vergeten , En niet alles dof stof vertonen , ik treffen zij hart ; zode die elk klaagd , die zijde niet wel gehandhaaft waard .	Joy_Emotion_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.div.sp.478.s.1	Daar komen Bedilal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.480.s.1	Vijfde toneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.483.s.1	Bedilal , twisten , Nijd , Achterklap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.483.s.2	Bedilal bekleden mede brand vinden boek , Titel-namen vinden groot en befaamde schrijver , konst-woorden , en wetenschap , in veelerly taal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.491.s.1	mede die ciersels en gewaaden zullen gei Geleerdheid zelf ( ik zwijgen het botten grauw ) verraden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.491.s.2	Heer Criticus , het staan wel , en het zijn een licht dracht , Onkostelijk , en na de nieuw zwier bedenken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.496.s.1	Wat lezen , wat zien m'er al latijns en Griekse nemen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.496.s.2	wij maken tocht deze kleden ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.504.s.1	deze hebben gei moeten ramen , Pedantmachinicus .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.504.s.2	doen ding , die gei lezen zijn niet , alles het fijn vinden ervarenheid en geest .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.504.s.3	hij geven ik ook een lijst vinden uw schrijver .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.504.s.4	vriend , zijn zullen ik nu ik eest ' en moeilijkst arbeiden vinden ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.521.s.1	ik helpen eest ijver , daar Apol door leven , vinden kanten , wan deze geest zijn ' macht te groot onderstand ; Ja kunnen ik mede een slag zijn ' school neder ploffen , zode zullen zijn ' bende eerlang niet op zijn ' kunst meer sloffen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.521.s.2	Daar zijn al onenigheid in zij belang zwaaien , dewijl en deugd , en vreugde ' , op het fel om voorstand kraaid , zullen gei mede in-en voor-en tegenspraak liggen mank , die zelf doen wijsheid daar al oefening zullen staken , En dan zijn het ver ' genoeg , zij vriend , voogd , zoon , En kunst beminnaar , dan door velen verwyts , en hoon , Wanlustig , dof , en moede maken door u verachten , Niet een naar Febus , of zijn ' geven zullen trachten ; Aldus krijgen Onverstand , wij al Vorst en Heer , hebben wettig bezitten , vinden deez ' tijd lett'ren weer .	HeavyHeartedness_Joy_Emotion_Disgust
+bidl001nede01_01.TEI.2.text.body.div.div.sp.526.s.1	mare eer wij ijver , of een vinden zij Volk komen storen , laten wij doen les , die Pedant uw geven , een horen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.564.s.1	ik zullen zeggen , wat ik wel hebben meest Onthouden moeten ; wat iemand lezen , Of schrijven , stout tegenspreken , gedurig toepen , het zijn gebrek !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.564.s.2	En het geren uw dienen , gelijk alles ik , In al slag vinden rijmerij , En lettetkryg niet weer te schrijven , het geren voor wij eigen werken moeten blijven ; wan hoe die list wij zijn gelukken , weten , schonen zijde een moeten zijn drukken , Eu eenmaal slechts toneel koude houden , Elk , die het begekkende aan komen schouw . het zijn velen dan , ja schier al te velen , zode wie te mede uiten Frans een delen , vinden een vertoonstuk overzetten : Dus blijven ik vrijen vinden regel , weten , vinden houding , schikking en wat meer , de speele - dicht'ren vinden zij ' eer beroven ; zode zijde het , alles wie , begrijpen , Ik moeten ik ' hersenen wat slijpen , Om uiten deze Frans , deze Grieks , latijn , Te lederen , wat kunstwoord zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.564.s.3	Hoe moeilijk zijde mogen wees Om zeggen ; ik moeten nochtans niet vrees . ik spreken , schonen ik niet weten , wat hebben zijn , vinden Episode , Epithesis , vinden hyperbool , Catastrophen , En zulk een goed ; vinden Eitososen , En redenaar ; mare ik letter op ; ik ' wijsheid krijgen aars liggen doen schoppen , die niemand in ik woerd kunnen val , Bestraftmen ik , ik zeggen niet mede al te zaak , mare vangen een deuntjen aan , zode het schelden niet wel door willen gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.566.s.1	Achrerklap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.574.s.1	gei zijn aldus genoeg gewapend om de drempel , Ja al doen waardigheid te schenden vinden die Tempel , Ik geven ik onder het Volk gei , houden een ogen in het zeel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.572.s.1	Tegen twisten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.580.s.1	Ik gade na Midas , op die ik hij mededeil , Hoe ik gezantschap tot dus ver zijn aflopen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.586.s.1	Daar komen doen onzijdigheid , nu staan wat goed te hoop , Z ' zijn hevig , zode hebben schijnen , wijlen ijver zij verweren .	Emotion_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.586.s.2	wie gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.593.s.1	Ik schuil Nu tonen , hebben geren gei hebben leren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.591.s.1	Tegen Bedilal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.595.s.1	Zesde toneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.598.s.1	onzijdigheid , vrolijheid , ijver , Berispal een weinig te zijden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.600.s.1	onzijdigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.603.s.1	gei vorderen ik , het zijn wel ; ik zullen het nu zelf gaan horen , mare moog'lijk hebben gei nu iets zedigs uitgekoren ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.605.s.1	ijver .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.608.s.1	ik zullen nu doel , gelijk ik altijd hebben braden , Ik zijn verantwoorden , alles gei het zelf wild horen gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.623.s.1	het zijn niet genoeg , die staan en Kerk blijven onbesproken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.623.s.2	Vaak liggen ook scherpheid in een dubbel zijn duiken , doen dertelheid door kunst zode wel bewimpelen , die doen eenvoudigheid in het eest doen vuiligheid niet vatten ; Maardoor gebaar , en meer alles een te zieden , of horen , het vergif gewaar waard , die niet kenbaar wassen te voorn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.623.s.3	Ik cisen een destigheid in zaak , en in talen ; doen wereld wijsheid zelf , leren op doen scherp schaal vinden eer en billikheid , en weten al wegen , Om tegen rusten , nog rechte , nog rijden iets te plegen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.623.s.4	Hoe kunnen ik dan te velen uw raden , om het gezicht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.623.s.5	nog het oor te kwetsen mede of gijl , of steekgedicht ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.640.s.1	doen Nijd en Achterklap kunnen liggen iets hatelijk noemen , Optygen , die ik het vuil mede voordacht willen verbloemd ; wan wylze ommagtig zijn om iets te maken , het geren , vermaken en lering geven , aan heer , of het gemeen , zijn al zij werken , en vreugde , een ander werken te laken , verkeerd uitlegging , en beduitzelen te maken .	Joy_Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.640.s.2	mare horen nu , of ik ooit u ' zuiverheid misdoen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.640.s.3	doen burgerplicht waard steeds in ik beleggen voeden . ik geven schilderij in talen , hoe boosheid waard verdrijven , En deuglijke eerzucht mede vernoeging opheffen .	Honor_Emotion_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.640.s.4	doen zedenplichten , en behoorlijke omgang mede hoog , en laag , gaan in ik gezag in zwang .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.640.s.5	doen stemmigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.642.s.1	Vrolikheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.1	Die waard althans zode zeer gepreezen , die op u schouwtoneel ik rol haasten uiten zullen wees . het heten , alles ik mare een ' woerd vinden juk of boerde zeggen , die dus doen wegge tot al onkuisheid openen liggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.2	En wij , wij zijn , die dus op mijn zede smalen ?	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.3	ik doel bij uw , bij ik u doel op het haatlijkst malen ?	Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.4	geloven , onzijdigheid , het zijn mens , die doen macht , Door list , of deugd ontbreken , om zien alom achten Te maken door zij pen '; mare lachen mede vol mond , Om het wees vinden doen deugd ; ik vinden gestadig vinden , En nemen tot hunn ' smaad ; ik noemen zij stuur en stijf .	Joy_Emotion_BodilyProcess_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.5	gei strekken de Nijd en twisten een heim'lijk tij verdrijven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.6	ik schendmen al te lossen , en hout al ogenblik , Onhebbelijk gesprek , en gril kwint kwik .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.7	laten ik , onzijdigheid , een zonder veinzen raan , slaan achten op al ik doel , ik zullen het op uw slaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.661.s.8	Gv zullen u ' toestand voor tot mijn blijdschap gunnen , zijn in doen deugd ook zelf zien zij verheugen kunne .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.1	die gei dan wederzijds op ik te onvrede zijn , gei ik te groot vreugde ' , gei straf talen verwijten , komen niet , of uiten uw beide , of toestand mijn zaak .	Joy_Emotion_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.2	Vorst Onverstand weten nu een twistrot op te maken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.3	Om doen eer vinden Febus kroon , te deel ik betrouwen Te schenden , eer en kunst , en oefening zode stout Te last'ren , die geren geest ik helpen zij durven leen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.4	ik hoord geleerdheid , alles doemen , in band steen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.5	doen wijsheid laten zien mare bij weinig nog zieden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.6	doen letter-oeffening ; moeten alles te sluik geschien : wan komen een haater vinden doen kunst die vlijtter oor , zode hebben die yv'raar rijden zijn ' goed naam verliezen .	Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.7	Indien ook Febus in deze inbreuk niet voorzien , zode raken Geleerdheid , en zijn ' achten , helen tot niet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.8	Och !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.680.s.9	mogen Geleerdheid een nog voor ik ' oog komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.682.s.1	Bedilal te zijden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.686.s.1	Nu ik hier spreken zullen , beginnen ik harden te schromen .	Emotion_BodyPart_BodilyProcess_Shame
+bidl001nede01_01.TEI.2.text.body.div.div.sp.690.s.1	vinden wat voor geest worden Vorst Onverstand dienen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.695.s.1	hij hout , afgunstig en onwetend te vriend , En doen onbeschaamdheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.695.s.2	mare wij komen wij hier begroten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.705.s.1	uw komen verzochte kunne in letter ontmoeten , geleerd ervarenheid , omzichtig oordelen , en Op datmen mede een naam ik eigen eernaam kennen , ik zijn Criticus , bekwaam in al slag vinden schrift , doen talen , doen zaak , en haare ordening te schiften . het vereisen tot de zijn , hebben hoog , en laag netten Te toets , of het na tij , en plaatsen zijn neder zetten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.708.s.1	onzijdigheid tegen ijver .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.710.s.1	deze zullen geleerdheid zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.716.s.1	Al zacht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.716.s.2	zode groot geven Bekomtmen naar zeer langen , in wetenschap te slaaf .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.716.s.3	gei schijnen nog jong te zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.722.s.1	ik zijn in de muze schieten wiegen , en opvoeden ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.727.s.1	Voorwaar , het geluk zijn groots , Indien gei zijn doen geren , die gei wij zeggen te wees .	Emotion_Happiness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.733.s.1	ik hebben schristen oud en jong ' , door eend door lezen : mare het merendeel zijn tij , nog vlijtig aandacht woerd , zijde vlieg in doen luchten , of kruipen laai bij doen aarde .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.737.s.1	weer schrift lezen gei meest , vinden die historie schrijven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.741.s.1	Wel doen oud , en doen allerbest .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.746.s.1	En week krijgsbedryven beschrijven Salustius ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.750.s.1	Die schrijven vinden krijgen en slaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.754.s.1	Wel nu Demosthenes ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.758.s.1	Daar heeftmen niet velen aan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.762.s.1	Wel Nazo nu ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.766.s.1	He !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.766.s.2	wat ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.770.s.1	Wat hebben die al schrijven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.774.s.1	wij vraagje ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.776.s.1	ijver	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.778.s.1	Ovidius ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.783.s.1	die zijn een Poeet , zode even lezen ik nog , Titere tu patule .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.790.s.1	ik vriend ; Ik wedde , die gei die in Ovidius niet vinden ; mare in Vergilius .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.802.s.1	ik hebme in de naam verzinnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.802.s.2	mare ik zij uw duizend vinden schrijver noemen kunnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.802.s.3	alles Tacitos , en alles Tibullus , Martiaal , En Titus Livius , ik kennen heen altemaal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.802.s.4	Ik zijn een Criticus , een zeer groots litterator .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.802.s.5	doen muze nemen ik wel zeker tot Dictator , te zijn zijde aan Apol , die nu doen poezie Niet wel laten handelen , door zek're tirannie verbond waar , roemen en groots ontzag te toon .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.808.s.1	Ei , tonen ik u vernuft , ei willen een vragen verschonen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.808.s.2	Wat Griek beschrijven doen twisten , gelijk een stedepest ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.808.s.3	En wat Romein leren tocht doen goed zede goed ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.813.s.1	Die het klaar , en net ... mare wat zijn deze al voor vragen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.813.s.2	Begeerje , die ik Grieks zullen spreken ?	Emotion_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.818.s.1	ik behagen zij wees ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.824.s.1	Cicero , Erasmus , Plautus , hoofd , beschrijven boek : mare het schijnen die gei het niet geloven , Waarachtig , lezen zij .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.826.s.1	Vrolijkheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.829.s.1	Ei zeggen , wij schrijven doen meest klucht , In d ' oude tij ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.833.s.1	Wel die in pots vinden genuchten ,	Joy_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.837.s.1	Hoe heet zij ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.843.s.1	Wat's deze !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.843.s.2	wel ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.843.s.3	Plautus , en laten zieden , het geheugen kwellen ik wat .	BodilyProcess_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.848.s.1	het vergeten meest misschien , mare mooglijk hebben gei die niet velen vergen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.854.s.1	doen zede vinden krijgen , en kerk , en hof , en ander plechtigheid de vorig eeuw , wij verhandelen die wel het netst ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.858.s.1	wij hebben doen heerschappij vinden Syrien geschetst ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.863.s.1	wij Bachanaalen , wij geboorte , en zegefeesten , beschrijven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.878.s.1	nul gei zijn een hoop botten beest .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.878.s.2	gei vragen alleenig ik , wat meenje , die ik dus , Een manna vinden studie , een Archicriticus mogen handelen ?... die doen school , en Professooren ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.878.s.3	mare ik mogen doen nemen vinden dielompen niet meer horen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.878.s.4	doen faculteit , en gelijk geleerdheid ... en doen studie ; mare ik weten niet , hoe ik zode raazend'ben , die ikze noemen mogen : ik zij geren ijver vinden , te zijde ik mede vijf zes vinden ik ' geleerd vriend , heen gaan houden .	Emotion_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.878.s.5	Doch elk zijn machtig om allee , doen dicht-konst , die nu liggen , te helpen op doen been , Apollo en zijn kunst ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.882.s.1	gei kennen ik ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.886.s.1	Neen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.891.s.1	ijver tegen onzijdigheid te zijden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.896.s.1	 Die logen zullen blijk .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.896.s.2	mare het gaan wel , hij hebben zien zelf bedriegen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.896.s.3	hij hebben iets kwaats in het zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.896.s.4	Ik kennen hij al , zwijgen stillen , laten ik begaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.904.s.1	Wanneer ik iets verbet'ren willen het geren kwalijk zijn maken , zode worden ik nog lasteren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.904.s.2	Wat zijn doen schrijver vinden deze eeuw ook al verbaslert , Die ik ' Verbeeterlust ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.908.s.1	wij noemje ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.1	zien ik aan , zode zullen gei , wieden ik menen , gemakkelijk verstaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.2	wild gei iets weten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.3	vragen , ik zullen zwygende antwoord geven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.4	zien op ik rug , zode gei tot pleitrecht waard drijven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.5	behagen Genees-kunde uw ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.6	zien op ik recht zijde .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.7	zode letterweetenschap of grond vinden rijmerij ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.8	doen Mathematica , Rethorika , of het schrijven , vinden Aristoteles , of Kartes uw kunnen drijven Tot oefening ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.923.s.9	komen hier , ik zijn een Catalogus , Communis locus , of bevatten gei het goed aldus , Een Concordantie vinden al zijn wereld wetenschap , Die strijdig schijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.930.s.1	nul wat liggen die venten te snappen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.930.s.2	 Ei ondervraag hij vinden doen dichten kunst nu doch een .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.928.s.1	Tegen ijver .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.932.s.1	Yter .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.934.s.1	jouw weten dan al .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.943.s.1	die zijn iets ongemeens .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.943.s.2	zode weetje ook , hoe ik moeten , en Treur-en blijspel maken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.953.s.1	die zijn voor ik geren ' kunst , die zijn ik ' minst zaak , Hier aan bestee ik mare doen snipper vinden ik tij , Wanneer geren werken ik lusten vinden naarstigheid en vlijen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.953.s.2	Puntdichten , zijn ik werken , alles ik ik pruik moeten kem ; ik Ha ! het rijm zijn geren ' zaak , die kunnen bij wijze klimmen . ik vertaal uiten frans bij naar ook zonder woordenboek .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.957.s.1	Ja zeker zode leren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.964.s.1	die zijn die ik het meest vloeken , Terwylmen hedendaags nog speld , nog dichten kunnen vinden ; die deugd , en die het alhier zien durven onderwinden zijn ongeletterde , en onwetend .	EmotionalAction_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.966.s.1	Onzy digheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.974.s.1	Ik ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.974.s.2	 Ei zwijgen , Tot ik die windvang nog een weinig vast krijgen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.974.s.3	gei bebt dan zekerlijk velen ' stuk ook schrijven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.970.s.1	ijver te zijden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.980.s.1	nul !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.980.s.2	ja , mare ik schroomze in het liggen of aan het toneel te geven ; Daar niet een stuc vinden kracht nu lang waard zien .	Emotion_Shame
+bidl001nede01_01.TEI.2.text.body.div.div.sp.980.s.3	Ik achtze waardig , dan die ikze aan zij bieden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.984.s.1	mare waarom niet drukken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.989.s.1	ik zouze dadelijk spel , Een ander in het genot , ik in doen moeite deel .	Joy_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.994.s.1	ik geloven die niet , en ook wij weten , of het waarheid zijn , die gei iets hebben maken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.994.s.2	Ei laten een zieden ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1010.s.1	Wel gewis , die tonen ik zode .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1010.s.2	nul neen !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1010.s.3	ik schrijf nu scherp noot , Aantekeningen ; ik zullen nu woord vinden ik stoten , Die dichter weten vinden karakter , nog vinden trant , vinden Episoden , nog catastrofe ; het zijn schande ' , zijde weten vinden Cesuur , nog scherp ot zacht accent ; vinden talen , constructie , niet doen minst rudumenten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1010.s.4	nul die doen Schouwburg ik , en zijn belang begrijpen !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1010.s.5	Die werpen die vod , al die prul , al die slepen In het vuur ; het zijn vod , die geren ' mens kunne prijzen , Daar houding , tij , nog splaats , nog kunst in zijn te wijze Ook spelen ik klucht , die te vuil zijn voor doen jeugd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1016.s.1	Ik weten niet , wat gei hier zode dol al snappen mogen !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1016.s.2	Al leven Kato zelf , hij zij ' er niet op kijven .	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1016.s.3	gaan gij op de Schouwburg wel ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1022.s.1	Wat zij ik daar bedrijf ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1022.s.2	doen speler , hebben toneel , doen licht , en doen bak , doen spel , en het muzilk , het deugd al niet ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1028.s.1	mede gemak . het zijn langen genoeg .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1028.s.2	deze zijn een vinden die geleerd mennen , Die tegen ik , en uw , mede kracht te zamen span .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1032.s.1	Ik zijn Verbeterlust .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1047.s.1	Ik zullen vinden dicht bij , uw een bezie ; die rok , die letter-mommery , Die schyn-geleerdgeid , uw een vinden doen schoud'ren halen , Bedilal ; zijn zijn u ' kunne in allerhande taal ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1047.s.2	zien , zijn Onweetenheid doen mens ik bedriegen , Een naam vijf zes uiten het Grieks , en daar ik nog om liegen , Hoe die m'er aan geraken , kunnen nu die stout kaak , En onbeschaamdheid volgen , in naam de dicht maken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1047.s.3	deze zijn zij , die elk een berispen , en verbien , En niet een stippel vinden geleerdheid laten zieden ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1041.s.1	nemen hij de Rok mede opschrift af .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1052.s.1	doen Critica ... ik zeggen hebben nazien , onderzoeken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1057.s.1	laten zieden , wat hebben gei daar ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1057.s.2	zien hier , zien hier doen boek , doen letteroeffening vinden deze gaauwert .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1062.s.1	het zijn historie .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1068.s.1	die zijn zijn , die zijn vinden Valentijn , die vinden Grizella , en die zijn bord , en luiffel schrift ; deze zijn doen loskop , leren deze zijn en woord zift ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1071.s.1	ijver halen een rol papier uiten zijn zak .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1075.s.1	Wat zijn die lang rol ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1081.s.1	hebben zijn een Alfabet vinden braaf schrijver .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1081.s.2	zeggen , zijn toen zijn hier zetten Die lett'ren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1081.s.3	spreken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1086.s.1	die zijn , die zijn ... ik wild het niet zeggen , Hoe zij een Criticus ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1097.s.1	zode gei het niet uiten wild liggen , zode brengen ik uw boeien voor Febus , en aldaar zullen gei het gebruiken voor vinden die lett'ren wel klaar Beduiden moet ; spreken , eer gei het door dwang moeten melde .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1097.s.2	Voorvechter , stechte gits de onbedreeve held .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1097.s.3	zijn zijn doen kunst , daar gei zode velen gerucht vinden maken , die elk vinden het horen walgen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1097.s.4	Wat staan die wyshoosd naken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1097.s.5	zijn zijn die lett'ren toen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1105.s.1	Omiets van boek te weten , alles R. zijn Rechtgeleerde , en P. die zijn Poeeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1105.s.2	deze L. zijn Letterkunde , en M. zijn medicijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1105.s.3	doen H. historie , G. Grieks , doen L. Latijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1114.s.1	En gei durven ieder schrift verachten , en verdoemen ?	Emotion_Disgust
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1114.s.2	doen weten vinden Apol u geest onwaardig noemen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1114.s.3	gade heen , zeggen Onverstand , en zijn geheim raden , die hij , indien hij niet zijn muit achter laten , Apollo , niet alles ik de Zangberg zullen ontzeggen , mare aan hunn ' ondergang gewis doen hand liggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1118.s.1	ik dekkleed ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1122.s.1	Fluks vinden hier .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1129.s.1	gade heen , eer het hoog lopen , En gei u vuiligheid mede zwaar straffen bekoopt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1129.s.2	vinden hier gehaate passen de lett'ren , eer ik ' hand , uw naar verdienste en rechte bestraffen .	Emotion_Hatred_BodyPart_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.head.1131.s.1	Zevende toneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1133.s.1	onzijdigheid , Vrolijheid , ijver .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1141.s.1	laten doen band vinden ons vriendschap nu , o waard onzijdigheid !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1141.s.2	Nog vast zijn alles ooit , treden nu door ik leiden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1141.s.3	voor zonder schromen of vrees ' , na mijn Schouwtooneelen .	Fear_Emotion_Shame
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1141.s.4	zien , hoe wie oud en jong mede juk en ernst daar strelen .	EmotionalAction_Other
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1149.s.1	Ik merken , die Onverstand , door Achterklap en Nijd , En aangestookte twisten , u eer en rusten bestrijd .	EmotionalAction_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1149.s.2	gedenken steeds aan u plegen , ik zullen mede uw derwaarts treden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1147.s.1	Tegen Vrolijkheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.1152.s.1	Vrolijkheit .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1155.s.1	ik zullen zedig blijven , en in al vrolijkheid , de teugel houwen , schonen doen tij die hebben vieren .	Joy_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1161.s.1	Ik gaslaan , die ik naam , wel eer zode schonen gecierd , Door yverige liefde ook heerlijk weer mogen bloeien .	Emotion_Love
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1161.s.2	doen roemen vinden Febus , en zijn negen zuster groeien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1168.s.1	gei moeten hij weten doel , wat hier zijn omgaan . ik zullen nauw achten op die ik komen spreken slaan . ik geloven , die Achterklap ik zelf hebben onder houden , En Nijd in schijn vinden deugd , deze onrust wij brouwen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.1170.s.1	Achtste toneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1173.s.1	twisten , bedilal , verbaasd uiten .	Emotion_Wonder
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1177.s.1	EN waarom spraakt gei niet , zelf zijn hier omtrent ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1186.s.1	ik zijn al te wel in deze kleuren ' gewaad bekennen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1186.s.2	ik zullen die trotsheid heen eerlang mede kracht verkeren .	Emotion_Pride
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1186.s.3	Nu helpen geren raden , alles zien tot Onverstand te karn , En openbaar wellen te plegen , wan wie zijn Te velen in uw ontdekken ; mare kosten gei in die schijn Niet , alles wie altijd doel , staan roep , baar , schreeuwen ?	EmotionalAction_Other
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1191.s.1	ik vragen vinden zaak , en vinden schrijver , daad eeuw , Die op de rol niet staan , en daar ik nooit om denken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1202.s.1	Ik vinden niet raadzaam , die ik Achterklap hier wachten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1202.s.2	laten wij te hof , aan haten , en Nijd aanstonts vertellen ; wan dus zijn Febus , nog zijn lustre niet te vel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1202.s.3	ik brengen Onweetenheid , en al wat lett'ren haten , In het harnas , deze zijn hebben naast en zeker beraden : En Koning Onverstand , moeten hier de meest spel , Of ondergaan , en wie ook in zijn ' ramp deel .	Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1205.s.1	naar die doen Gordijn geval zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1205.s.2	Belachal , Nieuwsgierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1214.s.1	HA !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1214.s.5	wat dunkje vinden deze zeer aanzienlijk eed-gespan ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1214.s.6	Wat zullen ' er nog een huisje liggen !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1214.s.7	komen Febus een te deeg aan het zeggen ; En vinden hebben zeggen tot hebben slaan !	EmotionalAction_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1214.s.8	Ik menen naar Midas toen te gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1218.s.1	En tocht , om wat bij hij te maken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1223.s.1	Om , alles zijde nu in oorlog raak , Te dienst voor een goed Spion .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1228.s.1	die deugd niet ; wan zode het Febus winnen , Wat zouje dan niet wedervaren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1236.s.1	Ik zullen het wel mede een lachje klaar . ik hebben in de oorlog meer dienen , En hebben vaak d'een en d'aar te vriend ; Ik houden het mede heen , die boven komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1236.s.2	die met .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1242.s.1	Neen , neen , ik hebben voornemen alles reiziger een aan te zieden , Wat in deez ' optocht zullen geschien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1244.s.1	Einde vinden het eerst delen .	None
+bidl001nede01_01.TEI.2.text.body.div.head.1248.s.1	vertoner , vinden hebben Tweede delen .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1250.s.1	Apollo .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1252.s.1	doen Zanggodinnen .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1256.s.1	rijden .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1264.s.1	Onweetenheid .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1266.s.1	Sprinkhaan .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1268.s.1	horzel .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1270.s.1	Blaaskaak .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1272.s.1	Wakkerheid , Deugd , rechte ,	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1274.s.1	Wildzang .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1276.s.1	spinnenkop ,	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1278.s.1	Twee rover .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1280.s.1	Speldezoeker ,	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1282.s.1	Bitebaauw .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1284.s.1	Dodeers .	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1286.s.1	Drekvlieg ,	None
+bidl001nede01_01.TEI.2.text.body.div.list.item.1288.s.1	Boefje .	None
+bidl001nede01_01.TEI.2.text.body.div.stage.1290.s.1	hebben Zinnespel vertonen zien op de dagge ; verbeelden hebben toneel een boschachtig Landschap .	None
+bidl001nede01_01.TEI.2.text.body.div.stage.1290.s.2	In het verscheiden zien ik de bergen Parnas .	None
+bidl001nede01_01.TEI.2.text.body.div.head.1293.s.1	Tweede delen .	None
+bidl001nede01_01.TEI.2.text.body.div.stage.1296.s.1	Apollo , doen Negen Zanggodinnen .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.1317.s.1	gei weten , Gezusters , hoe in spijt vinden mijn weten , Een schuim vinden mens , ik de voeden zoeken dwars te zet , werven en gefterkt door Koning Onverstand , de ruw Midas .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.1317.s.2	Hoe zijn heir de standaard planten , Tot ik en u bederven , hoe hij ik roemen durven krenken , En ieder plaag , die mare om ik ' komst durven denken Nu willen hij , die ik krans zijn ' ezel oor dek ; En deze goud harp , hij tot een speeltuig strek . ik hebben om die eisen , die honen te weig'ren en te wreken , ik Veldheer rijden zien doel in hebben harnas steker .	Emotion_Disgust_Vindictiveness
+bidl001nede01_01.TEI.2.text.body.div.sp.1317.s.3	Om deze gedrocht , een vloeken , voor het algemeen goed de letter , gelijk een haatelijke passen , Te vegen vinden de aarde ik verwachten al uur ' te horen , Hoe het mede doen leger , en ik aanslag , staan scheren .	None
+bidl001nede01_01.TEI.2.text.body.div.sp.1317.s.4	Daar komen Nieuwsgierigheid , die zullen wij doel verstaan , Hoe al in , en voor de stag zijn toegegaan . ik verlangen te horen , hoe ik ' eer zijn waarnemen , En hopen ik ' vreugde ' te zieden , alles rijden weer zullen komen .	Joy_Emotion_Hope_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1320.s.1	Nieuwsgierigheid , Apollo , Zanggodinnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1336.s.1	langen leven de kunst Voogd , langen leefhet Negental de Zanggodinnen ; het lijden en dreigend ongeval de Muit'ren zijn dempen ; ik zinge zegezangen , Om rijden vol vinden deugd metblyde groeten te ontvangen .	Joy_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1336.s.2	die nu het behoorlijk liggen vinden u ' vergode zinnen , Parnas vergulden , en schitt're in het natten de hengste bron , Om mede versterken glans doen wereld aan te zeggen , die Koning Onverstand de staf staan neder te liggen . ik hebben , alles een reiziger , elk oorlogs macht zien , Hoe rijden , Wakkerheid , en rechte u volk gebieden , Hoe stoutheid en beleggen zien elk om het braaf kweeten ; Oprechtheid staan houden , en bedrog worden neergesmeeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1341.s.1	Hoe doen zien het leger op de vijand ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1341.s.2	hoe dragen ik Veldheer rijden zien ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.1	zode dra hij opkomen , jagen hij heen de doodschrik aan .	Fear_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.2	Op het klinken en de trompet vinden lusten , en naarstigheid , bevelen hij het heir te zet , In zijn ' slagordening , en wachten het leger af de Muitelingen , die zien breed op het veld begeven .	Emotion_Desire_Annoyance
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.3	Trompetter Blaaskaak laten zien boven ander horen ; doen Trommel vinden kwaasnap vervullen alom elk oor .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.4	zij legerkreet wassen , slaan Apol te zangberg uiten !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.5	doen dol Onweetenheid , wij nu geren rijden stuiten , houden voor doen bende staan , en stutten d'Ezelstandert alles Veldheer .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.6	Nijd in schijn vinden wetenschap veranderen , gedragen zien alles Heraut , en lezen doen weten af , Die Koning Midas aan deze vliegen leger geven , Om op Geleerdheid , Kunst , en Kennis toen te spring , doen wijsheid , Deugd , en Eer , te wereld uiten te dringen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1363.s.7	wij zien in dienst begeven , wier tot zijn tronen leiden Door Onbeschaamdheid , die alles zedenmeester vleid , Al die vervreemden vinden roemen , allee zij wel zijn stillen , In schrift wegge te doel , en dieze schrijven te kwellen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.1365.s.1	Apollo	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1367.s.1	wieden brengen hij ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1367.s.2	wan ik kunnen doen meest niet , in het veld ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1386.s.1	hij onder schraagde in het eest zijn haten , en dol wellen mede volk , wieden eigen liefde in t ' harden staan opgeblazen , alles zijde zij eerst schrift drukken voor vriend laazen , Die onvoorzichtig om te voeden deze vlammen , heen preezen , daar terstond doen hovaardij door komen , Die heen verhinderen hebben in uw gul te raak .	Emotion_Hatred_BodyPart_BodilyProcess_Love_Pride
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1386.s.2	mare deze brengen weinig aan , nu dienen hij eten wat taak , Verfoeijen , schreeuwen , of mare achterklappen kunnen .	EmotionalAction_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1386.s.3	Die overlasten durven doel aan een geletterd manna , Of vrouw , waard op een plaatsen vinden eer in het heir ontvangen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1386.s.4	ik weten , wat ieder voor een schimpdicht moeten erlangen .	Emotion_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1386.s.5	Die wat in het druk smoord , of het handschrift vinden iets goed Vernielen kunnen , waard voor mede vreugde ' , en velen gestoets , hebben leger door leiden , kronen mede netelstruiken , En tot de middernacht toetsen mede vol kruik .	Joy_Emotion_EmotionalAction_Other
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1390.s.1	Hoe zijn hun oefening de letter waap'nen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1407.s.1	vreemd ; wan wijlen geren zedevorm zij wild zin temmen , En alderhande slag vinden geest bij hij school , staan liggen te giszen , hoe die letterhelden dolen , Daar ieder meest vinden een onbeschaamd tong durven zeggen , die hij haten , of wijn , te zeggen dwingen .	Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1407.s.2	Daar doen een de ander prijzen , daar teen te zaamen schrijven , En geren vinden al iets groot , kunnen in zijn ' kunst bedrijf .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1407.s.3	Nog zyn'er onder , die aan d ' ander hopen te kloek , zode dra zijde enig vers , de maak'ren om de hoek Verasschen , deze voor het hun in al plaats feil , Dan twisten ik om de roemen , die zwaarlijk vallen te deilen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1407.s.4	te zijde doen goed willen misschien ook deze verdienen , die ook doen rijmkonst , botten , en boos hebben te vriend .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1411.s.1	Hoe gaan doen Veldslag toen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.1413.s.1	Nieuwschierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1422.s.1	zode dra u recht vleugel , doen licht bende , die mede losgelaaten teugel verschijnen , naakt , ontvallen zij het harden , doen likkevaan ...	Fear_BodyPart_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1422.s.2	mare ik horen een zegekreet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1422.s.3	Daar komen u Veldheer aan . het passen hij te ontvouwen , hoe u vijand worden slaan , ik zien hunn ' standaard , en verwonne wapen dragen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1422.s.4	Een hopen gevangene volgen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1426.s.1	ik treden hij te moeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.1428.s.1	Derde toneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1438.s.1	rijden mede zijn Gevolg , en Zoldaaten , Wakkerheid , Voorzorg , rechte , en ander , dragen gewinnen wapen , en standaard .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1438.s.2	Onweetenheid , Wildzang , Drekvlieg , Boeple , Speldezoeker , Belachal , Sprinkhaan , Krygsgevangenen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1438.s.3	Apollo , doen Zanggodinnen , Nieuwsgierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1444.s.1	beroemd Veldheer , en gei held , wezen groeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1444.s.2	ik lusten in het breedte nu de letterstryd te horen , En wieden gei dus boeien , de zangberg brengen te voorn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1450.s.1	doen licht bende lopen in het eerst vinden de slag , terwijl Ervarenheid , die op zij luim lach zij nazetten , en ontwrong deze rood legerteken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1452.s.1	waard vertonen een rood Vaandel , zijn in kan , en glas , en toebaks pijpen in schilderen zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1454.s.1	mede deze byschritt : studie & mores convenienter eunt .	None
+bidl001nede01_01.TEI.2.text.body.div.div.lg.1454.s.1	deze rotten bestaan uiten heen , die meer in kroes keeke Dan boek ; uiten een tal steen-slypers , en een hopen vinden held .	None
+bidl001nede01_01.TEI.2.text.body.div.div.lg.1454.s.2	bij wieden eed , en woord zijn te koop ; uiten licht vink .	None
+bidl001nede01_01.TEI.2.text.body.div.div.lg.1454.s.3	en baldadig eer schender , uiten los ziel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.lg.1454.s.4	en bederven geest kenner .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1463.s.1	Een schoon bende om hand aan letter te slaan ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1468.s.1	doen Wakkerheid , ik steunen , ontrok heen deze vaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1470.s.1	Een half groeien en geil Vaandel , zijn in een Narrekap schilderen staan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1473.s.1	mede hebben opschrift : Cubiculum Locandum , op een Uylenhoofd mede bel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1477.s.1	doen kleur geven geest en kracht vinden het regiment te kennen ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1491.s.1	Hier onder dienen alles geleerd , al die mede pen , Papier , en boek , inkt en schritten om moeten gaan , Papierverkoopers , en die het werken de druk verstaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1491.s.2	Ook die doen stad allee mede uitgebraakte prul , vinden lietjes , loopjens , en verbod rymtjes vollen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1491.s.3	Ook zien ik rei , week uiten volk bestooden , die Door speld en ledigheid zien zelf vergeten hebben .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1491.s.4	doen voortocht vinden deze rotten , bestaan uiten erg ziel ; Die doen onervarene langen voor Poeeten hiel , mare wel bij ik bekennen , nooit weten wat hebben wassen , Wanneer ik heen een vers of schrift te voorn lezen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1495.s.1	wij voeren deze vaan ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1506.s.1	doen vendrig Onbezonnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1506.s.2	zien hier de Hoofd-standaard vinden het muiten hebben gewinnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1506.s.3	En stout Onweetenheid , wieden deze zijn toebetrouwt , In u wellen brengen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1501.s.1	Een groot blaanwe standaard vaan , zijn in een Kakstoel mede rinkel schilderen staan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1503.s.1	mede deze opichrift : Plus Ultra .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1511.s.1	zode gei u woerd ik houwd ; hebben owe Koning op ik leven niet te zeggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1517.s.1	gei zullen haasten weten , wat Apol uw toen zullen liggen , Tot straffen vinden u bedrijf .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1521.s.1	zijn hout zien uw Heer ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1525.s.1	Op Konst-verdriet zijn hof .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1530.s.1	zijn Nijd nog alles wel eer bij hij in aanzien ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1538.s.1	En haten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1542.s.1	Meer alles voor deze ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1546.s.1	En Achterklap ?!	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1550.s.1	Die kunnen daar leven zonder vrees .	Fear_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1554.s.1	wij werft hij ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1558.s.1	Die hij kennen , ook kennen ik zij al niet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1563.s.1	die misselijk schepsel , die gei in hebben mijden zien , hebben heen voor spie dienen , die zullen wel al weten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1567.s.1	hij ziet'er lelijk uiten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1567.s.2	zeggen , hoe zijn gei heten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1580.s.1	ik heten schonen voor het ogen , of schijn bedriegen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1580.s.2	Belachal , die steeds overvliegd vinden vriend tot vijand , en vinden deze Tot vriend .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1580.s.3	Vaak vloeken , gepreezen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1580.s.4	Heer Koning , zode ik vrijen mogen gaan vinden straffen , en schande , zullen gei verstaan Al ons toeleggen , en wat deze Voor held zijn , die alles verwezen , alles onbeschoste buffel staan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1585.s.1	Wel nu , vangen u ' vertelling aan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1585.s.2	Hoe leven Vorst Midas , mede wat vriend ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1602.s.1	Meest zullen m'er haten en Nijd wel vinden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1602.s.2	hij spild velen gelden , velen tij , en eer , ( mare het laatst hebben hij nu niet meer ) Om zijn ' verwaantheid uiten te voer , u hof en land om te roer .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1602.s.3	mare daar hij ook mede uw om twisten , zijn , die gei groot Botanist wild wees , alles hij zien laten maken ; En zien , jouw weten wel , die zijn ' zaak , Die Onverstand niet dulden kunnen ; En zode komje aan de oorlog dan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1602.s.4	hij willen mede kracht vernuftig heet En daarom , doen hij door Poeeten zijn naam verbreden , dagge en nacht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1606.s.1	zijn in bestaan zijn ' oorlogs macht ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1630.s.1	doen macht vinden ons regiment bestaan uiten moeylijk soort vinden vent , uiten blaffer , ramlaars , en een goed , Ik weten niet , hoe ik het noemen moeten , die zonder talen , of kunst te kennen , de Zangberg op , en door willen ren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1630.s.2	Vorst Midas Onverstand , ik Heer , ( mare ik achten hij daar voor nu niet meer ) Gai om deze volk wel aan te ritzen , ik , het hoofd vinden velen vertrouwd spits , helen weinig gelden ; mare vol lassen , Om al die dienst wouw , te gast , bij dagge en nacht , in het hof te nood ; Ik worden op Konst-verdriet ontbieden , alles ik een held te voorschijn brengen , Die mare om rijm hebben denken ; Om zulk wassen ik meest verliggen , Die mede zij ' hekeldichten , tegen u Veldheer rijden zullen staan ; gelijk die gei zien voor uw staan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1634.s.1	die wees komen ik meer te voorn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1639.s.1	hij laten zien in u schuilen vaak horen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1639.s.2	mare zien een toen , lijken die geren manna ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1643.s.1	naar het uiterlijk , ja .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1661.s.1	lid dan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1661.s.2	die wees stillen , en vroed geschapen , leven even , alles doen onkundig aap , hij volgen in zijn ' onnozelheid ; Al wat voor goed worden voorgezeid ; zien hij doen jager doen oog wassen , hij vallen terstond ook aan hebben plas , Niet denkende op hebben geren hij vinden , wassen hij mede lijm zijn oog blind , En moeten bedriegen , door zij ' laag Voorts leven naar zij welbehagen , hij schrijven al wat Vorst Midas willen , Of hout zien vreedzaam , vrome , en stillen , Ja zelf gevangene vinden zijn ' heer , menen hij heen velen te kunne lederen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1666.s.1	Beschrijf hij , die zode stout ik onder doen oog treden , Al morren op zijn volk	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.1669.s.1	Onweetenheid , tegen enig gevangene .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1673.s.1	het wassen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1673.s.2	die gei uw niet kwijten , En al de legerlast , op mijn en zijn Koning lende deuken hebben ; zien nu , zien , al ons krijgen te eend .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1693.s.1	die groots beladen aangezicht , die zien willen berg voor u liggen , die twist in het eerst vinden wij krijgen , Ja wouw voor Midas zelf niet zwijgen ; Bezie zijn ' tronie , z'is helen fier , Glyk een opper grenadier , hij zijn de veldheer Commissaris , de Amonitie , Secretaris de loos handel , korten , en dom , doen roervink vinden de heel drom , Een dichten vertaaler , vinden doen spel , Die ik wij uiten Vrankrijk met komen deel ; tocht zode , die zode het u ' wijsheid zien , hij .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1693.s.2	en zijn vriend , de inkt verbieden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1693.s.3	hij trekken vol moede Apollo tegen , Of spreken , alles Midas raden willen plegen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.1	nul liggen verleiden !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.2	schamen uw wat , die gei dus uiten de regelen spatten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.3	Wat smaad !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.5	welk een lustre schenden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.6	Focy !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1700.s.7	die wie uw niet goed kennen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1707.s.1	Nu zeggen een op , wij zijn die manna , Die zode verheffen spreken kunnen , Gelijk bij poos en bij noot ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1707.s.2	Die Sprinkhaan , op zijn ' mug poten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1716.s.1	Een Critico Pedanticus , Poetico Politicus , Mechanico Mechinicus , Een Archiarchi Musicus ; Die spijt doen griek , en Latynen , geren vers spreken , alles in drie termijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1728.s.1	Ja , ik zijn die manna , en zeggen daar bij , doen faculteit zijn in ik .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1728.s.2	En vraagje , hoe doen frans spel , Hoe Ital ' jaanen zij ' toneel versieren ; ik zullen aan uw terstond , Een antwoord geven uiten de mond de oude wijze .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1728.s.3	die slijpen , doen ding in de haken begrijpen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1733.s.1	hij luisteren naar zien zelf , en draaien gelijk een haan , Die op hebben tipje vinden zijn ' kromste klauwen willen gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1737.s.1	Wat ambt hebben hij bij uw bedienen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1744.s.1	In het eest , alles ik , Jan Almans vriend , Die alles een weerhaan kraaid , En mede doen wind draaid ; Daar naar wassen het , of hij niemand kennen ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.1	foei heen , die hun vriend schenden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.2	durven gei u aanzicht herwaarts wonen , Verachter vinden doen geven , die Ik eer doen in u ' schrift zieden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.3	hebben overblyfzel de papier , Daar hoog vers over zwier ; dienen , die nu , om spijt u gewiz ' , En lettterkunde , en wat nog zijn In u vervoerden geest te rome , een ander schrist en eer te doemen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.4	kunnen uw voorheen geeerde deugd , ( mare liggen uw die niet meerder heugd ) de vuil boezem niet doel blaken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.5	zode denken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.6	die ik uw een zullen raak .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1763.s.7	mede geeszelingen , die uw het harden , langen steen zullen vinden wede en smarten .	Emotion_BodyPart_BodilyProcess_Sadness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1769.s.1	hij leren , alles schoolvoogd , al dag , bij torm vinden antwoord en vinden vragen , Hoe liggen ik kunnen voor dicht gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1775.s.1	zode zijn daar weinig arbeiden aan ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1775.s.2	wij zijn tocht deze ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1784.s.1	lanterfant , Dozyn Poeeten , licht kwant , vervoeren door blind hovaardij , onmachtig om doen weten , die gei Voor braaf geest hebben verkondigen , Te volgen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1791.s.1	hebben zij ' jeugd zondigen , doen laat tij zullen heen misschien , Tot beterschap hebben kwaad doel zieden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1791.s.2	wij durven zode stout daar schreeuwen , trap ?	EmotionalAction_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1799.s.1	Die zullen vinden kunst nog kennis klap .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1799.s.2	Die zijn voor geren Poeet bekennen , Die zetten u hoofd-school overeind , mede tier , lopen , klap , fluit , En onrust maken .	EmotionalAction_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1807.s.1	zulk guit , schonen mede een eerlijk kleden dekken , moeten ieder een alles zedeschenners , staan nog zitplaats zieden bekleen , heen nergens , daar ik spreken vinden letter , gehengen , mare alles beletzels vinden al aandacht buit brengen ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1813.s.1	Hoe heten die dingen , die daar zode zingen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1813.s.2	En alles een grauw krijten springen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1813.s.3	Wat zijn hebben , of wat willen hebben wees ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1830.s.1	die moeten ik uiten zijn leven lezen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1830.s.2	Ook weten hij zelf niet , wat hij zijn ; die kreng hebben bij doen paren pissen een onvoorziens de neuzen steken , mare nooit genuttigt , slechts ruiken , En echter willen het , ( hoe kunnen het bestaan ! ) Voor dicht bij doen mens gaan , En hebben verstaan vinden hegen , vinden link zij gang , en bedriegen , zode dienen hebben alles Ezopus beest vinden veren , zien vinden ieder geest , Die voor hij willen een dichtje maken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1830.s.3	ik noemen hij Boefje , bij doen snaak .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1835.s.1	wij staan daar zode voeden en glad , Gelijk een kaarzemaakers katten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1849.s.1	Die spelen de fijn dicht-geleerde ; die zijn hij , wie raden Vorst Midas eren , torn hij te zeer op gouden stellen , zijn harden vinden vinden berouw kwellen .	Emotion_BodyPart_BodilyProcess_Remorse
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1849.s.2	Die willen een gaauwen geest weerleggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1849.s.3	Die weten vinden Grieks dichten te zeggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1849.s.4	Die spreken vinden Aristofanes , vinden Eschilus , en Sotocles , vinden Sirische , en Hebreuwsche schristen , Op zijn Rabyns in zijn te schristen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1849.s.5	hij helpen , alles wij wat overvallen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1853.s.1	Hoe zijn hij dan ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.1855.s.1	Belaghal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1860.s.1	Gelijk bonfiel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1860.s.2	gei kunde ' er al dingen vinden maken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1860.s.3	hij disputeert in veel zaak , Een zaak allee lijden geren dispuut .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1864.s.1	Te weten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1870.s.1	die zijn ' kunst niet stuiten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1870.s.2	deze zijn door , en voor hij zode bewijzen , die hij geren weerspraak hebben te vrees .	Fear_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1877.s.1	Hoe zijn die wees zode veranderen , en zode willen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1877.s.2	die kunnen ik , ik hebben hij reedts te eren trappen tillen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1877.s.3	Hoe rijden , zijn deze ook op ik , en uw bijten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1881.s.1	nul ja .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.1	Wat dolheid hebben u ' herslenen bezitten ?	BodyPart_BodilyProcess_Despair_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.2	gade uiten ik ' oog tot u welbekenden plegen : Bestee u tij , alles eer in treuren or Heldendicht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.3	gedenken doen gul , die gei op heden hebben genieten , Daar veel uiten deze ; of bannen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.4	of stoten In boei zij bedrijt beklagen zullen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.5	gei Op hopen vinden beterschap , uw zien herstellen en vrijen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1894.s.6	warren Dolkop staan daar bij doen boom ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1892.s.1	Een de gevangene binden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1912.s.1	die zijn Wildzang , dienje daar zien komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1912.s.2	deze , alles hij Bromius niet wiegd ; verbaasd bij nacht te bed uiten vliegen , Om hekelschrift in kladden te stillen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1912.s.3	Die durven al razend oordelen vel , Op al wat schrijven ; terwijl ik niet Een letter vinden zijn ' vinding zien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1912.s.4	Die stadig zwest op zijn vertalen , En in doen taal dom lopen dwaalen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1912.s.5	hij eisen ( wat zijn die kop op hol . ) doen survivanse vinden Apol ; En willen , spijt weten en ondervinden , die uw doen dood een zullen verslinden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1905.s.1	Sciolus	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1916.s.1	schrijven hij geren klucht ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1927.s.1	Welk een vragen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1927.s.2	gei kennen hij niet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1927.s.3	Ja al daag .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1927.s.4	hij zelf zijn een de wild klucht , Die immer hersenen ontvluchten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1927.s.5	Hoe kijkje zode ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.stage.1925.s.1	Tegen Nieuwsgierigheid .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1938.s.1	komen gei hier met ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1938.s.2	gei kennen nog hebben A B C Voorleden jaar niet , wat ding !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1938.s.3	komen kraay met bij doen vogel zingen gei zijn wetentig al te goed .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1938.s.4	Wat doen hier ik lief bloeden ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1938.s.5	Druip stillen aan kanten , leren eest wat lezen , Dan kunje met een Drekvlieg wees .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1944.s.1	spinnenkop gekwest , al doen vorig .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1948.s.1	Wat schreeuwen daar uiten zode vol kroppen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1953.s.2	die zijn confrere spinnenkop , hij lijken gekwest .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1957.s.1	zijn zijn hij vinden ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.1959.s.1	Belachal gaan te zijden bij hij .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1963.s.1	hij zeggen , hij krijgen naar het staan twee wond .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1967.s.1	Wat zijn het voor een ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1984.s.1	Die het goed nooit prijzen , En het minst kwaad te vuur verwijzen ; Die zode neigen tot kritizeeren , En herrewarren , disputeren , En haar te klieven zijn , die hij het venijn zoeken : alles een honingby , Uitlekk're zappen vinden doen kruien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1984.s.2	En wat zijn kunst doel beduiden , kunnen blijk aan die droef klucht , Die nog in druk en band zuchten - deze zijn Betaalsheer vinden Zoldaaten , Die nu zij ' vaan , en kunst verlaat het zijn dol worremen , ik Heer .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1989.s.1	Die naam zijn ik nog nimmermeer , bij dichten , of dichter voorkomen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1998.s.1	geloven niet , die hij immer droom , Of luim hebben gewaad , zijn in , hij rijm of kunst schieten in de zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1998.s.2	Wat maken die manna al cermonien !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1998.s.3	Wat draaid die hoofd !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1998.s.4	hoe gaan doen knie !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.1998.s.5	hij buigen , en strijkbeent , lachen , en schutten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2002.s.1	zijn toen komen hij u Vorst te nut ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2017.s.1	Om per memorie op te schrijven , de lof vinden Midas krygs-bedryven , hij hebben , al zien ik hij niet velen , Zeer groots gezag , en het merendeel de Legerplaatzen , afgemeeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2017.s.2	Wel eer wassen het een de aards-Poeeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2017.s.3	verstaan , torn Weetniet mede zijn stam , In uw schuilen te heersen komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2017.s.4	Ja doen alles hoofd te mede doen muur , vinden Pallas hof zijn ' wraken bezuren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2017.s.5	hij zijn een groots vernufteling , En dienen zijn Vorst mede harden en klink .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2021.s.1	wij zijn die mede zijn ' kort haar ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2025.s.1	die zijn het hoofd vinden al doen zoetelaaren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2029.s.1	het zijn immers geren , die schrijven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2041.s.2	mare echter gaan hij in het gemeen , Daar lieden vinden geleerdheid wandelen , Niet om vinden letterkunst te handelen , mare om te zijn een Criticus , Zelf subtilissimissimus .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2041.s.3	hij kunnen ook al hebben fijn rome , Ja ook carakters schier al noemen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2045.s.1	Wat dol Horsel waard daar herwaarsts aanbrengen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2050.s.1	Horsel , bij doen vorig .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2054.s.1	Hoe woelen ?	BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2054.s.2	hoe raasd hij dus ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2058.s.1	hij hebben ik nier verwachten	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2062.s.1	zode kennen gei hij ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2066.s.2	ja .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2070.s.1	te degen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2085.s.1	Gewis die hebben uw Vorst gekreegen , Gelijk hij altijd zijn stellen : Ei , ro ik ' bede bij uw gelden , laten hij doch om zijn ' losheid lopen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2085.s.2	Die zullen zijn ' kennis niet verkopen , hij spelen zeer fraai de wild manna , En zien nog vriend , nog vijand an ; mare wilje hij hebben besteden lederen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2085.s.3	laten hij niet meer bij twisten verkeren ; Op die zijn ' woestheid nederzetten , hij spel schrijven naar uw weten .	BodilyProcess_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2090.s.1	het zijn , of hij dromen , of staan te ronken !	BodilyProcess_Anger
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2090.s.2	Wat maken gei hier ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2094.s.1	spreken , zijn jouw drinken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2098.s.1	wij dienen gei ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.2100.s.1	Horsel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2105.s.1	het zijn wel bedenken , vinden het Satris Veem . ik hebben jouw zoeken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2105.s.2	Wel Rymbroer , wel hoe gaan doen zaak ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2105.s.3	Wat kunje voorje sput nu maken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2109.s.1	zwijgen , zwijgen , en denken , zijn die jouw zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2113.s.1	doen Satris zijn hier niet bekennen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2117.s.1	Nog een zwijgen stillen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2126.s.1	ik ' lijf staffieren brengen hij aan kanten , tot die hebben zwier de dol geest in zijn geest , Bedaard zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2126.s.2	hij zijn een wezen , zijn in ik ' kunst zijn opheffen ; mare door velen vechten weer uitdrijven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2132.s.1	bij doen voorgaand waard Trompetter Blaaskaak , gevangene brengen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2142.s.2	groot Apollo , horen ik rechte , Ik wassen Trompetter in het gevecht , die zijn zijn ; mare wieden zij het niet verdriet , die , alles bij hebben een stuc maken , die niet op uw hoofd schuilen raken ?	Emotion_Sadness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2142.s.3	wij zij schier niet in het honderd schieten ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2153.s.1	Misschien zijn deze wel die Zoldaat , Die klucht uitschrijft , en laten druk , En die , gelijk zijn eigen stuk , Aan al mens lezen laten : En schelden ieder , willen doel blijk , die zijde zijn roemen verongelijken , Die hij de doorgang in u perk , Ontzeggen om een ander werken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2157.s.1	Ik hebben wij Volk mare aangedreeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2162.s.1	ik zullen uw straks u ' beloning geven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2162.s.2	Ik kennen , ( zien ik wel ) deze beeltenis .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2180.s.1	die zijn komma , punten , parenthese , Ook noemen ik hij N tuttel eend , Een oorzaak vinden zijn eigen ellende .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2180.s.2	Die menen te sterven vinden verdrieten , alles hij verkeerd accent zien .	Emotion_BodilyProcess_Sadness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2180.s.3	hij hebben bij nul , en E gezworen , doen letterkonst door het harden te horen , Om die K dubbel uw wijken voor Q ; En die hij ook doen waap'nen nu , alles Adelborst hebben opnemen , zijn om de Zangberg op te komen , Te dwingen , die zijde op hebben stuc vinden lettergreep , en de druk , hij alles , Distinctie , laten formeren , doen weten vinden hebben corrigeren .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2184.s.1	Hoe zijn zijn eigen naam ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2199.s.1	hij heten Heer , Speldezoeker .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2199.s.2	Die zode zweten , hebben heen en weer te pos lopen ; Voor hij staan Midas slaapzaal openen ; Voor hij zijn niet verbergen , wan , hij dienen voor niet Vorst Onverstand , En die mede zulk een ' drift en ijver , die hij ook doen eernaam hoord vinden drijver , hij pretendeerd u zode te zijn , Om die hij het liedje vinden Krispijn , hebben voor zijn Buurman uitschrijven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2206.s.1	Die zullen voorts in zijn eredienst leven , Gelijk een eekhoorn in een koude , Om die gei altijd lopen willen , En nooit in wetenschap vorderen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2210.s.1	Daar worden twee rover bij doen voorgaand brengen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2215.s.1	het zijn tegen Krijgs-gebruik en ord'ren , die gei heen binden , en dreigen , en staan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2229.s.1	zwijgen , zwijgen , eer het hij nog erg gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2229.s.2	deze zijn twee rover , doen een hebben vers stelen , en vinden hoog laars Op toffelen doel gaan , op die doen maker , alles hij worden vatten , hij niet zij weten op te dringen , die hij hij het zijn komen ontwringen : En deze brengen een ander dichten , uiten Nijd gebreklijk in hebben liggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2229.s.3	Ja hebben een stuc uiten hoofd schrijven , laten weer in onrijm uitgeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2234.s.1	die deze water dors , en deez ' , Aan stranden voor altijd bloem leez ' .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2236.s.1	rover binden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2243.s.1	het gelieven u Majesteit , de buiten t ' aanschouwen , Die tot een merken vinden zege zijn , aangehouwen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2243.s.2	deze vinden ik in de Maarschalks tent .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2247.s.1	Wat zijn het ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2251.s.1	Kritiken niet voleinden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2256.s.1	Misschien , op Mariamnaas leiden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2256.s.2	Neen , ik lezen vinden zegepralen , en strijd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2261.s.1	Dan gelden hebben liggen Cleopatra , Semiramis , of Feria .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2266.s.1	ik zien naam-plaats openen , het zijn schrijven , Op al , die iemand uiten zullen geven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2270.s.1	verwerpen ik iets , eer het zien hebben liggen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.1	die vallen die groot held liggen , Die vlug vogel zonder wiek ; wan al doen kunst vinden zij Kritiken , bestaan allee , in menigmaal , Te zeggen , die zijn triviaal , Of het deugd niet .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.2	Of deze vers moeten wees , Gelijk ik het kunnen uiten ons lezen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.3	deze bundel zijn vinden groots gewicht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.4	helpen Febus !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.5	Wat al hekeldicht !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.6	Hier vinden ik liedjes , kunnen het wel wees , die mens nog die vod lezen !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.7	gei vuil worm , slaan doen oog neder , Scheurd het fluks aan stuk .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2287.s.8	zien hier weer , Wat al paskwil !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2296.s.1	wachten u ' hand vinden deze vergif , ik zullen het doel verbranden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2296.s.2	Op die doen schande te diep raken , begeren ik , die ik uiten uw maken , Een die hebben ambt vinden Beul bekleede .	Emotion_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2300.s.1	Ik weigeren die mede rechte en reden ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2304.s.1	Ik hebben mare stof verschaffen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2309.s.1	En die , Die hebben ' er zes maken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2313.s.1	mare drie .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2318.s.1	En die , heeftze al in het netten schrijven , te minst , om , en uiten geven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2322.s.1	mare op wie kost ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2329.s.1	Wat een praten !	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2329.s.2	Op die vinden Midas , om wie haten Te stijf zijde mede gelden , en wijn , Tot deze strijden trekken zijn .	Emotion_Hatred
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2339.s.1	Om doen eer vinden die gei schenden te wreken , zullen gei te zaamen het vuur ontsteken , Ja zelf u schrift verdoemen , en , die zien elk uw voor fielt erken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2339.s.2	Niet woerd voortaan aan schrift te ruiken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2339.s.3	Papier , of pen te gebruik .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2339.s.4	ik brengen fakkels , nu steken aan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2341.s.1	Alhier verbranden ik een bundel paskwil .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2347.s.1	wie aanzien , uw Apol , misdoen , trachten de mens eer te schenden ; vergeven wij deze , mits wie het bekennen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2353.s.1	ik brengen deez ' in het naar en diep hol de aarde , zijde school altijd , nu zijn zijde ik liggen niet woerd .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2355.s.1	doen Onweetenheid , en onkundig Aap , binden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2359.s.1	Apollo , rijden , Belachal , Nieuwsgierigheid , c.	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2363.s.1	WAt boek zijn die ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2367.s.1	het zijn twee frans woordenboek .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2371.s.1	heten die vertalen , die ik ieder woerd moeten zoeken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2375.s.1	Wat zijn dorren klein pakken ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2383.s.1	het zijn brief , deze adviezen , vinden Raadslien , die om eer en achten te verlies , allee bekennen zijn , mede de naam vinden votre Ami ; Deez ' kennen ik , nu ik het schrift en deze wapen zien .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2383.s.2	lezen een .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.speaker.2386.s.1	Nieuwsgierigheid lezen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2395.s.1	maken die gei kunde tot vriend , gei zult'er twee tot Sprinkbaans vinden , Die liegen kunne , die geren mens , heen achterhalen kunnen ; ik wensen , die gei voor het langste , op overmorgen , ik hier op willen bescheid verzorgen , En maken , die ik handschrift weer , mede Frere Dodaars herwaarts kaar	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2400.s.1	deze komen vinden mens , die vinden deugd en weldoen spreken , mare achtershands doen deugd , wel wild het harden doorsteken .	EmotionalAction_Hatred_BodyPart_Vindictiveness
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2407.s.1	mare deze superfyne , en listig Zoldaat , wieden quasi al doen affaire in het minst niet aan en gaan .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2407.s.2	Hoe zullen u ' Majesteit zijn ' straffen tocht termineren ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2415.s.1	Die moeten ik voor een tij aan het heyblok confieneeren , Om daar doen harmonie , verstaan Mechanice , vinden stemmen en kracht te zieden , alles ook zijn doen eerst snede vinden muur , en grond moeten zijn , wanneer ik wel willen schiften ; Om dan naar haken , en lood , te meten zijn ' gedicht .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2421.s.1	het geschiede zode ; en om de laag tusschen-tijd bewaren te zijn , voor nieuw aanvechtinge vinden Nijd , zullen hij wat zemel , of wat duinzand mogen knopen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2426.s.1	Wel hadje die genade , zeggen een , wel durven hoop ?	Emotion_Hope
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2426.s.2	Wel Sprinkhaan , zwygje dus ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2430.s.1	Hoe ik een Criticus ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2435.s.1	zwijgen , eer ik uw doen steeuen kloven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2435.s.2	Of afstand vinden doen kunst belooven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2437.s.1	Sprinkhaan binden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2451.s.1	wat zaak .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2451.s.2	Wel Boefje , zijn die een straffen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2451.s.3	die heetje altijd vermaken ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2453.s.1	Boefje binden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.1	die wildzang zullen ik eest nog wat in dnisternis bewaren , dan bezie , of het hoofd wat stillen ' er zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.2	zode ja , zijn ' vryigheid , zode neen , doen woonplaats geven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.3	Daar deze vers in de gevel staan schrijven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.4	 Die mede krankzinnigheid zijn begaafd , Die worden hier spijzen en gelaast .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.5	laten deze lossen , mare die vinden Grieks of taal bas , Die zullen wel in doen A. ik menen doen grieks passen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2469.s.6	Voorts zultge uw richten na het geren ik op gist'ren lezen , En al doen weten vinden d'hervormden bergen Parnas .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2471.s.1	al gevangene binden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2475.s.1	Ik zien Vrow ijver , mede nog ander maagd komen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.head.2477.s.1	Negende toneel .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2481.s.1	onzijdigheid , Vrolijkheid , ijver , Apollo , rijden : doen Zanggodinnen , Nieuwsgierigheid , Belachal .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2494.s.1	NU gei verwinnaar zijn , verschijn ik zonder schromen , Daar Liefde , kunst , en Deugd in ieder jaartijd bloeid .	Emotion_Shame
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2494.s.2	Hoe zeer ik doen Achterklap vervolgen hebben , en vermoeien , Nog spreken ik , en om ook een Lauwerblad te vroeg , bij die uw kronen , tot de wereld groots genoegen . ik hebben doen Achterklap betrappen , en doen zij vasten alom doen mens kennen , daar zijde schaamrood staan en stom .	Joy_Emotion_BodilyProcess_Shame
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2494.s.3	Ja hadmen wel spoeden , doen Nijd wassen zelf verflagen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2494.s.4	doen twisten zijn het weer ontvluchten , in doen oud hinderlaagen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2494.s.5	Daar het regiment vinden haten omtrent nog zijn verspreiden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2498.s.1	Wat hebben ik ik , en uw , om Onverstand misleiden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2503.s.1	zode waard u oud roemen mede kracht weer opheffen , u rechte verdaadigt , en het onwetend Heir verdrijven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2510.s.1	het Heir scheiden een enkel manna ; wan die voorheen doen lier , Of hogen stijl verkiezen , wassen hier nu even fier .	Emotion_Pride
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2510.s.2	Elk scheiden tot u behouden te worden aangedreeven .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2514.s.1	wij zijn vinden wij , wij vinden de vijand kanten blijven ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2525.s.1	Held Vuilbek , Teuterk waad , en Vuilaard , stokebrand , En Muggezifter , zijn vinden ons vijand kanten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2525.s.2	vinden d'onzen , Willigert , en liggen verlijd ; doen reden , die meest te klagen zijn , die , Rustbelang , alles met , Heer Nutt'er tijd gebruiken , en Leeslust , zijn wonden : En Vredegaard , schonen hij bijna in het mijden staan , gevangene zijn .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2525.s.3	doen resten , die wie alles nog vermissen , zijn overloper , naar weer trouwen ik niet kunnen gissen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2535.s.1	Vrouw ijver boeten weer mede and're deze schaa .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2535.s.2	Eer ik mede uw in het dal vinden helicon nog gade , doen Legerbuit , en zege omstandig gade verhaal , Hoe wie door rijden , op de vijand zegepralen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2535.s.3	En eer ik uw vertellen , hoe ieder zijn gestrast , naar die hij dol wassen , of uw tegen hebben geblaft .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2535.s.4	zode eisen ik , die gei al u Veldheer gaan bedanken ,	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2545.s.2	rijden , gei verdienen , mede uitgelezen klank , vinden Zang , en woord , door ik rij te zijn onthalen ; doen wijsheid , en doen moede , week uiten uw oog stralen ; doen daad , die gei doen , zullen al ik verplicht , Om uw te mengen , in ik ' hoog Heldendichten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2545.s.3	En wild wij harden altijd in vol liefde blaken , zode zetten uw ook te rusten , daar bloeien ijver waken .	Emotion_Love
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2549.s.1	Daar zullen gei ik altijd tot uw genegen vinden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2553.s.1	En hoe ik ik allee , aan u beleggen zullen binden .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2559.s.1	mare wat doen deze hier ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2559.s.2	indien ik iets vermogen , beletten voor altijd hij , die smalen gelach , die deugd , en vreugde ' , gelijk in uw schuilen moeten wraken ;	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2565.s.1	Ik menen , die gei het mede een lachje af zullen ' maken .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2565.s.2	liggen nu , nu liggen .	Joy_BodilyProcess
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2569.s.1	Ik zullen voortaan ...	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2576.s.1	gei zullen voortaan , mede een sluiten mond , en Bochel voor uw gaan , Om ieder feil , niet op het scherp voor te dragen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2576.s.2	uw zelf meer kwellen , alles gei ander ooit kond plaag .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2583.s.1	Hoe lachje niet ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2583.s.2	wat zijn deze zeggen ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2583.s.3	gei hebben elk fraaitjes uitleggen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2583.s.4	mare weetje nu wel , wieje zijn ?	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2583.s.5	Een vals harden , die zien zelf niet kennen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.1	Nu ik doen monster , die mede list , en dol wellen , doen letter-Heerschappy bestrijden , zien vellen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.2	gevoelen ik weer een vreugde ' , alles torn ik op doen berg hebben Ondier Pithon treffen , die mijn buigen dor tergen .	Joy_Emotion
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.3	Indien Vorst Onverstand weer opstaan tegen ik , zullen ik hij in zijn hof , en eigen heerschappij , zode fel bespringen , die doen minde mens zullen weten , Hoe ik kunnen straf , die zij plegen aan ik vergeten .	None
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.4	die doen algemeen lusten tot Dicht-konst weer herleef .	Emotion_Love_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.5	zijn door zode menig Geest vergoode vers schrijven , gedachte malen , die de eeuw kracht verduren , zijn roemen verbreide , in lof vinden held , vorstin , buur , En vriend ; scheppen nu moede , liggen u ' bevreestheid af , ik zoon , tonen de lusten , die uw ik prikkel geven , En zien niet uiten mogen , laten uw geren ' les vervelen , Die uw tot wijsheid nopen ; laten treuren en Blye-speelen , zien t ' zaamen houwen , om het vermakelijk en goed de braaf burger , te druk in het gemoed .	Fear_Emotion_Love_Desire
+bidl001nede01_01.TEI.2.text.body.div.div.sp.2606.s.6	Gezusters , nu doen strijden te einde zijn , en gewinnen ; zullen ik mede rijden tot de zang uw vorderen kunnen .	None
+bidl001nede01_01.TEI.2.text.body.div.div.stage.2608.s.1	Einde vinden het tweede en laatst delen .	None

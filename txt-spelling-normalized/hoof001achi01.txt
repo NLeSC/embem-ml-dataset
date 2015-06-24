@@ -1,0 +1,986 @@
+hoof001achi01_01.TEI.2.text.body.div.head.500.s.1	P.C. hoofd speld vinden  Achilles en Polyxena	None
+hoof001achi01_01.TEI.2.text.body.div.head.503.s.1	nemen de persoon .	None
+hoof001achi01_01.TEI.2.text.body.div.p.504.s.1	2 koor :	None
+hoof001achi01_01.TEI.2.text.body.div.p.569.s.1	AchillesAgamemnonMenelausNestorGrieckenUlyssesDiomedesAiaxAutomedonPatroclus stomPolyxenaPryamusHecubaHectorAndromacheTroyanenParisHelenaAeneasAntenorDeiphobusAstianax stom	None
+hoof001achi01_01.TEI.2.text.body.div.head.573.s.1	de drukker tot de lezer .	None
+hoof001achi01_01.TEI.2.text.body.div.p.665.s.1	beminnen lezer , nademael doen kunst vinden rederijk in wij lief Vaderlandt zeer bloeyende opgaan , eend mede zulk kracht eend snellicheyt oprijst , die elk reed'lievend ' hart hij mede verwondering daar in verblijd , dies te meer , om die doen Gheesten vinden ons tegen - woordighen tijd inde kunst vinden rederijk wederom oprichten doen zuiver nederduits taal : in welk oprechtinghe de auteur deze Treurspels niet doen minst en zijn , mare doen meest , na hebben oordelen vinden velen treffelijk verstandig mens , zo die ik niet en hebben kunnen naerlaten deze teghenwoordighe Treurspel vinden Achilles en Polyxena door de Druc gemeen te manen , eensdeels om doen over - groot vloeyentheyt van Poetsche dicht , te ander om doen heerlijk lering eend sententien die de auteur hier in aenwijst , eend hoe naectelijck hij hier af-beelt doen begheerlijckheyt de ik - schen , eend doen veranderinghen vinden die , alzo die hij wij die naakt - lijk in een Tafereel afghebeeldet hebben : om te kort te zeggen , zijn nader brengen met tghene hij zijn , eend waar toen hij doen Nymphen stellen aanzien , te weet , te wees het hoofd van poeet t'onsen tij , zo die doen muis die drymael drie in ghetale zijn , door haar bieden Fama hij aanzien doel voer door gans Neder - land ; zo die meer dan billijk eend rechte zijn , die doen ghene die Fama mede haar gheluyt hebben wakker gemaect eend ook enig werk de - zelf hoofd aen de dag ghekomen zijn , die ook deze uitnemend bloem aen zijn Krans vlechten worden .	None
+hoof001achi01_01.TEI.2.text.body.div.p.665.s.2	verhopen die de auteur deze werk , ik mijn arbeiden eend kost vinden deze Treurspel enten liggen te gheven , te goed nemen zullen , ghelijck ik wel weten die al konstlievende harten daar in een vermaak scheppen zullen .	None
+hoof001achi01_01.TEI.2.text.body.div.p.665.s.3	vaart wel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.667.s.1	[ D'Eerste handeling ]	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.668.s.1	D'Eerste handeling , eerst wtcomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.670.s.1	Achilles , Automedon	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.672.s.1	Achilles	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.1	Calchas Thestorijdes , alles ghij uw ghinct vermeten vinden Troijens ondergang de god willen te weet , Haa , weinig weten ghier vinden , alles ghij voorsaijde , die wijden negen jaar lang voor doen Troijaense stad Toebrengen zullen mede verdrieten en kommer , mare Verwinnen t ' goddeloos volk enten tiend ' en laatst jaar .	HeavyHeartedness_Worry_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.2	wan wassen de vallen nabij vinden Troijas hoog wal , Door wie hand zullen die alles door Achilles val ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.3	Calchas , woerd ghij in hebben waarzeggen zo leren , Ghij zout Achilles vallen aanzien profeteren !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.4	Achilles vallen , zeg ik , en door Achilles sterven de griek ondergang en endelijck bederven !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.5	Tgemeene volk , die dag mede arbeijt zijn bezwaren , ontlasten doen nacht , die ik doen groot onrust baard .	Worry_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.6	doen god , moede gedanst , zijn langen te rusten gaan ; elk naar zijn lusten , behalve doen verliefd manen , Die , bleek door groot minnen , onmoghlijck te verkouden , Stilswijgent treuren mede haar vergulden staetjoffrouwen .	Emotion_EmotionalAction_BodilyProcess_Love_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.7	doen Griexse prins slaap zonder achterdacht , En stout crijsluij , iae , een groots delen vinden doen wachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.8	Achilles kan allee op bed nog bulster duren ; Achilles moeten allee dag en de nacht bezuren doen groot kracht de min .	Emotion_Love_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.9	zijde ghij doen zelf manna , Die corts Neptunus zoon in enen slag verwinnen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.10	Ghij , die nu goed bij nacht t ' troijaense vellen door wandelen , Niet een te lid op doen wachten en t ' svijandts handelen , Niet om t ' voornaam vinden haar helper te bespieden , lijken een Capijteijn betamen staechs toen te zien , waar Troijens muur swackst en licht zijn om te krenken , mare om doen schoonheijt vinden uw , juffrouw , t ' overdenken !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.11	Achilles , t ' zijn een schant ; ghij , die woerd corteling vinden Troijen meer ontzien dan enich ander dingen ; Die t'svijants bloedig heijr en Hector doen grouwe , Wijct die voor een , voor een , voor een Troijaense vrouw ?	Fear_Emotion_Disgust
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.12	Polyxena , k ' hebben noijt uw broeder ijet achten , mare uw manier hoog zijn vinden een ander kracht , uw teder schoonheijts glans , een oorsprong vinden ik smarten , uw edel hues gelaat , bespringen doen hoog harten Gans op een ander wijze alles t ' manlijk geweld de stout crijsluij doen in hebben bestuiven vellen .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.13	Lichamelijcke crijch , verwin vinden volk en rijk , En d ' oorloch vinden gemoed malcander niet gelijk .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.14	wij doen de Hercules oijt nut weerstand ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.15	Omphale komen en nemen zijn wapen uit doen hand , Die mette vrouw kunst doen spil draaien leren , Die ganse rijk corts hebben onderst boven keren !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.16	mare als uw wil wassen , Cupido , groot Ghodt , die ik ook worden mos in uw minnen verzot , Hoe onderwerpen ghij niet aen zulk vrouw ik zin , Die ' ck zonder achterdeel de griek mogen min ?	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.17	waarom maken ghij ik slaeff vinden mijn vijandin , Die ik zo dootlijck haten alles ik haar hertlijck minnen ?	Emotion_EmotionalAction_Hatred_BodyPart_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.18	In wat manier zullen nu Achilles troosten verwerven , Die , zo hijt niet en krijgen , moeten troost-gebreckich sterven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.19	Wat zullen ik dan ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.20	Te helpen aen die vinden Troijen gaan ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.21	doen prins , die ik zweren , verlaat en verraden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.22	wan hoe zullen Pyramus zijn dochter kunne geven Aen een , die hij staat naar eer , na land , na leven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.23	doen god gunnen wij wat beter .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.24	Hoe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.25	daar zijn Wel ander middel , niet oneerlijk voor ik .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.860.s.26	Automedon !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.862.s.1	Automedon	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.864.s.1	ik heer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.1	terstond moeten ghij gaan binden doen stad de outsten zoon vinden Priamus gaan vinden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.2	En zeggen hij uit ik nader : Achilles wensen hij , die hei langen voorspoedig leeff tot welvaart vinden zijn stad .	Emotion_Benevolence
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.3	daar na verhalen hij , wat ik om zijn zuster lei .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.4	Indien hei in de node ik daar mede willen verblijden , ik zullen doen griek vinden hebben oorloch aff doel staan , doen prins en hebben volk altsaemen schip doel gaan , En t ' Argos tot haar vrouw en klein kind karn , Die , t ' zijn al negen jaar , haar wedercoompst begeren .	Joy_Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.5	Indien hei ik voldoen en laat ik wens geschien , Op deze manier allee zijn t ' ongeluk te vlijen , die Troijas hovardij vinden god hebben te verwachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.6	uw boodschap wel wild doel , en ras te kern trachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.912.s.7	En brengen ik twijfelachtig antwoord in ik tent .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.955.s.1	ik gaan terstond , ik heer , daar ghij ik heen zenden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.955.s.2	tas wonder , die d ' aldergroothertichst capitaijnen , doen mannelijckste man , zij zelf zo verkleijnen , die zijde haar edel vernuft en overgrote geest , Die vinden een ieder wereld verwonderen en gevreesd , dik onderwerpen aen een vrouw slechten en teder .	Fear_Emotion_Wonder
+hoof001achi01_01.TEI.2.text.body.div.div.sp.955.s.3	Bryseis wassen hebben laatst , Polyxena ' zijn nu weder .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.955.s.4	doen kloek jongeling , die nu hebben aardrijk dracht , wassen slaeff vinden zijn slavin ; nu zijn hijt vinden een maagd , Die hij voorzeker mede meer plaag wensen beladen alles Xanthus vis hebben en t ' bus vinden Ida blad .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.955.s.5	hebben daecht te mede en ik zijn aen doen muur schier .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.957.s.1	1 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.957.s.2	Handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.957.s.3	2 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.957.s.4	Wtcomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.958.s.1	wachten op doen muur	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.960.s.1	wachten	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.962.s.1	wassen daar ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.971.s.1	doen koning vinden Tessalijen zenden ik hier , En moeten ik boodschap niet dan Hector zelf uitleggen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.978.s.1	Indien ghij wat vertoeven , ik zullen hij aen doel zeggen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.979.s.1	Automedon tot Hector op doen muur .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1062.s.1	grootmoedig Prins , die zijde uw ' svaders rijk pilaar , zonder wie recht hand doen stad langen t ' onder waar , doen zoon vinden Thetis , die snel lopen al hebben hei wijecken , Die zenden ik uit hebben heijr vinden doen geleersde griek , En wensen uw , die ghij lang leven en tegelijck Geluckelijck beschermen uw oud toecomend rijk .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1062.s.2	t ' sinds die uw moer laatst doen god vinden Delos eren mede kostel offerant , en Troijens heijl begeren , En die Polyxena mede haar te outaer komen , ontsteken de held zijn hart mede zulk heten vlammen , die lijeft tot jachten en crijch , die hei te voorn eren , Altsaem in teder lijefd ' vinden deze prinses verkeerd .	Emotion_BodyPart_BodilyProcess_Love_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1062.s.3	Al ander oefening slaan uit zijn zin , doen niet dan maal in zijn ongemeeten minnen , In welk lijefd ' hei wensen genietend te volharden Tot die vinden lichaam zullen zijn ziel scheiden worden , lonen hij Polyxena mare mede gelijk branden .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1062.s.4	Nu staat hebben gans geluk vinden Troijen in uw hand : Indien gh ' Achilles niet vinden haar en goed versteken , hei zullen doen griek vinden doen muur op doel breken ; zo blijven uw vader oud en broeder in haar lof , En achter het tiend jaar zullen edel rijk hoff vinden Pryamus in fluer nog blijven en verblijden , die swaerlijck wereld gedraeijcht vinden veel prophesijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1065.s.1	Hector	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.1	ik wens de Mirmidoischen Prins groots vinden moeten Sijns lijffs genieting tot vergelding vinden zijn groeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.2	Achilles ik beloven ik zuster te vereren , Indien hei het griexse heijr niet willen terug doel karn , mare levrent in wij macht en helpent zelf verslaan , die niemand over blijff dijen mogen vertrekken gaan , die griek nimmermeer deze aenslach en mogen prijzen ; Off Atreus neef zelf de weg te hel wijze .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.3	Die doden mede zijn hand , tot voorstant vinden wij zaak , En eren troijen mede een hoog verdiend wraak .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.4	Indien hei een voldoen vinden beide deze ding , zo goed hei al die oijt troosten vinden Lieffd ontvangen Te boven in geluk , en krijgen ik zuster cuijs , Laomedons slachten , vinden oud en edel huijs vinden Dardanus uit Jovis goddelijk zate spruiten .	Emotion_Happiness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.5	Aldus zijde worden mogen vinden hij allee genieten , mare op geren ander wijze winden hei deze teder maagd .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1124.s.6	Dies tot zijn tint keren , en hij deze antwoord dracht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1125.s.1	spreken hebben goed binden Hector .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1146.s.1	Spijtijge tijding zullen deze voor Achilles wees .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1146.s.2	doen wond enten t ' hoog hart zijn zo niet te genezen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1146.s.3	Die nummer t ' winden zoeken dan ridderlijk , soud ' hei zijn lusten zoeken te boete door verraderij ?	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1146.s.4	ik weten wel , deze smaad vinden Hector zullen hij kwellen .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1146.s.5	ik zullen hij niettemin hebben gans stuk vertellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1148.s.3	3 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1153.s.1	Automedon , wat nieuw ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1153.s.2	brengen ghij wij god geluk ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1153.s.3	Wat antwoord Hector ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1153.s.5	vertellen ik t ' ganse stuk !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1182.s.1	Hector , een oorzaak meest vinden alder griek schade , willen , die ghijt laag off doen prins zout verraden : zij levren t ' ganse heijr , en helpent moord fel , Off zenden mede uw hand d ' Atrijden na de hal .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1182.s.2	En doen ghij geren vinden bei , en slaan zijn eis geren achten , Ghij zullen Polyxena tot uw lot verwerven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1182.s.3	Dan , doen ghij geren vinden bei , en slaan zijn eis geren achten , zo zetten zijn zuster vrijen ( zeggen hei ) uit uw denken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.1	Hoe nu verwaand Prins ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.2	doen moedichts vinden doen griek Durfft ghij die vinden verraden ( o zot hovaert ) aanspreecken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.3	verwaandheid ongegront schaden niemand dan haar heer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.4	ik ongemeten hart , die niet en achten dan eer , Soud ' die stillen te neder , en laat zien verwinnen vinden Venus blind kind , en t ' onversichtich min ?	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.5	In geren manier , al mos ik durven schonen ik vrow !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.6	Voor wellust goed ik eer , ik eer hand aen ik trouw .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.7	deze hand ( ik zwaard doen god ) zullen uw te hel storen , deze hand ( ik zwaard doen god ) vernielen zullen uw muur , deze hand ( ik zwaard doen god ) zullen binden kort tijd Gevancklijck leiden t ' pand , daar ghij dus tros mede zijde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.8	zijde ghij vinden goddelijk zate , gelijk ik goed versieren , Die minnen dan menschlijck zijde , en meer gelijct doen dier , vinden laag gemoed , niet woerd nog datment achten off eren ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.9	Hoement meer heusheid doen , hoe die hebben meer begeren .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.10	Een edel hoog gemoed meer dan gemeensche zin Laetet hij nummermeer in heusheid overwinnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.11	nul vreemd branden de min !	Emotion_Love_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.12	zo lichtelijk ik wel spreken vinden uw te bluschen uit , gelijcmen uw onsteect , mare zwaar zijn inder daad uw uit hebben hart te scheiden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.13	En t ' zwaar die ghij hebben in uw zijn langen verbeiden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.14	nul , die mede uw gezicht beschaamd doen zon klaar , elk uier t ' sinds ik uw zien dunken ik wel duizend jaar .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.15	o Venus !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.16	geven ik raad in ik verward zin .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.17	verschonen indien ik zot laster doen wijze min !	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.18	Jivoren aangezicht , zo ghoddelijck telen , ja schoon alles hebben schoon , die schoonheijt zien voorbeeld , allee vinden god slachten , sieraad vinden ons tijd , Cupidoos hoogst roemen , al Venus hoverdie !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.19	Achilles , wel , hoe nu ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.20	zijn deze die uw betaempt ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.21	Ghij droecht een vrouw cleet , alles ghij te oorloch quaempt , Door uw moeder vrezen , die ghij alhier zij blijven .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.22	Nu gh'lijckt ghij niet enten cleet , mare enten gemoed doen wijf .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.23	Tot nog toen hebdij dan enten oorloch kloek werken En menig strijdbaar held gewapend ombrengen , Ontallick volk gedoot , en na de crijchs manier de hal vinden burger , en vinden spijs verzien doen dier .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.24	Tot nog toen hebdij dan meer na t ' verhard gevecht Dan enich kapitein winteeckens oprichten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.25	Tot nog toen dan uw nader verzekeren voor hebben sterven Om mede een zotternij die al te bederven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.26	d ' Onsterfflijckheyt ws naems , daar ghij zo velen om leed , mede moeite en arbeijt street , bestuiven en besweet !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.27	Hoe sijdij dus verkeerd ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.28	al t ' beestelijck leijt boven En het goddelijk vinden uw aard verwinnen en verschuiven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.29	Achilles nader , daar elk mede zulk ontzag vinden sprect , zullen die nu worden mede verraderij bevlect ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.30	ik zwaard : in geren manier , mare zullen gaan openbaar Hectors verwaentheijt zot , en het ganse stuk verklaren Aen Atreus neef bei , dijen allermeest goed aen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1343.s.31	zo vallen doen trots stad , en blijven ik eer staan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1345.s.2	handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1345.s.3	4e Wtkomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1347.s.1	koor	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.1	koor 1 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.2	nul wonderlijk strijd in ieuchdelijcke zin , moeilijk eergiericheijt , en zacht branden vinden min !	Emotion_BodilyProcess_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.3	wij vinden uw beijden hier doen groot zijn vinden kracht , besluiten noijt sterfflijck mens wel vasten in zijn denken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.5	zeer dickmaels wind doen minnen , en dicmael , zijn niet wonder , brengen d ' eest verwinnen eer weder zijn verwinner t ' onder .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.6	doen eer beloven een lusten , daar niemand aff en grijzen , En t ' geren doen minnaar lieft , allee doen minnaar prijzen .	Emotion_BodilyProcess_Love_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.8	die al doen wereld prijzen , kan niet velen waardig wees .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.9	Meer dunken ik t ' geren die een off twee prijzen woerd prijzen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.10	Ghewoont bedriechter velen , en ander reden schijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.11	d ' oprecht oordelaar te wereld zeldzaam zijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.12	4 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.13	doen prins groot , waar in doen volk haar vertrouwen , waar aen doen wereld hand , altsaem aan d ' eer haar houden , En acht die velen meer dan al haar rijk en staat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.14	mare welk Prins wassen noijt Cupidoos ondersaet ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.15	5 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1432.s.16	Gheluckich zijn hei dan , dijen hij niet laat verdriet Te strijd voor zijn eer , en lijckwel mogen genieten doen gaaf vinden doen Min. mare zijn geluk zijn kwaad , dijen nodig zijn die hijt een om t ' ander laat .	Emotion_Happiness_Love
+hoof001achi01_01.TEI.2.text.body.div.div.head.1435.s.2	handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1435.s.3	5e. Wtcomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1436.s.1	Menelaus .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1436.s.2	Agamemnon .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1436.s.3	Achilles .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1438.s.1	Menelaus	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1448.s.1	dat Autumedon te kennen geven , wel god zijn , Hoe wel die Thetis zoon eerlijk en hoog vinden moeten zijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1448.s.2	wan wij weten niet , wat dik doen min doen bestaan .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1450.s.1	Agamemnon	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1457.s.1	maken niettemin geenszins hier vinden bij hij vermanen , wan twijfelen vinden zijn trouwen grootlijxs de Prins zullen kwellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1482.s.1	daar zijn doen broeder baij , ik goed haar nu vertellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1482.s.2	geluk ion uw Jupijn en een langen leven tijd , Ghij , die vinden griexse heijr veldheer kiezen zijde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1482.s.3	doen vreemd hoverdij en smadelijck begeren , die Hector op ik doen , die doen ik tot uw karn .	Emotion_Greed_Pride_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1490.s.1	Wat zotternij zijn nu , daar in wij vijand dwaelt ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.1	doen kracht vinden Venus kind onnodich zijn verhalen , Die hei goed al dag in volk en prins toon : Hoe weinig hei doen god de hemel goed verschonen , Hoe klein ontzag hei voor zijn eijgen moer hebben .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.2	de ghoden koning zelf , voor wieden hebben aartrijck beven , doorschieten hei , en goed hij daar in niet meer bezwaren , Off maiestaijts kwetsuur gans geren misdaad en waar .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.3	Gheen wonder zijn dan , zo doen Peruicque blond , T ' welriekent zij , getoijt mede een wtheemsen vinden , daar bij Polyxenaes snede witten en teder hand , Achilles zin en hart leiden in vasten band , Ghelijck gh ' altsaemen weten , wan wijzen ik doch de manna , dijen t ' heten verteren vieren bekwaam verbergen kan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.4	Door last vinden deze minnen , vinden wieden ik zijn binden , hebben ik Autumedon tot aen doen stad zenden mede al eerbiedigheid , en huesheyt onverdient , Ghelijck een Prins beleefd soud ' zenden aen zijn vriend , Om Hector uit ik nader na deese maagd te vlaag .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.5	de welken zo hei zand , ik loven Troijas plaag Te weer vinden haar muur , en eindigen de twisten , daar negen iaren in alreede zijn verkwisten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.6	mare wat doen Hector ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.7	hei , in plaats vinden te bekennen doen weldaad dieck hij doen , goed ik de antwoord zenden ( ik razen , o groot schant !	BodilyProcess_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1568.s.8	): Achilles moeten verstaan , die hei doen prins , en zijn crijsluij zullen verraden !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1590.s.1	grootmoedig koning , hoe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1590.s.2	zijn Hector niet gezworen wij vijand tot dootc goed ghij uw daar aen storen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1590.s.3	trachten na een wreed wraak ; troosten daar ik t hoog moeten ; wijden zien , hopen ik , wel haasten doen stad onder doen voeden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1590.s.4	laat Hector dan allee zijn zuster uw onthouden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1603.s.1	Polyxena mede al d ' ander troijaense vrouw zullen binden kort tijd wel val in wij hand .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1603.s.2	waar toen hebben smeken dan , of ruim slechten mede schant ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1603.s.3	laat uw een weinig tijd velen lief niet verdriet Dan t ' geren ghij muecht mede eer , mede schande te genieten .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.head.1606.s.1	[ 2e. handeling ]	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1607.s.1	2e. handeling 1 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1609.s.1	Priamus , Paris , Deiphobus , Aeneas , Antenor , op doen muur Hecuba , Helena , Polyxena , Andromache , Astianax .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1614.s.1	T griexsche heijr passeren voorbij , doen troijanen rust binden toen om te slaan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1617.s.1	Antenor	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1628.s.1	zien Jovis dochter daar , haar schoonheijts glans hovaardig !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1628.s.2	zijn ook die aanschijn geren teen iarich oorloch waardig ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1628.s.3	Aeneas , wat dunken uw , gelijctse uw moer niet ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1630.s.1	Aeneas	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1634.s.1	ik vinden ' zeer wel besteden doen kommer en t ' verdrieten vinden deze ellendich rijk , zo dikwijls ik aenschouw hebben goddelijk klaar aanschijn vinden Paris edel vrouw .	HeavyHeartedness_Worry_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1636.s.1	Deiphobus	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1648.s.1	ik vrouw en zuster , die doen griexse prins kennen , ik bidden ' uw , zeggen wij wij die zijde , die daar omtrent Achilles mede zijn pluijm zo moedig komen treden , die hebben vasten aardrijk druent onder zijn trots schrede .	EmotionalAction_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1650.s.1	Helena	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1665.s.1	die deze voor Troyen komen , grootmoedig prins , beklagen !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1665.s.2	doen wakker Aiax zijn , daar na ik broeder vragen , doen jonckste vinden doen twee ; die daar mede hij schijnen twistich , Dats Diomedes , kloek in slag en aenslach listig .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1665.s.3	Dats d ' ander Aiax , mede de helm , vinden schonen stallen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1667.s.1	Priamus	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1681.s.1	ik vrouw en dochter , soot uw niet te lastig vallen , Noempt d ' ander prins ik , zijn Menelaus deze , Die manna voor manna vermanen , lijken schijnen aen zijn wees ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1714.s.1	ik Heer , ik Vader , lezen !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1714.s.2	kennen hebben ghij hij wel t ' sinds hei hier alles gezant wassen mede zijn meegesel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1714.s.3	zijn Menelaus , iaet , en die hij bij de cleede trekken , dats Ulysses zelf , die zo velen moeijtens doen , Veijnsden zien zelf zot , ploechde doen dor strand , Op die ik hij mede vrede soud ' laat in zijn land , Om zijn Penelope t ' aanbidden en te vier , Hoe wel doen vrouw en zijn mare vinden gemeen manier .	EmotionalAction_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1714.s.4	Dats Patroclus , die daar vinden ver Achilles groeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1714.s.5	Dan zien , heer vader , wat daar Agamemnon doen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.1	strijdbaar mennen , die uit griek zijde gevaar Om mede uw daad kloek doen wereld te verklaren , die niemand trotste uw mede schaden ' oijt off mede schande ' En ongewroocken bleeff vinden uw verwinners hand .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.2	Altsamen weten ghij , hoe die Paris zijn gecomen Tot Lacedemon , die ik broeder hebben nemen Beleefd'lijck in zijn huijs , tot welxs vergelding die doen vals gast hij stelen zijn huijsvrou en zijn schatten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.3	Daar t ' rechte zijn zijn doen god , hebben rechte zijn op wij zijden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.4	mede deze betrouwen vasten goed ghij altsaem te strijd .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.5	Al hebben wijden te slaan een ieder tegen teen En t ' rechte wassen op wij zijde , ik mostse niet ontzien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.6	Nu komen wijden te vellen , niet tegen vers kracht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.7	teen mennen tegen een hebdij niet te verwachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.8	Gheen nieuw vijand zijn , off daar ghij noijt ik sloecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.9	hebben zijn hebben zelf volk , die binden haar wal zucht .	HeavyHeartedness_BodilyProcess_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.10	t zijn doen troyanen , die binden haar wal zucht .	HeavyHeartedness_BodilyProcess_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.11	Achilles , zijn hebben heijr , die ghij allee doen vlucht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.12	zijn , Aiax , t ' zelf volk vinden wieden ghij mede uw zwaarte alleen voor de branden doen schip hebben bewaren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.13	Ghij griexse crijsluij vrome , die ver vinden wijf en kind'ren Troct om uw vaderland zijn schade te verhindren , zien daar doen vrouw op doen muur tot wij profijt , Die haar doen moed benemen zulle doort gecrijt .	EmotionalAction_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.14	zien Helena daar selff ; wijden aanzien wij vernoegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.15	mede meerder schrikken zullen haar gemoed in het vechten wroegen !	Fear_Emotion_Remorse
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.16	zien hier een eijndt de crijchs , die teen jaar hebben geduert , Een eijnt vinden alt verdrieten tot nog vinden uw bezuren .	Emotion_Sadness_Remorse
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.17	tonen ghij hier uw moed en vlieden hebben schandlijck vrees .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.18	geren lang weerstand cunnen zijde doel na deze .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.19	dracht ghij uw hier niet vrome , zo doettet wij geren nut , die Aiax mede zijn hand doen schip hebben beschutten , wan die zijn langen verrotten , en onbekwaam om vlijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.20	En ander bouw , die derff niemand vinden wij lied Eer Troijen leijt te neder , gelijk een ieder zweren vinden deze prins al , wanneer ik herwaarts voeren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1832.s.21	Dus ander wtcompst goed al stillen uit uw zin behalve sterven vrome , of eerlijk overwinnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1836.s.1	2e handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1836.s.2	2e Wtcoompst	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1837.s.1	Hector mede hebben heijr .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.1	Troyanen , hebben ghij ooit oorzaak te zijn verblijd , zo hebben ghij boven al oorzaak op deze tijd .	Joy_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.2	zien hier de dag en uier , ghij crijsluij en ghij heer , Die elk plegen mede zo groots verlangen te begeren .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.3	Hoe dikwijls hebben ghij enten bijzonder elk geseijt :  Och , die mogen in een slag wreken zijn schant ' en leijt , En toon t ' geren die zijde gebrek vinden vroomheijt acht , wassen wangunst vinden geluk , en geren gebrek vinden kracht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.4	 die zijde laatst winnen schruemt daarom niet mede al , Hoe hoog enten geluk , hoe nader an de vallen .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.5	 Die wannen zullen winden  .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.6	waar zijn zot rein te vinden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.7	mare diets de wereld lopen :  Die laatst verliezen zullen winden  .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.8	Alree keren hebben geluk door dienen tot deze staan Gelegentheijt tot wraak vinden ons schade iont .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.9	zijn tijd Aiax mede meerder angst te doel zweten En om te stil al Achilles groots vermeten .	Fear_Emotion_BodilyProcess_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.10	zien doen juffrouw daar , zien daar d ' wtheemse vrow , Daermen teen ander jaar nog crijch om voer zij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.11	Die harden hebben in zijn barsten en laat hij nu niet jagen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.12	En winden wijden de slag , t ' zijn t ' eijnde vinden wij plaag .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.13	Penthasilea vrome mede velen volxs enten getal verwachten ik al daech , die zonder twijfelen zullen zo gruwelijk ontzag in ons vijand manen , die hei daar door geheel in moed'loosheijt zullen raken , verklaren door zijn schrikken vinden zijn verliezen en schant .	Fear_Emotion_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.14	zo , ghij Troijanen , houden in deze slag d ' overhand .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.15	elk enen tonen doen kracht vinden zijn recht arm En dapperheijt vinden moed .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.16	zien daar de griek .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.1928.s.17	Alarm !	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1935.s.1	Patroclus blijfft .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1935.s.2	Hector dracht hebben lichaam te zien en schenden hebben .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1935.s.3	doen griek winnent weder en worden geiaecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.1935.s.4	Troijanen victorieus en gaan binden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1937.s.1	2e Handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.1937.s.2	3e. Wtcoompst	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.1939.s.1	koor	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.2	hebben hoogst , die de mens op aarde zijn geven Door de eersaemen raad vinden s ' hemel god hoog zijn eer , hebben waard god enten tijttlijcke leven , Op welk hebben groot hart alleenlijck nemen zijn oog .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.4	doen god al dingen de mens om zweet verkopen , Dus krijgen ik t ' hoogst god niet dan door d ' hoogst daad .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.5	En die zijn crijchs beleijt , een kunst om braaf hopen t ' houwen in heerschappij allee tot s ' vijants kwaad .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.7	die doen ghij , braaf prins , goed Mars daar in te boven , Die d ' een na d ' ander reis uw vijand stout verwinnen , die die selff uw deugd dwingen zijn te lof , Al haten hei t ' gene , die uw ondersaet beminnen .	Emotion_Hatred_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.9	uw daegh'lijcxs werk hebben zijn in slavernij alles eijgen Te lei prins tros , en treense mette voeden , Pilair de vaderlants , die t ' wreed vermetel drijgen de vreemd volk stilte , en cneust haar hoog moeten .	Emotion_Pride
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.11	zijde dankckbaer aen uw Prins , goed de verwinner tegen , schonen edel vrouw hij mede lauwer cransen croont .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.12	Al zijn doen dancbaerheijt hier selff om dank verlegen , doen dank die toonlijck zijn aen uw verlosser tonen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.13	zes .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.14	doen palm vinden gans oogst en boschen vinden laurier zijn weinig enten getal bij zijn verdiend lof .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.15	Alleenlijck hebben denken kan hij te wil vier , Gebrecklich wereld doen tong door overvloed vinden stof .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.16	zevende .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.17	Gheen sterfflijck god zijn god om hij genoech te lonen , Onsterfflijck eer allee zijn eer wees zullen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2029.s.18	deze zullen hij naar zijn dood aen elk onsterfflijck toon En ewich alles een god verbreijden over al .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2031.s.1	2e. handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2031.s.2	4e Wtcoompst	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2033.s.1	Aiax mede hebben lichaam vinden Patroclus .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2033.s.2	Achilles , Agamemnon , Ulysses .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2035.s.1	Aiax	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2055.s.1	grootmoedig Prins , dewijl mede uw gezelschap ghij de harden vijand iaecht en druct aen dander zijde , zien hier uw troutste vriend door Hectors hand verklaren !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2055.s.2	tonen nu uw groots moeten in tegenspoed te dragen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2055.s.3	Peijnst op doen wraak allee , onnut droefheijt sparen .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.1	Och !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.2	zijn dan bij doen god doen dienst zo weinig woerd ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.3	Ach god !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.4	ach wreed god !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.5	vervloekt lopen de ster !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.6	Ghodlosen hemel , die hebben god enten kwaad verwarren !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.7	Ach wreed ghoden schikken !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.8	doen wang zijn alles lood , Die roos scheen corts !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.9	melijdelose dood , Noijt doen ghij meerder kwaad !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.10	Ha hels rasernijen !	Emotion_BodilyProcess_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.11	Ha Pluto !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.12	roven ghij deze , wij suldij voortaan mijden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.13	Jupijn !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.14	Ha wreed Jupijn !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.15	die niet dan droefheijt dor !	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.16	komen , bliksem , doen te niet , daar zijn Achilles barsten !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.17	mengen t ' element vinden vieren en t ' water mede malcandren , doen d ' aarde in doen luchten en luchten in d'aert veranderen , mengen hal en hemel t ' saem , laat geren dingen op zijn stede !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2094.s.18	En in natuers bederff , verderf uw zelf mede !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2102.s.1	Achilles , waar toen dienen onnut reden te spreken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2102.s.2	betonen doen dood zijn eer , en peijnst om uw te wreken , Hector belacht uw rouw .	Emotion_Hatred_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2115.s.1	Hoe ghij meer wenen en zucht , Hoe ghij hij blijder maken , laat dan hebben droeff gerucht .	Joy_Emotion_BodilyProcess_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2115.s.2	uw droefheijt zijde voor hij geren oorzaak om verblijden .	Joy_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2132.s.1	dracht binden t ' lichaam dan , ik zweer tot gene tijd Te slaap ander dan op d ' aarde kouten en hart , Tot die volmolen wraak vinden ik nemen wereld Over deze wreed stuk , en die ik hebben doel clagen , Betael een wreed wraak , vinden deze hand verklaren .	Emotion_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2134.s.1	Ulysses	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2145.s.1	de uitvaart zullen ik doel op kost vinden gemeen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2145.s.2	op heerlixst die ik mogen brand doen dood lid .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2145.s.3	Dus geven , o veldheer , lassen om t ' hoog vieren te bouw .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2151.s.1	Datmen in Ida gade terstond om houden te houden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2153.s.2	5e. Wtcoompst	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.2	de hemel mede zijn gouden laken zadelen , herberg de god , vol goddelijcken glans , heerlijk geciert mede Phoebus klaar straal , wie zuster haar staetdochters leijt te dans , Die op haar plaats blijven en die dwaal ; Hoe hoog , hoe groots zijde zijn , bestaan nochtans Door vriendschap zoet , welk woord hier wereld nemen Voor eendracht vasten en over een komen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.4	t ' aardrijk , duerwracht mede berg en revier , mede stellen rijk vinden toren , schatten en plegen , t ' welk heuvel schonen en zoet dal sieren , mede duister bos , mede bloem en kruid zeggen , t ' gevogelte wild , doen zorgeloos dier En de verwaender mens zwak slachten bestaan alt'saem door eendracht , eend zonder doen vriendschap zout vergaan , en raken t ' onder .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.6	vieren , water , luchten en d'aerde zijn tweedrachtig Een ieder tegen ander in zijn aard .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.7	Nochtans natuur off s ' wereld schepper machtig hebben haar in ieder schepsel zo vergaren , dat geren twisten mare stadig vriendschap crachtich wereld tussen haar , elk in zijn ambt bewaren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.8	En alles hebben een hebben ander willen verwinnen , Bederfft hebben geren daar in zijde twisten beginnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.10	vriendschap zijn doen geboorte vinden doen stad , haar voedsel en haar leven , twisten haar dood .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.11	enten oorloch zwaar en moijlijck om beleeden , zijn eigen twisten doen vreeselijckste stoten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.12	Eendracht maken macht , en kan doen macht verbreden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.13	Dus worp liggen doen klein rijk groots .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.14	Om in de slag door gene twisten te dolen zijn Agamemnon t ' pak allee bevelen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.16	Dan , zijn eendracht en vriendschap woerd om eren Voor een gans rijk , t ' welk door haar wereld beschutten , elk mens allee zijde tot geren schade kunnen karn , mare d ' een vriend zijn d ' ander onderstutten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.17	vinden al hebben geren wij hart kan begeren zijn een getrouw vriend hebben hoogst nut .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.18	mare d ' hemel saijt twee vriend trouwen vinden waarde Om d ' honderd jaar , helaas , mare een op aarde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.20	deze prins bei wel zulk nader verdiend , gelijk de rouw vinden d ' een wel blijk doen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.21	Nu sijnse dood en t'sijn niet meer dan twee vriend : alles d ' een vriend sterven d ' ander vriend sterven mede .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2273.s.22	wan alles doen god doen vriend , die zijde wij lienden , Wechnemen , sterfft doen vriendschap daar te stede , zonder doen welk wereld niemand vriend heten , Hoewel ik goed na dood vrints trouwen kunnen weten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2276.s.2	6e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2277.s.1	Automedon .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2277.s.3	Hector .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2277.s.4	soldaat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2291.s.1	ik heer , doen spieen brengen tijding op te daad , die Hector te moeten doen Amasonen goed mede weinig volxs , om haar prinses eer te betonen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2291.s.2	zien hier gelegenhtheijt omt schelmstuck te belonen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2300.s.1	Fluxs , roepen ik vriend , die elk ander ding staken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2300.s.2	Nu op , Achilles , hier zijn tijd vinden wrede wraak .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2300.s.3	voor ras , versuijmt geren tijd , mare laat s ' wij wel besteden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2300.s.4	Ghij weten , Automedon , de weg , voorwt wild tred .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2302.s.1	griek binden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2302.s.2	Hector aan d ' ander zijden uit .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2302.s.3	Achilles op zijn hiel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2316.s.1	wan grootlijckxs zijn w ' altsaem in deze prinses houwen , Die wij te hulp komen mede haar strijdbaar vrouw .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2316.s.2	Hier ik Troijanen ....	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2316.s.4	de vijand weder wild bieden !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2316.s.5	Ach , dats Achilles selff !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2316.s.6	hier zijn geren plaats om vlijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2320.s.1	Hector vinden Achilles verklaren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2320.s.2	Troyanen verjagen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2345.s.1	zo moordenaar , die niet alles vrome , mare alles doen blooden na d ' overwinning nog voeren oorloch mette dood , schenden weder haar lichaam , meer zullen mennen vinden uw niet zien , Dan t ' zelf zullen ( ik zwaard ) uw lichaam ook geschien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2345.s.2	Bespotten ghij ik vriend , ghij sultet ook bezuren .	Emotion_Remorse
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2345.s.3	trekken driemaal t ' lichaam rondom troijens hoog muur , binden achter t ' paren , en sleeptet door de slijk Tot lasterlijk schant vinden hebben vermetel rijk .	Emotion_Anger_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.head.2348.s.1	[ 3e. handeling . ]	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2349.s.1	3e. handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.2349.s.2	1e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2350.s.1	Pryamus .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2350.s.2	Polyxena .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2350.s.3	Andromache .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2350.s.4	Astianax .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2352.s.1	Pryamus	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.1	Die door zijn Adel groots , en scepter zien verstouten , Die op een hoog staat , en machtig rijk vertrouwd , En daarom niet en vrezen , die s ' hemel god waardig gelijk doen mens zijn , verkeerlijck en lichtvaardig , mare stellen zijn geest rusten in voorspoed en geluk , Die spiegelen zien aen ik in deze bedroeven druk .	Fear_Aquiescence_Emotion_EmotionalAction_Happiness_BodyPart_Other_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.2	t ' geluk vinden d ' uw stad , vinden al ik volk en land , die hebben ik altesaem stellen in Hectors hand .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.3	alles deze vermoorden warren vinden doen griexsce prins verwoed , doel vallen al troijens hopen en troosten onder doen voeden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.4	Ach arm koning oud !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.5	wel waardig te betreuren , hebben lichaam vinden uw zoon en mogen uw niet gebuur .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2393.s.6	goed , cooptet , en ontsmeect hebben de verwinner straf , Op die hebben mede genieten zijn oud voorvaders graf .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2395.s.1	Andromache	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2414.s.1	Ach , kleed Astianax !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2414.s.2	komen , goed de vijand groeten , de overwinnaar tros vallen vrijelijk te voeren , bidden hij ootmoedig aen , en achten geren schande niet Te doel hebben gene , die uw t ' wreed geluk gebied .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2414.s.3	laat dal uw moeten , off houden zijn kracht binden , vergeten uw oud slachten , stellen Hector uit uw zin , Off , zo ghij mede voelen doen wond vinden uw leijt , zo doen gelijk alles ik , en mede uw moer schraijt .	Emotion_BodyPart_BodilyProcess_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.head.2416.s.2	2e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2418.s.1	Nestor , Pryamus , Ulysses , Achilles , Agamemnon , Aiax , Andromache , Polyxena , Astianax , Automedon .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2420.s.1	Nestor	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.1	Eij , arm koning oud , wel waardig te beklagen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.2	enten hoogst vinden uw node beven uw zoon verklaren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.3	enten hoogst vinden uw node zijde ghij vinden hopen beroven .	Emotion_Hope
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.4	Melijdlijck ik beklag uw oud grijsharich hoofd .	Emotion_EmotionalAction_Compassion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.5	velen oorzaak hebdij wel om droefheid te betonen .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2431.s.6	staat op , bedroeven vorst , en wild uw selff verschonen .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2458.s.1	nul Pryamus , dienen kwaad , gelijk alles uw , behagen , wereld vinden doen god dus rechtvaerdelijck plagen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2458.s.2	In plaats vinden getruer zout uw wel beeter vroeg Te denken , die ghij wij eertijds wel mogen vernoegen , mare op de huessen eijs gaeft spijtig antwoord gram , Wanneer ik alles gezant aen uw tot troijen komen .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2469.s.1	Ghij griecse prijs wijze , zijde gh ' oijt beleefd gebleecken , helpen ik Achilles om ik zoon dood ' lichaam smeken .	EmotionalAction_Sadness_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2469.s.2	Een ieder duncke die hei met sterfflijk zijde , En zitten hei nu wel hoog , hebben kan hij gaan alles ik .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2482.s.1	Troijaenschen koning oud , Achilles hebben vernemen , die ghij om sijnent willen enten laag zijde gecomen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2482.s.2	Indien hebben uw believen mede hij te spreken ijet , hei zullen uw hoorn , goed daar ghij hij zitten zien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2484.s.1	Pryamus op zijn knie	BodyPart_BodilyProcess_Sadness_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.1	Ghij zijde doen oorsaexk niet , Achilles , vinden ik kermen , mare iemand vinden doen god , in plaats vinden hij t ' ontfermen Over ik ouderdom , laat ik deze leed geschien , naar die ik hebben mede smarten ik kind dood gezien , doen welk jong en dom haar op hebben rijk betrouden , En doen dicwils t ' geren , daar s ' haar voor wacht zullen , volgen haar zot lusten door wulpshaijt onbedacht , het welk hebben haar beijd ' en ik in dus een staat brengen .	Emotion_BodilyProcess_Sadness_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.2	het zijn niemand onbekend , al geven hebben groot schade , die jongeluy altijd de ouderdom versmaden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.3	Indien die door ik dood doen crijch ophouden mogen , Vrijwillich ik verwachten de dootelijcken slag .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.4	Ghij zullen ik , hoepeloos vinden immer te verblijden , vinden deze benaude geest en zwaar elent bevrijden .	Joy_Emotion_BodyPart_Sadness_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.5	doen mede ik wat ghij wild , k ' geeff ik in uw geweld , Off ghij ik ommebrengt , off in gevancknis stellen , wan al ik leven eijnt zullen ik in treuren leiden .	Aquiescence_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.6	lezen !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.7	niet dan tegenspoed en hebben ik te verbeiden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.8	Ach , Troyen staat niet meer !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.9	Wanneer alles Hector vallen , doel vallen hebben hoog slot daert tros zijn hoff op houden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.10	Dan , naar ik kind dood , en commerlijck bezwaren , naad moord vinden ik volk en crijch vinden negen iaren , hebben ik de griek wel drievoudich straf betalen Voor t ' geren , daar in ik zoon mede onrecht hebben dwalen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.11	Gedenct een aen doen god , stellen trots moed bezijden , hebben mede ik ouderdom , helaas !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.12	doch medelijden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.13	zo ghij deze klein kind doen ziel niet geven cunt , te minst t ' lichaam hij vinden zijn vader gunnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.14	Gedenct of zwaar zullen zijn , en hoe ghijt zout betreuren , die diergelijck aen uw vader zullen gebuur .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.15	Die zorg voor uw dracht , uw welvaart stag betrachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2581.s.16	Dan , daar voor hoeden ' hij god , en al zijn slachten , Die gunnen hij al t ' gene die hei wensen en geven , die hei een zoet ouderdom dan ik beleve .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.2582.s.1	Priamus vallen in onmacht .	Emotion_BodilyProcess_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2595.s.1	helaas , beleefd Prins !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2595.s.2	indient niet mogen geschien , die ik t ' begraven , laat ik te minst t ' lichaam zien En deze onnozel kind , die zo velen hebben verliezen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2595.s.3	klein Astianax , waar toen zijde ghij baren ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2602.s.1	staat op , bedroeven vorst , vinden oud beweeglijk bloed , hebben hopen in ongeval , versterken uw zwak moeten .	Emotion_Hope_BodyPart_Sadness_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2617.s.2	doen beleeftheijt , woerd bij mens en bij god , daar griek roemen aff dracht , waar zijn die nu vlieden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2617.s.3	t ' geren zonder onderscheid ghij iont aen elk een , Weijgert ghij die , helaas !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2617.s.4	aen Pryamus allee ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.1	Ghij hebben ( o koning oud ) doen jeugd behoren te dwingen vinden uw kind zot , alles s ' haar te buiten gaan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.2	mare doel laten ghijt haar toen en hebben in het kwaad geduld .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.3	Dus sijdij zelf ik deelachtich aen doen schuld .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.4	En over negen jaar woerd ghij zo niet beladen mede ouderdom , die zijde uw ganselijck versmaden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.5	zijde doen om geren vrouw die schandelijk geweld Tot Lacedemon , mare om Atreus schatten en geld .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.6	Hierom deze uw straf zijn niet allee rechtvaardig , mare alsse groot waar , ghij waertse goed beeter waardig .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.7	doen griek zijn altijd vinden oud zo heus wezen , die , alles haar vijand hebben geven zijn geest , hebben lichaam wederom zijde aen de vriend gaaf , En laten lichtelijk toen datmen hebben zullen begraven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.8	mare Patroclus ik vriend , alles Hector die versloech , Om t ' lichaam schant te doel uit hebben gevecht hijt dragen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.9	Dus hebben hei aldereerst doen goed wijze breken , hebben welk zijn nodig die op hij woerd wereld gewroocken , Op die door zijn wraak doen gantse wereld leren d ' oud beleefthaijts weten te breken nimmermeer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.10	Om Heleen en om t ' goud , die ghij luijd ' hebben nemen , En zijn wijden griek niet dus ver vinden huis komen , mare om te toon mede doen wapen in doen hand , Hoe velen wijden cloecker zijn alles enig ander land , Hoe wel doen vrouw en schatten rechtvaardig oorzaak waar .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.11	wan zijn uw lusten mede roof vinden ander weg te varen , liggen over dat strekken tot droefheid en verdrieten de gene , die vinden uw deze ongelijk geschieden .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.12	zo ik doen Parque sparen , en wild Jupijn gedogen , die ik een troijens vallen mogen zien mede deze ik oog .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.13	ik zweer doen vals hoer , dijen wij bezuren doen , die zijde bekopen zullen mede haar oncuijsche bloed , die ik ik ouder en ik vaderland moeten durven , En zien ik troutste vriend , die k ' meest beclage , sterven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.14	Dan , Pryamus , blijven hier , ik zullen een weinig gaan En zien wat in doen zaak ik deze prins raden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2730.s.15	Ghij Capiteijnen groots vinden macht , en wijze heer , uw zijn genoech bekennen ik hartelijk begeren , Dats die hebben uw gelieven een ieder ik te raden , hebben geren hij dunken die goed hier en waar gedaan .	Emotion_BodyPart_BodilyProcess_Love_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2753.s.1	Ghij , Nestor , hebben alree meer dan twee honderd jaar , zijde nevens uw verstand in al dingen ervaren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2753.s.2	uw zijn t ' gebruik en stemmen vinden veel volk cunt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2753.s.3	En hebben god ik nog teen zulk man gunnen , Die zo wel connen raden , die zo velen ding weten , ik acht , Troijen waar langen woest , en schier vergeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2776.s.1	hebben dood lichaam doen wij nergens in profijt : te swact wij vijand niet , mare doen hij groot spijt ; Spijt maken moedig , moed maken willig om te vechten , mede die te weijgren zijn dan gans niet uit te recht .	Emotion_Remorse
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2776.s.2	Dus nemen velen lief t ' goud , die brengen met nutheijt in .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2776.s.3	Wat dunken , Ulysses , uw ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2780.s.1	zo zijn ik ook vinden sin.	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2784.s.1	Wat zeggen ghij , Aiax ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2784.s.2	ik dunken , dat niet kunnen schaeden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2788.s.1	ik zeg , grootmoedig Prins , die zijde uw wijselijk raden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2797.s.1	blijven , Aiax , ghij bij ik , ik dank uw , prins kloek vinden uw wijze raad , en uw beleefd verzoek .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.2799.s.1	Polyxena te voeden vallen	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.1	helaas !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.2	Achilles , een verwinner al ding En kan die zijn moeten vinden gramschap niet bedwingen ?	Emotion_BodyPart_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.3	Dan , zo ghij zo verhard na wreed wraken talen , uw op hebben lichaam kouten ik broeder niet verhalen .	Emotion_Desire_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.4	grootmoedig zijn , wild mede geren dood lichaam strijd , En ook hebben hei geren schuld , Achilles , aen uw leiden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.6	vinden uw gequel wassen hei doen oorzaak niet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.7	zien hier , Achilles , hier , d ' oorzaak vinden uw verdrieten .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.8	koelen hier uw wreed gemoed , door het winden opgeblazen .	Emotion_BodyPart_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.9	zien hier , Achilles , hier , een oorzaak vinden uw razen .	Emotion_BodilyProcess_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.10	zo gh ' onverbidlijck zijde , en niet dan wraak en dor , komen , dwt uw moedig zwaarte in d ' onversaechde barsten , En maken geren zwarigheid vinden t ' hart te door kerf de gener , die in dank zullen nemen t ' droevig sterven .	Emotion_Vindictiveness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.11	Off dunken uw deze wraak genadich en te kleed , belasten mede keten zwaar ik teder zwak lid .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.12	Die ghij geleect corts bij d ' onsterfflijcke godin , houden die voor d ' alderslechts , helaas !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.13	vinden uw slavin .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2846.s.14	En vallen hebben lichaam vinden ik broeder niet zo straf , die ghij doen zelf bannen uit zijn voorouder graf .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.1	Ghodin , voorwaar godin , ghij blijven altoos ghodin , En sturen Achilles hart , schonen juffrouw , na uw .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.2	helaas Polyxena !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.3	alles ghij uw wang betraand , versieren hebben off onciert hebben schreien uw gedaent ?	BodilyProcess_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.4	ik twijfelen wat hebben doen , t ' mogen sieren off ontsieren , ik weten wel , t ' buijcht ik hart op velerlei manier .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.5	staat op , godin !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.6	Hoe nu ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.7	moeten dan Achilles zien t ' Uutroijen vinden blond haar en t ' buijgen vinden doen knie , daar hei zijn knie voor buijcht ; wat knie ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.8	zijn hart moedig , die noch hebben vreesselijxst vinden doen slachorden bloedig , nog vinden verwinnent heijr doen wrede rasernij , nog bleek dood ontsach , mede schrikken en angts daar bij .	Fear_Emotion_BodilyProcess_Awe_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.9	Autumedon , wild hier terstond wat spijs beschikken Om deze oude Vorst een weinig te verkwikken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2886.s.10	Nu , Pryamus , staat op , stellen aen een zijde uw leed , droogte aff uw traan , en uw droeffheijt wat vergeten .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2893.s.1	grootmoedig Prins , kennen zullen , t zijn tegen hebben behoren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2902.s.1	verwachten dan niet , die ik laat val mijn toorn .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2902.s.2	wild ghij ik te geval uw niet tot eten spoeden , ik zullen op geren manier aen uw begeren voldoen .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2915.s.1	Liefts hebben ik , die ghij ik ik ongh'luck laten betreuren .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2915.s.2	Dan , mogen ik ander niet t ' dode lichaam gebuur , ik zullen ontveijnsen mede hebben aanzicht ik verdrieten .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2915.s.3	Dan , t ' hart en laat daarom t ' gewoonlijk treuren niet .	Emotion_BodyPart_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.1	Ghij hebben nu negen jaar , o Pryamus , lijden Een oorloch , tot bederff vinden al uw land en stellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.2	doen volk , die uw eest bijstonden in doen plaag , Die val vinden uw aff , deze zien ik al daech .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.3	Ghij zenden niet wederom nochtans doen griecse vrouw .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.4	Wat oorzaak hebdij doch , die ghijse nog goed houden , Die haar zo schandelijk te buiten hebben gaan ; haar vaderland , en al deze crijsluy hebben verraden ; haar eijgen broeder mede ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.5	die doch zo heijlich waar , wan zijde en wild niet mede wij na Troijen varen Om deze vuil hoer weder te brengen in haar land , wie dood haar lief wassen , tot wraak vinden doen schant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.6	Wanneer ghij dagelijxs saecht uw kwaad daerdoor vergroten , waarom hebben ghij zij niet te poort uitstoten ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.7	Hoe vallen deze draechlijck voor uw oud edel lijden , D ' ier zoon al daech deerlijk vermoorden zien ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.8	hebben god uw altemael beroven vinden uw zin , die in alsulcken stad niemand en zijn te vinden , Die door zijn vaderlants verdrieten bewegen mede rouw , Een wreed straf nemen vinden deze valse vrouw ?	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.9	te aanzien ws ghebedts en vinden uw oud leven , zullen ik uw t ' lichaam vinden uw zoon weder geven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.2993.s.10	daar in ik houden die ik vijand hebben misdoen , die zelf zullen ik nu nog nummermeer beghaen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.1	wij kan de god schikken , grootmoedig Prins , ontvlieden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.2	zonder de god willen deze ding niet scheiden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.3	Op verna wassen eertijds gheen koning ik gelijk In grootheijt vinden slachten off machticheijt vinden rijk vinden al doen gunnen , die t ' rijk Asien bewonen , wan tot verscheiden dracht gewinnen ik vijftig sonen , waar vinden elk een ik heet geluckich .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.4	mare op passen , die Hecuba , ik vrouw , vinden Paris zwanger wassen , zo droomtse , dats in plaats vinden kind een toerse baren , Die Troijen steken in branden , twelck wij altsaem vervaren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.5	wan doen waarzegger wijze songen mede droeff geluijt , die hier door warren de vallen vinden ons stad beduijt , waar door die ik bevelen hebben kind fluks om te brengen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.6	doen moer veijnsden , die zijde gaern soud ' gehengen , mare vrouwelijk bewegen over haar eijgen bloed , Gaft zeker herder en die hebben opgevoet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.7	En groots worden wassen zo schoon in elk bedragen , die zijn dood wij scheiden onmogh'lijck te verdragen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.8	Dus komen hei in ik hoff uit hebben Jidaesche woud , En hebben Oenonen voorts tot zijn vrouw trouwen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.9	mare weinig tijd daar na beginnen zijn hart te brand mede lusten om te zien doen vreemd en ver land , doen welk lusten ik niet mishaechde nog verdrieten .	Emotion_BodyPart_BodilyProcess_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.10	de vinden gezelschap en een welgeruste vlieden ik hij verzien , en zo trek hei vinden deese stede naar griek , daar hei uw , helaas !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.11	deze ongh'lijck doen , Door die hei tot zijn willen doen griecse vrouw vinden , Die elk hier welkom wassen , en niemand tegen staan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.12	Een ieder wassen zijde lief door haar manier hoochvaerdich , Een ieder acht haar een oorloch bloedig waardig .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.13	ik houden , die een god wij tot deze sotheijt dwang .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.14	t ' scheiden tegen ik nog tegen niemand dank .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.15	Antenor hebben zijn zoon gaan op doen schip vroeg , mare op doen wedercoompts tonen een kwaad genoegen , En zand hij buijtenslants .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.16	deze manna , zeer rijp vinden raad , doen zaak vinden hebben rijk en t ' oorloch wel verstaan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.17	zo velen alles ik belangen , ik zien ik eijnde komen , En zijn ik aangenaam , k ' en derff daar voor niet schromen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.18	mare voor ik kind , lezen !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.19	en d ' oud koningin ik ik op deze tijd in zwaar vrees vinden , Die naad verliezen ik rijxs , helaas !	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.20	in slavernien k ' En weten niet vinden wat heer doen trotsheijt zulle lijden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.21	Dan , nemen , beleefd Prins , deze cledren en deze goud .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3119.s.22	ik dank uw voor ik zoon zijn dode lichaam kouten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3130.s.1	dracht weg , Automedon , de oude Conings gaaf .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3130.s.2	daar zijn uw dode zoon om eerlijk te begraven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3130.s.3	daar zijn uw dochter ; nemen , als uw believen , uw kaar .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3140.s.2	beleefd Prins , geven ghij ik die nog weder ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3140.s.3	Behoutse tot uw dienst , en wiltse niet versteken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3148.s.1	de tijd zijn niet bekwaam om nu daar aff te spreken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3148.s.2	wijden sullent stillen uit tot op een ander dag .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3155.s.1	ik dank uw , hoghe Prins , ghodt hoeden ' uw voor geclach .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3157.s.1	3e handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3157.s.2	3e Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.2	Hoe schoon , hoe tros , hoe spijtig dat schijnen , doen wereld doch niet ander zijn alles wind .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.3	haar staat verkeerd gestadelijck en ras : Nu zijn niet hebben geren zijde gisteren wassen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.5	Die gisteren tros op rijcdom zwaar en schadt Weygerden t ' brood aen die hij daar om bidden , worden te nacht beroven vinden schatten en land , Heden voeden vinden iemandts mild hand .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.7	Die gisteren mede zijn adel groots vinden plegen Betrouden op zijn rijk en oud slachten , Op gul vinden volk en capiteijnen braeff , dienen heden aen zijn vijand voor een slaeff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.9	Een hoofdman vinden velen kloek oorlochs lijden , Die door zijn nader en daad wassen ontzien En menig rijk vervaard doort geweld , wereld vinden doen dood op deze nacht vellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.11	Die gisteren liggen door armoedt zwaar persen , vinden staat en wijd beroemtheijt aldervarst , Wanhoopten niet mare warren boven zijn wens Heden misschien een rijk beroemd Prins .	Emotion_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.13	Die stadig wel op deze veranderen ogen , Door voorspoed zijn moeten hei niet verhogen , nog ook verlagen , als ongeluk hij storen ; geren hoverdij nog wanhopen hij becoort .	Emotion_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.15	Die doort geluk zijn moeten verhoegen laat En zien betrouwen op rijkdom , macht , off staat , Al dwang hei gans doen wereld mede zijn iuck , hei zijn een slaeff vinden wankelbaar geluk .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.16	8 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.17	Een die door ongeval of tegenspoed wereld moedeloos of val laat zijn moeten , doen wanhopen wegen hij zwaar alles doen druk , Die hij komen uit lichaemlijck ongeluk .	Emotion_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.18	9 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.19	mare dijen moeten in tegenspoed off node Gestadich hebben en altoos even groots , Al hebben hei god nog staat , nochtans zijn hei Gheboren tot de wereld heerschappij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.20	10 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.21	alles zulk manna een koninkrijk aanvaarden , mede slavernij zijn volk hei niet bezwaren , mare goed hij tot doen lantbestiering spoeden , Om aen zijn volk doort heersen dienst te doel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.22	11 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.23	alles zulk Prins , rechtvaardig waardig hoofd , warren vinden zijn staat en koninkrijk beroven , t En deren hij niet , die hei zien zien verlagen , mare t ' ongeluk sijns volxs hei beklagen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.24	12 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.25	alles zulk Prins alleen trachten na d ' eer vinden t ' god te doel aen t ' vollick tallen kaar , En te besteden zijn leven en zijn dood Tot welvaart vinden zijn volk in de node , 13 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.26	diets t ' hoogst die doen sterfelijk mens verkrijgen kan , en deze wassen Hectors wens , vinden te besteden tot schade vinden zijn vijand zijn leven en zijn dood voor vaderland .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.27	14 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.28	Hector vercreech zijn wens , en voor gewis geenszins deze Prins hier te beklagen zijn , mare wijden , helaas !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3337.s.29	beklagen t ' oud rijk , die door zijn vallen vallen neder te gelijk .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3340.s.1	[ 4e. handeling . ]	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3341.s.1	4e. handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3341.s.2	1e Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.3342.s.1	Achilles , Automedon .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.1	vervloekt hand , en wel waardig uit te rooien , Die uw besmetten mede d ' edel bloed vinden Troijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.2	vervloekt voeren , die doen stout barsten betradt de vroomsten capiteijns , die Asien hebben gehadt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.3	En ghij zijde ik vervloect , o overwreede oog , Die zulk moorderij t ' aanschouwen kont gedogen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.4	En nog vervloecter zijde ghij , overwreet moeten , dijen moord vinden ik lief haar aldernaeste bloed Verdragen cunt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.5	vinden wat slachten zijde ghij baren , Achilles ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.6	die doen geren , die ghij hebben wtvercoren Tot een schoonbroeder woerd , ghij zelf die vermoorden !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.7	vinden meerder wreedheid zijn enten oorloch noijt horen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.8	helaas , Polyxena !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.9	de mogen hebben ik bedrijven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.10	doen schuld hebben ik allee , wild ghij die niet vergeven , En straffen ik na verdienst , zo zijn mede ik gedaan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.11	alles ik ik juffrouw hebben , hebben ickse laten gaan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.12	alles zijde haar lichaam bieden om t ' dode te bevrijden , doel hebben ik haar niet in ik tint wil lijden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.13	alles ik niet haar , mare zijde ik om vergiffnis bidden , doel zand ik haar te rug mede d ' ouder naar doen stad .	EmotionalAction_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.14	doel willen ' ik op daad daar en niet besluijten Om t ' overleggen wat daar al uit kunnen spruijten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.15	mare doort affwesen wereld ik mede meer pijns kwellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.16	Nu routet ik , die ickt dus langen hebben wtgestelt .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.17	wan alles ik d ' eerst maal laten ik gezicht dwaal In haar jonckheyts glans en in haar oog straal , drank ik haar beeltenis door d ' oog in ik barsten ; Een drank , helaas !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.18	die niet verslaan , mare scherpen de dor .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.19	doen schoon beeltenis nemen in hebben hart haar plaats En maectent tot een kerk ; alles een godin staats daar op een outaer hoog , daar wereld s ' erkennen allee , En vinden doen drang vinden ik gedachte aengebeen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.20	daar brand tot haar eer duizend en duizend toorts .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.21	stag zijde ik hart dwingen mede haar bliksem coortsen , Tot een begeerte vinden t ' geren haar gelijckend ' zijn , En dats ik lief , daar vinden zijn zijde doen beeltenis .	Emotion_Love_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.22	Ghaet send ' uw lief vinden hier over velen duizend mijl , zijde hebben de bogen , zijn waar , mare ghij enten hart doen pijl .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.23	Wat helpen , Achilles , die ghij haar vinden uw verjagen , alles ghij haar beeltenis binden enten t ' hart dracht ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.24	Ghij sentse weg om uw gedachtnis te bedriegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.25	Hier zitten zijde in uw barsten , hier kan zijde uw niet liegen !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3477.s.26	Hoe ghijse meerder pogen te stillen uit uw zin , Hoe ghij uw meer verward in uw beginnen minnen !	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3481.s.1	Mijnheer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3492.s.1	ik hebben deze brief schrijven , Opdat ghij die terstond goed aan ik juffrouw geven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3492.s.2	goed binden troijen nu dewijl hebben zijn bestand .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3492.s.3	dracht zorg dat coom behoudens in haar hand .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3500.s.1	ik gaan , ik heer , en zullen volcomelijck bestellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.2	doen vrees goed ik hart deerlijk kwellen , Begeerte geven ik hopen , en die zijn al haar grond .	Fear_Emotion_BodyPart_BodilyProcess_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.3	doen minnaar liggen geloven t ' geren hei zien zelf iondt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.4	ik hebben uw vader staat , schone prinses , bederven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.5	uw waard broeder zijn door deze ik hand sterven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.6	alles ghij enten leger woerd , tonen ' ik uw luttel eer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.7	alles ik uw houwen mogen , zand ik uw lijcwel weder .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.8	Sijnt minneteekens deze ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.10	mede groot rein zullen ghij ik bieden ' versmaden en brief mede voeren treden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.11	waartoe zijn wanhopen god ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.12	hoe nu , Achilles , hoe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.13	Betroudt ghij die dan uw beleeffde juffrouw toen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.14	t ' zullen strekken tot profijt vinden al haar ondersaeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.15	haar ouder zulle haar tot uw liefft bepraten Op alderleij manier ; zijn om uw deuchde niet , het zullen om t ' behoudens zijn vinden t ' geren haar overschieten .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.16	t ' verliezen haar brengen zullen enten uiterst bedroeven .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3568.s.17	Dan , ik zullen in ik tent hebben antwoord gaan vertoeven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.3571.s.1	Priamus , Paris .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.3571.s.2	Hecuba .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.3573.s.1	Paris	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3581.s.1	Autumedon hebben hier terstond een brief brengen , ik heer en vader , daar ik op te lid achten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.3584.s.1	Hecuba	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3586.s.1	Aen wieden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3592.s.1	mare aen uw dochter zijn , ik vrouw en moer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3596.s.1	Geeftse aen Polyxena .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.3598.s.1	Polyxena	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3603.s.1	lezen gijs ' , ik heer en broeder .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.1	Achilles , die door min sterven , Edel prinses , wie schoonheijt hij verwinnen , Die wensen uw al t ' welvaren , die hei derven , En achten die al , die hei uw wensen kunnen .	Emotion_BodilyProcess_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.2	ik lyefde , die ' ck uw draech zo groots en ongemeeten , menen ' ik , prinses , door uw affweesen te vergeten .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.3	mare lezen !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.4	gelijk een stad , die na langen weerstand , Snachts overrompelen en steken wereld aen branden , Off doen verwinner schonen doen toorts te rug goed trek , doen branden laat daarom niet zien zelf voor te strekken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.5	doen vlam voeden zien zelf , en hij rondom wennen , zo langen daar huis off kerk off muur zijn overeind .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.6	alzo de min vlammen , hoe wel ik uw ontbeerden , En gaan daarom niet uit , mare daeglijxs zien vermeerden .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.7	Die veel ik in ik barsten nu vinden zo groot kracht , die hebben ik zeer verdrieten , die ik oijt hebben denken Om uw , prinses schonen , uit mijn zin te stillen .	Emotion_BodyPart_BodilyProcess_Love_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.8	uw , zeg ik , die zo liggen ik hoog gemoed kont vel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.9	laat ik stantvasticheijt in uw minnen vol pijnen uw een verzekering vinden ik getrouheijt zijn .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.10	En ik getrouheijt , die ik uw betoon door deze , vinden ik stantvasticheyt uw een verseeckring wees .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3683.s.11	Dus zalven Achilles hart , prinses , mede uw genae , Op die hebben in hebben vuijr geren as wereld en vergae , mare die hebben in de aard de Salamanders keer , zo die doen branden hebben zelf voeden ' en niet verteere , Op die doen branden enten harden en t ' hart in de branden Gedueren ewichlijck , uw tot een offerhant .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.3684.s.1	Finis	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3693.s.1	Heer vader , hier zijn al , wat dunken uw vinden deze zaak ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3693.s.2	Wat zalm allerbest hier in doch mogen maken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3734.s.1	Onnodich langen beraad , wan mijn zin zijn deze : Laetten wij weygren niet , dewijl hei om haar bidden .	EmotionalAction_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3734.s.2	wijden zien t ' kwaad , die wij komen door die hei bleeff versteken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3734.s.3	voorzeker zullen doen Prins doen griek op doel breken , alles dankbaar vinden doen gul , of zo hei die niet doen , Polyxena hebben tijd te temmen zijn moeten , En zullen hij metter tijd cunnen zo wel bepraeten , die hei vergeten zullen zijn toren , en varen laten .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3734.s.4	Al swerelts kracht zo liggen geren hoog hart nederleijt alles deze schone Vrous vruntlijcke tederhaijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3734.s.5	Indien Polyxena Achilles kan bewegen , t ' welvaren vinden gans rijk isser gans aen liggen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3767.s.1	Ellendich coninxs kind !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3767.s.2	zijn dan t ' gemeen geluk allee liggen aen uw ongeval en druk ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3767.s.3	In troijens hoogst feest onder het gemeen verblijden zullen ghij allee benauwen in droefheid zijn en lijden ?	Joy_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3767.s.4	Somen doen plaag niet vinden doen troijaense waal kunnen karn dan door ik verdrieten en ongeval , dood ik te goed vinden ik vader ondersaeten , velen eer dan ghij ik zout slavin worden laten vinden een , die ik waard broeder hebben gedoot .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3772.s.1	diets t ' enig middel om te komen uit de node .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3804.s.1	Hola !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3804.s.2	Heer Vader , zo ghij Paris raad wild acht , Ghij cunt hier in voorzien en stil haar klacht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3804.s.3	ik zullen de griek ontbien , die hei hij vinden laat ginds in Apolloos kerk , die in doen bus staat , daar ik hij lof zullen ik zuster te doel trouw , Die ook zullen komen daar mede al haar staat Joncvrouwen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3804.s.4	En alles Achilles minst zullen op zijn hoeden staan , zullen ik hij onvoorziens daar op doen plaats verslaan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3808.s.1	En vrezen ghij niet doen schant vinden deze verraderij ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3814.s.1	wij soudt bedroch in zijn vijand te krenken mije ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3818.s.1	Die werk vinden d ' eer maken , en schant en laster vrezen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3822.s.1	eerlijk zijn winden , t ' zijde door kracht off kloek geest .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3828.s.1	Die door bedroch verliezen en achten zien niet verwinnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3836.s.1	Off hijt zo achten off niet , wereld niettemin verslinden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3843.s.1	doen waar winst die zijn t ' breken vinden t ' svijants moeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3849.s.1	waar blijven zijn moeten off macht breken ik zijn harden verwoed ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3856.s.1	Al zijn Achilles dood , hebben heijr zijn niet dwingen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3871.s.1	weten ghij niet , vader , wat Apollo hebben zingen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3871.s.2	die Troija nummermeer zullen gaan in slavernij , Indien Achilles daar niet tegenwoordig zijde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3871.s.3	En na zijn dood kunnen hijr niet tegenwoordig wees .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3871.s.4	waarom besluijt ghij niet ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3871.s.5	Wat staat hier doch te vrees ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3891.s.1	doen zo , ik lieffste zoon , ik en zullen leiden niet , die ander dan ghij zeggen , in deze zaak geschieden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3891.s.2	wreken ghij ik Hectors dood , wreect ghij ik heet traan .	BodyPart_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3891.s.3	wreken Troijas nederlaech , goed zo doen straat baan Tot welvaart vinden uw volk , en wtgang vinden de crijch .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3891.s.4	Wreect zo doen wreed smaad , die ik vinden droefheijt swijch .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3922.s.1	sa , page , goed doen griek terstond doen bootscap dragen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3922.s.2	zeggen , die Polyxena verhoren willen zijn klagen , En dat tot een vrouw vinden hij zullen zijn trouwen , zo hei zien vinden laat ginds in Apolloos woud .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3922.s.3	En ghij , vrouw zuster , in hebben eerst t ' samen komen , zullen hij uw hoogst god en allerliefst noemen , En veinzen off ghij zeer tot hij genegen woerd , waar door gelegenthaijt zullen worden gh ' openbaren Om doort geluckich stuk wij burger te verkwikken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.3922.s.4	daarom een ieder gaan terstond hij hiertoe schikken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.3924.s.2	3e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.2	elk achten geluckich s ' prins leven Door weeldens vals blijk .	Joy_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.3	hei , door deze mening zelf drijven , wanen niemand sijns gelijk .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.4	mare laten hei een hebben rijk En hebben gebieden willig varen , En proefd ' off laechhaijt rusten kan baar , doen hoocheijt hei verachten zullen alles slijk .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.6	die een gemeen manna beproefden t ' geren hei achten zulk geluk , Wat zorg en angst een prins bedroefd , Wat onrust en wat druk , hei acht beeter t'juck alles een gemeen manna te dragen , Dan ander mede hebben juk te plaag .	Fear_Worry_Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.7	ik oordelen onervaren in deze stuk .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.9	Een Prins willen datmen hij zullen vrees , En achten hebben zelf god , Die zelf vrezen gevreesd te wees .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.10	doen nacht hij niet behoet , nog slaap zijn smarten verzoeten .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.11	alles al mens rusten raap , ontstelen hebben zorg hij zijn slaap .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.12	die elk gebuert , een Prins ontberen moeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.14	Wat hoog huijs hebben oijt Prins genieten , die niet zijn omwenden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.15	Wat vintmen doch voor hoog slot , dijen oorloch niet en schenden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.16	waar sietmen doch omtrent hebben hoff doen schaamte in eren houden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.17	Gerechticheyt , huwlijckse trouwen En zijn doen groot hoven niet bekennen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.19	hebben hoff die volgen Bellona bloedig mede haar roed ' in doen hand .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.20	doen hels , boos Fury woedich , Die hoverdie planten , wie hongerig tand doen groot doen hovaerdich razen , verslinden doen huijsen opgeblazen En werpen doen hoog prins neder enten zand .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.22	Indien ik t ' oorloch niet zien blinken , mare vinden bedroch affstaen , hebben groots moeten door zijn swaerheyt zinken , En t ' hoog te grond gaan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.23	doen schipper zijn beladen alles goed winden hebben schip goed stijf , vrezen , hebben geluk t ' schip om zullen drijven ; doen hoogst toren meest doen bui slaan .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.25	doen hoogst eijcken sietmen breken Die in doen bos staat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.26	t ' Geweer , uit Jovis hand strijken , doen hoogst berg slaan , hebben vet beest ik goed , Niet t ' slechste om te doden halen , bereiden ik kostelijk maal .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.27	Wat val zullen , Fortuijn verhogen laat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.29	goed duren matelijcke ding , daar t ' hoog haasten val kan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4106.s.30	Die maat noijt gaan overspringen , alles een gemeen manna , Die nooit en schayde vinden doen strand , bevreesd doen zee te naken , Roijt onder t ' land , die hei kunnen raken , hebben hoogst luck alhier op aarde wannen .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.head.4108.s.2	4e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.1	zo deze godin , velen hoog vinden manier alles d ' ander god , beleefd en goedertieren , mede een genadich oog ik smarten aanzien , de god staat niet meer k ' achten alles verwonder .	Emotion_BodyPart_BodilyProcess_Compassion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.2	k ' En vrezen doen snel bliksem nog doen donderen , Benij Jupijn Ambroos en Nectar niet .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.3	terstond komen ik een bieden ' , vinden Paris affgevaerdicht , die haar Polyxena niet lang veronwaerdicht t ' Erkennen mijn trouwen , die zij zullen komen nu ginds in Apollos woud , waar vinden zijde langen wassen schuw .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.4	zonder ik zwaarte , allee , en hebben ik niet te schrome .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.5	mare hoe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4145.s.6	zien , daar zijn hoff , zijn tijd die icker come .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.4147.s.2	5e. Wtcoomen	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.4148.s.1	Achilles , Polyxena , Paris , Deiphobus .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.4149.s.1	Sonnet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4181.s.1	Gentiel godin , allee besitster vinden ik hart , schonen ziel vinden ik ziel , meesteres vinden ik gedachte , wie schoonhaijts klaar glans , en gratie ik verkrachten , alles in de blond strik ik hart gevangene wereld , Indien ghij niet aanzien doen wreedheid vinden ik smarten , En stoppen uw oor voor ik al te zwaar klacht , vinden ik en hebdij niet dan droeffheijt te verwachten En doen melijdeloose dood en d ' aarde zwart .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4181.s.2	mare goed ghij tot genade uw goedertieren wen , En wild doen trouwen vinden uw dienaer rechte bekennen , verlossen ik worden zullen vinden droeffheijt , zorg en pijnen .	Worry_Emotion_Compassion_Sadness_Benevolence
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4181.s.3	ik hart , die door hebben vuijr soud ' lichtelijk verteren , En zullen dan nummermeer in as cunnen karn , mare in een schonen branden altijd onsterfflijck zijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.1	Aensiend ' uw langen vervolg , en aenstaen boven maat , Hoe wel ik oorzaak hebben , Achilles , uw te haten , slaan ik ik oog op uw wijtberoemde duecht En op doen schoonheijt vinden uw fluxs stellen jeugd , doen welk ding , t ' sinds die zijde ik wel geviele , baard een vreemd lusten vol onrust in ik ziel , In voeg die ik haasten ik toornicheijt vergadt , En t ' rout ik , die ik uw zo lijden ' oijt hebben gehadt .	Emotion_Hatred_BodyPart_BodilyProcess_Sadness_Desire_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.2	zijn ik doen groot pijnen de wereld te gedenken , die ik oijt hebben denken , Achilles , uw te krenken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.3	na ik ik gramschap dan op gh ' offeren hebben aen w , Coom ik , grootmoedig Prins , alles uw dienaersse nu Om op te offeren voorts aen uw alhier te stede ik hart , ik willen , en ook al ik genegentheede .	Emotion_Annoyance
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.4	daarom , Achilles , wild ontvangen vinden mijn hand , En gunstig nemen aen deze ik offerhant , En ik versekren , die doen lieffd ' mede zwaar plaag , Die ghij zo lang tijd tot mijwaert scheent te dragen , waarachtig zijn en zullen altijd gestadich zijn .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.5	waaraan te twijfflen vallen ik een zo zwaar pijnen , die ik enten mijden vinden ik vlammen bevries doort vrees .	Fear_Emotion_BodilyProcess_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.6	Dus maken ik , prins , die ik mogen verzekeren wees , na die doen twijfel ik wel duizend doon aandoen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.7	mare waarom soud ' ik ook cunnen vinden uw vermoeden , die ghij geveijnsdelijck zout zulk liefd ' ontvangen , gelijk hebben hart vinden Polyxena hebben bevangen ?	Emotion_BodyPart_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.8	Neen , neen , te kunnen niet zijn , neent zekerlijk niet , hoe ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.9	Al droecht ghij ik ook gans geren liefd ' mede al toen , Weerliefd ' soud ' in uw hart voorzeker komen werk , alles ghij doen grootheijt vinden ik lijefde mare kont merken .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.10	ik lijefd ' t ' sinds haar beginnen nemen zo velen toen en wannen , die ickse mede t ' denken nauw achterhalen kan .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.11	ik lijefde zijn zo groots , en branden zo ongemeeten , Achilles , die ik selff haar grootheijt niet kan weten .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.12	hebben leven vinden ik lijefd ' en zijn geduerichaijt zullen niet vinden dag off uier , mare zijn vinden ewichaijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4303.s.13	zo doen verdienste vinden deze goddelijk lijden uw niet bewegen off tot waar liefd ' kunnen vlijen , En zo Polyxena , s ' coninxs vinden troijas bloed , Door iemandt ander dan haar zelf bidden moeten , uw door uw oog schonen , Achilles , ik bezweren , Door wie godlijcke kracht ik fel moeten vallen neer , die ghij ik wedermint gelijk gh ' uiterlijk tonen , En die uw lijefde door ik trouwen mede trouwen lonen .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.1	hebben ik uw overlang niet gaan besitster stillen volmolen vinden ik hart , een oogenstrael zullen vel zeer lichtelijk ik moeten , en dwingent tot uw minnen .	Emotion_BodyPart_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.2	mare t ' sinds ghij d ' eerst maal doen schoon scheent in ik zin , hebben ik mede zulk hit en smarten uw lijefd ' dragen , dat geren uier voor bij en gaan vinden zo velen dag , Off ijverig ik aanbidden uw schone beeltenis , Die ziel vinden ik ziel , ik leven leven zijn .	Emotion_Love_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.4	prinses , wat zullen ik uw opoffren weder In plaats vinden deese gul en dienstbaarheid vol eer , daar ghij ik nu toen roepen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.5	Hoe kan weder zijn lonen zulk genegenthaijt alles ghij tot mijwaert tonen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.6	ik zijn dwingen , schonen prinses , uw te verklaren , die ik zo groot vreugde veel in ik ziel baar Doort overdenken vinden t ' geren daar ik meest na dor , die ik doen wreed dood doorschieten zullen doen barsten En door doen groot lusten alhier te plaats bederven , wassen mogh'lijck in uw tegenwoordicheijt te sterven .	Joy_Emotion_BodyPart_BodilyProcess_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.7	Dus zijde voorseeckert die ik stadig zijn beraijt t ' ontvangen uw lijefd ' mede al eerbiedichaijt .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.8	Op die te vier en te voeden zullen ik pas , die d ' aldercleenste vonk zullen in wij hart zijn , Tot dat wereld een vlammen , die aard ' en hemel zullen Verbranden al bei , hebben welk , o waarde vrouw , Niet vreemd zullen schijnen nog tegen de reedens weten , zo ghij een luttel wild op uw schoonheeden lid , Off zo ghij ik genegenthaijt wild merken aen , Off zo hebben uw believen op baijde achten te slaan , doen welk baijd ' aen ik zo sterk zijn overkomen , die ( alhoewel ik vasten bij ik hebben voornemen Te komen nummermeer in min zijn verbond ) zo haasten ik uw aensach , ik ik begaff terstond Vrijwillich in uw dienst , waar in die ik zullen blijven zo langen de hemel kloot zullen op zijn pool drijven .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.9	Onnodich zijn hebben dan , die ghij mede bidden dringen Tot uw lijefd ' een , die daar toen zien zelf dwingen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.10	de god schikken ik node ' om tot uw minnen te strekken , Al uw verdienste groots ik tot uw lijefde trek .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.11	ik roep derwaarts , ik begeerte algemeen , ik oversoete hopen voeren ik , prinses , daar heen .	Emotion_Hope
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.12	ik ziel , waar vinden ghij zijde koningin en vrouw , Die hechten ik derwaarts op mede vluegels vinden ik trouwen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.13	daarom , hoewel ik lijefd ' tot uw waerts een beginnen , zijde zeker , schonen prinses , die die niet eijnden kunnen .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.14	Off , zo die eijnden zullen en immermeer gaan t ' onder , die zullen geschien gelijk alles doen feniks , t ' groot wonder , Die , stervend ' in doen vlammen , aen een nieuw leven raect , na die hei levend ' hebben vinden sterven eijnd ' gemaect .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.16	Wat zeg ik doch ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.17	Wat slechtheijt mogen ik praten ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.18	Soud ' uw lijefd ' nu en niet eerstlijck te leven laten , Off soud ' ik nemen vinden hebben leven een beginnen , zonder te voelen een beginsel vinden ik minnen ?	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.19	Soud ' ik hebben geren ik zijn wel cunnen blijven wees zonder uw eijgen slaeff stadig te zijn bij deesen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.20	Off soud ' ik kunne vrijen wees vinden uw gebied , zonder die ik hebben geren ik zijn te wees lied ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.21	voorwaar , in geren manier , velen eer ik t ' onder bleeve , wan ik door uw , door uw minnen , en door uw leven .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.22	mare off ik bij geval een zotternij bevangen , die ik ik eijgen vijand zelf wereld ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.23	en gaan versmaden hebben hoogst god , die ik te wereld acht ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.24	uw alder cleenste ionst zijn groots genoech vinden kracht Om ik te vrij vinden al die lichtvaerdichaijt , Daermen te wereld oijt vinden denken off hebben gesaijt , En te leiden tot uw , godin vol waarde gaaf .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.25	ik overgroot gemoed in liefd ' altijd zullen draven .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.26	mare waar door laat ik geest , bewegen door hoop blij , zien selff verbazen doch door een prophesij , Die zo ellendich en vinden droefhaijt zijn deelachtig alles ickse kennen voor val en ganslijck logenachtig ?	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.27	alzo velen schoonhaijt alser zijn , godin , in dij , zo velen genegenhaijts zijn tot uw dienst in ik .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.28	En ik stantvastichaijt die zijn zo groots en heerlijk alles mijn ijver zijn , en mijn smarten begeerlijk .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.29	uw schoonhaijt kunnen uw niet verlaten , schone vrouw , Ontsterfflijck zijn ' in uw , zo doen in ik ik trouwen , de leven ik minnen , prinses , allee door uw verklaren , die ghij ik weerliefd ' dracht , en saecht ik welvaart garen .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.30	Tot leven onderhoud ik minnen na ionste trachten , Die meer begeren wassen dan verhopen , mare minst verwachten .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.31	zo zullen in ewichaijt , godin , ik lijefde duren , Die k ' in doen straal ws gesichts hebben laten puren .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.32	In deze straal schonen vinden goddelijcker aard ik minnen gesuijvert zijn , godin , en helen verklaren , alles in een hemel vuijr , t ' welk vinden hij hebben nemen , Al t ' geren onwaardig wassen , prinses , vinden uw te komen .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.33	ik hart die zijn een heet oven vinden doen minnen , ik lijefde , schonen prinses , die zijn persen daar in .	Emotion_BodyPart_BodilyProcess_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.34	vinden mijn dienstbaerhaijt en aengename band kan ik geren seeckerhaijt off geven ander pand alles d ' hitte vinden ik hart , en zo ghij ik wel iont , zijn deze doen waard , die ghij zelf wensen kont .	BodyPart_BodilyProcess_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.35	Dan , somen om doen lijefd ' te houwen langen in leven , kan enig onderhoud nut alles weerlijefd ' geven , En zo de min bannen wel vasten goed en gewis , daar d ' een aen dander grotelijxs houwen zijn , zolder ondanckbaerheijt zo ondankbaar zijn te vinden , die s ' ik uw weldaad zullen doel stillen uit ik zin ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.36	Naedien ik uw , prinses , gedaan hebben een misdaad , die ik mede rijden mos wanhopen vinden genaet , En ghij , in plaats vinden ik te straf mede uw torn , uw dienaer doen doen ionst vinden zijn klacht t ' aenhoren , ik gevend ' in doen plaats de dood , vinden ik verwachten , Een leven , die ik schier gelucksalijger achten , alles enig ander ding , groots gheacht bij doen mens , Dan ickt vinden avonturen selff hebben cunnen wensen , ontvangen dan , schonen godin , al deese seeckerhaijt vinden mijn lijefd ' tot uw , en ik getrouwichaijt , Op die de hemel die tot een have leed vinden vreugde ' en vinden geluk , waar uit zijde nimmer scheijde .	Joy_Emotion_Happiness_Love_Despair_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.37	laat ik opoffren t ' ijs vinden uw verstoren zin mede d ' as vinden ik liggen ' en langen verlijden minnen , Op dat niet en blijff in ons ziel heijlgierich , Dan t ' geren tot voedsel dienen vinden ons lijefde vurig .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4596.s.38	En ik bezweren , godin , door uw volmaeckthaijt dan , Diemen aanbidden wel , mare niet begrijpen kunnen , die vinden ik slavernij ghij hier verklaren doen weten , Om die mede vuijre letter in ik hart te zetten , Op die ik , schonen prinses , aen ik gedachte leren Die daar te lezen , t ' overtreden nimmermeer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4603.s.1	Danct hij , onhuesheijt wassen indien wijden die versloften .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4614.s.1	grootmoedig prins , wijden danken uw vinden uw belofte .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.stage.4613.s.1	Achilles wereld verradelijck ombrengen vinden Paris en Deiphobus .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.4616.s.1	4e. handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4626.s.1	die wijden die twee daar uit zo schielijk spring zien die hebben , na ik verstand , wat zonder te bedienen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.4628.s.1	Diomedes	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4642.s.1	Dewijl doen griecxen raad wij beijden hebben bevelen Achilles gaan te slaan , om die hei enten verhalen de vijand selff besoect , en hij te spraak staat , Op avonturen off hei besluiten enig verraden , komen , treden wijden enten woud en gaan hij zo beneven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4647.s.1	Wel , ik zien niemand niet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4647.s.2	Ach , wat zijn hier bedreeeven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4647.s.4	geven wij hebben laatst woerd !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4651.s.1	Deiphobus en Paris aanzien ik vermoorden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4662.s.1	Ghemoort ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4662.s.2	waar hoord ' ik oijt groot valschaijt verhalen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4662.s.3	nul blond zon , aanschouwen ghij deze zonder te dal Te rug woerd vinden daar ghij opgereesen zijde ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4668.s.1	Mijneedich schelmstuck te boos om aff te maal .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4672.s.1	nul blond zon , aanschouwen ghij deze zonder te dal ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4681.s.1	de groot manna , vermaard in s wijd wereld palen , die bliksem , zo ontzien enten oorloch , zijn wijden kwijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4694.s.1	Gheen clagen helpen kan , hei hebben vervullen zijn tijd .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4694.s.2	wild ik hebben lichaam kouten op deze schoudren laden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4694.s.3	En gaan wijden doel t ' verhaal , hoe die hei zijn verraden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.4697.s.1	[ 5e. handeling . ]	None
+hoof001achi01_01.TEI.2.text.body.div.div.head.4698.s.1	5e. handeling .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.4699.s.1	Al doen prins .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.4699.s.2	Nestor , Aiax , Ulysses .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4734.s.1	geren vinden doen prins , nog geren vinden doen griecs knaap Dan ghijluij mede uw twee staat na Achilles wapen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4734.s.2	Dies elk omt t ' zeer twisten en voor een eer tellen Te dragen t ' wapen vinden die onverwonnen held .	EmotionalAction_Envy_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4734.s.3	doen prins zijn alhier te plaats neder zitten , Om ieder zijn beschaijt volcomelijck te weten , En wijze toen mede rechte doen wapen aen doen manna , Die mette rijden goed zijn rechte verdaden kunnen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.4734.s.4	daarom een ieder pooch hebben gene te vertrekken , t ' welk allermeest hei tot zijn voordeel achten te strekken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.1	Aen strand ( Jupijn ) en bij doen schip pleijten wijden , En ik lijken ( ik razen ) Ulysses nog bij ik ?	EmotionalAction_BodilyProcess_Desire_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.2	ik , die nog vuijr nog vlammen nog Hectors torn vrucht En voor deze vloot vechten , alles ghij mede schande vlucht .	Fear_Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.3	Veijlijger zijn hebben dan , o griek , datmen strijd mede woord schonen geciert , dan mede een zwaarte die snijden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.4	Wanneer ik vechten zullen , Ulysses uit hebben perk vlijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.5	hebben doel vallen hij te zwaar , en t ' zeggen zijn ik werk niet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.6	zo velen alles ik vermogen enten krijgen mede geweld , zo velen Ulysses enten vrouachtig klappen geld !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.7	Doch mijn daad zijn onnoodich te vertalen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.8	Ghij hebben s ' altsaem gezien , laat hij doen zijn verhalen , Die hei allee en zonder tuigen hebben gewracht ( Naedat hei zelf zeggen ) enten donker van nacht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.9	de lot , daar ik na staan , bekennen ik groots te wees , mare vinden de lof verliezen ik t ' groot delen door deesen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.10	zijn groots , mare d ' heerlijckhaijt die wereld daar door bemorsen , Mits die ik crijge t ' geren Ulysses hoop dor .	Emotion_Hope
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.11	verliezen hei schonen t ' krakeel , de prijzen hebben hei alreede , wan ik zullen zeggen , die hei mede ik hebben gestreede !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.12	Dan , zo ik duecht wassen twijfelachtig bij de raad , zo soud ' ik edelhaijt ik wel coomen te baten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.13	ik Vader Telamon hebben troijen helpen winden , En voeren mede Hercules omt gunnen vlies te vinden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.14	zijn Vader Aeacus zijn recht in de hal , daar Sisyphus , uw oom , Ulysses , liggen gequel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.15	Juppijn die vader zijn , k ' en halen hebben niet vinden ver .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.16	deze Aiax na Juppijn zijn enten slachten doen derde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.17	Dan , laat deze inde zaak ik gans geren voordeel zijn , zo het niet gemeen en zijn Achilles huis en t ' ik .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.18	Achilles wassen ik neeff , ik eijs ik broeder wapen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.19	mare ghij zijde uit hebben bloed vinden Sisyphus scheppen , Die ghij in schelmerij ook te gelijk trachten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.20	Wat mengen ghij ons nader in uw versmaden slachten ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.21	Off zullen ik deese twisten omt wapen kwalijk lok , Om die ik hebben vinden d ' eest doen wapen aantrekken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.22	En mede ik vrij willen zijn na doen crijch reizen , daar zien Ulysses zot en rasend ' hebben geveijst Door vrees vinden mede wij hier in doen crijch te trek , Tot Palamedes kloek zijn blootheijt komen ontdekken ?	Fear_Emotion_BodilyProcess_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.23	Die doen doen blootste wassen , vinden al wapen schuw , zullen die - wat rechte zijn deze !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.24	- doen besteden nemen nu ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.25	wassen doch doen rasernij voor rasernij nemen , Off wassen zijde doch wezen en hei niet hier komen .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.26	zo zout ghij , Philoctetes , mede zo zwaar verdrieten , enten eijlant Lemnos alles een balling leven niet , Die in spelonk na , en bos mede uw wenen En kermen dagelijxs bewegen doen koude steen , En wensen Ulisses t ' gene die hei waardig zijn , t ' welk ( zo de god zijn ) hij beuren zullen gewis .	Emotion_BodilyProcess_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.27	alzo verdwijnen door siect en hongeren metter wijl Een vinden wij leijtsluij selff , en bruijct Alcides pijl Op vogel en op wild , die Phoebus wij bevelen Te bruijcken te vernielen vinden Troijas hoog waal .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.28	mare Philoctetes die zijn nog te lijf blijven , Om die hei t ' selschap vinden Ulysses hebben begeven , t ' welk Palamedes ook wel wensen mogen , dunken ik , wan zonder die hei soud ' nu nog enten leven zijn , Off immers soud ' doen dood sterven wees eerlijk , Die hei door zijn bedroch doel sterven hebben zo deerlijk , alles hei hij vinden bedroch aenclagen komen zo stout , En overtuijchden hij door t ' vinden vinden hebben goud , de vijants , zo hei saij , becorelijcke gaaf , t ' welk hei hebben heijmlijck zelf doel in doen tent begraven , Tot wraak vinden die hei zien door hij ondecken zien , hebben welk hij spijten , en langen ' daar na enten hart liggen .	Emotion_Sadness_Remorse
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.29	Door ballingschap off dood crenct hei de griek kracht , Op deese wijze zijn hei te vrees en te acht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.30	Off hei enten spreken schonen Nestor te boven goed , nog en zullen hei niet in het goed veranderen t ' kwaad , En hier verdaden , die hei vlijen gaan zijn goed ras , alles Nestor roepen om helpen , door die zijn paren kwetsen wassen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.31	die ik deze niet versieren weten Diomedes wel , Die dik doen vluchten verwijten aen zijn goed meed'gesel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.32	doen god aanzien doen mens rechtvaardig mede haar oog .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.33	t ' Gebuerde die doen geren , die niet en wild pogen Om Nestor bij te staan , zelf bijstant krijgen vinden doel .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.34	hei roepen ellendich helpen , ik ginck ik derwaarts spoeden .	EmotionalAction_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.35	Hoe wel hei hebben verdiend doort vlijen , datmen even alles hei mede Nestor doen ' , ik ook mede hij zullen leven , ik dekken hij mede ik schillen daar hei liggen beven ' bleek , k ' Verseeckerd ' hij zijn lijf al eer ik vinden hij week .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.36	doen wond die zijn kracht enten vechten doen vermindren En conden hij zijn lopen enten vlucht niet verhindren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.37	Dus berchden ik een ziel oneedel , slechten vinden aard , En dunken ik eijgen daad ik luttel eren woerd .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.38	zo ghij in deze twisten uw enkel wild verweren , komen , laat wij weder op doen zelf plaats karn , geven daar doen vijand weder , uw wond en vrezen daar bij , Duijckt achter t ' schillen , en twisten daar onder tegen ik .	Fear_Emotion_EmotionalAction_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.39	zien , Hector , die mede hij te strijd leijd ' doen god , verbluffen de stout ook en niet allee de bloden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.40	alles die braveren doort vervolg vinden zijn mogen , hebben ik hij op zijn rug geveldt vinden ver , en voor Wanneer hei daechden uit een om mede hij te steken , Weerstont ik hij allee , en ghij , beroemd griek , Beloofden bedevaart , indien ik niet en vallen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.41	verhoren wereld uw gebet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.42	zo iemand weten willen de wtgang vinden doen crijch , ik hebse niet verliezen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.43	doen vijand komen mede macht hebben griexse heijr verstoren , Tot ons vloodts bederff mede vieren en vlammen bereiden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.44	waar wassen Ulysses doel mede zijn welspreeckenthaijt ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.45	ik hebben allee deze vloots bescherming aengegreepen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.46	geven ik doen wapen doch voor meer alles duizend schip .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.47	Indien die ghij toen wijzen , o prins , t ' rechte aen ik , t ' zullen meer de wapen eer dan Aiax eer zijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.48	laat nu Ulysses een gelijk bij ik daad hebben moord vinden Rhesus , die hei half hebben verraden , En Dolon , s ' vijants spier , en Helenus , die hei ( Wanneer hei Pallas stelen ) gevangene brengen daar bij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.49	Niet zijn bij daech geschieden al wat hei hebben bedrijven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.50	ik moeten de half lof aen Diomedes geven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.51	gunnen ghij doen wapen aen deze daad slechten , onedel , zo deels ' en geven aen Diomedes t ' besteden delen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.52	Ulysses zulle zijde doch niet te stade komen , Die ongewapent stag en niet gelijk doen vrome , Bij nacht de vijand krenken mette gewiste kans .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.53	doen gunnen helm zullen hij beklappen door zijn glans .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.54	ook zullen hei doort gewicht zijn hoofd niet kunne roer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.55	d ' Onstrijtbaer arm en kan Achilles spiets niet voer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.56	doen schillen , waar in malen ik t ' swerrelts rijk zien , En zullen zijn slincker arm wel , dunken ik , pas niet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.57	Wat staat ghij na een gaeff , die uw zullen overladen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.58	welk zo doen griek , door haar kwalijk te beraden , uw gunnen , ghij en zout daar door niet zijn ontzien , mare rascher na doen buijt zullen uw vijand vlijen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.59	doen vluchten , daar ghij uw hopen gewoon in zijde te zetten , daar in zullen t ' zwaar gewicht , Ulysses , uw beletten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.60	Voorts uw schillen zijn gans , hebben niet mede al geleen , Vol kerf zijn doen ik , en ik behoeffer een .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.61	mare zien wij werk aen , onnodich zijn doen woord .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.62	doen wapen smijten enten mits vinden de vijants slachoorden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5134.s.63	heten datmen zijn halen vinden daar , en dieser brengen vinden dadel , laten diese tot een lot en tot een lof ontvangen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.1	hebben mine wensen en d ' uw , o griek , niet missen , wijden zullen rechtevoort niet zijn in deze twisten , doen traan zullen ik mede kracht dus niet vliet , Ghij zout uw wapen , wijden , Achilles , uw genieten .	BodyPart_BodilyProcess_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.2	Dan , nu dewijl doen god wij beijd ' aanzien beroven vinden die ontsichbaer onverwonnen oorlochs hoofd , wij zullen mede meerder rechte doch volgen in zijn stede Dan die Achilles selff de griek volgen deede ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.3	t ' verstand , die dicwijls hebben dienen tot uw profijt , t ' zijde hoog off laag , laat ik niet schade nu te tijd , Op die ik zonder nijd ik reedens mogen ontluijcken ; doen gaaf , die ik hebben , die machmen wel gebruijcken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.4	Voorvaders klaar deugd , en adel hoog roemen En ander luid daad ik nauw wij eigen noemen , mare om die Aiax saijt die zijn grootvaders vader Juppijn zijn , zo zeg ik : Juppijn zijn hij niet nader Een lid dan hei ik doen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.5	ik kennen Laertes oud Voor vader , die Arcesius voor zijn vader houden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.6	Arcesius vader zijn Juppijn , en onder deesen zijn niemand oijt tot dood off ballingschap verwezen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.7	Een ander Adeldoom komen ik vinden moer zijde , En d ' oorsprong vinden slachten zijde , o Mercurius , ghij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.8	Nochtans en ghae ik niet na deze wapen spoor , Om die vinden moeder zijde ik hoog zijn baren , Off die ik vader niet beschuldicht worden kan mede zijn broeder zonde ; zien doen verdiensten an !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.9	mare tgeen die Telamon off Peleus hebben bedrijven , die ik daar vinden de lof niet goed aen Aiax geven , die niet doen naast enten bloed wereld mede deze prijzen verhuecht , mare die mede rijden meest doel blijk kan zijn duecht .	Joy_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.10	wan ander , Peleus leven , en Pyrrhus daarenboven , Achilles zoon ; zo blijven Aiax tocht verschuiven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.11	En Teucer isser ook al vasten in een graad alles Aiax , die nochtans niet na doen wapen staat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.12	Dewijl wijden dan allee mede ons daad strijd , ik hebben meer wtgerecht dan ik kan hier belijden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.13	ik zullen vertalen , doch op corst , vinden voorn aen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.14	Thetis , doen moer vinden Achilles , hebben verstaan vinden doen waarzegger wijze , indien hei herwaarts quame , die hijt besterven zullen , hoe groots hei wassen vinden nemen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.15	zijde maken hij onbekend omt ongeluk te vlijen , En laten hij alles een maagd in maagd kleed zien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.16	niemand hebben hij kennen , nog Aiax zelf met .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.17	hei waar blijven t ' huijs te waar die ik hebben doen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.18	ik nemen een mars vol vinden vrouw cramerij En doen ' daar loosselijck een crijsmans wapen bij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.19	Een ieder vrouw bezien hebben geren haar goed geleecke , doen Prins terstond zijn hand gaan aen doen wapen steken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.20	zo wel doen schillen en spiets hij in zijn hand staan , die eer hijt vrouw cleet verwerpen , ik roepen terstond : Ghodinnen zoon , vinden uw wachten Troien zijn bederven , waarom twijfelen ghij doen nemen te verwerven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.21	ik handen leijd ' ik hij op en zand hij derwaarts heen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.22	Al t ' geren hei hebben gedaan , noemen ik dan t ' ik mede reden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.23	ik hebben Telephus temmen , k ' hebben Theben innemen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.24	Door ik zijn Tenedon in ons macht komen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.25	die Lesbus , Chryses , Cilla , Apollos stellen stout wij onderdanich zijn , voor mijn daad houden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.26	En ook die Lyrnes vallen , die zien te weer stellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.27	ik gaff de nader , die de troijaensen Hector vellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.28	Door ik leijt Hector neder ; hebben wapen die ik doen Achilles vinden eest eis ik deze wapen mede .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.29	doen wapen , die ik hij enten leven hebben geven , zijn onrecht die ik die weder eijsche na zijn leven ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.30	de ruim have liggen vinden duizend schip vol , doen winden blazen tegen wij gestadich even dol .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.31	daar wereld profeteren , de winden en zullen niet wonen , te waar die Atreus neeff zijn dochter wild zenden te outaer vinden Diaen en latens offeren daar , Om zo te stil t ' weder , en gramschap fel vinden haar .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.32	mare Agamemnon houden zijn vadersche genegenthaijt , wild niet toelaten , off hij schonen gans griek tegen saijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.33	deze dor ik spreken aen wanneer ghij , Aiax , sweecht , En hebben hij tot profijt vinden hebben gemeen bewegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.34	ik drijven een zwaar zaak vinden een pertijdich recht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.35	doen Prins vergeven t ' ik nu , doch hij en denken niet slecht t ' gemeen volcxs schade dan s ' dochter dood , de hei vergelden mede hebben bloed d ' ontvangen heerschappij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.36	doen moer hebben bij haar haar dochter wtvercoren , Die ik bedriegen mos , wan rad wassen verliezen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.37	Ulysses zand ik heen , ik hebben allee bestaan ; Op welk plaats wanneer die Aiax wassen gaan , doen schip liggen nog wel op doen winden en wacht , t ' zijn soud ' doen prins meer dan t ' gemeen goed acht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.38	ik ginck te Troien ook wtrechten alles gezant doen zaak , ik vertrouwd vinden hebben gemeen land .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.39	ik komen aldaar de raad en al doen prins zat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.40	ik claechde Paris aen , heraijschde vrouw en schat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.41	Antenor op wij zijde ' creeg ik , een coninxs stemmen , mare Paris en doen geren , die schuldig zijn mede hij , aanzien haar hand nauw vinden ons mogen onthoude , t ' welk , Menelaus , ghij zowel alles ik aenschoude .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.42	vinden wij gemeen node wassen die de eerst dag .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.43	ik hebben meer wtgerecht , dan ik vertalen mogen In deze lang crijch mede wijselijk doel en raden , wan t ' sinds hebben slaan , geschieden alles wijden te landen treden , Schuijlden doen vijand langen cleenhartich in doen stad .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.44	wijden aanzien eest deze jaar middel om slaan gehadt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.45	god sijdij enten gevecht , mare wat sijdij daar buiten ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.46	smeren hebben ik uw moet in een kas sluijten , gelijk alles hebben geweer , tot dat komen doen tijd , die ik uw bruijcken mogen te veld ' in openen strijd .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.47	wan waartoe dienen ghij ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.48	dan , vraechdij wat ik drijve ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.49	doen vijand liggen ik laag en ons schanse stijf , Tot s ' lang crijchs verdrag geeff ik doen gans moeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.50	Hoe zijde wapenen , hoe zijde moet zijn te voeden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.51	Hierin ik onderwijs en raad ' haar tallen staan , Off warren voor gezant nu hier nu daar zenden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.52	doen koning hebben gedroompt , die hij Juppijn boten Te karn t ' huijswaerts mede doen geheel vlieden , En kunnen door de nader vinden god liggen elk bewegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.53	die Aiax zien vertoog en zetten hij daar een tegen , En vechten al wat hei mogen !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.54	waarom beletten hei niet die ijderman omt zeer fluxs na doen schip vlijt ?	Fear_EmotionalAction
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.55	te wassen niet groot voor hij , die stadig groot kont spreken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.56	mare wat ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.57	hei vlucht selff , en zijn aent strand wijken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.58	ik zien hebben zelf aen en schaemdet ik te zien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.59	ik roepen terstond : wat dingen doen uw , gezel , vlijen En Troien half gestoord lossen laat uit uw hand ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.60	Wat voeren ghij doch na huijs dan een buijt vinden schande ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.61	mede deze woord keren ' ik al hebben volk allee En Agamemnon roepen terstond de hopen bij een .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.62	Een woord en dor ghij doel , o Aiax , niet vermelden .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.63	Thersijtes en ontsach doen prins niet te schelden , mare wereld vinden ik bestrafft ; k ' zijn opgereesen voor En doen ' hebben volk zijn moed weder grijpen door ik woord .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.64	Al t ' geren , die t ' sinds die tijd dan Aiax hebben bedreven , komen ik altsaemen toen , ik hebben hij uw geven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.65	alles hei tijgen op doen vluchten , doel hebben ik hij keren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.66	mare wat griek isser doch die uw achten off begeren ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.67	Wat Diomedes doen , die doen hei mede ik t ' saemen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.68	zijn een klein zaak die hei ik achten bekwaam , En kiezen ik tot gezel uit zo velen duizend manna , alles enen die hij goed in al helpen kan ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.69	te wassen ik beurt niet , nochtans nemen ik bij nacht gevangene zijn vijandts spie , die ik ook om brengen , na die ik al de raden vinden Troien hebben verstaan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.70	mede ik beleeffde ' lof mogen ik te rug gaan , wassen lijckwel niet te vreen , mare alles een vroomheijts pleeger , vermoorden ' ik Rhesus mede zijn selschap in zijn laag .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.71	Dus komen ik hier , naedien ik hebben ik wil wens , Op zijn waag selff alles een zegenen Prins .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.72	Weijgert ik t ' wapen , goed uw gul tot Aiax wonen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.73	ik hebben mede ik zwaarte vernielen Sarpedons bende , Iphetides en Ceranos ik vlucht doen , Alastor , Chromius en ook Alcander mede , Noemen en Pritanus , Halinus vinden gelijk , deze moeten altemael voor mijn aenval wijken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.74	Dan toon , Charapos , en Ennomos en voor Chersidamos hebben ik mede deze hand vermoorden , En menig slechten soldaat ; ook zijn ik niet verlegen Om uw te toon die ik wond hebben gecreegen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.75	doen plaats daar zij staan , o burger !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.76	haar versieren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.77	geloven geren woord , niet diemen liggen schonen versieren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.78	zien doen litteken hier , deze zijn doen barsten , gezel , Die ' ik voor gemeen nut zo dikwijls hebben gaan stillen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.79	mare Aiax hebben zijn bloed zo menig jaar sparen , En hebben zijn groot barsten vinden wond wel bewaren .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.80	Dan , die hei hebben beletten doen griecse vlieden te schenden , zijn die zo groot zaak ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.81	die willen ik wel bekennen , wan te verduijstren t ' god en wassen noijt ik bedrijff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.82	mare die hei d ' eer zien allee niet toen en schrijff .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.83	Patroclus , die dekken wassen mede Achilles wapen , hebben ook weren de branden , tot wij bederff geschapen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.84	hei wanen , die hei allee een harden hebben ' in zijn barsten , die Hectors toren fel stoutlijck verwachten dor , hebben koning en mede ik Achilles selff vergeten , aldaar hei in de raad doen negenst ' zijn geseeten , En boven dander nergens om dan door hebben loten .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.85	Dan zeggen , ghij sterken held , die mette prins spotten , welk wassen de wtgang doch vinden vechten mede uw bei Dan die ghij ongewont laten Hector vinden uw scheiden ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.87	wat zijn ik een smarten te denken aen de dag , die ik de griek muur , Achilles , val zien .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.88	doen traan nog doen rouw , nog vrees condt ik schaeden enten dode lichaam kouten op deesen hals te laden .	Fear_Emotion_BodyPart_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.89	Op deesen hals dragen ik Achilles , en mede hij doen wapen , die ik wens datmen ik nu toestem .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.90	ik hebben kracht , die voor die gewicht niet vrees , En een gemoed , die uw vinden d ' eer zullen dankbaar wees .	Fear_Joy_Honor_Emotion_BodyPart
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.91	doen blauw seegodin heeftse doen wapen schonen zeer constelijck doel smeen , eergierich voor haar zoon , Op die een slechten soldaat , daar wijden noijt geest in zagen , de hemel gaaf woerd onwaardig zullen dragen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.92	hebben gene , datmen in de schillen houwen zien , verstaan hei , weten ik wel , enten alderminste niet .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.93	bezien hijt een te rechte , hei zolder in verwarren : hebben aardrijk , en doen Zee , doen lopen de gunnen ster .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.94	Gij zout uw schamen zelf , die ghij begeren goed doen wapen , die ghij doch enten minst niet verstaan .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.95	mare hei saijt die ik laat zijn in doen crijch komen , En daerentusschen denct niet , die hei zo de vrome Achilles ook beschelt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.96	zijn veinzen zonde wezen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.97	wijden veijnsden al baij , wij vinden wij beijden meest ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.98	Dan , soot vertoeven voor een misdaad zullen verstrekken , ik hebben ik na de crijch zien voor Achilles trek .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.99	hij houden zijn moer thuijs , en ik ik cuijsse vrouw , hij gafmen d ' eerst tijd , en al doen resten aen oud .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.100	ik zullen ik misdaad nu doch wel verdaden connen Gemeen mede zulk manna , nochtans zijn hei gevonnen Door mijn cramerij , vinden alles bij een schrapen , mare ik zijn doort vernuft vinden Aiax niet betraept .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.101	goed zijn botten tong mede ik te schelden toon , verwonderen daar niet in , uw goed hei niet verschonen : Die valschelijck vinden ik misdadich wereld noemen , zijn hebben uw luijden eer die ghij die hebben verdoempt ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.102	mare Palamedes kont zijn onschuld niet betogen , Ghij saecht doen stuk selff , o griek , voor uw oog .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.103	Ghij saecht die goud , die liggen begraven in zijn tent .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.104	mare zeker , die verraden wassen klaar genoech bekennen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.105	die Philoctetes op hebben eijlant zijn blijven , Verdaet uw eijgen zaak , geren schuld ik ik kan geven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.106	Ghij allee laten hebben toen ; ik hebben hebben wel geraen , Op die hei mogen doen moijt vinden deze crijch ontgaan , En zacht door de rusten zijn overwreede pijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.107	hei doen ' alzo en leven , ik zullen deze raad bevinden Niet slechtelijck getrou , mare nog geluckich mede .	Joy_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.108	Die maken zijde ook getrou de gunnen diese doen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.109	Dewijl ik profeteren , datmen niet uit kan rooien Dardanus oude rijk , nog slecht t ' slot vinden Troijen , te zijde die hei er zijde , bevelen ik niet doen zaak , laat Aiax derwaarts gaan , op die hei willig maken Door zijn welspreeckentheijt , een manna vol rasernijen vinden ziekte en gramschap , om mede hij op weg te tijd .	Emotion_Anger
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.110	Off voeren hij door vernuft loosselijck herwaarts aen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.111	doen vloed vinden Simois zullen eer te rug gaan En zonder brand staan Jda , de berg daar boven , En griek aen doen stad vinden Troien helpen beloven , Eer s ' plomp Aiax geest de griek komen te staat , En ik trouhartichaijt tot uwaerts uw verlaat , daar in ik eewichlijck volharden zullen standvastig .	Emotion_Loyalty
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.112	harden Philoctetes , al vallen ghij nu zo lastig doen koning , t ' volk , en ik , hoewel die ghij vervloect Gestadelijck ik hoofd , en niet en wensen off zoeken Dan ik verhopen dood en vinden ik bloed te zuigen , Nochtans zo zullen ik zien , uw hart moeten te buijgen , En doen al wat ik kunnen , die ik uw herwaarts stuur .	BodyPart
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.113	ik zullen , iont ik t ' geluk , uw pijl brengen hier , gelijk ik Helenus hier hebben brengen binden , de god schikken ondect , gelijk ik hebben vinden Middel om Pallas beeld te krijgen op wij zijde .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.114	En Aiax niettemin gelijct hij nog bij ik ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.115	wan zonder t ' beeld ik kont hij niet vinden Troien wreken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.116	waar wassen doel Aiax ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.117	waar wassen zijn vermetel spreken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.118	waarom zwijgen hei doch ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.119	hier en Ulysses niet hebben bloot geweer nog wreed wapen aen en zien , mare stoutelijck darff gaan doort mijden vinden doen wachten binden , en niet allee bij donker naar nacht , mare tot enten hoog slot , en maken luttel werk vinden doen godin zelf te roof uit haar kerk , En gaan mede zulk roof dwars door de vijand waag , t ' welk hebben ik niet gedaan , vergeefs soud ' Aiax dragen zijn zeven dubbel schillen vinden os huid grof .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.120	die nacht , die nacht , brengen icker d ' overwinning off !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.121	doel wannen ik Troia , alles ik Troien maken winlijck .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.122	Aiax , zien niet op Diomedes dus onminlijck vasten mede uw wees stuurs en spreken binden ' smonts .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.123	hei hebben zijn delen aen d ' eer , wijden maeckent onder wij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.124	alles ghij ( uw hoogst roemen ) doen schip ginckt beschermen , Al de gemeen hopen sachmen rondom uw zwerm , Verselschapt vinden hebben volk , en waerdij niet allee , uw helpen hebben ganse heijr , en ik niet meer dan een , welk , te waar hei weten en houden die een vechter minnen dan een wijze manna zijn en ongelijk velen slecht , hei soud ' ook zelf na doen wapen talen gaan .	Emotion_Hope
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.125	de ander Aiax soud ' daar vrijelijk ook na staan , Die goed gematicht zijn .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.126	Eurypylus de cloecken En ook Andromons zoon zullen deze eer zoeken , Idomeneus en voorts Meriones te lot Soud ' deze begeren , en Plisthenes iongste zoon .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.127	deze machmen immers wel in kracht uw gelijk !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.128	Nochtans zijde wil ik enten rad garen wijken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.129	Tot vechten zijn god , ik kennen , uw recht hand , Doch moeten gematicht zijn vinden wij uw rouw verstand .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.130	kracht hebdij zonder geest , ik zorg voor t ' geren mogen gebuur , Ghij eijscht te vechten , ik doen veldheer leijt te voeren tijd en gelegenthaijt , en na ik raden doen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.131	Ghij zijde vinden lichaam sterk , en ik zijn vinden moeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.132	zo velen een stuurman wijze doen roeier goed te boven , zo velen ik moeten een hoofd boven zijn crijsluij loof , zo velen moeten , Aiax , ik zijn boven uw achten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.133	En hebben ik god verstand , k ' en hebben geren minderen kracht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.134	dankbaar vinden ik verdienst wild , prins , uw verklaren Voor zorg die ik dragen doen tijd vinden negen jaar .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.135	gunnen uw waecker nu doen prijzen vinden deze gevecht .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.136	wij arbeijt zijn op eijnt , ik hebben hebben al slechten , Watter wassen in de weg , Troien hebben ik bederven , Door die ik middel hebben tot die bederff verwerven .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5985.s.137	Nu bidden ' ik uw altsaem door wij gemeen hopen En god , daar ik snachts de vijand mede ontsloop , Doort val vinden doen stad , wie ondergang wijden zweren , En door hebben geren , die nog zijn wijselijk uit te voer - Isser nog ijet waar in moijt en perikel steken , zo daar tot Troias vallen nog enig dingen gebreect - , daar door bidden ' ik uw , die ghij mijn wild gedenken , Off wild ghij ik niet , wild Pallas doen wapen schenk .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5994.s.1	zo velen alles d'eedel ziel t ' lichaam te boven goed , zo veel boven kracht t ' vernuft te lof staat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.5994.s.2	daarom deze prins uw deze hoog geachte prijzen , Ulysses , tot een lof en tot een lot toewijzen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.5995.s.1	gaan in doen heer mede Ulysses .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.6001.s.1	Aiax tasten aent zwaarte ; doorsteeckt zijn zelf .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6022.s.1	Nu , deze zijn zeker t ' ik , off eijscht Ulysses t ' mede ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6022.s.2	tegen ik zelf zullen ickt bruijcken hier te stede .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6022.s.3	die dicwijls natten wezen vinden bloed zijn de Troianen , zullen in sijns meester barsten doen weg naar t ' hart baan En druipen vinden zijn bloed , op die koem aen de dag , die niemand Aiax dan Aiax verwinnen mogen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.6026.s.1	2 soldaat .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.speaker.6028.s.1	1ste soldaat	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6047.s.1	beweeglijk ongeluk !	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6047.s.2	laijt Aiax hier verklaren ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6047.s.3	Wat droef tijding zullen ik nu doen griek dragen ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6047.s.4	Op mijn schouder willen ickt dood lichaam laan , En daar mede bij zijn bloed en naast vriend gaan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6047.s.5	Die zijde enten leven vinden zijn eer aanzien versteken , zulle doen griek na zijn dood nog wel om smeken .	EmotionalAction_Despair
+hoof001achi01_01.TEI.2.text.body.div.div.stage.6050.s.1	koor .	None
+hoof001achi01_01.TEI.2.text.body.div.div.stage.6050.s.2	A.B.	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.1	koor A 1 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.2	wij oijt te wereld voor brengen hebben in zijn leven rusten zoeken ?	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.3	nog hier en leven geren sterfflijck mens , Off hei trachten na een zeker wens , En wanen , die die volkoming zoet Soud ' schenk rusten aen zijn moeten .	Aquiescence_Emotion_BodyPart
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.4	B 2 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.5	zulk vintmen , die voor zeker houden , die hei bezit hebben zorgelijk goud , hebben welk ik uit doen mijn graven , waarom Peru de Spangiaert slaven , Op die het hij gans bevrijden zullen vinden ongerusthaijts wreed rouw .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.6	A 3 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.7	doen Spangiaert mede goddeloos geweld Peru , mede zorg zien zelf kwellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.8	de indiaan erffgenaem vinden goud en vinden doen zorg te saem In vrezen vinden zo velen wreethaijt leven , alles hei omt goud bedrijven hebben .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.9	B 4 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.10	mare doen geltgier en merct deze niet , Die ander achterdencken vlijt En bannen vinden hart doen rusten gewis , Die soeckend ' daerse niet en zijn , A 5 .	Aquiescence_Emotion_BodyPart
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.11	vergeten doen god altegaer , En knielen voor ander geren outaer Dan voor Geval , beroven vinden reden , En brengen te offeren al hebben geren die hei de ander eest ontrect , te plaats daert geren duecht en strekken .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.12	B zes .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.13	In deze Godin wonen rijden niet ; nog zien wij haar eer aenbiet ; Stroijt zot gaaf in doen winden , Niet wetend ' zelf wiese vinden ; goed zien dan off beschaijdenhaijt In een sinloose vrouw leijt .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.14	A zevende .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.15	Dan , soot Geval , niet door zijn been , mare door haar zot macht allee , hij leijt te trappen eest voorstellen , En hopen zijn kast op mede geld , doen welk wanneer vol zullen zijn , hei wanen , die zijn onrusts pijnen Soud ' vlijen uit hebben begeerich hart , bedriegen , voelen een niewe smarten .	Emotion_Greed_BodyPart_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.16	B 8 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.17	verlaat hei schonen hebben snood gewin , hei beeld zien selff wat ander in , En gh ' lijk alles vinden te voorn achten , Vercreech hei t ' geren , daar hei na trachten , die voor gewis t ghewenschste god Te vreen zullen ' stillen zijn moeten .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.18	A 9 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.19	wereld stag alles eest bedriegen grof .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.20	Een ander botten de minnen een hoff In d ' oog vinden een schoon vrouw , En maken een wellust vinden zijn rouw , roepen d ' altelichte Venus aen , En wanen , geren goethaijt cond ' bestaan , B 10 .	Emotion_Sadness
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.21	te waar door d ' eijgenschap vinden haar , In welk alles wechgenomen waar de gans onnoemelijcken straal , Die haar eer doen acht altemael , En wij inbeelt door zijn kracht haar groothaijt , waarom datmens ' achten , A 11 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.22	versmaden wijden zullen haar bieden , En acht wij wij eijgen god ; zo meest dan t ' geren , die godhaijt stichten , In doen Godin vinden Cypers liggen ; Te rechte wereld zijde ook meest vuren In t ' geren zijde meest op aarde ciert .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.23	B 12 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.24	doen minnen gelijk t ' geval zijn blind , zo datmen niet mede voorsicht winden .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.25	Dan , zo doen minnaar onverdacht Vercrijcht zijn wellust onverwacht , Terstond hei lichtelijk die bewenen alles cleender die hei hebben menen .	Emotion_Greed_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.26	de aard bekennend ' vinden doen minnen , krijgen hei ijet ander in zijn sin. A 13 .	Emotion_Love
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.27	doen groot luijden op aard ' haar ziel noijt aanzien rein bewaren vinden doen begeren na eer en staat ; Niet dunken haar voor hebben heersen goed , En acht t ' alderhoochste god , die haar een hoop kind groeten , En hebben crijsvollick dichten omringen , daar zorg liggen voor heen dringen , Die meest in zaal hoog onthouden , mede Jasp en Marber opbouwen ; B 14 .	Worry_Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.28	die menig edelman voor haar rij , mede knecht gecleet in turcxse zijde , Die stijf vinden goud en parel craect , die nijd en smaad zijn meest maken ; En datmen voor haar eer beven aldaar doen zon zijn opgang hebben , En mede een schrikken haar nader verhalen te plaats daar doen zon daelt ; wij aarde creijts in stuk barsten vinden haar roemen , te nauw persen , Om t ' volk mede angst te beladen , Die tegen ons voeren gaan ; A 15 .	Fear_Emotion
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.29	die na haar dood en laatst uier haar nemen leeff en eewich duur , En zonder enich haar genot verwonderen wereld vinden vollick zot .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.30	B zestien .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.31	lopen hier om over berg en zee , voeren dondrich schutten en bliksem mede , Coopt t ' ijdel vollixs licht gul , zoeken mede bedriegerij en cunst het verdrukken vinden uw meed'gesel , Tot die uw weder een ander vellen .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.32	A 17 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.33	betrouwen op doen gunst alles doen wind , Die uw uw Prins te dragen schijnen , spelen mede Venijn en zoeken zijn staat , Op die een ander uw verraad , Off ghij een einde ' nemen schandelijk zonder te komen aen hebben rijk .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.34	B 18 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.35	mare off uw wel gelukken schonen , En veijlich ghij besadt doen kroon , doen gans wereld volgen daar aen , Die soud ' nog te begeren staan .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.36	de iongen griek maken geclach , Wanneer hijt al dwingen zien , Omdat hei niet genaken mogen doen werrelden , die , na hij denken , In groots getal nog waar vrijen , En plaag die mede slavernij .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.37	A 19 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.38	begeren vinden t ' geren , die nergens wassen , volgen begeerts volcoming ras .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.39	waar soud ' hei zoeken rusten zoet zoeken hijse niet in zijn gemoed ?	BodyPart
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.40	B 20 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.41	doen mens kunnen meer begeren dan hei immermeer verwerven kunnen .	Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.42	 Die stag op zijn begeerte achten ,  vinden die volcoming rusten verwachten ,  Vercrijcht doen rusten nummermeer ,  Begeerte blijven altijd zijn heer .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.43	A 21 .	None
+hoof001achi01_01.TEI.2.text.body.div.div.sp.6418.s.44	de ghij , o Prins die hier op lid , t ' Onnodich uit uw zin zetten , doen rusten leijt in uw zelf , zien , Sterfft uw begeren , zo derffdij niet .	Fear_Emotion_Desire
+hoof001achi01_01.TEI.2.text.body.div.div.stage.6420.s.1	Finis .	None
+hoof001achi01_01.TEI.2.text.body.div.div.p.6421.s.1	veranderen Candt .	None

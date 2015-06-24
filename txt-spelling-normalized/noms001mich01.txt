@@ -1,0 +1,970 @@
+noms001mich01_01.TEI.2.text.body.div.head.282.s.1	Michiel Adriaansz doen Ruiter , treurspel .	None
+noms001mich01_01.TEI.2.text.body.div.head.283.s.1	eerst bedrijf .	None
+noms001mich01_01.TEI.2.text.body.div.head.285.s.1	eerst toneel .	None
+noms001mich01_01.TEI.2.text.body.div.stage.287.s.1	valkenburg , doen jong valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.sp.speaker.289.s.1	valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.1	doen Westermaatschappy , beheerschster deze land , stellen , na ik ' wensen , ik zode !	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.2	ik ambt dan in u hand !	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.3	Voor ik , ik zijn afgeleefd , ik walgen dus het oog gebied .	Emotion_Disgust
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.4	de klein levenstyd die ik nog overschieten begeren ik meest de dienst de hemel toen te weiden .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.5	uw voegen hebben , in ik plaatsen , te dienst de land , te strijd .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.6	u vader , door zijn ' rank gewillig af te staan , wassen gisteren opperhoofd , thans zijn hij onderdaan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.7	ik voldoen alles hoofd de land de plicht ik voorschrijven , Ik zullen vinden rank ontbloten uw blijk vinden achten geven ; Opdat Guineaas kussen , op het zieden ik voorbeelds , leren ' Wat zijde verschuldigd zijn aan haar nieuw heer .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.8	Doch Valkenburg , gezind u oog gezag te stijf , moeten , schonen hij ambteloos zijn , nochtans u vader blijven .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.9	u rank zijn uiten de mens , en dus liggen korten vinden duur ; doen rank vinden vader blijven , alles het werkstuk de natuur , Die ik doen recht schenken om vrijen mede uw te spreken .	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.10	ik vreugde zijn groots , ik zode !	Joy_Emotion
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.11	niets zij daaraan ontbreken , zode niet door het streng , die in al uw bestieren , hebben vaderlijk harden door zorgen belemmeren worden .	Worry_Emotion_BodyPart
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.12	Ach !	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.13	zoeken gei , na ik ' wensen , te toppen vinden staan rijzen , Nadezen minnen vrezen , en meer beminnen te wees !	None
+noms001mich01_01.TEI.2.text.body.div.sp.315.s.14	worden , ( deze zijde het lot vinden het geren ik voor uw hebben bestaan , ) vinden streng raadsheer , steunen vinden ieder onderdaan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.speaker.317.s.1	doen jong valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.sp.338.s.1	u zode , die nooit doen gul zijn vader zullen vergeten , worden , zode hij het zeggen durven , mede onrecht streng geheten .	None
+noms001mich01_01.TEI.2.text.body.div.sp.338.s.2	Voorzien vinden weinig volk die wij geloven belyd , omringen vinden heidenen , genegen tot de strijd , Door volk welk groots getal , aan doen uitgestrekt zoom vinden het Westlyke Afrika , mede rijden zijn te schromen ; Op welk geschroeiden huid en hoogst misvormen gelaten Natuur een verf verspreiden mede rechte door wij gehaat ; welk bloeden vinden het vuur de zinnen , zetelen in deze orde , Een hitte ontlenen die slechts zien tempren laten door moord , En schaars zien koel laten , dan in het velen koud bloeden vinden wij , weer heerschappij het , zijn ondank , eren moeten ; En welk verwoedheid heen zode ver ' zien doen verlopen , die zijde , uiten vrekheid , wij zij bloeden , alles slaafs , verkopen : Door zulk geboefte omringen , verwijderen vinden wij landen , houden ' hier doen vrezen allee doen woestheid in de band .	Fear_Emotion_Hatred_BodyPart_BodilyProcess_Anger
+noms001mich01_01.TEI.2.text.body.div.sp.338.s.3	Een diep ontzag , vergen vinden onze landgenoot , moeten in deze zwart gespuis het ontzag voor wij vergroten .	Emotion_Awe
+noms001mich01_01.TEI.2.text.body.div.sp.338.s.4	doen vreugde , die het volk deez ' dagge om ik verheffen uiten , betonen wij die wij volk ik strengheid niet misduiden .	Joy_Emotion_Happiness
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.1	doen schynglans vinden een ' rank , ik zode , verblinden uw doen oog : gei kennen hebben volk niet , neen !	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.2	door nieuwigheen bewegen , gelijk hebben vlek de zee door het bulderen vinden de winden , zijn het bij elk nieuwigheid tot uiterstens gezind .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.3	het voegen uw doen vreugde de volk op het hoogst bedaard te aanschouwen : Een heerser moeten hebben volk beminnen , en mistrouwen .	Suspicion_Joy_Emotion_Love
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.4	geloven ik vrijen , ik zode , hoe vreemd hebben uw ook schijn ' , het Gemeen neigen schaars tot vreugde dan om verheugd te zijn : hebben zien uw deze dagge te toppen vinden staan verheffen ; Dus wanen hebben aan zijn vreugde de tomen te moet geven ; het grijpen een gelegenheid om zien een ' dagge te ontslaan , vinden zorg zijn beroeps te hoogst gretig aan .	Joy_Emotion
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.5	hebben redekavelen niet bij het uitlaten tier , Of het goed zien door uw dan ik zullen zieden bestieren ; Genoeg zijn het alles zij harden zien slechts door vreugde verkwikken .	Joy_Emotion_BodyPart_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.6	Natuur , die wijselijk werken , hebben deze hoogst wijze schikken : Nooit moeten hebben wuft gemeen zijn ' waar staan bezinnen ; het veel ' schaars doen afhangklykheid , wanneer het die zullen beminnen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.7	Wat wij betreffen , ik zode ! het aanzienlykst ambt vinden staan zijn een zorgkwekend goed , die in doen dood vergaan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.8	Hoe uw het gezag bekoor ' , het zijn nog voor ik verbergen Of hij die zien verbinden voor zijn volk geluk te zorg , Of het volk , die blindelings buigen voor doen opperheerschappy , hebben meest beklag verdiend , en slaaf te noemen zijde .	EmotionalAction_Awe
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.9	Wat u begrip betreffen vinden zwartzynde onderzaten ...	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.10	Hoe !	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.11	voegen wij , Christnen !	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.12	heen om hun verfte haten ?	Emotion_Hatred
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.13	Natuur , die op bevel haars meester het all ' verrichten , verbinden doen deugd vinden het harden aan het blank nog het zwart zichten .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.14	wie zijn , bestralen door het liggen die zijde , helaas !	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.15	ontberen , Verfoeilyker dan zijde , zode wie door dwang heen deren .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.16	doen mens sproot uiten een ' stam : natuur willen dus geren ' dwang .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.17	Doch , deze te zijde ' stellen , bedenken u zijn belang .	None
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.18	doen Brit , baldadig tros op het vreselijk zeevermogen , dreigen wij op nieuw mede een ' de bloedigste oorelogen .	Emotion_Pride
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.19	die volk , die in zijn landen al overheersing vloeken , Daar het op doen zee voor zien een overheersing zoeken ; Onwillig ooit rusten een ' konings willen te horen , Daar het zien vinden zijn gelijk ' vernoegd laten ringeloren ; doen vrijheid tegen het hof de koning verweren , En vinden de willen de volk mede drift doen weten begeren ; hebben rijden , door Holmes vlieden , na deze gewest drijven , wij op deze kussen bewijs vinden vijandschap geven .	EmotionalAction_Hatred_BodilyProcess_Desire
+noms001mich01_01.TEI.2.text.body.div.sp.387.s.20	wanen gei de neger , eens afkerig vinden u ' dwang , Genegen , en reden te dienst vinden u belang ?	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.1	doen brit , hoe geducht , doel ik in het minst niet schromen : doen Ruiter zijn reden te zee heen op te komen .	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.2	Die held , die meer dan eens heen doen eer de zege ontdroeg , En menigmaal de schrik in hun vloot jagen , behoeven niet een doen macht de brit aan te rand ; zijn naam allee verschrikken die waterdwingelanden .	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.3	Die Holmes , het hoofd de vlieden een volk te zee geducht , zijn rijden doen ruiter macht , zelf zonder slag , ontvluchten ; hij durven , schonen ruimen zode sterk , niets mede doen Ruiter waag ...	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.4	Tot Holmes vallen hebben slechts doen Ruiter op te dag !	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.5	Goerede zijn rijden verheerd , en , volgens het jong berichten , hebben nederland admiraal daar doen anker rijden lichten , Om zien tot ons helpen te spoed door doen stroom .	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.6	wie aanzien thans voor het eest doen ruiter komst vernemen : het geren vinden zijn wijze beleggen een spreken blijk verstrekken , zijn , die hij deze tocht zode kunstig hebben bedekken .	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.7	hij , voor wieden doen overmacht zode dikwyls zijn bezwijken , behoeven geren negerhulp om nederland sinaad te wreken .	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.8	zijn zeldzaam krygsgeluk , zijn deugd , zijn dapperheid , zijn roemen , alom bekennen , zijn wonderbaar beleggen , deze al maken de held ontzaglijk in elk oog .	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.9	zode hij de bijstand eisen vinden het binnenlandsch vermogen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.10	geven , Hemel !	None
+noms001mich01_01.TEI.2.text.body.div.sp.413.s.11	die ik moede de sieren zeeheld blijk ' .	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.1	wensen lief die u deugd doen deugd de helds gelijk ' .	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.2	hij , het hoofd vinden nederland vlieden , vrijmachtig in het gebieden , winden , door bestraffing zelf , hebben harden de oorlogslieden , En temperen steeds , zode het slechts mede doen eer de weten bestaan , doen strengheid vinden doen weten , barmhartig , mede genae .	Emotion_BodyPart_Love_Compassion
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.3	trachten , wild gij uw zieden vrezen en tevens aanbidden , die held in het spoor de deugd onwrikbaar naar te tred .	Fear_Emotion_Love
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.4	het zijn minzaam ernst , ik zode !	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.5	die meest doen mens vleien , beginnen u landbestier mede goedertierendheid .	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.6	tonen altijd groot zuchten tot goedheid dan tot straf .	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.7	gei zien uw door het geval gelegenheid verschaffen , Te toon die u harden op het edelst vatbaar zijn Voor het geren een ' held meest eren , die zijn doen deerenis .	Emotion_Compassion
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.8	laten bord , die ik eens het wraakzuchtig krygsvermogen vinden het woest Fantynsche volk trouwhartig hebben onttogen , Ja , mede zijn lyfsgevaar , ik , die uw het leven geven , Heldhaftig hebben bevrijden vinden slavernij of graf , torn het negervolk , beroerd door het boos beleggen de brit , Een ' aanval doen op het geren wie op deze kussen bezitten ; laten bord , ( die deze volk , te steunen vinden ons macht , Door moede en wijze beleggen , hebben aan ik zijde ' brengen , ) Door lassen de raad , daar hij een doodslag worden verwaten , verwijzen tot doen koord , te ladder afgesmeten , Doch op een wonder wijze !	Emotion_Loyalty_Vindictiveness
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.9	, gelijk gei weten , sparen , worden , andermaal te straf , in het kerkerhol bewaren .	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.10	doen raden begeren zijn bloeden ..	None
+noms001mich01_01.TEI.2.text.body.div.sp.443.s.11	mogen gei die strengheid stuiten !	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.1	Duld datuw zode , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.2	zijn mening vrijen mogen uiten .	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.3	ik beklagen laten Bordes loten ; mare ik beklagen de manna , Omdat ik zulk een loten hij waardig noemen kunnen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.4	het zijn zijn , zijn heldenvuist ; zijn ijver spaarde uw het leven ; mare kennen deze tot een ' moord die krijgsman vrijheid geven ?	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.5	wan , hoe ik het ook beschouwe , een hatelijk tweegevecht zijn moordery , wat eer doen dwaling daaraan hechten ' .	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.6	gei waard hebben die , te lot zijn moed , die ik moeten rome , hij , vinden gemeen ' soldaat , tot hopman doen benoemen : Dus hebben gei hij betalen voor het geren hij hebben bestaan , zijn misdrijf hebben daarna zijn ' roemen te niet braden .	None
+noms001mich01_01.TEI.2.text.body.div.sp.461.s.7	Gyzelf , gei hebben de raden niet kunne overrijden Deez ' krijgsman niet te doel hebben straftooneel betreden ; En wild gei die u zode zijn landbestier beginn ' mede inbreuk op doen weten , spijt ieder weerzin ?	None
+noms001mich01_01.TEI.2.text.body.div.sp.479.s.1	Neen , ver ' vinden mede die eisen u ' fier geest te kwellen , wild ik allee uw doel tot uitstel overhellen : wachten tot zijn land admiraal hier aankomen zijn , En smeken die held die hij laten Bordes loten besliss ' .	None
+noms001mich01_01.TEI.2.text.body.div.sp.479.s.2	doen strengheid vinden doen weten ontzeggen die krijgsman het leven ; Wat ik tot zijn behouden erkentlyk hebben bedrijven , doen meerderheid de raad , doen sterk stemmen de weten , hebben ik hebben sparen vinden de schuldig beletten .	None
+noms001mich01_01.TEI.2.text.body.div.sp.479.s.3	hebben loten willen uw , ik zode , meer gul dan ik betonen : liggen kunde gei redden hij die ik niet kennen verschonen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.479.s.4	Wanneer zijn land admiraal , ( mede ongeduld verwachten , ) hebben vonnissen vinden de raden , na mijn wensen , verzachten , zullen nooit doen fier raden zien billijk kunne storen , Om het geren ...	None
+noms001mich01_01.TEI.2.text.body.div.sp.488.s.1	doen raden zullen nooit vinden uitstel wil horen : Ongaarne zullen ik hij zijn recht af zieden staan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.488.s.2	ik dringen ik rijden te straffen vinden ik ' gevangene aan .	None
+noms001mich01_01.TEI.2.text.body.div.sp.488.s.3	Hoe velen ik hier vermogen , ik kunnen ik kwalijk vergen In het groeijend ' landgevaar de raden de land te tergen .	None
+noms001mich01_01.TEI.2.text.body.div.sp.488.s.4	Indien ik het vonnissen schor , ik kwets hij in zijn eer .	Honor_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.head.490.s.1	Tweede toneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.492.s.1	valkenburg , doen jong valkenburg , een hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.494.s.1	doen hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.496.s.1	laten Bordes echtgenoot verzoek gehoor , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.502.s.1	wijze zij niet af , ik zode .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.502.s.2	tonen zij u mededogen , wezen mede doen traan vinden ellendig bewegen .	Emotion_BodyPart_Compassion_Moved_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.502.s.3	ontzeggen de toegang niet aan treurenden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.1	Welaan !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.2	zijde komen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.3	Ik zijn bereiden om zij te woerd te staan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.4	doemen gei ik ik bestieren , o Hemel !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.5	aan te vang mede strijd mede natuur , doen weten en ik belang !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.6	zijn deze ik loten !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.516.s.7	ik komen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.508.s.1	Tegen de hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.511.s.1	Tegen zijn ' vader .	None
+noms001mich01_01.TEI.2.text.body.div.div.head.519.s.1	Derde toneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.521.s.1	valkenburg , doen jong valkenburg , mevrouw laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.523.s.1	mevrouw laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.535.s.1	hebben belge uw niet , mijnheer , die ik op deze dagge , zode gunstig voor uw eer , In het mijden vinden u vreugde om het ambt uw opdragen , bij het algemeen gejuich , uw naderen durven mede klagen .	Offended_Joy_Emotion_EmotionalAction_Unhappiness_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.535.s.2	geren sterfling delen zode velen alles ik in u geluk ...	Emotion_Happiness
+noms001mich01_01.TEI.2.text.body.div.div.sp.535.s.4	delen ook Valkenburg in ik ' gerecht druk !	HeavyHeartedness_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.535.s.5	ik zeggen , en deze gerucht doen ik deze uur uw naderen , En jagen elk ogenblik de doodschrik door mijn adren , die gei , op drang de raad , ik ' dierbren echtgenoot Op overmorgen zullen doel straf mede doen dood : zijn het waarheid ?	Fear_Emotion_BodyPart_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.div.sp.535.s.6	zullen ik hij op nieuw te strafplaats rukken kennen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.1	ik harden nemen waarlijk delen in doen angst die uw druk ; achten ik niet koelen op het zieden vinden uw tranenvloed ; ik zijn daar gevoelig aan , zode velen ik het wees moeten .	Fear_Emotion_BodilyProcess_Compassion_Other_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.2	u ramp spreken in ik harden , gelijk het betamen ; mare echter doen weten en het heilige rechte spreken sterk ; ik zijn recht , En meer , ik zijn hoofd vinden het rechte ; en dus betamen hebben ik die doen inspraak vinden doen weten bij ik steeds heilige zijde .	BodyPart_Compassion
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.3	Ik hebben , zelf deze dagge , deze weten gei , die zweren doen weten te acht , niets dan haar eisen te horen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.4	doen raden verwijzen , uiten naam vinden het rechte , u ' echtgenoot , te straf een tweegevechts , te straf een moords , te dood ; Daar nu doen koord geenszins de schuldig doen sneven , zijn het vonnissen niet volvoeren , dus blijven hebben vonnissen leven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.5	doen moorder hebben zijn schuld niet aan doen weten betalen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.6	intussen zijn nog het uur de doodstraf niet bepalen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.555.s.7	vragen ik niets meerder af in deze omstandigheid .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.557.s.1	ik vrouw laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.1	Helaas !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.2	hij zullen dan weer hebben straftooneel betreden !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.3	Ik worden op nieuw doemen te wachting vinden een ' slag Die ik hebben harden verscheuren !	BodyPart_BodilyProcess_Sadness_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.4	Afgrysselyke dagge , Waarop ik echtgenoot , door beul aangrijpen , zien zien , op lassen de raad , te schande en strafplaats sleep , Daar hij hebben smaadlykst loten , o smarten !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.5	wassen toebereiden , Ik zullen uw weerzien , mare mede meer yslykheid !	Emotion_Other
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.6	laten bord , eenmaal alles dood te strafplaatse afnemen , zullen in de beul arm niet anderwerf bekomen !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.7	afgrijselijk loten !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.568.s.8	o pijn , die ik hebben harden doorsnyd !	BodyPart_BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.577.s.1	wijd u ' gemaal zijn loten , en het geren gei lijden en lijden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.577.s.2	het wassen niet genoeg een ' manna in het openbaar te ontlyven , ( Die daad zijn ' nog aan drift , schonen strafbaar , toen te schrijven , ) Neen !	BodilyProcess_Anger
+noms001mich01_01.TEI.2.text.body.div.div.sp.577.s.3	nadat doen onverlaat zijn ' vijand hebben wonden , durven hij hij , half ontzielen , nog kwetsen op de grond .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.577.s.4	zijn niet doen strop een lot te zacht voor zulk een boosheid ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.1	zijn gade pryst geenszins zode woest een spooreloosheid ; ik bekennen , door zijn vijand vallen wassen ik gemaal voldoen ; mare wat kunnen drift , mijnheer , de mens niet doel bestaan ?	BodilyProcess_Anger
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.2	wij leven ' er die gezond , tergen , brengen tot woeden , zien altijd voor het wellen de gramschap kunnen behoeden ?	Offended_Emotion_Shame_Anger
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.3	worden ik gemaal te ver ' door toren ' vervoeren , doen manna Die hij mishandelen hebben wassen zelf daar doen oorzaak vinden .	Emotion_Anger
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.4	hij houden wonden niet op ik ' echtgenoot te honen .	EmotionalAction_Hatred
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.5	kunnen zode velen ongelijk laten bord niet verschonen , zijn een te heet drift , ( die merken vinden het frans bloeden ! ) Doemwaardig , denken , mijnheer !	BodyPart_BodilyProcess_Anger
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.6	aan zijn hooners overmoed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.7	Die booswicht , naar ontzind in schandtaal uiten te spat , bestaan , voor het ogen ik man , onkuis ik aan te vat ; En torn ik echtgenoot ik voorstond , volgens plicht , geven nog zijn hooner hij een ' slag in het aangezicht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.8	Wat manna vinden moede zullen , zien een zwak vrouw onteren , En die zijn eigen vrouw , zij recht niet verweren ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.9	En welk een manna op doen aarde ' zullen dulden die , daarna , doen schender vinden zijn vrouw in het aangezicht hij slaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.10	voegen hier doen teerheid bij de rangs vinden oorlogslieden : doen onteerde krijgsman zien door ieder zien ontvlieden alles eereloos , tot die zijn moede zijn zaak besliss '; En denken die ik gemaal een hoofd vinden het krygsvolk zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.605.s.11	Te ver ' trekken wraken volgen liggen een schendig honen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.616.s.1	deze pleit kunnen geenszins u ' echtgenoot verschonen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.616.s.2	doen wegge tot klagen , die doen raden hier nimmer sluiten , staan openen , zode voor uw alles voor u ' echtgenoot .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.616.s.3	zode rank een ' oorlogsman tot moord rechte zullen geven , Wat sterfling zullen rusten bij krygsvolk kunne leven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.616.s.4	de krygsmans woestheid strekken de burgren rijden te schromen ; ik kennen zijn toomloosheid : doen weten houden ' die in tomen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.616.s.5	Niets spreken laten bord voor in het woest wetverbreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.622.s.1	spreken niets hij voor mijnheer !....	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.622.s.3	laten zijn dienst spreken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.622.s.4	hij hebben u ' vader hoofd omtrekken aan doen dood , En schenken het Fantynsche volk wij volk te bondgenoot .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.626.s.1	valkenburg , tegen zijn ' zode , te zijden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.628.s.1	geven zij en ik gehoor .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.628.s.2	doen eens u strengheid zwichten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.631.s.1	doen jong valkenburg , tegen zijn ' vader .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.637.s.1	laten Bordes dienstbewys wassen het voorschrift vinden zijn plicht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.637.s.2	Ik hebben het uw rijden zeggen , u gul hebben hij voldoen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.637.s.3	ik plicht vereischt en raden en weten voor te staan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.637.s.4	Ik bidden mede ernst , mevrouw !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.637.s.5	ik lang niet te kwellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.640.s.1	mevrouw laten bord , zien aan zijn voeren werpen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.643.s.1	Duld die ik smeken moog ' doen doodstraf uiten te stillen , Tot nederland admiraal ...	EmotionalAction_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.646.s.1	doen jong valkenburg , zij opheffen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.1	vergen ik geren zaak , mevrouw , Die ik in landkrakeel onfeilbaar wikkelen zij .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.2	Door het vonnissen in doen macht de admiraals te geven , worden ons raden door ik een oneer aangevreven : het zij zijn alsof die zelf geren kundigheid bezitten , En tot bestieren vinden het rechte een ' ander ' nodigen hebben .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.3	Ik zelf moeten , en mede rechte , zijn ongenoegen vrees : ik wassen lid de raad , ik hebben laten bord met verwijzen ; zij het niet onbillijk zijn , die ik , ( thans opperhoofd , vinden wieden doen raden zien niets dan al goed beloven , ) Een vonnissen , die hij ik benevens zien zien vel , Aan doen uitspraak vinden hebben hoofd vinden nederland vlieden doen stillen ?	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.4	gei zien die ik u bede niet zonder overleggen , Niet zonder rijden die gronden zijn , uw ontzeggen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.5	Schryf ik geren wreedheid toen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.6	Ik zij , zode het kennen scheiden , uw in u ongeluk mede ijver bijstand bieden ; En zullen mede blijdschap zieden die straks ik vader wagen ' Te vlaag vinden de raden het geren ik ongaarne vragen .	Joy_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.7	het Verzoek door ik braden zij voor bevel verstrekken , En deze , gei zien hebben klaar , zij mortery verwekken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.8	bedenken , doen zekerheid de land zijn in deez ' staan gronden op doen eendracht vinden zijn land hoofd en vinden de raden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.9	het zijn zijn , op ik bevel moeten al weerstand vlijen ; Doch willen in deze zaak verzoekend ' niet gebieden , begrijpen gei liggen die ik , hoe hard uw deze ook val ' , nog minderen ik gezag gebruik kunnen , of zullen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.674.s.10	ik vervoegen ik daar doen raden ik plechtig zullen begroten .	None
+noms001mich01_01.TEI.2.text.body.div.div.head.678.s.1	vieren toneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.680.s.1	valkenburg , mevrouw laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.1	mijnheer , ik toeverlaat !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.2	ik vallen aan uwe voeren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.3	hebben wreed belang die ik te helpen hij verbieden , weerhouden uw , vrijen vinden rank , om ik te helpen niet .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.4	u drift voor doen eer de raad , zode menigmaal blijken , zullen , alles gei spreken , in het harden de streng rad spreken .	Honor_BodyPart_BodilyProcess_Compassion_Dedication
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.5	doen trouwen vinden ik ' gemaal spreken in u edel harden , ik droefheid slaan deze uur uw meer dan ooit mede smarten ...	Emotion_BodyPart_Loyalty_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.6	gei markt ik bede .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.691.s.7	Wat baten een werkeloos mededogen !	Emotion_Compassion
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.1	hebben grieven en strelen die niets te helpen de deugd vermogen : hebben medelijden strekken de waarlijk braaf manna te foltring , alles het doen deugd in node niet baat kunnen ; En het strelen nochtans zijn ziel , die zijde zien voelen ontvonken Door doen eelste drift die ooit hebben schepsel zijn schenken .	Emotion_Happiness_BodyPart_BodilyProcess_Compassion_Dedication_Desire
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.2	o Hemel !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.3	moeten die gift , die onwaardeerlyk goed , Die dubbel werking doel op Valkenburgs gemoed !	BodyPart_Moved
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.4	Verwys , daar hij zode velen voor doen onschuld willen verrichten , zijn mededogen niet voor werkeloosheid te zwichten .	Emotion_Compassion
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.5	hebben zijn uw ramp , ik kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.6	die ik hebben harden doorsnyd : Ik lyde op het wreed , mede uw , omdat gei schuldeloos lijden , En omdat ik om beide een ' wegge tot troosten te baan , Helaas !	BodyPart_BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.707.s.7	geren middel weten dan het storten deze traan .	BodyPart_BodilyProcess_Compassion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.712.s.2	zullen doen raden , mijnheer , alles hij uw naderen zien , u voorstellen ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.2	gei kennen de aard de groot niet , Meest dorstig na gezag , zullen , schonen zijde het loods verbergen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.3	Een voorstellen die hunn ' rank te ontluistren schijnen heen tergen ; zijde weet een verzoek , hoe heus heen ook braden , alles heen het verzoek mishagen , mede heusheid af te slaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.4	deze staan ontwijfelbaar ik vinden de raden te wacht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.5	ik zode kennen goed de geest de streng raad verzachten : hij kennen , aanvaardend ' zijn aanzienlijk ambt vinden staan , hebben doel een gunstbewys opdringen aan de raden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.6	deze wassen ik hopen ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.8	herinneren , tot ik smarten , ik niet in deze staan ik ' zoon hoogmoedig hart .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.9	beklagen ik : doen eerst dagge waarop hij het volk begroeten alles landvoogd , in ik plaatsen , kosten ik een ' tranenvloed .	BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.11	doen mede spoed de admiraal heet land !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.12	ik harden trekken door de vloed zijn vlieden na deze strand .	BodyPart_BodilyProcess_Desire
+noms001mich01_01.TEI.2.text.body.div.div.sp.732.s.13	In zijn gewenst komst bestaan ik hopen allee .	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.738.s.1	Wel !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.738.s.2	wanhopen gei de raden te treffen door gebeen , hopen die gei het harden uw zoon bewegen zullen , door smeken , ik toen te staan slechts eens mede ik ' gemaal te spreken .	EmotionalAction_BodyPart_BodilyProcess_Compassion_Moved_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.2	willen dan hebben loten zode gruwzaam op wij woeden , die gei niets smeken kunde waaraan ik kunnen voldoen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.3	bedenken , die tot de manna die het zwaarte de recht zullen dood , bijna in ieder landen , doen toegang zijn verbod .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.4	Nochtans , ik kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.5	ik zullen , hoe hopeloos het ook zijde , hebben harden ik straf zoon ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.6	mare , hoe !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.747.s.7	wij naderen ik ?	None
+noms001mich01_01.TEI.2.text.body.div.div.head.750.s.1	vijfde toneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.752.s.1	valkenburg , mevrouw laten bord , een hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.763.s.1	vergeven die ik uw storen ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.763.s.2	wie zieden vinden deze vasten , mijnheer , een kloek vlieden , wij nadrende uiten hebben west .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.763.s.3	wij ogen , wapenen door een sterk aantrekkend glas , Bespeurde op eene kiel , schonen die doen vers wassen , hebben merken een schouts bij nacht aan doen achtermast binden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.763.s.4	u zode hebben ik tot uw mede deze berichten zenden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.763.s.5	ik wensen die deze vlieden haasten op doen rijden verschijnen ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.1	zode het niet doen Ruiter zijn , hebben zullen zijn voortogt zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.2	gade heen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.3	Ik zullen terstond ik bij ik ' zode begeven , ik kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.4	Ik veel ik vreugde in het bang gemoed herleven !	Fear_Joy_Emotion_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.5	Die ras komst de vlieden verschaffen , in deze staan , een ander bezigheid dan straf aan de raden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.6	doen Ruiter zijn nabij !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.7	wie zijn wij lijden te boven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.8	Ik kunnen vinden zijn deugd ik niets dan goed beloven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.774.s.9	gei kennen zijn inborst niet , mare ik kennen die voor langen .	None
+noms001mich01_01.TEI.2.text.body.div.head.784.s.1	Tweede bedrijf .	None
+noms001mich01_01.TEI.2.text.body.div.stage.786.s.1	hebben toneel zijn in hebben voorportaal vinden de kerker .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.790.s.1	mevrouw laten bord , een hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.1	stellen uw rusten , mevrouw !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.2	gei zullen laten bord spreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.3	deze zeldzaam gunstbewys zijn geren ongunstig teken : Een heimelijk gesprek worden nimmer toestaan mede hij die zeker zullen doen doodstraf ondergaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.4	wie acht u ' gemaal , zijn loten doen ieder zucht ; zijn lyfsgevaar kunnen uw niet meer dan ik doel duchten .	BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.5	doen staan vinden ongeluk zijn die gesteltenis .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.801.s.6	Waarin doen mens bespeuren of hij beminlyk zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.814.s.1	All ' wat ik kunnen , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.814.s.2	in deze omstandigheid , Waarin ik harden door hopen en doodsangst worden bestrijden , It uw te danken voor die edelheid vinden harden , Die uw doen deel in laten Bordes bitter smarten .	Fear_Emotion_Hope_BodyPart_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.814.s.3	Die edelmoedigheid doen ik genoeg bespeuren , die gij in de kerker hij niet troosteloos hebben doel treuren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.814.s.4	doen gul , waarvan gij ik voor hij velen goed beloven , zijn ik verplichten aan u wijzen opperhoofd , Die zijn ' gestrengen zode daartoe hebben kunne nopen , En ik op het edel harden de admiraals doen hopen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.820.s.1	ik pryst doen Ruiter oog : ik zeggen die inderdaad zijn harden meer tot genae dan strafheid overslaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.820.s.2	zelf zeggen ik zijn deugd gaan ver ' het gerucht te boven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.832.s.1	Ik hebben geren reden , mijnheer , die ik het niet zij geloven : doen grijs Valkenburg , die niemand ooit bedriegen , Pryst bij aanhoudendheid doen ruiter deugd oog .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.832.s.2	Doch , buit deze , doen hopen , die doorgaans het harden de mens Geloven doen all ' het geren zijde zijn te wees wensen , doen ik geren ' twijfel slaan aan held doen ruiter deugd .	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.832.s.3	hebben zijn die hopen allee die thans ik ziel verheugen .	Emotion_Hope_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.832.s.4	ontsluiten ik ' echtgenoot .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.832.s.5	 Ik veel ik lid beven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.838.s.1	Ik gade op het ogenblik daartoe bevel geven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.838.s.2	Ik weten ik ' lassen , mevrouw .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.838.s.3	verwachten in deze vertrekken mede hij om wieden gei wenen een ongestoord gesprek .	BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.844.s.1	mevrouw laten bord , allee .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.1	Hoe strijd hopen en vrezen gestadig in ik gedachte !....	Fear_Emotion_Hope_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.2	mare moeten ik siddrend ' hier ik ' echtgenoot verwachten ?	Fear_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.3	o Ja !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.4	laten Bordes loten hand vinden de vlootvoogd af ; ik zeggen doen groot zijn meedoogenloos en straffen , En het hoofd de vlieden behoren voorzeker tot doen groot ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.5	mare grijs Valkenburg , uiten edel bloeden spruiten , doen ik te klaar zieden , door het deel in ik smarten , die alle groot niet onmenschlyk zijn vinden harden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.6	hij roemen de admiraal : waarom zijn woerd te vrees ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.7	hij zijn alom geacht , hij zullen ik voorspraak wees !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.8	wijken , vrezen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.856.s.9	die weinig baten , en slechts wij wede vergroten .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.861.s.1	mevrouw laten bord , laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.865.s.1	laten bord , driftig toeschieten , en zij ombelzende .	EmotionalAction_Love
+noms001mich01_01.TEI.2.text.body.div.div.sp.867.s.1	gelieven wederhelft !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.871.s.1	mevrouw laten bord , wenen , in zijn arm .	BodilyProcess_Other_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.873.s.1	trouwhartig echtgenoot !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.876.s.1	laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.881.s.1	weerhouden die traan tocht , die ik hebben harden doorboren .	BodyPart_BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.881.s.2	Door wieden zijn ik het geluk vinden uw te zieden beschoren ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.881.s.3	wieden dank ik deze gul ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.881.s.4	die ik hoogst dierbaar zijn , schonen zijde niets goed voorspellen in deze gesteltenis .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.885.s.1	danken grijs Valkenburg die gei ik moogt aanschouwen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.893.s.1	Ik kunnen geren ' enklen stappen vinden deze held mistrouwen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.893.s.2	spreken , geven ik ik te gul tot deze bezoeken bevel ?...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.893.s.3	Of zeggen gei anderwerf voor eeuwig ik vaarwel !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.893.s.4	Ontzie ik niet , spreck vrijen ; voldoen aan ik begeren : Wat zullen ik noodlot zijn ?	Emotion_Desire
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.895.s.1	Mevrouw laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.899.s.1	hebben kunnen , hebben zal verkeren !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.899.s.2	te minst Valkenburg , die waarlijk vroom manna , die ik geloven moet , verzekeren ik daarvan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.904.s.1	zode hij het verzekren durven , wat staan wij dan te vrees ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.904.s.2	Wat doen , bij zode velen hopen , uw dan zode treurig wees ?	Emotion_Hope_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.909.s.1	wij kunnen hebben geren hij minnen , gelijk zijn eigen harden , Gevoelloos leiden zieden ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.921.s.1	verbannen , verbannen die smarten .	Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.921.s.2	Indien een schelmstuk ik mijn eer hebben doel verkorten , Dan voegen het uw mede rechte die tranenvloed te storten ; mare ik hebben uw eer , mijn eer , vol moed , door het stalen redden , En zijn dus het offeren slechts de strengheid vinden doen weten .	Honor_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.921.s.3	mare wat kunnen Valkenburg uw doel verzekering geven , die niet te tweedemaal ik vonnissen zijn schrijven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.921.s.4	Onthef ik harden vinden schrik , die ik hebben sterven baard , Om uw , geenszins om ik : gei kennen laten Bordes aard !	Fear_Emotion_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.934.s.1	doen hollands admiraal , die hier in het korten zullen land , doen Ruiter , hebben u loten volkomen in zijn hand ; En grijs Valkenburg bezweert ik die die held In goedertierendheid zijn hoogst glorie stellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.934.s.2	doen gryzaart , die uw achten , wie deugd wij zijn blijken , beloven ik zelf voor uw de admiraal te spreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.934.s.3	scheppen moede , ik echtgenoot !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.934.s.4	wij leven ' er die een ' manna alles edel Valkenburg een bede ontzeggen kunnen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.934.s.5	ik liefde doen ik het all ' vinden zijn ijver hopen .	Emotion_Hope_Love
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.1	Een zwak hopen , helaas !	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.2	die haasten tot niet zullen lopen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.3	u liefde zijn het all ' voor ik ; mare , tot ik ' bitter druk , verzwaren die liefde allee laten Bordes ongeluk : het Besef vinden het wede , die zij uw om ik gevaar doen leiden , moeten in deze ogenblik ik harden op het felst doorsnyden ; Naardien u ijdel hopen , allee uiten liefde ontstaan , alles hopen vervliegen , u harden te diep winden ' zullen slaan .	HeavyHeartedness_Emotion_Hope_BodyPart_BodilyProcess_Love_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.5	hoe kunnen Valkenburg , door zulk een hopen drijven , vinden ik bevrijding uw mede grond verzekering geven ?	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.6	vergeten hij die zijn zode , uiten achten voor de raden , ik aan ik yslyk loten volstrekt bevelen laten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.950.s.7	En kunnen hij ooit mede grond vinden het hoofd de vlieden verwachten , die hij doen rad belg ' , te gul vinden ijdel klacht ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.962.s.1	doen lassen de ongeluks sporen uw tot wanhopen aan .	Emotion_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.962.s.2	ik weten die doen ramp in wij doen wantrouwen doen ontstaan ; mare laten zij nevel thans u ' geest niet meer bevangen .	Suspicion_Emotion_BodyPart_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.div.sp.962.s.3	doen jong Valkenburg , dringen door belang de raden te ontzien , volgen slechts wat hij het belang gebied ; mare nederland admiraal kennen die belang niet : Die held hebben aan doen wrok de raad zien niet te storen ; doen raden , hoe fel gebelgd , kunnen hij niet ringeloren .	Emotion_Spitefulness
+noms001mich01_01.TEI.2.text.body.div.div.sp.962.s.4	het Kostalles hij een woerd :  ik eisen het !  en al zwichten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.1	die zijde zode ; mare die woerd zijn waarlijk vinden gewicht ; het zijn voor een ' staatsman velen daarvan gebruiken te manen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.2	laten wij het gewis gevaar niet voor wij zelv ' verzaken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.3	het zijn mogelijk die ik geest , bedwelmen door het ongeluk , Te velen gevaar zien , tot meerdring vinden ik ' druk ; mare hopen , ruimen zode bekwaam alles smarten om het ogen te blind , kunnen ook aan schijn vinden heil uw doel een toevlucht vinden : Beproeven wij , onbedwelmd , aan zijn tijd gesteltenis , Of hopen of vrezen voor wij hebben meest bedrieglijk zijn .	HeavyHeartedness_Emotion_Hope_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.4	wanen gei het in zijn land gevaar doen ruiter zaak te wees , Hoe weinig hij het gemor de rad hebben te vrees , die hij , op Valkenburgs , of u ' , of iemants drang , zien menge in een geval voor hij vinden geren belang ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.5	Wat raken hij of ik ik op nieuw verwyz ' tot sterven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.6	Waarom tocht zij hij ik genadig doel verwerven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.7	Om Valkenburgs verzoek !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.8	mare wat zijn in deez ' staan hij nut , Valkenburg ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.9	of het lichaam vinden de raden ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.10	zijn het heden zijn belang , al willen hij ik verschonen , de raden door het scheuren vinden zijn vonnissen fel te honen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.11	moeten ooit deze rijk kussen vinden tweedracht zijn bevrijden , hebben zijn vooral in deez ' hoogst hagchelyken tij .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.12	hebben doen admiraal doen spijt de rad niet te vrees , zij vriendschap moeten nochtans hij aangenaam wees Dan hun vijandschap , die hij niet zoeken zullen Door een ' verwijzen manna te onttrekken aan zijn ' vallen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.992.s.13	wij deze vertrouwen durven kennen weinig het harden de groot ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.995.s.1	mevrouw laten bord , mede drift .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.1	gei dwaalt : hebben hoofd de vlieden , uiten liggen stam spruiten , hebben in een ' arm staan , die nooit zijn man lustre krenken , leren hoe in de node zijn medeschepsel denken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.2	hij weten wat waard elk mens , hoe arm , of oog verheffen , bij het aanzien vinden doen dood natuurlijk hechten aan het leven ; doen manna , die in een stolp op het landen zijn voortbrengen , zijn hij , alles mens , zode woerd alles het vorstelykst slachten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.3	deze zijn niet vreemd : doen node doen wij aan deugd gewennen ; ik dienen om mens te zijn zichzelv ' eest zwak te kennen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.4	Gelnof ik , doen admiraal zijn vinden die groot niet , weer ogen meedoogenloos zij mindren leiden zien .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.5	u trouwen voor Valkenburg , de zeeheld aanprijzen , u moede , alom bekennen , u dienst aan het landen bewezen , doen wonder zeldsaamheid vinden u berucht geval , het gaan vasten die al op de vlootvoogd werk zullen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.6	het geren ieder vinden hij zeggen maken hij ons achten waardig .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.7	Verdenk doen groot tocht niet al , wezen rechtvaardig , zijn Helds roemen zijn te algemeen , dan die deze spoorloos zijde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1016.s.8	Nooit spreken hebben gans volk doen talen de vleierij .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.1	hebben volk schatten , inderdaad !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.2	vol onbezonnen yvers , hebben schonen de daad na de rank de daadbedryvers .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.3	alles een aanzienlijk manna een goed daad verrichten , zijde groeien in ieder mond , zij zijn groots in elk zichten ; Daar wat een burger zien ook loflyks moog ' vermeten Meest flaauwlyk worden roemen , en spoedig worden vergeten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.4	doen goedheid vinden de held , roemen schier buit maat , zij zode beroemd niet zijn zijn ' hij geren manna vinden slaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.5	die grijs Valkenburg hebben al gunstig schijnen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.6	hij oordelen ieder harden te al tij ' na het zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.7	En schonen doen Ruiter hebben in liggen staan leren , Wat smarten doen droefheid baard , zijn staan zijn langen verkeren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.8	doen mens zijn doorgaans in liggen staan meedoogend '; mare het loten heen uiten zij Niet te toppen vinden staan verhoogend ' , schrijven heen , bij het wisselen vinden zij standgesteltenis , Die streng koelheid voor die groot eigen zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.9	Doch hoe doen ruiter zuchten voor het mensdom zijde blijken , zijn strengheid doen niet minnen doen wereld vinden hij spreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.10	bedenken deze .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1039.s.11	oordelen nu of ik vinden zulk een ' manna , In weerwil zijn belangs , vergifnis hopen kunnen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1042.s.1	mevrouw laten bord , naar een weinig zwygens .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1050.s.1	Gemaal !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1050.s.2	moeten uw vrezen ik , eensslags , het all ' doel vrees !	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.1050.s.3	 doen gul de admiraals moeten niet onzeker wees ; En evenwel , het gaan vasten , zijde kunnen onzeker zijn ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1050.s.4	doen vrezen ik echtgenoots zijn niet ontbloten vinden schijn !	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1046.s.1	naar een pozen hij sterk te aanzien aanzien , peinzen en te zijden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1054.s.1	spreken , wat besluiten u harden ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1054.s.2	het schijnen heimlyk zien te kwellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1057.s.1	mevrouw laten bord , uiten zij gepeins tot doen uiterst levendigheid overgaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1060.s.1	u noodlot aan uzelv ' , en die terstond !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1060.s.2	te stillen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1060.s.3	doen Hemel storten daartoe ik het middel in de zijn !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1064.s.1	Wat wild gei zeggen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1064.s.2	spreken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1064.s.3	Wat middel vallen uw in ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1074.s.1	Een middel die u harden geenszins zullen kunne wraak , die vinden doen Ruiter uw zullen onashangklyk manen , die grijs Valkenburg doen moeite sparen zullen vinden uw door zijn verzoek te onttrekken aan u ' vallen , En die zijn ' streng zode , en al doen trots rad , terwijl wij ieder roemen , mede schande ' zullen overladen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1074.s.2	die middel zijn ... doen vlucht !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1074.s.3	maken uw daartoe reden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1077.s.1	laten bord , mede verwondering .	Emotion_Wonder
+noms001mich01_01.TEI.2.text.body.div.div.sp.1079.s.1	Wat dekken ik in het uitgaan voor het zichten de wachten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1082.s.1	mevrouw laten bord , mede vervoering , hij om de hals vallen , bij doen hand nemends en , naar een weinig zwygens , hij mede tederheid aanziende .	Emotion_EmotionalAction_BodyPart_Love_Benevolence
+noms001mich01_01.TEI.2.text.body.div.div.sp.1084.s.1	deze kleden !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1087.s.1	laten bord , mede verbaasdheid , zien vinden zij losrukkende .	Emotion_EmotionalAction_Other_Wonder
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1092.s.1	mevrouw laten bord , op hij toetreden , mede drift .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.1	schikken hebben aan , om zeker wegge te vlucht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.2	Vermomd in ik gewaad hebben gei geren wachten te duchten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.3	houden , alles gei uiten deze hol voorbij doen wacht trekken , ( Alsof gei bitter wenen , ) u aangezicht bedekken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.4	winnen ons woning straks , en laten u vlug flaven , En zijde , die vinden zij trouwen doen sterk proef gaaf , uw vergezellen door doen bos , of lang het stranden , Tot bij het Fantynsche volk die diep zien hout in het landen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.5	gei weten voor langen hoe trouwen die neger uw beminnen : gei zullen die dapper volk liggen tot u helpen verbinden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.6	Ik geven , zode gij u gewaad ik voor ik kleed gunnen , uw tijd genoeg die gei deze vlek ontvlieden kunde : Ik zullen , om het hoofd de wachten al achterdocht te onttrekken , Op deze tafel het hoofd mede mijn arm bedekken , Alsof doen hevigheid vinden het pijnlijk harteleed ik het spreken moeilijk maken , en het daglicht schuw doen ; En , om de hoofdmans ogen zolang het kunnen zijn te blind , zullen hij , wat hij ook zegg ' , volstrekt ik sprakeloos vinden ; Dus eer hij merkel kunnen hoe loods hij worden misleiden , En hij uw volgen doen , zijn gei in veiligheid .	Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.7	verwerpen ik ' voorslag niet ; gei moeten die niet weerspreken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.8	het loten hebben uw langen vervolgen , gei kunde op het loten uw wreken : Daar het uw tot op deez ' dagge zode hoogst ongunstig zijn , schenken het nochtans wij een gul : een lyfsgestaltenis !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.9	bedienen uw vinden die gul om het loten mede roemen te straf Voor al zijn ongunst : het zullen niet liggen ik kans verschaffen uw weer allee te zieden ; wan worden u dood bestemmen , Dan zijn doen toegang tot deze kerkerhol stremmen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.10	komen , grijpen hebben middel aan die ik uw aan durven bieden , Om streng Valkenburg , de raden , doen dood te ontvlieden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1126.s.11	het zijn loffelijk mede dulden te leiden het geren ik moeten ; het zijn pligtlyk , alles ik kunnen , het gevaar te ontgaan mede spoed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.1	All ' wat ik horen ontroeren ik !	BodilyProcess_Moved
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.2	Ik zijn nauw ' tot myzelven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.3	moeten gei , ik gemalin !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.4	mijn eer die affront delven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.5	Tot welk een ' prijs stellen gei ik leven in ik hand ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.6	gei wild slechts die ik leven , al leven ik in doen schande ' ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.7	ik hebben uw tonen uw eer meer te acht dan ik leven , En gei , gei wild mijn eer een ' wis doodsteek geven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.8	hebben ik minnen waard aan doen eer dan het levenslicht hechten , Ik staan nu niet te doelen aan het streng wraakgerecht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.9	Ik , vlugtende , uw te prooi de trots rechtbank laat !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.10	Ik zij ik vriend , ik trouwhartig soldaat , ik broeder , die ik steeds na waard hebben geacht , weer trouwen ik lichtnis in ik boeien hebben toebrengen , Bedriegen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.11	en daardoor gelegenheid verschaffen Aan stug Valkenburg om heen op het strengst te straf !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.12	gei zullen doen gul een man bewegen mede u ' rouw , een vrinds , die , hoogst rusten op ons goed trouwen , bewerken die gij u ' gemaal in het kerkerhol moogt spreken , misbruik !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.13	en op het snood doen goed trouwen verbreken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.14	ik zij leven mede doen blaam die ik uw hulpeloos laten !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.15	verwachten vinden u ' gemaal zode groots een lafheid niet !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.16	doen ladder en doen strop zijn minnen voor ik te duchten , Dan het denkbeeld zijn de schande ' vinden op die wijze ' te vlucht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.17	doen dood ik toedenken zijn wreed voor het ogen allee ; mare zij zijn niets voor de manna die zij durven tegentreen : doen pijn worden uiten gevoelen , uiten ander niets !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.18	baren ; het gevoelen worden door doen straffen , in het vonnissen , ik beschoren , bijna niet aandoen : te ladder afstorten zijn wij gevoelen straks wegge ; dus zijn wij leiden korten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.19	mare op een laf wijze ' doen goed trouwen te schenden , te kosten vinden ons eer gevaar af te wonen , Te leven mede doen blaam , die wij hebben leven meer behaaglijk zijn dan het hoogst vinden zijn mens goed , ons eer ; deze al baard de manna , die hebben leren te sterven , En denkbeeld hebben vinden doen eer , meer smarten dan het liggen te durven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1166.s.20	laten u ' gemaal , wie plicht eisen die hij het middel doemen ' die wij onteert , vergaan ; en gei ... bewaren u ' roemen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.1	gei wijzen ik ' voorslag af ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.2	Gyzelf , gei eisen te sneven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.3	gei wild die ik uw derv ' ?...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.4	ik zullen uw voldoening geven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.5	mare wanen niet die ik laf in deez ' gehaat waal bij die barbaar , die uw dreigen , leven zullen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.6	torn ik uw doen eest ; malen na het moordschavot zien ruk , laten ik doen krankte , ontstaan uiten drang vinden ongeluk , Niets dan een asscheid toen , die ik hebben harden doorsnijden ; deze harden , door tij gewoon aan het onverdraaglykst lijden , kunnen thans hebben groots besluiten , waarvan het hier all ' zullen beven , Volvoeren , tot bederven vinden wij uw willen doel sneven .	BodyPart_BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.7	Ik zeggen uw eens vaarwel , ik denken daaraan , en yz ' !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.8	ik zeggen uw thans weer vaarwel , mare op een ander wijze ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.9	Ik , door u reden mede schrik om u gevaar bevangen , willen vinden doen ruiter gul u hoofd niet af doel hangen ; Ik stellen , uiten liefde , u loten trouwhartig in u macht , dewijl gij uiten zuchten voor ik zijn in het verderf brengen ; gei vinden hebben minderen wreed door een onteerend sterven u gade , tot zij dood , u ' bijstand te doel durven , Dan , mede zij bitter wede , die zij om uw lijden !	Fear_Emotion_BodilyProcess_Love_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.10	begaan , zij liefde een poging uw te redding toen te staan ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.11	Een kiesheid zode barbaars aal schaars na traan horen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.13	daar ik , nevens uw , uw aanmerk alles verliezen , schikken ik niets over dan die ik deze plaatsen begeev ' , uw redden door wellen ... of voor deez ' kerker sneev ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.14	ik zullen voor het Fantynsche volk in het rouwgewaad verschijnen : minnen wreed dan gei , naardien het zullen deel in ik pijn , zullen het op de streng aard de landvoogds rijden verstoren , Daar het uw beminnen , door ik te opstand aansporen , zien , voegen aan doen zijde ' vinden Englands waterbenden , te breking vinden u boeien na deze muur wonen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.15	doen neger zullen ik groots doen dood trotseren zieden , En , moedig uiten de aard , ik poging bijstand bieden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1206.s.16	hebben bloeden de raad , die wreed u bloeden willen doel vergieten , zullen , zode ik wij weerstaat , in deze muur vliet ; Of het volk door ik leiden zullen ik , in het oorlogswoen , Verdelgen zieden door het rotten die uw willen sneuvlen doel .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1209.s.1	laten bord , zij wederboudende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1211.s.1	vertoeven , wanhopige !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1211.s.3	ik bloeden verstijven in doen adren !	Fear_BodyPart_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.div.sp.1215.s.1	besluiten dan ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1215.s.2	het zijn , te laten !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1215.s.3	ik zien Valkenburg wij naderen .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1221.s.1	mevrouw laten bord , valkenburg , laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1224.s.1	valkenburg , mede levendigheid .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1230.s.1	ik vriend !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1230.s.2	komen , scheppen moede , en wezen verheugd mede ik : wie zieden doen gans vlieden : doen Ruiter zijn nabij .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1230.s.3	hij , die wij harteleed voorzeker zullen genezen , Die held , alom beminnen , zullen binden het uur hier wees .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1230.s.5	vinden zijn die schrik , prenten op het aangezicht !	Fear_Emotion_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.1	ik vader , ach !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.2	u deugd hebben rijden genoeg verrichten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.3	gei hebben wij klaar doel zieden hoe sterk ons ongeluk , Die zonder voorbeeld zijn , uw op hebben hart druk .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.4	rijden hebben gei vinden u ' zode een weigring ondergaan ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.5	Wat bij doen Ruiter uw doen vriendschap doen bestaan , Om een ' gemaal die zien doen dood niet willen onttrekken , In het uiterst vinden de node , mede kracht te steunen te strekken , wij ogen voorzien daarin geenszins die zekerheid waarmee u goedheid wij zode gunstig hebben vleien .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.6	Dus , niet voorzien om gewis laten Bordes boeien te slaken ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1248.s.7	ik zullen , door eene enkel daad , doen wereld kenbaar manen , die liefde , eens aansporen tot wanhopen , in de node oneindig sterk zijn dan doen yzing voor doen dood .	Emotion_Love_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1244.s.1	Wanbopig .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1250.s.1	zijde vertrekken , mede doen uiterst drift .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1255.s.1	valkenburg , laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.1	laten bord , welk een schrik mogen zij de geest ontroeren ?	Fear_Emotion_BodyPart_BodilyProcess
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.2	Wat mogen zij opzetten zijn ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.3	wat trachten zijde uiten te voer ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.4	Wat sporen zij , daar ik helpen zij trouwen te dienst willen staan , die zij verheugen moeten , tot zulk een wanhopen aan ?	Emotion_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.5	het berichten de komst vinden het hoofd vinden nederland watermagten , doen Ruiter , vinden wie aard ik niets dan goed kunnen wacht , Op wie meedoogendheid zijde straks nog hebben hopen , zijn doen oorzaak die zijde nu wanhopig ik ontlopen !	Emotion_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.6	vinden zijn die omkeer tocht ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.7	Wat doen zij al vrees , Daar zij al hopen mogen ?	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.1270.s.8	kunnen ik zij smarten genezen , hebben worden op het ogenblik door ik in het werken stellen .	Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.1	geren smarten houden ooit ik ziel meer dan deze uur beknellen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.2	zode gei u helpen , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.3	ik gunstig wild doel blijk , volgen straks ik echtgenoot '; laten zijde uw niet ontwyken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.4	zij harden zijn teder en fier , en zulk een harden kunnen liggen , Door wanhopen overheerd , niet horen na de plicht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.5	In zijn hemel naam , vliegen heen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1280.s.6	ik hebben verder niets te smeken , Dan die gij ik vergunnen ik rijden af te breken .	None
+noms001mich01_01.TEI.2.text.body.div.div.head.1283.s.1	Zesde toneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1286.s.1	valkenburg , allee .	None
+noms001mich01_01.TEI.2.text.body.div.head.1299.s.1	Derde bedrijf .	None
+noms001mich01_01.TEI.2.text.body.div.stage.1301.s.1	hebben toneel zijn in doen groot zadel vinden hebben kasteel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1306.s.1	valkenburg , mevrouw laten bord , een soldaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.1	ik zeggen andermaal , ik kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.2	gei hebben geren lijden te vrees .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.3	ik moeten jegens u ' gemaal altijd erkentlyk wees : het zijn op zijn ' sterk drang die ik uw hier bewaren ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.4	Ik vrezen u wanhopen meer dan u ' gemaal gevaar .	Emotion_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.5	Daar hij ik weigeren blijven het geren gei ontwerpen te ontdekken , En het ik niet mogelijk zijn uw u geheim te onttrekken , Ja ik door lang drang daartoe geren poging doen , zijn het billijk die ik zorgen uw voor uzelf behoe .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.6	Doch zwijgen wie hiervan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.7	doen Ruiter zijn komen : ik hebben vinden zijn ' schouwen bij nacht , op het ogenblik , vernemen die nederland admiraal ik ' zode verzoek doen , die niemand , wij het ook zijde , hij aan zijn boord begroeten ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.8	deze zijn ander doen eerst plicht vinden opperhoofd en rad .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.9	zode nederig zijn doen held , beroemd door groot daad .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1325.s.10	geloven tocht die ik nooit mede wanen uw hebben vleien : doen grond vinden mijn hopen zijn zijn menslievendheid .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.1	Hoe zeker uw doen grond vinden uw hopen moog ' schijn , u hopen kunnen uiten ik harden ik ' angst niet doel verdwijnen .	Fear_Emotion_Hope_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.2	het Begrip eens enklen man beslissen laten Bordes loten : hebben brengen hij in ik ' arm , of het brengen hij op het schavot : ik hebben vinden het kloekst vernuft een wanbegrip te vrees .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.3	doen gul de admiraals moeten niet onzeker wees ; En evenwel wij staan , tot lichtnis vinden ik pijn , ik in die deze gul niet zullen onzeker zijn ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.4	doen Ruiter zijn een mens , dus vatbaar voor verblinding .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.5	Ik hebben vinden het menselijk harden slechts weinig ondervinding , Dus worden een ijdel schrik ik mogelijk inprenten ; mare ik gemaal , mijnheer , die het mensdom goed kennen , de aard de groot harden hebben weet naar te spoor , weten die zijde meer het belang dan het mededogen horen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1344.s.6	Een ogen door tij verlichten bedriegen zien zelden ; mare ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.1	Een ogen door ramp verblinden zien doorgaans velen gevaar .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.2	zijn u gemaal , ik kind , schaars vatbaar voor verblinding , Ik hebben vinden het menselijk harden een lang ondervinding , ik ogen zijn niet bedwelmen door walm vinden tegenspoed , ik zijn in mijn eerst jeugd bij groot opvoeden ; Besef dus wieden vinden wij gei meer geloven moeten geven , ik , of een ' driftig ' manna , door doodsangst aandrijven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.3	Ik kennen de admiraal ; ik kennen hij torn hij In uyvren Lampsins dienst nog voeren te koopvaardij ; En hebben tot op deze uur geren rijden om te vrees , die hij niet heden nog doen zelfde manna zij wees , Die hij in liggen staan , voordezen , zijn wezen , die zijn , meedoogend ' , groots , en nederig vinden geest .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.4	Ik zelf hebben vinden de Zaan , zijn ' schouwen bij nacht , spreken ; En deze hebben in ik harden nog meer doen hopen ontsteken waarmee ik mede vermaken , in uw omstandigheid , u droefheid , ik te troosten , gedurig hebben vleien .	Joy_Emotion_Hope_BodyPart_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.5	doen braaf vlootvoogd komen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.6	Ik wachten hij mede verlangen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.7	treden , daar ik plicht vereischt hij in deze zadel te ontvangen , In het ginds zijvertrek .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1374.s.8	Bedwing uw ; nader niet , Voor die gei , op ik ' lassen , het bestemmen teken zien .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1373.s.1	zijde vertrekken , en doen soldaat plaatsen zien , op de wenk vinden valkenburg , voor doen door vinden zij vertrekken .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1386.s.1	doen ruiter , valkenburg , doen jong valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1386.s.2	hoofd de vlieden , scheepskapiteinen , raadsheer , hoofdlieden ; en soldaat , aan de ingang .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1388.s.1	doen ruiter .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.1	ik steken een eerbewijs die ik geenszins verwachten , die ik altijd ontwijken , en altijd weinig achten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.2	doen staatkunde , eigenbaats en heerschzuchts boos spruiten , vinden al die ijdel praal voor haar dienaars uiten , Om hun rank bij het volk , die liggen zien laten verblind , te steunen de dwingelandij meer aanzien te doel vinden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.3	hij , die zijn broosheid kennen , zoeken ' , doen all ' het geren hij Voldoening in zijn harden : al het ovrige zijn een lassen .	Aquiescence_Emotion_BodyPart_Trust
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.4	laten wij , door krijgen dreigen , de dierbren tij besteden passen , Aan zijn land verdediging , en niet aan kleinigheid .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.5	doen zuchten voor het landen allee verdiend de eerenprys ; u ijver tot zijn land dienst strekk ' ik voor eerbewijs .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.6	ik doen doen vlieden voorzien : deze zijn doen eerst mijn zorg .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.7	gei voeren doen licht kiel : vertrekken vinden hier op morgen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.8	u tocht zijde Westlyk heen lang deze kussen richten , Doch houden , zode velen gei kunde , hebben landen in u zichten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.9	gei , steven zuidlyk aan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.10	En zode gei lang doen vloeien Een kiel of vlieden vernemen die har waarts schijnen te spoed , doen , door u zwaarst schudden , die straks wij volk verstaan ; wijken , schieten , achterwaarts , en hout dus op wij aan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.11	uw voegen hebben boven all ' hebben zeevolk in te tomen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.12	vergunnen geren groots getal gelijk aan landen te komen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.14	vinden weer trouwen ik al dienst verwachten , gei weten hoe oog ik harden doen tocht bij het zeevolk achten ; ik kunnen niet zonder zij een vlieden mede vlucht bestieren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1428.s.15	mare wachten uw , straffende , ooit die drift de tomen te vier Die , eens aan het woeden , de mens een ' mens doen zijn in schijn : bestieren u bende zacht ; denken die zijde mens zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1403.s.1	Tegen een ' de kapitein .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1408.s.1	Tegen een ' ander kapitein .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1411.s.1	Tegen heide .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1418.s.1	Tegen doen hoofd de vlieden , en verder kapitein .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1435.s.2	soldaat , aan de ingang .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1448.s.1	mijnheer , die deze dagge aan deze dreigen strand hebben zorgelijk oog bewind uw zien stellen in hand , Aan wieden ik op deze stranden ik vinden ik plicht kwijten , u vlijt zijde mede ik vlijt te dienst de land besteden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1448.s.2	ons eerst zorgen in het wede , die wie mede rijden vrees , zijn meest vinden hebben harden vinden het volk de land te wees .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1448.s.3	zijn het minnen beschaven dan wie , hebben hebben geren ' minderen ' moede , En het wagen voor wieden het beminnen , mede blijdschap zelf , zijn bloeden ; Vooral het Fantynsche volk .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1448.s.4	vertrouwd gei die die bende , te vallen vinden het Britsche volk , zien veldwaarts zullen wonen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1458.s.2	uw edelheid houden ' zien verzekeren vinden Een volk waarvan ik niets dan goed verwachten kunnen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1458.s.3	het wassen eest , door list de britsen , tot Englands dienst gewinnen , het hebben zelf rijden tegen wij doen vijandschap beginnen ; mare vinden zij dwaling , door de Brit heen instorten , Genezen door wij volk , wassen deze krijgen slechts korten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1458.s.4	zijde aanzien vinden zij trouwen wij blijk op blijk geven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1468.s.1	een krijgsman doen deze volk mede wij in vriendschap leven , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1468.s.2	hebben achten hij , zode om zijn ' stout aard , alles om zijn minzaamheid ; en hij zijn achten woerd ': zijn vuist bestreed zij macht , zijn tong bestreed zij dwaling ; En bij de roemen , verdienen door deze zegepraling , voegen hij nog doen eer die hij ik ontrukken hebben aan doen dood .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1482.s.1	wij zijn die oorlogsman ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1482.s.2	zien hier zijn echtgenoot ' !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1480.s.1	valkenburg wenken de soldaat , die terstond doen door ontsluiten , waaruit mevrouw laten bord schielijk te voorschyn treden , en zien aan doen voeren de admiraals werpen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1480.s.2	terwijl vervolgen doen gryzaart , tegen de admiraal .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1485.s.1	mevrouw laten bord , doen knie de admiraals ombelzende .	EmotionalAction_Despair
+noms001mich01_01.TEI.2.text.body.div.div.sp.1488.s.2	ik zijn het , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1488.s.3	zien hier doen droef gade een oorlogsmans hoogst woerd ' u edelheids genadig .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1492.s.1	doen ruiter , mede verwondering , zij opheffen .	Emotion_Wonder
+noms001mich01_01.TEI.2.text.body.div.div.sp.1495.s.1	Wat zijn deze !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1495.s.2	doen gade een man , die zode velen hebben bestaan , smeken ik genae voor hij !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1495.s.3	Wat hebben hij dan misdoen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1500.s.1	zijn misdrijf sproot uiten doen eer , mijn eer te wraken , te horen .	Honor_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.1500.s.2	Hierom zijn ik ' gemaal het afgryslykst loten beschoren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1504.s.1	Die talen verwekken ik smarten , en velen verwondering !	Emotion_Sadness_Wonder
+noms001mich01_01.TEI.2.text.body.div.div.sp.1512.s.1	het Geval haars echtgenoots zijn waarlijk zonderling .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1512.s.2	Indien het uw edelheid op het gunstig mogen bedragen deze wonderbaar geval zien voor te horen dragen , Ik stellen voorzeker die , bij het horen vinden doen schuld , gei het vonnissen vinden de raden niet weerspreken zullen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1517.s.1	Of het ik behagen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1517.s.2	Ik eisen het uiten uw mond te horen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1520.s.1	Tegen mevrouw laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1522.s.1	dragen zorgen zijn land opperhoofd niet in zijn reden te storen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1525.s.1	Tegen de janhen valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1527.s.1	spreken vrijen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.1	zij echtgenoot wassen hier gemeen soldaat , En krijgen , te lot zijn moed , vinden wij een ' hoog staan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.2	torn nog het Fantynsche volk , door Englands list bedriegen , besluiten mede nederland volk stoutmoedig te oorelogen , besluiten ik vader , ( door een vals gerucht misleiden , Alsof slechts weinig volk zien hebben door het bos verspreiden , ) vinden weinig volk verzeld , de vijand wegge te drijven , hebben bos te zuiver , niets daarin te laat blijven , En het all ' mede schrik te slaan voor nederland wapenkracht , Wanneer hij onverhoeds zien zien in node brengen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.3	hij worden , aan het hoofd zijn volk nauw ' boschwaarts indringen , Aan al kant fel door overmacht bespringen ; En het ongelykst gevecht die iemand immer zien voorspelden al het volk , alles hij , de laatst levensdag .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.4	zijn vuist , die wonderen doen , voelen zien doen kracht begevent hij wassen alree geren hopen in het strijd bijblijven , Dan zijn vergrijzen kruin , en zijn bende bloeden , Op het duurst te levren aan het Fantynsche moordgebroed ; Wanneer laten bord , ( dus zijn zij gemaal heten , ) zien hebben in de drom vinden het zwart gespuis smijten , de vijand zode velen werk verschaffen mede doen klink , die zien ik vader redden , en niet een wond ontvangen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.5	naar zulk een stout daad , die ieder held moeten rome , hebben hij ik ' vader gul tot hoofdman doel benoemen ; mare nauwelijks in die rank vestigen , hebben zijn hand Een ' ons burgerij dolzinnig aanranden , En mede doen klink , te dienst vinden Neerland hij geven , Door meer dan eene winden ' , verwoed brengen om het leven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.6	Waarom zijn land eedle raden , na eisen vinden nederland weten , de moorder daadlyk hebben in hechtenis zetten ; En , om hier in het vervolgen de tweestrijd minnen te vrees , Nadat hij worden verhoren , hij tot de strop verwijzen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.7	deze vonnissen , die op weten , op schuldbekendtenis , En welzijn vinden het gemeen volmaken grondvesten zijn , worden daadlyk uitvoeren ; en burger en soldaat , het wanen al hij ontzielen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.8	mare nauwelijks aflaten vinden het dwarshout , oprichten tot zijn verdiend straffen , vernemen ik die hij nog bewijs vinden leven geven ; En door behulp de kunst , verloster vinden wij leven dreigen in zijn lopen , worden hij doen kracht hergeven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.9	Dus worden doen manna , wie vallen zijn land hoog raden besluiten , Herboren op het schavot uiten zijn gewaand dood .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.10	ik behoeven uw edelheid nu verder niets te ontdekken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.11	zijn land eedle raden zien niets dan het vonnissen half voltrekken : die vonnissen eisen mede rechte de bloedvergieters bloeden ; het eisen die doen dood doen straffen onfeilbaar volgen moeten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1579.s.12	Daar nu doen moorder leven , eisen weten , belang en rijden , die hij te tweedemaal te ladder op zullen tred .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1586.s.1	zijn het waarheid ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1586.s.2	durven u manna zijn ' medemens verslaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1586.s.3	hebben hij door moordery zijn ' roemen te niet braden ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1586.s.4	En durven gei , vol vinden hopen , zijn voorspraak uw vermeten ?	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.1586.s.5	Ja hij , te tros de raad , genadig waardig heet ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1590.s.1	hij hebben alles manna vinden eer zijn ' vijand neergelegd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.1	betamen een ' manna vinden eer een goddeloos tweegevecht ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.2	zijn het niet doen goddelijk en menselijk weten Die tegen het tweegevecht mede nadruk zien verzet ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.3	wij tegen een vinden twee zichzelv ' baldadig kanten zijn een vermetel schelm , of hij hebben geren verstaan ; Wat staan doen maatschappij dan niet vinden hij te wacht , Die , door zijn drift beheersen , zij beide durven verachten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.4	Doch het zijn doen rijden zelf die het tweegevecht verbieden , Al hoonde het ook doen weten , de steunen de volk , niet : kunnen ooit op doen aarde ' wel iets meer onrechtvaardig wees , Dan die in een geschil , ( uiten welk een ' grond rijzen , ) doen macht laten worden aan hij die onrecht doen , te moording vinden de manna die schuldeloos onrecht lijden ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.5	En deze geschieden , zodra ik het rechte door het stalen verdedigen : wan wij verzekeren wij die hij die zijn beledigen , zullen overwinnaar zijn op het einde vinden het gevecht ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.6	gelijk en ongelijk verkrijgen dus een rechte .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.7	Ik denken niet die een mens op doen aard ooit zullen beweren , die hij , wie overmoed een ' ander durven onteeren , gelijk hebben in zijn zaak wanneer hij slechts verwinnen ; wan wij deze staan hout zijn inderdaad ontzind .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.8	zode die goddeloos strijd worden ongestraft laten , het zijn ' mede de welstand uiten de volk , in al staat : zijn tocht zij enig volk mede veiligheid bestaan , zode elk zichzelv ' te wraken doen hand aan het stalen mogen slaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.9	doen los jongeling , of deugniet , goed bedrijven In het voer vinden doen klink , zijn ' meest vinden elk leven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.10	doen minst geoefende in het bestieren vinden doen klink staan dan te prooije aan guit , of woest jongeling .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.11	hebben leven , het hoogst goed die wie op doen aard ontvangen , behoren niet vinden doen klink vinden dwazen af te hangen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.12	zijn , al wel beschouwen , hebben hatelijk tweegevecht geren schaamtlooze inbreuk op hebben goddelijk rechte ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.13	hebben leven zijn de mens door zijn hemel gul geven ; hij zijn hebben dus allee die rechte hebben op wij leven ; Dus zijn hebben tweegevecht , schonen het schelm en dwaas bekoren , Een inbreuk op die rechte , een wegge tot wreed moord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.14	het zijn ' billijk heen die zien op het rechte de klink vertrouwen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.15	Tot veiligheid de volk , doen hand af te houden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.16	doen rijden , geren wellen , besliss ' de mens zaak ; doen Godsdienst en doen weten verbieden al wraken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1638.s.17	zijn land overheid allee zijde in elk zaak meesteres : zij voegen allee hebben zwaarte , alles zijn hemel dienaresse .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.1	u talen , mijnheer , zijn sterk , zijde zijn vol edelheid .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.2	verbeelden uw niet die ik voor het rechte de tweestryds pleiten ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.3	doen burger kunnen volmaken zien na u ' willen dragen ; mare wij moeten inderdaad de krijgsman niet beklagen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.4	Indien hij door het geweer zichzelf rechte verschaffen , worden hij , alles moordenaar , door doen overheid straffen ; En zode hij wrakeloos zien honen laten , of kwellen , zijn hij zijn achten kwijt bij med - en rotgezellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.5	hij hebben dus , alles zijn eer verwoed worden aanranden , geren keuren dan strafschavot , of leven vol vinden schande ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1653.s.6	verschonen ik , ik gemaal wassen nevens ik beledigen , En hebben , alles oorlogsman , zichzelv ' en ik verdedigd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.1	hij wassen een oorlogsman te dienst vinden de staan , Geenszins te dienst vinden uw , of zijn ' ontzinden haten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.2	hij dragen zijn klink om het landen , op oog bevel , te wreken , Niet om zichzelv ' te wraken zijn ' vijand neder te steek , Niet om in zijn geval , te straf een vijand woeden , zode die te ontvlieden zijn ' , zichzelf rechte te doel .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.3	Ik zullen , wat zijden ik ook in het rechtsgeding moog ' kies , u beide ongelijk niet uiten hebben ogen verlies ; mare wraken en moord staan zode minnen de krijgsman vrijen , alles het armste medelid vinden deze burgerij .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.4	worden enig oorlogsman door woerd of daad beledigen , hij wenden ' zien tot hebben rechte ; hij zijde door het rechte verdedigd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.5	Niets maken hij machtig tot hebben oefenen zijn wraken ; Niets maken hij , het rechte te spijt , tot recht in zijn zaak .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.6	doen weten die moord verbieden raken al sterveling .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.7	Niets geven de krijgsman rechte na iemants hals te ding , Dan krijgen , waarin doen macht die over wij gebied verantwoorden voor al het bloeden dat's krygsmans stalen vergieten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.8	torn doen Opperhemelheer zijn weten wij hebben geven , hebben hij de krijgsman nooit deez ' regelen voorschrijven :  Wanneer u medemens uw honen door daar of woerd , Beproef op gei uzelv ' kunde wreken door een ' moord ; Of wagen u hoogst goed aan uw hooners woede ; hij was ' , naar het honen , nog zijn hand in uw bloed  .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.9	zijn weten wassen algemeen :  wij iemants bloeden vergieten , zijde door de mens hand geleverd aan doen dood  .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1684.s.10	geren weten bij enig volk hebben ooit die weten weerspreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1689.s.1	ik echtgenoot , helaas !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1689.s.2	hebben zien uiten node wreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1689.s.3	het zijn ' mede zijn eer braden , zode het geren hij ondergaan ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.1	het zijn een erbarmlyke eer die steunen op het rechte de klink !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.2	Wat zonderling begrip !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.4	moeten doen klink bewijzen die wie hoogst waardig zijn die wij doen mens prijzen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.5	worden iemand eerloos door een ' schelders schendend woerd ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.6	wij zijn meer achten woerd ' die hond blaffen horen , En heen niet waardig achten door slag of schoppen te straf , Of hij die tegenblaft , en dus heen meer doen blaffen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.7	Een mens geneigd tot slaan of schelden dienen vrezen , gelijk een dol hond , of ander razend beest : wij wederscheld of smijten maken zien tot zijn gelijk ; doen waar manna vinden eer zullen zwygend ' hij ontwyken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1705.s.8	zijn eer rusten op zijn deugd ; en deze hout eeuwig staan , Hoe vinnig ook door woerd of daad aanranden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1709.s.1	uw edelheid verschonen doen menselijk drift .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1724.s.1	doen mens hebben redenkracht om het goed vinden het kwaad te schiften .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1724.s.2	hij weten , doen rijden en doen Godsdienst leren hij deze , die hij , schonen hij een harden die zondigen zijn bezitten , oneindig velen kunnen doel om in die harden te smoren All ' wat zien tegen het geren die loffelijk zijn doen horen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1724.s.3	hebben niet hebben schepsel kracht tot zelfverbetering , Dan zijn ' hij nooit strafwaard ' , wat gruwel hij beging .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1724.s.4	doen Hemel hebben de mens , in al levensstaten , begunstigen mede doen kracht om het kwaad te kunne laat ; En wij een gul versmaden , die hij doen Hemel geven , verdiend , bij wij beklag , mede al rechte zijn straffen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1730.s.2	laten beklag , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1730.s.3	in uw boezem spreken ; En laten laten Bordes trouwen voor hij genadig smeken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1733.s.1	doen ruiter , zij opheffen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.1	ik beklagen hij inderdaad , gelijk ik elk beklagen Die woerd ' zijn die zijn ziel de lassen vinden het misdrijf dragen ' , En veel , om zijn trouwen , tot zijn behouden ik spoor ; mare het rechte hebben ook zijn stemmen , die ik niet minnen moeten horen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.2	Ik achten menslievendheid , ik achten en moede en trouwen , mare het achtbaar , het heilige rechte achten ik niet minnen , mevrouw !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.3	zode , zonder doen achtbaarheid vinden het heilige rechte te krenken , het ik doenlijk zijde genadig aan u ' gemaal te schenk , vertrouwen vrijen die deze harden , vol zuchten voor doen eer vinden het rechte , doen krijten vinden het mensenbloed geenszins genadig ontzeggen .	Emotion_BodyPart_Desire
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.4	All ' wat wij bij de lassen een staatsampts troosten moeten geven , zijn macht tot sparing vinden de medemenschen leven ; En alles een staatsambt meest ondraaglijk wees moeten , het zijn alles doen plicht wij dwingen tot storting vinden zij bloeden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.6	mogen ik in het gedrag uw echtgenoots niets vinden , die tot de wreedsten plicht wij billijk moeten verbinden !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.7	Hoe het hiermee wees mogen , ikzelf , ik willen terstond het geren hij bezwaren of dienen vernemen uiten zijn ' mond .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1756.s.8	het betamen ik niet u hopen op zijn behouden te voeden , Of u benepen harden door siddring te doel bloed : vertrouwen nochtans , schonen gij uw door hopen niet zien vleien , ik deernis mede u loten , en zuchten tot billijkheid .	Fear_HeavyHeartedness_Emotion_Hope_BodyPart_BodilyProcess_Desire
+noms001mich01_01.TEI.2.text.body.div.div.stage.1763.s.2	een soldaat , in hebben verscheiden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1766.s.1	mevrouw laten bord , tegen de opperbevelbebber .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1777.s.1	mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1777.s.2	zien ik , beschreid , voor uw te neerbuigen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1777.s.3	Thans vergen ik in de node niets vinden u mededogen Waardoor gei mede zijn land raden in twisten geraken kunde , Neen ! het smeken om een gul zijde ik allee vergunnen .	Emotion_Compassion
+noms001mich01_01.TEI.2.text.body.div.div.sp.1777.s.4	gei horen hoe doen admiraal , wie strengheid ik doen beven , alles recht , ik ' gemaal terstond gehoor zullen geven : het gaan vasten die hij vinden uw , alles kundig vinden het geval die ik ellendig maken , getuigenis vergen zullen ; laten ik , deze zijn ik bede , vinden uw geren strengheid vrees : verschonen laten Bordes drift , zode velen het zullen mogelijk wees .	Fear_Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.1	denken niet die ik uw horen mede een verharden gemoed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.2	laten Borders weldaad spreken : ik horen doen stemmen vinden het bloeden , Ik horen zijn groot trouwen bewezen aan ik ' vader , de dienst aan het landen betoond , en u verdrieten te gader ; mare vergen ' ik , hoe deze all ' op ik ook werken ' , mevrouw , geren daad die het hoofd de vlieden op het hoogst mishagen zij .	Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.3	hij achten doen waarheid oog .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.4	zijn strengheid doen uw vrees ; moeten zijde , in mijn rank , ik niet ontzaglijk wees ?	Fear_Emotion
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.5	ik zullen doel het geren ik betamen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1790.s.6	doen toestand vinden de staan eisen heden ander zorgen , en die ik uw verlaten ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1797.s.1	valkenrurg , mevrouw laten bord , een soldaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.1	Ziedaar doen maat vullen vinden het geren ik hebben te schromen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.2	Ziedaar de grond vinden hopen voor eeuwig ik benemen !	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.3	Thans zien ik klaar , hoe sterk benevelen door ik pijn , Wat burger in de node , en wat doen groot zijn .	Emotion_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.4	ik vader !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.5	kunnen u harden in deze staan nog hopen ?	Emotion_Hope_BodyPart
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.6	u zode ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1806.s.8	hoe koelen zijn hij mynoog ontlopen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.1	Ik kennen de admiraal , ik kennen ik ' zode ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.2	Hoe het zijde , zwijgen vinden ik ' zode , en hopen op het hoofd de vlieden en ik .	Emotion_Hope
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.3	doen ruiter talen wassen streng , deze lijden geren tegenspreken ; mare u ' gemaal geval zijn slechts hij half blijken : hebben worden hij inderdaad ongunstig voorstellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.4	Ik hebben hebben aanhoren , en doen myzelv ' wellen te breidling vinden een drift die ik niet zij betamen ; ik moeten geren hoofd de land voor het hoofd de vlieden beschamen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.5	Ik duchtte die u harden , vervoeren door bitter rouw , te nadeel vinden ik ' zode zien niet bedwingen zij .	Emotion_BodyPart_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.6	doen Ruiter , die zien liggen aan zulk een drift zij storen , zullen tijd genoeg vinden ik het geren hij moeten weet horen : ik stellen vasten die doen admiraal , in zulk een zwaard geval ik ' zode verhoorend ' , zien mede ik beraden zullen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.7	Alsdan zullen ik , doch ver ' vinden mijn zode te honen , de admiraal het geval in het waar liggen vertonen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.8	intussen , mogen elk mens , op het horen vinden u ' node , het afgrijselijk tweegevecht meer schuw dan doen dood !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.9	hij die daarin hebben stalen worden in doen barsten drijven , zijn minnen beklagenswaardig ' dan hij die blijven in het leven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.10	mogen elk , zodra hij voelen die hij zijn drift verheert , begrijpen , het zijde hij vallen of het zijde hij triomferen , die hij , ( hoe spoorloos eer zien moog ' hier tegen kant , ) doen rampbewerker worden vinden al zijn bloedverwanten !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.11	Wat uw betreffen , ik kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.12	ach !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.13	staan ik gunstig toen , die ik aan het sterk verzoek vinden u ' gemaal voldoen ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.14	kaar in deze zijvertrek !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.15	mede u verdrieten bewegen , trachten ik ik een ogenblik te onttrekken aan uw oog .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.16	deze zuchten ' harden , een wild door eenzaamheid ontlasten , beramen te goed het geren tot u behouden ik passen .	Emotion_BodyPart_BodilyProcess_Unhappiness_Other
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.17	Verzel mevrouw alom .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1843.s.18	ik laten ' zij niets ontbreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.1841.s.1	Tegen de soldaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.1849.s.2	een soldaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1857.s.1	ik trachten ik ' echtgenoot verwoed na het harden te steek , ik kerkeren ik op zijn bede , hij snijden de wegge ik af die ik hebben in te slaan tot zijn beul straffen , ik moeten siddren alles ik denken aan het hoofd de watermagten , vinden het opperhoofd de land staan ik geren ' troosten te wacht ; nog worden in zode velen wede ik ziel mede hopen vleien ...	Fear_Emotion_Hope_BodyPart_BodilyProcess_Sadness
+noms001mich01_01.TEI.2.text.body.div.div.sp.1857.s.2	Wat foltring zijn zode wreed alles deze onzekerheid !	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1859.s.1	Einde vinden hebben derde bedrijf .	None
+noms001mich01_01.TEI.2.text.body.div.head.1863.s.1	vieren bedrijf .	None
+noms001mich01_01.TEI.2.text.body.div.stage.1865.s.1	hebben toneel verbeelden hebben zelfde vertrekken waarin hebben eerst bedrijf zijn afspelen .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1870.s.1	doen ruiter , aan een tafel zitten , mede hebben vonnissen de gevangene en schrystuig voor zien .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1870.s.2	een hoofdman , en soldaat , aan de ingang , tegen wij doen admiraal zien wenden , en , heen wenkende te vertrek , zeggen :	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1870.s.1	liggen u ' gevangene hier .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1873.s.1	doen door vinden hebben vertrekken worden sluiten ; waarna doen Admiraal , op een treurig wijze , hebben vonnissen inzien , naar een weinig peinzens , vervolgen :	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.1	zijn dienst zij dan niets baat !...	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.2	Ziedaar dan het smakelijk zoet vinden oog verheffen staat , na weer bezitten hebben harden zode onophoudlyk haken !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.3	Hoe spoorloos zijn doen mens mede oog gezag vermaken !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.4	doen mens zijn , inderdaad !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.5	hoe ook alles wijze gepvezen , velen minnen een redelijk , dan redenerend wees .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.6	Steeds haken hij na geluk , en zoeken hebben in een goed die zijn ' bezitter kwellen , daar het duizend zorg voeden .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.7	te minst zijn het wichtig ambt waartoe ik zijn verheffen , Die rank die , ongezocht , door het loten ik zijn geven , In het ogen vinden hij die niet door schyngoed worden verrukken , Een wezenlijk lassen , die het harden gevoelig drukken .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.8	ik hebben waarlijk meer geluk torn ik , vinden elk vergeten , bij ik gelieven slachten rusten ik brood mogen eten , Ja torn , ( hoe dikwyls wassen het die ik die tij herriep ! ) Ik , in de laagsten staan , in Lampsins lijnbaan lopen , Dan nu ik het wichtig ambt vinden vlootvoogd zijn beschoren .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.9	behagen hebben zijn hemel guust ik ' hoogst wensen te horen , Dan zullen geren zode vinden ik ooit , tot zijn droefenis , Bevinden wat ik pos , of enig staatsambt zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.10	het zijn niet genoeg zijn ' rank mede lustre te onderschragen , Voor het welzijn vinden de staan angstvallig zorgen te dragen , de roemen vinden het vaderland manmoedig voor te staan , Een ' vijand macht en list mede kunst te kaar te gaan , zien wreed nopen te zieden tot bloedvergietend strijd , Te peinzen om de slag te zoeken , of te mijden , Te leven in doen vrezen , alles het loten wij eens bedriegen , die ons roemen eensslags mede wij geluk vervliegen , die slechts een enkel stappen , hoe yvrig wie ook wak , wij niet allee verachten , mare zullen ellendig manen , En die , schonen het lossen geluk wij al bestendig vleien , wij lot zullen afgunst zijn , of koelen ondankbaatheid , Ja die ik , inderdaad , wanneer wij een ambt begeven Aan heen die het loten verplichten in ons dienst te leven , ( Hoe doen amptbegevingsmagt wij dwalend harden bevall ' , ) teen hater , en een ' ondankbren manen zullen ; deze zijn al niet genoeg ; deze zijn al niets te noemen bij die geducht plicht om tot doen dood te doemen ...	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.11	Te doemen tot doen dood !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.12	die woerd , die woerd allee , ontroeren ik ingewand !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.13	hebben scheuren ik harden vaneen !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.15	hoe u willen en schikking dienen geprezen , Waarom doen ruiter harden tot zulk een ' plicht verwijzen !	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.16	zijn het hij geren smarten genoeg die hij in mensenbloed doen veiligheid zijn land bestendig vasten moeten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.17	die hij bij het na gekerm verwekken bij bloeden te plengen , Ja in doen elend ' de krygs , zijn ' leeftijd door moeten brengen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.18	moeten hij nog buit krijgen , te dienst vinden zijn landen , hebben leven vinden de mens stellen zieden in zijn hand ?	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.19	zijn deze u willen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.21	u gul verlichten ik doen oog .	None
+noms001mich01_01.TEI.2.text.body.div.div.lg.1873.s.22	bestieren ik zuchten voor het rechte , bestieren ik mededogen ; verlichten de lassen ik ampst , tot mindering ik verdriet ; wan zonder uw helpen zijn zijn mens wijsheid niets .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.1935.s.1	doen ruiter , laten bord , een hoofdman , en soldaat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.1	ellendig !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.2	treden toen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.3	gei doen dan op u wees de toestand vinden een harden bevrijden vinden wroeging lezen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.4	horen gei doen stemmen vinden het bloeden die uw vuist vergieten , Niet tevens mede doen smarten de schuldlooste echtgenoot ' ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.5	Voegtu , daar moord u ziel mede droefheid moeten bezwaar , doen wroegingloosheid aan gevoelloosheid te paar ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1946.s.6	zijn het mogelijk die een manna die zode velen hebben bestaan , eest moordde , en daarna niet door smarten zijn aandoen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.1	Nooit stoorde zien ik harden aan argwaan of betichting .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.2	ik gaf-uwe edelheid voorzeker onderrichting , Ik zien het niet dan te klaar , vinden het geren ik ik onderwond ; mare hebben ik uw gemeld waaruit doen twisten ontstond ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.3	zode het uw behagen , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.4	alles recht , ik te horen , Dan smeken ik uw mede ernst om al naar te spoor .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.5	Hoewel ik in gevecht , dringen door de node , hebben bloeden een wrevel man door ik geweer vergieten , doen Hemel , die allee in wij gemoed kunnen lezen , weten of ik wroeging lijden , zelf eer ik worden verwijzen ; hij weten wat wede ik lijden om het leiden vinden ik gae , En of ik nog ik harden vinden wroeging ontslaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1968.s.6	wij iemand dood kunnen mede koelen wroegingloosheid , bezitten een eerloos harden , in staan tot al boosheid : het zullen blijk , alles u ogen in al zijn verlichten , Of ik een harden bezitten die spotten mede eer en plicht , Of ik vinden menschlykheid op het schandlykst zijn verbasteren , Of ik alles moordenaar verdienen te zijn lasteren , En of ik andermaal doen straffen de strop verdienen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1976.s.1	ik hebben evenwel bedaard u vonnissen inzien : Gyzelf bekennen in twisten , om uw vrouw ontsproten , u ' vijand door u stalen te aanzien neergestoten ; En zulk een woest daad verdiend doen dood gewis .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.1	zij zijn strafbaar , ja , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.2	zode eerwraak strafbaar zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.3	ik hebben niet in koel bloed een ' mens hebben liggen benemen ; Ik hebben door toren ' vervoeren ik ' vijand bloeden doel stroom .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.4	ik gade hebben weleer ik ' vijand ogen bekoren ; hij slaan zij het huwelijk voor , doch ik , ik hebben zij woerd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.5	hij laten niet naar alom zijn ' afkeer ik te toon , En hij verzuimen niet om zij en ik te hootren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.6	In het einde zijn hij ik gade en ik in het veld ontmoeten : Slechts door wij aan te zieden ontsteken doen toren ' zijn bloeden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.7	Elk weten hij wassen geneigd om schelden uiten te spat , deze duld doen ik ; mare ik gade op het schandlykst te zieden vat , En ik , die zij verweren en voorstond , volgens plicht , Bedaard te laat slaan in het eerlijk aangezicht , ik mede de degen te zieden dreigen , en te zwijgen , Die goedheid kennen ik niet vinden het grimmig harden verkrijgen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.8	zijn het leven meerder woerd ' dan het hoogst goed ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.1995.s.9	ons eer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.1	u wraken staan aan het rechten , geenszins aan u geweer .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.2	doen weten door zijn hemel hand doen mens voorschrijven , hechten minderen waard aan doen eer , dan aan de mens leven : zijde zorgen voor het leven eest , daarna voor zijn mens goed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.3	En daarna die ons eer voor laster zijde behoeden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.4	wie zieden doen rechter meest op doen aarde ' die voetspoor houwen : ver ' die zijde mede doen dood geredelijk straf zullen , Benemen zijde doorgaans , en houwen het voor een ' plicht , zode het zijn kunnen , zijn booswichts eer , en spaarzaam het levenslicht ; zijde laat hij de tij vinden denken en bekeren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.5	En , inderdaad , doen manna die eens zien durven onteeren , kunnen , zode ik hij de tij tot goed denken laten , zijn eer herstellen , door een luisterrijk daad , ik hebben deze meer zien : mare het onwaardeerbaar leven , Eenmaal benemen , zijn de mens nooit weer te geven ; Wat zijn nu groot goed , ( die ieder deze besliss ' ! ) die weer verkryglyk , of nooit weer verkryglyk zijn ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.6	ik kunnen mede goed groud , althans na ik gedachte , In twee geval slechts doen eer meer dan het leven acht : hebben eerst zijn , alles wij doen eer , te dienst vinden het vaderland , mishandelen , en dreigen , doen wapen stellen te hand ; Dan dringen wij al aan om het vaderland te wreken , En dan moeten doen eer in wij meer dan doen leefzucht spreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.7	hebben tweede zijn , alles ik wij het behouden vinden het leven bieden Voor het doel een gruwelstuks : ik achten ' dan het leven niet ; Dan lopen ooze eer gevaar , dan moeten ik zij bewaren , En lief groots vergaan , dan schandlyk het leven sparen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.8	mare , wat ik zeggen mogen , ons eer lijden nimmer lassen Door scheldwoord of door slag vinden enig ' woest gast : In tegendeel , door zien aan zijn geblaf te storen , verlagen ik zien tot hij , en dan gaan doen eer verliezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.9	ons eer rusten op doen deugd ; zijde hangen ' niet vinden het geblaf een los jongelings , of liggen deugniets af .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.10	Doch deze te zijde ' stellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2036.s.11	hebben zijde een toen te geven die een mishandling uw tot toren ' hebben aandrijven mede rijden ; moeten hebben zijn die gei , zode wreed alles woest , hij die uw hebben gezond juist dodelijk grief moeten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2043.s.1	Wanneer doen klink in toorn eens zijn doen schede onttogen , zijn niet altijd het bestieren de klink in wij vermogen : somtijds worden zijn vijand arm door wij geweer belagen , Daar ons vuist doen punten in zijn vijand boezem jagen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2052.s.1	Daar het zode onzeker zijn hoe het einde een stryds zullen wees , dienen elk het ontbloten vinden doen klink te meer te vrees : Die weten mede wat gevaar zijn vuist op iemand stoten , zijn de te meer strafwaard ' alles hij doen klink ontbloten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2052.s.2	hebben schijnen gei wild uzelv ' in deze verhoor bezwaar .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.1	Ik willen doen waarheid uw , wat doen uitslag zijde , verklaren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.2	zode het mogelijk zijn ' wezen , vertrouwen vrijen die deze hand ik ' degen nooit in het harden ik hooners hebben planten : doen Hemel kunnen allee in het harden de mens lezen , Dus kunnen hij vinden ik ' willen allee getuige wees .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.3	ik fierheid , die gei denken die wroegingloosheid zijn , tonen in hebben hoogst de noods ik hartgesteltenis .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.4	Doorloop ik leven , laten geren vonnissen uw verblind : gei zullen ik driftig , fier , mare altijd eerlijk vinden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.5	Die fierheid , die ik thans hebben offeren maken de weten , hebben , mede ik lyfsgevaar , ik opperhoofd redden : Een laf en koelen geest zullen schaars zien onderwinden Gevaar te zoeken tot behouden vinden landen of vriend .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.6	doen drift die ik bezielen doen ik nog meer bestaan , Dan het opperhoofd de land vinden zijn verderf te ontslaan ; Ik doen daardoor , te dienst vinden Neerland aandrijven , het Fantynsche negervolk mede wij in vriendschap leven ; En nooit doen ik ik drift , doorzoek ik leven vrijen , Eene enkel daad bestaan die zwemen na schelmerij .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.7	zien ik zelf in deze uur , dreigen door doodsgevaar , Te groots om waarheen die ik schaadlyk zijn te sparen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2082.s.8	Ik zullen zij hullen doel : gei , oordelen of een manna zien doemend ' zij te liefde een booswicht wees kunnen ; En of een mens , verliefd op doen eer vinden eedle daad , mede opzetten , mede vermaken , zijn vuist in bloeden kunnen bad ; Ja of doen manna die nooit zijn glorie hebben verkorten , zode op een ' springen een schelm , een snood moorder worden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2093.s.1	Ik moeten u fier talen , u zuchten tot waarheid rome .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2093.s.2	Nochtans dwingen eene stappen ik u gedrag te doemen ; Een stappen die , inderdaad , hoogst onbestaanbaar zijn mede zulk een eedle talen , en hartgesteltenis : hebben niet doen manna wie bloeden gei door u stalen doen stroom , Nadat hij vallen in het sant vinden uw een winden ' bekomen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2093.s.3	deze vonnissen zeggen hebben ik !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2093.s.4	tonen deze een ' edel aard ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.1	ik hebben aan het rechten , alles uw , doen waarheid vrijen verklaren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.2	Die daad maken in elk ogen ik vonnissen hoogst rechtvaardig .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.3	hebben leven zijn ik geren ' gehaat logen waardig : Dus zijde hebben ver ' vinden ik die ik die daad ontkenn ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.4	En schonen ik vinden deze feit volstrekt onkundig zijn , Niet werende , in doen drift die ik hebben bloeden beroerd , Hoe ver ' doen woede ik , in het woest gevecht , vervoeren , ( wan wij zijn zien bewust wanneer doen gramschap woeden ? ) getuige staf deze , die ik geloven moeten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.5	het zijde ver ' die ik de raden om het vonnissen streng zij noemen ; Die daad , alles daad beschouwen , zijn billijk woerd ' te doemen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.6	Te zeggen die deze feit in gramschap zijn geschieden , En die die wij verblinden , verschonen een misdrijf niet : zode zulk een uitvlucht kennen bij het rechte verschoning heet , Elk zeggen liggen :  doen ik kwaad , ik hebben hebben niet weten  .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.7	doen recht hebben zijn weten , en oordelen na hebben feit : Doch daar ik noodlot thans staan aan uw edelheid , Die hier de streng eisen de weten kunnen verzachten , durven ik voor zode velen drift een gunstig-oordeel wacht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.8	verblinden door fel toorn in wraken te ver ' te gaan , tonen niet altyd hebben harden een vuigen booswichts aan : doen mens gaan ver in drift , ( en deze zijn liggen te ontvonken , ) Naarmate vinden het gestel hij door hebben loten schenken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.10	zijn leven een mens op doen aarde ' Die voor te ver ' te gaan in toren ' steeds zijn bewaren ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.11	doen mens hebben rijden , ja !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.12	ik kunnen deze niet verzaken ; mare hebben hij kracht om steeds daarvan gebruiken te manen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.13	het kunnen zijn die nederland volk hiertoe meer kracht bezitten Dan het mijn , het frans volk , welk bloeden liggen worden verhitten : Ik twijfel echter sterk of enig Nederlander , ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.14	Ja of gyzelf !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.15	doen roemen vinden nederland waterstander , Die zien volmaken bezitten , zelf in de heetsten strijd , ( Doch tevens echtgenoot en moedig krijgsman zijn . ) u gade voor u ogen onkuis zullen aan zieden vat , zij ' hooner naar de honen zullen schelden uiten zieden spat , En alles gei zij beschermen , en voorstond , volgens plicht , Uzelv ' zullen laat slaan in het eerlijk aangezicht , En vinden een ' manna die tonen in drift niets heilige te acht , Daar rijden zijn klink uw dreigen , u noodlot af zullen wacht ; Ik zeggen , ik twijfel sterk of enig mens op doen aarde ' In die omstandigheid voor toren ' zij zijn bewaren , En niet liggen op ik spoor , wat weten het ook verbieden , Meer doel kennen dan hij weten , hebben bloeden eens zijn aan het zieden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.16	kunnen ik deze al niet verlicht bij een ' manna Die het streng vinden doen weten mede zachtheid tempren kunnen , Besef dan of ik dienst bewezen aan deze land , het ontzetten vinden Valkenburg uiten zijn moordren hand , En het uitstaan vinden doen straffen , ( te minst vinden zij ' schrik , ) Niet opwegen tegen een te driftig ogenblik !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.17	zode ik uw edelheid zien smeken om genadig , Ik smeken die minnen om ik , dan om ik trouwen gade ; zode voor doen ruiter ogen laten Bordes fierheid zwichten , ik zijn die vernedering ik dierbre gae verplichten : zijde wild om ik behouden zichzelf strafschuldig manen ; zijde vormen een stout ontwerp om mijn boeien te slaken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.18	het zijn ' mogelijk zij gelukken vinden keten ik te ontslaan , hebben ik zij bede verhoren , die ik niet toen kennen staan , Omdat doen goed trouwen , waaraan ik ik achten verbond , Door het volgen vinden zij ' willen te zichtbaar worden schenden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.19	zijde wild nog deez ' dagge , torn zijde ik allee mogen zieden , die ik in zij gewaad de kerker zullen ontvlien ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.20	zode groots een trouwen , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.21	schijnen uw doen ziel te ontroeren ; Besef hoe ver ' zij ik tot droefheid moeten vervoeren !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.22	zijn ik genadig onwaard ' , ... doen bitter tegenspoed vinden ik getrouw gade ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2166.s.23	ontwringen ik een ' tranenvloed !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2164.s.1	mede levendigheid , doen voeren de admiraals ombelzende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2170.s.1	doen ruiter , ontroerd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2174.s.1	rijs op .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2174.s.2	 Ik kunnen hebben zieden die traan niet verdragen ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2174.s.3	zode velen grootmoedigheid te prooije aan zode velen plaag !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2174.s.4	 ik zullen doel het geren ik betamen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2174.s.5	laten ik een wild allee .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2177.s.1	Tegen de hoofdman , terwijl doen soldaat mede	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2180.s.1	laten bord vertrek .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2182.s.1	Ontbie de raden , en doen u ' meest har waarts treden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2188.s.1	doen ruiter , allee .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.1	Nooit voelen ik meer dan nu ik ziel door smarten bestrijden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.2	Een manna vinden zulk een ' moede , zode vatbaar voor doen rijden , zode openhartig , teder , grootmoedig in zijn pijn , kunnen , wat hij ook bestaan , in het harden geren booswicht zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.4	wat zijn doen mens !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.5	Hoe velen hebben hij te vrees !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.6	Wat zijn hij , wel beschouwen , een deerniswaardig wees !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.7	hij zijn , wat hovaardij zijn ' trots geest verblinden , Een speeltuig de fortuin , een kaarslicht in de winden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.8	Een wees , op elk tred vinden zode velen ramp omgeven , zijn dwaas , wanneer het ooit worden door hoogmoed aandrijven ; En , liggen te voorwerp zijn aan ieder deerenis , zijn het uiterst Goddeloos wanneer het onmenschlyk zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.9	hebben zijn zode zwak die , hoe geneigd tot deugdbedryven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.10	hebben nooit verzekeren zijn op het spoor de deugd te blijven : doen mens zijde wijd beroemd door het edelst heldenstuk , een zinloos ogenblik storten hij in het ongeluk .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.11	het zijn zijn , hij hebben doen kracht om enveldaen te laken ; mare zijn hij steeds in staan daarvan gebruiken te manen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.12	o Neen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.13	all ' wat hij kunnen tot wering vinden gevaar , zijn bidden die doen zorgen de hemel hij bewaren ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.14	laten Bordes ziel zijn groots , ik bart achten hij mede rijden ; een driftig ogenblik doen hij het schavot betreden !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.15	Aan welk een ' slag vinden het loten , aan hoe velen harden elend ' zijn hij niet bloot stellen die het schonen de deugd niet kennen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.16	o mens !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.17	die zode velen hebben elk ogenblik te vrees , u eerst , u groot plicht !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.18	zijde menschenvrind te wees : wieden passen doen ontferming meer mede zijn medesterflings druk , Dan hij wie heil zode liggen verkeerd in ongeluk ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.20	die ik hier tot recht hebben verkiezen , gei doen doen ruiter ziel doen stemmen de deernis horen , En tevens eisen hebben rechte , die niet minnen heilige zijn , die ik zij stemmen horen , alles die de deerenis : doen weten roepen neen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.21	wanneer doen deernis spreken vinden sparen ; Voor wij zullen zien ik stemmen in zulk een ' strijd verklaren ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.22	laten bord wonden in drift zijn ' vijand op de grond : deze zijn een wanbedrijf , schonen hij het in drift bestaan ; doen letter vinden doen weten eisen inderdaad zijn leven ; zullen ik meedoogendheid een schaadlyk voorbeeld geven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.24	ik , die vermaken in rechte en weldoen scheppen , Ik , die hier macht en rechte tot straffen en sparing hebben ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.25	weten ik bestrijden geest geren middel op te spoor , Om rechte en deerenis , na beide wensen , te horen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.26	hebben niet laten Bordes vuist zijn opperhoofd bevrijden ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.27	winnen hij het Fantynsche volk niet naar die stout strijd ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.28	hebben elk , die eens door drift zien spoorloos hebben vergeten , zien altijd zode velen goed , tot heil de land , vermeten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.29	zijn het wel te denken die elk mens , doemen te vallen , Hier ooit die rechte tot eisen vinden sparing aanzien zullen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.30	tonen niet doen Hemelzelf door het sparen de gevangene , die hij hij vinden ik hand genae willen doel erlangen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.31	En zijn doen schrik de dood , die hij hebben uitstaan , geren straffen genoeg voor het geren zijn gramschap hebben misdoen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.32	kunnen ik op zode velen grond geren ' schuldig vergeven , wie harden mede rijden worden tot gramschap aandrijven ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.33	zullen die vergiffenis , hebben deze de minst schijn !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.34	Hier in het vervolgen de lopen de weten schaadlyk zijn ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.35	o Neen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.36	laten bord leev ' , hij leven in ik bescherming .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.37	hij leev ' !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.38	hebben zijn braden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.39	Beminnelyke ontferming , o Goed ik meerder woerd ' dan al heerschappij , Sieraad vinden het heldenhart , gei zegepralen op ik !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.40	Ik juichen om u ' triomf !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.41	Hoe strelen gei mijn zin !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.42	Hoe zullen het Fantynsche volk ik om die goedheid min !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.43	mare , bovenal , hoe zullen laten Bordes echtgenoot ' hij danken die zij ' held bevrijden hebben vinden doen dood !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.44	Ik veel die ons ziel geren eedler vreugde kunnen smaak , Dan door , zode velen ik kunnen , gelukkig te manen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.45	doen vreugdetraan die hebben weldoen storten doen , zijn parel aan doen kroon vinden het waarlijk groots gemoed .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.46	doen landvoogd naderen ik .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.47	Ik moeten zijn harden doorgronden : Ik hebben in talen en daad hij koelen en streng bevinden ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2263.s.49	zode ik voor doen dengd die jongling winden mogen , Ik houden ik ruimen belonen voor deze watertogt .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2268.s.1	doen ruiter , doen jong valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.2	ik hebben mede ernst deze rechtsgeding doorlezen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.3	doen raden hebben na doen weten hebben vonnissen uitwijzen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.4	laten Bordes honen zijn groots ; mare die verschonen hij niet : Een doodslag zijn strafwaard ' , waarom die ook geschieden ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.5	het dunken ik dus geenszins vreemd die gei , door zuchten drijven Voor het heilige rechte , u stemmen hebben tot zijn dood geven ; laten bord zijn voor de dienst aan deze gewest betoond , En het geren hij verder doen , door het hopmanschap belonen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.6	het voegen uw , alles recht , niet de schuldig te sparen ; mare het geren , vergeven hebben ik , verwondering moeten baar zijn die ik horen moeten die gei , hoewel bewust vinden mijn nadering aan deze dreigen kussen , En wetend ' welk een macht ik hebben in rechtsgeding , nog streng op het straf uw gevangene aan blijven dringen : alles recht wassen het u plicht te dringen op doen straffen ; Doch daar , door mijn komst , uw het loten een middel geven Om mogelyk doen boeien de schuldig te slaken , voegen uw , alles zode , voor het minst daar vinden gebruiken te manen ; wan spreken laten Bordes schuld , en baren uw deze verdrieten , doen erkentuis in u harden betaamde het zwijgen niet .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.7	Wat ook laten bord zijde , hoe billijk hij ook lyde , hij wassen hebben evenwel die Valkenburg bevrydde ; hij zijn en blijven altijd u ' vader redder , en doen geren die ik doen helpen de neger schuldig ben. doen schorsing vinden doen straffen tot ik waar aankomen , kennen in geren ' kwaad zijn ooit worp opnemen : wie zijn laten bord velen , oneindig velen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.8	verplichten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.9	gei slaan uw oog neder !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.10	zien ik in het aangezicht ; spreken vrijen ; ik zijn een mens , alles ander ; ik willen deze weet ; ik rank , ik roemen , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.11	doen ik deze niet vergeten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2303.s.12	Wat zoeken gei door zode streng te dringen op doen straffen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2307.s.1	doen glans de raad , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2307.s.2	hand vinden deze vonnissen af .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.1	zode die gei om de raden slechts aan u zijde ' te krijgen , doen stemmen de menschlykheid en dankbaarheid doen zwijgen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.2	zode ik zode even uw alles recht hebben roemen , Duld die gij alles zode door ik ondankbaar worden genoemd .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.3	waar uw , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.4	ik komst volstrekt bedekken blijven , Ik hebben alles recht uw verdiend lof geven : u strengheid hebben alsdan deze woest volk doel zieden , die gei hebben misdrijf nooit doen straffen zullen doel ontvlien ; ik harden hebben uw beklagen , die gei een ' manna moeten dood Die zode heldhaftig hebben u ' vader helpen gebod .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.5	Thans tonen u handelwyz ' , hebben smarten ik !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2322.s.6	een inborst aan Die , alles u voordeel het eisen , geren doodstraf duur zullen staan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.1	zijde staan ik duur , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.2	zijde treeft ik boven maat ; mare kennen ik het rechtsgeding aan u beslissing laat , Behoudens doen eer de raad ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.3	En zijn hebben in zijn land node ik zaak die ik de raden ontzind voor het voorhoofd stoten ' ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.4	wie zijn verbazend ver ' vinden Nederland scheiden , ik kunnen niet ieder ' dagge hier krygsvolk heen lijden , En zachtheid , inderdaad , zijn hier hebben middel niet te zeker vestiging vinden Nederlands gebied : Aan het aanzien vinden de raden zijn al dus liggen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.5	Indien uw edelheid gelieven te overwegen , die , zode gij een vonnissen scheuren tekenen door de raden , wij oog gezag daardoor vermindring ondergaan , En die deze invloed hebben op al ons ander zaak , ik stellen vasten die gei nooit zullen hebben vonnissen krachteloos manen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.6	Neen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2341.s.7	nooit zullen gij om een ' manna zode laai vinden stam alles hij ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2344.s.1	doen ruiter , mede snelbeid bem bij doen hand nemen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.1	denken gei wel , Valkenburg !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.2	die gei spreken tegen ik ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.3	Die liggen , ( horen deze vinden ik , zode gei het niet hebben vernemen , ) zijn uiten velen laag bloeden dan het zijn zijn voortkomen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.4	Ik wassen gemeen matroos , hij wassen gemeen soldaat ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.5	doen deugd , doen heldenmoed , geren afkomst redden een ' staan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.6	doen manna die mede uw spreken kunnen daar bewijs vinden geven : ik hebben vinden een stuiver dag , alles baangast , moet leven , En het loten vinden koning , ( wat spijt voor het aadlyk rotten ! ) zijn nu in mijn hand , zode zeldzaam werken hebben loten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.7	doen Hemel kiezen , te spijt de aadlyke onverlaat , zijn werkuig na zijn ' willen , uiten al mens staat .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.8	doen worm , en doen adelaar , doen bodem en klein planten , beschouwen hij mede een ogen , alles het werken stuc vinden zijn hand .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.9	doen zandkorrel zijn zijn werken , gelijk doen bal de aard .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.10	In het korten , doen deugd allee bepaald de mens waard .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.11	doen dwaas zijde mede geboorte en edel bloeden vleien .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.12	Geboorte zijn inderdaad slechts een toevalligheid : zijde kunnen niet tot verdienste wij worp toerekenen , Zolang wij leven niet door weldoen zijn tekenen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.13	geren sterfling hebben zijn ' stam , zijn afkomst in zijn macht ; doen Hemel schikken wij loten , die geven wij wij slachten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.14	doen manna die op zijn lezen of schoonheid zijn hovaardig , zijn het voorwerp vinden elk spotten , en zijn bespotting waardig , Die op geboorte pogcht verdiend die minderen spotten , Daar doen adeldom , alles het schonen , een gul zijn vinden hebben loten ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.15	laten bord ontvangen mede wij vinden eene hand hebben leven : hebben hij hebben frans bloeden te ver ' vinden het spoor drijven , hij zijn daarom niet minnen ik teder ontferming woerd ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.16	zode hij te sparen zijn , dienen hij , alles mens , sparen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.17	Ik zullen de raden voldoen , ik zullen uw vergenoegd , En tevens zullen ik ik na ik beginsel vroeg .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.18	gei , wild gei in u ' rank voortaan aanbidlyk zijn , verlaten u woest begrip , vergaap uw aan geren ' schijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.19	wezen mens : deze smeken ik uw .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.20	Ik willen uw niet vernederen , mare vergen uw slechts een zaak : komen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2381.s.21	leren vinden ik regeren .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2386.s.1	doen ruiter , doen jong valkenburg , valkenburg .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.1	Indien , gelijk weleer , doen stemmen de droefenis , ( doen groot walgelijk ! ) uw noch behaaglijk zijn , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.2	duld die een manna die het groot delen zijn leven mede roemen slijten in zijn land dienst , in krijgen en rechtbank tevens , wie streng zuchten voor het rechte ontelbaar maal blijken ' , uw , schreijende , om het behouden vinden u ' gevangensineek ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.3	het zijn zijn , ik hebben hij weleer te straffen doel overgegeven , mare ik voldoen allee de plicht ik voorschrijven : ik wassen recht ; door ik ' eed binden aan doen weten , dringen door de node , en tevens aanzetten Door zijn tijd omstandigheid , die geren genae gehengde , dewijl hier dikwyls het volk zijn bloeden in tweestrijd plengen , En durvende in zijn land node een ' raden , geneigd te straffen , Niet weerspreken in hebben vonnissen die hij geven , moeten ik een ' oorlogsman , beschermer vinden ik leven , In weerwil vinden ik harden , te doodstraffe overgegeven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.4	u edelheid begrijpen die zode ik aan deze stranden u ' tocht vernemen hebben na deze dreigen landen , Ik zeker vinden ik ' pos niet eer ik hebben ontslaan , Voor die ik nederland vlieden en uw hebben op zieden dag , En die ik dus doen straffen , op deez ' of gunnen schijn , schorsen hebben tot u komst , wat ook het gevolg mogen zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.5	Thans , door hebben loten verrassen , versteken vinden vermogen , zijn al ik troosten u deugd !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.6	doen ruiter mededogen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.7	bestaan laten bord velen , hij zien zijn echtgenoot , Mishandlen , en daarby zijn eigen honen wassen groots .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.8	Ik twijfel of niet elk , zode fel tot toren ' drijven alles hij , doen grimmigheid en wraken gehoor zij geven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.9	hebben frans volk zijn fier , zijn bloeden worden liggen verhitten ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.10	denken die doen mens vertoornen bezwaarlijk zien bezitten !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.11	voegen hier opmerksaam bij die niemand wij vertonen , die deze gevangene ooit een ' enig ' sterfling hoonde : hij zijn bekennen voor fier , mare heus .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.12	zijn harden zijn teder ; die vinden zijn ' hooner wassen hebben tegendeel , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.13	doen wereld kennen hij voor twistziek , liggen genegen bij wieden zijn vriend niet wassen baldadigheid te plegen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.14	nog meer , laten Bordes dienst aan deze gewest braden , verplichten wij die niet zacht mede hij te werken te gaan ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.15	zijn het heden tij om bloeden te storten , of te sparen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.16	hij zijn een oorlogsman : indien wie hij bewaren , Wat hebben uw edelheid te wacht vinden een ' manna vinden wie erkentnis ik zien het all ' beloven kunnen ?	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.17	zijn leven , eedle held !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.18	door uw gul beveiligen , zijde aan u ' dienst , te dienst vinden Nederland , heiligen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.19	Doch zijn all ' het geren hij hebben voor ik en het landen bestaan , Te weinig om de held doen dood te doel outgaan , Welaan !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.20	ik dienst , ik trouwen , de staan zolang blijken , zijde het rechte vergunnen een gul vinden uw hand te smeken : ik schenk ' , te lot vinden het geren ik hebben voor het landen verrichten , genadig aan hij die ik behouden bij het levenslicht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.21	En om u gul deze landen altijd te doel gedenken , zullen ik doen helft ik goed te nut de armoede schenk .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2449.s.22	ontzeggen die bede niet aan een ' trouwhartig ' manna , Die , zonder tros te zijn , zichzelv ' beroemen kunnen die hij deze rijk kussen belangeloos regeren , En het aanzien vinden wij volk bij het heidendom vermeerde .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2444.s.1	zien aan doen voeren de admiraals werpen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2453.s.1	doen ruiter , hij omhelzen , en opheffen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2459.s.1	staan op , eerwaard held !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2459.s.2	uw eedle erkentenis vragen ik niets dan de prijs die zijde hoogst waardig zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2459.s.3	u landvoogdy wassen het eelst die ik deze volk kennen wensen ..	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2459.s.4	ik vinden velen groot , mare slechts weinig eedle mens !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2459.s.5	Ik zullen ...	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2464.s.1	doen ruiter , valkenburg , doen jong valkenburg , een hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2475.s.1	Op u bevel zijn hier doen raden byeen , mijnheer , en wachten u ' lassen om in deze zadel te treden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2475.s.2	mare burger en soldaat , door ongeduld bezitten , verlangen uiten u ' mond laten Bordes loten te weet , rotten saam ' bij deze kasteel , en elk vinden wij raden liggen de wensen vinden het zuchten harden uiten zij bedrukt zichten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2475.s.3	doen menigte groeien aan ; terwijl laten Bordes gade , nabij doen poort die dringen tot schreeuwen om genadig .	None
+noms001mich01_01.TEI.2.text.body.div.div.head.2478.s.1	Zevende toneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2480.s.1	doen ruiter , valkenburg , doen jong valkenburg , mevrouw laten bord , een hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.1	verschonen een vrouw , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.2	die , door zij smarten verheerd , Onaangemeld verschijnen , en stout gehoor begeren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.3	doen raden zijn rijden bij een , u strengheid zijn blijken , Dus komen ik voor laten bord uw geren genadig smeken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.5	ik hebben horen hoe gei de tweestrijd doemen , En die laten Bordes wraken bij uw worden moord genoemd ; ik weten die , ( ik wassen hebben zelf die deze terstond ontdekken , ) doen jong Valkenburg uw hier te raadsman strekken , En het zijn ik wel bewust die gei , zode gei hij horen , ik ' echtgenoot op nieuw zullen doemen tot doen koord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.6	Ik twijfel daaraan niet , gei zullen hebben vonnissen vel ; Dus kunnen het ik witten niet zijn uw door gesmeek te kwellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.8	volstrekt bewust vinden uw zuchten voor het rechte , Die ik benepen harden thans al hopen ontzeggen , willen ik uw aan deze kussen gelegenheid verschaffen die gei u ' roemen , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.9	vergroten kunde door straf .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.10	zode gij op het beledigen rechte te wreken glorie dragen , Wat roemen baard uw doen straffen vinden zij die het rechte belagen !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.11	Ik , ik allee vervallen deez ' dagge tot die verwoedheid : Ik hebben het rechten belagen : misbruikende al doen goedheid vinden grijs Valkenburg , zoeken ik ik ' echtgenoot Door een strafwaarde list te onttrekken aan doen dood : Ik bieden hij ik gewaad om het ogen de wachten te ontvlieden , Doch hij wild op die wijze ' geenszins zien helpen zieden bleden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.12	Die weigring treffen ik harden , en spoorde op het sterkst ik aan Tot een nog stout , doch strafwaardiger bestaan : Ik wild in het naast bos het Fantynsche volk beroeren ; Ik wild alles hoofdmannin hebben na deze muur voer , laten bord redden , all ' wat ik hierin weerstaan doel sneuvlen , of , vol moed , zelf sneuvlen op deez ' grond .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.13	Om ik , om ik allee zien hij zijn barsten bestrijden , allee mijn eer te wraken zijn hij brengen in het leiden ; hij doen voor ik het geren ik niet voor myzelf kennen doel ; Dus wild ik , tros het rechten , hij voor doen dood behoen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.14	Ziedaar wat strafbre drift ik moedig harden beroerd !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.15	danken ik ' gemaal die ik ik opzetten niet volvoerde : hij hebben bewerken , te spijt de drift die ik bezielen , die Valkenburg ik hier in heus gyzling houden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.16	komen , straffen , schonen het ik zijn mislukken om hij het rechten te ontrukken , de kwaad willen , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.17	doen voor het rechten ik bukken ; tonen die gei zelf de willen vinden het kwaad u gul ontzeggen , Vereeuwig dus u zuchten voor doen eer vinden het heilige rechte : wan bij zode streng een ' held zijn het zeker kwaad heten , die ik voor ik ' gemaal zode velen ik willen vermeten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.18	doen meer : voorkomen terstond , in zijn land verwarren staan : het Ontwerp door ik beramen , zode gei ik in vrijheid laten : wan zode het ik zijn mislukken laten Bordes boeien te breken , het zijn ik nog niet beletten laten Bordes dood te wreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.19	Ikzelf , ik klagen ik aan : ik dierbare echtgenoot Getuige , in het sterven zelf , wat ik voor hij besluiten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.20	hebben volk , door ik geween rijden tot gemor bewegen , eisen ik ' gemaal behouden , luidkeels , mede schreijende oog : ik invloed op deze volk , zij deel in ik pijn , tonen een ' gestrengen raden wat eens zijn loten kunnen zijn ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.21	bewaren hij ; en , indien gij u glorie stellen in straf , ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.22	wild gei het dreigen landen een zeker rusten verschaffen , voorkomen ik woede .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.23	Ikzelf hebben uw ik feit ontdekken , ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2543.s.24	kunnen het zijn , ontruk ik het liggen , die ik te walgen verstrekken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.1	doen wanhopen hebben u ' geest te ver ' vinden het spoor drijven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.2	ik kunnen doen wanhopen liggen een dreigement vergeven !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.3	het zijn u geluk , ik kind !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.4	die ik doen drift kennen , die ik myzelv ' bezitten ... die ik doen Ruiter zijn !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.5	het zij ik niet moeilijk zijn om uw mede grond te toon die u Fantynen , en al die deze kussen bewonen , Volstrekt onmachtig zijn een enkel ogenblik , te nadeel vinden het rechten , ik harden te slaan mede schrik .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.6	doen wanhopen , inderdaad !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.7	doen uw uzelf bezwaar .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.8	gei durven ik een ' toeleggen die ondoenlijk zijn verklaren !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.9	laten bord zijn hier geren manna die alles getuige gelden , En niemand straffen een ' willen nog niet te werken stellen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.10	gedeeltelijk zijn ik u witten , rijden voor u komst , blijken ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.11	het lusten ik niet lang vinden u vreemd ontwerp te spreken !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.12	ik zullen ik gemoed voldoen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.13	wachten hier u vonnissen af , En oordelen of deze harden bedragen scheppen in straffen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.14	die straks doen raden verschijnen ' .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2572.s.15	gei zullen getuige wees Of iemand vinden ik ' aard ooit nodigen hebben te vrees .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2569.s.1	hij luisteren valkenburg iets in het oor , waarna bij tegen de landvoogd vervolgen :	None
+noms001mich01_01.TEI.2.text.body.div.div.head.2575.s.1	achtste toneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2583.s.1	doen ruiter , doen jong valkenburg , mevrouw laten bord , laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2583.s.2	Raadsbeeren , hoofdlieden , en soldaat , aan de ingang .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2583.s.3	doen raadsbeeren plaats zien in twee rei , te recht en linker zijden vinden de admiraal en de landvoogd .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2583.s.4	laten bord en zijn gemalin plaats zien tegen elkander over , vooraan op hebben toneel , waarna valkenburg , mede een ' degen in doen band , verschijnen , en zien aan doen linker zijden de admiraals plaatsen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.1	Ik hebben , doorluchtig raden , mijn achten dubbel woerd ' !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.2	zien wat wanbedrijf de schuldig bezwaren ; En tevens inzien , na het voorschrift mijn plicht , Wat u ' gevangene schuld mede rijden kunnen verlicht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.3	doen landvoogd hebben deze zaak niet in ik hand stellen ; Neen , zij zijn ik door doen vrouw de schuldig gemeld .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.4	hebben vonnissen die gei gaaft steunen en op weten en rijden ; gei doen de schuldig mede rechte te strafplaats tred ; En daar aan het vonnissen niet volkomen zijn voldoen , Drongt gei , mede rechte , op nieuw op die voldoening aan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.5	deze wassen u plicht .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.6	hebben hoofd vinden deze dreigen strand , eisen u ' gevangene bloeden nog heden vinden ik hand ; hij geven in zuchten voor het rechte , in strengheid , uw niet toen : Thans eisen ik harden vinden ik die ik ik ' plicht voldoen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.7	Indien mijn uitspraak een ' de rad mogen mishagen , hij voegen daarom geren ' haten de landvoogd toen te dragen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.8	zode zij iemand , alles een lid de raad , mishaaglyk schijn ' , ik hopen die zijde hij alles mens niet zullen mishaaglyk zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.9	gei stoten een ' manna te neder , door gramschap aandrijven , gei hebben hij op de grond verwoed een winden ' geven , doen raden dringen , na doen weten , rechtvaardig op u straffen ; Doch daar doen Hemel uw bewijs vinden bijstand geven , En uw , alles zijn ' het een lot vinden het geren gei voor deze land verrichten , op het wonderbaarst rukken te uiten de beul hand ; Daar gei u opperhoofd , zelf mede u lyfsgevaard , zode loffelijk hebben ontrukken aan zijn beulenschaar '; Daar gij onvoorbeeldlyk wreed in gade en eer beledigen , En enigszins uiten node , die beide hebben verdedigd ; Daar gij alles een eerlijk manna doen waarheid hebben verklaren , En zelf betuigen die gei , schonen gei onkundig waard die gei u ' vijand wonden in het sant te neder slaan , Rechtvaardig hebben verdienen daarvoor u straffen te dragen , En rijden het schavot betreden , zelf zonder mortery , laten ik , op zijn hemel spoor , uw mede de doodschrik vrijen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.10	leven !...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.11	Edelmoedig held !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2629.s.12	u deugd ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2607.s.1	Tegen laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2627.s.1	mevrouw laten bord , mede vervoering .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2655.s.1	laten ik spreken .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2655.s.2	u moede zijn Valkenburg , u trouwen zijn het landen blijken : maken , door het gebruiken vinden beide , op nieuw , wanneer gei strijd , die elk doen Ruiter danken ' die hij uw hebben bevrijden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2655.s.3	ik herstellen uw in u ' rank .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2655.s.4	aanvaarden vinden ik deez ' degen : gebruiken die in zijn land dienst , trekken Englands bende tegen ; mare denken die niets uw eren , hoe stout gij u ' vijand tarten , Dan een bezadigd aard , en een menslievend harden .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2655.s.5	Ziedaar ik ' streng aard : gade , doen thans u Fantynen , ik geven uw daar vrijheid toen , tot ik bederven verschijnen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2646.s.1	hij geven laten bord hebben geweer , waarmee valkenburg zijn uitkomen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.1	o Held !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.2	beschamen ik niet : ik zullen heen geleiden , ja !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.3	mare tartende , in u ' dienst , al oorlogsongenae .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.4	doen Ruiter !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.5	eedle ziel !... u deugd verdiend rechtvaardig ...	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.6	mare het mensdom zijn geren ' vorst alles held doen Ruiter waardig .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.7	o ik gemaal !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.8	deze ziel voelen uw erkentenis , Die door u traan spreken , meer dan uitdruklyk zijn .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.9	laten wij die steunen de land alles ons vader eren .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2676.s.10	Ziedaar hebben zijn geluk vinden mennen die regeren !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2661.s.1	hij mede verwondering aanziende , en in traan uitbarsten .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2674.s.1	zijde ombelst , nevens zij ' gemaal , doen voeren de admiraals .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2674.s.2	doen ruiter , naar heen te aanzien opgehest , nemen heen beide in zijn arm , terwijl hij , mede nadruk , en in verrukking , tegen de landvoogd vervolgen :	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2679.s.1	laten bord , snikkende .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2684.s.1	doen tranenvloed , o held !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2684.s.2	die ik u deugd ontwrong , En die ik nog ontvloeien , boeien mede ik harden ik tong , deze klink , zwaaien te dienst de redder vinden ik leven , zullen nooit dan mede ik kracht in het veld ik vuist begeven .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2688.s.1	valkenburg , tegen mevrouw laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2690.s.1	Hoe juichen ik harden , ik kind , bij het vlijen vinden u pijn !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2694.s.1	doen jong valkenburg , uiten een diep gepeins bekomende , tegen de admiraal .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2696.s.1	hebben loten schenken ik een ambt ; gei leren ik het woerd ' te zijn !	None
+noms001mich01_01.TEI.2.text.body.div.div.head.2700.s.1	laatst toneel .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2702.s.1	al doen vorig , en doen hoofdman .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2705.s.1	doen hoofdman , schielijk uitkomen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2712.s.1	Daag op , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2712.s.2	aan het hoofd vinden uw waterscharen : wie zieden een kloek vlieden wij naderen lang doen baar .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2712.s.3	zode velen wij ogen kunnen zieden , wenden zijde zien Oostwaarts heen .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2712.s.4	het Fantynsche volk rukken aan , het zijn al op doen been , Om zode het doen Britsche vlieden geluk mogen te land ; mede nadruk zijn vijand volk te ontvangen op doen strand .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.speaker.2716.s.1	doen ruiter , tegen laten bord .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2725.s.2	thans wissen u drift , in het landen te dienst te staan , hebben kwaad uiten die zijde doen , door eens te ver ' te gaan .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2725.s.3	Wat wij betreffen , mijnheer !	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.2725.s.4	laten wij doen wereld lederen die wie doen kunst verstaan vinden strijd en regeren , En die menslievendheid , geren rank , geren aadlyk bloeden , hebben zijn sieraad zijn vinden de manna vinden eer en moede .	None
+noms001mich01_01.TEI.2.text.body.div.div.sp.stage.2720.s.1	Tegen de landvoogd .	None
+noms001mich01_01.TEI.2.text.body.div.div.stage.2727.s.1	EINDE .	None
+noms001mich01_01.TEI.2.text.body.div.div.cf.p.2731.s.1	doen Gecommiteerden tot doen zaak vinden de Schouwburg aanzien , volgens Octroy door doen heer staat vinden Holland en Westvriesland , de 5den November , 1772 .	None
+noms001mich01_01.TEI.2.text.body.div.div.cf.p.2731.s.2	aan heen verlenen , hebben rechte vinden deze privilege , allee voor de tegenwoordig Druk vinden MICHIEL ADRIAANSZ doen RUITER , Treurspel , vergunnen aan Jan Helders .	None
+noms001mich01_01.TEI.2.text.body.div.div.cf.p.2734.s.1	In Amsteldam .	None
+noms001mich01_01.TEI.2.text.body.div.div.cf.p.2734.s.2	de	None
+noms001mich01_01.TEI.2.text.body.div.div.cf.p.2736.s.1	September , 1780 .	None

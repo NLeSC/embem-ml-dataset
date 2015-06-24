@@ -1,0 +1,1117 @@
+huyd001achi01_01.TEI.2.text.body.div.head.900.s.1	Achilles , treurspel .	None
+huyd001achi01_01.TEI.2.text.body.div.head.900.s.2	Eerste bedryf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.head.902.s.1	Eerste tooneel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.904.s.1	Achilles , Phenix .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.906.s.1	phenix	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.923.s.1	Wat zorgen zyn 't , myn Heer , die uwe ziel ontstellen ?	Worry_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.923.s.2	Wat nieuwe rampen , die u zonder eind dus kwellen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.923.s.3	De naare duisternis des nachts is noch niet gansch Verdweenen , door de komst en aangenaamen glans Van 't lieve morgenlicht : de Grieken en Trojaanen , Van gistren noch vermoeid , staan onder hunne vaanen Noch niet geschaard ten stryde : en gy , gy hebt alreeds De plaats van uwe rust , de vryplaats uwes leeds , Verlaaten , om alhier in eenzaamheid te zuchten , Schoon Troje van uw arm geen ramp meer heeft te duchten .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.925.s.1	achilles	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.929.s.1	Is myn Patroclus noch niet weêrgekeerd ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.934.s.1	O neen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.1	Helaas !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.2	ik voel myn ' ziel van eene vrees bestreên , Die ik noit heb gekend in 't felste van het stryden .	Fear_Emotion_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.3	Rechtvaarde gramschap , wat doet gy myn ' ziel niet lyden !	Emotion_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.4	Waar toeft gy , waarde vriend ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.5	ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.6	wierdt gy my ontroofd , Zo miste ik al myn ' vreugd .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.7	Hebt gy my niet beloofd , Zo ras de staat u van het leger waar gebleeken , Hier weer te keeren ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.8	en gy blyft !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.9	is dit een teken , Dat myne bede u iets ter harte gaat ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.10	beloont Ge Achilles dus , die u zo zuivre een ' vriendschap toont ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.11	Een ' vriendschap , door geen tyd , noch nyd , noch twist te breeken !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.12	Maar Phenix , hoorde gy van gistren ook iets spreeken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.13	De woende Hector , met de bloem der Troische magt , Belegert ons thans zelve , is over onze gracht En schanssen heen gerukt ; de muur legt neergeslaagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.14	Dit is het , dat wy zelfs van onze schepen zagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.15	'k Heb één der Helden van ons leger , 'k weet niet wien , Gekwetst , en doodelyk , zo 't scheen , getroffen , zien Wegdraagen naar zyn ' tent .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.16	Ik zuchtte om zyne wonden , En heb Patroclus , om te zien wie 't zy , gezonden Naar 't slagveld , rookende van 't Grieksche en Troische bloed .	BodilyProcess_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.17	'k Verwachtte hem straks weer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.18	Nu zucht myn bang gemoed , En vreest , of hy , misschien geraakt in 's vyands handen , Die boodschap met zyn bloed betaald heeft .	Fear_Emotion_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.990.s.1	Zucht ge , ô schanden , Alleenig om 't gevaar van éénen vriend , één man , Die zelfs , naar allen schyn , noch levende is ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.990.s.2	en kan Uw oog de nederlaag van 't gansche heir aanschouwen , En blyven onvermurwd ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.990.s.3	Hoe zal het u berouwen , Dat gy , die Troje alleen kost winnen door uw zwaard , Het zelve in tegendeel alleen behoudt en spaart ; Als 't droevig Grieken u , dien 't eertyds plagt te roemen , Den eengen oorsprong van zyn ondergang zal noemen ; U vloeken , om de dood van menig dappren Held , Dien Hector , moedig door uw afzyn , heeft geveld !	Emotion_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.1	'k Verdien , 'k beken het , dit verwyten ; ja noch slimmer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.2	Maar 'k heb het Godendom gezwooren , dat ik nimmer Weer tegen Hector , en zyn volk , ten stryd zou gaan , Zo lang zy hunnen klaauw niet aan myn ' schepen slaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.3	Myn ' hand , wel eer zo graag naar 's vyands bloed te storten , Vreest thans het leeven van één Trojer te verkorten , Sint Agamemnon , die ontaarde en trotse , my Zo wreed mishandeld , en zo fel gehoond heeft .	Fear_Emotion_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.4	Gy , Gy zelve hebt gezien , hoe hy me , ô smaad , ô schanden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.5	Brizeïs met geweld gerukt heeft uit de handen , Met welke bitse reên hy me , in den vollen raad , Onteerd heeft en gehoond , als waar ik een soldaat , Die Griekenland noit dienst gedaan hadt , onder 't stryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.6	O neen , Achilles ziel kan zulk een hoon niet lyden , En trachten naar geen ' wraak .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.7	't Is my de grootste vreugd , Die ik te wachten had na zo veele ongeneugt , Dat ik de Grieken op het moordveld zie verslaagen , En Agamemnon zelf zyn noodlot hoor beklaagen .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.8	Ik ben het niet , hy is 't , die Grieken bragt ten val , Op wien ons Vaderland zyn onheil wreeken zal .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.1	Wilt gy den roem niet noch bevlekken uwer daaden , Zo laat u , 't is noch tyd , laat u in 't eind noch raaden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.2	't Is elk genoeg bekend , hoe hy u heeft gehoond .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.3	De groote nederlaag van 't Grieksche leger toont Elk klaar , dat Peleus zoon van hem is afgevallen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.4	Wy zien dien wreeden reeds gevloekt , gehaat van allen .	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.5	Men geeft de schuld aan hem , en ieder spreekt u vry .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.6	Men zucht , men wenscht naar u , en haat zyn ' dwinglandy .	Emotion_Hatred_BodilyProcess_Desire_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.7	Wilt ge u dan van het volk volkomen doen beminnen , Zo moet ge , ô braave Held , voor eerst u zelf verwinnen , Uw toorn vergeeten , en de Grieken door uw ' magt Herstellen , die door hem ter slachtbank zyn gebragt .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.8	Met welk een luister zultge uw naam niet doen herleeven , Wat eer , wat glorie zal de nazaat u niet geeven , Als gy uw ' gramschap hebt verwonnen , den Trojaan , Thans zegepraalende , uit het oorlogsveld zult slaan , En dryven in de Stad , en 't Grieksche heir ten lesten Verwinnaar maaken van de vyandlyke vesten !	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1064.s.1	Neen , randt de vyand my in myne tent niet aan , 'k Zweer noch , dat ik myn ' hand niet weer aan 't zwaard zal slaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.1	De zeventiende dag ryst thans met nieuwe straalen , Sint ik u 't laatste 't zwaard zag uit de schede haalen , Toen gy gereed stondt , om de smet van zulk een hoon Te zuiveren in 't bloed van Atreus oudsten Zoon .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.2	En mooglyk waar 't geschied , waart gy niet wederhouden Door d'ongeveinsden raad en rede van den ouden En wyzen Nestor .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.3	Hoe gelukkig is die man , Die toen meer won , als ik , na zo veel dagen , kan Verkrygen op uw hart !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.4	Zie ook myn ' gryze hairen ; Herroep de moeite , die ik van uw ' kindsche jaaren Voor u heb aangewend ; met welk een lust en vreugd Ik u geweezen heb naar 't pad der heldendeugd .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.5	Herdenk in 't eind , met welk een iever , met wat traanen , En tedre kinderliefde , uw Vader , de Trojaanen , Als de eenige oorzaak , dat gy scheidde van hem af , Vervloekende , u aan my met droefheid overgaf .	Emotion_BodilyProcess_Love_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.6	Wist ik u oit myn pligt en iever klaar te toonen ; Uw ' deugd te roemen , en uw ' zwakheid te verschoonen ; In 't kort , verdiende ik oit den naam van Voesterheer Van Held Achilles ; 'k werp my voor uw ' voeten neer : Laat u myn smeeken , laat myn zuchten u beweegen , Verjaag den vyand , geef uw Vaderland den zegen , Dien 't heeft verlooren , die gehegt is aan uw ' kling , En dien 't weleer zo vaak van uwen arm ontving .	Emotion_EmotionalAction_BodilyProcess_Moved_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1113.s.1	Rys op : maar geen Trojaan zal my in 't veld ontmoeten , Voor 'k Agamemnon zie , als u , aan myne voeten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.head.1116.s.1	Tweede tooneel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.1118.s.1	Achilles , Phenix , Alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1122.s.1	WAt tyding brengt gy ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1122.s.2	Is Patroclus weergekeerd ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.1125.s.1	alcimus	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1136.s.1	O neen , myn Heer : maar 'k zie uw ' hateren verneerd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1136.s.2	De schrandre Ulysses , en held Ajax , bei verheven Door hunne dapperheid , en onbesproken leeven , Verzoeken , kan het zyn , een korten tyd , gehoor , Uit Agamemnons naam .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1140.s.1	Waar wachten ze antwoord ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1146.s.1	Voor Uw ' legerplaats , daar zy niet binnen willen treeden , Voor gy hun zulks beveelt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1154.s.1	Welaan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1154.s.2	hoor hunne reden , Beroemde Held !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1154.s.3	en gy , ô Goden , kan het zyn , Laat deeze dag het eind meêbrengen onzer pyn !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1158.s.1	Gaa , haal hen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.head.1161.s.1	Derde tooneel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.1	VLei u niet , ô Phenix , dat myn harte Door hunne klagten , of door de algemeene smarte Vermurwd zal worden .	BodilyProcess_Benevolence
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.2	neen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.3	Ik zal hen hooren ; maar Alleenig om my te verheugen in 't gevaar , Waar in de Grieken zich gebragt zien door het woeden Van Agamemnon .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.4	Laat hy zelf die schaê vergoeden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.5	Myn ' ziel onschuldig aan den ramp , dien hy ons brouwt , Wenscht reeds , myn Vader weer te aanschouwen , daar hy oud En afgeleefd te Phthie in vrede zyne dagen Ten einde brengt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.6	Geen stryd kan my thans meer behaagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1203.s.1	Ulysses , hoop ik , zal uw ' ziel door zyne reên Beweegen ; toonen u door zyn ' voorzigtigheên , Dat zulk een ' gramschap , hoe gegrond en hoe rechtvaardig , Uw land verraadt , en Held Achilles is onwaardig .	Emotion_Hope_BodyPart_BodilyProcess_Compassion_Moved_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1203.s.2	Terwyl de dappre zoon van Telamon , wiens vuist Gy zelf zo vaak met bloed der Trojers zaagt begruist , De gloriezucht weer in uw hart zal doen herleeven .	Honor_Emotion_BodyPart_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1203.s.3	Mogt ik myn hoofd ten zoen van uwe gramschap geeven , Ik stierf gewillig , tot vermindringe uwer schand , En tot behoudenis van 't bange Vaderland .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1203.s.4	Ik zie hen nad'ren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.head.1206.s.1	Vierde tooneel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.1208.s.1	Achilles , Ulysses , Ajax , Phenix , Alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.1210.s.1	ulysses	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.1	ZOon van Peleus , roem der Helden , Wiens daaden den Trojaan voor deezen meer ontstelden , Dan wy al t ' zaamen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.2	zyt gegroet uit aller naam .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.3	Wy beide waren u wel eertyds aangenaam , En hadden de eer , dat ge ons aanschouwde als uwe vrienden , Schoon wy die mogelyk noch niet genoeg verdienden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.4	Thans komen wy , belaên met droefheid in het hart , U kennis geeven van onze algemeene smart : Hoe onze vyanden met hunne bontgenooten , Die gy , zo lang gy streedt , hieldt in hun wal beslooten , De vest verlieten , ons in onze legerplaats Thans zelfs belegeren , tot droefheid des soldaats ; Die , vol van wanhoop , in het midden dier gevaaren , Noch even magt heeft , om zyn ' schepen te bewaaren .	Emotion_BodyPart_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.5	De vyand , moedig op die zege , vliegt steeds voort , Zaait overal den schrik , en droeve wanhoop , moordt Al wie hem tegenstaat , terwyl hem zelfs de Goden , Door duizend tekenen , tot zulk een ' woede nooden .	Fear_Emotion_Despair_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.6	De dolle Hector , met den sabel in de vuist , Gemoedigd door de gunst van Jupiter , vergruist Den muur met storm op storm , om eindlyk zelfs de schepen Der vlamme te offeren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.7	De Griek , in 't hart benepen Van doodschen schrik , weet niet , wat hy in deezen nood Beginnen zal , en zucht om zyne aanstaande dood , Die hem reeds zeker schynt .	Fear_Emotion_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.8	Wat hand weêrhoudt , na 't breeken Der ketenen , een leeuw , die , woênde om zich te wreeken , Al , wien hy vindt , verscheurt , geen vyand heeft , die hem Weerstaan kan , die niet schrikt en beeft voor zyne stem ?	Fear_Emotion_EmotionalAction_BodilyProcess_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.9	Zo woedt de dapperste van alle de Trojaanen .	BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.10	Hy staat alreeds gereed , om zich een weg te baanen Tot aan de schepen zelfs , daar hy met eige hand ( O Hemel , keer dien slag ! ) noch deezen dag den brand In zoekt te steeken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.11	Waar , waar zullen uwe vrinden , O onverbidlyke , dan eene schuilplaats vinden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.12	Wie zal het bange volk , in dien bedroefden stand , Verlosschen konnen van des Overwinnaars hand ?	Fear_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.13	Wie overblyven , om de maar naar huis te draagen , Dat al de Grieken door de Trojers zyn verslaagen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.14	Keer , weergaêlooze Held , keer wederom ten stryd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.15	Gy ziet uw ' wraak volbragt ; wy allen zien den tyd , Dat gy alleen ons kunt verlosschen , en den zegen Weergeeven door uw ' magt .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.16	Ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.17	laat u toch beweegen ; En denk om 't naberouw , dat u ontstellen zal , Als gy te laat zult zien , dat gy alleen den val Der Grieken hebt verhaast , en zonder mededogen U zelf verraên hebt , tot vermeerd'ring van 't vermogen Van uwe vyanden .	Emotion_Compassion_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.18	Als 't kwaad is uitgevoerd , Zien we onze schuld eerst , die ons dan te laat ontroert .	Emotion_Compassion_Moved
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.19	Voorkom die wroeging dan van uw ontrust geweeten : Wil eindelyk uw toorn , hoe wel gegrond , vergeeten .	Emotion_BodyPart_Anger_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.20	Geef , geef ons 't leeven weer , en toon , in deezen staat , Dat de eer uws Vaderlands u noch ter harte gaat .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.1	Hier in alleen ben ik aan hem verpligt , myn ' Heeren , Dat hy my noch met uw ' bezending wil vereeren , Twee Helden , my zo waard .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.2	Maar , wyl de vriendschap my , Noch u , hier spreeken doet , myn ' vrienden ; 't staa my vry , Dat ik u ronduit zegg ' , dat niets my zal beweegen ; Schoon Agamemnon zelf , bekommerd en verlegen , Verzeld van 't gansche heir , my aanbadt .	Worry_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.3	neen , myn ' ziel Gedenkt noch aan dien hoon , die haar zo pynlyk viel .	Offended_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.4	Wat dank bewyst men my voor myn geduurig stryden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.5	Voor al de moeite , die 'k met vreugd heb willen lyden ?	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.6	Die zich bedekt houdt in den nood , en naauwlyks uit Zyn ' tent komt , heeft nochtans zyn deel ook in den buit .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.7	De dapperste ziet om een bloodaard zich versmaaden : Sleept stervende den roem van zyne Heldendaaden Met zich in 't graf , terwyl een ander wordt beschreid , Die nimmer blyk gaf van de minste dapperheid .	EmotionalAction_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.8	Wat schiet my over , van het geene ik , door gevaaren En duizend moeilykheên , wel eer wist te vergaêren ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.9	Niets .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.10	Ik ben 't evenwel , die zo lang achter een , Met zulk een iever , voor de Grieken heb gestreên , Die twintig steden rondom Troje heb verslaagen , En uit de zelve zo veel schatten weg gedraagen : Die schatten nochtans , 't loon van myne dapperheid , Heb ik met eerbied voor de voeten neergeleid Van Agamemnon zelf , die , in zyn ' tent gebleeven , Het minst gevaar niet hadt geloopen van zyn leeven ; Die al den buit kreeg , my en mynen volke een deel , Ten pryz ' van onze deugd , vereerde van 't geheel , En d'een en d'ander ook daar na iets heeft geschonken , Wiens vroomheid in den stryd vooral hadt uitgeblonken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.11	Elk heeft den prys noch , dien hy van zyn ' hand ontvong .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.12	Ik ben 't alleenig , dien de bitse nyd hem dwong 't Gegeeven wederom te ontneemen , ja te ontrooven Met schennis en met kracht .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.13	Dus is 't , dat hy my boven Alle and'ren heeft gesteld .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.14	dus is het , dat hy toont , Hoe hy de dapperen naar hun verdiensten loont .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.15	Maar wat is de oorzaak , dat wy Troje dus bestryden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.16	Dat wy het Grieksche volk al hier zo veel doen lyden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.17	Is 't niet , om Helena aan Menelaüs weer Te geeven , hem ontroofd ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.18	Vondt hy hier door zyne eer Beledigd , en mag ik me ook niet van hem beklaagen , Dat hy my al myn ' vreugd en wellust heeft ontdraagen , Toen hy Brizeïs uit myne armen heeft gerukt ?	Offended_Joy_Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.19	Wordt Troje , om 't schaaken van een ' Vrouw , dus onderdrukt Van hem , die my de myne , ô smaad !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.20	zelf heeft ontnomen , En hy , die andren straft , heeft die zelf niet te schroomen ?	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.21	Ik acht haar , schoon slechts myn ' gevange , als myne Vrouw .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.22	Nu heeft hy my van doen ; en zendt u vol van rouw , Om my , is 't mooglyk , te beweegen door uw smeeken .	Emotion_EmotionalAction_BodilyProcess_Moved_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.23	Neen , zyn ' trouwloosheid is my ééns genoeg gebleeken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.24	Ik ken hem al te wel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.25	het is vergeefsch , dat hy My weer te winnen zoekt door list of veinzery , Dat hy met andren thans de middelen bedenke , En maake , dat de vlam de Grieksche vloot niet krenke .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.26	Hadt hy my niet gehoond , hy zou my den Trojaan Zien dryven in de stad , of op het veld verslaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.27	'k Zou hem meer dienst doen , als zyn ' gracht of muur , verheven , Om weer door Hectors arm ter aard te zyn gedreeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.28	Maar waar toe zo veel reên ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.29	gaat , myne Vrienden , gaat , En zegt hem , dat ik noit myn degen of myn raad Voor hem besteeden zal .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.30	Hy heeft my eens bedroogen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.31	De tweedemaal zal 't hem mislukken . 'k sluit myne oogen Voor 't medelyden .	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.32	Dat hy sterve , en gaa ten grond , Die , my ten spyt , zo groot een gruwelstuk bestondt !	Emotion_Remorse_Spitefulness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.1392.s.1	ajax	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.1	Uw ' gramschap steunt op reên .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.2	Maar kan noch Hectors zegen , Noch 't uiterste gevaar der Grieken u beweegen ; Laat hy dan zelve , die uw toorn dus wist te voên , U weer bevredigen , nu hy u wil voldoen .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.3	Hy wil zich eindlyk voor de reden nederbuigen ; En biedt u aan , voor al het leger te betuigen , Dat gy gehoond zyt , en dat hy u heeft misdaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.4	Hier by biedt hy u zelf noch veel geschenken aan , Die waard zyn uit de hand van zulk een Vorst te komen , En van Achilles zelf te worden aangenomen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.5	Verscheiden ' vaazen , schoon en kostelyk van stof , Maar schooner door de konst des meesters , die zyn lof Door zulk een werkstuk deedt tot aan de starren ryzen : Een ' gift , die zelf Jupyn niet van de hand zou wyzen : Met twalef paarden , wit als de eerst gevallen sneeuw , In snelheid als een wind , in moed elk als een leeuw , Die honderdmaal de zorg van hunnen Heer betaalden , Wanneer zy in het perk den eersten prys behaalden : Met zeven maagden , schoon van leest en van gezigt , In 't frischste van haar ' jeugd , wier oogen , als het licht Der heete middagzon , de fierste harten blaaken : Brizeïs , die uw ' ziel voor andren kan vermaaken , Brizeïs , de eedle vrouw , aan wie die bitse hoon Geschied is , u ten spyt , door Atreus fieren zoon , Zal haar geleiden , waar Achilles 't zal begeeren .	Offended_Emotion_BodyPart_BodilyProcess_Desire
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.6	Maar denk niet , dat de Vorst haar oit bestondt te onteeren : O neen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.7	tot zulk een ' smet was noit zijn ' ziel bekwaam .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.8	Ja zulks zal hy u zelf betuigen , in den naam Van 't gansche Godendom , wiens klaare en alziende oogen Zyn zeggen en zyn doen aanschouwen uit den hoogen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.9	Dit alles , zo hier door uw ' gramschap wordt verzacht , Wordt aanstonds , op zyne orde , in uwe tent gebragt .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.10	Dit is voor deez ' tyd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.11	Na 't veroveren der wallen Van 't moedig Ilium , zal hy u onder allen Noch twintig maagden zelf aanbieden , die alleen In schoonheid zwichten voor de aanminnige Heleen , Uit Vorstelyken bloede , en die haar ' schoonheid paaren Met deugden zonder vlek , in 't bloeyen van haar ' jaaren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.12	Noch niet vernoegd door deez ' voldoening van dien hoon , Biedt hy u zelf noch aan den naam van zynen zoon Te aanvaarden , als wy weer in Argos zullen komen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.13	Wat kan hy meer doen , om uw ' gramschap in te toomen ?	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.14	Drie schoone maagden , drie Princessen , uit het bloed Van Atreus stam geteeld , en prachtig opgevoed In Agamemnons hof , staan u ten dienste vaardig .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.15	Hy geeft u zelf de keur , wie gy van driën waardig Zult achten tot dien staat ; maar doelt voor al op de eer , Dat hy een Held , als u , tot schoonzoon kryg ' , myn Heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.1	Gy hebt uw last voldaan , ik u gehoord , myn ' Heeren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.2	Gy kunt , zo 't u belieft , weêr naar den Dwingland keeren : En zegt hem uit myn naam , dat zyn ' geschenken my Noch haatelyker zyn , als zyne dwinglandy .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.3	'k Begeer zyn ' Dochters niet , hoe hoog van elk gepreezen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.4	Zyn gansch geslacht kan my niet als verfoeilyk weezen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.5	En eindlyk zegt hem , dat 'k my aanstonds zal beraên , Wanneer ik met myn ' vloot weer denke in zee te gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.6	Myn ' ziel , zo fel gehoond , schynt reeds van spyt te breeken , Dat ik zo lang van dien Tieran moet hooren spreeken .	Offended_Emotion_BodyPart_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.1	Gy weêr in zee gaan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.2	gy uw Vaderland , uwe eer Aldus met voeten te vertreeden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.3	gy myn Heer !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.4	Achilles , die zo vaak zyn vyand heeft verdreeven , Zal in den grootsten nood zich 't eerst ter vlucht begeeven , Het gansche leger van de Grieken doen verslaan , Om Agamemnon , die alleen hem heeft misdaan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.5	O smart !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.6	hoe zal ik voor uw Vader wederkeeren , Dien 't my met zulk een ' gunst geliefde te vereeren , Toen ik , rampzaalge , tot het uiterste gebrogt , Een ' schuilplaats by hem vond , die 'k zolang vruchtloos zocht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.7	Versteend en hard gemoed !	BodyPart_BodilyProcess_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.8	de klippen zou men breeken Door zulk een ' nedrigheid , door zulk een vierig smeeken , Terwyl uw hart , verstaald door wraakzucht en door spyt , Uw Vaderland verlaat in d'allerlaatsten stryd .	Emotion_EmotionalAction_BodyPart_BodilyProcess_Despair_Vindictiveness_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.9	Wilt gy in deezen nood niet meerder voor ons vechten , Myn arm , hoe oud hoe stram , zal wonderen uitrechten , En vliegen vol van moed den vyand in 't gezigt ; En sterven , nu gy dus ontaard zyt van uw ' pligt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.10	Moet ik dit hooren !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.11	ik dit aanzien !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.12	groote Goden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.1	Ik luisterde wel eer , noch jong , naar uw ' geboden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.2	De moeite kunt gy nu wel spaaren , naar ik meen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.3	'k Weet nu wat ik moet doen , en volg myn ' zinlykheên .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.4	Wilt gy my op de reis naar Phthie niet verzellen , Gy kunt hier blyven , om my namaals te vertellen , Hoe Hectors woênde vuist het Grieksche heir versloeg , En Agamemnon 't staal in 't beevend harte joeg .	Fear_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.5	En gy , myn ' Heeren , gaat : uw ' moeite is hier verlooren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.6	Gy kwaamt myn ' meening straks uit mynen mond te hooren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.7	Ik heb u anders niets te zeggen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.8	't Is my leed , Dat gy hier uwen tyd zo vruchtloos hebt besteed .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1548.s.1	Was 't Agamemnon , die uw ' bystand hadt van nooden , Alleen , 'k was 't met u ééns : dat zweer ik by de Goden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1548.s.2	Maar nu gy 't Vaderland verlaat in deezen nood , Toont gy ...	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1548.s.3	Maar laat ons gaan , eer zyne toorn vergroot .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1548.s.4	De Hemel midlerwyl geeve u eens beter zinnen , En leere u , hoe gy land en vrienden moet beminnen !	Emotion_BodyPart_Love
+huyd001achi01_01.TEI.2.text.body.div.div.p.1550.s.1	Einde van het eerste Bedryf .	None
+huyd001achi01_01.TEI.2.text.body.div.head.1554.s.1	Tweede bedryf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.1558.s.1	patroclus	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.1	BEnaauwd , bekommerd en verlegen Zucht myne ziel in deezen nood , O Grieken , om uw ' droeve dood , O Trojen , om uw blyden zegen .	Fear_Worry_Emotion_BodyPart_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.2	Spant Hemel , Aarde en Zee en al In 't eind dan t ' zaam tot onzen val !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.3	De gunst der Goden is verdweenen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.4	Wy zenden vruchteloos ons zuchten naar om hoog .	BodilyProcess_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.5	Hun harten zyn verkeerd in steenen .	BodyPart_BodilyProcess_Spitefulness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.6	Een wolk van gramschap dekt hun oog .	Emotion_BodyPart_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.7	Achilles , wreeder in zyn woeden Als hongerige wolf , of leeuw , Verheugt zich in ons bang geschreeuw , En kan , maar wil zulks niet vergoeden .	Fear_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.8	O wraakzucht , gramschap , bittre haat , Wat brouwt gy 't Vaderland al kwaad !	Emotion_Hatred_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.9	Als vrienden zich van vrienden scheiden , Wie zal den vyand in zyn ' woede dan weerstaan ?	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.10	Hy gaat in bloedrivieren weiden , En durft zyn ' hand aan 't heil'ge slaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.11	Ik , die van myne kindsche jaaren , Door vriendschap en door broedermin , Eéns van gedachten , ééns van zin , Myn ' ziel wist met uw ' ziel te paaren ; Moet ik ook schuldig zyn , nu gy U wreekt van 's dwinglands tieranny ?	Emotion_EmotionalAction_Love_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.12	Hier voel ik my op 't felst bespringen , Om 't Vaderland in nood myn ' bystand aan te biên : Hier schynt uw ' vriendschap my te dwingen , Met vreugde uws hooners smart te zien .	Joy_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.13	O vriendschap , edelste in dit leeven !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.14	Zal ik , tot myne en myner schand , Om u , myn dierbaar Vaderland In deezen jongsten nood begeeven ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.15	En aanzien met een stil gemoed , Hoe Troje trapt in 't Grieksche bloed ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.16	O eer , ô Vaderland , ô vrinden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.17	Zal ik stilzwygend zien , hoe 't Troische vier u blaakt , Om my aan éénen vriend te binden , Die zich in aller ramp vermaakt , Myn ' ziel , geslingerd heene en weder , Ziet dan alleen de vriendschap aan ; Wordt weêr genoopt ten stryd te gaan , Om d ' uitgelaaten Hector neder Te ploffen in 't bebloede zand , Ten dienste van myn Vaderland .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.18	Maar ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.19	Achilles te verstooren , Zou 't allerlaatste zyn , daar 'k my in nood toe keer : En gaat het Grieksche heir verlooren , Zo sterf ik zonder roem of eer .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.20	O vriendschap , wil 't my dan vergeeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.21	De eer , de eer is my veel meerder waard .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.22	'k Zal zonder eer hier niet op aard , Al moest ik zonder vrienden leeven .	Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.23	De vriendschap wankelt in den nood : De eer blyft ons by zelfs na de dood .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.24	Deeze is onsterflyk , die kan enden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.25	Ik gaa .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.26	maar weigert hy den Griek zyn ' hulp ; ik zweer , Of hy zal my ten stryde zenden , Of ik , ik ben zyn vriend niet meer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.1660.s.1	patroclus , alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1667.s.1	AChilles zelf , myn Heer , zal u hier komen vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1667.s.2	Vertoef noch wat .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1675.s.2	getrouwste myner vrinden , Weet hy den staat van 't heir , en blyft zyn steenig hart Noch onbeweeglyk ?	BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1675.s.3	lacht hy noch met onze smart ?	Joy_Emotion_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.1	De schrand're Ulysses heeft zyn ' ziel wel iets bewoogen , Met Ajax : maar helaas !	BodilyProcess_Moved
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.2	ofschoon het mededogen Dien wreede al eenigszins geraakt hebbe en ontroerd , Hy wordt geduurig door zyn ' gramschap weer vervoerd .	Emotion_Compassion_Moved_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.3	Dan grypt hy 't bloedig zwaard eens beevende in zijn ' handen ; Dan zien wy hem van spyt weer knarssen op zyn ' tanden , Dat hy , die zich zo zeer verheugt in 't stroomend bloed , Den stryd van verre zien , en zelve rusten moet .	Joy_Emotion_BodyPart_BodilyProcess_Anger_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.4	Dan schynt het , dat hy wat geraakt is aan 't bedaaren ; Dan zweert hy weder , noch Trojaan noch Griek te spaaren , Maar alles te offeren aan zyn ' gehoonde deugd ; En toont zig om den nood der Grieken gansch verheugd .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.5	Hy roept de Goden aan , om zyne rouw te wreeken ; En bidt , dat Hectors hand den veldheer mag doorsteeken : Want zo lang , als die leeft , en 't Grieksche heir gebiedt , Wil hy voor 't Vaderland niet stryden ; ja ontziet Zich zelfs niet , naar de dood te wenschen van hun allen , Zo hy den Dwingland slechts mogt aan hun zy zien vallen .	Emotion_EmotionalAction_Sadness_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.6	Dan wil hy met zyn volk , en uitgeruste hand , De schaê herstellen van 't gemarteld Vaderland ; Den zegepraalenden Trojaan ter stad in dryven , En met zyn moedig volk alleen verwinnaar blyven : Op dat geen ander deele in zynen oorlogsroem , En Griekenland alleen hem zyn verlosscher noem .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1727.s.1	Zo heeft hy reden , zich in 't korte te verblyden .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1727.s.2	Want zo hy deezen dag alleen noch wacht met stryden , Is 't al verlooren , en met onze vloot gedaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1727.s.3	Zo dan de vlam eens in de schepen door wil slaan , Waar zal 't rampzalig volk dan eenige uitkomst vinden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1727.s.4	Die wreeden zullen ons op hun gemak verslinden , Als tedre lammeren , die weereloos en stil De dood verdraagen , als 't hun overwinnaar wil .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1753.s.1	Maar neen ; 'k hoop noch op u , dat gy zyn ' gramschap neder Zult zetten door uw raad : hy acht , hy mint u teder ; Hy heeft den ganschen nacht gesleeten in geklag , En droef gezucht , om dat hy u niet weder zag , Die hem beloofd hadt voor den avond weer te komen .	Emotion_EmotionalAction_BodilyProcess_Love_Dissapointment_Sadness_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1753.s.2	Om uwent wil alleen heb ik dien held zien schroomen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1753.s.3	Beschryf hem dan den staat van 't bange Vaderland Op 't allerschrikkelykst : bezweer hem by den band Van vriendschap , die zyn hart aan 't uwe heeft verbonden : Zeg hem , hoe gy de bloem van 't Grieksche heir gewond , en Ter dood toe afgemat , zaagt vluchten naar de vloot .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1753.s.4	Beschryf hem 't naar geluid der geene , die half dood Noch kermen op het veld , en trachten noch te spreeken , Om hunnen ramp op hem met woorden slechts te wreeken , Wyl zy hem aanzien , als de bron van hunne elend ; Hoe gy de traanen , en het bloed , waar gy u wendt , Ziet stroomen langs den grond .	EmotionalAction_BodyPart_Sadness_Despair_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1753.s.5	Beschryf hem al de naarheid , Die gy bedenken kunt ....	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1765.s.1	Ach ! 'k hoef alleen de waarheid Te zeggen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1765.s.2	Maar hy , die Ulysses heeft gehoord , En alles wederstaan , zal die zich op myn woord Bedwingen , en het zwaard weer vatten in de handen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1765.s.3	Neen , Alcimus , ô neen , hy kan zich zonder schanden Voor my en mynen raad niet buigen , die zo fier Vorst Agamemnons boode , en zyn ' geschenken , wier Gelyken hy zelf naauw gezien heeft van zyn leeven , Te rug gezonden heeft , en smaadelyk verdreeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1769.s.1	Wat middel dan voor ons , tot troost in deeze elend ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.1	Indien hy voortgaat hier gerust in zyne tent Te blyven zitten , zich niet moeiende met stryden , Zo hoop ik door myn arm de Grieken te bevryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.2	Niet door myn ' dapperheid en vreesselyk geweld , Maar door de wapens van dien onverwinbren Held .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.3	My dunkt , wanneer ik die mogt gespen om myn ' leden , Gewapend met zyn zwaard mogt in het strydperk treeden , Ik zou Sarpedon , 'k zou AEneas , en de bloem Van Trojes oorlogsmagt , held Hector , die zyn roem Thans door Achilles toorn ziet aan de starren ryzen , Voor my doen vluchten , of den weg ten afgrond wyzen .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.4	'k Voel , hoe die eerzucht reeds myn jeugdig hart begint Te streelen .	Honor_Emotion_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.5	Goden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.6	die volvoert , wat ge onderwindt , Gy , die me aanleiding hebt tot deeze zaak gegeeven , Kroont , kroont myn grootsch besluit , al koste 't ook myn leeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1800.s.1	Daar komt Achilles zelf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.1804.s.1	achilles , patroclus , alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.1	ZYt welkom , waarde vrind !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.2	Zyt driemaal wellekom !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.3	dank zy den Hemel ! 'k vind U eindelyk dan weer , en , na zo lang te zuchten , Doet uwe wederkomst al myne zorgen vluchten .	Worry_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.4	Gy leeft dan noch !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.5	Goôn !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.6	wat heb ik voor u gevreesd !	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.7	Maar 'k zie met vreugd , myn ' vrees is zonder , grond geweest .	Fear_Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.8	Maar hoe ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.9	gy staat en zucht , en houdt uw ' droevige oogen Geslaagen op den grond , wat heeft u zo bewoogen ?	Emotion_BodyPart_BodilyProcess_Moved_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.10	Treurt ge om den slechten staat van 't Grieksche Leger ?	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.11	of Is u uit Griekenland , van Phthie , of elders , stof Tot droefheid aangediend ?	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.12	spreek op , laat ik u hooren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.13	De droefheid , die men in zyn boezem wil versmooren , Groeit daaglyks aan , en slaat in 't eind tot wanhoop uit .	Emotion_BodyPart_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.14	Gy zucht , en zwygt !	BodilyProcess_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.15	zeg my , waar uwe smart uit spruit .	Emotion_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1836.s.2	kan Achilles my naar myne droefheid vraagen !	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1836.s.3	Gy zyt ' er de oorzaak van .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1836.s.5	dat uwe oogen zagen , Het geen ik heb gezien , uw fier en steenig hart Zou zich haast zien vermurwd door de algemeene smart Van onze Helden , en manmoedige soldaaten ; Zo ge eenge menschlykheid slechts over hebt gelaaten In uw verstokt gemoed .	Emotion_BodyPart_BodilyProcess_Moved_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1843.s.1	Hoe staat het met de vloot ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1843.s.2	Hoe met de Vorsten ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1843.s.3	spreek .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1843.s.4	Hoe na is ons de nood ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.1	Zo na , dat uwe hand alleen ons kan bevryden Van onzen ondergang , zo zy voor ons wil stryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.2	De Grieksche vloot is tot het uiterste gebragt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.3	De grootste Helden zyn gekwetst ; het volk , van kracht , En moed byna geheel beroofd , weerstaat flaauwmoedig De Troische krygsmagt noch .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.4	Het slagveld legt gansch bloedig Met Grieksche lyken opgevuld , en , waar men ziet , Men speurt geen ' tekens , als van wanhoop en verdriet .	Emotion_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.5	De Veldheer heeft den stryd verlaaten , om zyn ' wonden In zyne rechte hand . 'k heb Tydeus zoon gevonden , Dien steun van 't Grieksche heir , door 't missen van zyn bloed , Schier leevenloos .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.6	ik ben Eurypylus ontmoet , Met eenen scherpen schicht geschooten in zyn ' dye .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.7	De mindere soldaat valt 's vyands raazernye Ten prooi , door 't woeden en de onwederstaanbre kracht Van Hectors ysre vuist , en Trojes oorlogsmagt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.8	En gy , Achilles , blyft noch even onbewoogen ; Ziet ons ten val gaan , en blyft zonder mededogen !	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.10	dat geen ' gramschap , zo nadeelig , zo verwoed , My oit vermeestre , noch stal grype in myn gemoed !	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.11	Wilt gy alleen tot schade en onheil uwer vrinden Beroemd zyn ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.12	wie zal troost in uwen bystand vrinden , Voor wien bewaart gy toch de kracht van uwe hand , Na gy die hebt ontzeid zelfs aan uw vaderland ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.13	En gy , gy zyt die man , die Troje moest vernielen , Die menig duizenden van vyandlyke zielen Ten afgrond zenden moest ; gy zyt die dappre Held , Die ons bewaaren zoudt , gelyk ons is gespeld Door Priester Calchas mond !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.14	ô Hemel !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.15	kan het weezen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.16	Een ongeluk , waar voor men eerst niet scheen te vreezen , Treft ons veel nader , wen 't ons overkomt , als iet , Dat een voorzigtig oog lang van te vooren ziet .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.17	Nu raast , nu knarst het volk van spyt op zyne tanden , Terwyl de Trojers hen van allen zyde aanranden .	Emotion_BodilyProcess_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.18	Zy sneuvlen , een voor een , en verwen met hun bloed Den vyandlyken grond , terwyl de moordlust woedt : En gy , daar al hun hoop wel eertyds op berustte , Dien elk in zyne ziel , als zyn verlosscher , kuste , En streelde vol van liefde en vriendschap , ziet dit aan , En laat uw ' vrienden door uw ' vyanden verslaan .	Emotion_EmotionalAction_Hope_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.19	My dunkt , ik hoor , hoe zy in 't uiterste noch kermen : Achil ...	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.20	Achilles kom , ai wil ons noch beschermen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.21	Zo sterft ' er menig niet uw naam noch in den mond .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.22	Een ander , raazende , en verbitterd door zyn ' wond , Waar van hy de oorzaak u alleenig toe durft schryven , Zweert , zo hy weer bekomt , u 't staal in 't hart te dryven .	Emotion_BodyPart_BodilyProcess_Anger_Spitefulness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1928.s.1	En zoude ik zulk een volk myn ' hulp noch bieden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.2	Ontmenschte !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.3	zo uw oog in hunnen boezem zag , Hoe tedre een ' vriendschap zoudt gy daar voor u niet vinden !	BodyPart_Love_Benevolence
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.4	Een onrechtvaarde toorn kon uw gemoed verblinden ; En gy keurt kwaad in hun , het geen gy zelve doet .	Emotion_BodyPart_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.5	De wanhoop en de spyt verheert ook hun gemoed .	Emotion_BodyPart_Despair_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.6	Uw toorn is straffens waard ; hun gramschap is rechtvaardig .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.7	Zy , u altyd getrouw , zien zich van u onwaardig Gehandeld in den nood .	Emotion_Loyalty
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.8	gy ziet de Grieksche jeugd Rampzalig sneeven , en toont u daarom verheugd .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.9	Wel aan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.10	keer noch ten stryde , en toon uw ' medgezellen , Dat hun weêrwaardigheên uwe eed'le ziel noch kwellen ; Zo zult gy zien , hoe diep gy in hun boezem staat , En hoe uw ' vriendschap hun ook noch ter harte gaat .	BodyPart_BodilyProcess_Love_Compassion_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.1	Patroclus , ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.2	ik wil 't alleen voor u belyden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.3	Myn ' hand , zo lang gerust , verlangt om weer te stryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.4	Maar 'k wil het uiterste eerst afwachten , eer 'k my weer Ten stryd vervaardige , en in 't bloedig slagveld keer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.5	'k Wil Agamemnon , en gansch Griekenland dus toonen , Dat Held Achilles zich niet straffeloos laat hoonen .	Offended_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.6	Ik wenschte uit al myn hart , dat zulks noit waar geschied , 't Is my eene oorzaak van onlydelyk verdriet .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.7	Maar wyl het is gedaan , wil my niet tegenspreeken , Moet ik me op 't allerfelst op dien aarddwingland wreeken .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.8	Dien trotsen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.9	Neen , dat vry de Trojers woeden , en Den tyd waarneemen , dat ik niet in 't strydperk ben !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.10	Zo zal de werreld zien , dat Griekenland moet vlieden , Wanneer Achilles het zyn bystand niet wil bieden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.1	Noit was een sterveling zo wreed , noch zo verhard .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.2	Eene eed'le en braave ziel heeft meêly met de smart Zelfs van zyn vyand , en gy kunt vernoeging vinden In d'onverdienden ramp van uw ' getrouwste vrinden .	Emotion_BodyPart_Compassion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.3	't Is onbegrypelyk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.4	Of heeft de vrees ook plaats Gekreegen in het hart des moedigsten soldaats ?	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.5	Vergeef 't my ; 'k zeg het niet , om u hier door te hoonen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.6	Gy wist uw ' dapperheid wel eer zo klaar te toonen , Dat niemand daar aan oit getwyffeld heeft .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.7	maar ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.8	Al uwe roem versterft op deez rampzaalgen dag .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.9	'k Weet , wat men u voorlang te Phthie dorst voorspellen , Dat gy den trotsen wal van Ilium zoudt vellen , De bloem der Troische magt doen sneuvlen door uw ' hand , Maar nimmer keeren , na die zege , in Griekenland .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.10	Zyt gy hier voor beducht ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.11	wil my ten stryde zenden , Met uwe wapenen , met uw ' Thessaalsche benden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.12	Ik zal , zo moedig als Achilles niet , maar , met Zyn slagzwaard in de hand , zyn helm op 't hoofd gezet , Veel moediger , als oit , den vyand tegen treeden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.13	De Trojer , lang verschrikt door uwe dapperheden , Zal beevend zich ter vlucht begeeven , als hy waant , Dat gy ons zelf den weg ter overwinning baant .	Fear_Emotion_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.14	Zo heeft de Griek weer tyd , om zich in staat te stellen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.1	Neen , neen , myn waarde vriend , ik lach met dat voorspellen : Want als ik Troje eens mag zien vallen door myn zwaard , Zo heb ik lang genoeg gezworven hier op aard .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.2	Maar zeg my eens , voor wien zoude ik myn leeven waagen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.3	Om Agamemnon , dien ontmenschten , te behaagen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.4	Om weer een ' schoone maagd te winnen , die hy my Dan weer ontrooven kon door zyne dwinglandy ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.5	Neen , neen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.6	Brizeïs , my op 't smaadelykste ontnomen , Weet myn strydzieken arm en eerzucht in te toomen .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.7	De Griek moet zyn gestraft .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2035.s.1	Straf Agamemnon dan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2035.s.2	Hy is de dwingeland , hy is alleen de man , Die u misdaan heeft , maar dat gy het volk doet sneeven Om zyne schuld , is iets , dat 'k u niet kan vergeeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2040.s.1	Dit is het noodlot van den droeven onderdaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2040.s.2	Zy lyden om het kwaad dat de oversten begaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2044.s.1	Staa my myn ' beê dan toe , en laat ik voor u stryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2052.s.1	Of schoon uw ' dapperheid , myn vriend , my kan verblyden , Ik kan niet toestaan , dat ge uw leeven waagen zoudt .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2052.s.2	Wanneer myn oog u , naast myn ' zyde , in 't veld aanschouwt , Ben ik gerust ; dan kan ik u myn bystand bieden , Indien gy , by geval , voor sterker magt moest vlieden .	Fear_EmotionalAction
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2060.s.1	Zo is 't besluit dan vast genomen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2060.s.2	Griekenland Wordt , door uw bittren toorn , op 't Frigiaansche strand Veroordeeld tot zyn val !	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2069.s.1	Ja dat de Grieken sterven , Eer ik , om hunnentwil , zo waarden vriend zou derven !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2069.s.2	Neen , myn Patroclus , neen : gy zyt my al te waard .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2069.s.3	't Is beter u alleen , als al het volk , gespaard .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2069.s.4	Tot zulk een prys wil ik geen Ilium verwinnen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2080.s.1	Dan staat me uw ' gunst te duur !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2080.s.3	denk eens in uw ' zinnen , Hoe gy dus zelve uw roem en eer met voeten treedt .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2080.s.4	Die heerlyke oorlogsdaên , die gy voor deezen deedt , Verdwynen allen , door deez schadelyken tooren .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2086.s.1	Laat my dien wreeden naam van eer niet meerder hooren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2086.s.2	Ik heb geene eer meer te verliezen , na dien dag , Dat 'k door den dwingland my zo fel beledigd zag .	Offended_Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2090.s.1	Hy heeft u immers weer voldoening aangeboden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2096.s.1	Hy zelve zal my tot zyn ' vriendschap komen nooden , En vallen my te voet , en smeeken om genaê , Eer 'k my beweegen laate , en weer ten stryde gaa .	EmotionalAction_BodilyProcess_Compassion_Awe_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2116.s.1	Moet myne dapperheid in 't veld voor de uwe zwichten , Gun my dat 'k in deez ' zaak u weer mooge onderrichten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2116.s.2	Rampzalig is het volk , wiens Vorst en Opperheer Zyn eigen zelfsbelang , zyn eigen wellust , meer Als 's lands welvaaren acht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2116.s.3	Gaa heen , bestorm de wallen Van 't haatlyk Ilium ; doe zyne toorens vallen ; Verf uwe kling in 't bloed van Hector ; bied de vloot Uw bystand weder aan in deezen jongsten nood : Zo hebt ge u in uw pligt voor 't Vaderland gekweeten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2116.s.4	Kunt gy dien bittren hoon daar na noch niet vergeeten , Wreek , wreek u dan op hem , niet op 't onschuldig volk , En wisch die smaad uit met den punt van uwen dolk .	Offended_Emotion_EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2116.s.5	Zo kunt ge uw Vaderland verlosschen , en met eenen Den Dwingland stervende zyn ' misdaad doen beweenen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.2121.s.1	achilles , patroclus , alcimus , automedon .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.2123.s.1	automedon	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.1	MYn Heer , vertoeft gy noch de vloot uw ' hulp te biên , Gy zult den vyand haast zelfs in uw ' schepen zien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.2	Wy zyn in 't uitersten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.3	Ik zelve kwam te aanschouwen , Hoe Ajax , die tot noch den vyand kon weerhouwen , Vermoeid en afgemat door 't stryden zonder end , Verzwakt door wond op wond , zich heeft te rug gewend , Den vyand meester van zyn ' schepen heeft gelaaten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.4	De dolle Hector , trots en moedig boven maaten Door zulk een ' voorspoed , steekt terstond met eige hand Het vuur in de eerste kiel , die lichter laagen brandt .	Emotion_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.5	Het volk , vol wanhoop , smyt de wapens uit de handen .	Emotion_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.6	Hun droefheid groeit op 't zien der schepen , die reeds branden .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.7	Uw ' troepen willen , in uw weerwil , gaan ten stryd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.8	't Is tyd , geduchte Held , dat gy de vloot bevrydt , Ten minsten dat geen , dat noch over is gebleeven : Daar , daar van hangt alleen onze uitkomst , en ons leeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2157.s.1	Het is genoeg .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2157.s.2	Laat ons gaan zien , hoe dat het staat .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2157.s.3	Indien ik zelf het vuur aanschouwen kan , ik laat U gaan , myn waarde vriend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2157.s.4	Daar wilde ik slechts naar wachten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2157.s.5	Weerhoud den vyand , die te ver komt , door uw ' krachten , En myne wapenen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2162.s.1	Ik zal hem wederstaan , Of sterven op het bed van eere .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2166.s.1	Laat ons gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.p.2168.s.1	Einde van het tweede Bedryf .	None
+huyd001achi01_01.TEI.2.text.body.div.head.2171.s.1	Derde bedryf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.2175.s.1	achilles , patroclus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2184.s.1	IK heb het Troische vuur de Grieksche vloot zien blaaken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2184.s.2	Terwyl myn ' benden zich ten stryde vaardig maaken , Moet ik u , waarde vriend , tot vordring van myn ' wraak , Recht leeren , hoe ge u zult gedraagen in deez ' zaak .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.1	Uw wil strekt my een ' wet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.2	Wie kan my beter leeren , Als gy , myn vriend , gewoon alom te triompheeren ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.3	Uwe onderwyzing geeft een kind ervaarenheid , En zal myn hart voorzien met kennis en beleid .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.4	Uw ' scherpe kling , gewoon den vyand te doen beeven , Uw ' wapens zullen my meer kracht en sterkte geeven : Daar by zal de iever voor de glorie van ons Land , En 't naar gezigt der vloot , die reeds aan een ' zy brandt , Myn moed verdubbelen .	Fear_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.5	Uw ' dappere soldaaten , Die gy zo lang den stryd in stilligheid hebt laaten Aanschouwen , thans verhit op moordlust en op wraak , Die zullen my , in deez ' gewigte en groote zaak , Oprechte blyken van hun moed en krachten geeven .	Emotion_BodilyProcess_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.6	De vyand , reeds vermoeid , doch blindelings gedreeven Door zyne voorspoed , en 't geluk , dat hem verzelt , Zal aanstonds vlieden , op 't gezigt van zulk een held , Schoon door inbeeldinge , en een valschen schyn bedroogen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.7	My dunkt , ik zie hem reeds 't veld ruimen voor myne oogen , Wanordelyk de vloot verlaaten , en met haast De poorten winnen van de Stad , die zy voor 't laatst Begeeven hebben .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.8	Zyn de troepen noch niet vaardig ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.9	Myn ' ziel haakt naar den stryd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.1	Gy zyt myn ' vriendschap waardig , O edelmoedige !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.2	als men u in 't slagveld ziet , Is 't Grieken even , of Achilles strydt , of niet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.4	uw ' dapperheid kan myne ziel ontroeren .	Emotion_BodyPart_Moved
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.5	Verlosch de bange vloot , maar laat u niet vervoeren Door hoop van grooter winst .	Fear_Emotion_Hope
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.7	dat ik u drukk ' In bei myne armen ! 'k vrees , ik vrees voor ongeluk .	Fear_Worry_Emotion_EmotionalAction_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.8	Myn hart , benaauwd , beklemd , ten uitersten verlegen , Voorspelt my niet veel goeds , schoon ik my van den zegen Verzekerd houden durve .	Fear_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.9	Uw ' jongheid , niet gewoon , Met paarden , zo gezwind , met wapenen , zo schoon , Te treeden in het veld , zal mogelyk verblind , en Te roekeloos , haar graf in haare zege vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.10	Keert , Goden , keert dien slag !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.11	of is dit uw besluit , Zo roeit met mynen vriend vry al de Grieken uit !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.12	Gy ziet , myn waarde vriend , de traanen langs myn ' wangen Neervloeien , door de rouw , die 'k myne ziel voel prangen .	Emotion_Loss_BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.13	Dit is de tweedemaal myns leevens .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.14	Toen ik my Door Agamemnon , en zyn ' trotse dwinglandy Zo bits beledigd zag , heeft my uw oog zien schreien .	Offended_Emotion_BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.15	Nu wy , helaas !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.16	misschien voor eeuwig , moeten scheien , Ziet gy zulks wederom .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.17	Dit beide was uit rouw .	Emotion_Loss_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.18	Maar als ik na den stryd u leevend weer aanschouw , Zult gy ten derdemaal myn oog zien nat van traanen .	Joy_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.19	Dan zal 't van blyschap zyn .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2275.s.1	Uw vriendelyk vermaanen Strekt myne ziele een spoor , om myne hevigheid En moed te paaren met verstand en goed beleid .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.1	Het zy u niet genoeg den vyand te overwinnen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.2	Bewaar 't gedenken aan myn ' wraak in uwe zinnen .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.3	De Grieken hebben my van doen in deezen staat .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.4	Zo gy 't geluk dan hebt , dat gy den vyand slaat , En weer te rugge dryft , zo laat u niet verleiden Door ydle zucht , om in het Troische bloed te weiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.5	'k Zend u niet derwaarts , om den juichenden Trojaan Te dryven in de Stad , of ganschlyk te verslaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.6	Kunt gy de schepen van zyn ' woede slechts bevryden , Zo kom my wederzien , en vaar niet voort met stryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.7	Niet , dat ik u benyd den roem , dien gy verdient .	Emotion_Envy
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.8	Ik min u , als my zelf .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.9	Gy moet my ook als vriend Uw bystand bieden in dit uiterste der zaaken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.10	Want zo gy 't Grieksche heir der stad kost meester maaken , Hoe zou men schimpen met myn ' gramschap , als men zag , Dat Troje , zonder my , in puin en assche lag !	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2314.s.1	Zo groot een werk , waarom wy meer als negen jaaren Gestreeden hebben , zal het lot voor u bewaaren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2314.s.2	Maar stel my zelve een perk , hoe ver dat ik mag gaan : 'k Zal u gehoorzaam zyn .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.1	Tast eerst de troepen aan , Die 't vyandlyke vuur in Ajax schip ontstaken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.2	Straks zal u Hector , die hun overste is , genaaken ; 'k Weet , dat hy u terstond zal zoeken , als hy ziet , Dat gy , ô braave , myn ' Thessaliers gebiedt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.3	Hy heeft my steeds gezocht : wy hebben dik gestreeden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.4	Moet gy dan met hem slaan , zo doe het , als uw ' leden Noch onvermoeid zyn : want ik ken zyn ' sterkte en kracht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.5	Gy zyt , om Hector te weerstaan , niet opgebragt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.6	Gy zyt Achilles niet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.7	Doch , kan het mooglyk weezen , Ontvlied zyn oog ; maar geef geen blyk , dat gy zoudt vreezen .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.8	Jaag dan den vyand door den muur , en door de gracht : Maar gaa daar zelve meê niet over .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.9	Uwe magt Heeft uitgediend , als gy hen zo ver hebt verdreeven , Dat zy zich wederom voorby de gracht begeeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.10	Dan is de vloot genoeg beveiligd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.11	Want zo gy , Verlokt door uw geluk , en door de vleiery Der weiflende fortuin , hen volgde tot de vesten Der vyandlyke stad , zo zoudt gy u ten lesten Bedroogen vinden , door uwe alte kleine magt : Wanneer het heir , dat voor u vluchtte , nieuwe kracht Zou krygen uit de stad , en u , met frissche leden , U , die vermoeid zoudt zyn , zou komen tegentreeden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.12	Denk ook , voor 't laatste , aan 't geen ik reeds gezeid heb , dat Myne eer u streng verbiedt te nadren aan de stad .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.2360.s.1	achilles , patroclus , automedon .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2367.s.1	MYn Heer , uw ' troepen staan reeds vaardig , en verlangen , Voor 't laatste uwe orde tot den stryd door my te ontvangen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.1	Op 't nadren van den tyd , voel ik myn ' vrees in 't hart Aangroeien .	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.3	myn vriend , gy ziet met welk een ' smart Ik u zie heene gaan .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.4	Gedenk aan myne reden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.5	Als gy met voordeel hebt een korten tyd gestreeden , Den vyand door den muur en over onze gracht Gedreeven hebt , zo keer , en maatig uwe magt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.6	En gy , Automedon , die , aan Patroclus zyde , Myn ' paarden mennen zult , en voeren hem ten stryde , Beteugel 't moedig paar ; gy moet alleen de vloot , En 't overschot van 't heir beschermen in dees nood .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.7	'k Verbied u , schoon hy vlucht , den vyand naar te jaagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.9	dat myne oogen u reeds weer verwinnaar zagen , Van welk een ' bittre zorg waar myne ziel bevryd !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.10	Gun dat ik u voor 't laatste omhelzen mag ! 't wordt tyd .	EmotionalAction_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.11	Vaar wel , vaar wel , myn vriend !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.12	myn harte schynt te breeken Van droefheid .	Emotion_BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.13	Hemel keer , ai keer dit droevig teken !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.14	Vaar wel , myn halsvriend !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.15	maak , dat gy myn dank verdient .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.16	Vaar wel , Automedon !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.17	draag zorg voor mynen vriend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2407.s.1	Gy staat my eindlyk toe voor 't Vaderland te stryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2407.s.2	Ik vrees de dood niet van een ' Troische hand te lyden : Maar wil het noodlot zulks , 'k beveel u myne wraak ; En strekt zulks 't land tot heil , zo sterf ik met vermaak .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2407.s.3	Vaar wel !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.1	WAt zegt hy ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.3	hoe snyden deeze woorden My door het hart !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.4	helaas !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.5	wilt gy u laaten moorden , Uw leeven offeren , op dat door uwen val De Griek zich meester maak ' van Trojes hoogen wal !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.6	Patroclus !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.7	ach myn vriend !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.8	mogt uw Achilles kiezen ; Hy wil de zege niet , zo hy u moet verliezen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.10	een doodsche schrik bekruipt myn angstig hart .	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.11	Zoude ik weer gaan ten stryde , ô doodelyke smart !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.12	Na Hectors woende hand myn halsvriend hadt doorsteeken !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.13	Zoude ik my waap'nen , om Patroclus dood te wreeken !	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.14	Neen ; uwe dood , myn vriend , sleept , tot ons aller straf , Achilles te gelyk met u in 't naare graf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.16	laat uw bystand hem beteuglen in zyn woeden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.17	Maar kan ik zelf niet noch dat ongeluk verhoeden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.18	Ja .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.19	'k Zal hem volgen ; doch van verre , op dat myn ' hand Hem bystand biede , indien de nood hem overmant .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.2439.s.1	achilles , brizeïs , cephize .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2445.s.1	WAt zien myne oogen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2445.s.3	is 't mooglyk ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2445.s.5	Is 't waarheid ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2445.s.6	of een spook ten afgrond uitgereezen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2445.s.7	Zyt gy het zelve ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.2447.s.1	brizeïs	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2449.s.1	Ik ben 't , en val voor u te voet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.1	Rys op , Mevrouw .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.2	Maar zeg , hoe komt gy hier ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.3	wat doet , Wat zoekt gy ? 'k staa verbaasd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.4	Wie heeft u aangedreeven My hier te zoeken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.5	wie heeft u dien last gegeeven ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.6	Heeft Agamemnon u deez ' vryheid toegestaan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.7	Wil hy my tegens dank bevredigen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2471.s.1	Welaan , Wy zyn hier nu alleen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2471.s.2	laat ons vrymoedig spreeken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2471.s.3	De wyze Ulysses kon uw steenig hart niet breeken , Noch Ajax uwen trots vermurwen .	Emotion_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2471.s.4	'k Weet , ik waag Zeer veel , dat ik kom zien , of ik u noch behaag , Als eertyds .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2481.s.1	Hoe , Mevrouw ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2481.s.2	kunt gy my zelf zulks vraagen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2481.s.3	Dit is 't alleen , dat my in u niet kan behaagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2481.s.4	Hebt gy noch geen bewys genoeg van myne min ?	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2481.s.5	Om u blyf ik steeds onveranderlyk van zin : En om den bitsen hoon , u aangedaan , te wreeken , Laat ik myn zwaard met ruste , en in de schede steeken .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2489.s.1	Gy mint my alte zeer ; of , zo ik 't zeggen mag , Gy mint my recht verkeerd .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2507.s.1	Sint u myn oog eerst zag , Toen ik , gezonden door de Grieken , om de wallen Van uw Lyrnessus met myn ' troepen te overvallen , De Stad vermeesterde , heb ik van uw gezigt Het leevendige beeld in myne ziel gesticht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2507.s.2	De dwingland dorst u my weer met geweld ontrooven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2507.s.3	Straks heb ik alle zorg van mynen hals geschooven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2507.s.4	Ik gaa niet meer ten stryde , ik laat den vyand woên ; Hoe zeer hy bidt , dat ik my weer met hem verzoen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.1	Moet ik dit aanzien als bewyzen uwer trouwe ; Ik moet bekennen , van wat zyde ik die beschouwe , 'k Begryp uw ' meening niet .	Emotion_Loyalty
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.2	Wanneer ik van u ging , En zelfs van u den last , om meê te gaan , ontving , Stortte ik een ganschen stroom van traanen uit myne oogen .	BodyPart_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.3	Ik zag uw fier gemoed wel door de spyt bewoogen , Die Agamemnon u dorst aandoen , trots van zin ; Maar 'k zag in al uw doen geen ' tekenen van min .	Emotion_BodyPart_BodilyProcess_Love_Pride_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.4	Gy liet my heene gaan , en kwaamt my zelf niet zeggen Het laatst vaarwel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.5	Hoe kon , hoe moest ik dit uitleggen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.6	In plaats van my zelfs te vertroosten in dien staat , Sloegt gy , ter naauwer nood , in 't heen gaan , uw gelaat Op myn ontsteld gezigt .	Worry_BodyPart_BodilyProcess_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.8	kost gy uit myne oogen Niet zien , hoe zeer ik door uw ' droefheid wierd bewoogen !	Emotion_BodyPart_Compassion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.9	Hoe myne ziel verlangde , om met een kus voor 't laatst Myn afscheid noch van u te neemen !	Emotion_EmotionalAction_BodyPart_Love_Desire
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.10	gansch verbaasd , En tot de dood ontsteld , ben ik van u gescheiden .	Emotion_Unhappiness_Wonder
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.11	Hoe ging myn treurig oog in zyne traanen weiden , Zo ras ik eenzaam was ; en vryheid had , myn ' rouw Den teugel zonder maat te vieren !	Emotion_Loss_BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.1	Ach Mevrouw !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.2	Herroep dien droeven tyd niet weer in uw ' gedachten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.3	De vrouwen uiten zich met woorden en met klagten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.4	Myn ' tong was niet bekwaam tot spreeken .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.5	neen , myn hart Was al te zeer beklemd door zulk een hoon en smart .	Offended_Emotion_BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.6	Had ik u niet bemind , ik had u zelf gegeeven , En Agamemnon hadt niets tegen my misdreeven .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.1	En ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.2	zo gy my noch , gelyk gy zegt , bemint , Hoe kan het mooglyk zyn , dat ge u niets onderwindt , Om my weer in uw ' magt te krygen , als voor deezen .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.4	zie het zelve .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.5	Is dit geen ' reden om te vreezen Voor een ' verliefde ziel ?	Fear_Emotion_BodyPart_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.6	Noch doet gy meêr : en schoon My Agamemnon zelve u weer heeft aangeboôn ; Het eenigst , dagt ik , daar myn Held naar zal verlangen , Wilt gy me in tegendeel niet weer van hem ontvangen .	Emotion_Desire
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.7	Hy voegt de heerlykste geschenken daar noch by : Doch niets kan uw gemoed veranderen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.8	Daar gy , Om my van uwe liefde op 't zekerst te overtuigen , Geschenken geeven moest , om zyn gemoed te buigen , Om my daar door weer te verkrygen in uw ' magt , Zie ik my zelf van u op 't smaadelykst veracht .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2591.s.1	Maar , 'k bid , hoe komt gy hier ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2591.s.2	Zyt ge uit u zelf de banden En slaaverny ontvlucht van 't hoofd der dwingelanden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2591.s.3	Zondt hy u herwaarts , tot verzoening van myn haat ?	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2591.s.4	Of is het op bevel en orde van den Raad ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.1	Toen Ajax weer kwam met Ulysses , en ons zeide , Hoe gy van hun verwoed en meer vertoorend scheidde , Als oit , zat elk bedrukt .	HeavyHeartedness_Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.2	De dwingland zuchtte zelf , Sloeg beevende zyn oog naar 't Hemelsche gewelf , En riep de Goôn om hulp , daar hy zyn ' schuld bekende .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.3	De droefheid en de rouw was algemeen .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.4	In 't ende Sprak dus Laërtes zoon , op listen steeds bedacht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.5	Wy zien , ô Helden , ons in 't uiterste gebragt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.6	Dat fiere hart is door geen ' reden te overwinnen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.7	Men moet iets anders , zo men vordren wil , beginnen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.8	Men zend ' Brizeïs zelve aan hem .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.9	Haar schoon gezigt , Waar voor hy eertyds , in den stryd zelfs , heeft gezwicht , Heeft mooglyk op zyn hart de zelfde kracht behouden , Schoon zy elkandere in veel dagen niet aanschouwden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.10	Als hy haar weder in zyn ' tent heeft , zal misschien Zyn toorn verminderen , en wy hem weder zien Ten strydgaan , daar wy hem in al dien tyd niet zagen .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.11	't Is toch met ons gedaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.12	Wy moeten alles waagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.13	Elk keurt zyn zeggen goed .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.14	men haalt my in den Raet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.15	Men toont me in 't korte den beklaagelyken staat Van 't Grieksche leger ; en , om my meer te beweegen , Men stelt my voor het oog , hoe Hector , die zyn zegen Vast voortzette , en verwoed reeds naderde aan uw ' vloot , U zelf , myn waarde Held , ook dreigde met de dood .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.16	Op die verbeelding wierdt myn ' ziel met u bewoogen .	Emotion_BodyPart_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.17	My dacht , ik zag u reeds neerstorten voor myne oogen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.18	Ik weigerde nochtans weer naar u toe te gaan , Zo lang ik uwen wil niet zelve had verstaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.19	Ik vreesde mynen Heer en waarden te verstooren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.20	Tot dat Ulysses zich dus ook voor my liet hooren : Mevrouw , wilt gy uw Held noch eenmaal wederzien , Gy hebt deez dag maar tyd ; want morgen gaat hy vliên .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.21	Hy maakt zich reeds gereed , om weer in zee te steeken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.22	Dit kost alleen 't ontzag , dat ik u toedraag , breeken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.23	'k Besloot terstond te gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.24	ik wou myn lief veel eer Noch ééns verstooren , dan dat ik hem nimmer weêr Aanschouwen zou .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.25	Wil my de waarheid toch ontdekken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.26	Is 't waar myn Heer ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.27	denkt gy op morgen te vertrekken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.29	zo het waar is , laat ik meê gaan , op dat my Geen meerder smaad geschied , door 's dwinglands tieranny .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2683.s.1	Ulysses heeft , Mevrouw , u niet geheel bedroogen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2683.s.2	Ik heb 't gezeid : maar door den brand der vloot bewoogen , En ziende het gevaar te na , om langer stil Te zitten , heb ik , wyl ik zelf niet stryden wil , Patroclus met myn volk en wapenen gezonden , Om 't haatlyk vuur , dat reeds twee schepen hadt verslonden , En Hectors raazerny met moed te wederstaan .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2683.s.3	Nu weet gy zelf , Mevrouw , dat 'k niet in zee zal gaan , Zo lang myn Vriend niet weer is uit het veld gekomen , En ik zyn ' dood , of zyn ' verwinning heb vernomen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.1	Zo is uw volk , voor 't eerst , dan weer gegaan ten stryd !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.3	welk een ' vreugd , myn Heer !	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.4	hoe is myn ' ziel verblyd !	Joy_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.5	Ik vreesde alreeds , dat ik , als Helena in Trojen , Het zaad van tweedragt zoude in 't Grieksche leger strooijen , Den droeven ondergang bewerken van den geen , Wiens byzyn 'k vlieden moest , doch om wiens afzyn 'k ween .	Fear_Emotion_EmotionalAction_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.6	Der Grieken droeve staat heeft u in 't eind bewoogen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.7	Zo voel ik alle zorg uit myn gemoed vervloogen : Zo zal men my hier na niet wyten , dat door my De Griek gebragt is onder Trojes heerschappy .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.8	Want dit is 't noodlot van de onzaligste aller vrouwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.9	'k Vrees de overwinning van myn Vaderland te aanschouwen , Ik vrees de nederlaag van hem , die met geweld Myn land verwoest , myn Man en Broedren heeft geveld .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.10	Dit droef herdenken parst de traanen uit myne oogen .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.12	indien uw ' deugd myn ' ziel niet hadt bewoogen , Hoe zoet waar 't my geweest , te zien , dat myn gezigt Zo fel een vuur van haat hadt in uw hart gesticht !	Emotion_Hatred_BodyPart_BodilyProcess_Moved
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.13	'k Moest my verheugen , dat 'k de vriendschap had verbroken Der Grieksche Hoofden , dat 'k myn ' vrienden had gewroken , De schim verzoend had van myn Broederen en Man .	Joy_Emotion_EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.15	in tegendeel die zelfde Achilles kan Myn ' ziel , door zyne deugd , in zyne min doen blaaken .	Emotion_BodyPart_BodilyProcess_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.16	Helaas myn Heer !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.17	gy ziet de traanen langs myn ' kaaken Neervloeijen .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.18	belg u niet ; 'k beken u , tot myn ' smart , Dat ik u haaten wil , doch minnen moet in 't hart .	Emotion_Hatred_Love_Sadness_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2718.s.1	Gy wilt my haaten !	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2725.s.2	en had ik geene reden , Zo ik myn ' pligten niet te buiten waar getreeden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2725.s.3	En gy bemint my noch ?	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2729.s.1	Zo zeer als oit , Mevrouw .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.1	Draag zorg dan , dat ik noit dien dwingland weer aanschouw .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.2	Ik ben , op zynen last , hier weer by u gekomen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.3	Hy heeft my met geweld eerst uit uw arm genomen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.4	Nu zendt hy my weerom . 't zy gy dan blyft , of gaat , Stel my niet meer ten doel voor zynen wrok en haat .	Emotion_Hatred_Spitefulness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.5	Laat ik hier blyven ; wyl de Grieken my aanschouwen , Als de oorzaak van hun ramp .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.6	Laat u uw toorn berouwen , En gaa zelf weer ten stryde , op dat ik , tot myn ' rouw , Ook 't overblyfsel van myn Land niet weer aanschouw .	Emotion_Anger_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.7	Hoe zoude een ieder van my spreeken , als zy zagen , Hoe Held Achilles deugd Brizeïs kon behaagen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.8	Want , schoon de schaamte my de tong tot noch toe bondt , Gy , gy zyt de eenigste , in het gansche werrelds rond , Daar ik , in mynen ramp , vernoeging by kan vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.9	'k Zie my alom gevloekt van vyanden en vrinden : Doch zo lang , als gy my niet wederom verlaat , Troost ik my noch in deez beklaagelyken staat .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2763.s.1	Uw afzyn heeft myn ' ziel meer , dan de schaê , doen lyden , Die Grieken heeft geleên , zo lang ik niet wou stryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2763.s.3	Mevrouw , ik doe myne achtbaarheid te kort , Indien gy zelve my niet weergegeeven wordt Door Agamemnons hand .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.1	Spaar , spaar uw ' traanen .	BodyPart_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.2	'k Zal met myn ' vloot door zee geen weg naar Phthie baanen , Of gy zult met my gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.3	dat zweer ik by de Goôn .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.4	Stel u gerust , myn Lief .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.5	maar om van deezen hoon My op den dwingeland te wreeken , is 't van nooden , Dat gy , een korten tyd , noch hoort naar myn ' geboden .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.6	Gy spreekt naar uw liefde : ik oordeel naar het geen Myne eer my afvergt , na zo veel weerwaardigheên .	Honor_Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.7	Ik moet noch eengen tyd uw vriendlyk byzyn derven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.8	Want zo Achilles geen ' voldoening kan verwerven , Is hy Brizeïs gansch onwaardig .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.9	Keer , ai keer , Al valt het scheiden hard , dan naar den dwingland weer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.10	Ik pynig my niet min , als u : maar 'k heb gezwooren , Niet eer naar uwe liefde , en zyn ' gebeên , te hooren , Voor hy zich zelf voor my vernedere , en die spyt Dus wissche uit myne ziel , daar zy zo veel om lydt .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.1	Is dit die tedre min , waar meê gy my wilt vleien !	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.2	Wy zyn by één .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.3	gy dwingt my zelve om weer te scheien .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.5	is u myn gezigt zo haatelyk !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.6	wel aan , Doorstoot myn borst : wat hoeft ge u langer te beraên ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.7	Of vreest dat zwaard , het geen myn ' Broederen deedt sneeven , Het geen myn Bedgenoot beroofd heeft van het leeven , Zich in het einde ook te bezoed'len met myn bloed ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.8	Te sterven van uw ' hand is myne ziel zo zoet , Ja zoeter , als , nu wy by één zyn , weer te scheiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2821.s.1	Hebt ge oit gezien , zelfs daar myn ' hand in 't bloed ging weiden , Dat ik my schuldig maakte aan 't moorden van een ' vrouw ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2821.s.2	En zoude ik u , die ik zo teder , zo getrouw Bemin , ontmenschte ! 't staal in uwen boezem drukken ?	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2821.s.3	Eer stort de Hemel op myn hoofd alle ongelukken , Die oit een sterveling gevoeld heeft en beweend , Eer gy Achilles hart zo wreed ziet , zo versteend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2832.s.1	Hoe kan uw ' wreedheid voor elks oogen klaarer blyken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2832.s.2	Omdat Mycenes Vorst u dorst verongelyken , Brengt gy uw Vaderland in d ' allergrootsten nood , En dreigt het gansche heir met eene wisse dood .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2832.s.3	My , die zo teder u bemin , in myne zinnen , En die gy zelve veinst zo trouw weêrom te minnen , Ontzegt ge u byzyn , en toont , met een fier gelaat , Dat myne droefheid u niet meer ter harte gaat .	Emotion_BodyPart_Love_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2842.s.1	Uw ' liefde raakt my .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2842.s.2	maar ze strek my tot geen hinder , Dat ik , om haarent wil , myn roem en eer verminder .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2842.s.3	Gaa dan , Mevrouw : 'k verzoek 't , als minnaar ; en gebied 't , Als voogd van myn ' gevange .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2854.s.1	Onlydelyk verdriet !	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2854.s.2	Wyl gy het zo begeert , mag ik niet tegenstreeven : Maar , zo gy zorg hebt voor myn welzyn en myn leeven , Verlosch myn ' bange ziel uit deeze slaaverny , Kost ge in myn hart zien , wat ik om uw afzyn ly , Ontmenschte ...	Fear_Emotion_Loss_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2854.s.3	Maar ik gaa , wyl 'k moet gehoorzaam weezen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2861.s.1	't Staat noch aan my niet , om uw ' droefheid te geneezen .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2861.s.2	'k Moet zelve afwachten , wat de dwingeland zal doen , Om myn ' beledigde eer en glorie te vergoên .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2865.s.1	Vaar wel , myn Lief !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2865.s.3	hoe bitter valt dit scheiden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2869.s.1	Vaar wel , Mevrouw ! 'k zal u in veiligheid geleiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.p.2871.s.1	Einde van het derde Bedryf .	None
+huyd001achi01_01.TEI.2.text.body.div.head.2874.s.1	Vierde bedryf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.1	IK heb u wederom doen keeren , Hoe zeer 't u smartte , ô schoone vrouw !	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.2	Uw vriendelyk gezigt te ontbeeren , Strekt myne ziele een ' groote rouw .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.3	Ik zag , wanneer wy moesten scheien , Uw ' minlyke oogen bitter schreien .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.4	Ik hield myn ' smart in , en ontveinsde myn verdriet .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.5	Met droefheid heb ik u den dwingland weer gegeeven : Doch ik kan zonder u wel leeven ; Maar zonder eer leeft Held Achilles niet .	Honor_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.6	Patroclus , waardste myner vrinden , Heb ik 't geluk , u na den stryd Verwinnaar wederom te vinden , Hoe zal myn ' ziel dan zyn verblyd !	Joy_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.8	ik vrees , gy zult de krachten Van Hector mogelyk verachten .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.9	Betrouw u niet te veel , als gy dien wreeden ziet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.10	Doch kan my uwe dood myne eere wedergeeven , Ik kan ook zonder u wel leeven ; Maar zonder eer leeft Held Achilles niet .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.11	Brizeïs , wat moet gy niet lyden , Nu 't schynt , dat ik u weer verstoot !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.13	ik laat u stryden , Terwyl ik zelf blyf buiten nood .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.14	My dunkt , ik hoor u beide klaagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.15	De een gaat om my zyn leeven waagen ; Daar de andre zich om my van elk verstooten ziet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.16	Doch kan uw ' droefheid my myne eere wedergeeven .	Honor_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.17	Zo kan ik zonder u wel leeven ; Maar zonder eer leeft Held Achilles niet .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.18	Gy , Goden , die my woudt voorspellen , Dat myne hand en dapperheid Den muur van Ilium zou vellen , Heeft uwe godspraak my misleid ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.19	In plaats , dat elk my eer zou toonen , Zie 'k my van Agamemnon hoonen ; Terwyl hem ieder volgde , en myne zy verliet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.20	Dat hy my dan voldoe , of dat zy allen sneeven , Want ik kan zonder hun wel leeven ; Maar zonder eer leeft Held Achilles niet .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.21	Maar neen ; ik zal den uitslag wachten Van deezen allerlaatsten stryd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.23	dat de vloot zich door uw ' krachten , Patroclus , weder zag bevryd !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.24	Maar moet gy voor den Trojer vluchten , En laat my Agamemnon zuchten , Zo keer ik naar myn land , en laat hem in 't verdriet .	Fear_Emotion_EmotionalAction_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.25	Dat dan de Grieken op den Troischen oever sneeven , Want ik kan zonder hun wel leeven ; Maar zonder eer leeft Held Achilles niet .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.stage.2942.s.1	achilles , phenix .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2949.s.1	HOe gaat het ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2949.s.2	heeft myn vriend van zynen moed reeds blyken Gegeeven ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2949.s.3	hebt gy reeds den vyand af zien wyken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2949.s.4	Verklaart de zege zich voor ons ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2949.s.5	en is de vloot Door deezen bystand al beveiligd uit den nood ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.1	'k Zal u verhaalen , 't geen 'k gezien heb met myne oogen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.2	Uw moedig volk , al lang met onzen ramp bewoogen , En haakend naar den stryd , ziet uwen halsvriend aan , En wacht zyne orde alleen om verder voort te gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.3	Patroclus toeft niet lang , maar ziende aan alle zyden , Waar 't noodigst was , het eerst den vyand te bestryden , Vliegt naar de schepen straks van Ajax , en van Held Protezilaüs , half verslonden door 't geweld Der vyandlyke vlam .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.4	Ik zag uw ' braave benden , Op zynen last , met vreugd zich aanstonds derwaarts wenden .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.5	De vyand ziet uw vriend , en denkt , dat gy het zyt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.6	Hy kent uw ' krachten noch , schoon hy in langen tyd Die niet beproefd heeft .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.7	Eerst zo moedig en verbolgen , Zie 'k hem straks vluchten voor uw ' troepen , die hem volgen .	Fear_EmotionalAction
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.8	Gelyk een watervloed , al wat hem stuit of keert , Door 't breeken van een dyk , ter neersmyt , overheert , En dikwils met zich sleept : zo zien wy uwe troepen De Trojers dryven , die vast om genade roepen , 't Geweer weg werpen , en met haast zich naar de stad Begeeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.9	Hadt gy zelf het zwaard weer opgevat , Om d'overwinnaar dus op 't vinnigste te treffen , Hoe zou gansch Griekenland uw naam en roem verheffen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2993.s.1	Neen Phenix , Griekenland is zelf wel overtuigd , Dat , zo de Troische magt voor myn Patroclus buigt , Myn arm , indien hy weer den vyand wil weerstreeven , Den muur van Ilium den laatsten krak kan geeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2993.s.2	Maar hoe is 't met de vloot ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2993.s.3	heeft zy veel schaê geleên ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3001.s.1	Wanneer uw braave vriend den vyand voor zich heen Zag stuiven door het veld , heeft hy straks zorg gedraagen , De vlam te blusschen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3001.s.2	toen al de anderen dit zagen , Hoe zeer hun moed ook was verdweenen met hun magt , Voegde elk zich by uw volk , en kreeg weer nieuwe kracht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3008.s.1	Maar hebt gy niet gezien , of Hector , onder 't stryden , Myn vriend heeft aangedaan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.1	Zo ras aan alle zyden De schrik het Troische heir weer naar de stad deedt zien , Zag ik dien grooten Held , zo wel als de and'ren , vliên .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.2	'k Zag , hoe zyn ' paarden , die in 't runnen veele helden Verpletterden , met schrik naar 't beevend Troje snelden ; En dacht , is 't mooglyk , dat zo moedig een soldaat , In een zo grooten nood , zo ras het veld verlaat !	Fear_Emotion_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.3	'k Verheugde me evenwel : want daar die held gaat vlieden , Wie van het Troische heir zal ons dan weerstand bieden ?	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.4	Veele andren nochtans , reeds tot aan den muur gevlucht , Den schrik van al hun volk aanschouwende , en beducht Voor grooter nederlaag , staan pal , om tyd te winnen , Op d'oever van de gracht .	Fear_Worry_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.5	Hier , dacht ik , hier beginnen De Trojers wederom te krygen nieuwen moed .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.6	De gracht , reeds half gevuld met lyken en met bloed , Wordt met het vlakke veld vereffend , door de menigt ' Van Helden , na hun dood in deeze plaats vereenigd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.7	Geen Griek , die , in dien staat , geen ' wonderen bedryft , Die zynen lof in 't zand met 's vyands bloed niet schryft .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3046.s.2	dien ik zien kan , dat myn roem noch gaat ter harte !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3046.s.3	Ik dank u voor deez ' gunst .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3046.s.4	maar denkt om myne smarte , En 't geen ik heb geleên door een ' zo bitse smaad .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3046.s.5	Geeft , dat myn lieve vriend verwinnaar keer !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3046.s.6	maar laat Hy niet geheel en al den vyand te onderbrengen , Zo gy 't herstellen van myne eer oit wilt gehengen .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.1	'k Heb de eer gehad , dat gy , van uwen eersten tyd , Door my bezorgd , bewaard , en onderweezen zyt ; Zelfs toen ge uw Vaderland , nu negen jaar geleden , Verliet , om , voor den wal van Troje , uw ' dapperheden Ter proef te stellen , heeft uw Vader my geboôn , Altyd een waakend oog te houden op zyn Zoon .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.2	Heb ik my in myn pligt niet wel genoeg gekweeten ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.3	Heb ik oit de eerbied , die 'k u schuldig was , vergeeten ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.4	Of kost ge u oit met recht beklaagen van myn raad ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.5	Hoor dan noch eens naar my in deez benaauwden staat .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.6	't Is waar , de Trojers , die u niet in 't veld verwachtten , Begaven zich ter vlucht , toen ze u te aanschouwen dachten ; Toen uw ' Thessaliers in 't veld verscheenen , met Een ' woede , daar geen heir , hoe sterk , zich tegen zet .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.8	hoe schielyk kan die oorlogs kans verdraaijen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.9	Wy zien op eenen dag verscheiden ' winden waaijen , Maar sneller als de wind verkeert het los geluk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.10	Na eene korte vreugd volgt dikwils zwaare druk .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.11	Groot is de braafheid van den trouwsten uwer vrinden : Maar niet zo groot , dat hy geen ' sterker hand kan vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.12	't Zyn al geen Parissen , die hy in 't veld ontmoet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.13	Indien Sarpedon dan , of Hector , heet op bloed ; Indien Anchizes zoon , of andren van hun Helden , Zich tegen uwen vriend met al hun magt eens stelden ; Hy is , ofschoon hy zy voorzien met uw geweer , Niet onverwinnelyk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.14	bedenk dit wel , myn Heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.15	Heeft dan een Trojer het geluk van hem te treffen , Hoe ras zal zich de moed weer in hun hart verheffen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.16	Hoe schielyk zou uw volk , indien hy 't onheil hadt Te sneuvlen , zyn gezigt weer wenden van de stad !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.17	Gy hebt te veel gewaagd met hem in 't veld te zenden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.18	Wordt hy verwonnen , ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.19	hoe zie ik uwe benden Verschrikt en hoopeloos weer vluchten naar de vloot , En storten ons al t ' zaam in een ' gewisse dood !	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.20	Van éénen Held alleen hangt ons geluk en leeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.21	Als ik dit overdenk , hoe voel 'k myn ' leden beeven !	Fear_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.22	't Is niet , omdat ik vrees of zorg heb voor de dood , Maar omdat gy ons stort in een zo grooten nood .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.23	Gy , gy Achilles , die de trotse en hooge wallen Van 't magtig Ilium moest door uw ' hand doen vallen ; Gy , van wiens dapperheid en onverwinlyk staal Het Grieksche leger zich een ' blyde zegepraal Beloofde .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.24	Gaa dan noch .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.25	gy hebt den Goôn gezwooren , Te keeren in het veld , te maatigen uw tooren , Zo ras gy 't Grieksche vuur zoudt zien in onze vloot .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.26	Zulks hebt gy reeds gezien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.28	in deezen nood Zendt gy alleen uw vriend , om voor het land te stryden , En blyft zelf rusten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.30	kan dit uw ' grootsheid lyden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.31	Zo nu Patroclus uw ' vermaaningen vergeet , Of zo een ' Troische hand dien Held ter aarde smeet , Met welk een ' magt zoudt gy den vyand weerstand bieden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.32	Gy zoudt uw ' troepen zelfs , verbaasd , verschrikt , zien vlieden ; De vyand nadren aan uw ' schepen ; en uw ' hand Geen ' vrienden vinden , om hem eengen tegenstand Te bieden in dien nood .	Fear_Emotion_Wonder
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.33	Ach laat u toch beweegen !	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.34	Verlosch uw vriend , en trek voor 't laatst den vyand tegen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3139.s.1	Zo had ik vruchteloos zo langen tyd gewacht Met stryden . 'k had vergeefsch ons heir in nood gebragt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3139.s.2	'k Wil dat de dwingeland my zelf zal komen smeeken Om bystand , eer ik weer myn moedig hart wil breeken , Of stryden nevens hem .	EmotionalAction_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3143.s.1	'k Zie Alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3148.s.1	achilles , phenix , alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3154.s.1	WAt hebt Ge ons nieuws te brengen , dat gy u zo schielyk rept ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3154.s.2	Spreek op .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3154.s.3	hoe vaart myn vriend ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3154.s.4	hoe vaaren myne benden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3161.s.1	't Geliefde uw waarden vriend , my naar u toe te zenden , Zo ras zyn ' braave vuist Sarpedon , d'eedlen Held , Ter neer geslaagen , en manmoedig hadt geveld .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.1	Gy sterft , ô braave ziel , gelyk men u zag leeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.2	Noit wenschte ik anders , als voor 't Vaderland , te sneeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.3	Zulks is my ook voorspeld .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.5	in deezen staat Wordt my zulks weer ontzeid door Agamemnons haat .	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.6	Sarpedon , ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.7	hadt ge oit gedacht , dat , na uw lyden , Achilles u deez ' dood noch zelve zou benyden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.8	Gy sneuvelt door de hand van mynen waardsten vriend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.9	Deeze eer heeft uwe deugd al langen tyd verdiend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.11	moet ik ook de dood voor Trojes wallen sterven , Laat ik die van de hand van Priams zoon verwerven , Van dappren Hector , die myn ' krachten evenaart .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.12	Geen ander is deeze eer , van my te treffen , waard .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.13	Van eene onwaarde hand den laatsten steek te ontvangen , Is iets , dat myne ziel noch na myn ' dood zou prangen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.14	Maar hoe is 't toegegaan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.15	verhaal my zyne dood .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.1	Patroclus , ziende dat de vyand onze vloot Op zyne komst verliet , vervolgt de vluchtelingen Tot aan de gracht , daar zy terstond weer orde ontvingen , Ons in te wachten , en met moed te wederstaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.2	Uw ' troepen , heet op wraak , vervoerd door gramschap , gaan Den vyand moedig na .	Emotion_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.3	Hier zien wy hunne Helden , Die tegen ons op nieuw zich in slagorde stelden , De grootste wondren doen , die immer zyn gezien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.4	Sarpedon , die zyn volk weer naar de stad zag vliên , Weerstaat alleen de magt van uw ' wraakzieke benden ; Tot dat zyn ' troepen zich weer tegen de onze wenden , Op 't hooren van zyn ' stem .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.5	hy springt met frisschen moed Van zynen wagen af , tot de enkels toe in 't bloed , En spreekt Patroclus aan : Achilles , 'k zie , uw tooren Is eindelyk verzoend ; aldus liet hy zich hooren , Niet anders denkende , of gy zelve waart bedekt Met uwe wap'nen , wier gezigt elk schrik verwekt ; Staa stil , verwin my , zo gy verder uwen zegen Vervolgen wilt .	Fear_Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.6	Uw vriend springt aanstonds onverlegen Meê van den zynen af , en biedt , met een geweld , Als of gy 't zelve waart geweest , dien grooten Held Den punt van zyn geweer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.7	Men hoort het krygsvolk schreeuwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.8	Elk ziet naar dit gevecht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.9	Geen ' hongerige leeuwen Staan oit zo onbevreesd , al strydenze om den buit .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.10	Na 't vellen van de speer , haalt elk zyn slagzwaard uit .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.11	Hun moed verdubbelt op het zien van 's anders oogen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.12	't Volk staat om beider moed verrukt en opgetoogen .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.13	Doch eindelyk uw vriend treft zynen weerparty Met een zo wissen slag , dat hy aan zyne zy Neerstort , gansch leevenloos .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.14	Zy , die dees stryd aanschouwden , Die , na dit onheil , zelfs hun kracht niet meer betrouwden , Begeeven zich ter vlucht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.15	Patroclus , met het bloed Van deezen Held bevlekt , klimt aanstonds weer vol moed Op zynen wagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.16	Maar helaas ! 'k zie ondertusschen Een , die zyn wraakvier , op uw Halsvriend , niet kan blusschen , Zyn ' paarden , dol van toorn , bestryden , en hy kwetst Het eene in zynen buik .	Emotion_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.17	Automedon , op 't lest Hen niet meer magtig met den teugel te bestieren , Ziet zich genoodzaakt , hun den vollen toom te vieren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.18	Zy vliegen door de gracht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.19	uw ' troepen volgen hem , Gemoedigd door zyn vaart , en , hoorende zyn ' stem , Die zy door 't krygsgeluid niet konden onderscheiden , Geloofden , dat hy hen tot aan de stad wou leiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3253.s.1	Zo is myn ' voorzorg dan geheel onnut geweest !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3253.s.2	Hoe maakt my deeze maar op nieuw voor u bevreesd , Patroclus , waardste vriend !	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3253.s.3	de Goden u behoeden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3265.s.1	Geen nood , myn Heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3265.s.2	ik zag den vyand voor het woeden Van uw ' Thessaliers straks vluchten , en ontsteld Ter stad invliegen , om het schrikkelyk geweld Van uwen vriend te ontgaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3265.s.3	Ja zelfs , zo my myne oogen , Die zulks van verre alleen gezien heb , niet bedroogen , Loopt Troje groot gevaar , en ziet zyn hoogen wal Door uwen vriend gedreigd met een gewissen val .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3272.s.1	Dat wil het noodlot en het Godendom verhoeden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3272.s.3	wat zal my dan myne oneer weer vergoeden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3272.s.4	Zou Troje zonder my zich overwonnen zien !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3272.s.5	Neen , Alcimus , ô neen : dat ziet gy noit geschiên .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.1	Is 't noch geen tyd , myn Heer , Patroclus by te springen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.2	Door zyne paarden , die geen ' hand meer kan bedwingen , Vervoerd en weg gerukt , en ver van onze vloot , Sleept hy ons allen met zich zelf in deezen nood .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.3	Zo lang hy niet bestondt , die trotse stad te naderen , Bedekte hy zyn ' kruin met groene lauwer bladeren : Maar nu hy uw verzoek en lessen dus veracht , Vervalt hy uit zich zelve in 's vyands woede en magt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.4	Blyft hy in 't slagveld ; hoe zult gy zyn ' dood beklaagen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.5	Verwint hy Ilium ; hoe zal u dat mishaagen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.6	Bezorg uwe eer dan , of het leeven van dien Held .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.7	Zelfs , schoon hy leevende het vyandlyk geweld Thans weêr ontkomen kan , doch evenwel moet vluchten ; Ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.8	zoudt ge om onzen val en nederlaag niet zuchten ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.9	Gy zoudt den Frigiaan , als van den morgen , weer De vloot zien blakeren , ons moedig krygsvolk neer Zien houwen , gansch verwoed , en , doch te laat , aanschouwen , Hoe weinig 's menschen hulp op aarde is te betrouwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.10	De Goden , langsaam in hun straffen , toonen klaar Door duizend tek'nen , in wat schrikkelyk gevaar Ge ons en u zelven stort : maar willen zy zich wreeken , 't Is vrucht'loos , dat men weer hun gramschap zoek ' te breeken .	Emotion_EmotionalAction_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.11	Neem deez ' vermaaningen dan eindlyk wel in acht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.12	Zo gy uw pligt , tot heil van 't vaderland , betracht , Uw ' gramschap weer verzoent , en voor den Griek wilt stryden , 'k Verzeker u , uw ' hand alleen kan ons bevryden .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3313.s.1	achilles , phenix , alcimus , automedon .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3317.s.1	DE Hemel hoede ons !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3317.s.2	hoe ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3317.s.3	gy hier Automedon ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3333.s.1	Wy zien den nood op nieuw verdubbelen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3333.s.2	Ik kon Uw ' paarden , zwaar gekwetst , niet langer wederhouwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3333.s.3	De vluchtelingen , die ons in wanorde aanschouwen , Staan weder pal : terwyl Vorst Priams dappre zoon , Dien elk dacht , dat terstond de stad was ingevloôn , Met nieuwen moed weerkeerde , en riep tot zyn ' soldaaten , Dat hy hen niet , uit vrees , lafhartig hadt verlaaten , Maar door zyn ' paarden weg gevoerd was , toen de hand Van uwen vriend de vloot verloschte van den brand .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3338.s.2	leeft myn vriend niet meer ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.1	Toen ik hem heb begeeven , Verdryf uw zorg , myn Heer , heb ik hem noch zien leeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.2	Den wagen stuitende op een hoogen steen , viel hy In 't bloedig slagveld neer , en plofte aan myne zy .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.3	Wy springen over end , en staan den vyand tegen , Zo veel ons mooglyk is .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.5	ik zie den zegen Straks onze zyde weer verlaaten , en zo ras De braave Hector weer ten stryd gekomen was , Den vyand , hoe vermoeid , met nieuwe krachten stryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.6	Zo kan één ' dappre hand een ' gansche stad bevryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.7	Hy raast , hy woedt , hy schreeuwt , en denkende dat gy Uw ' troepen zelve weer ten stryde voert , heeft hy Uw naam steeds in den mond ; wil tegen u zyn ' krachten Noch eens beproeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.8	geen van de uwe durft hem wachten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.9	Uw braave vriend alleen blyft onverzetlyk staan , Wil Hector , door zyn ' hand , in 't oog der stad verslaan , Of sterven door de zyne .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.10	Ik zag de braafste Helden , Die uwen vriend getrouw in deezen nood verzelden , Op dit gezigte ontroerd .	Emotion_Moved
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.11	Vorst Menelaüs , dien Ik , voor alle anderen , bekommerd heb gezien Voor 't leeven van dien Held , heeft my naar u gezonden , Om u den slechten staat van 't leger te verkonden .	Worry_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.12	Denk , welk een vriend gy zult verliezen , deezen dag .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.14	dat uw oog de rouw van al de Helden zag !	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.15	Hy zelve alleen staat pal , en , schoon hy 't medelyden , Van ieder op zich haalt , wil Priams zoon bestryden , Dien zo gevreesden Held doen vallen door zyn zwaard , Of blyven op de plaats .	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.16	Is hy u dan zo waard , Is hy de trouwste altyd geweest van uwe vrinden , Laat hy dan in uw ' hand dees laatsten bystand vinden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.17	Hy niet alleenig , maar wy allen zyn in nood .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.18	Denk om u zelf , myn Heer ; denk om de bange vloot , En 't droevig Vaderland !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3390.s.1	O Goôn !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3390.s.2	die uit den hoogen , Al wat wy doen , beschouwt , hebt gy my ook bedroogen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3390.s.5	vergeetge dus myn raad !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3390.s.6	Wat lydt myn ' bange ziel een ' pyn in deezen staat !	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.head.3393.s.1	Vyfde tooneel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3395.s.1	achilles , ulysses , phenix , alcimus , automedon .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3399.s.1	WAt brengt Ulysses ons ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3404.s.1	De droevigste aller maaren , Helaas !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3409.s.1	Wat bange schrik komt myne ziel bezwaaren !	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3409.s.2	Hoe gaat het met myn vriend ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3413.s.2	die leeft niet meer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3417.s.1	Patroclus leeft niet meer !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3422.s.1	Zie hier de vrucht , myn Heer , Van uwen haat , en onverzoenelyken tooren .	Emotion_Hatred_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3433.s.1	Laat ons geen ' zuchten hooren , Maar gord uw ' wapens aan , om , in dees laatsten nood , Ons alle , is 't mooglyk , te verlosschen van de dood !	BodilyProcess_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3437.s.1	Vervloekte Dwingeland !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3437.s.2	gy zult zyn ' dood betaalen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3442.s.2	wil ons in het kort den droeven staat verhaalen Van 't Grieksche leger .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.1	Held Patroclus , langen tyd Zyn vyand wederstaande in deezen laatsten stryd , Wierdt eindlyk door de hand van Hector zo getroffen , Dat ik hem leevenloos in 't zand zag nederploffen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.2	Het aardryk schudde door den val van zulk een Held .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.3	Geen Eikeboom , in 't eind door slag op slag geveld , Veroorzaakt zulk een schrik , in 't hart van die 't aanschouwen , Op 't nadren van zyn val .	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.4	De Grieken , wier vertrouwen Alleen op hem berustte , en op zyn ' dappre hand , Zien alle hoop met hem neerstorten in het zand .	Emotion_Trust
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.5	De Zoon van Priam , weêr gemoedigd door dien zegen , Verheft zyn ' stem , en roept zyn ' benden , die verlegen Het bloedig slagveld reeds verlieten , weer by een .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.6	Eerst dreef de vrees hen weg ; nu dryft ze ons weder heen .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.7	Maar Hector vondt zig zeer in zyne vreugd bedroogen , Toen hy 't gemarteld lyk ontwapende , en , zyne oogen Aanschouwende , met smart en droefheid merkte , dat Hy Peleus grooten Zoon niet overwonnen hadt .	Joy_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.8	Men kon de spyt en toorn uit bei zyne oogen leezen .	Emotion_BodyPart_Anger_Annoyance
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.9	Hy werpt nochtans , om dus uw volk meer te doen vreezen , Zyne eigen ' wapens weg ; neemt de uwe , en vliegt door't veld , Gelyk een raazende , die , wat zich tegenstelt , Ter neer werpt en verwoest .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.10	Niets kan hem wederhouwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.11	Gy zult hem binnen kort weer by de vloot aanschouwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.12	Uw ' troepen zyn verstroit .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.13	Gelukkig is de man , Roept elk , die door de vlucht zyn ' woede ontkomen kan .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.2	moest gy my tot zo veel ongeluk bewaaren !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.3	Neen ; 'k wil in deezen staat my zelf niet langer spaaren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.4	Myn ' dapperheid gehoond door Agamemnons haat !	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.5	Myn Vaderland in nood tot wraak van deeze smaad !	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.6	Myn halsvriend leevenloos !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.7	myn ' wapenen , ô Goden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.8	Ten dienst van Hector , tot bescherming van dien snooden , Den wreeden moorder van het waardste dat ik had .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.10	had ik 't geweer noch zelf maar opgevat ; Was ik gesneuveld door het woeden van die handen , Ik zag my leevend niet vol oneere en vol schanden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3498.s.1	De Vorsten smeeken u , dat gy in deezen staat Hen wederom , myn Heer , voor 't laatste niet verlaat !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.1	Ik zal ten stryd gaan ; ja .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.2	Niet op 't verzoek der Helden , Die zo ondankbaar my en myne deugd vergelden : Niet op de bede van den snoodsten dwingeland .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.4	Uw ' dood , myn vriend , uw ' dood zal myne hand Weer wapenen ten stryde .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.5	ik zal uw onheil wreeken , Uw moorder straffen , of hy zelf zal my doorsteeken .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.6	Maar , zo ik winnaar keer , beef , Agamemnon , beef !	Fear_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.7	Gy , gy zult de eerste zyn , dien ik den doodsteek geef , Als Hector legt geveld .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.8	Komt , gaanwe , myne vrinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.9	't Wordt tyd , dat ik dien wreede in 't eind doe ondervinden , Dat , schoon Patroclus legt verslaagen door zyn ' magt , Achilles evenwel met zyn vermogen lacht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.p.3518.s.1	Einde van het vierde Bedryf .	None
+huyd001achi01_01.TEI.2.text.body.div.head.3521.s.1	Vyfde bedryf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3525.s.1	brizeïs , cephize .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.1	WAar dwaalen wy ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.2	Ik zie geen ' menschen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.3	Zyn zy allen , Die zo lang rustten , op den vyand uitgevallen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.4	'k Zie geen ' beweeging ; ik hoor niet het minst geluid .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.5	Barst nu , 'k ben eens alleen , myn ' traanen , barst nu uit .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.6	'k Geef u een vryen loop .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.7	In welke zwaarigheden Stort zich een stervling niet , die eens het spoor der reden Verlaat , en , door de drift vervoerd van zynen zin , Te bits in 't haaten , of te teêr is in zyn ' min !	Emotion_Hatred_BodilyProcess_Love_Other
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.8	Achilles gramschap kost zyn waardsten vriend het leeven .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.9	Nu wordt hy weder door een nieuwen toorn gedreeven ; Wil alles onderstaan , tot koeling van zyn moed , Eerst in Held Hectors , dan in Agamemnons bloed .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.10	Strydt hy dan voor den Griek , of voor de Frigiaanen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.12	myn ' liefde geeft my grooter stof tot traanen .	Emotion_BodyPart_Love_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.13	Toen ik myn Vaderland zag vallen , groote Goôn !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.14	Waarom moest gy my toen bewaaren ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.15	welk een hoon Heb ik in 't Grieksche heir , na dien tyd , niet geleden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.16	Maar 't was eerst een begin van myn ' rampzaligheden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.17	Die hand , die mynen Heer , myn waarden Bedgenoot , Die myne vrienden , die myn ' Broederen ter dood Gebragt heeft , kus ik zelve , ô schande !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.18	en staa verlegen , Dat zy myn ' vyanden weerhoudt in hunnen zegen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.19	Was 't , al op één tyd te verliezen , niet genoeg Voor een ' rampzaalge vrouw !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.20	Maar neen , Brizeïs droeg Haar noodlot met geduld , en dacht , door vroome klagten , En een ' sneeuwitte deugd , die rampen te verzachten .	Aquiescence_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.21	Maar , ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.22	die deugd lydt zelve ook schipbreuk in het end .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.23	'k Aanbid den oorsprong van myn ' droefheid en elend ; 'k Smeek hem , met traanen in 't gezigt , dat hy zich wapen ' , Om 't overschot myns lands met zyne legerknaapen Te vallen op het lyf , en gansch te roeijen uit ; En 'k zucht , om dat hy 't oor voor myn ' gebeden sluit : Ja noem hem zelve wreed , wyl hy my durft ontzeggen , De stad , op myn verzoek , in puin en asch te leggen .	Emotion_EmotionalAction_BodyPart_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.3580.s.1	cephize	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3585.s.1	De vroomsten zien zich 't meest door 't los geval bestreên Gy zyt geene oorzaak van uw ' wederwaardigheên .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3596.s.1	Zo noch Achilles my bemint , gelyk voor deezen , 't Is waar , 'k heb reden om myn ' droefheid te geneezen .	Emotion_Love_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3596.s.2	Maar hebt gy niet gezien , noch zelfs van deezen dag , Met welk een trots , met wat verachting hy my zag ?	Emotion_Disgust
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3596.s.3	Hoe streng hy my geboodt zyn byzyn weer te ontvluchten ; En hebt gy hem , zelfs op dat woord , wel eens zien zuchten ?	Emotion_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3596.s.4	Dit smart my 't meest van al , dat 'k my moet zien versmaad Van hem , om wien ik zelf myne eer en pligt verraad .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3609.s.1	't Was echter , om aan u zyn ' trouwe min te toonen , Toen Agamemnon hem bestondt zo fel te hoonen , Dat hy den stryd verliet , en rustte nacht en dag , Hoe groot de nood ook was , daar hy ons alle in zag .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3609.s.2	Hy klaagde , dat hy uw gezigt zo lang moest derven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3621.s.1	Hy klaagde , dat hy geen ' voldoening kon verwerven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3621.s.2	Brizeïs niet te zien , was hem een ' kleine smart ; Maar zo lang zonder wraak te blyven , trof zyn hart .	Emotion_BodyPart_Sadness_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3621.s.4	hoe wordt myn ' ziel thans tusschen hoop en vreezen Gedreeven !	Fear_Emotion_Hope
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3621.s.5	Weet gy niet , wat de oorzaak toch mag weezen , Dat Agamemnon my belast heeft , aanstonds weêr Te keeren naar de tent van mynen Held ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3634.s.1	Wanneer Achilles 't sterflot van zyn halsvriend hadt vernomen , Is hy , vervoerd van toorn , terstond in 't veld gekomen , Om weer ten stryd te gaan .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3634.s.2	Ik weet alleen , dat hy Den Veldheer is ontmoet in deeze raazery , En hem gesprooken heeft in 't aanzien van de Helden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3634.s.3	Het overige zal ons Phenix mooglyk melden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3634.s.4	Ik zie hem naderen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3640.s.2	hadt Achilles steeds De lessen van dien man gevolgd , van wat al leeds Hadt hy zich zelf bevryd ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3646.s.1	brizeïs , phenix , cephize	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.1	ACh !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.2	troost my in myn lyden , Getrouwe Phenix !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.3	mag ik me op uw ' komst verblyden ?	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.4	Waar is Achilles ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.5	waar de Veldheer ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.6	Om wat reên Zondt Agamemnon my terstond weer herwaarts heen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3666.s.1	Droog uwe traanen af , Mevrouw ; houd op van schreien Het einde nadert van uw ' rampen . 'k durf my vleien , Dat , zo Achilles het geluk heeft , dat zyn ' hand .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3666.s.2	Het vreesselyke staal in Hectors boezem plant , Hy , die ons zynen wrok zo bitter deedt beweenen , Zich in het kort weer met den Veldheer zal vereenen .	Emotion_EmotionalAction_Sadness_Spitefulness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3682.s.1	't Is waar , Achilles hand is dapper : maar de kracht Van braaven Hector wordt niet veiliglyk veracht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3682.s.2	Als dit de grond is , daar 'k myn ' blyschap op moet bouwen ; 'k Beken , dat 'k op die hoop my weinig durf betrouwen .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3682.s.3	De Zoon van Priam , met de wapens van myn Held , In 't midden van zyn volk , en meester van het veld , Strydt met te groot een moed voor Trojes hooge wallen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3682.s.4	En schoon hem 't los geluk al tegen wilde vallen , Hoe kan Achilles hand hem toch beletten , dat Hy zyne woede ontwyke , en vlucht ' tot in de stad ?	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3682.s.5	Maar heeft Achilles met den Veldheer reeds gesproken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.1	Toen Hectors woênde hand Patroclus hadt doorstoken , Begaf ons heir zich straks ter vlucht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.2	de Frigiaan Dorst op een nieuw zyn klaauw aan onze schepen slaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.3	Hy was reeds bezig , met de vlam daar in te steeken , Wanneer Achilles kwam , om zynen vriend te wreeken .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.4	De Vorsten waren reeds vergaderd by de vloot ; En pleegden t'zaamen raad , wat hun in deezen nood Te doen stondt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.5	Nestors en Held Tydeus braave zoonen Staan midden in den kring , schoon zwaar gekwetst , en toonen , Zelfs door hun voorbeeld noch , hoe elk zyn Vaderland Behoort ten dienst te staan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.6	De Veldheer , met zyn ' hand In eenen sluyer , zoekt , terwijl hy niet kan stryden , Door goeden raad , de vloot en 't leger te bevryden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.7	In deezen staat treedt hem Achilles te gemoet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.8	Zyne oogen schitteren van gramschap ; gansch verwoed Toen hy den Veldheer zag , en hem begon te naderen .	Emotion_BodyPart_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.9	Het wraakvuur deedt hem 't bloed meer kooken in zyne aderen .	Emotion_BodyPart_BodilyProcess_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.10	Hy vliegt straks naar hem toe , en , slaande zyne hand Aan 't zwaard , barst hy dus uit : O pest van 't Vaderland !	BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.11	Boet , boet uw lust nu in Achilles heldentraanen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.12	Verheug u in 't geluk der snoode Frigiaanen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.13	Maar gy zult u niet lang verblyden in myn ' smart .	Joy_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.14	Verweer u , of ik dryf u 't staal door 't snoode hart .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.15	De schim van mynen vriend rust eer niet , voor myn ' handen In 't bloed van Hector , en in 't uwe , zyne schanden Weer hebben afgewischt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3739.s.2	wat gaat my aan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3739.s.3	Weerhield hem niemand dan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3739.s.4	Heeft hy het stuk begaan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.1	Vrees niet , Mevrouw .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.2	De wyze Ulysses , en de Helden , Een afschrik hebbende van zulk een ' wreedheid , stelden Zich voor den Veldheer , die , tot zyn geluk , gewond , Niet magtig was , dat hy dien vyand wederstondt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.3	Ulysses vat het woord , zoekt voor hem te beweeren , Hoe hy zyn grooten naam en deugden zoude onteeren , Zo hy hem aantastte , en dorst kwetsen , die zyn ' hand Gebragt hadt buiten staat , door 't stryden voor zyn land .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.4	Toont hem in 't korte ook , hoe de Veldheer zy genegen , Zich weder met hem te verzoenen ; hoe de zegen Der Trojers zyne hulp vereischte voor de vloot .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.5	Vorst Agamemnon zelf , bewoogen door den nood Van 't bange Vaderland , treedt hem stoutmoedig nader , En spreekt hem minlyk aan : Gy scheldt my voor verraader , Achilles ; my , die al gedaan heb , wat ik kon , Op hoop , dat ik in 't einde uw ' trotsheid eens verwon .	Emotion_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.6	Ik deed myn pligt ; maar noch zal ik u klaarer blyken Doen zien , hoe min ik dacht , u te verongelyken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.7	Zo spreekt hy , en beveelt met eenen , dat me u aan Zou zeggen , aanstonds naar Achilles tent te gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.8	Straks vliegt Achilles voort , en laat zich , onder 't scheiden , Dus hooren : Groote Goôn !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.9	wilt myne hand geleiden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.10	Gunt my 't geluk , dat ik , wanhoopende en verwoed , Myn wraakvuur blusschen moge in Hectors heldenbloed !	Emotion_Despair_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.11	Of , vaart hy voort , zyn oog op Agamemnon slaande , Is 't sterflot van dien Held voor my noch niet aanstaande , En kan hy myne woede ontvluchten in dien nood , Uw bloed zal mynen vriend verzoenen , na zyn ' dood .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.12	Gy zult het offer zyn , dat ik voor hem zal slachten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.13	Zo spreekt hy ; en begeeft zich , moedig op zyn ' krachten , Straks , met het overschot van zyne benden , naar Het heetste van den stryd , het grootste van 't gevaar .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.14	k Verwacht den Veldheer hier , die , knarssende op zyn ' tanden , Noch roemt , tot heil van 't land , zo groot een ' smaad en schanden Te lyden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.15	echter doet hy beter , als uw Held , Die 's lands welvaaren min , als eige glorie , telt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.2	myn vriend ; men zal den eersten mensch noch vinden , Die zich door geene drift noch hartstocht laat verblinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.3	Hoe schoon , hoe heerlyk zoude Achilles heldendeugd Niet blinken door 't heelal ; indien hy van zyn ' jeugd Wat minder hadt betrouwd op zyn ' gevreesde krachten !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.4	Nu wil hy , dat hem elk , als zynen Heer , zal achten , Om dat de Godspraak hem voorspeld heeft , dat zyn ' hand Het moedig Troje zal doen vallen in het zand .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.6	gy weet myn ' liefde , en kend zyn aard en zeden .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.7	Mag ik staat maaken op zyn ' gunste en tederheden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.8	Bemint Achilles my ?	EmotionalAction_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.9	Heb ik wel 't minste deel In zynen toorn gehad ?	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3826.s.1	O ja , Mevrouw ; zeer veel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3826.s.2	Ik heb hem dikwils , om uw afzyn , hooren klaagen .	EmotionalAction_Loss
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3826.s.3	Gy kunt , geloof me , gy kunt hem alleen behaagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3831.s.1	Dit stelt my weer gerust .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3831.s.2	Ik vreesde in deezen staat , Dat zyne liefde ook was geweeken voor zyn haat .	Fear_Emotion_Hatred_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3835.s.1	Ik zie den Veldheer van het Grieksche leger komen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3845.s.2	die den trotsen aard der menschen kunt betoomen , En dwingen naar uw zin !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3845.s.3	behaagt u myn gebed , Bevredigt het gemoed van Held Achilles met Den Koning van Mycene , op dat ik zelve mede Myn ' blyschap eindlyk zie herbloeien door hun vrede !	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3853.s.1	agamemnon , met zyn ' rechte hand in eenen sluyer , brizeïs , ulysses , phenix , cephize .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.3855.s.1	agamemnon	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.1	MEvrouw , het lot moet zich verklaaren in het end .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.2	Wy sneuvlen deezen dag in de algemeene elend , Of zien den traagen val van Trojes muuren naderen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.3	Achilles , dien het bloed aan 't kooken raakte in de aderen , Op 't hooren van de dood van zynen waardsten vrind , Recht thans een bloedbad aan , terwyl hy , gansch verblind Door wanhoop , en door rouw verwoed , en uitgelaaten , Door 't veld vliegt .	Emotion_BodyPart_BodilyProcess_Sadness_Despair_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.4	Duizend van de dapperste soldaaten Zyn niet bekwaam , hem te weerhouden in zyn vaart .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.5	Zo 't gunstig noodlot thans dien grooten Held niet spaart , Zo mogen we ons , bedekt met oneere en met schanden , Begeeven met de vloot naar afgelegen ' stranden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.6	'k Beken het ongelyk , dat ik hem heb gedaan ; En mooglyk weet ge , dat , toen hy ten stryd zou gaan , Hy my ontmoette ; met wat dolheid , met wat tooren , Hy my zyn fellen haat , en zucht tot wraak deedt hooren ; Hoe hy my zelve , hadt Ulysses 't niet belet , Zyn bloedig zwaard alreeds hadt op de borst gezet .	Emotion_Hatred_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.7	'k Weet , ik heb niet veel goeds van zyne komst te wachten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.8	'k Zal echter poogen , om zyn ' gramschap te verzachten , Hier blyven , tot ik hem zie keeren uit het veld , En niet meêr vreezen voor zyn ' woede , noch geweld .	Fear_Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.9	Den ramp , dien 't Grieksche volk nu zo lang heeft geleden , Heb ik voortkomen zien uit onze oneenigheden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.10	Dees twist heeft hem en my reeds duur genoeg gestaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.11	't Wordt tyd , dat elk van ons zich eenmaal zie voldaan , Dat we ons bevredigen , en 't Grieksche leger toonen , Hoe zeer wy wenschen , hen in 't einde te verschoonen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.13	wat kan ik doen , 't geen ik niet heb bezocht ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.14	Wat heeft dien wreeden tot bedaaren oit gebrogt ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.15	Dien toomeloozen , die , door ydele gedachten Vervoerd , waant , dat hem elk , gelyk een God , moet achten : Schoon ik van 't algemeen , naar billykheid en eisch , Als Hoofd van 't Grieksche heir benoemd ben op deez ' reis .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.16	Doch 't gaa , zo 't wil !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.17	ik zal myn ' vyandschap vergeeten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.18	En , Goden , heb ik my in mynen pligt gekweeten ; Zo is myn ' ziel gerust , en zal , zelfs na haar ' dood , Vertroosting vinden in uw ' goedheid , daar geen nood , Geen ' wraakzucht van een mensch my immer zal doen beeven .	Fear_Emotion_BodilyProcess_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.19	'k Voel reeds dien bittren haat uit myn gemoed verdreeven .	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.20	'k Voel een ' voorspelling van een heerlyker geluk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.21	Dat dan Achilles 't zwaard in Hectors boezem drukk ' , Op dat de vyanden zich eens voor ons verneêren , En Grieken in het eind ....	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3927.s.1	'k Zie Alcimus , myn ' Heeren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3927.s.2	't Schynt uit zyn iever , of een ' zaak van groot gewigt Hem aanperst .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3927.s.3	'k Lees de vreugd uit zyn vernoegd gezigt .	Joy_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3932.s.1	agamemnon , ulysses , brizeïs , phenix , cephize , alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3939.s.1	NOit zaagt gy d'ondergang zo na van Trojes wallen , Myn Heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3939.s.2	De Hemel geef dat zy in 't korte vallen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3945.s.1	Wat tyding brengt gy ons ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3945.s.2	spreek , Alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3945.s.3	wel aan : Verhaal my in het kort , hoe alles is gegaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.1	Gy zaagt hoe Peleus zoon , verwoed door wraak en tooren , Den vyand viel op 't lyf .	Emotion_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.2	Zo ras de Trojers hooren , Dat hy weer in het veld gekeerd is , en hem zien , Zag ik hen gansch verbaasd naar hunne vesten vliên .	Emotion_Wonder
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.3	De schrik was algemeen .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.4	hoe Hector schreeuwde en raasde , 't Was alles vruchteloos .	EmotionalAction_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.5	zyn ' stem kon die verbaasde Niet wederhouden , noch doen stilstaan in hun vlucht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.6	De Grieken heffen een gejuich aan , dat de lucht Weergalmt aan allen kant , waardoor de vyand meerder Verslaagen wordt .	Joy_EmotionalAction_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.7	't Was nu geen stryd meer ; 't was veel eerder Een schrikkelyke moord .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.8	Geen twintig Grieken zyn Gekwetst , daar duizenden van Trojers , door de pyn , En 't missen van hun bloed , verzwakt , het veld beverven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.9	Die 't niet ontvluchten kan , mag geen ' genaê verwerven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.10	Achilles midd'lerwyl zoekt Hector .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.11	Deeze Held , Die niet gewoon was , zonder wederstand , het veld Te ruimen , wykt ; maar zo , dat hy , zelfs onder 't wyken , Veel , die hem naderen , doet storten op de lyken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.12	Maar hadt hy minder moed , en meerder vrees , gehad , Licht was hy met zyn volk gekomen in de stad .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.13	De Koning Priam zelve , op 't hoogste van zyn ' wallen Gestegen , ziet zyn volk , d'een na den and'ren , vallen ; Laat straks , om meerder schade en onheil te verhoên , De poort ontsluiten , om den vluchteling het woên Des Griekschen legerknaaps , is 't mogelyk , te onttrekken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.14	De dappre Hector , die zyn roem niet wil bevlekken , Komt vluchtende achter aan , en strydt noch , daar hy vlucht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.15	Achilles volgt hem na , en doet de ruime lucht Weergalmen op zyn naam : doch weet het zo te maaken , Dat Hector eindlyk niet weêr by zyn volk kan raaken , Noch nadren aan de poort ; snydt hem den toegang af , En wapent zynen arm tot een ' gestrenge straf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.16	't Verbaasde volk , dat reeds 't geweer hadt weg gesmeeten , Hadt ook 't gevaar van dien beminden Held vergeeten , En , durvende zyn oog niet wenden achter uit , Laat hem Achilles woede en raazerny ten buit .	Emotion_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.17	Hy roept vergeefsch om hulp , ontsluit te laat zyne oogen , En ziet zyn ' reukloosheid .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.18	De Grieken , noch bewoogen Door 't droevig noodlot van Patroclus , vallen aan , Om alle te gelyk zyn moorder te verslaan .	Emotion_Moved_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.19	Maar neen : Achilles deugd kan dit geweld niet lyden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.20	Zyn ' wraak wil , dat hy zelve alleen met hem zal stryden ; Verbiedt zyn ' troepen hem te naderen , en treedt Naar zynen vyand toe , den oorsprong van zyn leed .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.21	't Zien van zyn ' wapenen , daar Hector mede pronkte , 't Herdenken aan de dood van zynen vriend , ontvonkte Zyn ' gramschap meer en meer .	Emotion_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.22	in 't eind barst hy dus uit : Gy hebt u lang genoeg gesierd met deezen buit , Ontmenschte moorder van den waardsten myner vrinden !	BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.23	Gy zult in myne hand een ' strenge wreekster vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.24	Of de uwe zal my zelve op deeze plaats verslaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.25	Zo spreekt hy , en valt straks op zynen vyand aan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.26	Maar Hector , gansch verschrikt , en ziende zich begeeven Van allen bystand , laat zyn oog noch eenmaal zweeven Naar Trojes hoogen wal , of hy in deezen nood Noch eenige uitkomst zag , tot uitstel van zyn ' dood .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.27	Maar vruchtloos .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.28	Hy verweert zich eindlyk ; doch zyn ' krachten Verflaauwen langs hoe meer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.29	In 't eind barst hy in klagten En droeve zuchten uit , terwyl Achilles hand Hem wond op wond geeft , en doet storten in het zand .	EmotionalAction_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.30	Hy bidt hem stervende , dat hy zyn koud gebeente , Tot troost zyns vaders , en der droevige gemeente , Wil zenden naar de stad .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.31	Achilles ziet hem aan ; En spreekt : Ontmenschte !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.32	eerst moet myn wraakvuur zyn voldaan .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.33	Gy hebt Patroclus ook mishandeld , na zyn sterven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.34	Gy zult , zelfs na uw ' dood , van my geen ' gunst verwerven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.35	Zo spreekt hy , en dryft hem het staal dwars door het hart , En Hector eindigt , met zyn leeven , zyne smart .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4051.s.1	Laat nu Achilles wraak voldaan zyn , groote Goden !	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4051.s.2	Laat hy myn ' vriendschap , die ik hem heb aangeboden , Aanvaarden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4051.s.3	en dat hy in 't eind bemerke , hoe De twist der Grooten 't volk strekt tot een geesselroe !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.1	Achilles , niet voldaan , dat hy hem van het leeven Beroofd hadt , roept zyn volk by een , die , aangedreeven Door wraakzucht , op het lyk noch woeden in dien staat , Daar hy het zelve geeft ten prooie aan hunnen haat .	Emotion_Hatred_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.2	In 't einde ontwapent hy 't , en bindt het met zyn ' voeten Aan zynen wagen vast , om dus den Vorst te ontmoeten , Die , met Andromaché , de Huisvrouw van dien Held , Dit schouwspel aanzag van de muuren , en 't geweld Van Peleus zoon vervloekte , en Hemel , Zee en Aarde Tot wraak riep over een ' zo wreede en zo ontaarde Onmenschlykheid .	Emotion_EmotionalAction_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.3	Ik zag Andromaché , verwoed , Haar ' kleed'ren scheuren , en alreeds met d'eenen voet Op Trojes muur , om dus van boven neer te springen , En Hectors moorder 't staal in 't wreede hart te wringen , Of op het lyk haars mans te sterven .	EmotionalAction_Despair_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.4	Het geween Weergalmde van den wal , langs veld en oever heen ; Terwyl Achilles 't lyk , gebonden aan zyn wagen , Door bloed en etter sleept .	BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.5	Alle oogen , die dit zagen , Betuigen , ik beken 't , een afkeer van zyn doen .	Emotion_Disgust
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.6	Hy stoort zich nergens aan , en vaart steeds voort in 't woen .	EmotionalAction_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.stage.4081.s.1	Hier wordt een geluid van veld muziek gehoord .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4087.s.1	Hy nadert reeds .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4087.s.2	Ik kan het juichen onderscheiden Der troepen .	Joy_EmotionalAction
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4093.s.1	Laat ons hier dien grooten Held verbeiden , En toonen hem , in plaats van afgunst en van nyd , Hoe we alle , om zynen roem en glorie , zyn verblyd .	Joy_Emotion_Envy
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4097.s.1	Hy komt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4097.s.2	Het heldenvuur straalt hem nog uit zyne oogen .	BodyPart_BodilyProcess_Other
+huyd001achi01_01.TEI.2.text.body.div.div.stage.4102.s.1	achilles , agamemnon , ulysses , brizeïs , phenix , alcimus , automedon , cephize .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.4104.s.1	agamemnnon	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4112.s.1	ZYt welkom , braave Held !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4112.s.2	dank zy uw groot vermogen , Dat Grieken zich op nieuw in staat ziet , Trojes wal En poort te nadren , als voor heen , door Hectors val !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4116.s.1	Vind ik u hier , myn Heer ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4116.s.2	en u , Mevrouw ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.1	In 't ende Is myne ziel geraakt door de algemeene elende Van onze troepen ; en ik zie dat Griekenland Zyn heil te wachten hebbe alleen van uwe hand .	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.2	Gekwetst , en magtloos , om my zelven te verweeren , Zag 'k my van u gedreigd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.3	Nu ik u weêr zie keeren , Vertoon ik my voor u , en stel my zelven bloot Voor uw ' wraakgierigheid .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.4	Wat toeft gy nog ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.5	doorstoot Dit vyandlyke hart ; beroof my van het leeven , Indien myn val uw ' wraak voldoening weet te geeven .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.6	Maar denk , dat zulk een ' woede , een ' gramschap , zo ontzind , Om hoog een wreeker , in den Raad der Goden , vindt .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.1	Geveinsde !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.2	die , om 't oog der werreld te misleiden , Uw ' valsche goedheid zoekt door 't leger te verspreiden , Uw ' vredelievendheid ten hoogsten top ophaalt , En my , als een Tieran , voor ieders oogen maalt !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.3	Was uw gemoed zo vroom , noit hadt gy durven denken , 't Ontzag , dat elk aan my verschuldigd is , te krenken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.4	Gy zyt het Hoofd van 't heir ; maar uwe heerschappy Strekt zich zo ver niet uit , dat die ook over my Gebieden zou .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.5	Neen ; 'k ben gekomen voor deez ' wallen , Om hen door myne hand ter neder te doen vallen : Niet , om te luisteren naar Agamemnon ; niet , Om uit te voeren , 't geene een ander my gebiedt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.6	Neen : geen Mycener schryft Achilles zyn ' geboden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.7	Ik stryd voor 't land ; en doe alleen het geen de Goden Van my begeeren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4165.s.1	Ik beken , 'k heb u gehoond .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4165.s.2	Maar , heb ik myn berouw niet lang genoeg getoond : En heeft het vaderland nog niet genoeg geleden Om onze vyandschap , en bittre oneenigheden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4165.s.3	Wat heb ik in het eind te wachten ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4165.s.4	spreek myn Heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4165.s.5	Gy zelve ziet ; ik heb u reeds Brizeïs weêr Ter hand gesteld ; terwyl de giften ....	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4171.s.1	't Zyn geen ' giften , Of gaaven ; neen myn Heer , die myn gemoed en driften Bevredigen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.4174.s.1	agamemnon , zeer hevig	BodilyProcess_Other
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4178.s.1	Wat wil Achilles dan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4178.s.2	of is 't , Na zo veel rampen , tot voldoening van dien twist , Noch niet genoeg , dat Agamemnon u komt smeeken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.1	Is myn ' getrouwheid u , ô Helden , oit gebleeken , En vond ge oit voordeel by myn ' redenen en raad , Hoort my noch eens , en denkt niet meêr om uwen haat : En , schoon Ulysses tot geen Priester zy verkooren , Versmaad de waarheid niet uit zynen mond te hooren .	Emotion_Hatred_Loyalty
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.2	Elk kent , ô Peleus zoon , uw ' krachten in het veld .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.3	Ook heeft de wyze mond van Calchas u voorspeld , Dat uwe dapperheid den Troischen wal zou slechten : En gy , gy hebt voor ons niet eerder willen vechten , Voor Priams braafste Zoon Patroclus hadt geveld .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.4	De dood van deezen vriend , dien weergaêloozen Held , Kon uw gemoed alleen bewegen ; toen wy zagen , Hoe vaak de onnozelen de straffe moeten draagen Van 't geen een ander doet .	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.5	Patroclus dappre hand Zoude ook aan uwe zy noch stryden voor het land , Indien de aanbieding van den Veldheer u hadt konnen Vermurwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.6	maar wat hy , wat wy al t'zaam begonnen , 't Was alles vruchteloos .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.7	Het noodlot , en de Goôn , Die gy getergd hebt , door 't onthouden van dien hoon , Bewaarden u , op dat gy Troje zoudt verwinnen ; Maar straften u in hem , dien gy met harte en zinnen Beminde .	BodyPart_BodilyProcess_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.8	't Godendom wist , dat zyn ' dood alleen U , na zo dol een toorn , weer brengen zou tot reên .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.9	De Veldheer heeft gedaan ( zo spreek ik zelf , zo spreeken De troepen nevens my ) om uwen toorn te breeken , Al wat hem mooglyk was ; en , heeft hy u gehoond , Hy heeft u zyn berouw ook klaar genoeg getoond .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.10	Maar toen geen mensch uw trots en fierheid kon verzachten , Heeft u het Godendom in 't eind door sterker krachten Gedwongen .	Emotion_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.11	Uwe ziel , geraakt door 't ongeluk Van uwen waardsten vriend , verloschte ons uit den druk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.12	De Trojers die ons zelfs belegerden , zyn weder Gedreeven in de stad .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.13	de dappre Hector , neder Geslaagen door uw arm , vervulde door zyn val Het hart van Priam zelve , en Trojes veegen wal Met eenen doodschen schrik .	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.14	Wilt gy u nu bevredigen Met Agamemnon , die wel eer u dorst beledigen ; Wilt gy , aan zyne zy , weer stryden in het veld , Wy zien die trotse stad wel haast in ons geweld .	Offended_EmotionalAction
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.15	Wel aan , myn Heer , toon , dat uw ' ziel naar recht en reden Noch luistert .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.16	ieder heeft zyn ' zwakheid hier beneden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.17	Gelukkig , die zich noch verbetert , eer de haat Der Goden hun geduld verwint !	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.18	Dan is 't te laat .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.2	die my eindlyk geeft , myn blind gezigt te ontsluiten , Wilt , met het einde van myn toorn , ook d'uwen stuiten !	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.3	Ik ben gestraft ; en zie dat myne schuld , ô smart !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.4	Patroclus , u het staal van Hector dreef door 't hart .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.6	uw dood zal myn gemoed altyd bezwaaren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.7	Moest , door myn ' vriendschap , u dit onheil wedervaaren !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.8	Kom , Agamemnon , kom !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.9	verzoenenwe ons !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.10	wel aan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.11	't Geen eens is uitgevoerd blyft te allen tyd gedaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.12	Den dooden koenen wy het licht niet wedergeeven : Maar laat ons zorgen voor de geene , die noch leeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.13	't Volk heeft om onze schuld al smarts genoeg geleên .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.14	Ik buig my eindlyk voor uw ' vriendschap , en de reên .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.15	'k Omhels u , als myn vriend , en zweer by 't hoofd der Goden , Dat ik na deezen , meer als eertyds , uw ' geboden Betrachten zal .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.16	Laat ons een ' vriendschap maaken , die Geen jaar , geene eeuw na deeze oit weêr gebroken zie !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.2	spreekt Achilles mond zo vriendelyk een ' rede !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.3	Zyn wy op nieuw vereend door eene oprechte vrede !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.4	Myn ' ziel , door zulk een ' vreugd verrukt , kan door den mond Zich noch niet uiten .	Joy_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.5	Lees , lees uit myn oog den grond Myns harten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.6	Gy , gy wilt ons wederom beschermen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.7	Gun , dat ik u myn vriend , moog ' drukken in myne armen .	EmotionalAction_BodyPart_Love_Benevolence
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4279.s.1	Nu heb ik lang genoeg , ô Goôn , geleefd op aard .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4279.s.2	Achilles in het eind toont zich uw ' gunst weer waard .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4279.s.3	En gy , ô Helden , die uw ' deugd paart met uw ' krachten , Die trotse stad zal u zo lang niet meer verachten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4291.s.1	En gy , Mevrouw , die vreesde in dees bedroefden staat , Dat ge ook te duchten hadt voor mynen toorn en haat ; 'k Omhels u , en wil u op nieuw weer welkom heeten In myne tent .	Fear_Emotion_EmotionalAction_Hatred_Love_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4291.s.2	wil ook uw ' droeve zorg vergeeten .	Worry_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4291.s.3	Achilles mint u , als voor heen .	EmotionalAction_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4291.s.4	stel u gerust .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4291.s.5	Myn ' liefde groeit weer , nu myn ' gramschap is gebluscht .	Emotion_Love_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4300.s.1	De deugd der vroomen kan voor korten tyd wel zwichten , Maar 't vuur der reden zal haar altyd weer verlichten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4300.s.2	Gy keert dan weder tot de vriendschap , en myn ' min !	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4300.s.4	ge eert te gunstig uw ' gevange , en uw ' slaavin .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.1	Laat ons het leger straks deez ' vriendschap ook doen weeten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.2	Het zal van stonden aan zyn ouden ramp vergeeten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.3	En laat ons in het heir een ' prachtige offerand Bereiden voor de Goôn , ten teken dat dees band Van liefde en vriendschap door geen ' twist weer zy te breeken .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.4	De Goden moeten hem , die weer gehoond wordt , wreeken !	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.6	zag ook uw oog dees zegen aan , Wat zou 't me een ' vreugde zyn !	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.7	Ik heb uw ' schim voldaan , Maar ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.8	noch smart me uw ' dood , en doet my droevig zuchten .	Emotion_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.9	Gy stierft , gelyk een Held .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.10	men heeft u noit zien vluchten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.11	'k Zal ook eene uitvaart , naar de grootte van uw moed , Voor u bereiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.12	'k Zal uw lykvuur met het bloed Van twalef edele Trojaanen , die ik beevend In hunne vlucht gevat , en tot dien einde leevend Bewaard heb , voor het laatst besprengen .	Fear_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.13	In den tyd Van twalef dagen zal geen Griek weer gaan ten stryd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.14	Het gansche leger zal met spelen uwe daaden Verheerlyken ; uw graf met groene lauwerbladen Bevlechten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.15	Ik zal zelf , met droefheid en geklag , Het lyk van Hector aan myn wagen , dag aan dag , In 't oog des Troischen muurs , rondom uw houtmyt voeren , En sleepen langs het veld ; om dus het hart te ontroeren Van Priam zelve .	Emotion_EmotionalAction_BodyPart_Moved_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.16	Och of hy 't aanzag van den wal !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.17	Zo zuchte uw vyand zelf , Patroclus , om uw ' val !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4341.s.1	Verdeeld , verlooren wy veel duizenden van zielen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4341.s.2	Vereenigd , zyn we in staat den vyand te vernielen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4341.s.3	Onthouden wy dit beide !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4341.s.4	en , Goôn !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4341.s.5	geeft dat dees band Van vriendschap noit weêr scheur ' tot smart van 't Vaderland !	None
+huyd001achi01_01.TEI.2.text.body.div.div.p.4343.s.1	Einde van het vyfde en laatste Bedryf .	None

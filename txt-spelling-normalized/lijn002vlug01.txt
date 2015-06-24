@@ -1,0 +1,269 @@
+lijn002vlug01_01.TEI.2.text.body.div.head.132.s.1	doen vlucht vinden Eneas , of doen dood vinden Dido ; treurspel .	None
+lijn002vlug01_01.TEI.2.text.body.div.stage.137.s.1	hebben toneel verbeelden een Zeehaven .	None
+lijn002vlug01_01.TEI.2.text.body.div.stage.137.s.2	enig volk zijn bezig mede hebben goed vinden Eneas in een schip te laden ; terwijl hebben orkest doen aria vinden de houthakker , mest enfans travaillons gaiment , enz. uiten julie , Opera ; tot een ouverture spelen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.139.s.1	eerst toneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.142.s.1	achates , Gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.145.s.1	achates , tegen hebben gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.1	toen , jong , brengen hebben goed na boord ; maken voor , Eer doen een of doen ander wij verstoren ; maken voor !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.2	alles het zijn braden dan krijgen jouw wat .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.3	- Een glaasje mede Schiedammer natten .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.4	maken voor !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.5	maken voor !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.7	wijze : wij hebben ooit groot gek zien , enz. Ik horen gerucht : hebben zullen gewis , na al schijn , Eneas zijn .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.8	o Jemenie ! ik hebben mist .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.9	het zijn Antje zus , in het nachtgewaad .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.10	Waarom of zijde , in zulk een ' slaan , zien zode bij tijd begeven op straat ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.11	sinds Julsus , die zijn een nest !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.12	Wat zeggen ik zij hebben goed ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.147.s.1	wijze : gei die mede ik thans zijn te jachten , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.171.s.1	Tweede toneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.175.s.1	anna , achates , Gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.177.s.1	anna .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.182.s.1	Wat willen die tocht beduien ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.182.s.2	Waartoe al die gerucht ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.179.s.1	wijze : verenen vinden harden en zin , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.184.s.1	achates .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.187.s.1	die sleep , dragen , kruien , dienen tot Eneas vlucht .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.193.s.1	zijn het inderdaad ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.193.s.2	zeggen ik , Achaat ' , Waarom hij wij verlaten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.195.s.1	te samen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.201.s.2	zeggen ik , Achaat ' , Waarom bij wij verlaten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.207.s.1	geloven Achaat ': het zijn inderdaad , die hij deze landen verlaten .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.220.s.1	Eneas , kind !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.220.s.2	moeten voor .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.220.s.3	Ik hebben , vinden woerd tot woerd , het Bevel de god horen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.220.s.4	Merkuur ' , die slim knaap , verscheiden hij in de slaap , En zeggen tot hij : Brui heen , o gek Eneas !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.220.s.5	vlieden ' , vertrekken .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.211.s.1	wijze : Klaas pronken , een boerenknecht , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.234.s.1	o ik !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.234.s.2	Wat pijn , zullen Dido niet gevoelen !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.234.s.3	halen hier tocht wat stoel , Eer zijde verschijnen ' .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.234.s.4	het zijn niet om te mal , wan , alles zijde het zien , zullen zij in katzwym val , vinden louter verdrieten .	Emotion_BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.224.s.1	wijze : Climeen , zijn heen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.224.s.2	enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.241.s.1	Daar komen Eneas alreeds aan ; hij komen mede pakken en zak .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.238.s.1	wijze : Hoe zoet zijn het daar doen vriendschap wonen !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.249.s.1	zij die meineedigen Trooijaan Dus gaan op zijn gemak ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.249.s.2	Neen , ik halen Dido uiten zij bed , Opdat zijde hij doen vlucht belet ' .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.249.s.3	Wel heide !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.249.s.4	wel heide !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.253.s.1	Derde toneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.270.s.1	lopen voor sinds felten !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.270.s.2	jij kopstuk zijn op hol , hebben rijden op stelt ; jouw zijn waarentig dol !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.270.s.3	Eneas vlucht staan vasten ; het zijn door Merkuur ' belasten : jouw zullen wij niet bedotten : wan mede de god lassen zijn niet te spotten .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.260.s.1	wijze : horen Kees , ik vrij , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.273.s.1	vieren toneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.278.s.1	eneas , in een wagentje door twee kind voorigetrokken ; achates , Gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.285.s.1	Daar komen prins Eneas aan , hij komen in een ' waag .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.282.s.1	wijze : Hier komen Paul Jones aan , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.288.s.1	eneas .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.288.s.2	tegen doen kind .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.293.s.1	Lustig , jong , stappen wat aan .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.293.s.2	Of jelui krijgen slag .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.293.s.3	rijden wat voor ; Ik moeten na boord .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.297.s.2	Eneas doen hand geevende .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.300.s.1	Welkom , vriend , Eneas !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.300.s.2	ik wouw die jouw al in zee wassen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.309.s.1	ik zwemmen in tranen !	BodyPart_BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.309.s.2	wat kunnen het baten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.309.s.3	Faldera laten liere !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.309.s.4	Ik moeten Dido tocht verlaat .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.309.s.5	Faldra , laten !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.304.s.1	wijze : doen eendjes zwemmen in hebben water , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.318.s.1	willen u droefheid overwinnen , En verbannen zij uiten u zin .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.318.s.2	stappen mede moede de waag uiten , Eer zij komst hebben werken verbruien .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.313.s.1	wijze : Wat zijn om al vreugde geven , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.320.s.1	gedurende hebben volgend liedje worden hebben valies , doen pruikendoos , hoedenkast , enz. vinden Eneas in hebben schip brengen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.323.s.2	uiten hebben wagentje stappen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.1	Welaan !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.2	laten wij vertrek , Eer al uiten mogen lek , En Dido kunnen ontdekken , die ik de aftocht slaan .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.3	Ha !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.4	ha !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.6	Tegen doen kind .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.7	groeten Dido mynentwegen , En zeggen zij , wel te degen , Hoe al zijn liggen : zijde komen misschien wel dra .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.11	groeten Dido mynentwegen ; zijde komen misschien wel dra .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.325.s.1	wijze : laten bel Bourbonnaise !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.344.s.1	doen kind vertrek mede hebben wagentje .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.347.s.1	vijfde toneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.353.s.1	eneas , achates , dido , anna , Gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.356.s.1	achates , tegen Eneas .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.361.s.1	Ik zien Dido : het zijn verbruien !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.361.s.2	zijde zullen gewis u vlucht mede lyen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.358.s.1	wijze : Hier vinden daan na het groenewoud , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.364.s.1	dido , in zij nachtgewaad , schielijk uitkomen , en Eneas een mest op doen barsten zetten .	Fear_EmotionalAction_BodyPart_Sadness_Anger
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.1	heide !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.2	blyf staan , o snood guit !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.3	zeggen wat zijn thans jij besluiten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.4	zode gei ik , u bruid , verlaten , zullen ik jouw aan lap snyen !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.5	zode gei ik , u bruid , verlaten , zijn gij om zeep !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.6	verstaan jouw het , maat ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.379.s.1	Didootje lief !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.379.s.2	lid ik u oor ; steken op jouw mest , en willen ik een horen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.379.s.3	Dido , ik zoet lief !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.375.s.1	wijze : Fytje , ik lief , ziel vinden ik zin !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.381.s.1	dido .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.384.s.1	Neen , jij zullen ik zode niet ringeloren , Hoe verliefd en snoeperig die jouw ook kijken !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.392.s.1	Wel zode hebben blijken , die ik moeten vlucht , Of die ik aers Voor onheil moeten duchten .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.396.s.1	Wel !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.396.s.2	die zijn iets wonderbaar !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.403.s.1	Ja , mevrouw , laten hij een praten ; Duld , die hij zijn zaak verweer ' .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.400.s.1	wijze : horen Annaatje , ik zullen verhaal , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.410.s.1	ik denken uw nimmer te verlaat : ik zweren hebben uw !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.410.s.2	wat wild gei meer ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.410.s.3	mare , hebben noodlot en doen god aanzien ik deze vlucht bieden .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.420.s.1	mare , hebben noodlot en doen god aanzien hij deze vlucht bieden .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.1	god !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.2	hebben jelui , aan die snood !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.3	Die wreed vlucht gebod ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.4	scheppen gei vermaken om Dido te doel leiden ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.5	Tegen Eneas .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.6	Hoe !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.7	zullen gei ik zode ontvlugten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.8	zullen gei ik hier laten zucht ?	BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.9	Eneas neen ; gei gaan niet heen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.424.s.1	wijze : zin , zijn genegen tot min ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.448.s.1	hebben zijn doen god niet allee Die ik deze vlucht gebieden ; mare , ik hebben in een ' benauwen dromen , ik ' vader schim zien : Die schim belasten ik , mevrouw , die ik ik bies pak zij .	HeavyHeartedness_Worry_Emotion
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.441.s.1	wijze : torn Pierlala vinden liefd ' doorwond , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.453.s.1	doen schim vinden u ' papa ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.458.s.1	doen schim vinden ik ' papa , ha !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.458.s.3	doen schim vinden ik ' papa .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.463.s.1	doen schim vinden mv ' papa , ha !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.463.s.3	doen schim vinden mv ' papa ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.476.s.1	gade , snood !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.476.s.2	mare doen wind , doen donderen en orkaan , Die zullen jouw wel vinden , jouw doel op zee vergaan !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.476.s.3	doen wild en woest golf Die zullen mede jij schip alles mede een klootje kolf , En smijten het op een klip !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.467.s.1	wijze : zeggen , Savoyaardsche meisje , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.482.s.1	horen tocht na rijden !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.480.s.1	wijze : Jan , koop ik een kermis , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.486.s.1	Ik horen geren enkel woerd :	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.490.s.1	stellen uw te vrede !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.497.s.1	Brui heen , en steken de moord !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.497.s.2	mare ik zullen jouw naar ik dood vervaren , En mede ik schim rondom jouw waar .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.505.s.1	Neen ; ik horen geren enkel woerd .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.512.s.1	lief zuster ! ik bidden bedaar !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.512.s.2	willen uw tocht zode niet ... niet verstoren .	Worry_Emotion
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.509.s.1	wijze : trein , ik engel !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.509.s.2	ik godin !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.515.s.1	dido , in doen arm vinden Anna vallen .	EmotionalAction_Sadness_Despair
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.517.s.1	houden ik vasten ; ik worden zode raaf .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.522.s.1	Och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.522.s.2	wat worden ik ogen gewaar ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.522.s.3	het zullen ik het harden doorboren !	BodyPart_BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.526.s.1	Hemel !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.526.s.2	wat zijn zij ... zij beschoren ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.534.s.1	Lustig , staan non niet te temen : nemen jouw kans nu zijn , mijnheer .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.531.s.1	wijze : vinden doen Merliton , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.544.s.1	ik moeten een ' zoenen tot afscheid nemen , Ik zien zij liggen nimmer weer .	EmotionalAction_Love
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.544.s.2	Dido omhelzen .	EmotionalAction_Love
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.544.s.3	varen wel dan , Dido !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.544.s.4	varen wel dan , ik liefje !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.544.s.5	varen dan wel , ik zoet meid !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.546.s.1	Eneas treden in het schip .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.546.s.2	Achates willen hij volgen ; doch worden door Dido , die zien schielijk uiten doen arm vinden Anna rukken , bij zijn kleden vasthouden .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.554.s.1	Hola !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.554.s.2	jouw zullen ik niet bedotten , Ik houden jouw vasten , jouw zullen niet heen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.551.s.1	wijze : Lysje slapen in het hosch , in het lommer , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.559.s.1	Hoe nu , mevrouw , zijn het om te spotten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.559.s.2	ik zeggen laten ik lossen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.563.s.1	ik horen na geren reden .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.570.s.1	kijk , zode jouw lang liggen te praten , krijgen jouw vinden ik een ' fris klappen !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.570.s.2	het zijn hier geren grappen ; het zijn hier geren grappen ; Ik willen Eneas niet verlaat .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.575.s.1	Aan ik een ' klappen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.575.s.3	Eilieve !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.575.s.4	doen die eensjes .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.578.s.2	Dido een ' klappen geevende .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.580.s.1	Flap !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.582.s.1	Dido vallen op de grond .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.582.s.2	Achates nemen deze ogenblik zijn , om te vlucht , en steken mede Eneas in zee .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.585.s.1	Zesde toneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.589.s.1	dido , anna , gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.2	wat zullen ik overkomen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.3	Daar liggen Dido op de grond !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.4	zijn zij het leven ook benemen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.5	het bloeden lopen uiten zij ' neuzen en mond !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.6	ik worden een weinigje gerust ; zijde schijnen buit al node .	Emotion_Relief
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.7	Och ' hoe zijn hebben , lief zuster !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.8	leven jouw nog , of zijn jouw dood ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.593.s.1	wijze Och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.593.s.2	wat zijn ik overkomen , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.606.s.1	dido , opstaan .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.1	o Jupiter , staan bij !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.2	wreken deze verraderij !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.3	verbranden Eneas kiel !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.5	beletten zijn snood vlucht , Of , jagen hij op doen grond !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.6	Verhoor ik droef stemmen u wraken verdelge hij !	Emotion_BodyPart_Sadness_Vindictiveness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.7	hij hebben mijn eer schenden .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.8	u wraken verdelge hij !	Emotion_Vindictiveness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.608.s.1	wijze : o zinnen !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.608.s.2	aan zijn hemel trans , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.631.s.1	houden jouw tocht stillen ; houden jouw tocht stillen ; zoeken jouw droefheid te overwinnen .	Emotion_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.631.s.2	houden jouw tocht stillen ; houden jouw tocht stillen ; horen een wat ik jouw zeggen willen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.631.s.3	jij krijgen liggen wel weer een ' ander ' , Die jij eer herstellen zullen , En die jij schoonheid te geval ' ...	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.623.s.1	wijze : Jaapje staan stillen , Jaapje staan stillen , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.635.s.1	Ei , zwijgen tocht , zus , jouw maken ik mal !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.639.s.1	horen wat ik jouw zeggen willen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.650.s.1	Nu Eneas zijn vluchten ; Nu kunnen ik niets verwerven .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.650.s.2	Antje , ik vervelen doen luchten ; Ik bedankje voor doen klucht .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.650.s.3	ik willen sterven ; ik willen sterven .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.644.s.1	wijze : wij deze wereld wel bezien , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.657.s.1	stellen die denkbeeld uiten u ' zijn : Wat kunnen het sterven baten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.654.s.1	wijze : Zonder liefde , zonder wijn , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.663.s.1	o , bedriegen koningin !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.663.s.2	gei zijn dan verlaat !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.663.s.3	Wat doen ik allee op doen aarde ' ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.667.s.1	wie zijn mede wij beien .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.671.s.1	het Leven zijn ik niets meer woerd ' !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.675.s.2	gei doen ik schreien !	BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.686.s.2	Antje , willen niet huilen !	BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.686.s.3	zien daar zijn , zien daar zijn ik twee muil , Och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.686.s.5	Daar zijn ik besteden tas , Daar al ik gelden in wassen Ik geven hebben jouw al de brassen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.679.s.1	wijze : Malbroucq gaan na hebben leger , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.693.s.1	Wat willen jouw doel ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.691.s.1	wijze : Een kuiper vol jaloers pijn , enz.	Emotion_Envy
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.702.s.1	deze stoter mest zullen ik verlossen uiten ik leiden !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.702.s.2	Ik willen ik , door een ' steken vijf , zes , vinden al ramp en smarten bevrijden .	Emotion_Unhappiness_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.702.s.3	Vaarwel , ik zuster , leven in vrede !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.702.s.4	die gaan ' er door ... o jee !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.702.s.5	o jee !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.1	Didootje !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.3	zeggen nog reizen brood .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.4	mare , och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.5	zij zijn rijden zode koud alles lood wijze : Wel !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.6	ik allerliefst meisje , enz. Och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.7	och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.8	zijn zullen ik nu blijven ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.9	Wat zullen ik , helaas !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.10	bedrijf ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.11	ik willen ik ook mare gaan ontlyven ; wan ik staan hier netten alles mal .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.12	mare , zijn zijn hebben mest blijven , Daar ik zustertje , zode even , zien de steken met hebben geven ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.14	zien zode !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.15	ik zien hebben al .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.721.s.1	laatst toneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.725.s.1	anna , serestus , Gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.727.s.1	Anna rapen hebben mest op en willen zien doodsteeken , doch worden door Serestus weerhouden .	EmotionalAction_Sadness_Despair
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.730.s.1	serestus .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.730.s.2	schielijk uitkomen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.734.s.1	Antje lief !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.734.s.2	och , wat beginje ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.732.s.1	wijze : Dronke Jaap lopen om een pintje , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.738.s.1	ik willen ik dood .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.738.s.2	zijn jouw blind ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.746.s.1	Och , ik lief botten !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.746.s.2	bezinje , Eer jouw zulk een daad beginnen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.746.s.3	Of , zijn jij zode glad vergeten die jouw ik hebben trouwen beloofd ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.751.s.2	zij ik die niet weten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.751.s.3	Neen , hebben liggen ik wel in het hoofd .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.758.s.1	Eil willen ik dan doen rijden zeggen Waarom jij tot die daad besluiten .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.755.s.1	wijze : gelden zijn doen ziel vinden al zaak , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.761.s.1	anna , op Dido wijzen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.763.s.1	zien jouw ik zuster dan niet liggen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.767.s.1	Wat zien ik ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.767.s.2	hoe !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.767.s.3	zijn Dido dood ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.771.s.1	laten wie zij doel begraven .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.775.s.1	En geven ik u hand alles bruid .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.778.s.1	anna , Serestus doen hand geevende .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.783.s.1	Ik zijn te vreen .	Aquiescence_Emotion
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.783.s.2	( Tegen hebben gevolg . ) ik voeren ' zij vinden deze have .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.783.s.3	Daarmee zijn het uiten ; daarmee zijn het uiten .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.789.s.1	EINDE .	None

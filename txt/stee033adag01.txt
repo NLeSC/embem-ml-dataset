@@ -1,0 +1,1366 @@
+stee033adag01_01.TEI.2.text.body.div.head.207.s.1	Ada , gravin van Holland en Zeeland ; treurspel .	None
+stee033adag01_01.TEI.2.text.body.div.head.208.s.1	Eerste bedryf .	None
+stee033adag01_01.TEI.2.text.body.div.head.209.s.1	Eerste tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.stage.211.s.1	Adelheide , Ada , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.sp.speaker.213.s.1	Ada .	None
+stee033adag01_01.TEI.2.text.body.div.sp.221.s.1	Het aklig sterflot heeft graaf Diedrik ons onttogen , En gy , zyn weduw , voor myn smeeken onbewogen , Verdubblende in myn ziel den kinderlyken rouw , Begeert een huwlyksfeest , een schandelyke trouw !	None
+stee033adag01_01.TEI.2.text.body.div.sp.221.s.2	Een moeder noopt haar kroost ( hoe doet uw eisch my gruwen ! ) By 't onbegraven lyk eens vaders laf te huwen !	None
+stee033adag01_01.TEI.2.text.body.div.sp.221.s.3	Voegt Diedriks droeve wees de vreugd der huwlyksmin ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.speaker.223.s.1	Adelheide .	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.1	U past een groot bestaan , als Hollands erfgravin .	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.2	Laat ons , uit hoogen nood , eene ydle droefheid smooren .	Emotion_BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.3	Bedenk wien Diederik tot landvoogd heeft verkoren .	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.4	Myn dochter , koos hy niet zyn ' broeder , die ons haat , Oostvrieslands trotsen graaf , die naar uw erfdeel staat ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.5	Moet gy dien wrevlen oom als uwen voogd erkennen ?	Emotion_Annoyance
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.6	Moet Willem aan zyn wet voor altoos u gewennen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.7	Uw minderjarigheid vereischt een echtverbond .	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.8	Heeft Diedrik , myn gemaal , niet met zyn ' veegen mond My vruchteloos gesmeekt dien broeder hier te ontbieden , Ten zoen der oude wraak , in 't vorstlyk huis aan 't zieden ?	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.9	Heb ik , uit zorg voor u , myn ' waarden echtgenoot Doof uitstel niet belet , op 't nadren van zyn dood , Tot Willem 't laatst vaarwel zieltogende uit te spreken ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.10	En eischt gy tot uw ' voogd dien graaf , die zich zou wreken ?	EmotionalAction_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.1	Helaas !	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.2	die vreemde zorg van uw gevoelloos hart Is oorzaak dat ik zucht in onvergeetbre smart .	Emotion_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.3	Myn dierbre vader , die , verhinderd door myn moeder , U niet in 't uiterste uur verzoende met uw ' broeder !	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.4	Hoe deerlyk was uw lot !	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.5	hoe bant men allen troost Voor eeuwig uit de ziel van uw elendig kroost !	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.6	Uwe Ada , waarlyk droef , zal deze treurgewaden Niet wisslen , u ten schimp , voor blyde feestsieraden .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.7	Vorstin , wat heilzaam eind ' bedoelt uw wreede dwang ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.8	Wat nut belooft myn echt voor 't wigtig staatsbelang ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.9	Gy hoont Oostvrieslands graaf en de eedlen myner landen .	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.10	Geef hen , naar Diedriks wil , het hoog bestier in handen , Totdat een ryper jeugd my veste in 't erflyk recht .	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.11	Hoe durf ik Lodewyk , door dien gevreesden echt , Naar uw geheim besluit tot Hollands graaf verheffen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.12	Zou hun getergde wraak dien vreemdeling niet treffen , En my niet dwingen , my , met oneer overlaên , By 't breken myner trouw 't voogdyschap te ondergaan ?	Emotion_Loyalty_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.13	Gy zult , na ryp beraad , myn weigring billyk keuren .	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.14	Laat dit gevoelig hart myn ' vaders dood betreuren .	None
+stee033adag01_01.TEI.2.text.body.div.sp.272.s.1	Ik treur , om 't zwaar verlies , met u .	None
+stee033adag01_01.TEI.2.text.body.div.sp.272.s.2	Maar ach !	None
+stee033adag01_01.TEI.2.text.body.div.sp.272.s.3	ontslaat Die smart my van de zorg voor uw ' gedreigden staat ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.272.s.4	Wie , van 't geheim bewust , misleid uw zwakke zinnen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.272.s.5	'k Wist Meerhem , met een deel der edelen , te winnen : Stemt Altena , Leerdam , en Voorne heimlyk niet In uw ' gewenschten echt en 's bruîgoms landgebied ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.278.s.1	Zal hun gewonnen stem myn ' voogd , graaf Willem , stuiten , En all ' den adel in uw ' toeleg doen besluiten ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.289.s.1	Gy doemt , uit ydle vrees , uit onervarenheid , Uit wantrouw , die my hoont , een heilzaam staatsbeleid .	Suspicion_Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.289.s.2	't Is noodig dat myn zorg uw tedre jeugd bestiere , En Dordrecht dezen dag uw vorstlyk huwlyk viere .	None
+stee033adag01_01.TEI.2.text.body.div.sp.289.s.3	De Stichtsche bisschop zelf , in uw belang gebragt , En ieder oogenblik uit Utrechts wal verwacht , Zal in de hofkapel de plegtigheid voltrekken , En door zyne achtbaarheid ons voor misnoegden dekken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.293.s.1	Dat Amstel u 't gevaar van 't heilloos huwlyk toon ' !	None
+stee033adag01_01.TEI.2.text.body.div.sp.297.s.1	Geen vrees weêrhoud u ; neen : gy haat den graaf van Loon .	Fear_Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.1	Ach !	None
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.2	haat ik Lodewyk ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.3	Kan zich myn min verbergen ?	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.4	Gy , die myn zwakheid weet , moet gy myn driften tergen , Opdat myn teder hart , naar uw begeerte , in 't end ' Myne eer , myn ' kinderpligt , myn ' vaders glorie schend ' ?	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.5	Myn boezem voelt een ' stryd van vyandlyke togten : Myne eerzucht had voor my de zege reeds bevochten , Indien uw bystand voor de liefde , die my blaakt , Myne overwinning niet bezwaarlyk had gemaakt .	Honor_Emotion_Hatred_Greed_BodyPart_BodilyProcess_Love_Anger
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.6	Zie , zie uwe Ada voor uw voeten neêrgebogen ; Betoon myn zwakke jeugd een gunstig mededoogen ; Geef my bewyzen van een moederlyk gemoed ; Hernieuw in my de kracht van 't vorstlyk heldenbloed .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.7	Dat bloed , in my gevloeid uit u en uit myn ' vader , Bewege uw straffe ziel voor hem en my te gader !	None
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.8	Zo blyk ' dat gy zyn ' wil , zyn ' laatsten wil ontziet !	None
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.9	Herdenk zyn min tot u ; verdruk zyn dochter niet ; Laat af meer voedsel aan myn ' liefdegloed te geven .	Emotion_BodilyProcess_Love
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.10	Indien gy wreed volhard , berooft ge my van 't leven .	None
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.1	Wat gaat u aan ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.2	Rys op .	None
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.3	Myn toeleg is een blyk Der moederlyke zucht .	None
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.4	Ik wacht hier Lodewyk : Hy spreke u .	None
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.5	Zou zyn min uw glorie niet betrachten ?	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.6	Hy deelt in onzen rouw , en zal uw ' druk verzagten .	None
+stee033adag01_01.TEI.2.text.body.div.sp.333.s.1	Neen ; Hollands erfgravin , onkreukbaar in haar ' pligt , Ontwykt met bittre smart voor eeuwig zyn gezigt .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.sp.333.s.2	Geef hem geen hoop , vorstin ; gy zoud vergeefs hem vleijen .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.sp.333.s.3	Het voegt geen droeve wees te huwen , maar te schreijen .	Emotion_BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.head.334.s.1	Tweede tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.336.s.1	Adelheide , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.1	Het deert my , Hildegaard , in haar ' gepasten rouw , En in myn zwaar verlies , tot die bestemde trouw Myn eenig huwlykspand zo wreed te moeten nopen : Maar buiten 't echtverbond heeft Ada niets te hopen .	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.2	Uit Amstels ydlen schroom spruit al haar tegenstand .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.3	Ik vrees , in 't nut bestaan , noch ongeval noch schand ': De graaf , voor Diedriks kroost tot bruîgom uitgelezen , Begaafd met moed en deugd , is waard ' myn zoon te wezen : Dit billykt , in 't gevaar , myn zeldzaam heldenstuk ; Dit moedigt , dit vertroost een weduw in haar ' druk ; En noopt myn ziel , in spyt van Adaas angstig smeeken , Van Willems trotsen haat op 't vinnigst my te wreken .	Fear_Emotion_EmotionalAction_Hatred_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.4	Wat ben ik veel verpligt aan 't hoofd van Utrechts kerk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.5	Die bisschop , my getrouw , voor Willem veel te sterk , Leert my wat meest betaamt aan moederlyke zinnen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.6	Hy zal de onnutte vrees in Adaas geest verwinnen .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.357.s.1	Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.371.s.1	Mevrouw , 't is u bekend hoeveel de min vermag .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.371.s.2	Zy werkt in de erfgravin voor 't wettig landgezag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.371.s.3	De liefde van uw kroost zal wonderen verrichten , Op dezen grooten dag den ydlen rouw doen zwichten , En , Willems wrok ten spyt , de vorstelyke bruid Doen stemmen , zonder dwang , in 't heilryk echtbesluit .	Emotion_Love_Spitefulness
+stee033adag01_01.TEI.2.text.body.div.div.sp.371.s.4	Ik heb , sints Diedriks krankte u voor zyn erf deed vreezen , Van uw geheim bewust , myn ' bystand u bewezen , Met list een nutte zege op Adaas hart behaalt , Den jongen Lodewyk behaaglyk afgemaalt , En , deelende in haar smart , in zuchten , tranen , klagten , Een hevig minnevuur verwekt in haar gedachten .	Fear_Emotion_BodilyProcess_Love_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.376.s.1	Uw hulp , myn Hildegaard , uw list komt my te staê .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.376.s.2	Verzel myn dochter ; sterk de ontvonkte liefde ; ga .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.head.378.s.1	Derde tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.380.s.1	Adelheide ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.1	Ik zal , nu meer dan ooit , op Willem triomferen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.2	Hier moet een magtloos graaf door Adaas echt regeeren , En , tot haar veiligheid in alles my getrouw , Zyn ' naam verleenen aan de wetten van een vrouw .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.3	Ik wil , om niet in schande en slaverny te leven , Aan myn beschroomde kunne een loflyk voorbeeld geven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.4	Myn deugd , door schyn misleid , heeft reeds te lang gestreên .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.5	ô Diedrik !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.6	zou die daad myn ' roem verduistren ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.7	Neen ; Uw fiere weduw moet , om haar gezag te schragen , Tot heil van kroost en land een ' stouten toeleg wagen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.8	Al eisch ik Adaas echt , noch schrei ik om uw dood : Myn hart vergeet u niet : zy huwe uit hoogen nood !	BodyPart_BodilyProcess_Dedication_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.9	Hoe kan uwe Adelheide uw ' laatsten wil volbrengen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.10	Hoe kan ze Oostvrieslands graaf in 't hoog bestier gehengen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.11	Die wrevle streed weleer onwettig om 't gebied ; En ik , die hem verjoeg , zwicht noch voor Willem niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.12	ô Staatzucht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.13	voed myn ' haat , om 't graaflyk huis te dekken ...	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.14	Maar Lodewyk genaakt ; ik zal 't besluit voltrekken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.382.s.1	alleen .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.404.s.1	Vierde tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.406.s.1	Adelheide , Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.408.s.1	Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.1	Mevrouw , heeft uwe zorg de droevige erfgravin , Naar uw belofte , alreê verzekert van myn min ?	Emotion_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.2	Wat zegt haar schoone mond ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.3	zal ik gelukkig wezen ?	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.4	Wat heeft myn blakend hart te hopen ?	Emotion_Hope_BodyPart_BodilyProcess_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.5	wat te vreezen ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.6	Hoeveel een versche rouw haar tedre ziel beklemm ' , Hoe noode uw droeve spruit tot huwlyksblydschap stemm ' , Uw zeldzaam staatsbesluit is echter niet te doemen ; Men moet , in 't landgevaar , uw nutte voorzorg roemen .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.7	Zoud gy , indien uit nood geen staatsheil wierd bedoeld , Zoud gy , graaf Diedriks weeûw , die 't zwaarst verlies gevoelt , Vóór Diedriks uitvaart wel een plegtig huwlyk vieren ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.8	Maar zal Oostvrieslands graaf als voogd dit land bestieren , Dat die staatzuchtige begeert in eigendom ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.432.s.1	Neen ; Holland zy voor u , voor Adaas bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.432.s.2	Hoop alles , Lodewyk : uw bruid , niet onverschillig Voor uw doorluchte min , zal dezen dag vrywillig , Tot heil van hof en volk , naar 't huwlyksouter treên : Ja , schoon ze onmatig kwynt in zuchten , in geween , En , voor myn aanzoek doof , zichzelf bestryd in 't minnen ; Verwacht een wisse zege op hare ontstelde zinnen .	Emotion_Hope_BodilyProcess_Love_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.437.s.1	Zy mint my !..	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.437.s.3	wat baat die neiging van haar hart , Indien ze uw ' aanslag doemt in de overmaat van smart ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.1	Nu my de wreedste slag het waardste pand doet missen , Nu gy door heldenmoed myn tranen af moest wisschen , Maakt u de onnutte rouw der zwakke bruid bevreesd !	Fear_Emotion_BodyPart_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.2	Hoe !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.3	deert my 't onheil minst ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.4	trest Diedriks dood haar meest ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.5	Ik treur , maar poog metëen myn ' vyand voor te komen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.6	Ik had , in 't groot verlies , geen ' toeleg ondernomen , Indien natuur , bezorgd voor 't erfrecht van myn bloed , Geen sterke pooging deed op myn beklemd gemoed .	HeavyHeartedness_Worry_Emotion_BodyPart
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.7	Maar u , dien 't landgezag als graaf word opgedragen , Met Adaas hand en hart , u voegt het niet te klagen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.1	'k Waardeer dat landgezag , 'k waardeer haar harten hand .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.2	Denk echter dat haar druk het zoet der min verbant , En haar beletten zou in myn geluk te stemmen , Indien de hoogste nood uwe echtkeur niet deed klemmen .	Emotion_Happiness_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.3	Uw moed is groot , vorstin : gy red haar erfgebied , En zwygt , in all ' uw ' rouw , den schimp dien gy voorziet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.4	Hare eer , 't is my bekend , kan 't noodig huwlyk lyden ; Maar zal de onnoozle bruid de lastertaal vermyden ?	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.5	Ik voed , in die gedachte , een pynlyk voorgevoel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.6	Zy zal , aan wreeden smaad en bitsen hoon ten doel , Al smelt ze om haar verlies in ongeveinsde tranen , Misdadig zyn in 't oog van rustlooze onderdanen .	BodyPart_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.7	Ik noem uw dier geschenk de bron van myn geluk ; Maar de oorzaak van myn heil is de oorzaak van myn ' druk .	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.478.s.1	Uwe Ada zal niet lang by 't volk misdadig wezen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.478.s.2	Men heeft in 't nut bestaan geen ' hinderpaal te vreezen , Nu Willems afgezant , met recht by my verdacht , Na 't heimlyk huwen eerst in Holland word verwacht .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.478.s.3	Bemin haar glorie vry ; toon u haar liefde waardig , Opdat uw groote ziel myn keur alom rechtvaardig ' , En all ' de harten van uwe onderdanen winn ' !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.head.480.s.1	Vyfde tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.482.s.1	Adelheide , Lodewyk , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.486.s.1	Hoe , Reinoud !	BodilyProcess_Love_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.486.s.2	stoort gy ons ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.489.s.1	Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.493.s.1	Op Amstels beê , vorstin .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.493.s.2	Hy schynt in 't heimelyk van zorgen ingenomen , En wenscht op 't spoedigste u te spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.497.s.1	Laat hem komen .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.499.s.1	Zesde tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.507.s.1	Hy waakt , ô Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.507.s.2	voor uw aanstaand gezag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.507.s.3	Gy , die omzigtig u , vóór dezen huwlyksdag , In Holland hield bedekt , kent noch niet all ' uw vrinden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.512.s.1	Ontziet zich Amstel niet dat stuk zich te onderwinden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.512.s.2	Durft hy zyn open land zo wagen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.512.s.3	hoe , mevrouw !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.522.s.1	Ik heb een ' wissen borg voor zyn verdachte trouw : Zyn leenheer , die hem noopt in ons belang te deelen , Die hem in dwang houd door beloften en bevelen , Het geestlyk hoofd van 't Sticht verzekert ons van hem .	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.522.s.2	Gy weet des bisschops hulp .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.522.s.3	Hy geeft myn ' toeleg klem , Bedoelt met my 't behoud van Adaas veege slaten , En 't waar geluk der Zeeuwsche en Hollandsche onderzaten .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.524.s.1	Zevende tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.526.s.1	Adelheide , Lodewyk , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.531.s.1	Treed nader , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.531.s.2	Zie , in Adaas bruidegom , Een deugd , die haar verdient met al haar eigendom .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.533.s.1	Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.539.s.2	mogt zy nooit , mynheer , met u haar ' val beweenen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.539.s.3	Oostvrieslands afgezant , vorstin , is reeds verschenen ; Hy is dit oogenblik gesneld in Dordrechts wal .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.539.s.4	Wacht fluks zyn aanzoek om gehoor .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.543.s.1	Wat ongeval !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.548.s.1	Wat doet dien afgezant zo driftig herwaarts spoeden Vóór zyn ' bestemden dag ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.548.s.2	Dit baart me een vreemd vermoeden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.552.s.1	Zou hy verwittigd zyn van 't heimlyk echtbesluit ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.558.s.1	Verraad een valsche tong de vorstelyke bruid ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.558.s.2	Moet ik , nu Diedriks dood my doet als weduw zuchten , Bedekte vyanden en oproerstichters duchten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.571.s.1	Het is noch tyd , vorstin , van 't opzet af te staan , 't Vermyde landbestier van Willem te ondergaan , Te zorgen dat geen twist het graaflyk erf verniele , De burger , opgehitst , den burger niet ontziele , Ja dat het woest geweld , dat geen gezag erkent , Uw eigen hoofd niet treffe in algemeene elend ' , En Adaas dierbaar bloed by 't uwe niet doe stroomen : Het is noch tyd , mevrouw , die rampen voor te komen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.571.s.2	Vrees min graaf Willem in bepaalde landvoogdy , Dan 't onbedwingbaar volk in dolle muitery .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.580.s.1	Schoon my geen laffe schrik in 't groot bestaan doet vreezen , Ik zonder Adaas echt niet kan gelukkig wezen , En 't groeijend minnevuur eene onverdraagbre smart , By 't mindren van myn hoop , verwekt in 't jeugdig hart ; Ik zou , tot heil der bruid , myn liefde en staatzucht wraken , Indien ons trouw verbond haar zou rampzalig maken .	Fear_Emotion_Happiness_Hope_BodyPart_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.584.s.1	Ik weet noch midlen tot verhindring van 't verraad .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.595.s.1	Men kent uw ' moed , vorstin , uit menig dappre daad : Gy hebt den toeleg van graaf Willem doen verdwynen , Toen hy , die 't heilig land in 't bloed der Sarazynen Zeeghaftig had geverft , moest vluchten voor uw staal : Heldin , den landzaat heugt uw groote zegepraal : Maar de adel , toen vereend om Willem af te keeren , Zal in 't voogdyrecht nu hun eigen recht verweeren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.599.s.1	Niet allen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.605.s.1	Ada beve , indien men 't erfdeel stelt In de eensverwonnen magt van dien getergden held !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.605.s.2	Word die staatzuchtige ooit , vorstin , met u bevredigd ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.1	Wy achten wederzyds te vinnig ons beleedigd .	Offended_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.2	Vermeetle vyand !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.3	wierd Oostvriesland niet ten leen ' Door Diedrik u vergund ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.4	Voldoet het u ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.5	ô Neen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.6	En zou de landvoogdy u meer voldoening geven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.7	Ding weêr naar de oppermagt ; 'k zal eeuwig u weêrstreven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.8	De looze Hugo is Oostvrieslands afgezant : Schoon hy nooit hier verscheen , men kent zyn scherp verstand .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.9	Hy kan , door logentaal , het wufte volk doen muiten , Indien hy weet waartoe de nood my deed besluiten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.10	Maar 't weinige oorlogsvolk , gelegd in Dordrechts wal , Beveiligt ons genoeg voor nadrend ongeval , Zolang de hoofden van die bende en van myn wachten , Door logens niet misleid , hunn ' dieren eed betrachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.11	Myn wil is dat men fluks alom 't geheim ontdekk ' , En in dit eigen uur het echtverbond voltrekk ': My lust den afgezant van Willem voor te komen , Opdat soldaat en wacht , niet snood vooringenomen , Niet blind voor 't waar belang van hof en onderdaan , Volharden 't graaflyk huis in tweespalt by te staan !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.12	Intusschen dat men hier op 't plegtigst Hugo leide .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.633.s.1	Gy geeft my 't leven weêr , heldhaftige Adelheide !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.633.s.2	Uw moed vertoont zich meest op dezen grooten dag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.639.s.1	Indien myn trouwe raad noch iets op u vermag , Vorstin , ...	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.648.s.1	Weêrspreek my niet ; laat ons niet schandlyk vreezen .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.648.s.2	Gy , die myn gunst verdient , gy zult gelukkig wezen .	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.643.s.1	tegen Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.646.s.1	Tegen Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.650.s.1	Achtste tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.652.s.1	Lodewyk , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.1	Gy vleit u zonder grond , indien gy waant , mynheer , Dat Adaas nutlooze echt , nadeelig voor hare eer , Gevaarlyk voor haar volk , ja voor uw ' beider leven , U 't vreedzaam eigendom van 't graaflyk erf zal geven .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.2	Uw groote ziel verdient een edeler geluk , Verwin uzelv '; verricht een zeldzaam heldenstuk .	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.4	weet gy hoe de Zeeuw , Oostvrieslands graaf genegen , Terstond al 't Hollandsch volk tot oproer kan bewegen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.5	Dat roeklooze Adelheide , in ydle hoop misleid , 't Onwettig landbestier uit staatzucht u bereid , Ja de eedlen dwingt hun recht met Willems hulp te wreken ?	Emotion_EmotionalAction_Hope_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.6	Ik , op uw deugd gerust , durf onbewimpeld spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.7	Verwerf , ô Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.8	de lofspraak van 't heelal , Door 't afstaan van uw bruid ; of ducht uw ' beider val .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.671.s.1	Negende tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.673.s.1	Lodewyk ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.1	Hoe werken hoop en vrees in myn bestreden zinnen !	Fear_Emotion_Hope_BodyPart
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.2	ô Min !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.3	zal 't Adelheide ... ô eer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.4	zal 't Amstel winnen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.5	ô Wreede liefde !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.6	vlie ; verscheur my langer niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.8	poogt zich Diedriks weeûw te vesten in 't gebied ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.9	Te heerschen op myn ' naam ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.10	durft ze Ada roekloos wagen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.11	En zou het vorstlyk erf my tot dien prys behagen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.12	Graaf Willem , neem bezit van uwe landvoogdy : Natuur weêrhoude uw ziel van woeste tyranny !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.13	Neen ; die staatzuchtige zou 't erfrecht ondermynen ; Myn hart , myn minnend hart in wanhoop stervend ' kwynen ; En myn vorstin , beroofd van al haar eigendom , Haar plagen wyten aan haar ' laffen bruidegom .	Emotion_BodyPart_BodilyProcess_Love_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.14	Verlegen Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.15	wat lot staat u te kiezen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.16	Zy zal , indien zy huwt , het graaflyk erf verliezen ; En zo men 't hoog bewint haar ' voogd in handen stelt , Zal hy zyn wettig recht verkeeren in geweld .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.17	ô Doodelyke keur !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.18	ô angstige oogenblikken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.19	Hoe spoedig weet men my van 't huwen af te schrikken !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.20	Maar Diedriks weeûw doelt niet arglistig op 't gezag : Zy wil verhindren , door een moederlyk gedrag , Dat zich een wrokkend voogd bedekt op Ada bloedig ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.21	Afgryslyk denkbeeld !...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.23	myn liefde , hoe rampspoedig , Hoe zorglyk , triomfeert : een gruwelstuitende echt , Die 't hoog gezag my geeft , stryd tegen eer noch recht ...	Honor_Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.24	Wat zeg ik ?..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.25	Droeve bruid !	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.26	wat staat u meest te vreezen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.27	Zal echt of landvoogdy voor u gevaarlykst wezen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.28	Doe zelve een wyze keur in dezen hoogen nood : Ik wacht van uw besluit myn leven , of myn dood .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.707.s.1	Einde van het eerste bedryf .	None
+stee033adag01_01.TEI.2.text.body.div.head.716.s.1	Tweede bedryf .	None
+stee033adag01_01.TEI.2.text.body.div.stage.719.s.1	Willem , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.sp.730.s.1	't Is veel gewaagd , mynheer , de listigste aller vrouwen , De wrokkende Adelheide in dit paleis te aanschouwen , In schyn van afgezant haar ' toeleg gaê te slaan , En onder Hugoos naam 't gevaar ten doel te staan .	None
+stee033adag01_01.TEI.2.text.body.div.sp.730.s.2	Ons heugt hoe fel de twist in 't vorstlyk maagschap woedde .	None
+stee033adag01_01.TEI.2.text.body.div.sp.730.s.3	Wat ramp , zo 't hofgezin den minsten argwaan voedde , En in den afgezant graaf Willem wierd gewaar !	Suspicion_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.730.s.4	Hoe licht word gy bekend !	None
+stee033adag01_01.TEI.2.text.body.div.sp.730.s.5	uw leven loopt gevaar .	None
+stee033adag01_01.TEI.2.text.body.div.sp.speaker.732.s.1	Willem .	None
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.1	Geen vrees beklemt myn hart , nu myn getrouwe vrinden Voor 't algemeen belang zich alles onderwinden , En my bewegen tot eene eedle veinzery .	Fear_Emotion_BodyPart_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.2	Kent my dit hofgezin ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.3	kent Adelheide my ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.4	Na 't proefstuk myner jeugd in 't land der Sarazynen , Deed eertyds my de twist in Holland weêr verschynen , Maar met een heir , en by verdachten onbekend .	None
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.5	Verraad men echter my , zie , tot een heilryk end ' , De magtigste eedlen in myn voordeel zich verklaren .	None
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.6	Uit zucht voor 't heilig recht hebt gy den Wassenaren , Egmonden , Banjaarden en Teilingen ontdekt Hoe Diedriks trotse weeûw haar ' ouden roem bevlekt : Die bloem des adels , die , zoveel als ik beleedigd , My de ontrouw openbaarde , en Diedriks wil verdedigt , Spant heimlyk aan met my : terwyl gyzelf , mynheer , Geen slaaf van uw belang , maar waakzaam voor uwe eer ; Gy , 's bisschops leenman , schuw voor snoode staatsbevelen , Grootmoedig my belooft in 't nut bestaan te deelen .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.759.s.1	De rust van Holland is 't belang van Amstelland : Zo toont men veilig my den graaf in zyn ' gezant .	None
+stee033adag01_01.TEI.2.text.body.div.sp.759.s.2	Ik roem de heldendeugd van Diedriks grooten broeder !	None
+stee033adag01_01.TEI.2.text.body.div.sp.759.s.3	Gy , Adaas voogd , ontziet geen staatzucht van haar moeder	None
+stee033adag01_01.TEI.2.text.body.div.sp.777.s.1	De nood , de hooge nood vereischt een heldendaad .	None
+stee033adag01_01.TEI.2.text.body.div.sp.777.s.2	Zie , zie de jonge bruid gewikkeld in 't verraad , Hare onervaren jeugd in zorglyke oogenblikken Met huwlyksvreugd gestreeld , verward in minnestrikken , En haar verheven deugd , die voor myn recht noch pleit , En luistert naar uw ' raad , haast jammerlyk verleid .	Joy_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.777.s.3	Ik heb uit deernis haar een duurzaam heil beschoren .	None
+stee033adag01_01.TEI.2.text.body.div.sp.777.s.4	Die taal is u verdacht ; het klinkt u vreemd in de ooren , Dat Willem , die weleer om 't graaflyk staatsbewint Onwettig streed , zo teêer die erfgravin bemint : Maar oordeel of ik toen , van oorlogsdrift bewogen , By 't bloedig krygsgeweer in Syrië opgetogen , Kon denken , in myn jeugd , dat ooit met wapenkracht Een held onwettig dingt naar de eer der oppermagt .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.sp.777.s.5	In later tyden is myn doling my gebleken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.794.s.1	Uwe openhartigheid doet my vrymoedig spreken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.794.s.2	Zo gy 't voltrekken van 't gevaarlyk trouw verbond Niet edelmoedig tot uw nadeel wederstond , Maar Adaas erf land poogde uit staatzucht om te keeren ; Uw heldenkling zou niet op de eedlen triomferen .	None
+stee033adag01_01.TEI.2.text.body.div.sp.794.s.3	Belet , op Hugoos naam , den voorgenomen echt ; Bevestig Diedriks wees in haar geboorterecht ; En geef aan de edelen hun deel der landvoogdye .	None
+stee033adag01_01.TEI.2.text.body.div.sp.794.s.4	Zo hope uw deugd op 't heil der nutte veinzerye !	None
+stee033adag01_01.TEI.2.text.body.div.sp.794.s.5	't Gaat wel : reeds , op uw komst , verdwynt de zwarte rouw , Verklaart men 't groot geheim der opgestemde trouw , Doet Diedriks fiere weeûw de ontstelde burgers gruwen , Dwingt ze Ada , maar vergeefs , in aller yl te huwen , En tergt ze al 't morrend volk , ja sterkt zo uw wyze list .	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.1	In 't kort zy 't oud krakkeel in 't graaflyk huis geslist , De spoorlooze echt belet , myn ' broeders kroost gehuldigd , En de erfgravin haar heil aan myn voogdy verschuldigd !	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.2	ô Ja , misleide bruid !	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.3	de neiging van het bloed , Uw moeder onbekend , weêrstreeft in myn gemoed De staatzucht , die my noopt u 't wettig erf te ontrukken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.4	Zou ik , die u beklaag , u trouwloos onderdrukken ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.6	hoeveel de drift tot hoogen staat vermag , Ik min uw ' welstand meer dan 't onbepaald gezag .	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.7	ô Diedrik , die , verraên door listige Adelheide , In 't sterfüur vruchteloos om Willems byzyn schreide , En door uw ' laatsten wensch , aan my te spade ontdekt , In myn geheugenis een ' lieven broeder strekt !	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.8	Versterk de kracht van 't bloed in myn bewogen zinnen .	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.9	Ik heb u fel gehaat ; ik wil uw spruit beminnen ; Ik ben , naar uw begeerte , en zuchtende om uw dood , Een vader voor uw wees , een toevlucht in haar ' nood .	Emotion_Hatred_Love
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.10	U , Amstel , heel ik niet , dat teder medelyden En woeste staatzucht in myn ziel elkaêr bestryden .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.11	Indien ik laf bezweek voor 't vleijend zelfbelang , En tot myne oneer doelde op Adaas ondergang , Ik zou dit hartsgeheim u niet te kennen geven .	None
+stee033adag01_01.TEI.2.text.body.div.sp.826.s.1	Het past den grootsten held naar de opperste eer te streven .	None
+stee033adag01_01.TEI.2.text.body.div.sp.826.s.2	Maar in myn afzyn word uwe Ada licht verleid .	None
+stee033adag01_01.TEI.2.text.body.div.sp.826.s.3	Vaarwel .	None
+stee033adag01_01.TEI.2.text.body.div.sp.826.s.4	Verdien myn hulp door edelmoedigheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.829.s.1	Willem ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.2	wreede drift !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.3	uw werkend zielvermogen Verdoofde in my misschien natuur en mededoogen , Zo gy met beter kans , tot nadeel van myne eer , Naar 't hoog bewint mogt staan .	Honor_Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.4	ô Glorie !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.5	triomffer ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.6	Wie nadert ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.7	't Vorstlyk kleed , haar jeugd , met smart beladen , Toont Ada .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.8	Zou myn drift de onnoozelheid verraden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.843.s.1	Ada , Willem , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.1	In 't bitterste ongeluk zoekt Diedriks angstig kroost By Willems afgezant een ' ongemeenen troost .	Fear_Emotion_Unhappiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.2	Uw graaf , wiens magt ik vrees , wiens haat men wil vermyden , ô Hugo !	Fear_Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.3	kan alleen my van geweld bevryden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.4	Zie hier , uit vreemden dwang , in billyk harteleed , Het rouwgewaad verkeerd in 't prachtig bruiloftskleed , 't Paleis weêr opgesierd , my tot een ' echt verwezen , Die Ada schandlyk is , die Willem staat te vreezen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.5	Verhoed myn ' ondergang : ik stem dat huwlyk niet , Maar wacht in ryper jeugd op 't wettig landgebied .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.6	Ik meld myne onschuld u met ongeveinsde tranen .	BodyPart_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.7	Zoud gy , om tot myn ' rang uw ' graaf een ' weg te banen , In koelen moede zien dat Ada schandlyk huw ' ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.8	Dat ik , gedwongen tot een misdaad , ..?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.10	ik gruw Zo hem geen snood belang myn ' val heeft doen besluiten ' Zult gy dien echt , die bron van bloedig oproer , stuiten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.11	Verdenk geen treurend hart van looze veinzery ; Heb deernis met myn jeugd ; besef wat smart ik ly .	Emotion_BodyPart_Compassion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.870.s.1	Natuur !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.870.s.2	verraad my niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.868.s.1	ter zyde .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.875.s.1	Gy peinst !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.875.s.2	Wat doet u zwygen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.875.s.3	Zal de onschuld , zwaar verdrukt , by niemant troost verkrygen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.880.s.1	Gy zegt my veel , mevrouw .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.880.s.2	Vlie de u gedreigde schand '; En wacht een wonderstuk van Willems afgezant .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.885.s.1	Ada , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.1	Wat antwoord , Hildegaard ! 't vergroot myn wreede kwelling ; 't Verzwakt myn kranke hoop .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.3	moest ik , tot herstelling Van myn ' geschonden roem , onwetend ' my verraên ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.4	Ik smeek den afgezant , en hits de tweedragt aan : Ik poog , verbeeld hy zich , hem listig uit te hooren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.5	Word my , door Hugoos komst , een beter lot beschoren ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.6	Of wekt hy , tot myn ' ramp , des lands aêlouden twist ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.7	Ik terg hem , hoe 't ook zy , door myn gewaande list .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.8	Myn moeder !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.9	moest ik u met wreeden dwang betichten , En by dien afgezant niets tot myn heil verrichten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.10	Vergeef my 't stout bestaan ; het is uit nood geschied .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.11	'k Wil u gehoorzaam zyn , maar tot myn schande niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.12	Al kan myn droefheid niets op uwe wreedheid winnen , Noch pleit natuur voor u in myne ontstelde zinnen .	Worry_Emotion_BodyPart_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.913.s.1	Men oogt op uw gebied ; nu blykt het klaar , mevrouw : En gy , noch willens blind , verfoeit een nutte trouw !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.913.s.2	Gy kunt uw weigring nu met reden niet verschoonen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.913.s.3	Hoe durft uw fiere jeugd een tedre moeder hoonen , Die schyn van oneer lyd om uw gedreigd belang ?	Emotion_Other
+stee033adag01_01.TEI.2.text.body.div.div.sp.913.s.4	Verkiest gy roekeloos een ' wissen ondergang , Terwyl uw minnend hart , gevleid door haar bevelen , Met jongen Lodewyk uw erfrecht wenscht te deelen ?	Emotion_BodyPart_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.1	Verzwaar myn kwelling niet ; verdryf uit myn gemoed , Door uw ' getrouwen raad , een ' dwazen minnegloed , Een zielverteerend vuur , de grootste myner plagen .	BodilyProcess_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.2	Hier durft een moeder my door fellen dwang vertsagen , Daar dreigt my 't staatsgevaar ; nu vrees ik Willems magt , Dan de onuitwischbre schand ' van myn beroemd geslacht ; En onophoudlyk zweeft voor myn bekreten oogen Het beeld eens vaders , wien de dood my heeft onttogen : Noch moet myn teder hart , by de yslykste ongeneugt ' , De liefde wederstaan in 't bloeijen myner jeugd , Ja , tegen 't moederlyk bevel , een min verzaken , Die , met myn ' pligt vereend , my zou gelukkig maken .	Emotion_Happiness_BodyPart_BodilyProcess_Love_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.3	Ik ken myn ' vaders wil , zyn ' broeders recht , myne eer .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.4	Natuurpligt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.5	sterk myn deugd : dat Ada triomfeer ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.6	Zou Diedriks weenend kroost uit laffe drift gehengen ..?	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.7	Maar Lodewyk verschynt ; ik zal myn ' pligt volbrengen .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.937.s.1	Ada , Lodewyk , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.950.s.1	Vorstin , verbeeld u niet , by 't nadrend oogenblik Van 't zeldzaam echtverbond , terwyl ik hoop en schrik , Daar u de kracht van 't bloed een ' vader doet beschreijen , Dat u myn tedre min met bruiloftsvreugd zal vleijen : ô Neen !	Fear_Emotion_Hope_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.950.s.2	dit aklig feest eischt tranen ; 'k ween met u : Nooit leed uw bruidegom zo groot een smart als nu : En echter , zo myn hart niet mogt naar 't uwe dingen , Ik zou de droefste zyn van alle stervelingen .	Emotion_BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.950.s.3	Vergunt gy dat ik vraag ' , in uw ' gepasten rouw , Of gy myn liefde duld , en stemt in onze trouw ?	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.1	Uw groote ziel , mynheer , voldoet aan myn verwachting : Uwe edelmoedigheid verdient eene eindlooze achting , Een eedler hart dan 't myne , en 't opperste gebied .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.2	Nu gy myn smart gevoelt , betaamt my 't haten niet .	Emotion_EmotionalAction_Hatred_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.4	zou zich Ada met ondankbaarheid bevlekken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.5	Maar kan ik ooit met u myn huwelyk voltrekken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.6	Dat schandlyk trouwverbond , uw zuivre min onwaard ' , Besloten in een drift die 't heilig recht niet spaart , Is heilloos voor myn land , en doodlyk voor ons beiden .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.7	Hoop nooit uw droeve bruid naar 't echtaltaar te leiden .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.969.s.1	ô Harde taal !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.969.s.2	Vorstin , vrees Willems landvoogdy ; Ducht zyne ontzinde wraak .	Fear_Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.973.s.1	Myne onschuld pleit voor my .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.977.s.1	Zyn staatzucht ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.988.s.1	Neen , mynheer ; ik zal geen ' Willem duchten , Wanneer ik u niet vrees ...	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.988.s.2	'k Wil niet in schande zuchten .	BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.988.s.3	Verbeeld u echter niet , dat ik , die u beklaag , Die uwe deugden roem , u wederliefde draag , En door een teêr vaarwel , uit dwaze min gesproten , By 't weigren van myn hand , uw kwelling zal vergrooten : Neen , Lodewyk , denk eer : ‘ Dat Ada van my scheid , ‘ Bewyst haar ' bruidegom hare ongevoeligheid .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1003.s.1	Zoud gy , aan my verloofd , noch haat noch liefde kweeken ?	Emotion_Hatred_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1003.s.2	ô Wreede !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1003.s.3	uw afkeer is my duidelyk gebleken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1003.s.5	gy bedekt uw ' haat met Willems heilloos recht , roemen ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1003.s.6	Opdat ik afstand doe van myn ' besloten echt Mevrouw , moet gy myn deugd uit wantrouw veinzend ' Neen ; ducht van my geen ' dwang , die groote zielen doemen ; Denk niet dat Lodewyk , van u gehaat , veracht , Zich ooit bedienen zal van Adelheides magt ; Beken vry dat uw hart door afkeer word bewogen , Schoon ik , met hoop gevleid , en jammerlyk bedrogen , De smartelykste dood voor uw verachting kies , Die my de ziel verscheurt , noch meer dan uw verlies .	Suspicion_Emotion_Hatred_Hope_BodyPart_BodilyProcess_Sadness_Disgust_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.1	Veracht ik u , myn heer ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.3	hoe kunt gy 't wanen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.4	Wat hartstogt my beweegt , bewyzen u myn tranen .	BodyPart_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.5	Is dit u haten ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.6	is dit wreedheid ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.7	Word myn jeugd Niet fel genoeg bestreên ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.8	belaagt gy óók myn deugd ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.9	Ik , door myn ' vaders dood elendig , door zyn ' broeder Met dwinglandy gedreigd , door myne ontaarde moeder In dieper wee gestort , en in de zwaarste smart Verpligt te stryden met de neiging van myn hart ; Ik , dus ten doel gesteld aan 't woeden myner plagen , Moet noch , van troost ontbloot , uw bits verwyt verdragen ô Onverwachte ramp !	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.10	ô dubbel zielverdriet !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.11	Ken , ken my , Lodewyk : uwe Ada haat u niet ; Zy mint u ...	Emotion_Hatred_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.12	Moest die taal my in myn'rouw ontglippen ?.	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.14	zo geen strenge pligt ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.15	De schaamte sluit myn lippen .	Emotion_BodyPart_BodilyProcess_Shame
+stee033adag01_01.TEI.2.text.body.div.div.sp.1028.s.1	Neen ; bloos niet ; neen , mevrouw : myn hart , in zegepraal , Zal niet ondankbaar zyn voor zulk een lieve taal : Ik wil , van u bemind , veeleer van liefde sterven , Dan , levende in uw ' haat , uw waarde hand verwerven .	Joy_Emotion_Hatred_BodyPart_BodilyProcess_Love_Shame
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.1	Ik ken den graaf van Loon aan die grootmoedigheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.2	Gy ziet vorst Diedriks wees , die haar verlies beschreit , De tranen van natuur en liefde samenvoegen .	BodyPart_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.3	Laat die bekentenis voor altoos u vernoegen ; Ontvlie voor eeuwig my ; bedwing zo verre uw min .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.4	Nooit zal uwe Ada , nooit zal Hollands erfgravin Haar ' bruîgom als tyran in Diedriks erfdeel lyden : Ik wil , ô Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.5	zo groot een schande myden , Geen ' adel , geen gemeente ooit , tot myn ' ondergang , Doen treden , tegen my , in Willems wreed belang .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.6	Stort my dan 't onheil neêr , durft hy zyn ' pligt vergeten , Ik zal met roem vergaan , en met een vry geweten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.1	Gy mint , en voert die taal !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.2	Dat glorieryk besluit , Waardoor myn liefde groeit , terwyl 't ons huwlyk stuit , Heeft Amstels wyze raad gewis u ingegeven .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.4	uw hooge deugd is moeilyk na te streven , En stort myn blakend hart in eindeloozen druk , Na 't vleijend denkbeeld van myn ingebeeld geluk .	Emotion_Happiness_BodyPart_BodilyProcess_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.5	Ik zie , mevrouw , ik zie wat deugden ons betamen : Uw min tot Lodewyk behoeft ge u nooit te schamen : Ik wil , terwyl uw pligt het huwen ons ontzegt , Uw liefde waardig zyn ; ik staaf een wettig recht ; 'k Verzaak myn hoogst geluk , eer 't u gedy ' tot schande , En doe voor Adaas heil de erbarmlykste offerhande .	Emotion_Happiness_Love_Shame
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.6	Vaarwel in eeuwigheid ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.7	Wy zien elkaêr nooit weêr ; Gy zult uw ' bruidegom vergeten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1071.s.1	Neen , mynheer : Myn afgematte geest , hoeveel 't myn rust zal krenken , Wil onophoudelyk uwe eedle min herdenken .	Emotion_BodyPart_BodilyProcess_Love_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1071.s.2	't Is noodig , tot myn ' troost , dat gy myn zwakheid weet , Opdat myn bruîgom nooit zyn droeve bruid vergeet ' !..	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1071.s.3	Myn moeder nadert ons .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1071.s.4	Laat Ada nu aanschouwen Hoe veilig zich haar hart op 't uwe mag betrouwen .	BodyPart_Trust
+stee033adag01_01.TEI.2.text.body.div.div.stage.1075.s.1	Adelheide , Ada , Lodewyk , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1085.s.1	Mevrouw , zie hier een blyk van ware dankbaarheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1085.s.2	Een minnaar , door uw gunst in al zyn hoop gevleid , By wien myn beden meer dan liefde en heerszucht baten , Doet afstand van myn ' echt , en van myn hooge staten ; Zyn edelmoedig hart kiest , deelende in myn ' druk , De glorie van zyn bruid voor 't zorglyk echtgeluk : 't Is hem bekend wat ramp uit onze trouw kan spruiten .	Emotion_Happiness_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1089.s.1	Hoe weet uw strenge deugd myn liefste drift te sluiten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1098.s.1	Is 't mooglyk , Lodewyk , indien gy waarlyk mint , Dat u , niet laf van aart , eene ydle vrees verblind ?	Fear_Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1098.s.2	Schep moed ; ontfang een bruid , u door myn gunst beschoren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1098.s.3	Uit uw ' besloten echt word al ons heil geboren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1098.s.4	Geloof my , tot bewys van uwe erkentenis ; Of denk dat Lodewyk geene Ada waardig is .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1107.s.2	zou myn moed , vorstin , uit laffe vrees bezwyken ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1107.s.3	Waar moet , tot Adaas heil , myn trouwe liefde blyken ?	Emotion_Love_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.1107.s.4	Hoe voed uw bits verwyt myn felle minnepyn !	Emotion_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1107.s.5	Moet ik door huwlyksdwang myn schoone onwaardig zyn ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1107.s.7	ik wil myn bruid op de eêlste wyz ' beminnen .	EmotionalAction_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1111.s.1	Volhard , ô Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1111.s.2	uzelven te overwinnen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1120.s.1	Misleide minnaar !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1120.s.2	vrees de gramschap van een vrouw , Die , schoon ze in 't heimlyk treurt , in 't openbaar den rouw In 't prachtig feestgewaad uit nooddwang moet verbergen .	Emotion_EmotionalAction_Sadness_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.1120.s.3	Gy zult myn zuchtend hart niet lang door weigring tergen .	BodyPart_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1120.s.4	Een ander bruidegom , bezield met eedler min , Zal 't waardig voorwerp zyn ...	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1124.s.1	Wat zegt gy ?..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1124.s.2	Ach , vorstin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.1126.s.1	Ada ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1135.s.1	Uwe Ada zal haar ziel met ontrouw nooit besmetten : Myn pligt , myne eer , uw mui zal 't huwen my beletten .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1135.s.2	Ontäarde moeder , die myn hartewee vergroot , My tot een misdryf noopt , myn wis verderf besloot !	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1135.s.3	Uw wreedheid wettigt my 't verpligt ontzag te breken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1135.s.4	Ik wil in 't vry gemoed geen strafbre liefde kweeken .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1128.s.1	tegen Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1139.s.1	Vermeetle !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1139.s.2	welk een taal !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.1	Vergeef my die , mevrouw : Myn ongelukkig hart is aan zyn ' pligt getrouw .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.3	dwing my langer niet met weerzin u te hoonen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.4	Ik wil , als dochter , u gehoorzaamheid betoonen : Maar weiger my niet meer uw ' moederlyken troost , En eisch geene enveldaad van uw elendig kroost .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.5	Vaarwel , myn bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.6	Ik zal dien naam u geven , Zolang gy waardig zyt in echt met my te leven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.7	Uw droeve bruid ontvlied voor eeuwig uw gezigt .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1155.s.1	Voor eeuwig !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1155.s.2	Wreed besluit !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1159.s.1	ô Al te strenge pligt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1164.s.1	Hoe kan ik scheiden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1164.s.2	hoe myne Ada eeuwig derven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1168.s.1	Gy moet , ô Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1168.s.2	dit op uw hart verwerven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1172.s.1	ô Weêrgaêloos verlies !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1176.s.1	ô Doodlyke ongeneugt ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1182.s.1	Vaarwel ; denk aan myn liefde .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1180.s.1	Ada ombelzende .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1186.s.1	Ik denk aan uwe deugd .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1190.s.1	Adelheide , Lodewyk , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1197.s.1	Betoon uw schreijend kroost de deernis van een moeder ; Hoor Willems afgezant ; bevredig Diedriks broeder .	Emotion_BodilyProcess_Compassion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1197.s.2	Beproef , mislukt het u , beproef myn ' moed , vorstin ; En zie de heldendaên der hopelooze min .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.1	Verliefden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.2	moet ge om stryd , in weêrwil uwer harten , Uit haat tot uw geluk , een tedre moeder tarten ?	Emotion_Happiness_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.3	Daar u myn gunst vereent , tot wanhoop overslaan ?	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.4	My tergen met verwyt ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.5	myn nutte zorg vermaên ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.6	Gy noopt myn grimmigheid uw wrevle drift te doemen ; En dwingt my teffens u , grootmoedigen !	Emotion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.7	te roemen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.8	Beklaag , myn Hildegaard , beklaag hun ongeluk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.9	Zaagt gy dat teêr vaarwel ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.10	zaagt gy hunn ' fellen druk ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.11	En echter zien wy hen , om smaad en schimp te weeren , Op 't hevig mingeweld doorluchtig triomferen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.12	Zo heb ik vruchteloos , op uwen vreemden raad , Den zwarten rouw verkeert in 't blinkend feestgewaad , Opdat men 't jeugdig hart der droevige Ada vleide .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.13	Haar fierheid ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.14	Maar die past aan 't kroost van Adelheide .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1232.s.1	Verbreekt gy dan , mevrouw , uw loflyk staatsbesluit ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1232.s.2	Verydelt gy myn zorg , die in de jonge bruid Een krachtig liefdevuur behendig heeft ontstoken ?	BodilyProcess_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1232.s.3	Zie , zie Oostvrieslands graaf eerlang op 't felst gewroken Door uwer vrienden dood , en in uw vorstlyk bloed .	EmotionalAction_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1232.s.4	Betoont gy Ada dus een moederlyk gemoed ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1232.s.5	Verraad ons allen niet door ydel mededoogen ; Geef nooit aan Willems haat een doodlyk staatsvermogen ; Voltrek de nutte trouw : uw afstand is te laat ; Men weet uw ' toeleg .	Emotion_Hatred_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1240.s.1	Spaar uw ' vruchteloozen raad : Ik weet wat my betaamt , en zal 't besluit niet breken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1240.s.2	Maar help my Lodewyk in feller liefde ontsteken ; Beweeg de droeve bruid te stemmen in haar ' echt ; Vertoon haar al 't geluk dat haar word toegezegd .	Emotion_Happiness_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1245.s.1	Zy sprak den afgezant .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1245.s.2	'k Moest dat gesprek niet stuiten : 'k Verzelde haar ; hy had geheimen kunnen uiten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.1	Getrouwe , heel my niets .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.2	De bisschop , in 't paleis Reeds aangekomen , sterk ' myn ' moederlyken eisch !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.3	't Hardnekkig paar ontzie dien geestelyken vader !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.4	'k Zal my met hem beraên .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.5	Ken Adelheide nader ; Zie of ik afstand doe .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.6	Niets valt myn ' moed te zwaar : Dit hart wint nieuwe kracht in 't wassend landgevaar .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1256.s.1	Einde van het tweede bedryf .	None
+stee033adag01_01.TEI.2.text.body.div.head.1260.s.1	Derde bedryf .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.1	Hoe doet een wreede min myn hart wanhopend ' blaken !	Emotion_BodyPart
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.2	Ik moet ( ô streng bevel ! ) al myn geluk verzaken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.3	ô Akelig paleis , waarheen ik juichend ' toog !	Joy_EmotionalAction
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.4	Uw vorstlyk feestsieraad is haatlyk in myn oog ...	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.5	Elendige erfgravin !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.6	hoe kan ik u verlaten ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.7	Gy zyt in hoogen nood ...	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.8	Zal u myn byzyn baten ?..	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.9	Ik wil hier waken voor uw wettig eigendom ; Ik wil beletten , dat een ander bruidegom ...	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.10	Verwoede minnenyd !	Emotion_Envy_Love
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.11	vlie , viie uit myn gedachten ; Ik buig voor Adaas wil .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.12	ô Wanhoop !	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.13	geef my krachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.1	Verwinnaar van uw hart !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.2	uwe edelmoedigheid , Gevreesd van Adelheide , en door uw bruid verbreid , Zal u , die meer bedoelt dan talryke onderdanen , Ontwyfelbaar den weg ter eeuwige achting banen .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.3	Volhard ; behoed uzelv ' en uw gedreigde bruid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.4	De bloem des adels barst in eedle gramschap uit , En wil , eer Ada huw ' naar Adelheides wetten , De blinde tyranny door nut geweld beletten .	Emotion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.5	Die raadslag is noch niet aan Diedriks weeûw gemeld .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.6	Zy , die uw liefde kent , en veel betrouwen stelt In bisschop en soldaat , wil 't opzet noch voltrekken , Eer Dordrechts morrend volk een oproer kan verwekken .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1306.s.1	Neen , Amstel ; neen : ik dien my nimmer van haar ' dwang : Myn glorie triomfeert op liefde en staatsbelang .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1306.s.2	Die zege staat my dier .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1306.s.3	Hoe Ada best beveiligd ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1306.s.5	Utrechts bisschop zelf , den kerkdienst toegeheiligd , Verbittert Adaas voogd , uit wrok , door snoode list ; Ontvonkt , uit zelfbelang , het moordvuur van den twist ; Verdrukt graaf Diedriks wees , verhard een tedre moeder .	Emotion_Spitefulness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1306.s.6	Wie zal de onnoozelheid beschermen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1310.s.1	Diedriks broeder .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1314.s.1	Graaf Willem ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1320.s.1	Ja , mynheer : hy gruwt van tyranny , En doelt grootmoedig op de wettige voogdy : Zyn afgezant heeft last voor Adaas heil te waken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1324.s.1	ô Wonder !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1324.s.2	Poogt men u geen logens diets te maken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1333.s.1	Graaf Willems groote ziel , ontlast van allen haat , Is Diedriks weenend kroost een wisse toeverlaat : Gy zult zyn hooge deugd niet lang in twyfel trekken : Hy mint zyn droeve nicht .	Emotion_Hatred_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1333.s.2	Ik mag niets meer ontdekken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1333.s.3	Toon zelf den afgezant uwe edelmoedigheid ; Pleeg raad met Hugo ; steun op zyn getrouw beleid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.1	Die taal verbaast my .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.2	Zal graaf Willem haar behoeden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.3	En zou ik oorzaak zyn van all ' haar tegenspoeden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.4	't Voogdyrecht schenden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.5	hem verraden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.6	Neen , mynheer : Myn min , op u gerust , mistrouwt dien held niet meer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1344.s.1	Wacht Hugo , die terstond hier zal gehoor verbeiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1350.s.1	Ach , Ada !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1350.s.2	uw belang vereischt een eeuwig scheiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1350.s.3	Te zuchten , verr ' van u , in doodelyken druk , Is alles wat ik hoop ...	Emotion_Hope_BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1350.s.4	Erbarmelyk geluk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1355.s.1	De bisschop nadert ons .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1360.s.1	Ik ken zyn looze treken ; Ik schuw hem .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1364.s.1	Vander Are , Lodewyk , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.1366.s.1	Vander Are .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.1	Blyf , mynheer ; vergun my u te spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.2	Gy weigert Adaas hand , in weêrwil uwer min , Op de onbedachte beê dier weenende gravin ; Gy zyt grootmoedig in uw driften te overheeren , Maar overweegt niet wat die schoone meest kan deeren .	Emotion_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.3	Verdoolde !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.4	zaagt gy niet waaruit haar weêrstand sproot ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.5	Zy smoort haar wederliefde uit smart om 's vaders dood .	Emotion_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.6	Haar hart stemt in haar ' echt : zyzelf zal u bevelen Met haar te heerschen , in haar huwlyksmin te deelen .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1381.s.1	Stemt Ada 't echtverbond ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1381.s.2	ô Neen ! 't is my bewust Hoe Adelheides wil haar droeve ziel ontrust .	Fear_Worry_Emotion_BodyPart_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1386.s.1	Haar hart , haar minnend hart vind all ' zyn ' troost in 't uwe , En Hollands hooge nood verpligt haar dat zy huwe .	Emotion_BodyPart_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1394.s.1	In tegendeel , mynheer , vereischt het landgevaar , Dat Hollands erfgravin met Lodewyk niet paar ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1394.s.2	Vergeef my dat ik pleit voor Adaas veege staten , Nu reeds een talryk deel der graaflyke onderzaten Durft spreken voor het recht der landvoogdye .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1404.s.1	Ik weet Hoe Dordrechts morrend volk ontzag en pligt vergeet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1404.s.3	zal men 't graaflyk huis , naar hun gevloekt behagen , Aan Willems ouden haat en dolle staatzucht wagen ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1404.s.4	Schend zelf geen rechten , gy , die voor de rechten pleit : Uw wettig leenheer spreekt ; betoon gehoorzaamheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1408.s.1	Myn pligt is my bekend ; uw rechten zyn my heilig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.1410.s.1	Vander Are ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1414.s.1	Denk ; zo gy Willem vreest , dat ik uw ' echt beveilig .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1421.s.1	Zo Ada 't huwen stemt , is 't enkel uit ontzag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1421.s.2	Ik weet hoeveel een hoofd van Utrechts kerk vermag Op de onbedreven jeugd , op lichtverleide vrouwen , Die op de geestlykheid zich bundeling betrouwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1425.s.1	Wat lastring !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.1	Ach , mynheer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.2	de wanhoop spreekt in my : Die drift verstoore u niet !	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.3	bedenk wat smart ik ly .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.4	Ik dacht in eigendom eene erfgravin te ontfangen : ô Ydle hoop !	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.5	ik moet die schoone , om haar belangen , Voor eeuwig vlieden , jeugd en liefde wederstaan , Al bied een moeder zelf die waarde bruid my aan , Al poogt uw wreed gezag de zege my te ontrukken .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.6	ô Gruwel !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.7	moet ik ook graaf Diedriks kroost verdrukken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.8	Hoe beeft myn teder hart in 't groeijend staatsgevaar Der kwynende vorstin !	Fear_BodyPart_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.9	Wie , wie verdedigt haar ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1442.s.1	Indien de nood haar treft , het is aan u te wyten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1446.s.1	Aan my ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1452.s.1	Aan u alleen , die , wanende u te kwyten Voor Adaas hoog belang , door 't weigren van haar hand Aan Willem tyd verleent ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1452.s.2	Wie stoort ons ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1456.s.1	De afgezant .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1461.s.1	Vander Are , Lodewyk , Willem , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1480.s.1	't Is voor 't gemeen belang , mynheer , een gunstig teeken , Dat Hugo 't achtbaar hoofd van Utrechts kerk mag spreken , Terwyl uwe eigen eer , zowel als Willems recht , Gevaar loopt door 't besluit van Adaas vreemden echt .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1480.s.2	Men mompelt ( zou die taal in my geloof verwekken ? ) Dat gy door 't geestlyk kleed een misdryf poogt te dekken ; De vorstelyke wees , uit eerlooze eigenbaat , Van Diedriks laatsten wil , ja van haar ' pligt ontslaat ; En waant een wrekend volk door uw gezag te stuiten .	EmotionalAction_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1480.s.3	Gy weet wat ongeval uit Adaas echt kan spruiten , Dat kerklyke achtbaarheid in oproer niets vermag , Graaf Willems treffend staal nooit zwicht uit blind ontzag , En dat uw hulp niet past by dat vermetel huwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1480.s.4	Toon Dordrechts burgery hoe de echtdwang u doet gruwen ; Belet , door uw gezag , een schaadlyk trouwverbond ; En sluit den lasteraar op 't glorierykst den mond .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1487.s.1	Uw yver voor myne eer zou mooglyk my behagen , Indien ik noodig dacht by u om raad te vragen .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1487.s.2	't Is my genoeg bekend wat my betaamt , mynheer ; En 't lust my buiten u te zorgen voor myne eer .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1495.s.1	Gy zoud , indien gy wist wat daden u betamen , En zorgde voor uwe eer , dier bitse tale u schamen .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1495.s.2	Ik zie hoe Dordrechts volk , in zyn verwoede spyt , Uw listige eigenbaat rechtvaardig u verwyt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1495.s.3	Zult ge altoos Willems wraak , gelyk weleer , ontvluchten ?	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1499.s.1	Mynheeren , voed geen ' twist .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1505.s.1	ô Jammerlyke vruchten Van 't heilloos trouwbesluit !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1505.s.2	Vorstin , hoe groeit uw nood !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1517.s.1	Gy hoont myne achtbaarheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1517.s.2	Uw roekloosheid is groot .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1517.s.3	Dat Willems afgezant zo stout een taal durft voeren , Bewyst hoe Willem zelf gantsch Holland zou beroeren , Ja luistren naar beklag , natuurpligt , eer noch wet , Indien zyn aanslag niet voorzigtig wierd belet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1517.s.4	Gy durft een heldenstuk ( ô smaad ! ) een misdryf noemen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1517.s.5	Men dingt naar Adaas erf ; myn hulp is niet te doemen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1509.s.1	tegen Willem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.1	Mag Hollands graaflyk huis , om schyngevaar te ontgaan , Van Diedriks laatsten wil vermetel zich ontslaan , Weêrspannig 't hoog gezag der achtbre voogden schenden , En storten 't vaderland in eindelooze elenden ?	Emotion_Pride
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.2	Neen , looze bisschop !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.3	neen ; geen landzaat is hier slaaf .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.4	Het opperstaatsbewint behoort wel aan den graaf , Maar geeft geen vrye magt tot onrechtvaardigheden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.5	Geen loflyk opperhoofd kwetst ooit zyn dierbre leden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.6	De Hollandsche gravin verliest haar heerschappy , Indien ze uw lessen volgt , en stemt tot dwinglandy .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.7	Besef wat zwaren slag uwe Ada heeft te schroomen , En dat ikzelf , niet gy , haar ' val poog voor te komen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1554.s.1	De reden toont , mynheer , aan myn bestreden deugd , Hoe verre ik was verdoold door onervaren jeugd ; En dwingt myn hooploos hart , door wreede min aan 't blaken , Helaas !	Emotion_BodyPart_BodilyProcess_Love_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1554.s.2	u meester van myn droevig lot te maken ; U , die myn liefde doemt ; u , die myn ' echt weêrstaat .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1554.s.3	Ken Adaas bruidegom , die 't pynlyk leven haat , Zyn minnedrift bedwingt ; zie hem tot afstand vaardig , Niet schuldig by uw ' graaf , maar Willems deernis waardig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1554.s.4	Geen schandelyke vrees ontwringt my deze taal : Uw vorst , hoeveel geducht door zyn gelukkig staal , Hoe moedig op zyn ' roem , in 't heilig land verkregen , Zou nooit myn staatzucht , nooit myn tedre min bewegen Van Adaas heerschappy en huwlyk af te staan ; Hy vond hier nieuwe stof tot zeldzame oorlogsdaên ; Zo de eer my niet verbood de landvorstin te dwingen , En , tot haar ongeluk , naar 't graaflyk erf te dingen .	Fear_Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1563.s.1	Mynheer , uw groote ziel red uw doorluchte bruid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1563.s.2	Gy , neem een voorbeeld aan zyn loffelyk besluit .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1561.s.1	Tegen den bisschop .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1568.s.1	Zie Adelheide .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1568.s.2	Denk hoe zwaar gy ons beleedigt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1568.s.3	Graaf Willem word misschien door die vorstin bevredigd .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1572.s.1	Adelheide , Vander Are , Lodewyk , Willem , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.1	Eer ik u hoor ' , mynheer , is 't noodig dat u blyk ' Of Willem nadeel lyd , al heerscht hier Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.2	En gy , mynheeren , weest getuigen hoe myn zinnen , Voor 't algemeen geluk , den ouden haat verwinnen .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.3	Het leen Oostvriesland zy uw ' graaf ten eigendom , Indien hy 't huwlyk stemt van Adaas bruidegom , Het vorstlyk paar in rust haar erfdeel laat regeeren , En de oude vyandschap in vriendschap doet verkeeren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.4	Die held , alom beroemd door moedig krygsbeleid , Verwerve een ' nieuwen lof door edelmoedigheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.5	Hy strekke een ' toeverlaat voor hof en onderdanen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.6	Dit eischt zyn waar belang ; dit eischen Adaas tranen .	BodyPart_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1580.s.1	Tegen Vander Are , Lodewyk , en Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1584.s.1	Tegen Willem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.1	Gy schenkt Oostvriesland hem !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.2	Vorstin , is 't in uw magt ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.3	't Is Adaas erf .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.4	Hy zou , indien hy 't oorbaar dacht , Uw minderjarig kroost niet van een deel berooven , Maar all ' de staten van zyn ' broeder zich beloven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.5	Denk niet dat Willem zich met zulk een grootheid vlei ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.6	Is u zyn vrindschap waard , zo geef hem vrygelen ' Op Diedriks uitvaart ; schroom zyn droeve nicht te dwingen , En 't zorglyk trouwverbond vermetel door te dringen ; Voldoe zyn recht ; en zie , tot heil van all ' den staat , In Adaas trouwen voogd een ' wisten toeverlaat .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1614.s.1	Bedwing uw stoute tong .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1614.s.3	zou ik laf gedoogen , Dat Ada zich begeve in Willems trots vermogen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1614.s.4	Dat hy , in dollen haat , met muitren zich vereen ' ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1614.s.5	De ontveinsde staatzucht wreed den teugel viere ô Neen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1621.s.2	dat geen hevigheid het twistvuur weêr ontsteke !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1621.s.3	Vorstin , 't is noodig , dat Oostvrieslands graaf u spreke .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1621.s.4	Men kieze tyd en plaats tot onder handeling ; Men geve gyzelaars ; men make een nut verding .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1630.s.1	Ik , yvrig om myn bruid aan ramp op ramp te onttrekken , Vorstin , wil by dien graaf uw ' gyzelaar verstrekken , U toonen hoe myn ziel de hulplooze Ada mint .	Emotion_BodyPart_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1630.s.2	Wat heil , indien die schoone een wenschlyke uitkomst vind , En ik , gevonnisd haar in eeuwigheid te derven , Tot haar beveiliging mag vlieden , kwynen , sterven !	EmotionalAction_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1636.s.1	Mevrouw , stort Ada niet in dieper staatselend ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1636.s.2	't Vermetel trouwbesluit is Willem reeds bekend .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1636.s.3	Gy weet niet wie met hem zich tegen u verbinden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1640.s.1	ô Spyt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1640.s.2	ik ben verraên door myn gewaande vrinden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1648.s.1	Het puik der eedlen waakt voor 't recht der landvoogdy ; Ja zou , in Adaas erf , eer hooge heerschappy , Indien 't zyn aandeel in 't voogdyschap moest verliezen , Eer Diedriks broeder , dan een ' vreemdeling , verkiezen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.1	Die vreemdeling ontziet de glorie van zyn bruid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.2	Mevrouw , gy kent myn drift voor uw doorluchte spruit ; Gy weet wat smart ik ly met vruchtloos haar te minnen : Maar de invloed van haar ' pligt op haar verheven zinnen , De tranen die zy stort , de luchten die zy loost , 't Verdubbeld staatsgevaar van uw beminlyk kroost ; Ach !	Emotion_BodyPart_BodilyProcess_Love_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.3	alles dwingt my , haar in eeuwigheid te schuwen : Ik heb gehoopt , vorstin ; nu doet die hoop my gruwen .	Emotion_EmotionalAction_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.4	Vernoeg Oostvrieslands graaf , den adel , Adaas deugd ; Behoed haar vorstlyk erf , haar glorie , hare jeugd ; En overweeg met erust hoeveel haar rampen groeijen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.6	ik zie uw ' druk !	Worry_Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.7	Laat vry uw tranen vloeijen ; Verberg die droefheid niet ; die smart strekt u tot eer : Geef , geef aan Diedriks wees een tedre moeder weêr .	Emotion_BodyPart_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1671.s.1	Ik zweeg te lang .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1671.s.2	Vorstin , wees uw belang indachtig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.1	Maakt een list uw groote ziel neêrslagtig ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.2	Geeft moedige Adelheide , uit zwakheid , tot haar schand ' , Een zorgelyk geloof aan Willems afgezant ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.3	En zult gy , ongewoon in 't grootst gevaar te beven , Uw dierbaarst pand , uit schrik , dien wreker overgeven ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.4	Mistrouw een ' vyand , die uw vrinden valsch beticht , Alleen opdat uw hart voor ydel dreigen zwicht ' , Of , in de onzekerheid op wien 't zich mag verlaten , De hulp dier vrinden derv ' voor Adaas veege staten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.5	Ziedaar het oogmerk van 't gezantschap .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.6	Kies , mevrouw , Of wraak van ouden haat , of hulp van ware trouw .	Emotion_Hatred_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1679.s.1	tegen Adelheide .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1704.s.1	Gy opent myn gezigt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1704.s.2	Ik zal , in spyt dier lagen , Niet aan Oostvrieslands wrok 't geluk van Holland wagen .	Emotion_Happiness_Spitefulness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1704.s.3	Hoe listig poogt men my , uit veinzend zelfbelang , Te lokken in den strik , tot Adaas ondergang !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1704.s.4	Hoe blaakt eene eedle spyt in myn getergde zinnen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1704.s.5	't Is eertyds my gelukt graaf Willem te overwinnen : Hy stryde ; ik vrees hem niet , ô neen ! 'k wacht andermaal , In myn gerechte zaak , een wisse zegepraal : Die wrevle vyaad zie myn ' moed , gelyk voordezen !	Fear_Emotion_Annoyance
+stee033adag01_01.TEI.2.text.body.div.div.sp.1708.s.1	Rampspoedige erfgravin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1708.s.2	gy zyt ten val verwezen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1715.s.1	Nochtans , indien uw vorst myn aanbod niet veracht , En tot behoeder strekt van zyn verdrukt geslacht , Zo wil hem Adelheide onfeilbaar noch doen blyken , Dat haar gesarde wraak voor 't staatsbelang moet wyken .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1720.s.1	Hy zal , verwittigd hoe de bisschop u misleid , Verzuchten om uw ' ramp , uit mededoogendheid .	Emotion_BodilyProcess_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1724.s.1	Ontzinde !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1731.s.1	Uw trotsheid is te hoog in top gesteigerd .	Emotion_Pride
+stee033adag01_01.TEI.2.text.body.div.div.sp.1731.s.2	Ontdek myn aanbod hem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1731.s.3	Hy beve , indien hy 't weigert !	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.stage.1733.s.1	Zy vertrekt met den bisschop .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1739.s.1	Vorstin , verhoor myn beê .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1737.s.1	baar volgende .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1748.s.1	Hoe groeit de tweedragt aan !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1748.s.2	Ach , vorst !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1748.s.3	wat nu verricht ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1754.s.1	Ik smeed een groot bestaan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1754.s.2	Vooreerst zy Lodewyk door ydle hoop bedrogen .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1754.s.3	Het deert my : maar de nood verwint myn mededoogen .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1759.s.1	Hy keert , en zoekt uw hulp .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1763.s.1	Versterk een nutte list .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1767.s.1	Lodewyk , Willem , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1772.s.1	Belet , ô afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1772.s.2	belet een ' wreeden twist , Een bloedig staatskrakkeel ; en acht myn bruid onschuldig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1776.s.1	Verwacht dat Willem u tot graaf van Holland huldig ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1780.s.1	Wat zegt gy ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1780.s.2	Deze taal verbystert my 't verstand .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1784.s.1	Uw deugd verdient zyn gunst met Adaas erf en hand .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.1	Wat noopt u veinzend ' my met ydle hoop te vleijen ?	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.2	Durft Willems afgezant my looze strikken spreiên ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.3	Verleent gy nieuwe kracht aan myn verwonnen min , Opdat ik roekloos huwe aan de angstige erfgravin , Uw vorst zich door den kryg een ' ryken buit belove , En haar met schyn van recht het wettig erf ontroove ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.4	ô Vaderlooze wees !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.5	barst uit in bittren rouw : Uw moeder mint u niet ; uw voogd bezit geen trouw ; De ontveinsde heerszucht doelt arglistig op uw staten , En vleit zich met de stem der morrende onderzaten .	Emotion_Love_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.6	Doorslepen afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.7	ik weet wat hoop my voegt .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.8	Naar Diedriks laatsten wil zy Adaas voogd vernoegd Met zyn bepaald gezag , totdat zyzelf regeere ; Opdat da eedlen magt de snoode staatzucht weere !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1809.s.1	Gy hoont haar ' trouwsten vrind .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1809.s.2	Zy vreeze u meer dan hem ; Zy vreeze uw liefde alleen .	Fear_Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1809.s.3	Ik vlei u met zyn stem , Opdat een blinde drift u niet in echt vereene , Eer hy , als voogd erkend , aan u die stem verleene .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.1811.s.1	Amstel ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1818.s.1	Ik heb met zekerheid zyn deugd u reeds gemeld .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1818.s.2	Verwacht geen laf besluit van dien doorluchten held .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1818.s.3	Gy zult , indien uw liefde op hem zich durft betrouwen , Eerlang de ontruste bruid in veiligheid aanschouwen .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1835.s.1	Geef Adelheide hoop dat Willem , die den val Van Diedriks huis niet wenscht , in de echtkeur stemmen zal .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1835.s.2	Hy , die haar vrindschap eischt , heeft lang zyn ' haat vergeten .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1835.s.3	't Voordeelig aanbod zal ik yllings hem doen weten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1835.s.4	Ik ken hem als myzelv ' , en wacht op wissen grond , Nu ik vergeefs voor hem naar 't landvoogdyschap stond , Nu zy hare ooren sloot voor dreigen , voor gebeden , Dat hy , alleen in staat om de eedlen te overreden , Voor Ada hen voldoende , een noodig wonderstuk Teêrhartig zal bestaan voor 't vluchtend landgeluk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1835.s.5	Maar wacht zyn antwoord af : 't zou hem ten hoon verstrekken , Zo gy te schielyk durfde uw ' grooten echt voltrekken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1844.s.1	Hoe teêr ik Ada min , hoeveel ik Amstel acht , Uwe onverwachte taal is echter my verdacht .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1844.s.2	Is 't my vergund , of niet , naar myn geluk te dingen ?	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1844.s.3	ô Nare onzekerheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1844.s.4	ô wreede twyfelingen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.1	Uwe Ada zal u haast van ydle vrees ontslaan .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.2	Ik wil een groot geheim terstond haar doen verstaan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.3	Hoe wenschte ik spoedig haar te spreken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.4	Mag ik 't hopen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.5	En zult gyzelf daartoe die schoone in stilte nopen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.6	Dat niemant haar verzell ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.7	Verwacht , na dat gesprek , Dat ze u de zekerheid van 't nadrend heil ontdekk ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1858.s.1	Gy zult haar zien , mynheer ; en meer en meer beseffen , Dat nooit graaf Willem haar in deugd kan overtreffen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1870.s.1	My blykt uw opzet , vorst .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1870.s.2	Ik roem uw veinzery .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1870.s.3	Hoe listig poogt gy tyd te winnen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1870.s.4	Maar zult gy , De hoop van 't kwynend land , uw dreigende gevaren Verdubblen , door uw ' naam aan Ada te openbaren ?	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.1	Ik zal noch meer bestaan in Hollands hoogen nood .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.2	Hoor , Amstel , wat myn moed voor die gravin besloot .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.3	Gy zaagt de grimmigheid der wrokkende Adelhelde , Dat Utrechts kerklyk hoofd arglistig haar misleidde , Door onze tweedragt doelde op Hollands veegen staat , En wat gehoor zy gaf aan 's kerkvoogds eigenbaat .	Emotion_EmotionalAction_Anger_Spitefulness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.4	Zy zou , met ydle hoop niet lang door my bedrogen , Door 's bisschops looze tong tot woesten dwang bewogen , Geholpen door de min van 't ongelukkig paar , Myn zorg verydlen voor 't ontheiligd echtaltaar .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.5	Zolang de bruid hier blyft , is 't huwelyk te duchten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.6	Ik wil by duisternis van hier met Ada vluchten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.7	Gy schrikt ; ik zie dat reeds uw bystand u berouwt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.8	Maar laat een scherpe wacht , door de edelen betrouwd , De vluchtende Ada naar een veilig oord verzellen , Waar de adel haar verberg ' totdat ik borg zal stellen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1893.s.1	Wat heldendeugd !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1902.s.1	Ik vlie met haar de aanstaande nacht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1902.s.2	Gy weet , verrast men my , wat sterke hulp ik wacht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1902.s.3	Zal Lodewyk geen ' dag den vreemden echtdwang stuiten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1902.s.4	Zal Ada tot de vlucht uit wanhoop niet besluiten ?	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1902.s.5	Men koop ' de lyfwacht om : gyzelf hebt my gemeld , Dat Adaas droevig lot haar trouwe wacht ontstelt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1910.s.1	Het algemeen geluk , uit zulk een vlucht te hopen , Verdient dat gy besluit een groot gevaar te loopen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1910.s.2	Wat eeuwige eer voor u , die , ondanks uw belang , De zuchtende erfgravin behoed voor ondergang !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.1	Haar staatsbelang is 't myne : ik moet haar huwlyk vreezen , Al schynt die bron van twist myn staatzucht nut te wezen : Ik zou , verstoken van de hoop der landvoogdy , Vergeefs my wapenen om de opperheerschappy .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.2	Zou 't edelmoedig paar , dat met verliefde zinnen Een eeuwig scheiden koos , niet alle harten winnen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.3	Hoeveel een krygsmagt zy , zo hoog een deugd is meer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.4	Zie , zie myn waar belang vereenigd met myne eer , En oordeel hoe men zich op Willem mag betrouwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.5	Ga myn geheim besluit aan de edelen ontvouwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.6	ô Ada !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.7	Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.8	vergeeft my 't loos beleid ; Maar overtreft my niet in edelmoedigheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1927.s.1	Einde van bet derde bedryf .	None
+stee033adag01_01.TEI.2.text.body.div.head.1931.s.1	Vierde bedryf .	None
+stee033adag01_01.TEI.2.text.body.div.stage.1934.s.1	Lodewyk , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.1	Deze onverwachte taal verbystert myn gedachten .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.3	zou ik heimlyk iets besluiten met de wachten ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.4	Wat zou myn doelwit zyn ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.5	vleit Willems afgezant Myn hoop in 't einde niet met Adaas erf en hand ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.6	Smeed ik een ' aanslag ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.7	ik ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1947.s.1	Mynheer , waartoe te veinzen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1947.s.2	Verlaat u op myn trouw ; ontdek my uw gepeinzen .	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.sp.1951.s.1	Wat hoor ik !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1951.s.2	durft gy ..?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1956.s.1	Ja , grootmoedig bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1956.s.2	Ik beef , niet min dan gy , voor Adaas eigendom .	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.sp.1960.s.1	Is u bevolen my te toetsen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1960.s.2	Welke treken !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.1	Noch eens , ontveins my niets ; my is genoeg gebleken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.2	De wachten momplen van een loffelyk bestaan , En twisten of men 't my , hunn ' hoofdman , voor zal slaan .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.3	Men heeft ( dit hoorde ikzelf , ) de aanstaande nacht verkoren ; Uwe Ada wierd genoemd .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.4	Wat lot is haar beschoren ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.5	Wie zou iets groots bestaan , tot heil van die gravin , Dan gy , die haar beschermt tot nadeel van uw min ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.6	Moet gy uit achterdocht myn trouwe hulp versmaden ?	Suspicion_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.7	Of bleek u de aanslag niet ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.8	word die vorstin verraden ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.1	Ja , 't is verraad .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.2	Ik schrik .	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.4	niets is my bekend .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.5	Hoe ras , doorluchte bruid !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.6	treft ons een nieuwe elend ' !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.7	Uw trouwe minnaar , die , gevleid in 't hevig blaken , Om uw gedreigd belang zyn liefde moest verzaken ; Uw tedre bruidegom , die , op zyn ' huwlyksdag , Moest afstaan van uw ' echt en Hollands erfgezag ; Die hier ontboden wierd , om in uw min te deelen ; Maar die zyn hoogst geluk versmaadde op uw bevelen , En duizend smarten leed in 't krachtigst vuur der jeugd ; Ziet weêr een ' straal van hoop , wanneer ( ô korte vreugd ! ) Een heimlyk vloekgespan , gereed op u te woeden , ...	Joy_Emotion_Hope_BodilyProcess_Love_Loyalty
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.8	Verraders !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.9	kende ik u !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.10	mogt ik dien slag verhoeden !..	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.11	Hoe beef ik !..	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.12	Dierbaar pand !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.13	men werkt uw ' ondergang .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.14	Myn klagt is vruchteloos ; dit marren duurt te lang .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.15	Laat ons dat mompelen aan Adelheide ontdekken , Om uit de ontrouwe wacht het snood geheim te trekken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1996.s.1	Zie Ada .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2000.s.1	Reinoud , volg ; verzuim geen oogenblik .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2003.s.1	Ada , Lodewyk , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2007.s.1	Mynheer , ontvlucht ge my ?..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2007.s.2	Gy beeft !	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2007.s.3	wat baart u schrik ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2011.s.1	Weêrhou my niet , vorstin ; myn liefde moet u blyken .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.1	Wat hevig ongeduld !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.2	Zo driftig my te ontwyken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.3	Ik weet genoeg hoe groot zyn liefde t ' my waarts is .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.4	Ik vrees een nieuw gevaar in zyne ontsteltenis .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.5	Wat lotverwisseling !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.6	Dit is een droevig teeken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.7	Noch vleit ons de afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.8	hy wil alleen my spreeken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.10	mogt zyn deernis my van twyfeling ontslaan , En myn beklemde ziel haar duister lot verstaan !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.11	ô Liefde , weêr ontvonkt in myne ontroerde zinnen !	Emotion_BodyPart_BodilyProcess_Love_Moved
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.12	Hoe smartlyk zou 't my zyn u nochmaal te overwinnen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.13	Hoe pynigt my de vrees , terwyl de hoop my vleit !	Fear_Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.15	tref Willems hart met mededoogendheid .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.stage.2034.s.1	Ada , Willem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2043.s.1	Troost Diedriks droeve spruit , ô Hugo !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2043.s.2	Wil zyn broeder Grootmoedig zich in 't eind ' verzoenen met myn moeder ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2043.s.3	Zou myn doorluchte voogd , door 't afstaan van zyn recht , Ook de yvrende edelen doen stemmen in myn ' echt , En tegen 't zelfbelang , uit gunstryk medelyden , Een vaderlooze wees van 't smartlykst lot bevryden ?	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2056.s.1	Mevrouw , hy schept geen ' lust in uwen tegenspoed ; Hy leent een gunstig oor aan de inspraak van het bloed , Is vreemd van eigenbaat , en tot uw ' bystand vaardig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2056.s.2	Uwe ongemeene deugd is dier bescherming waardig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2056.s.3	Maar gy , met hoop gevleid in uw verliefde jeugd , Zoud gy , naar 't voorschrift van uw weêrgaêlooze deugd , Indien uw bruîgom hier niet veilig kon regeeren , Uwe eensverwonnen min ten tweedemaal verheeren ?	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.2056.s.4	Schaam u dier liefde niet , na de eêlste zegepraal .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2056.s.5	Men zorgt voor uw geluk : schep moed .	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.1	ô Duistre taal !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.2	Ach , Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.3	uw ziel had reden zich te ontstellen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.4	Wat moet ik , ginds en weêr geslingerd , my voorspellen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.5	Mynheer , wat eischt uw vorst van zyne ontruste nicht ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.6	Spreek duidlyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.7	Niets is my zo dierbaar als myn pligt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.8	Men mag myn zwakke jeugd verliefd , rampzalig heeten ; Maar nooit zal Diedriks kroost een misdryf zich vermeten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2072.s.1	Verheven deugd !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2072.s.2	Vorstin , wees tot een daad bereid , Die ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2076.s.1	Red my spoedig , wreede !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2076.s.2	uit deze onzekerheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2080.s.1	Durft gy volkomen op graaf Willem u verlaten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.1	Ik geef in zyn bestier myn leven en myn staten ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.2	Gy zwygt !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.3	Naar Amstels raad heb ik , ô afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.4	Een vast betrouwen op myn ' waarden bloedverwant .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.5	Verdenk my niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.6	Wat troost is buiten hem te wachten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.7	Verleid geen moeder my ?.. ô Sporelooze klagten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.8	Zyzelf , misleid , verraên , ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.9	Zy is zo schuldig niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.10	Ik zou , wat ongelyk myn zuchtend hart geschied ' , Voor haar , die my bemint , vry willig kunnen sterven .	Emotion_BodyPart_BodilyProcess_Love_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2099.s.1	Vergeet uw ' bruidegom : hy zal u nooit verwerven ; 's Lands welzyn duld het niet : verheer noch eens uw min .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2099.s.2	Hoe deel ik in uw ' druk , verraden erfgravin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2099.s.3	Wie kent uw zuivre deugd , uwe onverdiende plagen , En moet uw deerlyk lot niet ongeveinsd beklagen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2104.s.1	Gy deelt , ô afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2104.s.2	grootmoedig in myn smart !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2104.s.4	trof myn ongeluk niet min graaf Willems hart !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2108.s.1	Het treft hem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.1	Hoe , mynheer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.2	Kan hy myn rampen weten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.3	Ziet hy door stryd op stryd dit hart vanëen gereten ?	BodyPart_BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.4	Weet Adaas trouwe voogd haar droeve zege ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.5	ô Neen !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.6	Meld hem , dat ik den hoon , hem aangedaan , beween ; Meld ...	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2122.s.1	ô Natuur !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2127.s.1	Gy zucht !	BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2127.s.2	gy weent !..	BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2127.s.3	Is dit een teeken ..?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2136.s.1	Gy dwingt my , dierbaar pand !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2136.s.2	tot u rondüit te spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2136.s.3	De ware toeverlaat van uw beroemd geslacht , Uw tedre bloedverwant , graaf Willem , in wiens magt Zich uw gedreigde jeugd kloekmoedig wil begeven , Verlaat zich óók op u , betrouwt u óók zyn leven , Om u te rukken uit de wreedste dwinglandy ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2140.s.1	Wat vreemd geheim !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2144.s.1	Mevrouw !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2148.s.1	Vaar voort .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2152.s.1	Zie hem in my .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.1	Is 't mooglyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.2	gy die vorst !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.3	graaf Willem zelv ' te aanschouwen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.5	En hy durft op Ada zich betrouwen !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.6	Gy !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.7	Amstels duistre taal verborg een heuglyk licht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.8	Wat voerde u hier ter hulp ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2163.s.1	Het bloed , uw deugd , myn pligt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2168.s.1	Waar ben ik ?..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2168.s.2	Blyde dag !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2168.s.3	Is Willems hart zo teder ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2168.s.5	klaag niet meer ; gy vind uw ' vader weder .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2172.s.1	Myn dochter !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2172.s.2	dat ik u omhelze !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.1	ô Groot geluk !..	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.2	Hoe onvoorziens verzagt uw blyde komst myn ' druk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.3	Ik schrei , maar 't is van vreugd ; ik juich in al myn lyden .	Joy_Emotion_EmotionalAction_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.4	Gy weet myn staatselende , en hoe myn hart moet stryden : Myn broze jeugd verliest een ' vader ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.5	Wreede slag !. , Gy vleit myn dwaze min en doemt ze , op éénen dag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.6	Wie zou , na zoveel wee , zich 't minst geluk beloven ?	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.7	En echter deze vreugd gaat al myn smart te boven .	Joy_Emotion_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.9	uw lyfsgevaar verwekt my nieuwe stof Tot vrees ...	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.10	Wist Adelheide ..!	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.11	Ontwyk dit doodlyk hof : ô Myn beschermer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.12	vlie ; ducht hier de wreedste slagen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.13	Moest gy , tot Adaas hulp , uw dierbaar leven wagen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.14	Hoe stoort myn angst de vreugd van 't lieflykst oogenblik !	Fear_Joy_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.15	Ei vlíe ; verlos myn ziel van haar ' gerechten schrik .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2194.s.1	ô Ja ! 't is myn besluit : maar gy zult mede vlieden .	Fear_EmotionalAction
+stee033adag01_01.TEI.2.text.body.div.div.sp.2198.s.1	Ik vluchten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2198.s.2	hoe , mynheer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2208.s.1	Vorstin , het móet geschieden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2208.s.2	Uw groote ziel vreez ' niets dan Adelheides dwang .	Fear_Emotion_BodyPart
+stee033adag01_01.TEI.2.text.body.div.div.sp.2208.s.3	Een deel der wachten , dat , getrouw voor uw belang , Zich aanbied zyn gravin dien wreeden dwang te ontrukken , Zal ons de aanstaande nacht dat vlieden doen gelukken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2208.s.4	Beveilig door uw ' moed 's lands heil , uw ' rang , uwe eer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2208.s.5	Zult gy myn tedre zucht mistrouwen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.1	Neen , mynheer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.2	Myn rampen zyn te groot , dan dat ik laf zou vreezen .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.3	Doorluchte toeverlaat !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.4	gy wilt myn vader wezen ; Gy eischt een nutte vlucht : uw dochter is bereid ; Ik zal gehoorzaam zyn .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.6	waar ' die tederheid , Die u aan 't akligst lot het uwe doet verbinden , Tot myn vertroosting by een moeder óók te vinden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.7	Myn vader !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.8	wreek u niet ; wyt haar vermeetle daad Aan 't hoofd van Utrechts kerk , den smeeder van 't verraad ; Verdryf myn ' bittren angst ; verpligt haar u te minnen .	Fear_Emotion_EmotionalAction_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2232.s.1	Uw deugd kan haat en wraak in myn gemoed verwinnen .	Emotion_Hatred_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2232.s.2	Men spill ' geen ' nutten tyd in vruchteloos gesprek .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2232.s.3	Maak alles vaardig tot uw heimelyk vertrek .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2232.s.4	Intusschen veins met my , opdat men Adelheide Gelukkig met de hoop op uwen echt misleide , De moederlyke dwang u dezen dag niet paar ' , En ik u tydig redde uit al uw staatsgevaar !	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.stage.2236.s.1	Ada , Willem , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2240.s.1	Men smeed verraad , vorstin ; de bisschop legt u lagen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2244.s.1	ô Ramp !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2256.s.1	Wees op uw hoede ; u dreigen felle slagen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2256.s.2	Ik weet , ô myn gravin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2256.s.3	ik weet wat pligt my past .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2256.s.4	Men kerkert menig wacht , op Adelheides last ; De bisschop hitst haar aan ; ze is tegen u verbolgen ; Ik moet , met nieuwe wacht , all ' zyn bevelen volgen ; Op zyn begeerte is hier den uitgang naauw bewaard Door 't krygsvolk , aan de poort van dit paleis geschaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2256.s.5	't Is my gevaarlyk u dit oogenblik te spreken : Maar Diedrik was myn vorst ; myn trouw blyft onbezweken .	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.2264.s.1	Myn hielzaam opzet is uw moeder aangebragt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2270.s.1	ô Doodlyk ongeval !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2270.s.2	Ik heb vergeefs getracht Te vlieden ; al myn hoop op uitkomst is verdwenen : Ik moet myn ' eigen ramp en uw gevaar beweenen .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.2278.s.1	Wat oproer , woede en moord voorzie ik !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2278.s.2	Ween , mevrouw ...	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2278.s.3	Maar neen , heldin , uw moed zy grooter dan uw rouw !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2278.s.4	Ontveins uw bittre smart ; mislei uw looze moeder ; Hoop op de vlucht Vaarwel .	Emotion_Hope_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2285.s.1	Ik sterf met myn ' behoeder : 'k Verlaat u niet , ô neen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2285.s.2	uw lot zy ook het myn ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.2282.s.1	hem weder houdende .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2292.s.1	Gy vreest het ergst : wie weet of wy verraden zyn ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2292.s.2	Ten minste laat uw ' schrik myn doelwit niet ontdekken ; Laat dit byeenzyn u geen ' nieuwen ramp verwekken .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2292.s.3	Hou my niet langer op ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2292.s.4	De bisschop nadert !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2300.s.1	Bedwing u .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2304.s.1	Ada , Vander Are , Willem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2311.s.1	Wacht in 't kort een ' blyden bruiloftsdag ; Vergeet uw ' vaders dood ; laat u de liefde streelen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.2308.s.1	tegen Ada .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2320.s.1	Mynheer , is 't my vergund in uw gesprek te deelen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2320.s.2	Ik hoor met welk een hoop gy Adaas liefde vleit .	Emotion_Hope_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2320.s.3	Zal Hollands hofgez in de aanstaande plegtigheid Van 't vorstlyk echtverbond in Dordrechts wal aanschouwen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2320.s.4	Of moet het edel paar in Willems graafschap trouwen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2320.s.5	Begeert gy dat ik mede in uw geheimen dring ' ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2324.s.1	Uwe ongepaste vraag baart my verwondering .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2328.s.1	Mynheer , wat inzigt ..?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2328.s.2	Kunt gy denken ..?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2328.s.3	Uit u nader .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.1	Ge ontstelt u niet alleen om 't missen van een ' vader .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.2	Gy , Hugo , veinst vergeefs : het is my reeds bekend Tot wat gewigtig einde u hier graaf Willem zend .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.3	't Is Ada met vergund in Dordrechts wal te huwen ; Oostvriesland wacht die eer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.4	Maar hoe !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.5	den dag te schuwen , De nacht te kiezen , om die vorstelyke bruid Te leiden naar uw ' graaf !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.6	wat ongerymd besluit !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.7	't Verbazend meesterstuk van Willems heldendaden Bleek duidlyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2345.s.1	Ydle hoop !	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.2350.s.1	Ik ben op 't snoodst verraden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2350.s.2	Onwaardig kerkvoogd !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2350.s.3	beef .	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2356.s.2	zou ik beven ?	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2356.s.3	Neen , Bedrieger !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2356.s.4	sidder zelf de vrees voegt u alleen .	Fear_Emotion_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2356.s.5	Gy wacht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2356.s.6	genaak .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2361.s.1	Ada , Vander Are , Willem , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2361.s.2	Lyfwachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2366.s.1	Gy durft het recht der volken krenken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2366.s.2	Gy hoont een ' afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2377.s.1	Het past u niet te denken Aan 't ampt dat gy ontëert ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2377.s.2	Men gryp ' hem aan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2377.s.3	Willem , zyn ' degen aan Reinoud overgevende .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.2372.s.1	Reinoud treed toe met de lyfwachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2382.s.1	Vermeetle wachten , die myne onderdanen zyt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2382.s.2	Laat af .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2388.s.1	M [a]n l [e]i ' hem weg ; men poog ' , door pynigingen , Al 't overig verraad op 't spoedigst hem te ontwringen	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2392.s.1	Onlydbre hoon !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2392.s.2	Tyran !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2396.s.1	Afgryslyk oogenblik !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2404.s.2	ken myn ' naam ; zie Willem zelv '; en schrik .	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2404.s.3	Vreest gy geen ' afgezant door pyniging te hoonen ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2404.s.4	Gy zult ten minste ontzag aan Diedriks broeder toonen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2404.s.5	Zie hier uw ' vyand , die op de eedlen zich verlaat , En hier noch meer vermag dan Utrechts eigenbaat .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.1	Gy Willem !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.2	Wat geluk uw snood geheim te ontdekken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.3	Uwe ydle grimmigheid kan my geen vrees verwekken .	Fear_Emotion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.4	Gy wachten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.5	staat my in voor uw ' gevangen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.6	Ga , Verleider ! 'k geef u tyd ; verdien uw lyfsgenaê .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2416.s.1	Wee , Holland !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2416.s.2	vrees myn wraak ; myn goedheid is ten ende : Men dompelt roekloos u in gadelooze elende .	Fear_Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.stage.2420.s.1	Ada , Vander Are .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2426.s.1	Weêrspannige !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2426.s.2	moet gy , trouwhartig bygestaan , Uw tedre moeder by dien dwingeland verraên ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2426.s.3	Gehoorzaam ; 't is noch tyd u van uw ' pligt te kwyten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2432.s.1	Schynheilige !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2432.s.2	u alleen is al myn ramp te wyten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2432.s.3	Een moeder zou haar kroost , ter onuitwischbre schand ' , Niet dwingen , had uw list ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2443.s.1	Uw lot is in myn hand , En 't lot uws bruidegoms .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2443.s.2	Gy zult zyn dood beweenen , Of dezen dag met hem voor 't outer u vereenen .	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2443.s.3	Gy zult uw moeder niet aanschouwen ; neen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2443.s.4	Besluit .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2443.s.5	Gy mint hem : wacht hem hier , en spreek zyn vonnis uit Men zal , zo gy niet huwt , u niet lafhartig smeeken , Maar op den graaf van Loon uw weigring bloedig wreken .	Emotion_EmotionalAction_Love_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.head.2445.s.1	Tiende tooneel	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.1	Hoe yslyk is myn lot !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.2	hoe beeft myn teder hart !	Fear_BodyPart_BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.3	Geliefde bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.4	verwoede minnesmart !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.5	Verfoeilyk staatsbelang !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.6	ô wreedheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.7	felle slagen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.8	Hoe kan ik leven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.9	hoe myn ongeluk verdragen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.10	Gedreigde Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.11	waartoe verwyst men my !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.12	Myn pligt stemt in uw dood ; myn liefde spreekt u vry .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.13	Moet ik ( ô strenge pligt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.14	vereischt gy gruwelstukken ? ) Voor 't onrechtvaardig staal 't onschuldig hoofd doen bukken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.15	Of moet ik , wreede min !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.16	myn ' eedlen stam ten smaad , My schuldig maken aan lafhartig staatsverraad ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.17	Aan bloedig oproer ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.18	aan verwoesting myner landen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.19	Myn angst voorspelt my niets dan woeden , moorden , branden .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.20	Waar vind ik uitkomst ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.21	wie verlost my uit den nood ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.22	Graaf Willem is gehoond ; hy dreigt : myn ' vaders dood Doet my de teêrheid van een waarde moeder derven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.23	Mogt ik haar spreken , ach !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.24	myn bruîgom zou niet sterven ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.25	Hy sterven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.26	Neen , hy leve !... ô Vaderland !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.27	ô eer !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.28	Myn ' minnaars doodsgevaar ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.29	Ik overweeg niet meer ; Ik wil zyn dierbaar hoofd van dat gevaar bevryden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.30	ô Nood !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.31	ontschuldig my .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.32	ô Holland !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.33	zie myn lyden .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.2472.s.1	Elfde tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2474.s.1	Ada , Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2482.s.1	Verzaker van uw min !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2482.s.2	grootmoedig bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2482.s.3	Kent gy 't arglistig hoofd van Utrechts priesterdom ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2482.s.4	Dien schandelyken slaaf van snoode zelf belangen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2482.s.5	Weet gy zyn wreedheid ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2487.s.1	Ja : graaf Willem is gevangen , Uw nutte vlucht belet , al 't hofgezin ontsteld .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2491.s.1	Het smartlykste ongeluk is u noch niet gemeld .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2495.s.1	Staat Utrechts dwingeland naar Willems heldenleven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2499.s.1	Noch dreigt ons feller wee .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2503.s.1	Hoe doet uw angst my beven !	Fear_Emotion_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2508.s.1	Men dreigt uw dierbaar hoofd ; gy zyt in lyfsgevaar .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2508.s.2	Stort neêr voor 't moordend staal , of streef naar 't echtaltaar .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2514.s.1	Ik , die geen dood ontzie , in wanhoop ongeduldig , Wacht uit uw ' lieven mond myn vonnis .	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2514.s.2	Ik ben schuldig ; Ik zelf , door drift misleid , heb u verraden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2518.s.1	Gy ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.1	Ik heb graaf Willem aan des bisschops dwinglandy Onwetend ' blootgestelt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.2	Ik dacht u , door 't ontdekken Van heimelyk verraad , een wis bederf te onttrekken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.3	Ik yverde u ten val .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.4	Hoe was myn ziel beducht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.5	De wachten , omgekocht tot uw besloten vlucht , Maar door myn blinde drift beschuldigd by uw moeder , Verklaarden uw geheim , verrieden uw ' behoeder : En ik , myn misdaad ziende ; ik , roekloos , ongetrouw , Verwoed gepynigd door een vruchtloos naberouw , Ja 't wroegend leven moede , en uw genade onwaardig , Ducht 's bisschops woede niet : verwys my ; wees rechtvaardig .	Emotion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.6	Myn wanhoop eischt de dood in uw ' verdienden haat .	Emotion_Hatred_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2542.s.1	Neen , gy verdient myn min ; gy stemde in geen verraad .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2542.s.2	Ik wil u dezen dag tot echtgenoot verkiezen , En door geen wreede dood myn ' bruidegom verliezen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2542.s.3	Myn keur is reeds gedaan ; men dwingt my .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2542.s.5	verwin Die felle wanhoop ; denk hoe teêr ik u bemin .	Emotion_Love_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.1	Myne Ada mint my noch !..	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.2	Ik zou gelukkig sterven , Zo gy den bystand van graaf Willem niet moest derven .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.3	Hy is in hechtenis ; hy word gedreigd , gehoond , Zyne edelmoedigheid met snoode wraak beloond ; En u , doorluchte wees !	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.4	is alle hulp onttogen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.5	Vrees , Holland !	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.6	vrees ; voorzie oneindige oorelogen , Verwoede weêrwraak , en uw ' wissen ondergang .	Fear_Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.7	Ikzelf , geliefde bruid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.8	verried uw dier belang !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.9	ô Gruweldaad !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.10	ik wrocht ontelbare yslykheden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2559.s.1	'k Vergeef u alles .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2559.s.2	Laat myn liefde u overreden .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2559.s.4	dat ons echtverbond den wreedsten slag weêrhou ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2563.s.1	Begeert gy dat ik leve , en uwen val aanschouw ' ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2567.s.1	Begeert gy dat men u voor 't moordend staal doe bukken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.1	Wyt , wyt aan my alleen uw doodlyke ongelukken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.2	Ik haat , verfoei myzelv ' .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.3	Men pleng ' myn schuldig bloed !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.4	Ik ly de felste smart in 't wroegende gemoed .	Emotion_BodyPart_BodilyProcess_Sadness_Despair_Remorse
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.5	Ik vrees geen strenger wraak dan in die pyn te leven .	Fear_Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.6	Zo gy myn wanhoop wist , gy zoud my niets vergeven .	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.7	Uw gunst , uw liefde , die myn hartewee vergroot , ...	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.8	Vaarwel , mevrouw .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2581.s.1	Vertoef .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2581.s.2	Waar vliegt gy heen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2585.s.1	Ter dood .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.2588.s.1	Twaalfde tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.1	Hy vlucht !...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.2	Ontmenschte !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.3	Moest myn ongeluk noch groeijen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.4	Hy ziet ( ô bittre smart ! ) vergeefs myn tranen vloeijen !	Emotion_BodyPart_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.5	Ik smeek hem vruchteloos !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.6	hy doemt myn min !..	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.7	Welaan , Ik volg uw wet , ô pligt !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.9	zal hy vergaan ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.10	Neen , hy verhoor ' myn beê !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.11	myn doodsangst duld geen wetten .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.12	Verblinde bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.13	ik wil uw dood beletten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.14	ô Liefde !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.15	sterk myn taal ; geef , geef myn zuchten klem ; Beweeg myn Lodewyk ; of , Ada !	BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.16	sterf met hem .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2603.s.1	Einde van het vierde bedryf .	None
+stee033adag01_01.TEI.2.text.body.div.head.2607.s.1	Vyfde bedryf .	None
+stee033adag01_01.TEI.2.text.body.div.stage.2610.s.1	Amstel , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2617.s.1	Wat nieuwe staatsorkaan is yllings opgekomen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.2617.s.2	Is Diedriks broeder hier in hechtenis genomen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.2617.s.3	En dreigt men Lodewyk vermetel met de dood , Zo hem zyn droeve bruid niet kiest tot echtgenoot ?	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.sp.2629.s.1	In uwe afwezendheid is Willems eer geschonden ; En 's bisschops dreigement , den wreedsten aller vonden , Verneemt men uit de klagt der angstige erfgravin .	Fear_Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.2629.s.2	Zy , eerst verwinnares van haar getergde min , Poogt nu met Lodewyk in echtverbond te treden , En tegen Diedriks wil dien bruîgom te overreden .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.sp.2629.s.3	Voor Adaas hoog belang bied hy zyn leven aan : Maar kan zyn teder hart haar wanhoop lang weêrstaan ?	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.sp.2629.s.4	Hoeveel zyn moed vermag , noch is de liefde sterker .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.sp.2635.s.1	Verlos Oostvrieslands graaf op 't spoedigst uit zyn ' kerker ; Betoon uw zuivre trouw ; betoon uw ' heldenmoed ; En zie de onnoozelheid voor dwinglandy behoed .	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.sp.2639.s.1	Mag Ada zich gerust op Willems deugd verlaten ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.2645.s.1	's Lands adel , haar getrouw tot heil der onderzaten , Verliet zich op dien graaf in haar bestemde vlucht .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2645.s.2	Gy voed eene ydle vrees , zo gy den landvoogd ducht .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.2651.s.1	Uw woord is my genoeg ; ik zal myn ' pligt betrachten .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2651.s.2	Maar 't is een stout bestaan ; 't paleis heeft nieuwe wachten ; De looze bisschop waakt ...	None
+stee033adag01_01.TEI.2.text.body.div.sp.speaker.2654.s.1	Amstel	None
+stee033adag01_01.TEI.2.text.body.div.sp.2663.s.1	Ga , Reinoud ; spil geen ' tyd ...	None
+stee033adag01_01.TEI.2.text.body.div.sp.2663.s.2	'k Zie Adelheide .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2663.s.3	Ik rust op uw getrouwe vlyt .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2663.s.4	My lust door stoute taal den nood haar voor te dragen : Ik heb te veel gewaagt , om niet noch meer te wagen .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2663.s.5	Men zie wat best van twee onz ' aller heil bereid ' , Of Reinouds heldenstuk , of haar grootmoedigheid .	None
+stee033adag01_01.TEI.2.text.body.div.sp.stage.2658.s.1	Terwyl Reinoud vertrekt , vervolgt Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2666.s.1	Adelheide , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2671.s.1	Gy , die met leden uit den adel hebt gesproken , Verklaar my hun besluit .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2671.s.2	Word noch 't ontzag verbroken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.1	Ze erkennen dat ontzag niet als een ' pligt van staat , Maar noemen Adaas echt heerszuchtig landverraad .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.2	Ik moet , vorstin , ik moet , in 't veinzen onbedreven , De waarheid in het einde aan u te kennen geven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.3	Graaf Diedriks laatste wil word inderdaad verkracht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.4	Men werkt uw ' ondergang , door 't misbruik uwer magt ; Verdeelt , verzwakt al 't land ; en maakt uwe Ada schuldig , Opdat een twistend volk noch haar noch Willem huldig ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.5	Kan zy , indien zy huwt , zyn strenge wraak ontgaan ?	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.6	De bloem der edelen spant waarlyk met hem aan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.7	Verdrukte onnoozelheid noopt my tot mededoogen .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.8	Herroep uwe oude deugd ; ontsluit intyds uwe oogen ; Vergun Oostvrieslands graaf de wettige voogdy ; En de adel veilige u voor wraak en tyranny !	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.9	'k Laat u alleen ; besluit : uw lot is in uw handen : Verkies den roem der deugd , of't loon der dwingelanden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.1	Men wyt , my hoog verraad ; en , tot myn bittre spyt , Myn hart , myn wroegend hart verdient dat bits verwyt : 'k Heb Utrechts kerklyk hoofd te veel gehoor gegeven .	Emotion_BodyPart_Remorse
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.2	Hy dwingt de ontstelde bruid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.3	hy dreigt haar ' minnaars leven !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.4	Is dit , verdrukten , die grootmoedig my beschaamt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.5	Een lot dat gy verdient ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.6	een dwang die my betaamt ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.7	Gelooft niet , dat ik ook onschuldig bloed zou plengen ; 't Is veinzen ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.8	Maar te wreed ; ik moet , noch wil 't gehengen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.9	Uw rampspoed baart myn ziel eene onverdraagbre smart .	Emotion_BodyPart_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.10	ô Willem !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.11	Adelheide , in 't groot gevaar verward , Gaf u , naar Diedriks wil , 't voogdyschap zyner staten , Indien ze veilig op uw woord zich mogt verlaten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.12	Maar neen ; onze oude haat , die gruwzaam heeft gewoed , Die Holland tranen kost en dierbaar burgerbloed , Ontzegt , ô vyand !	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.13	u dat vreeslyk staatsvermogen : Ik kan uw wraakzucht nooit in 't landbestier gedoogen .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.14	Myn angstig kroost !	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.15	schepmoed ; ik doem des bisschops dwang .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.16	Graaf Willem is verrast ; hy zal , uit staatsbelang , Uw ' onvermydbren echt in 't einde moeten stemmen : In zynen kerker zal myn aanbod beter klemmen : Oostvriesland , hem beloofd , zy noch zyn eigendom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.17	Zyn stem winne ieders hart voor uwen bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2724.s.1	Adelheide , Ada , Vander Are , Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.2726.s.1	Andelheide .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2728.s.1	Myn dochter , wees getroost ; 'k wil u den dwang ontrukken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2732.s.2	durft gy spotten met myn hooplooze ongelukken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2739.s.1	Men heeft de plegtigheid verricht voor 't echtaltaar .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2743.s.2	hoe !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2743.s.3	verricht ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2747.s.1	ô Schaamte !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2747.s.2	ô groot gevaar !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2756.s.1	Uw wreede gunst , vorstin , schenkt myn verliefde zinnen Een onwaardeerbaar pand , de schoonste der gravinnen : Maar , in dat vreemd geluk , stelt gy myne echtgenoot , Uzelve , en 't gantsche land , aan wraak en woede bloot .	Emotion_Anger_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2756.s.2	Van dit ontydig feest zal Holland eeuwig gruwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2756.s.3	Wat blindheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2756.s.4	schandlyk door bedreiging ons te huwen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2760.s.1	Zo spoedig voor 't altaar de plegtigheid verricht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2768.s.1	Myn moeder , zie myn smart met deernis : 'k heb gezwicht ; De ontmenschte bisschop heeft het middel uitgevonden , Waardoor ik , tegen dank , myn glorie heb geschonden .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2768.s.2	Ik wilde u smeeken ; 't is tyrannig my belet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2768.s.3	Gy had , myn wanhoop ziende , ons uit den nood gered .	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.1	Uw echt behoed uw land ; uw min heeft niets misdreven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.2	Moest gy , ontrouwe !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.3	uw lot in Willems handen geven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.4	Ondankbre !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.5	zorg ik niet voor uw bestreên geluk ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.6	Verfoeit gy 't nut bestaan geyk een gruwelstuk ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2780.s.1	ô Looze dwingeland !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2780.s.2	ô bronaêr onzer plagen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2780.s.3	't Voegt u dien wreeden roem op snoode hulp te dragen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2785.s.1	Verleidend hoofd der kak !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2785.s.2	doortrapte huichelaar !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2785.s.3	't Ontbreekt u aan geen ' glimp ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2791.s.1	Bedwing hun tong .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2802.s.1	Barbaar !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2802.s.2	Was 't Adelheides wil door doodschrik hen te dwingen , En , eer men Willem sprak , den toeleg door te dringen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2802.s.3	Gelooft gy dat uw taal , na 't misbruik van 't gezag Dat ik u hier verleende , op my noch iets vermag ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2802.s.4	Is hun verhaaste trouw een nut bestaan te noemen ?	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.2802.s.5	Hun weigring was gegrond ; uw wreedheid is te doemen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2806.s.1	Ik vind , maar ach !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2806.s.2	te spaê , myn waarde moeder weêr .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2817.s.1	Gy scheld en lastert my , terwyl ik 't onheil keer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2817.s.2	Besef uw dwaling , die myne achtbaarheid ontheiligt ; Zie 't graaflyk huis , door my , voor Willems haat beveiligd , Zyn ' trotsen moed gefnuikt , zyn leven in uw magt , En all ' de muiters tot gehoorzaamheid gebragt .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.2817.s.3	Zy beven voor zyn hoofd : vergroot hunn ' schrik door dreigen .	Fear_Emotion_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2821.s.1	Ik wil door weldaên tot erkentenis hem neigen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2829.s.1	Doe meer ; betrouw ons lot aan Willems gloriezucht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2829.s.3	waagt men ooit te veel , wanneer men alles ducht ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2829.s.4	Vertoon hem de eeuwige eer der ware heldenstukken ; Tracht Ada door hemzelv ' aan zyne wraak te onttrukken ; Men onderwerp ' zich aan zyn ' wil !	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2833.s.1	Wat onbescheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2839.s.1	Stel alles aan zyn deugd en edelmoedigheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2843.s.1	Natuur vereischt myn zorg voor uw gedreigde staten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2847.s.1	Behoort my 't erfdeel noch ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2851.s.1	Hier kan geen kennen baten .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2856.s.1	Adelheide , Ada , Vander Are , Lodewyk , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2860.s.1	Wat jaagt u angstig hier ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2864.s.1	De hooge nood , vorstin .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2868.s.1	Wat nood ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2872.s.1	Hoe beef ik !	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2876.s.1	Spreek .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2876.s.2	Verraad my 't hofgezin ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.1	Men brengt de maar ' van één der yslykste euveldaden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.2	Uw hoofdman Reinoud zelf heeft vluchtende u verraden , De rustelooze stad door muitery beroert , Ja Willem , loos vermomd , uit dit paleis gevoert .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.3	Uw vyand , reeds bekend , het morrend volk genaderd , Ontdekt aan 't muitgespan , dat meer en meer vergadert , 't Voltrekken van den echt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.4	Men roept , , Graaf Willem leev ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.5	‘ Dat Adelheide met haar vloekverwanten beev ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.6	Zo schreeuwt men .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.7	De eedlen , in dat oproer toegeschoten , Verleenen Willem hulp , als laffe deelgenooten Van zyn geheim verraad ; zy voeren krygsvolk aan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2894.s.1	Erbarmlyk echt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2898.s.1	Men moet dat woelend rot weêstaan ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2904.s.1	Ziedaar de bittre vrucht ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.2902.s.1	tegen den bisschop .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2909.s.1	Laat ons geen ' tyd verspillen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2913.s.1	Ik zal , door myn gezag , de muitelingen stillen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2918.s.1	ô Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2918.s.2	bescherm uw nieuwe heerschappy : Gy hebt óók helden uit den adel op uw zy ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2923.s.1	Ik zal , myn waarde bruid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2923.s.2	uw vorstlyk erf verweeren : Oostvrieslands graaf zal nooit dan bloedig triomferen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2928.s.1	Myn wanhoop , die ons huwde , elendige echtgenoot !	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2928.s.2	Ontziet noch staal noch woede ; ik streef met u ter dood .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2932.s.1	Mistroostige !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2932.s.2	vertoef .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2932.s.3	Stuit uw gravin , gy wachten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.2	Lodewyk !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.3	Men hoort niet naar myn klagten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.4	Hoe klopt my 't angstig hart !.. ô Doodlyk oogenblik !..	Fear_Emotion_BodyPart_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.5	Geliefde panden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.6	ach !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.7	uwe Ada sterft van schrik .	Fear_Emotion_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.8	Myn bruîgom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.9	moest myn liefde u tot een misdryf dwingen ?	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.10	Ik spaarde uw dierbaar hoofd voor 't staal der muitelingen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.11	Oproerig volk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.12	is dit uw hulde ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.13	uw trouw ?..	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.14	Ik dwaal , Beleedigden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.15	gy voert met recht het dreigend staal ; Gy wilt , eer tot uw ' val de landgevaren groeijen , Gewettigd tot de wraak , het schuldig bloed doen vloeijen .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.16	Maar , wist gy 's bisschops dwang , die wreed ons heeft verleid , Uw woede wierd verkeerd in mededoogendheid .	Emotion_Compassion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.17	Wat aklig krygsgeschreeuw !...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.18	Myn burgers !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.19	myn soldaten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.20	Rechtplegende yveraars !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.21	verraden onderzaten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.22	Zoekt hier uwe offerhande ; en wreekt , alleen op my , Graaf Diedriks laatsten wil en 't recht der landvoogdy .	EmotionalAction_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.stage.2962.s.1	Adelheide , Ada .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2962.s.3	Op den wenk van Adelheide , vertrekken de lyfwachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2967.s.1	Gy keert , vorstin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2967.s.2	gy leeft !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2967.s.3	Is 't volk met u bewogen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2967.s.4	Of zal u de overmagt ontzielen voor myne oogen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.1	Myn krygsgeluk verkeert ; ik wyk voor de eerste reis .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.2	Men staat in slagörde aan de poorten van 't paleis , Om 't uitgelaten volk , dat aangroeit , in te toomen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.3	De woeste burgerschaar ' heeft naauwlyks ons vernomen , Of roept , daar ze om uw ' echt van heete gramschap zied : ‘ Treft Adelheide ; treft den bruîgom ; spaart hen niet .	Emotion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.4	Ik , reeds met pyl en kling gedreigd door die ontzinden , Word in 't paleis gerukt door myne ontstelde vrinden ; En 't hoofd der kerk beproeft of 't bisschoplyk gezag Noch iets op 't grimmig hart van 't muitend volk vermag .	Emotion_BodyPart_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.5	Men ziet , by wapenlooze en onbedreven scharen , Een Zeeuwsch gewapend volk , in oorlogskunde ervaren , Geleid door Willem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.6	U beken ik , u alleen , Dat ik geene uitkomst zie in all ' deze yslykheên .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.1	Op mynen huwlykdag , den laatsten van myn leven , Doet myn verraden min gemaal en moeder sneven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.2	Licht sterft myn bruîgom reeds in dit afgryslyk uur .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.3	ô Doodlyke echt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.4	ô min !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.5	ô glorie !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.6	ô natuur !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3000.s.1	Myn voorbeeld moedige u : men geve Dordrecht blyken , Dat groote zielen nooit in tegenspoed bezwyken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3000.s.2	Duld niet dat Willems haat zich in uw wanhoop vlei '; Verdien , op 't glorierykst , dat Holland u beschrei '; Bedenk wat deugden , als myn dochter , u betamen .	Emotion_Hatred_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3000.s.3	Laat ons den dwingeland in onzen val beschamen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.1	Vergroot myn wanhoop niet : uwe ongevoeligheid Is 't smartlykst ongeluk waarom uwe Ada schreit .	Emotion_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.3	was 't niet genoeg , door 't zielbedroevend sterven , Een ' vader , die my minde , in eeuwigheid te derven ?	Emotion_EmotionalAction_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.4	In myn bestreden jeugd myzelf te wederstaan ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.5	Uit dwang te stemmen tot myn ' echt , tot euveldaên ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.6	Is 't noch te weinig , by 't verliezen myner landen , De wraak ten doel te staan met all ' myn waardste panden ?	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.7	Een moeder , wreeder dan de wrekende overmagt , Versmaad myn tedre zucht , en stuit en doemt myn klagt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3021.s.1	Gy weet niet hoe myn hart in 't heimlyk heeft te stryden ; Gy weet niet wat ik ly in uw onschuldig lyden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3021.s.2	Ik zie myn waar belang ; en 't smart my dat niet eer ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3021.s.3	Die taal vernoege u ; verg myn ' fieren geest niet meer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3029.s.1	ô Bloedige overmoed !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3029.s.2	ô gruwzaamste aller dagen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3033.s.1	Begon men reeds de stryd ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3037.s.1	Ik ducht de wreedste plagen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.1	De muiteling volhard in 't schenden van zyn ' pligt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.2	Vorstin , men had u naauw ' gerukt uit zyn gezigt , Of de aangegroeide magt der trouwlooze onderzaten Borst uit ten aanval op uw bevende soldaten .	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.3	Fluks word men handgemeen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.4	Het ramlend moordgeweer , Op helm en schild beproefd , slaat vriend en vyand neêr , Terwyl , by 't naar gekerm , en onder 't hevig morren En dreigen , in de lucht ontelbre schichten snorren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.5	Men ziet de ruime markt bedekt met stroomend bloed .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.6	De bisschop , Lodewyk , en hun getrouwe stoet , Geneigd te sterven , of de muiters te overheeren , Zyn magtloos 't groot getal dier wreeden af te keeren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3059.s.1	My wierd , ô bittre spyt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3059.s.2	my wierd de stryd ontzegd !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3059.s.3	Dat niemant my weêrhou ' te sterven in 't gevecht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3059.s.4	Verraden kroost !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3059.s.5	vaarwel in eeuwigheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3066.s.2	Bedwing uw'ydlen moed ; maak Dordrecht niet verwoeder .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3063.s.1	Adelheide wederhoudende .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.3070.s.1	Adelheide , Ada , Amstel , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.1	Vorstin , blyf in 't paleis ; ontzie , in 't groot gevaar , De woedende overmagt , de ontzinde burgerschaar ' , Die vorstlyke offers dreigt uit blinde wraak te slachten .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.2	Hoor de uitkomst van den stryd .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.3	De wanhoop gaf ons krachten : Men moest de onnoozle bruid van 't muitend volk ontslaan , Verwinnen tegen hoop , of glorieryk vergaan .	Emotion_Hope_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.4	Zo wierd Oostvrieslands graaf in 't eerst met vrucht bestreden , Ja van de Zeeuwsche hulp door de onzen afgesneden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.5	Hy geeft een teeken ; elk , rondom hem heen , houd stil : Wy nadren , en hy spreekt : ‘ Ik streed voor Diedriks wil ; Maar de uitslag van 't gevecht doet Lodewyk regeeren ; Hy wint myn stem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.6	’ Die list doet Willem triomferen : Zy stuit uwe oorlogsbende , en geeft zyn Zeeuwen tyd ; Men rukt hem uit ons oog ; hyzelf hervat den stryd ; Uw deinzend krygsvolk werpt de wapens uit de handen ; Uw vyand word erkend als graaf van Diedriks landen ; Zyn staatzucht dient zich nu van 't voordeel zyner kling ; En de adel stemt uit nood .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.7	U stond geen muiteling Te duchten ; de onderdaan zou noch voor Ada leven , Zo gy 't bepaald gezag den landvoogd had gegeven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3098.s.1	Is Lodewyk ontzield ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3103.s.1	Ik bleef , by 't woest geweld , Onkundig van zyn lot .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3107.s.1	Hoe is my 't hart bekneld !	Fear_BodyPart_BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3111.s.1	De muiter , noch verhit , doet alles bloedig bukken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3115.s.1	Men kan my 't leven wel , maar nooit den moed , ontrukken .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.3117.s.1	Tiende tooneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.3119.s.1	Adelheide , Ada , Lodewyk , Amstel , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3124.s.1	Gy leeft , rampzalig held !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3124.s.2	myn dierbare echtgenoot !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3124.s.3	Wat kunt gy hopen ?	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.3131.s.1	U te omhelzen vóór myn dood , Een vruchtelooze hulp mistroostig u te zweeren , Zolang ik adem schep uw moorders af te keeren , En hier te sneven aan uw voeten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3138.s.1	Welk een schrik Verscheurt my 't hart !	Fear_Emotion_BodyPart_BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3138.s.2	Myn ramp groeit ieder oogenblik .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3138.s.3	Indien het wrekend staal my 't leven niet doet derven , Dan zal natuur en liefde en wroeging my doen sterven .	Emotion_BodilyProcess_Love_Remorse
+stee033adag01_01.TEI.2.text.body.div.div.sp.3143.s.1	In Adaas doodsgevaar , verwoede burgery !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3143.s.2	Getergde Willem !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3143.s.3	wreekt myn angst u streng op my .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.3147.s.1	Die wreede zal zyn ' haat tot walgens toe verzaden .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.1	ô Felle ramp !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.2	ik heb myne erfgravin verraden , Haar nutte vlucht gestuit , haar dier geheim ontdekt , En in myn blind bestaan haar ' ondergang verwekt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.3	Ik moet van schaamte en spyt het aklig daglicht schuwen .	Emotion_Shame_Remorse
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.4	Ik heb , ( ô snood bedryf ! ) door myn vermetel huwen , Gedreigde landvorstin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.5	uw ' grootsten toeverlaat Verwekt tot vyandschap en onverzoenbren haat : Ik heb den muiter stof tot dolle wraak gegeven : Ikzelf beroof myn bruid van glorie , staat , en leven : Ik schenk , doorluchte vrouw !	Emotion_Hatred_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.6	u tot een huwlyksgift , In myn verraste liefde , in onverschoonbre drift , Op 't heilloos bruiloftsfeest , gevierd in bloed en tranen , Den doodelyken vloek der moordende onderdanen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.7	Hunne onbedachte wraak geeft niemant lyfsgenaê .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.8	De wanhoop , die my grieft , is zonder wedergaê .	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.9	Ik zou de wreedste dood vernoegd in 't oproer lyden , Indien ik stervende u van 't onheil kon bevryden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3173.s.1	Men hoor ' met wat geschreeuw het toomloos Dordrecht woed , En smeek ' den nieuwen graaf om hulp voor 't vorstlyk bloed !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3177.s.1	Het volk is in 't paleis !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3181.s.1	't Zal woedende u vernielen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3185.s.1	't Zal niet , dan in myn ' arm , myn ' bruidegom ontzielen .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.3190.s.1	Adelheide , Ada , Willem , Lodewyk , Amstel , Hildegaard , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.3190.s.2	Gevolg van edelen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3197.s.1	Zeeghafte burgers !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3197.s.2	keert ; betrouwt aan my de wraak ; Gehoorzaamt : 'k weet myn ' pligt in uw gerechte zaak .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3194.s.1	na zyn gevolg uitkomende , tegen 't volk , dat zich niet vertoont .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.1	Zie hier uw vyandin , verwoede !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.2	in uw vermogen ; Maar in haar nederlaag zo fier , zo onbewogen , Als toen ze uw staatzucht dwong door 't alvernielend staal , En 't juichend Holland haar begroette in zegepraal .	Joy_EmotionalAction
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.3	Myn onverzetbre moed beveiligt my voor schande .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.4	Voldoe den muiteling ; geef my ter offerhande ; Vernoeg uw ' ouden haat ; en wyt , uit staatsbelang , Myn dood aan 't grimmig volk , aan onvermydbren dwang .	Emotion_Hatred_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.5	Maar denk , indien uw wraak zich vader uit wil strekken , Dat Ada zich niet poogde aan uw voogdy te onttrekken , Dat zy , dat Lodewyk verdient die wraak te ontgaan .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.6	Verzuimt gy echter hen in 't oproer by te staan , Dan zal dit zelfde volk , na't onbezonnen woeden , Ten zoen van 't vorstlyk kroost uw dwinglandy bevroeden , En , toornig op uw blinde en bloedige eigenbaat , De onnoozle wreken op den roover van haar ' staat .	Emotion_EmotionalAction_Anger_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.7	Zo past het Adelheide , in plaats van laf te smeeken , Voor Diedriks dochter u van lyfsgenaê te spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3223.s.1	Gy durst my dreigen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3223.s.2	gy !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.1	Indien een ware deugd U dezen dag bewoog voor myn verleide jeugd , Des bisschops dwang myn ' echt by 't volk niet kan verschoonen , En Willem noch zyn liefde aan Ada wil betoonen ; Myn dierbre bloedverwant !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.2	myn vader !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.3	sta dan toe , Dat ik eene offerkeur voor Hollands wrekers doe .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.4	Graaf Diedriks laatste zucht was voor zyn ' waarden broeder : Voldoe zyn dochter , door 't behouden van haar moeder ; En spaar myn ' echtgenoot .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.5	Zo hen de wraak vernielt , Word Diedriks eenig kroost in hen op't wreedst ontzield .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.6	Noch smeekt uwe Ada voor uw muitende onderdanen : Ik haat die wrekers niet ; ik stort voor hen óók tranen .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.7	Weêrhou dat woedend volk , eer 's bisschops hoon of dood Voor hen eene oorzaak zy van zwaren oorlogsnood .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.8	Vergun , doorluchte held !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.9	my , op myn laatste bede , Dat ik , de dood getroost , hen onder de oogen trede , Eene eedle deernis by de oproetigen verwerv ' , Of voor myn ' bruidegom en voor myn moeder sterv ' !	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3233.s.1	Knielende .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.1	Zond gy , by 't razend volk uw dierbaar leven wagen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.2	Ik stoorde uw vlucht ; men woede op de oorzaak uwer plagen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.4	hoor naar my ; denk wie u smeekt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.5	Ik ben 't , Uw vyand , reeds door u als Hollands graaf erkend , Maar door uw list misleid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.6	Zult ge op myn beê beletten , Dat zich de oproerigen met Adaas bloed besmetten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.7	Behoed gy Diedriks weeûw ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.8	Ik sta dan 't graafschap af ; En , eischt de muiter wraak , ik ben bereid ter straf .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3271.s.1	Zal 't volk zich over u , als over my , ontsermen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3271.s.2	Wat zal uw groote ziel verrichten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.1	U beschermen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.2	Myn kinders , ryst .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.3	Uw deugd , die met uw plagen groeit , Verrukt myn teder hart , en hield myn tong geboeid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.4	Kloekmoedige Adelheide !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.5	uw haat heeft my beleedigt , Uw ramp heeft my ontroert , uw kroost heeft my bevredigt .	Offended_Emotion_Hatred_Moved
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.6	Myn vrinden , Dordrecht eischt , in woeste muitery , Uw leven : maar gy ziet uw ' toeverlaat in my .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.7	De bisschop , zwaar gewond , is reeds de woede onttogen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.8	Schoon 't volk met tegenzin hem stelde in myn vermogen , Schoon 't u dolzinnig dreigt , vreest echter geen gevaar : Gy zyt min schuldig dan de bisschop , die barbaar .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3275.s.1	Ada omhelzende .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3292.s.2	kan uw deugd al 't ongelyk vergeven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3292.s.3	Gy zyt myn erfdeel waard ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3296.s.1	Moest u myn staal weêrstreven !	None
+stee033adag01_01.TEI.2.text.body.div.div.p.3302.s.1	ADA .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3307.s.3	wat onverwacht geluk !	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3312.s.1	Gy red uw vyandin door 't eêlste heldenstuk , Verbant den ouden haat , ja dwingt my u te minnen .	Emotion_Hatred_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.3316.s.1	Uw deugd , gehoonde vorst !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3316.s.2	kan meer dan staten winnen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3321.s.1	ô Gadelooze held !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3321.s.2	uw moed , uw roemryk staal Verwierf in 't heilig land nooit zulk een zegepraal .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.1	't Verzuim van tyd kan ons een nieuw gevaar bereiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.2	Ik wil den muiteling door hoop op wraak misleiden , Totdat myn vrinden , aan een veilig oord gebragt , Geen wraakzucht vreezen van die woedende overmagt .	Emotion_Hope_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.3	Getrouwe ridderschap !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.4	help my die vlucht bedekken : Gy wilt met vorstlyk bloed myn glorie niet bevlekken : U deert het ongeluk der afgetreurde bruid : Die rampspoed wischt de schuld in 't graaflyk stamhuis uit .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.5	Gy , Amstel , die met smart my wederstand moest bieden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.6	Bescherm , op myn begeerte , uw vrinden onder 't vlieden ; Volg nu , oprechte held !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.7	volg nu , met eedle vreugd , Tot veiliging dier vlucht , het voorschrift van uw deugd .	Joy_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.8	Myn dochter , dat men u naar 't eiland Tessel voere , Eer iemant , tot uw wraak , het wufte volk beroere : Ja streef naar Engelland ; verstrek my daar tot borg Voor de algemeene rust ; weêrspreek geen nutte zorg .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.9	Gy zult in blyder tyd uw vryheid weêr erlangen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.10	Ik houde uw moeder noch uw ' bruidegom gevangen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.11	Gy zult , na dezen togt op nieuw met hen vereend , U troosten in den ramp , dien gy met hen beweent .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3351.s.1	Ik derf myn ' vader wel , maar vind in u zyn ' broeder .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3351.s.2	Vaarwel , myn Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3349.s.1	Zy omhelst Lodewyk , en vervolgt :	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3356.s.1	Myn bruid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3362.s.1	Vaarwel , myn moeder !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3360.s.1	Adelheide omhelzende .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3366.s.1	Myn ongelukkig kroost !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3370.s.1	Wat valt dit scheiden hard !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3376.s.1	Gy zult ons wederzien .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3380.s.1	Die troost verzagt myn smart .	Emotion_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.p.3382.s.1	EINDE .	None

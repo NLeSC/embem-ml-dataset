@@ -1,0 +1,269 @@
+lijn002vlug01_01.TEI.2.text.body.div.head.132.s.1	De vlugt van Eneas , of de dood van Dido ; treurspel .	None
+lijn002vlug01_01.TEI.2.text.body.div.stage.137.s.1	Het Tooneel verbeeld een Zeehaven .	None
+lijn002vlug01_01.TEI.2.text.body.div.stage.137.s.2	Eenig volk is bezig met het goed van Enéas in een schip te laaden ; terwyl het orchest de aria van den houthakker , Mes enfans travaillons gaiment , enz. uit julië , Opera ; tot een ouverture speelt .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.139.s.1	Eerste tooneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.142.s.1	achates , Gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.145.s.1	achates , tegen het gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.1	Toe , jongens , brengt het goed naar boord ; Maakt voort , Eer de een of de ander ons verstoort ; Maakt voort !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.2	Als 't is gedaan dan kryg je wat .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.3	- Een glaasje met Schiedammer nat .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.4	Maakt voort !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.5	maakt voort !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.7	Wyze : Wie heeft ooit grooter gek gezien , enz. Ik hoor gerucht : het zal gewis , Naar allen schyn , Enéas zyn .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.8	ô Jemenie ! 'k heb mis .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.9	't Is Antje zus , in 't nachtgewaad .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.10	Waarom of zy , in zulk een ' slaat , Zich zo by tyds begeeft op straat ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.11	Sint Julsus , dat 's een nest !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.168.s.12	Wat zeg ik haar het best ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.147.s.1	Wyze : Gy die met my thans zyt ter jagt , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.171.s.1	Tweede tooneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.175.s.1	anna , achates , Gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.177.s.1	anna .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.182.s.1	Wat wil dat toch beduiên ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.182.s.2	Waartoe al dat gerucht ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.179.s.1	Wyze : Vereend van hart en zinnen , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.184.s.1	achates .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.187.s.1	Dat sleepen , draagen , kruijen , Dient tot Enéas vlugt .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.193.s.1	Is 't inderdaad ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.193.s.2	Zeg my , Achaat ' , Waarom hy ons verlaat ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.195.s.1	te saamen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.201.s.2	Zeg my , Achaat ' , Waarom by ons verlaat ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.207.s.1	Geloof Achaat ': 't Is inderdaad , Dat hy dit land verlaat .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.220.s.1	Enéas , kind !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.220.s.2	moet voort .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.220.s.3	Ik heb , van woord tot woord , 't Bevel der Goôn gehoord .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.220.s.4	Merkuur ' , die slimme knaap , Verscheen hem in den slaap , En zei tot hem : Brui heen , ô gek Enéas !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.220.s.5	vlie ' , vertrek .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.211.s.1	Wyze : Klaas Pronk , een boerenknecht , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.234.s.1	ô Myn !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.234.s.2	Wat pyn , Zal Dido niet gevoelen !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.234.s.3	Haal hier toch wat stoelen , Eer zy verschyn ' .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.234.s.4	't Is niet om te mallen , Want , als zy 't ziet , Zal ze in katzwym vallen , Van louter verdriet .	Emotion_BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.224.s.1	Wyze : Climeen , waar heen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.224.s.2	enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.241.s.1	Daar komt Enéas alreeds aan ; Hy komt met pak en zak .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.238.s.1	Wyze : Hoe zoet is 't daar de vriendschap woont !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.249.s.1	Zou dien meineedigen Trooijaan Dus gaan op zyn gemak ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.249.s.2	Neen , ik haal Dido uit haar bed , Opdat zy hem de vlugt belett ' .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.249.s.3	Wel hei !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.249.s.4	wel hei !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.253.s.1	Derde tooneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.270.s.1	Loop voor sint felten !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.270.s.2	Jouw kopstuk is op hol , Het ryd op stelten ; Je bent waarentig dol !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.270.s.3	Enéas vlugt staat vast ; 't Is door Merkuur ' belast : Je zelt ons niet bedotten : Want met der Goden last Is niet te spotten .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.260.s.1	Wyze : Hoor Kees , myn vryer , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.273.s.1	Vierde tooneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.278.s.1	eneas , in een wagentje door twee kinderen voorigetrokken ; achates , Gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.285.s.1	Daar komt prins Enéas aan , Hy komt in een ' wagen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.282.s.1	Wyze : Hier komt Paul Jones aan , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.288.s.1	eneas .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.288.s.2	tegen de kinderen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.293.s.1	Lustig , jongens , stapt wat aan .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.293.s.2	Of jelui krygt slagen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.293.s.3	Ryd wat voort ; Ik moet naar boord .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.297.s.2	Enéas de hand geevende .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.300.s.1	Welkom , vrind , Enéas !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.300.s.2	'k Wou dat je al in zee was .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.309.s.1	'k Zwem in traanen !	BodyPart_BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.309.s.2	wat kan 't baaten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.309.s.3	Faldera la liere !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.309.s.4	Ik moet Dido toch verlaaten .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.309.s.5	Faldra , la !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.304.s.1	Wyze : De eendjes zwemmen in het water , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.318.s.1	Wil uw droefheid overwinnen , En verban haar uit uw zinnen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.318.s.2	Stap met moed den wagen uit , Eer haar komst het werk verbruid .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.313.s.1	Wyze : Wat is om al vreugd gegeeven , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.320.s.1	Geduurende het volgende liedje word het valies , de pruikendoos , hoedenkast , enz. van Enéas in het schip gebragt .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.323.s.2	uit het wagentje stappende .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.1	Welaan !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.2	laat ons vertrekken , Eer alles uit mogt lekken , En Dido kan ontdekken , Dat ik den aftocht sla .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.3	Ha !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.4	ha !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.6	Tegen de kinderen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.7	Groet Dido mynentwegen , En zeg haar , wel ter deegen , Hoe alles is gelegen : Zy komt misschien wel dra .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.342.s.11	Groet Dido mynentwegen ; Zy komt misschien wel dra .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.325.s.1	Wyze : La belle Bourbonnaise !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.344.s.1	De kinderen vertrekken met het wagentje .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.347.s.1	Vyfde tooneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.353.s.1	eneas , achates , dido , anna , Gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.356.s.1	achates , tegen Enéas .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.361.s.1	Ik zie Dido : 't Is verbruid !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.361.s.2	Zy zal wis uw vlugt met lyên .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.358.s.1	Wyze : Hier van daan naar 't groenewoud , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.364.s.1	dido , in haar nachtgewaad , schielyk uitkomende , en Enéas een mes op de borst zettende .	Fear_EmotionalAction_BodyPart_Sadness_Anger
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.1	Hei !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.2	blyf staan , ô snoode guit !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.3	Zeg wat is thans jouw besluit ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.4	Zo gy my , uw bruid , verlaat , Zal ik jou aan lappen snyên !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.5	Zo gy my , uw bruid , verlaat , Zyt ge om zeep !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.371.s.6	Versta je 't , maat ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.379.s.1	Didootje lief !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.379.s.2	leen my uw ooren ; Steek op je mes , en wil my eens hooren .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.379.s.3	Dido , myn zoete lief !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.375.s.1	Wyze : Fytje , myn lief , ziel van myn zinnen !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.381.s.1	dido .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.384.s.1	Neen , jy zelt me zo niet ringelooren , Hoe verliefd en snoeprig dat je ook kykt !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.392.s.1	Wel zo het blykt , Dat ik moet vlugten , Of dat ik aèrs Voor onheil moet duchten .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.396.s.1	Wel !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.396.s.2	dat 's iets wonderbaars !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.403.s.1	Ja , mevrouw , laat hem eens praaten ; Duld , dat hy zyn zaak verweer ' .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.400.s.1	Wyze : Hoor Annaatje , ik zal verhaalen , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.410.s.1	'k Dacht u nimmer te verlaaten : 'k Zweer het u !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.410.s.2	wat wilt gy meer ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.410.s.3	Maar , het noodlot en de Goôn Hebben my dees vlugt geboôn .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.420.s.1	Maar , het noodlot en de Goôn Hebben hem dees vlugt geboôn .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.1	Goden !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.2	Heb jelui , aan dien snooden !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.3	Die wreede vlugt geboden ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.4	Schept gy vermaak om Dido te doen lyden ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.5	Tegen Enéas .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.6	Hoe !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.7	zoud gy my zo ontvlugten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.8	Zoud gy my hier laaten zuchten ?	BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.436.s.9	Enéas neen ; Gy gaat niet heen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.424.s.1	Wyze : Zinnen , benje genegen tot minnen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.448.s.1	Het zyn de Goden niet alleen Die my dees vlugt gebiên ; Maar , 'k heb in een ' benaauwden droom , Myn ' vaders schim gezien : Die schim belastte my , mevrouw , Dat ik myn biezen pakken zou .	HeavyHeartedness_Worry_Emotion
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.441.s.1	Wyze : Toen Pierlala van liefd ' doorwond , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.453.s.1	De schim van uw ' papa ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.458.s.1	De schim van myn ' papa , ha !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.458.s.3	De schim van myn ' papa .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.463.s.1	De schim van mv ' papa , ha !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.463.s.3	De schim van mv ' papa ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.476.s.1	Ga , snoode !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.476.s.2	Maar de winden , De donder en orkaan , Die zullen jou wel vinden , Jou doen op zee vergaan !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.476.s.3	De wilde en woeste golven Die zullen met jouw schip Als met een klootje kolven , En smyten 't op een klip !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.467.s.1	Wyze : Zeg , Savoyaardsche meisje , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.482.s.1	Hoor toch naar reden !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.480.s.1	Wyze : Jan , koop me een kermis , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.486.s.1	Ik hoor geen enkel woord :	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.490.s.1	Stel u te vreden !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.497.s.1	Brui heen , en steek den moord !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.497.s.2	Maar 'k zal je na myn dood vervaaren , En met myn schim rondöm je waaren .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.505.s.1	Neen ; 'k hoor geen enkel woord .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.512.s.1	Lieve zuster ! 'k bid bedaar !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.512.s.2	Wil u toch zo niet ... niet verstooren .	Worry_Emotion
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.509.s.1	Wyze : Tryn , myn engel !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.509.s.2	myn godin !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.515.s.1	dido , in de armen van Anna vallende .	EmotionalAction_Sadness_Despair
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.517.s.1	Hou me vast ; ik word zo raar .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.522.s.1	Och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.522.s.2	wat word myn oog gewaar ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.522.s.3	't Zal my 't hart doorbooren !	BodyPart_BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.526.s.1	Hemel !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.526.s.2	wat is haar ... haar beschoren ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.534.s.1	Lustig , sta non niet te teemen : Neem je kans nou waar , mynheer .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.531.s.1	Wyze : Van de Merliton , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.544.s.1	'k Moet een ' zoen tot afscheid neemen , Ik zie haar ligt nimmer weêr .	EmotionalAction_Love
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.544.s.2	Dido omhelzende .	EmotionalAction_Love
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.544.s.3	Vaar wel dan , Dido !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.544.s.4	vaar wel dan , myn liefje !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.544.s.5	Vaar dan wel , myn zoete meid !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.546.s.1	Enéas treed in 't schip .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.546.s.2	Achates wil hem volgen ; doch word door Dido , die zich schielyk uit de armen van Anna rukt , by zyn kleed vastgehouden .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.554.s.1	Hola !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.554.s.2	je zelt me niet bedotten , Ik hou je vast , je zelt niet heen .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.551.s.1	Wyze : Lysje sliep in 't hosch , in 't lommer , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.559.s.1	Hoe nu , mevrouw , is 't om te spotten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.559.s.2	'k Zeg laat me los .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.563.s.1	'k Hoor naar geen reên .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.570.s.1	Kyk , zo je langer ligt te praaten , Kryg je van my een ' frisschen klap !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.570.s.2	't Is hier geen grap ; 't is hier geen grap ; Ik wil Enéas niet verlaaten .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.575.s.1	Aan my een ' klap ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.575.s.3	Eilieve !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.575.s.4	doe dat eensjes .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.578.s.2	Dido een ' klap geevende .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.580.s.1	Flap !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.582.s.1	Dido valt op den grond .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.582.s.2	Achates neemt dit oogenblik waar , om te vlugten , en steekt met Enéas in zee .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.585.s.1	Zesde tooneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.589.s.1	dido , anna , gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.2	wat zal my overkomen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.3	Daar ligt Dido op den grond !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.4	Is haar 't leven ook benomen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.5	't Bloed loopt uit haar ' neus en mond !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.6	'k Word een weinigje geruster ; Zy schynt buiten allen nood .	Emotion_Relief
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.7	Och ' hoe is het , lieve zuster !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.603.s.8	Leef je nog , of ben je dood ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.593.s.1	Wyze Och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.593.s.2	wat is my overkomen , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.606.s.1	dido , opstaande .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.1	ô Jupiter , sta by !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.2	Wreek dees verradery !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.3	Verbrand Enéas kielen !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.5	Belet zyn snoode vlugt , Of , jaag hem op de gronden !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.6	Verhoor myn droeve stem Uw wraak verdelge hem !	Emotion_BodyPart_Sadness_Vindictiveness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.7	Hy heeft myne eer geschonden .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.619.s.8	Uw wraak verdelge hem !	Emotion_Vindictiveness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.608.s.1	Wyze : ô Zon !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.608.s.2	aan 's Hemels trans , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.631.s.1	Hou je toch stil ; hou je toch stil ; Zoek je droefheid te overwinnen .	Emotion_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.631.s.2	Hou je toch stil ; hou je toch stil ; Hoor eens wat ik je zeggen wil .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.631.s.3	Jy krygt ligt wel weêr een ' ander ' , Die jouw eer herstellen zal , En die jouw schoonheid ten gevall ' ...	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.623.s.1	Wyze : Jaapje sta stil , Jaapje sta stil , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.635.s.1	Ei , zwyg toch , zus , je maakt me mal !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.639.s.1	Hoor wat ik je zeggen wil .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.650.s.1	Nu Enéas is gevlugt ; Nu kan ik niets verwerven .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.650.s.2	Antje , my verveelt de lucht ; Ik bedankje voor de klucht .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.650.s.3	'k Wil sterven ; 'k wil sterven .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.644.s.1	Wyze : Wie dees waereld wel beziet , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.657.s.1	Stel dat denkbeeld uit uw ' zin : Wat kan 't sterven baaten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.654.s.1	Wyze : Zonder liefde , zonder wyn , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.663.s.1	ô , Bedrogen koningin !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.663.s.2	Gy zyt dan verlaaten !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.663.s.3	Wat doe ik alleen op de aard ' ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.667.s.1	Wy zyn met ons beiên .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.671.s.1	't Leven is my niets meer waard ' !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.675.s.2	gy doet my schreiên !	BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.686.s.2	Antje , wil niet huilen !	BodilyProcess_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.686.s.3	Zie daar zyn , zie daar zyn myn twee muilen , Och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.686.s.5	Daar is myn beste tas , Daar al myn geld in was Ik geef het je al den bras .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.679.s.1	Wyze : Malbroucq gaat naar het leger , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.693.s.1	Wat wil je doen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.691.s.1	Wyze : Een kuiper vol jaloersche pyn , enz.	Emotion_Envy
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.702.s.1	Dit stooters mes Zal my verlossen uit myn lyden !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.702.s.2	Ik wil my , door een ' steek vyf , zes , Van allen ramp en smart bevryden .	Emotion_Unhappiness_Sadness
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.702.s.3	Vaarwel , myn zuster , leef in vreê !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.702.s.4	Dat gaat ' er door ... ô jee !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.702.s.5	ô jee !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.1	Didootje !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.3	zeg nog reis brood .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.4	Maar , och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.5	ze is reeds zo koud als lood Wyze : Wel !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.6	myn alderliefste meisje , enz. Och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.7	och !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.8	waar zal ik nou blyven ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.9	Wat zal ik , helaas !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.10	bedryven ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.11	'k Wil my ook maar gaan ontlyven ; Want ik sta hier net als mal .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.12	Maar , waar is het mes gebleven , Daar myn zustertje , zo even , Zich den steek meê heeft gegeeven ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.14	zie zo !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.718.s.15	ik zie het al .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.head.721.s.1	Laatste tooneel .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.725.s.1	anna , serestus , Gevolg .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.727.s.1	Anna raapt het mes op en wil zich doodsteeken , doch word door Serestus weêrhouden .	EmotionalAction_Sadness_Despair
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.730.s.1	serestus .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.730.s.2	schielyk uitkomende .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.734.s.1	Antje lief !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.734.s.2	och , wat beginje ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.732.s.1	Wyze : Dronke Jaap loopt om een pintje , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.738.s.1	'k Wil me dooden .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.738.s.2	Ben je blind ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.746.s.1	Och , myn lieve bout !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.746.s.2	bezinje , Eer je zulk een daad begint .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.746.s.3	Of , ben jy zo glad vergeeten Dat je my hebt trouw beloofd ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.751.s.2	zou ik dat niet weeten ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.751.s.3	Neen , het ligt me wel in 't hoofd .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.758.s.1	Eil wil me dan de reden zeggen Waarom jy tot die daad besloot .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.stage.755.s.1	Wyze : Gold is de ziel van alle zaaken , enz.	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.761.s.1	anna , op Dido wyzende .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.763.s.1	Zie je myn zuster dan niet leggen ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.767.s.1	Wat zie ik ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.767.s.2	hoe !	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.767.s.3	is Dido dood ?	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.771.s.1	Laaten wy haar doen begraaven .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.775.s.1	En geef my uw hand als bruid .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.speaker.778.s.1	anna , Serestus de hand geevende .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.783.s.1	Ik ben te vreên .	Aquiescence_Emotion
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.783.s.2	( Tegen het gevolg . ) Men voer ' haar van dees haven .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.sp.783.s.3	Daarmeê is 't uit ; daarmeê is 't uit .	None
+lijn002vlug01_01.TEI.2.text.body.div.div.stage.789.s.1	EINDE .	None

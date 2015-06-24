@@ -1,0 +1,1366 @@
+stee033adag01_01.TEI.2.text.body.div.head.207.s.1	Ada , gravin vinden Holland en Zeeland ; treurspel .	None
+stee033adag01_01.TEI.2.text.body.div.head.208.s.1	eerst bedrijf .	None
+stee033adag01_01.TEI.2.text.body.div.head.209.s.1	eerst toneel .	None
+stee033adag01_01.TEI.2.text.body.div.stage.211.s.1	Adelheide , Ada , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.sp.speaker.213.s.1	Ada .	None
+stee033adag01_01.TEI.2.text.body.div.sp.221.s.1	hebben aklig sterflot hebben graven Diedrik wij onttogen , En gei , zijn weduwe , voor ik smeken onbewogen , Verdubblende in ik ziel de kinderlijk rouw , begeren een huwlyksfeest , een schandelijk trouwen !	None
+stee033adag01_01.TEI.2.text.body.div.sp.221.s.2	Een moer nopen zij kroos ( hoe doen u eisen ik gruwen ! ) bij het onbegraven lijk een vader laf te huwen !	None
+stee033adag01_01.TEI.2.text.body.div.sp.221.s.3	voegen Diedriks droef wezen doen vreugde de huwlyksmin ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.speaker.223.s.1	Adelheide .	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.1	uw passen een groots bestaan , alles Hollands erfgravin .	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.2	laten wij , uiten hogen node , een ijdel droefheid smoren .	Emotion_BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.3	bedenken wieden Diederik tot landvoogd hebben verkiezen .	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.4	ik dochter , kiezen hij niet zijn ' broeder , die wij haten , Oostvrieslands trots graven , die na u erfdeel staan ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.5	moeten gei die wrevlen oom alles uw voogd erkennen ?	Emotion_Annoyance
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.6	moeten Willem aan zijn weten voor altoos uw gewennen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.7	u minderjarigheid vereisen een echtverbond .	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.8	hebben Diedrik , ik gemaal , niet mede zijn ' vegen mond ik vruchteloos gesmeekt die broeder hier te ontbieden , te zoenen de oud wraken , in het vorstelijk huis aan het zieden ?	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.9	hebben ik , uiten zorgen voor uw , ik ' waarde echtgenoot Doof uitstel niet beletten , op het naderen vinden zijn dood , Tot Willem het laatst vaarwel zieltogende uiten te spreken ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.240.s.10	En eisen gei tot u ' voogd die graven , die zien zij wreken ?	EmotionalAction_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.1	Helaas !	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.2	die vreemd zorgen vinden u gevoelloos harden zijn oorzaak die ik zuchten in onvergeetbre smarten .	Emotion_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.3	ik dierbre vader , die , verhinderen door ik moer , uw niet in het uiterst uur verzoenen mede u ' broeder !	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.4	Hoe deerlijk wassen u loten !	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.5	hoe bannen ik al troosten Voor eeuwig uiten doen ziel vinden u ellendig kroos !	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.6	uw Ada , waarlijk droef , zullen deze treurgewaden Niet wisselen , uw te schimp , voor blijde feestsieraden .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.7	Vorstin , wat heilzaam einde ' bedoelen u wreed dwang ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.8	Wat nut beloven ik echt voor het wichtig staatsbelang ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.9	gei honen Oostvrieslands graven en doen edel mijn land .	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.10	geven heen , na Diedriks willen , hebben oog bestieren in hand , Totdat een rijp jeugd ik vest in het erflyk rechte .	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.11	Hoe durven ik Lodewyk , door die gevreesden echt , na u geheim besluiten tot Hollands graven verheffen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.12	zij zij getergde wraken die vreemdeling niet treffen , En ik niet dwingen , ik , mede oneer overladen , bij het breken mijn trouwen het voogdijschap te ondergaan ?	Emotion_Loyalty_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.13	gei zullen , naar rijp beraden , ik weigring billijk keur .	None
+stee033adag01_01.TEI.2.text.body.div.sp.263.s.14	laten deze gevoelig harden ik ' vader dood betreuren .	None
+stee033adag01_01.TEI.2.text.body.div.sp.272.s.1	Ik treuren , om het zwaard verliezen , mede uw .	None
+stee033adag01_01.TEI.2.text.body.div.sp.272.s.2	mare ach !	None
+stee033adag01_01.TEI.2.text.body.div.sp.272.s.3	ontslaat Die smarten ik vinden doen zorgen voor u ' gedreigden staan ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.272.s.4	wij , vinden het geheim bewust , misleiden u zwak zin ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.272.s.5	ik weten Meerhem , mede een delen de edel , te winden : stemmen Altena , Leerdam , en Voorne heimlyk niet In u ' gewenst echt en zijn bruigoms landgebied ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.278.s.1	zullen zij gewinnen stemmen ik ' voogd , graven Willem , stuiten , En all ' de adel in u ' toeleggen doel besluit ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.289.s.1	gei doemen , uiten ijdel vrezen , uiten onervarenheid , uiten wantrouwen , die ik honen , een heilzaam staatsbeleid .	Suspicion_Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.289.s.2	het zijn nodigen die ik zorgen u teder jeugd bestiere , En Dordrecht deze dagge u vorstelijk huwelijk vier .	None
+stee033adag01_01.TEI.2.text.body.div.sp.289.s.3	doen Stichtsche bisschop zelf , in u belang brengen , En ieder ogenblik uiten Utrechts waal verwachten , zullen in doen hofkapel doen plechtigheid voltrekken , En door zijn achtbaarheid wij voor misnoegen dekken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.293.s.1	die Amstel uw het gevaar vinden het heilloos huwelijk tonen ' !	None
+stee033adag01_01.TEI.2.text.body.div.sp.297.s.1	geren vrezen weerhouden uw ; neen : gei haten de graven vinden lot .	Fear_Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.1	Ach !	None
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.2	haten ik Lodewyk ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.3	kunnen zien ik minnen verbergen ?	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.4	gei , die ik zwakheid weten , moeten gei ik drift tergen , Opdat ik teder harden , na u begeerte , in het einde ' mijn eer , ik ' kinderpligt , ik ' vader glorie schenden ' ?	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.5	ik boezem voelen een ' strijd vinden vijandelijk tocht : mijn eerzucht hebben voor ik doen zege rijden bevechten , Indien u bijstand voor doen liefde , die ik blaken , mijn overwinning niet bezwaarlijk hebben maken .	Honor_Emotion_Hatred_Greed_BodyPart_BodilyProcess_Love_Anger
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.6	zien , zien uw Ada voor u voeren neerbuigen ; Betoon ik zwak jeugd een gunstig mededogen ; geven ik bewijzen vinden een moederlijk gemoed ; Hernieuw in ik doen kracht vinden het vorstelijk heldenbloed .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.7	die bloeden , in ik vloeien uiten uw en uiten ik ' vader , bewegen u straf ziel voor hij en ik te gader !	None
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.8	zode blijk ' die gei zijn ' willen , zijn ' laatst willen ontzien !	None
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.9	herdenken zijn minnen tot uw ; verdrukken zijn dochter niet ; laten af meer voedsel aan ik ' liefdegloed te geven .	Emotion_BodilyProcess_Love
+stee033adag01_01.TEI.2.text.body.div.sp.318.s.10	Indien gei wreed volharden , beroven gij ik vinden het leven .	None
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.1	Wat gaan uw aan ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.2	rijs op .	None
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.3	ik toeleggen zijn een blijk de moederlijk zuchten .	None
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.4	Ik wachten hier Lodewyk : hij spreken uw .	None
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.5	zij zijn minnen u glorie niet betrachten ?	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.sp.326.s.6	hij delen in ons rouw , en zullen u ' druk verzachten .	None
+stee033adag01_01.TEI.2.text.body.div.sp.333.s.1	Neen ; Hollands erfgravin , onkreukbaar in zij ' plicht , ontwijken mede bitter smarten voor eeuwig zijn zichten .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.sp.333.s.2	geven hij geren hopen , vorstin ; gei zullen vergeefs hij vleien .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.sp.333.s.3	hebben voegen geren droef wezen te huwen , mare te schreien .	Emotion_BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.head.334.s.1	Tweede toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.336.s.1	Adelheide , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.1	hebben deren ik , Hildegaard , in zij ' gepasten rouw , En in ik zwaard verliezen , tot die bestemmen trouwen ik enig huwlykspand zode wreed te moet nopen : mare buit het echtverbond hebben Ada niets te hopen .	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.2	uiten Amstels ydlen schromen spruiten al zij tegenstand .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.3	Ik vrezen , in het nut bestaan , nog ongeval nog schande ': doen graven , voor Diedriks kroos tot bruigom uitlezen , Begaafd mede moede en deugd , zijn woerd ' ik zode te wees : deze billykt , in het gevaar , ik zeldzaam heldenstuk ; deze moedigt , deze vertroosten een weduwe in zij ' druk ; En nopen ik ziel , in spijt vinden Adaas angstig smeken , vinden Willems trots haten op het vinnig ik te wreken .	Fear_Emotion_EmotionalAction_Hatred_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.4	Wat zijn ik velen verplichten aan het hoofd vinden Utrechts kerk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.5	Die bisschop , ik getrouw , voor Willem velen te sterk , leren ik wat meest betamen aan moederlijk zin .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.355.s.6	hij zullen doen onnut vrezen in Adaas geest verwinnen .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.357.s.1	Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.371.s.1	Mevrouw , het zijn uw bekennen hoeveel doen minnen vermogen .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.371.s.2	zijde werken in doen erfgravin voor het wettig landgezag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.371.s.3	doen liefde vinden u kroos zullen wonder verrichten , Op deze groot dagge de ydlen rouw doel zwichten , En , Willems wrok te spijt , doen vorstelijk bruid doel stem , zonder dwang , in het heilryk echtbesluit .	Emotion_Love_Spitefulness
+stee033adag01_01.TEI.2.text.body.div.div.sp.371.s.4	Ik hebben , zin Diedriks krankte uw voor zijn erve doen vrees , vinden u geheim bewust , ik ' bijstand uw bewezen , mede list een nut zege op Adaas harden behalen , de janhen Lodewyk behaaglijk afmalen , En , deelende in zij smarten , in zucht , traan , klacht , Een hevig minnevuur verwekken in zij gedachte .	Fear_Emotion_BodilyProcess_Love_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.376.s.1	u helpen , ik Hildegaard , u list komen ik te stae .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.376.s.2	Verzel ik dochter ; sterk doen ontvonkte liefde ; gade .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.head.378.s.1	Derde toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.380.s.1	Adelheide ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.1	Ik zullen , nu meer dan ooit , op Willem triomferen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.2	Hier moeten een machteloos graven door Adaas echt regeren , En , tot zij veiligheid in al ik getrouw , zijn ' naam verlenen aan doen weten vinden een vrouw .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.3	Ik willen , om niet in schande en slavernij te leven , Aan ik beschroomde kunne een loffelijk voorbeeld geven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.4	ik deugd , door schijn misleiden , hebben rijden te langen gestreen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.5	o Diedrik !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.6	zij die daad ik ' roemen verduistren ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.7	Neen ; u fier weduwe moeten , om zij gezag te schraag , Tot heil vinden kroos en landen een ' stout toeleggen waag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.8	Al eisen ik Adaas echt , nog schreien ik om u dood : ik harden vergeten uw niet : zijde huwe uiten hogen node !	BodyPart_BodilyProcess_Dedication_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.9	Hoe kunnen uw Adelheide u ' laatst willen volbrengen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.10	Hoe kunnen zij Oostvrieslands graven in het oog bestieren gehengen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.11	Die wrevel strijden weleer onwettig om het gebied ; En ik , die hij verjagen , zwichten nog voor Willem niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.12	o Staatzucht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.13	voeden ik ' haten , om het graaflyk huis te dekken ...	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.401.s.14	mare Lodewyk genaken ; ik zullen het besluiten voltrekken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.382.s.1	allee .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.404.s.1	vieren toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.406.s.1	Adelheide , Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.408.s.1	Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.1	Mevrouw , hebben uw zorgen doen droevig erfgravin , na u beloven , alree verzekeren vinden ik minnen ?	Emotion_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.2	Wat zeggen zij schoon mond ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.3	zullen ik gelukkig wees ?	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.4	Wat hebben ik blaken harden te hopen ?	Emotion_Hope_BodyPart_BodilyProcess_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.5	wat te vrees ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.6	Hoeveel een vers rouw zij teder ziel beklemm ' , Hoe node u droef spruiten tot huwlyksblydschap stemm ' , u zeldzaam staatsbesluit zijn echter niet te doemen ; ik moeten , in het landgevaar , u nut voorzorg rome .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.7	zullen gei , indien uiten node geren staatsheil worden bedoelen , zullen gei , graven Diedriks weeuw , die het zwaarst verliezen voelen , voor Diedriks uitvaart wel een plechtig huwelijk vier ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.422.s.8	mare zullen Oostvrieslands graven alles voogd deze landen bestieren , die die staatzuchtige begeren in eigendom ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.432.s.1	Neen ; Holland zijde voor uw , voor Adaas bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.432.s.2	hopen al , Lodewyk : u bruid , niet onverschillig Voor u doorluchtig minnen , zullen deze dagge vrijwillig , Tot heil vinden hof en volk , na het huwlyksouter treden : Ja , schonen zij onmatig kwynt in zucht , in geween , En , voor ik aanzoek doof , zichzelf bestrijden in het min ; verwachten een wis zege op haar ontstellen zin .	Emotion_Hope_BodilyProcess_Love_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.437.s.1	zijde minnen ik !..	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.437.s.3	wat baten die neiging vinden zij harden , Indien zij u ' aanslag doemen in doen overmaat vinden smarten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.1	Nu ik doen wreed slag hebben waard pand doen mis , Nu gei door heldenmoed ik traan af moeten wis , maken uw doen onnut rouw de zwak bruid bevreesd !	Fear_Emotion_BodyPart_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.2	Hoe !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.3	deren ik het onheil minst ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.4	trest Diedriks dood zij meest ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.5	Ik treuren , mare poog meteen ik ' vijand voor te komen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.6	Ik hebben , in het groots verliezen , geren ' toeleggen ondernemen , Indien natuur , bezorgen voor het erfrecht vinden ik bloeden , geren sterk poging doen op ik beklemd gemoed .	HeavyHeartedness_Worry_Emotion_BodyPart
+stee033adag01_01.TEI.2.text.body.div.div.sp.451.s.7	mare uw , die het landgezag alles graven worden opdragen , mede Adaas hand en harden , uw voegen hebben niet te klagen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.1	ik waarderen die landgezag , ik waarderen zij hart hand .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.2	denken echter die zij druk hebben zoet de minnen verbannen , En zij beletten zij in ik geluk te stem , Indien doen hoogst node uw echtkeur niet doen klimmen .	Emotion_Happiness_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.3	u moede zijn groots , vorstin : gei redden zij erfgebied , En zwijgen , in all ' u ' rouw , de schimp die gei voorzien .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.4	haar eer , het zijn ik bekennen , kunnen het nodigen huwelijk leiden ; mare zullen doen onnoozle bruid doen lastertaal vermijden ?	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.5	Ik voeden , in die denken , een pijnlijk voorgevoel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.6	zijde zullen , aan wreed smaad en bitsen honen te doelen , Al smelten zij om zij verliezen in ongeveinsd traan , Misdadig zijn in het ogen vinden rusteloos onderdaan .	BodyPart_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.468.s.7	Ik noemen u die geschenk doen bron vinden ik geluk ; mare doen oorzaak vinden ik heil zijn doen oorzaak vinden ik ' druk .	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.478.s.1	uw Ada zullen niet langen bij het volk misdadig wees .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.478.s.2	ik hebben in het nut bestaan geren ' hinderpaal te vrees , Nu Willems afgezant , mede rechte bij ik verdenken , naar het heimlyk huwen eest in Holland worden verwachten .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.478.s.3	beminnen zij glorie vrijen ; tonen uw zij liefde waardig , Opdat u groot ziel ik keuren alom rechtvaardig ' , En all ' doen hart vinden uw onderdaan winn ' !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.head.480.s.1	vijfde toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.482.s.1	Adelheide , Lodewyk , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.486.s.1	Hoe , Reinoud !	BodilyProcess_Love_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.486.s.2	storen gei wij ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.489.s.1	Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.493.s.1	Op Amstels bede , vorstin .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.493.s.2	hij schijnen in het heimelijk vinden zorg innemen , En wensen op het spoedig uw te spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.497.s.1	laten hij komen .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.499.s.1	Zesde toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.507.s.1	hij waken , o Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.507.s.2	voor u aanstaand gezag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.507.s.3	gei , die omzichtig uw , voor deze huwlyksdag , In Holland houden bedekken , kennen nog niet all ' u vriend .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.512.s.1	ontzien zien Amstel niet die stuc zien te onderwinden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.512.s.2	durven hij zijn openen landen zode waag ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.512.s.3	hoe , mevrouw !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.522.s.1	Ik hebben een ' wis bergen voor zijn verdacht trouwen : zijn leenheer , die hij nopen in wij belang te deel , Die hij in dwang hout door belofte en bevel , hebben geestelijk hoofd vinden het stichten verzekeren wij vinden hij .	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.522.s.2	gei weten de bisschop helpen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.522.s.3	hij geven ik ' toeleggen klemmen , bedoelen mede ik het behouden vinden Adaas veeg slaten , En het zijn geluk de zeeuws en hollands onderzaten .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.524.s.1	Zevende toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.526.s.1	Adelheide , Lodewyk , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.531.s.1	treden nader , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.531.s.2	zien , in Adaas bruidegom , Een deugd , die zij verdiend mede al zij eigendom .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.533.s.1	Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.539.s.2	mogen zijde nooit , mijnheer , mede uw zij ' vallen bewenen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.539.s.3	Oostvrieslands afgezant , vorstin , zijn rijden verscheiden ; hij zijn deze ogenblik gesneld in Dordrechts waal .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.539.s.4	wachten fluks zijn aanzoek om gehoor .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.543.s.1	Wat ongeval !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.548.s.1	Wat doen die afgezant zode driftig herwaarts spoed voor zijn ' bestemmen dagge ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.548.s.2	deze baard ik een vreemd vermoeden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.552.s.1	zij hij verwittigen zijn vinden het heimlyk echtbesluit ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.558.s.1	Verraad een vals tong doen vorstelijk bruid ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.558.s.2	moeten ik , nu Diedriks dood ik doen alles weduwe zucht , bedekken vijand en oproerstichters duchten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.571.s.1	hebben zijn nog tij , vorstin , vinden het opzetten af te staan , het vermijden landbestier vinden Willem te ondergaan , Te zorg die geren twisten hebben graaflyk erve vernielen , doen burger , ophitsen , de burger niet ontziele , Ja die hebben woest wellen , die geren gezag erkennen , u eigen hoofd niet treffen in algemeen elend ' , En Adaas dierbaar bloeden bij het uw niet doen stroom : hebben zijn nog tij , mevrouw , die ramp voor te komen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.571.s.2	vrezen minnen graven Willem in bepaald landvoogdy , Dan het onbedwingbaar volk in dol muiterij .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.580.s.1	schonen ik geren laf schrik in het groots bestaan doen vrees , Ik zonder Adaas echt niet kunnen gelukkig wees , En het groeijend minnevuur een onverdraagbre smarten , bij het mindren vinden ik hopen , verwekken in het jeugdig harden ; Ik zij , tot heil de bruid , ik liefde en staatzucht wraak , Indien wij trouwen verbinden zij zij rampzalig manen .	Fear_Emotion_Happiness_Hope_BodyPart_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.584.s.1	Ik weten nog midlen tot verhindring vinden het verraad .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.595.s.1	ik kennen u ' moede , vorstin , uiten menig dapper daad : gei hebben de toeleggen vinden graven Willem doel verdwijnen , torn hij , die het heilige landen in het bloeden de Sarazynen Zeeghaftig hebben verven , moeten vlucht voor u stalen : Heldin , de landzaat heugen u groot zegepralen : mare doen adel , torn verenen om Willem af te karn , zullen in het voogdyrecht nu zij eigen rechte verweren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.599.s.1	Niet al .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.605.s.1	Ada beve , indien ik het erfdeel stellen In doen eensverwonnen macht vinden die getergden held !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.605.s.2	worden die staatzuchtige ooit , vorstin , mede uw bevredigen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.1	wie acht wederzijds te vinnig wij beledigen .	Offended_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.2	vermetel vijand !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.3	worden Oostvriesland niet te lid ' Door Diedrik uw vergunnen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.4	voldoen hebben uw ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.5	o Neen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.6	En zij doen landvoogdy uw meer voldoening geven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.7	dingen weer na doen oppermacht ; ik zullen eeuwig uw weerstreven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.8	doen leus Hugo zijn Oostvrieslands afgezant : schonen hij nooit hier verscheiden , ik kennen zijn scherp verstaan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.9	hij kunnen , door logentaal , hebben wuft volk doel muit , Indien hij weten waartoe doen node ik doen besluit .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.10	mare het weinig oorlogsvolk , leggen in Dordrechts waal , beveiligen wij genoeg voor nadrend ongeval , Zolang doen hoofd vinden die bende en vinden ik wacht , Door logen niet misleiden , hunn ' dier eed betrachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.11	ik willen zijn die ik fluks alom het geheim ontdekk ' , En in deze eigen uur hebben echtverbond voltrekk ': ik lusten de afgezant vinden Willem voor te komen , Opdat soldaat en wachten , niet snood vooringenomen , Niet blind voor het zijn belang vinden hof en onderdaan , Volharden het graaflyk huis in tweespalt bij te staan !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.628.s.12	intussen die ik hier op het plegtigst Hugo leiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.633.s.1	gei geven ik het leven weer , heldhaftige Adelheide !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.633.s.2	u moede vertonen zien meest op deze groot dagge .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.639.s.1	Indien ik trouwen raden nog iets op uw vermogen , Vorstin , ...	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.648.s.1	Weerspreek ik niet ; laten wij niet schandlyk vrees .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.648.s.2	gei , die ik gul verdiend , gei zullen gelukkig wees .	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.643.s.1	tegen Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.646.s.1	Tegen Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.650.s.1	Achtste toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.652.s.1	Lodewyk , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.1	gei vleien uw zonder grond , indien gei wanen , mijnheer , die Adaas nutlooze echt , nadelig voor haar eer , gevaarlijk voor zij volk , ja voor u ' beide leven , uw het vreedzaam eigendom vinden het graaflyk erve zullen geven .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.2	u groot ziel verdiend een edel geluk , Verwin uzelv '; verrichten een zeldzaam heldenstuk .	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.4	weten gei hoe doen Zeeuw , Oostvrieslands graven genegen , Terstond al het hollands volk tot oproer kunnen bewegen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.5	die roeklooze Adelheide , in ijdel hopen misleiden , het Onwettig landbestier uiten staatzucht uw bereiden , Ja doen edel dwingen zij rechte mede Willems helpen te wreken ?	Emotion_EmotionalAction_Hope_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.6	Ik , op u deugd rusten , durven onbewimpeld spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.7	verwerven , o Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.669.s.8	doen lofspraak vinden het heelal , Door het afstaan vinden u bruid ; of duchten u ' beide vallen .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.671.s.1	Negende toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.673.s.1	Lodewyk ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.1	Hoe werk hopen en vrezen in ik bestrijden zin !	Fear_Emotion_Hope_BodyPart
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.2	o minnen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.3	zullen het Adelheide ... o eer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.4	zullen het Amstel winden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.5	o wreed liefde !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.6	vlieden ; verscheur ik lang niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.8	pogen zien Diedriks weeuw te vasten in het gebied ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.9	Te heersen op ik ' naam ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.10	durven zij Ada roekeloos waag ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.11	En zij hebben vorstelijk erve ik tot die prijs bedragen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.12	graven Willem , nemen bezitten vinden uw landvoogdy : Natuur weerhoude u ziel vinden woest tirannie !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.13	Neen ; die staatzuchtige zij het erfrecht ondermijnen ; ik harden , ik minnend harden in wanhopen stervend ' kwijnen ; En ik vorstin , beroven vinden al zij eigendom , zij plaag wijdte aan zij ' laf bruidegom .	Emotion_BodyPart_BodilyProcess_Love_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.14	verliggen Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.15	wat loten staan uw te kies ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.16	zijde zullen , indien zijde huwen , hebben graaflyk erve verlies ; En zode ik het oog bewind zij ' voogd in hand stellen , zullen hij zijn wettig rechte verkeren in wellen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.17	o dodelijk keuren !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.18	o angstig ogenblik !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.19	Hoe spoedig weten ik ik vinden het huwen af te schrik !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.20	mare Diedriks weeuw doelen niet arglistig op het gezag : zijde willen verhindren , door een moederlijk gedrag , die zien een wrokken voogd bedekken op Ada bloedig ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.21	afgrijselijk denkbeeld !...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.23	ik liefde , hoe rampspoedig , Hoe zorgelijk , triomferen : een gruwelstuitende echt , Die het oog gezag ik geven , strijd tegen eer nog rechte ...	Honor_Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.24	Wat zeggen ik ?..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.25	droef bruid !	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.26	wat staan uw meest te vrees ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.27	zullen echt of landvoogdy voor uw gevaarlykst wees ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.705.s.28	doen zelf een wijze keuren in deze hogen node : Ik wachten vinden u besluiten ik leven , of ik dood .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.707.s.1	Einde vinden hebben eerst bedrijf .	None
+stee033adag01_01.TEI.2.text.body.div.head.716.s.1	Tweede bedrijf .	None
+stee033adag01_01.TEI.2.text.body.div.stage.719.s.1	Willem , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.sp.730.s.1	het zijn velen wagen , mijnheer , doen listigste al vrouw , doen wrokken Adelheide in deze paleis te aanschouwen , In schijn vinden afgezant zij ' toeleggen gae te slaan , En onder Hugoos naam het gevaar te doelen te staan .	None
+stee033adag01_01.TEI.2.text.body.div.sp.730.s.2	wij heugen hoe fel doen twisten in het vorstelijk maagschap woeden .	None
+stee033adag01_01.TEI.2.text.body.div.sp.730.s.3	Wat ramp , zode het hofgezin de minst argwaan voeden , En in de afgezant graven Willem worden gewaar !	Suspicion_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.730.s.4	Hoe liggen worden gei bekennen !	None
+stee033adag01_01.TEI.2.text.body.div.sp.730.s.5	u leven lopen gevaar .	None
+stee033adag01_01.TEI.2.text.body.div.sp.speaker.732.s.1	Willem .	None
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.1	geren vrezen beklemmen ik harden , nu ik getrouw vriend Voor het algemeen belang zien al onderwinden , En ik bewegen tot een eedle veinzerij .	Fear_Emotion_BodyPart_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.2	kennen ik deze hofgezin ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.3	kennen Adelheide ik ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.4	naar het proefstuk mijn jeugd in het landen de Sarazynen , doen eertijds ik doen twisten in Holland weer verschijnen , mare mede een heir , en bij verdacht onbekend .	None
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.5	Verraad ik echter ik , zien , tot een heilryk einde ' , doen machtig edel in ik voordeel zien verklaren .	None
+stee033adag01_01.TEI.2.text.body.div.sp.751.s.6	uiten zuchten voor het heilige rechte hebben gei de wassenaar , Egmonden , Banjaarden en Teilingen ontdekken Hoe Diedriks trots weeuw zij ' oude roemen bevlekken : Die bloem de adel , die , zoveel alles ik beledigen , ik doen ontrouw openbaren , en Diedriks willen verdedigen , spannen heimlyk aan mede ik : terwijl gyzelf , mijnheer , geren slaaf vinden u belang , mare waakzaam voor uw eer ; gei , zijn bisschop leenman , schuwen voor snood staatsbevelen , Grootmoedig ik beloven in het nut bestaan te deel .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.759.s.1	doen rusten vinden Holland zijn het belang vinden Amstelland : zode tonen ik veilig ik de graven in zijn ' gezant .	None
+stee033adag01_01.TEI.2.text.body.div.sp.759.s.2	Ik roemen doen heldendeugd vinden Diedriks groot broeder !	None
+stee033adag01_01.TEI.2.text.body.div.sp.759.s.3	gei , Adaas voogd , ontzien geren staatzucht vinden zij moer	None
+stee033adag01_01.TEI.2.text.body.div.sp.777.s.1	doen node , doen hoog node vereisen een heldendaad .	None
+stee033adag01_01.TEI.2.text.body.div.sp.777.s.2	zien , zien doen jong bruid wikkelen in het verraad , haar onervaren jeugd in zorgelijk ogenblik mede huwlyksvreugd gestreeld , verwarren in minnestrikken , En zij verheffen deugd , die voor ik rechte nog pleiten , En luisteren na u ' raden , haasten jammerlijk verleiden .	Joy_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.777.s.3	Ik hebben uiten deernis zij een duurzaam heil beschoren .	None
+stee033adag01_01.TEI.2.text.body.div.sp.777.s.4	Die talen zijn uw verdenken ; hebben klinken uw vreemd in doen oor , die Willem , die weleer om het graaflyk staatsbewint Onwettig strijden , zode teeer die erfgravin beminnen : mare oordelen of ik torn , vinden oorlogsdrift bewegen , bij het bloedig krygsgeweer in Syrie opgetogen , kennen denken , in ik jeugd , die ooit mede wapenkracht Een held onwettig dingen na doen eer de oppermacht .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.sp.777.s.5	In later tijd zijn ik doling ik blijken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.794.s.1	uw openhartigheid doen ik vrijmoedig spreken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.794.s.2	zode gei het voltrekken vinden het gevaarlijk trouwen verbinden Niet edelmoedig tot u nadeel wederstond , mare Adaas erve landen poogde uiten staatzucht om te karn ; u heldenkling zij niet op doen edel triomferen .	None
+stee033adag01_01.TEI.2.text.body.div.sp.794.s.3	beletten , op Hugoos naam , de voornemen echt ; Bevestig Diedriks wezen in zij geboorterecht ; En geven aan doen edel zij delen de landvoogdye .	None
+stee033adag01_01.TEI.2.text.body.div.sp.794.s.4	zode hoop u deugd op het heil de nut veinzerye !	None
+stee033adag01_01.TEI.2.text.body.div.sp.794.s.5	het gaan wel : rijden , op u komst , verdwynt doen zwart rouw , verklaren ik het groots geheim de opgestemde trouwen , doen Diedriks fier weeuw doen ontstellen burger gruwen , dwingen zij Ada , mare vergeefs , in al ijl te huwen , En tergen zij al het morrend volk , ja sterken zode u wijze list .	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.1	In het korten zijde het oud krakeel in het graaflyk huis slissen , doen spoorloos echt beletten , ik ' broeder kroos huldigen , En doen erfgravin zij heil aan ik voogdij verschuldigd !	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.2	o Ja , misleide bruid !	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.3	doen neiging vinden hebben bloeden , u moer onbekend , weerstreven in ik gemoed doen staatzucht , die ik nopen uw het wettig erve te ontrukken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.4	zij ik , die uw beklagen , uw trouweloos onderdrukken ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.6	hoeveel doen drift tot hogen staan vermogen , Ik minnen u ' welstand meer dan het onbepaald gezag .	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.7	o Diedrik , die , verraen door listig Adelheide , In het sterfuur vruchteloos om Willems bijzijn schreide , En door u ' laatst wensen , aan ik te spade ontdekken , In ik geheugenis een ' lief broeder strekken !	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.8	versterken doen kracht vinden het bloeden in ik bewegen zin .	None
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.9	Ik hebben uw fel gehaat ; ik willen u spruiten beminnen ; Ik zijn , na u begeerte , en zuchten om u dood , Een vader voor u wezen , een toevlucht in zij ' node .	Emotion_Hatred_Love
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.10	uw , Amstel , helen ik niet , die teder medelijden En woest staatzucht in ik ziel elkaer bestrijden .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.sp.820.s.11	Indien ik laf bezwijken voor het vleien zelfbelang , En tot mijn oneer doelen op Adaas ondergang , Ik zij deze hartsgeheim uw niet te kennen geven .	None
+stee033adag01_01.TEI.2.text.body.div.sp.826.s.1	hebben passen de groot held na doen opperst eer te streven .	None
+stee033adag01_01.TEI.2.text.body.div.sp.826.s.2	mare in ik afzijn worden uw Ada liggen verleiden .	None
+stee033adag01_01.TEI.2.text.body.div.sp.826.s.3	Vaarwel .	None
+stee033adag01_01.TEI.2.text.body.div.sp.826.s.4	verdienen ik helpen door edelmoedigheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.829.s.1	Willem ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.2	wreed drift !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.3	u werken zielvermogen verdoofd in ik misschien natuur en mededogen , zode gei mede goed kans , tot nadeel vinden mijn eer , na het oog bewind mogen staan .	Honor_Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.4	o Glorie !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.5	triomffer ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.6	wij naderen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.7	het vorstelijk kleden , zij jeugd , mede smarten beladen , tonen Ada .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.838.s.8	zij ik drift doen onnozelheid verraden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.843.s.1	Ada , Willem , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.1	In het bitter ongeluk zoeken Diedriks angstig kroos bij Willems afgezant een ' ongemeen troosten .	Fear_Emotion_Unhappiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.2	u graven , wie macht ik vrezen , wie haten ik willen vermijden , o Hugo !	Fear_Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.3	kunnen allee ik vinden wellen bevrijden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.4	zien hier , uiten vreemd dwang , in billijk harteleed , hebben rouwgewaad verkeren in het prachtig bruiloftskleed , het Paleis weer opsieren , ik tot een ' echt verwijzen , Die Ada schandlyk zijn , die Willem staan te vrees .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.5	verhoeden ik ' ondergang : ik stemmen die huwelijk niet , mare wachten in rijp jeugd op het wettig landgebied .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.6	Ik melden mijn onschuld uw mede ongeveinsd traan .	BodyPart_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.7	zullen gei , om tot ik ' rank u ' graven een ' wegge te baan , In koel moed zieden die Ada schandlyk hu ' ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.8	die ik , dwingen tot een misdaad , ..?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.10	ik gruwen zode hij geren snood belang ik ' vallen hebben doel besluit ' zullen gei die echt , die bron vinden bloedig oproer , stuiten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.864.s.11	Verdenk geren treurend harden vinden leus veinzerij ; hebben deernis mede ik jeugd ; besef wat smarten ik lijden .	Emotion_BodyPart_Compassion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.870.s.1	Natuur !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.870.s.2	verraad ik niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.868.s.1	te zijden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.875.s.1	gei peinzen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.875.s.2	Wat doen uw zwijgen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.875.s.3	zullen doen onschuld , zwaard verdrukken , bij niemand troosten verkrijgen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.880.s.1	gei zeggen ik velen , mevrouw .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.880.s.2	vlieden doen uw dreigen schande '; En wachten een wonderstuk vinden Willems afgezant .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.885.s.1	Ada , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.1	Wat antwoord , Hildegaard ! het vergroten ik wreed kwelling ; het verzwakken ik krank hopen .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.3	moeten ik , tot herstelling vinden ik ' schenden roemen , onwetend ' ik verraen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.4	Ik smeken de afgezant , en hits doen tweedracht aan : Ik poog , verbeelden hij zien , hij listig uiten te horen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.5	worden ik , door Hugoos komst , een goed loten beschoren ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.6	Of wekken hij , tot ik ' ramp , de land aelouden twisten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.7	Ik tergen hij , hoe het ook zijde , door ik gewaand list .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.8	ik moer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.9	moeten ik uw mede wreed dwang betichten , En bij die afgezant niets tot ik heil verrichten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.10	vergeven ik het stout bestaan ; hebben zijn uiten node geschieden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.11	ik willen uw gehoorzaam zijn , mare tot ik schande niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.902.s.12	Al kunnen ik droefheid niets op uw wreedheid winden , nog pleiten natuur voor uw in mijn ontstellen zin .	Worry_Emotion_BodyPart_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.913.s.1	ik ogen op u gebied ; nu blijken hebben klaar , mevrouw : En gei , nog willens blind , verfoeien een nut trouwen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.913.s.2	gei kunde u weigring nu mede rijden niet verschonen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.913.s.3	Hoe durven u fier jeugd een teder moer honen , Die schijn vinden oneer lijden om u dreigen belang ?	Emotion_Other
+stee033adag01_01.TEI.2.text.body.div.div.sp.913.s.4	verkiezen gei roekeloos een ' wis ondergang , terwijl u minnend harden , vleien door zij bevel , mede janhen Lodewyk u erfrecht wensen te deel ?	Emotion_BodyPart_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.1	verzwaren ik kwelling niet ; verdrijven uiten ik gemoed , Door u ' getrouw raden , een ' dwazen minnegloed , Een zielverteerend vuur , doen groot mijn plaag .	BodilyProcess_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.2	Hier durven een moer ik door fel dwang versagen , Daar dreigen ik het staatsgevaar ; nu vrezen ik Willems macht , Dan doen onuitwischbre schande ' vinden ik beroemd slachten ; En onophoudlyk zweven voor ik bekreten oog hebben beeld een vader , wieden doen dood ik hebben onttogen : nog moeten ik teder harden , bij doen yslykste ongeneugt ' , doen liefde weerstaan in het bloeien mijn jeugd , Ja , tegen het moederlijk bevel , een minnen verzaken , Die , mede ik ' plicht verenen , ik zij gelukkig manen .	Emotion_Happiness_BodyPart_BodilyProcess_Love_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.3	Ik kennen ik ' vader willen , zijn ' broeder rechte , mijn eer .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.4	Natuurpligt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.5	sterk ik deugd : die Ada triomfeer ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.6	zij Diedriks wenen kroos uiten laf drift gehengen ..?	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.933.s.7	mare Lodewyk verschijnen ; ik zullen ik ' plicht volbrengen .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.937.s.1	Ada , Lodewyk , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.950.s.1	Vorstin , verbeelden uw niet , bij het nadrend ogenblik vinden het zeldzaam echtverbond , terwijl ik hopen en schrik , Daar uw doen kracht vinden het bloeden een ' vader doen beschreijen , die uw ik teder minnen mede bruiloftsvreugd zullen vleien : o Neen !	Fear_Emotion_Hope_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.950.s.2	deze aklig feest eisen traan ; ik wee mede uw : Nooit lijden u bruidegom zode groots een smarten alles nu : En echter , zode ik harden niet mogen na het uw ding , Ik zij doen droef zijn vinden al sterveling .	Emotion_BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.950.s.3	vergunnen gei die ik vragen ' , in u ' gepasten rouw , Of gei ik liefde duld , en stemmen in ons trouwen ?	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.1	u groot ziel , mijnheer , voldoen aan ik verwachting : uw edelmoedigheid verdiend een eindlooze achten , Een eedler harden dan het mijn , en het opperst gebied .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.2	Nu gei ik smarten voelen , betamen ik het haten niet .	Emotion_EmotionalAction_Hatred_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.4	zij zien Ada mede ondankbaarheid bevlekken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.5	mare kunnen ik ooit mede uw ik huwelijk voltrekken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.6	die schandlyk trouwverbond , u zuiver minnen onwaard ' , besluiten in een drift die het heilige rechte niet sparen , zijn heilloos voor ik landen , en dodelijk voor wij beide .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.963.s.7	hopen nooit u droef bruid na het echtaltaar te lijden .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.969.s.1	o harden talen !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.969.s.2	Vorstin , vrezen Willems landvoogdy ; duchten zijn ontzinde wraken .	Fear_Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.973.s.1	mijn onschuld pleiten voor ik .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.977.s.1	zijn staatzucht ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.988.s.1	Neen , mijnheer ; ik zullen geren ' Willem duchten , Wanneer ik uw niet vrezen ...	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.988.s.2	ik willen niet in schande zucht .	BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.988.s.3	verbeelden uw echter niet , die ik , die uw beklagen , Die uw deugd roemen , uw wederliefde dragen , En door een teder vaarwel , uiten dwaas minnen spruiten , bij het weigeren vinden ik hand , u kwelling zullen vergroten : Neen , Lodewyk , denken eer :  die Ada vinden ik scheiden ,  Bewyst zij ' bruidegom haar ongevoeligheid .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1003.s.1	zullen gei , aan ik verloofd , nog haten nog liefde kweken ?	Emotion_Hatred_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1003.s.2	o wreed !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1003.s.3	u afkeer zijn ik duidelijk blijken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1003.s.5	gei bedekken u ' haten mede Willems heilloos rechte , rome ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1003.s.6	Opdat ik afstand doen vinden ik ' besluiten echt Mevrouw , moeten gei ik deugd uiten wantrouwen veinzen ' Neen ; duchten vinden ik geren ' dwang , die groot ziel doemen ; denken niet die Lodewyk , vinden uw gehaat , verachten , zien ooit bedienen zullen vinden Adelheides macht ; bekennen vrijen die u harden door afkeer worden bewegen , schonen ik , mede hopen vleien , en jammerlijk bedriegen , doen smartelykste dood voor u verachting kiezen , Die ik doen ziel verscheuren , nog meer dan u verliezen .	Suspicion_Emotion_Hatred_Hope_BodyPart_BodilyProcess_Sadness_Disgust_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.1	verachten ik uw , ik heer ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.3	hoe kunde gei het waan ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.4	Wat hartstocht ik bewegen , bewijzen uw ik traan .	BodyPart_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.5	zijn deze uw haten ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.6	zijn deze wreedheid ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.7	worden ik jeugd Niet fel genoeg bestreen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.8	belagen gei ook ik deugd ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.9	Ik , door ik ' vader dood ellendig , door zijn ' broeder mede dwingelandij dreigen , door mijn ontaarde moer In diep wede storten , en in doen zwaar smarten verplichten te strijd mede doen neiging vinden ik harden ; Ik , dus te doelen stellen aan het woeden mijn plaag , moeten nog , vinden troosten ontbloten , u bits verwijten verdragen o onverwacht ramp !	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.10	o dubbel zielverdriet !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.11	kennen , kennen ik , Lodewyk : uw Ada haten uw niet ; zijde minnen uw ...	Emotion_Hatred_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.12	moeten die talen ik in myn'rouw ontglippen ?.	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.14	zode geren streng plicht ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1021.s.15	doen schaamte sluiten ik lip .	Emotion_BodyPart_BodilyProcess_Shame
+stee033adag01_01.TEI.2.text.body.div.div.sp.1028.s.1	Neen ; blozen niet ; neen , mevrouw : ik harden , in zegepralen , zullen niet ondankbaar zijn voor zulk een lief talen : Ik willen , vinden uw beminnen , veeleer vinden liefde sterven , Dan , levend in u ' haten , u waard hand verwerven .	Joy_Emotion_Hatred_BodyPart_BodilyProcess_Love_Shame
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.1	Ik kennen de graven vinden lot aan die grootmoedigheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.2	gei zien vorst Diedriks wezen , die zij verliezen beschreit , doen traan vinden natuur en liefde samenvoegen .	BodyPart_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.3	laten die bekentenis voor altoos uw vernoegen ; Ontvlie voor eeuwig ik ; bedwing zode ver u minnen .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.4	Nooit zullen uw Ada , nooit zullen Hollands erfgravin zij ' bruigom alles tiran in Diedriks erfdeel leiden : Ik willen , o Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.5	zode groots een schande mijden , geren ' adel , geren gemeente ooit , tot ik ' ondergang , doel tred , tegen ik , in Willems wreed belang .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1043.s.6	storten ik dan het onheil neder , durven hij zijn ' plicht vergeten , Ik zullen mede roemen vergaan , en mede een vrijen weten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.1	gei minnen , en voeren die talen !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.2	die glorieryk besluiten , Waardoor ik liefde groeien , terwijl het wij huwelijk stuiten , hebben Amstels wijze raden gewis uw ingeven .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.4	u hoog deugd zijn moeilijk naar te streven , En storten ik blaken harden in eindeloozen druk , naar het vleien denkbeeld vinden ik inbeelden geluk .	Emotion_Happiness_BodyPart_BodilyProcess_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.5	Ik zien , mevrouw , ik zien wat deugd wij betamen : u minnen tot Lodewyk behoeven gij uw nooit te schamen : Ik willen , terwijl u plicht hebben huwen wij ontzeggen , u liefde waardig zijn ; ik staven een wettig rechte ; ik Verzaak ik hoogst geluk , eer het uw gedijen ' tot schande , En doen voor Adaas heil doen erbarmlykste offerande .	Emotion_Happiness_Love_Shame
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.6	Vaarwel in eeuwigheid ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1061.s.7	wie zieden elkaer nooit weer ; gei zullen u ' bruidegom vergeten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1071.s.1	Neen , mijnheer : ik afgemat geest , hoeveel het ik rusten zullen krenken , willen onophoudelijk uw eedle minnen herdenken .	Emotion_BodyPart_BodilyProcess_Love_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1071.s.2	het zijn nodigen , tot ik ' troosten , die gei ik zwakheid weten , Opdat ik bruigom nooit zijn droef bruid vergeten ' !..	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1071.s.3	ik moer naderen wij .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1071.s.4	laten Ada nu aanschouwen Hoe veilig zien zij harden op het uw mogen betrouwen .	BodyPart_Trust
+stee033adag01_01.TEI.2.text.body.div.div.stage.1075.s.1	Adelheide , Ada , Lodewyk , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1085.s.1	Mevrouw , zien hier een blijk vinden waar dankbaarheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1085.s.2	Een minnaar , door u gul in al zijn hopen vleien , bij wieden ik bede meer dan liefde en heerszucht baat , doen afstand vinden ik ' echt , en vinden ik hoog staat ; zijn edelmoedig harden kiezen , deelende in ik ' druk , doen glorie vinden zijn bruid voor het zorgelijk echtgeluk : het zijn hij bekennen wat ramp uiten ons trouwen kunnen spruit .	Emotion_Happiness_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1089.s.1	Hoe weten u streng deugd ik lief drift te sluiten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1098.s.1	zijn het mogelijk , Lodewyk , indien gei waarlijk minnen , die uw , niet laf vinden aard , een ijdel vrezen verblinden ?	Fear_Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1098.s.2	scheppen moede ; ontvang een bruid , uw door ik gul beschoren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1098.s.3	uiten u ' besluiten echt worden al wij heil baren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1098.s.4	geloven ik , tot bewijs vinden uw erkentenis ; Of denken die Lodewyk gene Ada waardig zijn .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1107.s.2	zij ik moede , vorstin , uiten laf vrezen bezwijken ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1107.s.3	zijn moeten , tot Adaas heil , ik trouwen liefde blijk ?	Emotion_Love_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.1107.s.4	Hoe voeden u bits verwijten ik fel minnepyn !	Emotion_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1107.s.5	moeten ik door huwlyksdwang ik schoon onwaardig zijn ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1107.s.7	ik willen ik bruid op doen eelste wijze ' beminnen .	EmotionalAction_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1111.s.1	volharden , o Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1111.s.2	uzelven te overwinnen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1120.s.1	Misleide minnaar !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1120.s.2	vrezen doen gramschap vinden een vrouw , Die , schonen zij in het heimlyk treuren , in het openbaar de rouw In het prachtig feestgewaad uiten nooddwang moeten verbergen .	Emotion_EmotionalAction_Sadness_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.1120.s.3	gei zullen ik zuchten harden niet langen door weigring tergen .	BodyPart_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1120.s.4	Een ander bruidegom , bezielen mede eedler minnen , zullen het waardig voorwerp zijn ...	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1124.s.1	Wat zeggen gei ?..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1124.s.2	Ach , vorstin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.1126.s.1	Ada ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1135.s.1	uw Ada zullen zij ziel mede ontrouw nooit besmetten : ik plicht , mijn eer , u mui zullen het huwen ik beletten .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1135.s.2	Ontaarde moer , die ik hartewee vergroten , ik tot een misdrijf nopen , ik gewis verderf besluiten !	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1135.s.3	u wreedheid wettigen ik het verplichten ontzag te breken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1135.s.4	Ik willen in het vrijen gemoed geren strafbre liefde kweken .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1128.s.1	tegen Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1139.s.1	vermetel !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1139.s.2	welk een talen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.1	vergeven ik die , mevrouw : ik ongelukkig harden zijn aan zijn ' plicht getrouw .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.3	dwing ik lang niet mede weerzin uw te honen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.4	Ik willen , alles dochter , uw gehoorzaamheid betonen : mare weigeren ik niet meer u ' moederlijk troosten , En eisen gene enveldaad vinden u ellendig kroos .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.5	Vaarwel , ik bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.6	Ik zullen die naam uw geven , Zolang gei waardig zijn in echt mede ik te leven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1151.s.7	u droef bruid ontvlieden voor eeuwig u zichten .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1155.s.1	Voor eeuwig !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1155.s.2	Wreed besluiten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1159.s.1	o Al te streng plicht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1164.s.1	Hoe kunnen ik scheiden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1164.s.2	hoe mijn Ada eeuwig durven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1168.s.1	gei moeten , o Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1168.s.2	deze op u harden verwerven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1172.s.1	o Weergaeloos verliezen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1176.s.1	o dodelijk ongeneugt ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1182.s.1	Vaarwel ; denken aan ik liefde .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1180.s.1	Ada ombelzende .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1186.s.1	Ik denken aan uw deugd .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1190.s.1	Adelheide , Lodewyk , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1197.s.1	Betoon u schreijend kroos doen deernis vinden een moer ; horen Willems afgezant ; bevredigen Diedriks broeder .	Emotion_BodilyProcess_Compassion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1197.s.2	Beproef , mislukken hebben uw , beproef ik ' moede , vorstin ; En zien doen heldendaen de hopeloos minnen .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.1	Verliefden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.2	moeten gij om strijd , in weerwil uw hart , uiten haten tot u geluk , een teder moer tarten ?	Emotion_Happiness_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.3	Daar uw ik gul verenen , tot wanhopen overslaan ?	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.4	ik tergen mede verwijten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.5	ik nut zorgen vermaen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.6	gei nopen ik grimmigheid u wrevel drift te doemen ; En dwingen ik teffens uw , grootmoedig !	Emotion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.7	te rome .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.8	beklagen , ik Hildegaard , beklagen zij ongeluk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.9	zagen gei die teder vaarwel ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.10	zagen gei hunn ' fel druk ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.11	En echter zieden wie heen , om smaad en schimp te weer , Op het hevig mingeweld doorluchtig triomferen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.12	zode hebben ik vruchteloos , op uw vreemd raden , de zwarte rouw verkeerd in het blinkend feestgewaad , Opdat ik het jeugdig harden de droevig Ada vleien .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.13	zij fierheid ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1219.s.14	mare die passen aan het kroos vinden Adelheide .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1232.s.1	verbreken gei dan , mevrouw , u loffelijk staatsbesluit ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1232.s.2	verijdelen gei ik zorgen , die in doen jong bruid Een krachtig liefdevuur behendig hebben ontsteken ?	BodilyProcess_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1232.s.3	zien , zien Oostvrieslands graven eerlang op het felst wreken Door uw vriend dood , en in u vorstelijk bloeden .	EmotionalAction_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1232.s.4	betonen gei Ada dus een moederlijk gemoed ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1232.s.5	Verraad wij al niet door ijdel mededogen ; geven nooit aan Willems haten een dodelijk staatsvermogen ; voltrekken doen nut trouwen : u afstand zijn te laten ; ik weten u ' toeleggen .	Emotion_Hatred_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1240.s.1	sparen u ' vruchteloos raden : Ik weten wat ik betamen , en zullen het besluiten niet breken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1240.s.2	mare helpen ik Lodewyk in fel liefde ontsteken ; bewegen doen droef bruid te stem in zij ' echt ; vertonen zij al het geluk die zij worden toegezegd .	Emotion_Happiness_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1245.s.1	zijde spreken de afgezant .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1245.s.2	ik moeten die gesprek niet stuiten : ik Verzelde zij ; hij hebben geheim kunne uiten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.1	getrouw , helen ik niets .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.2	doen bisschop , in het paleis rijden aankomen , sterk ' ik ' moederlijk eisen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.3	het Hardnekkig paren ontzie die geestelijke vader !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.4	ik zullen ik mede hij beraden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.5	kennen Adelheide nader ; zien of ik afstand doen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1254.s.6	Niets vallen ik ' moede te zwaard : deze harden winden nieuw kracht in het wassen landgevaar .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1256.s.1	Einde vinden hebben tweede bedrijf .	None
+stee033adag01_01.TEI.2.text.body.div.head.1260.s.1	Derde bedrijf .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.1	Hoe doen een wreed minnen ik harden wanhopend ' blaken !	Emotion_BodyPart
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.2	Ik moeten ( o streng bevel ! ) al ik geluk verzaken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.3	o Akelig paleis , waarheen ik juichen ' tijgen !	Joy_EmotionalAction
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.4	u vorstelijk feestsieraad zijn hatelijk in ik ogen ...	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.5	ellendig erfgravin !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.6	hoe kunnen ik uw verlaat ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.7	gei zijn in hogen node ...	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.8	zullen uw ik bijzijn baat ?..	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.9	Ik willen hier wak voor u wettig eigendom ; Ik willen beletten , die een ander bruidegom ...	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.10	verwoed minnenyd !	Emotion_Envy_Love
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.11	vlieden , viie uiten ik gedachte ; Ik buigen voor Adaas willen .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.12	o wanhopen !	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.sp.1276.s.13	geven ik kracht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.1	Verwinnaar vinden u harden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.2	uw edelmoedigheid , vrezen vinden Adelheide , en door u bruid verbreiden , zullen uw , die meer bedoelen dan talryke onderdaan , ontwijfelbaar de wegge te eeuwig achten baan .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.3	volharden ; behoeden uzelv ' en u dreigen bruid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.4	doen bloem de adel barsten in eedle gramschap uiten , En willen , eer Ada hu ' na Adelheides weten , doen blind tirannie door nut wellen beletten .	Emotion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.5	Die raadslag zijn nog niet aan Diedriks weeuw gemeld .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1294.s.6	zijde , die u liefde kennen , en velen betrouwen stellen In bisschop en soldaat , willen het opzetten nog voltrekken , Eer Dordrechts morrend volk een oproer kunnen verwekken .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1306.s.1	Neen , Amstel ; neen : ik die ik nimmer vinden zij ' dwang : ik glorie triomferen op liefde en staatsbelang .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1306.s.2	Die zege staan ik die .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1306.s.3	Hoe Ada goed beveiligen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1306.s.5	Utrechts bisschop zelf , de kerkdienst toegeheiligd , verbitterd Adaas voogd , uiten wrok , door snood list ; Ontvonkt , uiten zelfbelang , hebben moordvuur vinden de twisten ; verdrukken graven Diedriks wezen , verharden een teder moer .	Emotion_Spitefulness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1306.s.6	wij zullen doen onnozelheid beschermen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1310.s.1	Diedriks broeder .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1314.s.1	graven Willem ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1320.s.1	Ja , mijnheer : hij gruwen vinden tirannie , En doelen grootmoedig op doen wettig voogdij : zijn afgezant hebben lassen voor Adaas heil te wak .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1324.s.1	o Wonder !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1324.s.2	pogen ik uw geren logen diets te manen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1333.s.1	graven Willems groot ziel , ontlasten vinden al haten , zijn Diedriks wenen kroos een wis toeverlaat : gei zullen zijn hoog deugd niet langen in twijfel trek : hij minnen zijn droef nicht .	Emotion_Hatred_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1333.s.2	Ik mogen niets meer ontdekken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1333.s.3	tonen zelf de afgezant uw edelmoedigheid ; plegen raden mede Hugo ; steunen op zijn getrouw beleggen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.1	Die talen verbaasd ik .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.2	zullen graven Willem zij behoeden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.3	En zij ik oorzaak zijn vinden all ' zij tegenspoed ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.4	het Voogdyrecht schenden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.5	hij verraden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1340.s.6	Neen , mijnheer : ik minnen , op uw rusten , mistrouwen die held niet meer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1344.s.1	wachten Hugo , die terstond hier zullen gehoor verbeiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1350.s.1	Ach , Ada !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1350.s.2	u belang vereisen een eeuwig scheiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1350.s.3	Te zucht , ver ' vinden uw , in doodelyken druk , zijn al wat ik hopen ...	Emotion_Hope_BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1350.s.4	Erbarmelyk geluk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1355.s.1	doen bisschop naderen wij .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1360.s.1	Ik kennen zijn leus treek ; Ik schuwen hij .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1364.s.1	Vander Are , Lodewyk , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.1366.s.1	Vander Are .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.1	Blyf , mijnheer ; vergunnen ik uw te spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.2	gei weigeren Adaas hand , in weerwil uw minnen , Op doen onbedacht bede die wenen gravin ; gei zijn grootmoedig in u drift te overheeren , mare overwegen niet wat die schoon meest kunnen deren .	Emotion_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.3	verdolen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.4	zagen gei niet waaruit zij weerstand sproot ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.5	zijde smoren zij wederliefde uiten smarten om zijn vader dood .	Emotion_BodilyProcess_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1376.s.6	zij harden stemmen in zij ' echt : zyzelf zullen uw bevel mede zij te heersen , in zij huwlyksmin te deel .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1381.s.1	stemmen Ada het echtverbond ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1381.s.2	o Neen ! het zijn ik bewust Hoe Adelheides willen zij droef ziel ontrust .	Fear_Worry_Emotion_BodyPart_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1386.s.1	zij harden , zij minnend harden vinden all ' zijn ' troosten in het uw , En Hollands hoog node verplichten zij die zijde huwe .	Emotion_BodyPart_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1394.s.1	In tegendeel , mijnheer , vereisen hebben landgevaar , die Hollands erfgravin mede Lodewyk niet paren ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1394.s.2	vergeven ik die ik pleiten voor Adaas veeg staat , Nu rijden een talryk delen de graaflyke onderzaten durven spreken voor hebben rechte de landvoogdye .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1404.s.1	Ik weten Hoe Dordrechts morrend volk ontzag en plicht vergeten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1404.s.3	zullen ik het graaflyk huis , na zij vloeken bedragen , Aan Willems oude haten en dol staatzucht waag ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1404.s.4	schenden zelf geren recht , gei , die voor doen recht pleiten : u wettig leenheer spreken ; betoon gehoorzaamheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1408.s.1	ik plicht zijn ik bekennen ; u recht zijn ik heilige .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.1410.s.1	Vander Are ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1414.s.1	denken ; zode gei Willem vrezen , die ik u ' echt beveilig .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1421.s.1	zode Ada het huwen stemmen , zijn het enkel uiten ontzag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1421.s.2	Ik weten hoeveel een hoofd vinden Utrechts kerk vermogen Op doen onbedreven jeugd , op lichtverleide vrouw , Die op doen geestelijkheid zien bundeling betrouwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1425.s.1	Wat lastring !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.1	Ach , mijnheer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.2	doen wanhopen spreken in ik : Die drift verstoore uw niet !	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.3	bedenken wat smarten ik lijden .	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.4	Ik denken in eigendom een erfgravin te ontvangen : o ijdel hopen !	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.5	ik moeten die schoon , om zij belang , Voor eeuwig vlijen , jeugd en liefde weerstaan , Al bieden een moer zelf die waard bruid ik aan , Al pogen u wreed gezag doen zege ik te ontrukken .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.6	o Gruwel !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.7	moeten ik ook graven Diedriks kroos verdrukken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.8	Hoe beven ik teder harden in het groeijend staatsgevaar de kwijnen vorstin !	Fear_BodyPart_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.1438.s.9	wij , wij verdedigen zij ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1442.s.1	Indien doen node zij treeft , hebben zijn aan uw te wijdte .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1446.s.1	Aan ik ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1452.s.1	Aan uw allee , die , wanen uw te kwijten Voor Adaas oog belang , door het weigeren vinden zij hand Aan Willem tij verlenen ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1452.s.2	wij storen wij ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1456.s.1	doen afgezant .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1461.s.1	Vander Are , Lodewyk , Willem , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1480.s.1	het zijn voor het gemeen belang , mijnheer , een gunstig teken , die Hugo het achtbaar hoofd vinden Utrechts kerk mogen spreken , terwijl uw eigen eer , zowel alles Willems rechte , Gevaar lopen door het besluiten vinden Adaas vreemd echt .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1480.s.2	ik mompelen ( zij die talen in ik geloven verwekken ? ) die gei door het geestelijk kleden een misdrijf pogen te dekken ; doen vorstelijk wezen , uiten eerloos eigenbaat , vinden Diedriks laatst willen , ja vinden zij ' plicht ontslaat ; En wanen een wrekend volk door u gezag te stuiten .	EmotionalAction_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1480.s.3	gei weten wat ongeval uiten Adaas echt kunnen spruit , die kerklyke achtbaarheid in oproer niets vermogen , graven Willems treffend stalen nooit zwichten uiten blind ontzag , En die u helpen niet passen bij die vermetel huwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1480.s.4	tonen Dordrechts burgerij hoe doen echtdwang uw doen gruwen ; beletten , door u gezag , een schaadlyk trouwverbond ; En sluiten de lasteraar op het glorierykst de mond .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1487.s.1	u ijver voor mijn eer zij mogelijk ik bedragen , Indien ik nodigen denken bij uw om raden te vlaag .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1487.s.2	het zijn ik genoeg bekennen wat ik betamen , mijnheer ; En het lusten ik buit uw te zorg voor mijn eer .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1495.s.1	gei zullen , indien gei weten wat daad uw betamen , En zorgen voor uw eer , die bits tal uw schamen .	Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1495.s.2	Ik zien hoe Dordrechts volk , in zijn verwoed spijt , u listig eigenbaat rechtvaardig uw verwijten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1495.s.3	zullen gij altoos Willems wraken , gelijk weleer , ontvluchten ?	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1499.s.1	Mynheeren , voeden geren ' twisten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1505.s.1	o Jammerlyke vrucht vinden het heilloos trouwbesluit !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1505.s.2	Vorstin , hoe groeien u node !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1517.s.1	gei honen mijn achtbaarheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1517.s.2	u roekeloosheid zijn groots .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1517.s.3	die Willems afgezant zode stout een talen durven voer , Bewyst hoe Willem zelf gans Holland zij beroeren , Ja luisteren na beklag , natuurpligt , eer nog weten , Indien zijn aanslag niet voorzichtig worden beletten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1517.s.4	gei durven een heldenstuk ( o smaad ! ) een misdrijf noemen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1517.s.5	ik dingen na Adaas erve ; ik helpen zijn niet te doemen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1509.s.1	tegen Willem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.1	mogen Hollands graaflyk huis , om schyngevaar te ontgaan , vinden Diedriks laatst willen vermetel zien ontslaan , weerspannig het oog gezag de achtbaar voogd schenden , En storten het vaderland in eindeloos ellende ?	Emotion_Pride
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.2	Neen , leus bisschop !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.3	neen ; geren landzaat zijn hier slaaf .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.4	hebben opperstaatsbewint behoren wel aan de graven , mare geven geren vrijen macht tot onrechtvaardigheden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.5	geren loffelijk opperhoofd kwetsen ooit zijn dierbre lid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.6	doen hollands gravin verliezen zij heerschappij , Indien zij u les volgen , en stemmen tot dwingelandij .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1532.s.7	Besef wat zwaar slag uw Ada hebben te schromen , En die ikzelf , niet gei , zij ' vallen poog voor te komen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1554.s.1	doen rijden tonen , mijnheer , aan ik bestrijden deugd , Hoe ver ik wassen verdolen door onervaren jeugd ; En dwingen ik hopeloos harden , door wreed minnen aan het blaken , Helaas !	Emotion_BodyPart_BodilyProcess_Love_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1554.s.2	uw meest vinden ik droevig loten te manen ; uw , die ik liefde doemen ; uw , die ik ' echt weerstaat .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1554.s.3	kennen Adaas bruidegom , die het pijnlijk leven haten , zijn minnedrift bedwingen ; zien hij tot afstand vaardig , Niet schuldig bij u ' graven , mare Willems deernis waardig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1554.s.4	geren schandelijk vrezen ontwringen ik deze talen : u vorst , hoeveel geducht door zijn gelukkig stalen , Hoe moedig op zijn ' roemen , in het heilige landen verkrijgen , zij nooit ik staatzucht , nooit ik teder minnen bewegen vinden Adaas heerschappij en huwelijk af te staan ; hij vinden hier nieuw stof tot zeldzaam oorlogsdaen ; zode doen eer ik niet verbieden doen landvorstin te dwingen , En , tot zij ongeluk , na het graaflyk erve te ding .	Fear_Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1563.s.1	mijnheer , u groot ziel redden u doorluchtig bruid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1563.s.2	gei , nemen een voorbeeld aan zijn loffelijk besluiten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1561.s.1	Tegen de bisschop .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1568.s.1	zien Adelheide .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1568.s.2	denken hoe zwaard gei wij beleedigt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1568.s.3	graven Willem worden misschien door die vorstin bevredigen .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1572.s.1	Adelheide , Vander Are , Lodewyk , Willem , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.1	Eer ik uw horen ' , mijnheer , zijn het nodigen die uw blijk ' Of Willem nadeel lijden , al heersen hier Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.2	En gei , mynheeren , wezen getuige hoe ik zin , Voor het algemeen geluk , de oude haten verwinnen .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.3	hebben lid Oostvriesland zijde u ' graven te eigendom , Indien hij het huwelijk stemmen vinden Adaas bruidegom , hebben vorstelijk paren in rusten zij erfdeel laten regeren , En doen oud vijandschap in vriendschap doen verkeren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.4	Die held , alom beroemd door moedig krygsbeleid , Verwerve een ' nieuw lof door edelmoedigheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.5	hij strekken een ' toeverlaat voor hof en onderdaan !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1593.s.6	deze eisen zijn zijn belang ; deze eis Adaas traan .	BodyPart_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1580.s.1	Tegen Vander Are , Lodewyk , en Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1584.s.1	Tegen Willem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.1	gei schenken Oostvriesland hij !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.2	Vorstin , zijn het in u macht ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.3	het zijn Adaas erve .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.4	hij zij , indien hij het oorbaar denken , u minderjarig kroos niet vinden een delen beroven , mare all ' doen staat vinden zijn ' broeder zien beloven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.5	denken niet die Willem zien mede zulk een grootheid vleien ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1607.s.6	zijn uw zijn vriendschap woerd , zode geven hij vrygelen ' Op Diedriks uitvaart ; schromen zijn droef nicht te dwingen , En het zorgelijk trouwverbond vermetel door te dringen ; voldoen zijn rechte ; en zien , tot heil vinden all ' de staan , In Adaas trouw voogd een ' weten toeverlaat .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1614.s.1	Bedwing u stout tong .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1614.s.3	zij ik laf gedogen , die Ada zien begeve in Willems tros vermogen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1614.s.4	die hij , in dol haten , mede muitren zien vereen ' ?	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1614.s.5	doen ontveinsde staatzucht wreed de teugel vier o Neen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1621.s.2	die geren hevigheid hebben twistvuur weer ontsteke !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1621.s.3	Vorstin , het zijn nodigen , die Oostvrieslands graven uw spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1621.s.4	ik kies tij en plaatsen tot onder handeling ; ik geven gijzelaar ; ik make een nut verding .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1630.s.1	Ik , yvrig om ik bruid aan ramp op ramp te onttrekken , Vorstin , willen bij die graven u ' gyzelaar verstrekken , uw toon hoe ik ziel doen hulplooze Ada minnen .	Emotion_BodyPart_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1630.s.2	Wat heil , indien die schoon een wenschlyke uitkomst vinden , En ik , vonnissen zij in eeuwigheid te durven , Tot zij beveiliging mogen vlijen , kwijnen , sterven !	EmotionalAction_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1636.s.1	Mevrouw , storten Ada niet in diep staatselend ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1636.s.2	het Vermetel trouwbesluit zijn Willem rijden bekennen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1636.s.3	gei weten niet wij mede hij zien tegen uw verbinden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1640.s.1	o spijt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1640.s.2	ik zijn verraen door ik gewaand vriend .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1648.s.1	hebben puik de edel waken voor het rechte de landvoogdy ; Ja zij , in Adaas erve , eer hoog heerschappij , Indien het zijn aandeel in het voogdijschap moeten verlies , Eer Diedriks broeder , dan een ' vreemdeling , verkiezen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.1	Die vreemdeling ontzien doen glorie vinden zijn bruid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.2	Mevrouw , gei kennen ik drift voor u doorluchtig spruiten ; gei weten wat smarten ik lijden mede vruchteloos zij te min : mare doen invloed vinden zij ' plicht op zij verheffen zin , doen traan die zijde storten , doen lucht die zijde lozen , het verdubbelen staatsgevaar vinden u beminlyk kroos ; Ach !	Emotion_BodyPart_BodilyProcess_Love_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.3	al dwingen ik , zij in eeuwigheid te schuw : Ik hebben hopen , vorstin ; nu doen die hopen ik gruwen .	Emotion_EmotionalAction_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.4	Vernoeg Oostvrieslands graven , de adel , Adaas deugd ; behoeden zij vorstelijk erve , zij glorie , haar jeugd ; En overwegen mede erust hoeveel zij ramp groeien .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.6	ik zien u ' druk !	Worry_Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1667.s.7	laten vrijen u traan vloeien ; verbergen die droefheid niet ; die smarten strekken uw tot eer : geven , geven aan Diedriks wezen een teder moer weer .	Emotion_BodyPart_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1671.s.1	Ik zwijgen te langen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1671.s.2	Vorstin , wezen u belang indachtig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.1	maken een list u groot ziel neerslagtig ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.2	geven moedig Adelheide , uiten zwakheid , tot zij schande ' , Een zorgelijk geloven aan Willems afgezant ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.3	En zullen gei , ongewoon in het groot gevaar te beven , u dierbaar pand , uiten schrik , die wreker overgegeven ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.4	Mistrouw een ' vijand , die u vriend vals betichten , allee opdat u harden voor ijdel dreigen zwichten ' , Of , in doen onzekerheid op wieden het zien mogen verlaat , doen helpen die vriend derv ' voor Adaas veeg staat .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.5	Ziedaar hebben oogmerk vinden het gezantschap .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1691.s.6	kiezen , mevrouw , Of wraken vinden oude haten , of helpen vinden waar trouwen .	Emotion_Hatred_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1679.s.1	tegen Adelheide .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1704.s.1	gei openen ik zichten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1704.s.2	Ik zullen , in spijt die liggen , Niet aan Oostvrieslands wrok het geluk vinden Holland waag .	Emotion_Happiness_Spitefulness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1704.s.3	Hoe listig pogen ik ik , uiten veinzen zelfbelang , Te lok in de strik , tot Adaas ondergang !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1704.s.4	Hoe blaken een eedle spijt in ik getergde zin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1704.s.5	het zijn eertijds ik gelukken graven Willem te overwinnen : hij strijd ; ik vrezen hij niet , o neen ! ik wachten andermaal , In ik gerecht zaak , een wis zegepralen : Die wrevel vyaad zien ik ' moede , gelijk voordezen !	Fear_Emotion_Annoyance
+stee033adag01_01.TEI.2.text.body.div.div.sp.1708.s.1	Rampspoedige erfgravin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1708.s.2	gei zijn te vallen verwijzen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1715.s.1	Nochtans , indien u vorst ik aanbod niet verachten , En tot behoeder strekken vinden zijn verdrukken slachten , zode willen hij Adelheide onfeilbaar nog doel blijk , die zij gesarde wraken voor het staatsbelang moeten wijken .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1720.s.1	hij zullen , verwittigen hoe doen bisschop uw misleiden , Verzuchten om u ' ramp , uiten mededoogendheid .	Emotion_BodilyProcess_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1724.s.1	Ontzinde !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1731.s.1	u trotsheid zijn te oog in toppen steigeren .	Emotion_Pride
+stee033adag01_01.TEI.2.text.body.div.div.sp.1731.s.2	ontdekken ik aanbod hij .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1731.s.3	hij beve , indien hij het weigeren !	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.stage.1733.s.1	zijde vertrekken mede de bisschop .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1739.s.1	Vorstin , verhoor ik bede .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.1737.s.1	baar volgend .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1748.s.1	Hoe groeien doen tweedracht aan !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1748.s.2	Ach , vorst !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1748.s.3	wat nu verrichten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1754.s.1	Ik smeed een groots bestaan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1754.s.2	Vooreerst zijde Lodewyk door ijdel hopen bedriegen .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1754.s.3	hebben deren ik : mare doen node verwinnen ik mededogen .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1759.s.1	hij keren , en zoeken u helpen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1763.s.1	versterken een nut list .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1767.s.1	Lodewyk , Willem , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1772.s.1	beletten , o afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1772.s.2	beletten een ' wreed twisten , Een bloedig staatskrakkeel ; en achten ik bruid onschuldig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1776.s.1	verwachten die Willem uw tot graven vinden Holland huldigen ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1780.s.1	Wat zeggen gei ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1780.s.2	Deze talen verbijsterd ik het verstaan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1784.s.1	u deugd verdiend zijn gul mede Adaas erve en hand .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.1	Wat nopen uw veinzen ' ik mede ijdel hopen te vleien ?	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.2	durven Willems afgezant ik leus strik spreien ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.3	verlenen gei nieuw kracht aan ik verwinnen minnen , Opdat ik roekeloos huwe aan doen angstig erfgravin , u vorst zien door de krijgen een ' rijk buiten belove , En zij mede schijn vinden rechte hebben wettig erve ontroove ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.4	o vaderloos wezen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.5	barsten uiten in bitter rouw : u moer minnen uw niet ; u voogd bezitten geren trouwen ; doen ontveinsde heerszucht doelen arglistig op u staat , En vleien zien mede doen stemmen de morren onderzaten .	Emotion_Love_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.6	Doorslepen afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.7	ik weten wat hopen ik voegen .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1801.s.8	na Diedriks laatst willen zijde Adaas voogd vernoegd mede zijn bepalen gezag , totdat zyzelf regeere ; Opdat da edel macht doen snood staatzucht weer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1809.s.1	gei honen zij ' trouwsten vriend .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1809.s.2	zijde vrees uw meer dan hij ; zijde vrees u liefde allee .	Fear_Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1809.s.3	Ik vleien uw mede zijn stemmen , Opdat een blind drift uw niet in echt verenen , Eer hij , alles voogd erkennen , aan uw die stemmen verlenen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.1811.s.1	Amstel ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1818.s.1	Ik hebben mede zekerheid zijn deugd uw rijden gemeld .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1818.s.2	verwachten geren laf besluiten vinden die doorluchtig held .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1818.s.3	gei zullen , indien u liefde op hij zien durven betrouwen , Eerlang doen ontruste bruid in veiligheid aanschouwen .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1835.s.1	geven Adelheide hopen die Willem , die de vallen vinden Diedriks huis niet wensen , in doen echtkeur stem zullen .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1835.s.2	hij , die zij vriendschap eisen , hebben langen zijn ' haten vergeten .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.1835.s.3	het voordelig aanbod zullen ik yllings hij doel weet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1835.s.4	Ik kennen hij alles myzelv ' , en wachten op wis grond , Nu ik vergeefs voor hij na het landvoogdyschap staan , Nu zijde haar oor sluiten voor dreigen , voor bidden , die hij , allee in staan om doen edel te overrijden , Voor Ada heen voldoende , een nodigen wonderstuk teerhartig zullen bestaan voor het vluchtend landgeluk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1835.s.5	mare wachten zijn antwoord af : het zij hij te honen verstrekken , zode gei te schielijk durven u ' groot echt voltrekken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1844.s.1	Hoe teder ik Ada minnen , hoeveel ik Amstel achten , uw onverwacht talen zijn echter ik verdenken .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.1844.s.2	zijn het ik vergunnen , of niet , na ik geluk te ding ?	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1844.s.3	o naar onzekerheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1844.s.4	o wreed twijfeling !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.1	uw Ada zullen uw haasten vinden ijdel vrezen ontslaan .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.2	Ik willen een groots geheim terstond zij doel verstaan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.3	Hoe wensen ik spoedig zij te spreken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.4	mogen ik het hopen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.5	En zullen gyzelf daartoe die schoon in stilte nopen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.6	die niemand zij verzell ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1853.s.7	verwachten , naar die gesprek , die zij uw doen zekerheid vinden het nadrend heil ontdekk ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1858.s.1	gei zullen zij zieden , mijnheer ; en meer en meer besef , die nooit graven Willem zij in deugd kunnen overtreffen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1870.s.1	ik blijken u opzetten , vorst .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1870.s.2	Ik roemen u veinzerij .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1870.s.3	Hoe listig pogen gei tij te winden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1870.s.4	mare zullen gei , doen hopen vinden het kwijnen landen , u dreigen gevaar verdubbelen , door u ' naam aan Ada te openbaar ?	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.1	Ik zullen nog meer bestaan in Hollands hogen node .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.2	horen , Amstel , wat ik moede voor die gravin besluiten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.3	gei zagen doen grimmigheid de wrokken Adelhelde , die Utrechts kerklyk hoofd arglistig zij misleiden , Door ons tweedracht doelen op Hollands vegen staan , En wat gehoor zijde geven aan zijn kerkvoogds eigenbaat .	Emotion_EmotionalAction_Anger_Spitefulness
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.4	zijde zij , mede ijdel hopen niet langen door ik bedriegen , Door zijn bisschop leus tong tot woest dwang bewegen , helpen door doen minnen vinden het ongelukkig paren , ik zorgen verydlen voor het ontheiligd echtaltaar .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.5	Zolang doen bruid hier blijven , zijn het huwelijk te duchten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.6	Ik willen bij duisternis vinden hier mede Ada vlucht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.7	gei schrikken ; ik zien die rijden u bijstand uw berouwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1889.s.8	mare laten een scherp wachten , door doen edel betrouwen , doen vluchten Ada na een veilig oord verzellen , zijn doen adel zij verbergen ' totdat ik bergen zullen stillen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1893.s.1	Wat heldendeugd !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1902.s.1	Ik vlieden mede zij doen aanstaande nacht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1902.s.2	gei weten , verrassen ik ik , wat sterk helpen ik wachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1902.s.3	zullen Lodewyk geren ' dagge de vreemd echtdwang stuiten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1902.s.4	zullen Ada tot doen vluchten uiten wanhopen niet besluit ?	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.1902.s.5	ik koop ' doen lijfwacht om : gyzelf hebben ik gemeld , die Adaas droevig loten zij trouwen wachten ontstellen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1910.s.1	hebben algemeen geluk , uiten zulk een vluchten te hopen , verdiend die gei besluiten een groots gevaar te lopen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1910.s.2	Wat eeuwig eer voor uw , die , ondank u belang , doen zuchten erfgravin behoeden voor ondergang !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.1	zij staatsbelang zijn het mijn : ik moeten zij huwelijk vrees , Al schijnen die bron vinden twisten ik staatzucht nut te wees : Ik zij , versteken vinden doen hopen de landvoogdy , Vergeefs ik wapen om doen opperheerschappy .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.2	zij het edelmoedig paren , die mede verliefd zin Een eeuwig scheiden kiezen , niet al hart winden ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.3	Hoeveel een krijgsmacht zijde , zode oog een deugd zijn meer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.4	zien , zien ik zijn belang verenigen mede mijn eer , En oordelen hoe ik zien op Willem mogen betrouwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.5	gade ik geheim besluiten aan doen edel ontvouwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.6	o Ada !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.7	Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.1925.s.8	vergeven ik het loods beleggen ; mare overtreffen ik niet in edelmoedigheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.1927.s.1	Einde vinden goed derde bedrijf .	None
+stee033adag01_01.TEI.2.text.body.div.head.1931.s.1	vieren bedrijf .	None
+stee033adag01_01.TEI.2.text.body.div.stage.1934.s.1	Lodewyk , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.1	Deze onverwacht talen verbijsterd ik gedachte .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.3	zij ik heimlyk iets besluit mede doen wacht ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.4	Wat zij ik doelwit zijn ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.5	vleien Willems afgezant ik hopen in het einde niet mede Adaas erve en hand ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.6	Smeed ik een ' aanslag ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1942.s.7	ik ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1947.s.1	mijnheer , waartoe te veinzen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1947.s.2	verlaten uw op ik trouwen ; ontdekken ik u gepeins .	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.sp.1951.s.1	Wat horen ik !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1951.s.2	durven gei ..?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1956.s.1	Ja , grootmoedig bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1956.s.2	Ik beven , niet minnen dan gei , voor Adaas eigendom .	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.sp.1960.s.1	zijn uw bevelen ik te toets ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1960.s.2	week treek !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.1	nog een , ontveins ik niets ; ik zijn genoeg blijken .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.2	doen wacht momplen vinden een loffelijk bestaan , En twist of ik het ik , hunn ' hoofdman , voor zullen slaan .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.3	ik hebben ( deze horen ikzelf , ) doen aanstaande nacht verkiezen ; uw Ada worden genoemd .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.4	Wat loten zijn zij beschoren ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.5	wij zij iets groot bestaan , tot heil vinden die gravin , Dan gei , die zij beschermen tot nadeel vinden u minnen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.6	moeten gei uiten achterdocht ik trouwen helpen versmaden ?	Suspicion_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.7	Of blijken uw doen aanslag niet ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1972.s.8	worden die vorstin verraden ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.1	Ja , het zijn verraad .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.2	Ik schrik .	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.4	niets zijn ik bekennen .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.5	Hoe ras , doorluchtig bruid !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.6	treeft wij een nieuw elend ' !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.7	u trouwen minnaar , die , vleien in het hevig blaken , Om u dreigen belang zijn liefde moeten verzaken ; u teder bruidegom , die , op zijn ' huwlyksdag , moeten afstaan vinden u ' echt en Hollands erfgezag ; Die hier ontbieden worden , om in u minnen te deel ; mare die zijn hoogst geluk versmaadde op u bevel , En duizend smarten lijden in het krachtigst vuur de jeugd ; zien weer een ' straal vinden hopen , wanneer ( o kort vreugde ! ) Een heimlyk vloekgespan , reden op uw te woeden , ...	Joy_Emotion_Hope_BodilyProcess_Love_Loyalty
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.8	verrader !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.9	kennen ik uw !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.10	mogen ik die slag verhoeden !..	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.11	Hoe beven ik !..	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.12	Dierbaar pand !	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.13	ik werken u ' ondergang .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.14	ik klacht zijn vruchteloos ; deze marren duren te langen .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1992.s.15	laten wij die mompelen aan Adelheide ontdekken , Om uiten doen ontrouw wachten hebben snood geheim te trek .	None
+stee033adag01_01.TEI.2.text.body.div.sp.1996.s.1	zien Ada .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2000.s.1	Reinoud , volgen ; verzuim geren ogenblik .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2003.s.1	Ada , Lodewyk , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2007.s.1	mijnheer , ontvluchten gij ik ?..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2007.s.2	gei beven !	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2007.s.3	wat baard uw schrik ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2011.s.1	weerhouden ik niet , vorstin ; ik liefde moeten uw blijk .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.1	Wat hevig ongeduld !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.2	zode driftig ik te ontwyken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.3	Ik weten genoeg hoe groots zijn liefde t ' ik waarts zijn .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.4	Ik vrezen een nieuw gevaar in zijn ontsteltenis .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.5	Wat lotverwisseling !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.6	deze zijn een droevig teken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.7	nog vleien wij doen afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.8	hij willen allee ik spreken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.10	mogen zijn deernis ik vinden twijfeling ontslaan , En ik beklemmen ziel zij duister loten verstaan !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.11	o Liefde , weer ontvonkt in mijn ontroeren zin !	Emotion_BodyPart_BodilyProcess_Love_Moved
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.12	Hoe smartlyk zij het ik zijn uw nochmaal te overwinnen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.13	Hoe pijnigen ik doen vrezen , terwijl doen hopen ik vleien !	Fear_Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.2030.s.15	treffen Willems harden mede mededoogendheid .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.stage.2034.s.1	Ada , Willem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2043.s.1	troosten Diedriks droef spruiten , o Hugo !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2043.s.2	willen zijn broeder Grootmoedig zien in het einde ' verzoenen mede ik moer ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2043.s.3	zij ik doorluchtig voogd , door het afstaan vinden zijn rechte , Ook doen yvrende edel doel stem in ik ' echt , En tegen het zelfbelang , uiten gunstryk medelijden , Een vaderloos wezen vinden het smartlykst loten bevrijden ?	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2056.s.1	Mevrouw , hij scheppen geren ' lusten in uw tegenspoed ; hij lenen een gunstig oor aan doen inspraak vinden hebben bloeden , zijn vreemd vinden eigenbaat , en tot u ' bijstand vaardig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2056.s.2	uw ongemeen deugd zijn die bescherming waardig .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2056.s.3	mare gei , mede hopen vleien in u verliefd jeugd , zullen gei , na het voorschrift vinden u weergaelooze deugd , Indien u bruigom hier niet veilig kennen regeren , uw eensverwonnen minnen te tweedemaal verheeren ?	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.2056.s.4	schamen uw die liefde niet , naar doen eelste zegepralen .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2056.s.5	ik zorgen voor u geluk : scheppen moede .	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.1	o Duistre talen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.2	Ach , Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.3	u ziel hebben rijden zien te ontstellen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.4	Wat moeten ik , ginds en weer slingeren , ik voorspel ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.5	mijnheer , wat eisen u vorst vinden zijn ontruste nicht ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.6	spreken duidlyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.7	Niets zijn ik zode dierbaar alles ik plicht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2067.s.8	ik mogen ik zwak jeugd verliefd , rampzalig heet ; mare nooit zullen Diedriks kroos een misdrijf zien vermeten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2072.s.1	verheffen deugd !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2072.s.2	Vorstin , wezen tot een daad bereiden , Die ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2076.s.1	redden ik spoedig , wreed !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2076.s.2	uiten deze onzekerheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2080.s.1	durven gei volkomen op graven Willem uw verlaat ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.1	Ik geven in zijn bestieren ik leven en ik staat ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.2	gei zwijgen !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.3	na Amstels raden hebben ik , o afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.4	Een vasten betrouwen op ik ' waarde bloedverwant .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.5	Verdenk ik niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.6	Wat troosten zijn buit hij te wacht ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.7	verleiden geren moer ik ?.. o spoorloos klacht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.8	Zyzelf , misleiden , verraen , ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.9	zijde zijn zode schuldig niet .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2091.s.10	Ik zij , wat ongelijk ik zuchten harden geschieden ' , Voor zij , die ik beminnen , vrijen willig kunne sterven .	Emotion_BodyPart_BodilyProcess_Love_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2099.s.1	vergeten u ' bruidegom : hij zullen uw nooit verwerven ; zijn land welzijn duld hebben niet : verheer nog een u minnen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2099.s.2	Hoe delen ik in u ' druk , verraden erfgravin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2099.s.3	wij kennen u zuiver deugd , uw onverdiend plaag , En moeten u deerlijk loten niet ongeveinsd beklagen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2104.s.1	gei delen , o afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2104.s.2	grootmoedig in ik smarten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2104.s.4	treffen ik ongeluk niet minnen graven Willems harden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2108.s.1	hebben treeft hij .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.1	Hoe , mijnheer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.2	kunnen hij ik ramp weet ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.3	zien hij door strijd op strijd deze harden vaneen rijten ?	BodyPart_BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.4	weten Adaas trouwen voogd zij droef zege ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.5	o Neen !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2116.s.6	melden hij , die ik de honen , hij aandoen , bewenen ; melden ...	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2122.s.1	o Natuur !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2127.s.1	gei zuchten !	BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2127.s.2	gei wenen !..	BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2127.s.3	zijn deze een teken ..?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2136.s.1	gei dwingen ik , dierbaar pand !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2136.s.2	tot uw ronduit te spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2136.s.3	doen waar toeverlaat vinden u beroemd slachten , u teder bloedverwant , graven Willem , in wie macht zien u dreigen jeugd kloekmoedig willen begeven , verlaten zien ook op uw , betrouwen uw ook zijn leven , Om uw te ruk uiten doen wreed dwingelandij ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2140.s.1	Wat vreemd geheim !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2144.s.1	Mevrouw !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2148.s.1	varen voor .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2152.s.1	zien hij in ik .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.1	zijn het mogelijk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.2	gei die vorst !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.3	graven Willem zelv ' te aanschouwen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.5	En hij durven op Ada zien betrouwen !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.6	gei !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.7	Amstels duistre talen verbergen een heuglijk liggen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2159.s.8	Wat voeren uw hier te helpen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2163.s.1	hebben bloeden , u deugd , ik plicht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2168.s.1	zijn zijn ik ?..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2168.s.2	blijde dagge !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2168.s.3	zijn Willems harden zode teder ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2168.s.5	klagen niet meer ; gei vinden u ' vader weder .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2172.s.1	ik dochter !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2172.s.2	die ik uw omhelze !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.1	o groots geluk !..	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.2	Hoe onvoorziens verzachten u blijde komst ik ' druk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.3	Ik schreien , mare het zijn vinden vreugde ; ik juichen in al ik leiden .	Joy_Emotion_EmotionalAction_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.4	gei weten ik staatselende , en hoe ik harden moeten strijd : ik broos jeugd verliezen een ' vader ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.5	wreed slag !. , gei vleien ik dwaas minnen en doemen zij , op een dagge .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.6	wij zij , naar zoveel wede , zien het minst geluk beloven ?	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.7	En echter deze vreugde gaan al ik smarten te boven .	Joy_Emotion_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.9	u lyfsgevaar verwekken ik nieuw stof Tot vrezen ...	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.10	weten Adelheide ..!	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.11	Ontwyk deze dodelijk hof : o ik beschermer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.12	vlieden ; duchten hier doen wreed slag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.13	moeten gei , tot Adaas helpen , u dierbaar leven waag ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.14	Hoe storen ik angst doen vreugde vinden het lieflykst ogenblik !	Fear_Joy_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2190.s.15	Ei vlie ; verlossen ik ziel vinden zij ' gerecht schrik .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2194.s.1	o Ja ! het zijn ik besluiten : mare gei zullen met vlijen .	Fear_EmotionalAction
+stee033adag01_01.TEI.2.text.body.div.div.sp.2198.s.1	Ik vlucht ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2198.s.2	hoe , mijnheer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2208.s.1	Vorstin , hebben moet scheiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2208.s.2	u groot ziel vrees ' niets dan Adelheides dwang .	Fear_Emotion_BodyPart
+stee033adag01_01.TEI.2.text.body.div.div.sp.2208.s.3	Een delen de wacht , die , getrouw voor u belang , zien aanbied zijn gravin die wreed dwang te ontrukken , zullen wij doen aanstaande nacht die vlijen doel geluk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2208.s.4	Beveilig door u ' moede zijn land heil , u ' rank , uw eer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2208.s.5	zullen gei ik teder zuchten mistrouwen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.1	Neen , mijnheer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.2	ik ramp zijn te groots , dan die ik laf zij vrees .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.3	doorluchtig toeverlaat !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.4	gei wild ik vader wees ; gei eisen een nut vluchten : u dochter zijn bereiden ; Ik zullen gehoorzaam zijn .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.6	zijn ' die tederheid , Die uw aan het akligst loten hebben uw doen verbinden , Tot ik vertroosting bij een moer ook te vinden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.7	ik vader !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2221.s.8	wreken uw niet ; wijd zij vermetel daad Aan het hoofd vinden Utrechts kerk , de smeeder vinden het verraad ; verdrijven ik ' bitter angst ; verplichten zij uw te min .	Fear_Emotion_EmotionalAction_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2232.s.1	u deugd kunnen haten en wraken in ik gemoed verwinnen .	Emotion_Hatred_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2232.s.2	ik spil ' geren ' nut tij in vruchteloos gesprek .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2232.s.3	maken al vaardig tot u heimelijk vertrekken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2232.s.4	intussen veinzen mede ik , opdat ik Adelheide Gelukkig mede doen hopen op uw echt misleide , doen moederlijk dwang uw deze dagge niet paren ' , En ik uw tijdig redden uiten al u staatsgevaar !	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.stage.2236.s.1	Ada , Willem , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2240.s.1	ik smeed verraad , vorstin ; doen bisschop liggen uw liggen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2244.s.1	o Ramp !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2256.s.1	wezen op u hoeden ; uw dreigen fel slag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2256.s.2	Ik weten , o ik gravin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2256.s.3	ik weten wat plicht ik passen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2256.s.4	ik kerkeren menig wachten , op Adelheides lassen ; doen bisschop hitst zij aan ; zij zijn tegen uw verbolgen ; Ik moeten , mede nieuw wachten , all ' zijn bevel volgen ; Op zijn begeerte zijn hier de uitgang nauw bewaren Door het krygsvolk , aan doen poort vinden deze paleis scharen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2256.s.5	het zijn ik gevaarlijk uw deze ogenblik te spreken : mare Diedrik wassen ik vorst ; ik trouwen blijven onbezweken .	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.2264.s.1	ik hielzaam opzetten zijn u moer aanbrengen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2270.s.1	o dodelijk ongeval !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2270.s.2	Ik hebben vergeefs trachten Te vlijen ; al ik hopen op uitkomst zijn verdwijnen : Ik moeten ik ' eigen ramp en u gevaar bewenen .	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.2278.s.1	Wat oproer , woede en moord voorzien ik !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2278.s.2	wee , mevrouw ...	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2278.s.3	mare neen , heldin , u moede zijde groot dan u rouw !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2278.s.4	Ontveins u bitter smarten ; mislei u leus moer ; hopen op doen vluchten Vaarwel .	Emotion_Hope_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2285.s.1	Ik sterven mede ik ' behoeder : ik verlaten uw niet , o neen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2285.s.2	u loten zijde ook hebben ik ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.2282.s.1	hij weder houden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2292.s.1	gei vrezen hebben ergst : wij weten of wie verraden zijn ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2292.s.2	te minst laten u ' schrik ik doelwit niet ontdekken ; laten deze byeenzyn uw geren ' nieuw ramp verwekken .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2292.s.3	houden ik niet lang op ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2292.s.4	doen bisschop naderen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2300.s.1	Bedwing uw .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2304.s.1	Ada , Vander Are , Willem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2311.s.1	wachten in het korten een ' blijde bruiloftsdag ; vergeten u ' vader dood ; laten uw doen liefde strelen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.2308.s.1	tegen Ada .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2320.s.1	mijnheer , zijn het ik vergunnen in u gesprek te deel ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2320.s.2	Ik horen mede welk een hopen gei Adaas liefde vleien .	Emotion_Hope_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2320.s.3	zullen Hollands hofgez in doen aanstaande plechtigheid vinden het vorstelijk echtverbond in Dordrechts waal aanschouwen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2320.s.4	Of moeten hebben edel paren in Willems graafschap trouw ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2320.s.5	begeren gei die ik met in u geheim dringen ' ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2324.s.1	uw ongepaste vragen baard ik verwondering .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2328.s.1	mijnheer , wat inzicht ..?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2328.s.2	kunde gei denken ..?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2328.s.3	uiten uw nader .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.1	gij ontstellen uw niet allee om het mis vinden een ' vader .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.2	gei , Hugo , veinzen vergeefs : hebben zijn ik rijden bekennen Tot wat gewichtig einde uw hier graven Willem zenden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.3	het zijn Ada mede vergunnen in Dordrechts waal te huwen ; Oostvriesland wachten die eer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.4	mare hoe !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.5	de dagge te schuw , doen nacht te kies , om die vorstelijk bruid Te lijden na u ' graven !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.6	wat ongerijmd besluiten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2341.s.7	het Verbazend meesterstuk vinden Willems heldendaden blijken duidlyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2345.s.1	ijdel hopen !	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.2350.s.1	Ik zijn op het snood verraden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2350.s.2	Onwaardig kerkvoogd !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2350.s.3	beven .	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2356.s.2	zij ik beven ?	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2356.s.3	Neen , Bedrieger !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2356.s.4	sidderen zelf doen vrezen voegen uw allee .	Fear_Emotion_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2356.s.5	gei wachten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2356.s.6	genaak .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2361.s.1	Ada , Vander Are , Willem , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2361.s.2	Lyfwachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2366.s.1	gei durven hebben rechte de volk krenken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2366.s.2	gei honen een ' afgezant !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2377.s.1	hebben passen uw niet te denken Aan het ambt die gei onteert ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2377.s.2	ik grijpen ' hij aan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2377.s.3	Willem , zijn ' degen aan Reinoud overgeven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.2372.s.1	Reinoud treden toen mede doen lyfwachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2382.s.1	vermetel wacht , die mijn onderdaan zijn !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2382.s.2	laten af .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2388.s.1	M [a]n l [e]i ' hij wegge ; ik poog ' , door pijniging , Al het overig verraad op het spoedigst hij te ontwringen	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2392.s.1	Onlydbre honen !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2392.s.2	tiran !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2396.s.1	afgrijselijk ogenblik !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2404.s.2	kennen ik ' naam ; zien Willem zelv '; en schrik .	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2404.s.3	vrezen gei geren ' afgezant door pyniging te honen ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2404.s.4	gei zullen te minst ontzag aan Diedriks broeder toon .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2404.s.5	zien hier u ' vijand , die op doen edel zien verlaten , En hier nog meer vermogen dan Utrechts eigenbaat .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.1	gei Willem !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.2	Wat geluk u snood geheim te ontdekken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.3	uw ijdel grimmigheid kunnen ik geren vrezen verwekken .	Fear_Emotion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.4	gei wacht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.5	staan ik in voor u ' gevangene .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2411.s.6	gade , Verleider ! ik geven uw tij ; verdienen u lyfsgenae .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2416.s.1	wede , Holland !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2416.s.2	vrezen ik wraken ; ik goedheid zijn te eend : ik dompelen roekeloos uw in gadelooze ellende .	Fear_Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.stage.2420.s.1	Ada , Vander Are .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2426.s.1	weerspannig !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2426.s.2	moeten gei , trouwhartig bijstaan , u teder moer bij die dwingeland verraen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2426.s.3	Gehoorzaam ; het zijn nog tij uw vinden u ' plicht te kwijten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2432.s.1	Schynheilige !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2432.s.2	uw allee zijn al ik ramp te wijdte .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2432.s.3	Een moer zij zij kroos , te onuitwischbre schande ' , Niet dwingen , hebben u list ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2443.s.1	u loten zijn in ik hand , En het loten uw bruidegoms .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2443.s.2	gei zullen zijn dood bewenen , Of deze dagge mede hij voor het outer uw verenen .	BodilyProcess_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2443.s.3	gei zullen u moer niet aanschouwen ; neen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2443.s.4	besluiten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2443.s.5	gei minnen hij : wachten hij hier , en spreken zijn vonnissen uiten ik zullen , zode gei niet huwen , uw niet lafhartig smeken , mare op de graven vinden lot u weigring bloedig wreken .	Emotion_EmotionalAction_Love_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.head.2445.s.1	tiend toneel	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.1	Hoe yslyk zijn ik loten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.2	hoe beven ik teder harden !	Fear_BodyPart_BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.3	gelieven bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.4	verwoed minnesmart !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.5	Verfoeilyk staatsbelang !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.6	o wreedheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.7	fel slag !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.8	Hoe kunnen ik leven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.9	hoe ik ongeluk verdragen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.10	dreigen Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.11	waartoe verwijzen ik ik !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.12	ik plicht stemmen in u dood ; ik liefde spreken uw vrijen .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.13	moeten ik ( o streng plicht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.14	vereisen gei gruwelstuk ? ) Voor het onrechtvaardig stalen het onschuldig hoofd doel bukken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.15	Of moeten ik , wreed minnen !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.16	ik ' edel stam te smaad , ik schuldig manen aan lafhartig staatsverraad ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.17	Aan bloedig oproer ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.18	aan verwoesting mijn land ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.19	ik angst voorspellen ik niets dan woeden , moord , brand .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.20	zijn vinden ik uitkomst ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.21	wij verlossen ik uiten de node ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.22	graven Willem zijn gezond ; hij dreigen : ik ' vader dood doen ik doen teerheid vinden een waard moer durven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.23	mogen ik zij spreken , ach !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.24	ik bruigom zij niet sterven ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.25	hij sterven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.26	Neen , hij leven !... o Vaderland !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.27	o eer !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.28	ik ' minnaar doodsgevaar ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.29	Ik overwegen niet meer ; Ik willen zijn dierbaar hoofd vinden die gevaar bevrijden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.30	o node !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.31	ontschuldig ik .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.32	o Holland !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2470.s.33	zien ik leiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.2472.s.1	Elfde toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2474.s.1	Ada , Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2482.s.1	Verzaker vinden u minnen !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2482.s.2	grootmoedig bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2482.s.3	kennen gei het arglistig hoofd vinden Utrechts priesterdom ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2482.s.4	die schandelyken slaaf vinden snood zelf belang ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2482.s.5	weten gei zijn wreedheid ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2487.s.1	Ja : graven Willem zijn gevangene , u nut vluchten beletten , al het hofgezin ontstellen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2491.s.1	hebben smartlykste ongeluk zijn uw nog niet gemeld .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2495.s.1	staan Utrechts dwingeland na Willems heldenleven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2499.s.1	nog dreigen wij fel wede .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2503.s.1	Hoe doen u angst ik beven !	Fear_Emotion_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2508.s.1	ik dreigen u dierbaar hoofd ; gei zijn in lyfsgevaar .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2508.s.2	storten neder voor het moorden stalen , of streven na het echtaltaar .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2514.s.1	Ik , die geren dood ontzie , in wanhopen ongeduldig , wachten uiten u ' lief mond ik vonnissen .	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2514.s.2	Ik zijn schuldig ; Ik zelf , door drift misleiden , hebben uw verraden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2518.s.1	gei ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.1	Ik hebben graven Willem aan de bisschop dwingelandij Onwetend ' blootgestelt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.2	Ik denken uw , door het ontdekken vinden heimelijk verraad , een gewis bederven te onttrekken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.3	Ik ijveren uw te vallen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.4	Hoe wassen ik ziel beducht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.5	doen wacht , omkopen tot u besluiten vluchten , mare door ik blind drift beschuldigd bij u moer , verklaren u geheim , verrieden u ' behoeder : En ik , ik misdaad zien ; ik , roekeloos , ongetrouw , Verwoed pijnigen door een vruchteloos naberouw , Ja het wroegend leven moed , en u genadig onwaardig , duchten zijn bisschop woede niet : verwys ik ; wezen rechtvaardig .	Emotion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.2533.s.6	ik wanhopen eisen doen dood in u ' verdiend haten .	Emotion_Hatred_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2542.s.1	Neen , gei verdiend ik minnen ; gei stemmen in geren verraad .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2542.s.2	Ik willen uw deze dagge tot echtgenoot verkiezen , En door geren wreed dood ik ' bruidegom verlies .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2542.s.3	ik keuren zijn rijden braden ; ik dwingen ik .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2542.s.5	verwin Die fel wanhopen ; denken hoe teder ik uw beminnen .	Emotion_Love_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.1	mijn Ada minnen ik nog !..	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.2	Ik zij gelukkig sterven , zode gei de bijstand vinden graven Willem niet moeten durven .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.3	hij zijn in hechtenis ; hij worden dreigen , gezond , zijn edelmoedigheid mede snood wraken belonen ; En uw , doorluchtig wezen !	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.4	zijn al helpen onttogen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.5	vrezen , Holland !	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.6	vrezen ; voorzien oneindig oorelogen , verwoed weerwraak , en u ' wis ondergang .	Fear_Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.7	Ikzelf , gelieven bruid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.8	verraden u die belang !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.9	o Gruweldaad !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2554.s.10	ik wrochten ontelbare yslykheden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2559.s.1	ik vergeven uw al .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2559.s.2	laten ik liefde uw overrijden .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2559.s.4	die wij echtverbond de wreedsten slag weerhouden ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2563.s.1	begeren gei die ik leven , en uw vallen aanschouwen ' ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2567.s.1	begeren gei die ik uw voor het moorden stalen doen bukken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.1	wijd , wijd aan ik allee u dodelijk ongeluk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.2	Ik haten , verfoei myzelv ' .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.3	ik plengen ' ik schuldig bloeden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.4	Ik lijden doen fel smarten in het wroegende gemoed .	Emotion_BodyPart_BodilyProcess_Sadness_Despair_Remorse
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.5	Ik vrezen geren streng wraken dan in die pijn te leven .	Fear_Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.6	zode gei ik wanhopen weten , gei zullen ik niets vergeven .	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.7	u gul , u liefde , die ik hartewee vergroten , ...	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2577.s.8	Vaarwel , mevrouw .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2581.s.1	vertoeven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2581.s.2	zijn vliegen gei heen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2585.s.1	te dood .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.2588.s.1	Twaalfde toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.1	hij vluchten !...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.2	Ontmenschte !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.3	moeten ik ongeluk nog groeien ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.4	hij zien ( o bitter smarten ! ) vergeefs ik traan vloeien !	Emotion_BodyPart_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.5	Ik smeken hij vruchteloos !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.6	hij doemen ik minnen !..	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.7	Welaan , Ik volgen u weten , o plicht !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.9	zullen hij vergaan ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.10	Neen , hij verhoor ' ik bede !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.11	ik doodsangst duld geren weten .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.12	verblind bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.13	ik willen u dood beletten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.14	o Liefde !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.15	sterk ik talen ; geven , geven ik zucht klemmen ; bewegen ik Lodewyk ; of , Ada !	BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2601.s.16	sterven mede hij .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2603.s.1	Einde vinden hebben vieren bedrijf .	None
+stee033adag01_01.TEI.2.text.body.div.head.2607.s.1	vijfde bedrijf .	None
+stee033adag01_01.TEI.2.text.body.div.stage.2610.s.1	Amstel , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2617.s.1	Wat nieuw staatsorkaan zijn yllings opkomen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.2617.s.2	zijn Diedriks broeder hier in hechtenis nemen ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.2617.s.3	En dreigen ik Lodewyk vermetel mede doen dood , zode hij zijn droef bruid niet kiezen tot echtgenoot ?	Emotion_Sadness
+stee033adag01_01.TEI.2.text.body.div.sp.2629.s.1	In uw afwezendheid zijn Willems eer schenden ; En zijn bisschop dreigement , de wreedsten al vinden , vernemen ik uiten doen klacht de angstig erfgravin .	Fear_Honor_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.2629.s.2	zijde , eest verwinnares vinden zij getergde minnen , pogen nu mede Lodewyk in echtverbond te tred , En tegen Diedriks willen die bruigom te overrijden .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.sp.2629.s.3	Voor Adaas oog belang bieden hij zijn leven aan : mare kunnen zijn teder harden zij wanhopen langen weerstaan ?	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.sp.2629.s.4	Hoeveel zijn moede vermogen , nog zijn doen liefde sterk .	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.sp.2635.s.1	verlossen Oostvrieslands graven op het spoedigst uiten zijn ' kerker ; Betoon u zuiver trouwen ; betoon u ' heldenmoed ; En zien doen onnozelheid voor dwingelandij behoeden .	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.sp.2639.s.1	mogen Ada zien rusten op Willems deugd verlaat ?	None
+stee033adag01_01.TEI.2.text.body.div.sp.2645.s.1	zijn land adel , zij getrouw tot heil de onderzaten , verlaten zien op die graven in zij bestemmen vluchten .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2645.s.2	gei voeden een ijdel vrezen , zode gei de landvoogd duchten .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.sp.2651.s.1	u woerd zijn ik genoeg ; ik zullen ik ' plicht betrachten .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2651.s.2	mare het zijn een stout bestaan ; het paleis hebben nieuw wacht ; doen leus bisschop waken ...	None
+stee033adag01_01.TEI.2.text.body.div.sp.speaker.2654.s.1	Amstel	None
+stee033adag01_01.TEI.2.text.body.div.sp.2663.s.1	gade , Reinoud ; spel geren ' tij ...	None
+stee033adag01_01.TEI.2.text.body.div.sp.2663.s.2	ik zien Adelheide .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2663.s.3	Ik rusten op u getrouw vlijt .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2663.s.4	ik lusten door stout talen de node zij voor te dragen : Ik hebben te velen gewagen , om niet nog meer te waag .	None
+stee033adag01_01.TEI.2.text.body.div.sp.2663.s.5	ik zien wat goed vinden twee onz ' al heil bereiden ' , Of Reinouds heldenstuk , of zij grootmoedigheid .	None
+stee033adag01_01.TEI.2.text.body.div.sp.stage.2658.s.1	terwijl Reinoud vertrekken , vervolgen Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2666.s.1	Adelheide , Amstel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2671.s.1	gei , die mede lid uiten de adel hebben spreken , verklaren ik zij besluiten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2671.s.2	worden nog het ontzag verbreken ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.1	zij erkennen die ontzag niet alles een ' plicht vinden staan , mare noemen Adaas echt heerszuchtig landverraad .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.2	Ik moeten , vorstin , ik moeten , in het veinzen onbedreven , doen waarheid in hebben einde aan uw te kennen geven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.3	graven Diedriks laatst willen worden inderdaad verkrachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.4	ik werken u ' ondergang , door het misbruik uw macht ; verdelen , verzwakken al het landen ; en maken uw Ada schuldig , Opdat een twistend volk nog zij nog Willem huldigen ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.5	kunnen zijde , indien zijde huwen , zijn streng wraken ontgaan ?	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.6	doen bloem de edel spannen waarlijk mede hij aan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.7	verdrukken onnozelheid nopen ik tot mededogen .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.8	herroepen uw oud deugd ; ontsluiten intyds uw oog ; vergunnen Oostvrieslands graven doen wettig voogdij ; En doen adel veilig uw voor wraken en tirannie !	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2690.s.9	ik laten uw allee ; besluiten : u loten zijn in u hand : verkiezen de roemen de deugd , of't lot de dwingeland .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.1	ik wijd , ik oog verraad ; en , tot ik bitter spijt , ik harden , ik wroegend harden verdiend die bits verwijten : ik hebben Utrechts kerklyk hoofd te velen gehoor geven .	Emotion_BodyPart_Remorse
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.2	hij dwingen doen ontstellen bruid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.3	hij dreigen zij ' minnaar leven !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.4	zijn deze , verdrukken , die grootmoedig ik beschamen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.5	Een loten die gei verdiend ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.6	een dwang die ik betamen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.7	geloven niet , die ik ook onschuldig bloeden zij plengen ; het zijn veinzen ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.8	mare te wreed ; ik moeten , nog willen het gehengen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.9	u rampspoed baard ik ziel een onverdraagbre smarten .	Emotion_BodyPart_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.10	o Willem !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.11	Adelheide , in het groots gevaar verwarren , geven uw , na Diedriks willen , het voogdijschap zijn staat , Indien zij veilig op u woerd zien mogen verlaat .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.12	mare neen ; ons oud haten , die gruwzaam hebben woeden , Die Holland traan kosten en dierbaar burgerbloed , ontzeggen , o vijand !	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.13	uw die vreselijk staatsvermogen : Ik kunnen u wraakzucht nooit in het landbestier gedogen .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.14	ik angstig kroos !	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.15	schepmoed ; ik doemen de bisschop dwang .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.16	graven Willem zijn verrassen ; hij zullen , uiten staatsbelang , u ' onvermydbren echt in het einde moet stem : In zijn kerker zullen ik aanbod goed klimmen : Oostvriesland , hij beloofd , zijde nog zijn eigendom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2720.s.17	zijn stemmen winne ieder harden voor uw bruidegom !	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2724.s.1	Adelheide , Ada , Vander Are , Lodewyk .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.speaker.2726.s.1	Andelheide .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2728.s.1	ik dochter , wezen troosten ; ik willen uw de dwang ontrukken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2732.s.2	durven gei spotten mede ik hooplooze ongeluk ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2739.s.1	ik hebben doen plechtigheid verrichten voor het echtaltaar .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2743.s.2	hoe !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2743.s.3	verrichten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2747.s.1	o Schaamte !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2747.s.2	o groots gevaar !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2756.s.1	u wreed gul , vorstin , schenken ik verliefd zin Een onwaardeerbaar pand , doen schoon de gravinnen : mare , in die vreemd geluk , stellen gei mijn echtgenoot , Uzelve , en het gans landen , aan wraken en woede bloot .	Emotion_Anger_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2756.s.2	vinden deze ontijdig feest zullen Holland eeuwig gruwen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2756.s.3	Wat blindheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2756.s.4	schandlyk door bedreiging wij te huwen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2760.s.1	zode spoedig voor het altaar doen plechtigheid verrichten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2768.s.1	ik moer , zien ik smarten mede deernis : ik hebben zwichten ; doen ontmenschte bisschop hebben hebben middel uitvinden , Waardoor ik , tegen danken , ik glorie hebben schenden .	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2768.s.2	Ik wild uw smeken ; het zijn tyrannig ik beletten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2768.s.3	gei hebben , ik wanhopen zien , wij uiten de node redden .	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.1	u echt behoeden u landen ; u minnen hebben niets misdrijven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.2	moeten gei , ontrouw !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.3	u loten in Willems hand geven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.4	Ondankbre !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.5	zorgen ik niet voor u bestreen geluk ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2775.s.6	verfoeien gei het nut bestaan geyk een gruwelstuk ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2780.s.1	o leus dwingeland !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2780.s.2	o bronaer ons plaag !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2780.s.3	het voegen uw die wreed roemen op snood helpen te dragen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2785.s.1	Verleidend hoofd de kakken !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2785.s.2	doortrapt huichelaar !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2785.s.3	het ontbreken uw aan geren ' glimp ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2791.s.1	Bedwing zij tong .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2802.s.1	Barbaar !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2802.s.2	wassen het Adelheides willen door doodschrik heen te dwingen , En , eer ik Willem spreken , de toeleggen door te dringen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2802.s.3	geloven gei die u talen , naar het misbruik vinden het gezag die ik uw hier verlenen , op ik nog iets vermogen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2802.s.4	zijn zij verhaasten trouwen een nut bestaan te noemen ?	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.2802.s.5	zij weigring wassen gronden ; u wreedheid zijn te doemen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2806.s.1	Ik vinden , mare ach !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2806.s.2	te spae , ik waard moer weer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2817.s.1	gei schelden en lasteren ik , terwijl ik het onheil kaar !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2817.s.2	Besef u dwaling , die mijn achtbaarheid ontheiligt ; zien het graaflyk huis , door ik , voor Willems haten beveiligen , zijn ' trots moede fnuiken , zijn leven in u macht , En all ' doen muiter tot gehoorzaamheid brengen .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.2817.s.3	zijde beven voor zijn hoofd : vergroten hunn ' schrik door dreigen .	Fear_Emotion_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2821.s.1	Ik willen door weldaen tot erkentenis hij neigen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2829.s.1	doen meer ; betrouwen wij loten aan Willems gloriezucht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2829.s.3	wagen ik ooit te velen , wanneer ik al duchten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2829.s.4	vertonen hij doen eeuwig eer de waar heldenstukken ; trachten Ada door hemzelv ' aan zijn wraken te onttrukken ; ik onderwerpen ' zien aan zijn ' willen !	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2833.s.1	Wat onbescheid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2839.s.1	stellen al aan zijn deugd en edelmoedigheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2843.s.1	Natuur vereisen ik zorgen voor u dreigen staat .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2847.s.1	behoren ik het erfdeel nog ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2851.s.1	Hier kunnen geren kennen baat .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2856.s.1	Adelheide , Ada , Vander Are , Lodewyk , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2860.s.1	Wat jagen uw angstig hier ?	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.2864.s.1	doen hoog node , vorstin .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2868.s.1	Wat node ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2872.s.1	Hoe beven ik !	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2876.s.1	spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2876.s.2	Verraad ik het hofgezin ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.1	ik brengen doen mare ' vinden een de yslykste euveldaad .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.2	u hoofdman Reinoud zelf hebben vluchten uw verraden , doen rusteloos stad door muiterij beroerd , Ja Willem , loods vermomd , uiten deze paleis voeren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.3	u vijand , rijden bekennen , hebben morrend volk naderen , ontdekken aan het muitgespan , die meer en meer vergaderen , het Voltrekken vinden de echt .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.4	ik roepen , , graven Willem leev ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.5	 die Adelheide mede zij vloekverwanten beev ' !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.6	zode schreeuwen ik .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2890.s.7	doen edel , in die oproer toeschieten , verlenen Willem helpen , alles laf deelgenoot vinden zijn geheim verraad ; zijde voer krygsvolk aan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2894.s.1	erbarmelijk echt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2898.s.1	ik moeten die woelen rotten weestaan ,	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2904.s.1	Ziedaar doen bitter vlucht ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.2902.s.1	tegen de bisschop .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2909.s.1	laten wij geren ' tij verspillen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2913.s.1	Ik zullen , door ik gezag , doen muitelingen stil .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2918.s.1	o Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2918.s.2	beschermen u nieuw heerschappij : gei hebben ook held uiten de adel op u zijde ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2923.s.1	Ik zullen , ik waard bruid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2923.s.2	u vorstelijk erve verweren : Oostvrieslands graven zullen nooit dan bloedig triomferen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2928.s.1	ik wanhopen , die wij huwen , ellendig echtgenoot !	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.2928.s.2	ontzien nog stalen nog woede ; ik streven mede uw te dood .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2932.s.1	Mistroostige !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2932.s.2	vertoeven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2932.s.3	stuiten u gravin , gei wacht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.2	Lodewyk !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.3	ik horen niet na ik klacht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.4	Hoe kloppen ik het angstig harden !.. o dodelijk ogenblik !..	Fear_Emotion_BodyPart_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.5	gelieven pand !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.6	ach !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.7	uw Ada sterven vinden schrik .	Fear_Emotion_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.8	ik bruigom !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.9	moeten ik liefde uw tot een misdrijf dwingen ?	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.10	Ik spaarde u dierbaar hoofd voor het stalen de muitelingen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.11	Oproerig volk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.12	zijn deze u hullen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.13	u trouwen ?..	Emotion_Loyalty
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.14	Ik dwaal , beledigen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.15	gei voeren mede rechte hebben dreigend stalen ; gei wild , eer tot u ' vallen doen landgevaren groeien , wettigen tot doen wraken , hebben schuldig bloeden doel vloeien .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.16	mare , weten gei zijn bisschop dwang , die wreed wij hebben verleiden , u woede worden verkeren in mededoogendheid .	Emotion_Compassion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.17	Wat aklig krygsgeschreeuw !...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.18	ik burger !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.19	ik soldaat !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.20	Rechtplegende yveraars !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.21	verraden onderzaten !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2955.s.22	zoeken hier uw offerande ; en wreken , allee op ik , graven Diedriks laatst willen en het rechte de landvoogdy .	EmotionalAction_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.stage.2962.s.1	Adelheide , Ada .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.2962.s.3	Op de wenk vinden Adelheide , vertrek doen lyfwachten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2967.s.1	gei keren , vorstin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2967.s.2	gei leven !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2967.s.3	zijn het volk mede uw bewegen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2967.s.4	Of zullen uw doen overmacht ontzielen voor mijn oog ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.1	ik krygsgeluk verkeerd ; ik wijken voor doen eerst reizen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.2	ik staan in slagorde aan doen poort vinden het paleis , Om het uitlaten volk , die aangroeit , in te tomen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.3	doen woest burgerschaar ' hebben nauwelijks wij vernemen , Of roepen , daar zij om u ' echt vinden heet gramschap zieden :  treeft Adelheide ; treeft de bruigom ; sparen heen niet .	Emotion_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.4	Ik , rijden mede peil en klink dreigen door die ontzinden , worden in het paleis rukken door mijn ontstellen vriend ; En het hoofd de kerk beproeven of het bisschoplyk gezag nog iets op het grimmig harden vinden het muiten volk vermogen .	Emotion_BodyPart_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.5	ik zien , bij wapenlooze en onbedreven schaarde , Een zeeuws wapenen volk , in oorlogskunde ervaren , leiden door Willem .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2984.s.6	uw bekennen ik , uw allee , die ik gene uitkomst zien in all ' deze yslykheen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.1	Op mijn huwlykdag , de laatst vinden ik leven , doen ik verraden minnen gemaal en moer sneven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.2	liggen sterven ik bruigom rijden in deze afgrijselijk uur .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.3	o dodelijk echt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.4	o minnen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.5	o glorie !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.2991.s.6	o natuur !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3000.s.1	ik voorbeeld moedig uw : ik geven Dordrecht blijk , die groot ziel nooit in tegenspoed bezwijken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3000.s.2	Duld niet die Willems haten zien in u wanhopen vleien '; verdienen , op het glorierykst , die Holland uw beschrei '; bedenken wat deugd , alles ik dochter , uw betamen .	Emotion_Hatred_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3000.s.3	laten wij de dwingeland in ons vallen beschamen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.1	vergroten ik wanhopen niet : uw ongevoeligheid zijn het smartlykst ongeluk waarom uw Ada schreien .	Emotion_BodilyProcess_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.3	wassen het niet genoeg , door het zielbedroevend sterven , Een ' vader , die ik minde , in eeuwigheid te durven ?	Emotion_EmotionalAction_Love_Sadness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.4	In ik bestrijden jeugd myzelf te weerstaan ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.5	uiten dwang te stem tot ik ' echt , tot euveldaen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.6	zijn het nog te weinig , bij het verlies mijn land , doen wraken te doelen te staan mede all ' ik waard pand ?	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3014.s.7	Een moer , wreed dan doen wrekende overmacht , versmaden ik teder zuchten , en stuiten en doemen ik klacht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3021.s.1	gei weten niet hoe ik harden in het heimlyk hebben te strijd ; gei weten niet wat ik lijden in u onschuldig leiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3021.s.2	Ik zien ik zijn belang ; en het smarten ik die niet eer ...	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3021.s.3	Die talen vernoege uw ; vergen ik ' fier geest niet meer .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3029.s.1	o bloedig overmoed !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3029.s.2	o gruwzaam al dag !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3033.s.1	beginnen ik rijden doen strijd ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3037.s.1	Ik duchten doen wreed plaag .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.1	doen muiteling volharden in het schenden vinden zijn ' plicht .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.2	Vorstin , ik hebben uw nauw ' rukken uiten zijn zichten , Of doen aangegroeide macht de trouweloos onderzaten barsten uiten te aanval op u beven soldaat .	Fear_BodilyProcess
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.3	Fluks worden ik handgemeen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.4	hebben rammelen moordgeweer , Op helm en schild beproeven , slaan vriend en vijand neder , terwijl , bij het na gekerm , en onder het hevig morren En dreigen , in doen luchten ontelbaar schicht snor .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.5	ik zien doen ruim markt bedekken mede stromen bloeden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3053.s.6	doen bisschop , Lodewyk , en zij getrouw stoot , Geneigd te sterven , of doen muiter te overheeren , zijn machteloos het groots getal die wreed af te karn .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3059.s.1	ik worden , o bitter spijt !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3059.s.2	ik worden doen strijd ontzeggen !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3059.s.3	die niemand ik weerhouden ' te sterven in het gevecht !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3059.s.4	Verraden kroos !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3059.s.5	vaarwel in eeuwigheid .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3066.s.2	Bedwing uw'ydlen moede ; maken Dordrecht niet verwoed .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3063.s.1	Adelheide wederhoudende .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.3070.s.1	Adelheide , Ada , Amstel , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.1	Vorstin , blyf in het paleis ; ontzie , in het groots gevaar , doen woedend overmacht , doen ontzinde burgerschaar ' , Die vorstlyke offer dreigen uiten blind wraken te slacht .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.2	horen doen uitkomst vinden de strijd .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.3	doen wanhopen geven wij kracht : ik moeten doen onnoozle bruid vinden het muiten volk ontslaan , Verwinnen tegen hopen , of glorieryk vergaan .	Emotion_Hope_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.4	zode worden Oostvrieslands graven in het eest mede vlucht bestrijden , Ja vinden doen zeeuws helpen door doen ons afsnijden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.5	hij geven een teken ; elk , rondom hij heen , hout stillen : wie naderen , en hij spreken :  Ik strijden voor Diedriks willen ; mare doen uitslag vinden het gevecht doen Lodewyk regeren ; hij winden ik stemmen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.6	 Die list doen Willem triomferen : zijde stuiten uw oorlogsbende , en geven zijn zeeuw tij ; ik rukken hij uiten wij ogen ; hyzelf hervatten de strijd ; u deinzend krygsvolk werpen doen wapen uiten doen hand ; u vijand worden erkennen alles graven vinden Diedriks land ; zijn staatzucht dienen zien nu vinden het voordeel zijn klink ; En doen adel stemmen uiten node .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3093.s.7	uw staan geren muiteling Te duchten ; doen onderdaan zij nog voor Ada leven , zode gei het bepalen gezag de landvoogd hebben geven .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3098.s.1	zijn Lodewyk ontzielen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3103.s.1	Ik beven , bij het woest wellen , Onkundig vinden zijn loten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3107.s.1	Hoe zijn ik het harden beknellen !	Fear_BodyPart_BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3111.s.1	doen muiter , nog verhitten , doen al bloedig bukken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3115.s.1	ik kunnen ik het leven wel , mare nooit de moede , ontrukken .	None
+stee033adag01_01.TEI.2.text.body.div.div.head.3117.s.1	tiend toneel .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.3119.s.1	Adelheide , Ada , Lodewyk , Amstel , Hildegaard .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3124.s.1	gei leven , rampzalig held !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3124.s.2	ik dierbare echtgenoot !..	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3124.s.3	Wat kunde gei hopen ?	Emotion_Hope
+stee033adag01_01.TEI.2.text.body.div.div.sp.3131.s.1	uw te omhelzen voor ik dood , Een vruchteloos helpen mistroostig uw te zweer , Zolang ik ademen scheppen u moorders af te karn , En hier te sneven aan u voeren .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3138.s.1	Welk een schrik verscheuren ik het harden !	Fear_Emotion_BodyPart_BodilyProcess_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3138.s.2	ik ramp groeien ieder ogenblik .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3138.s.3	Indien hebben wrekend stalen ik het leven niet doen durven , Dan zullen natuur en liefde en wroeging ik doel sterven .	Emotion_BodilyProcess_Love_Remorse
+stee033adag01_01.TEI.2.text.body.div.div.sp.3143.s.1	In Adaas doodsgevaar , verwoed burgerij !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3143.s.2	Getergde Willem !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3143.s.3	wreken ik angst uw streng op ik .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.3147.s.1	Die wreed zullen zijn ' haten tot walgen toen verzaden .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.1	o fel ramp !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.2	ik hebben mijn erfgravin verraden , zij nut vluchten stuiten , zij die geheim ontdekken , En in ik blind bestaan zij ' ondergang verwekken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.3	Ik moeten vinden schaamte en spijt hebben aklig daglicht schuw .	Emotion_Shame_Remorse
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.4	Ik hebben , ( o snood bedrijf ! ) door ik vermetel huwen , dreigen landvorstin !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.5	u ' groot toeverlaat verwekken tot vijandschap en onverzoenbaar haten : Ik hebben de muiter stof tot dol wraken geven : Ikzelf beroven ik bruid vinden glorie , staan , en leven : Ik schenk , doorluchtig vrouw !	Emotion_Hatred_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.6	uw tot een huwlyksgift , In ik verrassen liefde , in onverschoonbre drift , Op het heilloos bruiloftsfeest , vieren in bloeden en traan , de doodelyken vloeken de moorden onderdaan .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.7	hun onbedacht wraken geven niemand lyfsgenae .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.8	doen wanhopen , die ik grieven , zijn zonder weerga .	Emotion_Despair
+stee033adag01_01.TEI.2.text.body.div.div.sp.3168.s.9	Ik zij doen wreed dood vernoegd in het oproer leiden , Indien ik sterven uw vinden het onheil kennen bevrijden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3173.s.1	ik horen ' mede wat geschreeuw hebben tomeloos Dordrecht woeden , En smeken ' de nieuw graven om helpen voor het vorstelijk bloeden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3177.s.1	hebben volk zijn in het paleis !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3181.s.1	het zullen woedend uw vernielen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3185.s.1	het zullen niet , dan in ik ' arm , ik ' bruidegom ontzielen .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.3190.s.1	Adelheide , Ada , Willem , Lodewyk , Amstel , Hildegaard , Reinoud .	None
+stee033adag01_01.TEI.2.text.body.div.div.stage.3190.s.2	Gevolg vinden edel .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3197.s.1	Zeeghafte burger !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3197.s.2	keren ; betrouwen aan ik doen wraken ; gehoorzamen : ik weten ik ' plicht in u gerecht zaak .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3194.s.1	naar zijn gevolg uitkomen , tegen het volk , die zien niet vertonen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.1	zien hier u vijandin , verwoed !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.2	in u vermogen ; mare in zij nederlaag zode fier , zode onbewogen , alles torn zij u staatzucht dwingen door het alvernielend stalen , En het juichen Holland zij begroette in zegepralen .	Joy_EmotionalAction
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.3	ik onverzetbre moede beveiligen ik voor schande .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.4	voldoen de muiteling ; geven ik te offerande ; Vernoeg u ' oude haten ; en wijd , uiten staatsbelang , ik dood aan het grimmig volk , aan onvermydbren dwang .	Emotion_Hatred_Anger
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.5	mare denken , indien u wraken zien vader uiten willen strekken , die Ada zien niet poogde aan u voogdij te onttrekken , die zijde , die Lodewyk verdiend die wraken te ontgaan .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.6	verzuimen gei echter heen in het oproer bij te staan , Dan zullen deze zelfde volk , na't onbezonnen woeden , te zoenen vinden het vorstelijk kroos u dwingelandij bevroeden , En , toornig op u blind en bloedig eigenbaat , doen onnoozle wreken op de rover vinden zij ' staan .	Emotion_EmotionalAction_Anger_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3219.s.7	zode passen hebben Adelheide , in plaatsen vinden laf te smeken , Voor Diedriks dochter uw vinden lyfsgenae te spreken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3223.s.1	gei durven ik dreigen !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3223.s.2	gei !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.1	Indien een waar deugd uw deze dagge bewoog voor ik verleiden jeugd , de bisschop dwang ik ' echt bij het volk niet kunnen verschonen , En Willem nog zijn liefde aan Ada willen betonen ; ik dierbre bloedverwant !	Emotion_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.2	ik vader !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.3	staan dan toen , die ik een offerkeur voor Hollands wrekers doen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.4	graven Diedriks laatst zuchten wassen voor zijn ' waarde broeder : voldoen zijn dochter , door het behoudens vinden zij moer ; En sparen ik ' echtgenoot .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.5	zode heen doen wraken vernielen , worden Diedriks enig kroos in heen op't wreed ontzielen .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.6	nog smeken uw Ada voor u muiten onderdaan : Ik haten die wrekers niet ; ik storten voor heen ook traan .	Emotion_Hatred
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.7	weerhouden die woedend volk , eer zijn bisschop honen of dood Voor heen een oorzaak zijde vinden zwaar oorlogsnood .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.8	vergunnen , doorluchtig held !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3249.s.9	ik , op ik laatst bede , die ik , doen dood troosten , heen onder doen oog treden , een eedle deernis bij doen oproetigen verwerv ' , Of voor ik ' bruidegom en voor ik moer sterv ' !	Emotion_Compassion
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3233.s.1	knielen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.1	zonde gei , bij het razend volk u dierbaar leven waag ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.2	Ik stoorde u vluchten ; ik woede op doen oorzaak uw plaag !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.4	horen na ik ; denken wij uw smeken .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.5	Ik zijn het , u vijand , rijden door uw alles Hollands graven erkennen , mare door u list misleiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.6	zullen gij op ik bede beletten , die zien doen oproerigen mede Adaas bloeden besmetten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.7	behoeden gei Diedriks weeuw ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3262.s.8	Ik staan dan het graafschap af ; En , eisen doen muiter wraken , ik zijn bereiden te straffen .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3271.s.1	zullen het volk zien over uw , alles over ik , ontsermen ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3271.s.2	Wat zullen u groot ziel verrichten ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.1	uw beschermen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.2	ik kind , rijzen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.3	u deugd , die mede u plaag groeien , verrukken ik teder harden , en houden ik tong boeien .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.4	kloekmoedig Adelheide !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.5	u haten hebben ik beleedigt , u ramp hebben ik ontroeren , u kroos hebben ik bevredigen .	Offended_Emotion_Hatred_Moved
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.6	ik vriend , Dordrecht eisen , in woest muiterij , u leven : mare gei zien u ' toeverlaat in ik .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.7	doen bisschop , zwaard wonden , zijn rijden doen woede onttogen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3287.s.8	schonen het volk mede tegenzin hij stellen in ik vermogen , schonen het uw dolzinnig dreigen , vrezen echter geren gevaar : gei zijn minnen schuldig dan doen bisschop , die barbaar .	Fear_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3275.s.1	Ada omhelzen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3292.s.2	kunnen u deugd al het ongelijk vergeven ?	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3292.s.3	gei zijn ik erfdeel woerd ' .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3296.s.1	moeten uw ik stalen weerstreven !	None
+stee033adag01_01.TEI.2.text.body.div.div.p.3302.s.1	ADA .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3307.s.3	wat onverwacht geluk !	Emotion_Happiness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3312.s.1	gei redden u vijandin door het eelste heldenstuk , verbannen de oude haten , ja dwingen ik uw te min .	Emotion_Hatred_Love
+stee033adag01_01.TEI.2.text.body.div.div.sp.3316.s.1	u deugd , honen vorst !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3316.s.2	kunnen meer dan staat winden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3321.s.1	o Gadelooze held !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3321.s.2	u moede , u roemryk stalen verwerven in het heilige landen nooit zulk een zegepralen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.1	het Verzuim vinden tij kunnen wij een nieuw gevaar bereiden .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.2	Ik willen de muiteling door hopen op wraken misleiden , Totdat ik vriend , aan een veilig oord brengen , geren wraakzucht vrees vinden die woedend overmacht .	Emotion_Hope_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.3	getrouw ridderschap !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.4	helpen ik die vluchten bedekken : gei wild mede vorstelijk bloeden ik glorie niet bevlekken : uw deren hebben ongeluk de afgetreurde bruid : Die rampspoed wissen doen schuld in het graaflyk stamhuis uiten .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.5	gei , Amstel , die mede smarten ik weerstand moeten bieden !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.6	beschermen , op ik begeerte , u vriend onder het vlijen ; volgen nu , oprecht held !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.7	volgen nu , mede eedle vreugde , Tot veiliging die vluchten , hebben voorschrift vinden u deugd .	Joy_Emotion
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.8	ik dochter , die ik uw na het eiland Tessel voer , Eer iemand , tot u wraken , hebben wuft volk beroere : Ja streven na Engelland ; verstrek ik daar tot bergen Voor doen algemeen rusten ; weerspreek geren nut zorgen .	Emotion_Vindictiveness
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.9	gei zullen in blyder tij u vrijheid weer erlangen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.10	Ik houden u moer nog u ' bruidegom gevangene .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3344.s.11	gei zullen , naar deze tocht op nieuw mede heen verenen , uw troost in de ramp , die gei mede heen bewenen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3351.s.1	Ik durven ik ' vader wel , mare vinden in uw zijn ' broeder .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3351.s.2	Vaarwel , ik Lodewyk !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3349.s.1	zijde omhelzen Lodewyk , en vervolgen :	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3356.s.1	ik bruid !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3362.s.1	Vaarwel , ik moer !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.stage.3360.s.1	Adelheide omhelzen .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3366.s.1	ik ongelukkig kroos !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3370.s.1	Wat vallen deze scheiden hard !	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3376.s.1	gei zullen wij weerzien .	None
+stee033adag01_01.TEI.2.text.body.div.div.sp.3380.s.1	Die troosten verzachten ik smarten .	Emotion_Sadness_Despair
+stee033adag01_01.TEI.2.text.body.div.div.p.3382.s.1	EINDE .	None

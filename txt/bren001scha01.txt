@@ -1,0 +1,1298 @@
+bren001scha01_01.TEI.2.text.body.div.head.172.s.1	De schaaking uit het Serail , zangspel .	None
+bren001scha01_01.TEI.2.text.body.div.head.173.s.1	Eerste bedrijf .	None
+bren001scha01_01.TEI.2.text.body.div.stage.175.s.1	Het Tooneel verbeeld een open Plaats , aan de eene zijde het Landhuis , of Paleis , van den Bassa : in het verschiet de Zee .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.177.s.1	Eerste tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.179.s.1	belmonte .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.1	Hier zal ik u aanschouwen , Constanze !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.2	mijn geluk !	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.3	ô Hemel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.4	dit vertrouwen , Ontneemt mij allen druk .	HeavyHeartedness_Emotion_Sadness_Trust
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.5	'k Verdroeg te wel de smarte , ô Liefde !	Aquiescence_Emotion_Love_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.6	om uw genot .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.7	Uw gunst verheugd mijn harte , En schenkt me een beter lot .	Joy_Emotion_BodyPart
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.8	Maar !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.9	hoe zal ik in het Paleis komen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.10	- Hoe zal ik haar zien ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.193.s.11	- Hoe haar spreeken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.head.197.s.1	Tweede tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.200.s.1	belmonte , osmijn met een Ladder , welke hij tegen een boom , voor de Deur van het Landhuis staande , aanstelt , op dezelve klimt en Vijgen plukt .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.209.s.1	osmijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.209.s.2	Wie een liefjen heeft gevonden , Dat hem trouw en teêr bemind , Loon die min door duizend kusschen , Door een ' gloed nooit uit te blusschen , Zij haar trooster , zij haar vrind .	Joy_Emotion_EmotionalAction_BodilyProcess_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.209.s.3	Trallalera , Trallalera .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.212.s.1	Mogelijk kan ik , door deezen ouden , iets te weeten komen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.212.s.2	Hoor eens vrind !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.212.s.3	is dat niet het Landhuis van den Bassa Selim ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.223.s.1	osmijn , zingt al plukkende voort .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.223.s.2	Doch , om haar getrouw te houden , Sluit men 't liefjen agter 't slot ; Want die looze nufjens haaken , Dag en nacht naar nieuwe zaaken , Al te veel naar vreemd genot .	Joy_Emotion_Desire
+bren001scha01_01.TEI.2.text.body.div.div.lg.223.s.3	Trallalera , trallalera .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.226.s.1	Hoor eens ouden !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.226.s.2	he !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.226.s.3	hoort gij niet ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.226.s.4	Is dit het Paleis van den Bassa Selim ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.238.s.1	osmijn , ziet hem aan , draait zijn hoofd om , en zingt voord .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.238.s.2	Als de Maan begint te schijnen .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.238.s.3	Lett ' een ieder op zijn vrouw .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.238.s.4	Want als jonge minnaars zuchten , Is het eind van all ' die kluchten : Goede nacht de lieve trouw !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.244.s.2	Gij , en uw lied , zijn wondre dingen .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.244.s.3	Reeds lang verveelde mij uw zingen .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.244.s.4	Ei hoor toch maar één enkel woord .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.250.s.2	Wat drommel !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.250.s.3	kan mijn zang u scheelen , Wat raakt me uw gramschap , uw bevelen ?	Emotion_Hatred_Anger
+bren001scha01_01.TEI.2.text.body.div.div.lg.250.s.4	Wat wilt gij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.250.s.5	spoedig !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.250.s.6	ik moet voord !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.254.s.2	Is dat des Bassa Selims huis ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.258.s.2	Dat is des Bassa Selims huis ?	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.260.s.1	Hij wil heengaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.264.s.2	Ei wagt nog wat !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.268.s.1	osmijn Ik mag niet toeven	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.272.s.2	Eén woord !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.276.s.2	Maak spoed ! 'k zal tijd behoeven .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.281.s.2	Zijt gij in zijnen dienst , mijn vrind ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.285.s.2	Ik ben in zijnen dienst , mijn vrind .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.290.s.2	Zou ik Pedrillo kunnen spreeken , Die zich in zijnen dienst bevind ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.295.s.2	Die schurk !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.295.s.3	die hem den hals zal breeken , Zou 'k u doen spreeken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.295.s.4	- neen , mijn vrind .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.300.s.1	belmonte , ter zijde .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.300.s.2	ô Welk een ' ouden , lompen egel !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.305.s.1	osmijn , hem aanziende , ook ter zijde .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.305.s.2	Dat is gewis een galgenvlegel !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.310.s.1	belmonte , tegen Osmijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.310.s.2	Gij dwaalt , het is een zeer braaf man ,	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.314.s.2	Zo braas , dat men hem spietsen kan ,	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.318.s.2	Gij moet hem waarlijk niet recht kennen !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.322.s.2	Zeer goed .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.322.s.3	Hij zal aan 't vuur wel wennen .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.326.s.2	Zijn inborst eischt een gul onthaal .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.330.s.2	Zijn kop voegt zeer wel op een paal .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.332.s.1	Hij wil vertrekken .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.336.s.2	Ei , blijf nog wat !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.341.s.1	osmijn En waarom dat ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.345.s.2	Ik zou verzoeken .....	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.354.s.1	osmijn , op eene hoonende wijze .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.354.s.2	Ons braaf te doeken , Bij 't Meisjens steelen , Uw hart te streelen !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.354.s.3	Voort !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.354.s.4	zulke knaapen , Behoest men niet .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.361.s.2	Hoe !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.361.s.3	gij zijt dronken , En spreekt , beschonken , Vol gall ' en adder , Tot mijn verdriet .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.366.s.2	Ei , spaar uw poogen , Ik ken u toch .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.371.s.2	Weêrstaat den logen , Gij spreekt bedrog .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.375.s.2	Voort , pak uw biezen !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.379.s.2	'k Zal 't niet verkiezen .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.381.s.1	Saamen .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.388.s.2	Gij krijgt , voorzeeker , Gevoelge slagen : Wilt gij die draagen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.388.s.3	Dit staat u vrij .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.395.s.2	Gij zijt voorzeeker , Door 't brein geslagen , Want op mijn vraagen , Zo dreigt gij mij .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.397.s.1	Osmijn stoot Belmonte van zich af , welke daar op vertrekt .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.401.s.1	Derde tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.404.s.1	Zou men mij wel een grooter schurk op den hals hebben kunnen werpen , dan die Pedrillo is ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.404.s.2	Zulk een gaauwdief , die den gantschen dag niet anders doet dan rond loopen , om naar mijne wijven te kijken , en te loeren of hem niets voor den mond komt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.404.s.3	Ho !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.404.s.4	konde ik hem eens betrekken !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.404.s.5	Hoe wel zou hem de knuppelsoep bekomen , indien ik hem eens bij de lurven mogt krijgen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.404.s.6	Ja , had hij , door zijn mooij praaten , zich niet zo vast bij den Bassa ingedrongen , hij zou , bij mijn ziel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.404.s.7	al lang den strik om den hals gehad hebben .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.408.s.1	Vierde tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.410.s.1	osmijn , pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.412.s.1	pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.413.s.1	Nu , hoe gaat het Osmijn ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.413.s.2	Is de Bassa noch niet te rug gekomen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.417.s.1	Gaa het kijken , als gij het weeten wilt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.421.s.1	Is het al weêr storm in uwen Almanach ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.421.s.2	- Hebt gij die Vijgen voor mij geplukt ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.426.s.1	Voor u !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.426.s.2	vergif voor u , satansche lekkerbek !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.430.s.1	Wat heb ik u toch gedaan , dat gij altijd twist met mij zoekt ?	EmotionalAction_Annoyance
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.430.s.2	Laat ons te saamen als vrinden leeven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.434.s.1	Als vrind met u ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.434.s.2	Met zulk een ' diesachtigen loervink , die overal rond ziet , hoe hij mij eens zal betrekken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.434.s.3	Vermoorden zou ik u !	EmotionalAction_Hatred
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.438.s.1	Maar zeg mij toch waarom ?- waarom ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.442.s.1	Waarom ?-	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.442.s.2	Wel om dat ik u niet veelen kan - daarom .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.446.s.1	Welk een kwaadaartig schepsel zijt gij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.446.s.2	En daar ik u niets gedaan heb .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.450.s.1	Gij hebt een galgengezicht , en dat is genoeg .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.479.s.1	Zulke rondomzwervende aapen , Die slechts luur de wijven gaapen , Mag ik voor den duivel niet .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.479.s.2	Want hunn ' goedheid , vlijën , streelen Is , om ons een pots te speelen : Klaar bedrog het geen men ziet .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.479.s.3	Uwe listen , al uw tuuren , Uwe snaakerij , uw kuuren , Zijn mij gantsch bekend .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.479.s.4	Mij den voet te ligten Kunt gij nooit verrichten , 'k Ben uw ' doen gewend .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.479.s.5	Heiliglijk durf ik u zweeren , Dat ik peinze dag en nacht , Hoe ik u zal doen verneêren : Daarom , neem u wel in acht .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.479.s.6	Eerst onthoofd , Dan gehangen , Dan gespietst , Aan heete stangen , Dan verbrand , Dan gebonden , Op 't laatst in zee Door 't nat verstonden .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.482.s.1	Vjjfde tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.485.s.1	pedrillo alleen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.486.s.1	Ga heen , versoeilijke oppasser !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.486.s.2	wij zijn noch niet aan het einde , Wie weet wie de doorzigtigste van ons beiden is : ten minsten zal ik het mij tot een groot genoegen rekenen , wanneer ik voor zulk een kwaadaardig en wantrouwig mensen , een graf kan graaven , in het welk hij nedertuimelt .	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.head.491.s.1	Zesde tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.493.s.1	belmonte , pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.496.s.1	Pedrillo !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.496.s.2	waarde Pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.500.s.1	ô Mijn waarde heer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.500.s.2	- Is het mogelijk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.500.s.3	- Zijt gij het wezentlijk zelv ' - Bravo , bravo !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.500.s.4	Mevrouw Fortuin !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.500.s.5	Nu hebt gij toch ééns uw woord gehouden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.500.s.6	Ik begon reeds te twijffelen , of gij mijnen brief wel ontvangen hadt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.503.s.1	belmonte	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.504.s.1	Zeg eens , braave Pedrillo , leeft mijne Constanze nog ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.508.s.1	Zij leeft , en wel , zo ik hoop , nog voor u .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.508.s.2	Zodert den verschrikkelijken dag , op welken het noodlot ons zulk een kwaaden trek speelde , en ons schip door de zeeroovers liet wegneemen , hebben wij al vrij wat verdrukking geleeden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.508.s.3	Gelukkig dat Bassa Selim ons alle drie te samen kogt , namelijk , uwe Constanze , mijne Blonde , en mij .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.508.s.4	Hij liet ons daadelijk hier naar zijn landhuis brengen , en Donna Constanze werdt zijne uitgekozene geliefde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.512.s.1	Ach !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.512.s.2	wat zegt gij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.517.s.1	Zacht , wees zo dristig niet .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.517.s.2	Zij is waarlijk in de slimste handen niet gevallen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.517.s.3	De Bassa is eigenlijk een Renegaat , en bezit nog zo veel wellevendheid , dat hij geene van zijne vrouwen tot wederliesde zal dwingen : en , zo veel ik weet , zo speelt hij , tot heeden , bij Donna Constanze , nog niet anders , dan de onverhoorde minnaar .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.521.s.1	Is het mogelijk ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.521.s.2	Is Constanze mij nog getrouw gebleeven ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.525.s.1	Tot heeden toe , ja , mijnheer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.525.s.2	Maar , hoe het zoet mijne Blonde staat , weet de Hemel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.525.s.3	Dat arme kind verkwijnt bij een oude lelijke kaerel , aan wien de Bassa haar gefchonken heeft ; en mogelijk ... ô ik durf ' er in 't geheel niet aan denken !	Fear_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.529.s.1	Evenwel niet bij die oude kaerel , die daar zo even in huis ging .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.533.s.1	Juist bij denzelfden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.537.s.1	En is dat de lieveling van den Bassa ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.542.s.1	Niet alleen de lieveling , maar ook de spion , en tevens het uitvaagzel van alle gaauwdieven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.542.s.2	Die mij gaerne met zijne oogen zoude willen vergiftigen , indien hij slechts konde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.546.s.2	waarde Pedrillo !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.546.s.3	waar zijn wij toe gekomen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.550.s.1	Wees niet kleinmoedig !	Fear_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.550.s.2	Onder ons gezegd , ik heb ook een witten voet bij den Bassa .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.550.s.3	Mijn weinigjen bekwaamheid in het tuinieren , heeft mij zijne gunst doen verkrijgen ; en daardoor heb ik zo veel vrijheid , als duizend anderen niet zouden hebben .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.550.s.4	Daar alle manspersoonen zich daadelijk moeten wegmaaken , waaneer een van des Bassa's vrouwen in den tuin komt , zo heb ik vrijheid om te blijven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.550.s.5	Zij spreeken zelfs met mij , en hij zegt ' er niets van .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.550.s.6	Intusschen ziet Osmijn daar gantsch niet viendelijk om , vooräl wanneer mijne Blonde haare meesteresse moet volgen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.554.s.1	Is het mogelijk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.554.s.2	Hebt gij haar gesprooken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.554.s.3	- ô Zeg mij , zeg mij , bemint zij mij nog ?	EmotionalAction_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.558.s.2	dat gij daar nog aan kunt twijffelen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.558.s.3	Ik meende dat gij de braave Constanze genoeg kende - dat gij blijken genoeg hadt van haare liefde voor u - Maar wij kunnen ons daar niet lang mede ophouden .	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.558.s.4	Hier is enkel de vraag : Wat moeten wij doen , om hier tan daan te komen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.563.s.1	ô !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.563.s.2	Daar heb ik reeds voor gezorgd .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.563.s.3	Ik heb , op eenigen asstand van deeze haven , een schip liggen , dat ons op den eersten wenk zal inneemen , en .....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.567.s.1	Zacht !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.567.s.2	zacht !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.567.s.3	- Eerst moeten wij de meisjens hebben , eer wij te scheep kunnen gaan ; en dat gaat niet zo één , twee , drie , als gij wel meent .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.571.s.3	maak toch maar , dat ik haar zie ; dat ik haar spreeken kan !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.571.s.4	Mijn hart klopt van angst , en van vreugde !	Fear_Joy_Emotion_BodyPart_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.575.s.1	Omzichtig moeten wij dit stuk beginnen , en spoedig moeten wij het uitvoeren , op dat wij den ouden oppasser bedriegen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.575.s.2	Blijf hier omtrend .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.575.s.3	De Bassa houd thans een zeilpartij , en zal daadelijk te rug komen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.575.s.4	Ik zal u , als een bekwaam bouwmeester , aan hem voorstellen : want bouwen en tuinieren zijn zijne stokpaarden , daar hij dagelijks op rijdt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.575.s.5	Maar , mijnheer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.575.s.6	wees voorzichtig : Constanze is bij hem .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.579.s.1	Constanze bij hem !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.579.s.2	Wat zegt gij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.579.s.3	Ik zal haar dan zien ?...	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.584.s.1	Zacht , zacht , mijnheer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.584.s.2	Wat ik u bidden mag , anders zijn wij verlooren ...	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.584.s.3	Ha !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.584.s.4	ha !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.584.s.5	mij dunkt dat ik de zeilen daar reeds zie blinken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.584.s.6	Begeef u ter zijde , wanneer hij komt ; ik zal hem te gemoet gaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.589.s.1	Zevende tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.591.s.1	Recitativo .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.1	Constanze !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.2	u weêr teaanschouwen !... ô Hoe angstig !	Fear_Emotion_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.3	ô Hoe vuurig !	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.4	Klopt mijn liefdekoestrend hart !	BodyPart_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.6	loonde eens haar min , geduurig , All ' mijn uitgestaane smart .	Emotion_Love_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.7	'k Voel mijn leden boeven , 'k Zie baar herwaards streeven .	Fear_BodyPart_BodilyProcess_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.8	Mijn boezem kent perk noch toom .	BodyPart_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.9	Is dat baar staamlen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.10	Ik voel haare boeijen .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.11	Was dat haar zuchten ?	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.12	Mijn wangen gloeijen .	BodyPart_BodilyProcess_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.13	Streelt mij de liefde ?	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.605.s.14	Was het een Droom ?	None
+bren001scha01_01.TEI.2.text.body.div.div.head.608.s.1	Agtste tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.611.s.1	belmonte , pedrillo met drift te rug komende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.614.s.1	Spoedig !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.614.s.2	, spoedig , verberg u , de Bassa komt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.stage.616.s.1	Belmonte verbergt zich .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.621.s.1	Negende tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.627.s.1	Een Rei van Janitsaaren , met muzijk , zeilt met een schip aan land , en schaart zich aan den oever , zingende het volgende Choor : vervolgens komen selim en constanze , in een prachtig schip , mede aan den oever , welke zij , geduurende het Choorgezang , betreden .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.634.s.1	Zingt den Bassa blij ter eere , Helder klinke ons vrolijk lied .	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.lg.634.s.2	Dat zijn ' roem langs d ' oevers rolle , En herklinke in 't ruim verschiet .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.645.s.1	één of twee stemmen .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.645.s.2	eerste stem .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.645.s.3	Kusch hem de wangen , Koelende winden !	EmotionalAction
+bren001scha01_01.TEI.2.text.body.div.div.lg.645.s.4	Leg u ter ruste , Golvende vloed !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.652.s.1	Tweede stem .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.652.s.2	Zingt zijne daaden , Vliegende Chooren !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.652.s.3	Druk hem de liefde , Vrolijk In 't hart .	Joy_Emotion_BodyPart_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.659.s.1	choor .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.663.s.1	Tiende tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.665.s.1	selim , constanze .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.667.s.1	selim .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.668.s.1	Altijd nog treurig , geliefde Constanze !	Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.668.s.2	Altijd in traanen verzonken ?	BodyPart_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.668.s.3	- Zie deezen schoonen avondstond , dit verrukkend oord , dit betoverend muzijk , mijne tedere liefde voor u .	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.668.s.4	- Zeg eens , kan niets van dat alles , u verlooren rust hergeeven ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.668.s.5	Uw hart niet ontvonken ?	Joy_BodyPart_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.668.s.6	- Immers ik zou kunnen beveelen ; ik zou streng met u kunnen omgaan ; ik zou u kunnen dwingen .....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.672.s.1	constanze , zuchtende .	HeavyHeartedness_EmotionalAction_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.677.s.1	Maar neen , Constanze !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.677.s.2	ik wil uw hart aan uzelven te danken hebben .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.677.s.3	U zelv ' .....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.680.s.1	constanze .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.681.s.1	Grootmoedig mau !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.681.s.2	ô dat ik het koude beändwoorden !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.681.s.3	maar .....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.685.s.1	Spreek Constanze , spreek : wat houd u terug ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.689.s.1	Gij zoudt mij haaten !	Emotion_Hatred
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.694.s.1	Neen , ik zweer u ; gij weet hoe zeer ik u bemin , hoe veel vrijheid ik u , boven alle mijne vrouwen , laat genieten ; hoe ik u , als mijn eenigste beminde hoogacht ....	EmotionalAction_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.698.s.1	ô Vergeef het mij dan .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.712.s.2	de liefde , Die mij griefde , Kende nooit voorheen de smart .	Emotion_Love_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.lg.712.s.3	'k Zwoer mijn minnaar Eeuwig trouwe , Schonk hem mijn gebeele hart .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.712.s.4	Maar hoe ras verdween mijn vreugde !	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.lg.712.s.5	Scheiding was mijn vreeslijk lot ; En nu zwemt mijn oog in traanen , Kommer is mijn meest genot .	HeavyHeartedness_Joy_Emotion_BodyPart_BodilyProcess_Sadness_Remorse
+bren001scha01_01.TEI.2.text.body.div.div.stage.714.s.1	Geduurende deeze Aria , wandelt de Bassa , onvergenoegd , over het Tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.717.s.2	ik heb het wel voorspelt , dat gij mij haaten soudt .	Emotion_Hatred
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.717.s.3	Maar vergeef deeze bekentenis aan een meisjen dat ziek van liefde is .	Emotion_BodilyProcess_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.717.s.4	Gij zijt zo grootmoedig , zo goed - gaerne zal ik u dienen , uwe slavin zijn , tot aan het elnde mijnes levens , maar , begeert van mij geen hart , dat .... voor eeuwig verloofd is .	Emotion_Desire
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.721.s.2	ondankbaare !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.721.s.3	wat vermeet gij u , om aan mij voor te stellen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.726.s.1	Doodt mij , Selim , doodt mij : maar dwing mij niet om mijneedig te worden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.726.s.2	Toen de zeeroovers mij uit de armen van mijne geliefde rukte , zwoer ik op het plechtigts ....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.730.s.1	Houd op !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.730.s.2	geen woord meer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.730.s.3	Zet mijne gramschap niet verder aan .	Emotion_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.730.s.4	Denk , dat gij in mijne magt zijt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.734.s.1	Dat ben ik : maar ik kenne uw goed en medelijdend hart te wel , dan dat ik mij zou kunnen verbeelden , dat gij u , van uwe magt over mij , zoudt bedienen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.734.s.2	Hoe zoude ik het anders hebben durven waagen , om u mijn hart te ontdekken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.738.s.1	Waag het niet , om mijne goedheid te misbruiken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.742.s.1	Vergun mij ten minsten uitstel , mijnheer , laat mij tijd om mijne smart te vergeeten .	Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.746.s.1	Hoe dikmaals heb ik u dit verzoek niet reeds toegestaan ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.749.s.1	Constanze .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.750.s.1	Nu , dan nog voor deeze keer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.754.s.1	Welaan !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.754.s.2	het zij dan zo , doch voor de laatstemaal !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.754.s.3	- Ga heen , Constanze , bedenk u ; morgen spreeken wij elkander nader .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.759.s.1	constanze , in het heengaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.760.s.1	Ongelukkig meisjen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.760.s.2	ô Belmonte !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.760.s.3	Belmonte !	None
+bren001scha01_01.TEI.2.text.body.div.div.head.764.s.1	Elfde tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.767.s.1	Haar smart , haare traanen , haare standvastigheid , betoveren mijn hart hoe langs hoe meer , en doen mij nog sterker naar haare liefde wenschen .	Emotion_BodyPart_Love_Sadness_Desire
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.767.s.3	Wie zou tegen zulk een hart geweld kunnen gebruiken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.767.s.4	Neen , Constanze !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.767.s.5	neen ; ook Selim heeft een hart , ook Selim kent de liefde .	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.head.771.s.1	Twaalfde tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.773.s.1	selim , belmonte , pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.776.s.1	Mijnheer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.776.s.2	vergeef het mij , dat ik u , in uwe overdenkingen , kom stooren .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.780.s.1	Wat wilt gij , Pedrillo ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.785.s.1	Deeze Jongeling , welke zich in Italien met allen ljver op de bouwkunde heeft toegelegd , heeft van uwe magt , van uwen rijkdom gehoord , en is hier gekomen , om u , als bouwkunstenaar , zijnen dienst aan te bieden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.790.s.2	indien ik zo gelukkig mogte zijn , om door mijne bekwaamheden , uwe goedkeuring te verdienen , zou ik mij genoeg beloond achten .	Emotion_Happiness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.796.s.1	Hm !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.796.s.2	Gij bevalt mij .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.796.s.3	Ik zal zien wat gij doen kunt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.796.s.4	( Tegen Pedrillo . ) Zorg voor zijn onderhoud .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.796.s.5	Morgen zal ik u nader spreeken .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.800.s.1	Dertiende tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.804.s.1	pedrill .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.805.s.2	triumf !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.805.s.5	de eerste stap is gedaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.809.s.2	laat mij tot mij zelven komen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.809.s.3	Ik heb haar gezien ; ik heb dat lief , bevallig en getrouw meisjen gezien !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.809.s.4	ô Constanze !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.809.s.5	Coustanze !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.809.s.6	Wat kan ik voor u doen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.809.s.7	Wat zou ik niet voor u waagen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.813.s.2	spreek niet zo hard .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.813.s.3	Wij zijn hier niet in ons Vaderland , en moeten onze zaaken voorzigtig en geheim aanleggen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.813.s.4	Want men geeft ' er hier bedroeft weinig om , of ' er een kop meerder of minder in de waereld is .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.813.s.5	Stokslagen , en een strik om den hals , is hier dagelijks brood .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.818.s.2	Pedrillo , wanneer gij de liefde kende !	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.822.s.2	denkt gij dan dat wij niets zijn op deeze waereld ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.822.s.3	Ik heb even zo goed mijne tedere oogenblikken als andere menschen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.822.s.4	En denkt gij dan , dat ik ook niets gevoel , wanneer ik mijn Blondjen , door zulk een ouden gaauwdief , als die Osmijn is , moet zien bewaaken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.826.s.1	ô Indien het mogelijk ware , dat ik haar sprak !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.830.s.1	Wij zullen zien wat wij doen kunnen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.830.s.2	Kom met mij in den tuin ; maar wees toch voorzichtig en bedaard , want hier is alles oog en oor .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.833.s.1	Zij willen het Paleis binnen treden , doch Osmijn komt hen tegen , en houd hen terug .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.836.s.1	Veertiende tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.838.s.1	belmonte , pedrillo , osmijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.841.s.1	Waar naar toe ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.845.s.1	Naar binnen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.849.s.1	osmijn , tegen Belmonte .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.850.s.1	Wat wil dat gezicht ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.850.s.2	- Terug , zeg ik u ; terug !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.855.s.1	Zacht , zacht , meester Vleegel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.855.s.2	Hij is in den dienst van den Bassa .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.859.s.1	In den dienst van den Satan mag bij zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.859.s.2	Hij zal niet naar binnen gaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.863.s.1	Hij zal wel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.867.s.1	Waagt het niet om eene trede verder te doen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.871.s.1	Onbeschaamde !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.871.s.2	Hebt gij geen meerdere achting voor een man van mijnen staat ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.875.s.4	Gij zoudt een man van staat zijn ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.875.s.5	Gij ziet ' er wel naar .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.875.s.6	- Voort !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.875.s.7	voort !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.875.s.8	of ik zal u beenen maaken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.879.s.1	Oude gek !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.879.s.2	Het is de bouwmeester , die de Bassa beeft aangenomen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.884.s.1	Voor mijn deel mag hij de stokbewaarder zijn ; maar hij moet het niet waagen , om nader te komen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.884.s.2	Zoude ik toestaan , dat een van uwe makkers met u zoude samen spannen , om ons te bedriegen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.884.s.3	De Bassa is zacht als boter : met dien kunt gij doen wat gij wilt , en hem bij den neus omleiden : maar daar is mijn neus te fijn toe .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.884.s.4	Uw geheele Kraam , met al uw vreemd gespuis , is mij bekend .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.884.s.5	En gij , doorsleepen bedrieger !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.884.s.6	hebt reeds lang uw plan gemaakt , om mij te misleiden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.884.s.7	Maar wagt een weinig ; Osmijn slaapt niet .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.884.s.8	Was ik Bassa , dan zoudt gij al lang gehangen hebben .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.884.s.9	Ja !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.884.s.10	ja ..... trek vrij valsche gezichten : lagch maar , lagch maar !	Joy_EmotionalAction
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.888.s.1	Vermoei u niet , vader !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.888.s.2	Het kan u toch niet helpen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.888.s.3	Zie , op deeze wijze , zullen wij zo aanstonds naar binnen wandelen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.892.s.1	Nu , dat wil ik wel eens zien .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.895.s.1	( Hij plaatst zich voor de Deur . )	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.898.s.1	Houd uw gemak maar .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.902.s.1	Weg , laage ziel !	None
+bren001scha01_01.TEI.2.text.body.div.div.head.906.s.1	Trio .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.912.s.1	Marsch !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.912.s.2	marsen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.912.s.3	marsch !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.912.s.4	pak u voort !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.912.s.5	Of moeten knuppelslagen U 't blijven doen beklagen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.916.s.1	belmonte en pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.919.s.1	Ei , wat , men zal dit plaagen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.919.s.2	Van u toch niet verdraagen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.923.s.1	Komt mij niet nader .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.930.s.1	Laat door !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.930.s.2	Verrader !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.934.s.1	Of ik begin .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.940.s.1	Wij gaan ' er in .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.942.s.1	( Zij dringen hem van de Deur af . )	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.946.s.2	- voort !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.952.s.1	Plaats !	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.964.s.1	( Zij stooten hem weg , en gaan in 't Paleis . )	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.966.s.1	Einde van het Eerste Bedrijf .	None
+bren001scha01_01.TEI.2.text.body.div.head.970.s.1	Tweede bedrijf .	None
+bren001scha01_01.TEI.2.text.body.div.stage.972.s.1	Het Tooneel verbeeld de Tuin in het Paleis van den Bassa ; aan de eene zijde ziet men de wooning van Osmijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.976.s.1	osmijn , blonde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.978.s.1	blonde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.979.s.1	Nu , dat grommen , morren en gebieden , heeft mij al lang verveeld .	Emotion_Annoyance
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.979.s.2	Ik moet u dus ééns voor al zeggen , dat mij zulk een onthaal in 't geheel niet aan staat .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.979.s.3	Denkt gij , oude grijn !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.979.s.4	dat gij een turksche slavin voor hebt , die voor uwe bevelen siddert ?	Fear_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.979.s.5	ô Dan dwaalt gij zeer ver buiten het spoor .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.979.s.6	Met Europeesche meisjens moet men zo niet omspringen ) die moet men geheel anders behandelen .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.991.s.1	Door tederheid en streelen , Melijdend zijn voor smarten Veroverd men de harten , Der goede meisjens ligt : Maar grommen , stuurs bevelen , Steeds knorren , kijven , plaagen , Maakt dat in weinig dagen , Zo liefde alt trouwe zwicht .	Emotion_Love_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.995.s.1	Wel men zou zeggen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.995.s.2	wat dat nufjen mij niet al zou voorschrijven !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.995.s.3	Tederheid , vleijen , melijdend zijn !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.995.s.4	Wel ja , ik ben enkel tederheid !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.995.s.5	Wie duivel heest u dat in het hoofd gebragt !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.995.s.6	- Hoor eens : hier zijn wij in Turkijen , en daar gaat het op een geheel anderen toon .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.995.s.7	Hier ben ik uw Heer , en gij zijt mijn slaavin .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.995.s.8	Ik beveel - en gij moet gehoorzaamen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.999.s.1	Uw slaavin !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.999.s.2	Ik , uw slaavin !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.999.s.4	een meisjen een slaavin !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.999.s.5	Toe , zeg mij dat nog eens reis .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1003.s.1	osmijn , ter zijde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1006.s.1	Ik zal nog dol worden !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1006.s.2	Welk een koppig ding is die meid ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1006.s.3	( Overluid . ) Gij zijt immers noch niet vergeeten , dat de Bassa u , aan mij , tot slaavin geschonken heeft ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1010.s.1	Geschonken !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1010.s.2	door den Bassa !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1010.s.3	aan u ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1010.s.4	- Wat raakt mij dat ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1010.s.5	Meisjens zijn geene waar om weg te schenken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1010.s.6	Ik ben een Hollandsche meid , en voor de vrijheid geboren ; en trotseer dus elk , die mij tot iets zou willen dwingen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1017.s.1	Vergif en dolk voor die meid !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1017.s.2	Bij Mahomet !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1017.s.3	zij zal mij nog raazend maaken .	Emotion_BodilyProcess_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1017.s.4	En evenwel bemin ik die heks , ondanks haare fierheid en woede .	Emotion_Love_Pride_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1017.s.5	( Overluid . ) Ik beveel u , om mij oogenbliklijk te beminnen .	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1022.s.4	U te beminnen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1022.s.5	Kom maar een welnigjen nader , dan zal ik u de gevoelige bewijzen van mijne liefde geeven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1026.s.1	Koppig ding !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1026.s.2	weet gij niet dat gij mij toebehoord ; en dat ik u daar voor straffen kant ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1030.s.1	Waag het niet om mij aan te raaken , indien uwe oogen u lief zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1034.s.2	gij onderstaat u ....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1038.s.1	Wel daar os wat aan te onderstaan !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1038.s.2	Gij , niet ik , zijt de onbeschaamde , die u te veel Vrijheid aanmaatigd .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1038.s.3	Zulk een oud leelijk gezicht , onderstaat het , om een meisjen , zo als ik , jong , schoon , en tot vermaak geboren , even als eene slaavin te bevelen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1038.s.4	Waarlijk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1038.s.5	dat zou alleen aan mij staan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1038.s.6	Aan ons behoord het bewind .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1038.s.7	Gij lieden zijt onze slaaven ; en gelukkig hij , die verstand genoeg heest om zijnen keten te verligten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1042.s.1	Zij is waarachtig dol !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1042.s.2	- Hier , hier in Turkijen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1047.s.1	Wat , Turkijen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1047.s.2	Een vrouw is overäl vrouw , in Turkijen en in Holland , of waar zij wezen mag !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1047.s.3	Zijn uwe vrouwen zo dwaas , dat zij zich door u laaten regeeren ; zo veel te slechter voor haar .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1047.s.4	In Holland verstaan de vrouwen haare zaak veel beter .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1047.s.5	Laat ik hier ook maar eens gezeten zijn , dan zal het hier mede wel spoedig veranderen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1051.s.1	Bij Alla !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1051.s.2	Die meld zou in staat zijn , om alle onze wijven in opstand te brengen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1051.s.3	Maar ....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1055.s.1	Op bidden moet gij u toeleggen , indien gij iets van ons wilt verwerven ; vooral minnaars van uwe soort .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1059.s.1	Ja , indien ik Pedrillo waar , of zulk een draadpop als hij is , dan zou ik denkelijk welkom zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1059.s.2	Want uit u beider gebaarden heb ik reeds genoeg gemerkt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1063.s.1	Net geraaden , Papa !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1063.s.2	net geraaden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1063.s.3	Gij kunt toch zeer gemakkelijk besluiten , dat de bevallige Pedrillo , mij aangenaamer is , dan uw blaasbalken gezicht .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1063.s.4	Derhal ven , wanneer gij verstandig waart .....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1067.s.1	Dan zou ik u vrijheid laaten , om met hem te doen en te maaken wat gij wilt ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1071.s.1	Zekerlijk zoud gij daar beter bij vaaren ; want op die wijze als gij het aanvat , wordt gij gewis bedroogen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1076.s.1	Vergif en dolk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1076.s.2	Nu , is mijn geduld ten einde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1076.s.3	Voort , daadelijk in huis !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1076.s.4	en zo gij het waagt ....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1080.s.1	Maak mij niet aan 't lagchen .	Joy_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1084.s.1	In huis , zeg ik .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1088.s.1	Niet van uwe plaats , zeg ik .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1092.s.1	Maak niet dat ik geweld moet gebruiken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1096.s.1	Geweld zou ik met geweld te keer gaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1096.s.2	Mijne meestresse heeft mij hier in den tuin gezonden ; zij is de beminde van den Bassa ; zijn alles : het heeft mij dus maar één woord te kosten , en gij krijgt vijftig stokslagen op de voetzoolen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1096.s.3	Derhalven , vertrek !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1101.s.1	Dat is een duivelin !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1101.s.2	Ik moet , bij mijn ziel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1101.s.3	toegeeven , of zij is in staat om haar dreigen te vervullen .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.1105.s.1	Duo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1110.s.1	Ik ga dan , doch raad u vooräll ' , Den snoeshaan , Pedrillo te mijden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1115.s.1	Maak voort toch : ik weet wat ik zal .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1115.s.2	Ik kan uw gebieden niet lijden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1120.s.1	Beloof mij ...	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1124.s.1	Wat willen die reên ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1128.s.1	De duivel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1132.s.1	Voort , laat mij alleen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1137.s.1	'k Beveel u , van hier niet te wijken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1137.s.2	Gehoorzaam mij , wees toch niet dol .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1144.s.1	Nu zal ik mijn vlagge niet strijken , Al waart gij de groote Mogol .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1144.s.2	Te saamen , elk ter zijde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1151.s.1	ô Hollanders !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1151.s.2	zijt gij geen dwaazen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1151.s.3	Gij laat uwe vrouwen regeeren !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1151.s.4	Gij duldt al haar tieren en raazen , En stelt haar bevelen geen perk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1158.s.1	Een vrij mensen veracht alle dwaazen , Laat nimmer als slaaf zich regeeren .	Emotion_Disgust
+bren001scha01_01.TEI.2.text.body.div.div.sp.1158.s.2	Men juicht bij het dreigen en raazen , En stelt zijn gebieder zelv perk .	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.1162.s.1	Nu , gaat gij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1166.s.1	Spreekt gij zo tot mij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1170.s.1	Niet anders .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1174.s.1	'k Blijf hier dan , hoe 't zij .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1178.s.2	hem weg stootende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1180.s.1	Een andermaal : nu moet gij wijken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1184.s.1	Wie zag zich zoo verongelijken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1186.s.1	Te Saamen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1189.s.2	zij houd zich als of zij hem de oogen wil uitkrablen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1192.s.1	Dat zal best aan uwe oogen blijken , Zo gij nog langer hier vertoeft .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1195.s.2	bevreest te rug wijkende .	Fear_Emotion_EmotionalAction
+bren001scha01_01.TEI.2.text.body.div.div.sp.1198.s.1	Nu stil dan , 'k wil veelliever wijken , Dan dat gij mij op slaagen toeft .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1205.s.1	Blonde , Constanze , zonder Blonde te zien .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1208.s.1	ô Hoe treurig komt dat goede meisjen daar aan !	Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1208.s.2	Zekerlijk is het bedroefd een beminde te verliezen , en slaavin te zijn .	Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1208.s.3	Maar het is met mij al niet veel beter gesteld : evenwel heb ik dat vermaak nog , dat ik mijn Pedrillo , nu en dan nog eens mag zien , hoe geheim en zeiden het dan ook geschieden mag .	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1208.s.4	Maar wie kan tegen den stroom opvaaren ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1220.s.1	Welk een foltring doet mijn boezem zwoegen Sints het lot die wreede scheiding maakte !	HeavyHeartedness_BodyPart_BodilyProcess_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1220.s.2	ô Belmonte weg is all ' 't genoegen , Dat ik eens aan uwe zijde smaakte !	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1220.s.3	Kwelling en verlangen Woonen beurtlings nu in mijn beklemde borst .	Emotion_BodyPart_BodilyProcess_Other_Sadness_Desire
+bren001scha01_01.TEI.2.text.body.div.div.lg.1235.s.1	Droefheid doet mijn ziel verteeren , Daar 'k van u gescheiden , ween .	Emotion_BodyPart_BodilyProcess_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.lg.1235.s.2	Als een roos , bij 't vogt ontbeeren , Stervend , door zijn beeld kan leeren , Smelt mijn kwijnend leven heen .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.1235.s.3	Zelfs der lucht durf ik niet klaagen : “ Mijne ziel lijd bittre smart ” !	Emotion_BodyPart_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.lg.1235.s.4	Want , onwillig die te draagen , Drukt zij die toch , alle dagen , Weder in mijn kloppend hart .	BodyPart_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1238.s.1	ô Mijne waarde meesteresse !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1238.s.2	blijft gij nog altijd zo treurig ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1242.s.1	Kunt gij dit vraagen , gij , die mijne rampen weet ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1242.s.2	- Ziedaar weder een avond g en ' er is nog geene tijding , geene hoope .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1242.s.3	- En morgen , ô Hemel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1242.s.4	ik durf ' er niet aan denken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1246.s.1	Beur u ten minsten wat op .	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1246.s.2	Zie , hoe schoon deze avondstond is !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1246.s.3	Hoe lieflijk ons alles tegen lacht !	Joy_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1246.s.4	Hoe vrolijk de vogelen ons dagelijks tot deelgenooten van hun gezang willen maaken .	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1246.s.5	Verban uwe droefheid , en vat moed .	HeavyHeartedness_Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1250.s.1	Meisjen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1250.s.2	meisjen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1250.s.3	hoe gelukkig zijt gij , dat gij zo gelaaten kunt zijn in de tegenspoeden .	Emotion_Happiness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1250.s.4	ô Dat ik het ook konde wezen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1255.s.1	Dat staat alleen aan u : hoop slechts .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1259.s.1	Daar de minste schijn van hoop meer te zien is !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1263.s.1	Hoor !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1263.s.2	ik houde eene zaak nimmer voor verlooren , zij moge ' er zo slegt uitzien als zij wil : want wie zich altijd het slegtste voorsteld , is ' er waarlijk ook het slegtste aan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1267.s.1	En wie zich altijd roet hoop vleit , en zich op het laatst bedrogen vind , heeft dan niets meer over dan de wanhoop .	Emotion_Hope_Despair
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1271.s.1	Nu , ieder denkt op zijne wijze : maar ik geloof toch bij de mijne het beste te zullen vaaren .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1271.s.2	Hoe spoedig zou Belmonte met losgeld hier kunnen verschijnen ; of ons , op de eene of andere wijze , kunnen wegvoeren ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1271.s.3	Wij zijn toch de eerste vrouwen niet welke de turksche handen zouden ontsnapt zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1271.s.4	- Daar komt de Bassa .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1275.s.1	Laat ons hem ontwijken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1281.s.1	Het is te laat .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1281.s.2	Hij heeft u .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1281.s.3	reeds gezien .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1281.s.4	Doch ik durf vrij uit den weggaan , want hij zend mij anders toch heen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1281.s.5	( Bij het vertrekken . ) Houd moed !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1281.s.6	wij komen vast nog eens in ons Vaderland terug .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1289.s.1	Constanze , Selim .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1292.s.1	Nu Constanze , hebt gij mijn voorstel overwoogen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1292.s.2	De dag is haast ten einde ; morgen moet gij mij beminnen , of .....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1296.s.1	Moet ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1296.s.2	Welk eene haatelijke begeerte !	Emotion_Hatred_Desire
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1296.s.3	Even of men de liefde bevelen kan , gelijk een dragt slaagen !	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1296.s.4	- Maar , ja : zo als gij Turken te werk gaat , kunt gij alles bevelen , en dus de liefde ook .	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1296.s.5	Intusschen zijt gij wezentlijk te beklaagen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1296.s.6	Gij sluit de voorwerpen uwer liefde op , en zijt met een gedwongen genot te vreeden .	Joy_Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1300.s.1	En zoudt gij dan gelooven , dat onze vrouwen minder gelukkig zijn , dan de vrouwen in uw land ?	Emotion_Happiness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1304.s.1	Die niets beter kennen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1308.s.1	Op deeze wijze zal ' er geene hoop zijn , dat gij ooit anders zult denken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1313.s.2	ik zal in alles openhartig met u ongaan - want waaröm zoude ik mij langer ophouden , mij zelve met eene ijdele hoop te vlijën , dat gij u , door mijne gebeden zoud laaten beweegen - ik zal altijd zoo denken als heeden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1313.s.3	U eeren , u hoogachten , maar .... beminnen !	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1313.s.4	- nooit !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1317.s.1	En gij siddert niet voor de magt die ik over u hebbe ?	Fear_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1321.s.1	In het minste niet .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1321.s.2	De dood is alles wat ik verwagten kan ; en hoe eerder die komt , hoe aangenaamer het mij zijn zal .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1325.s.1	Ellendige !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1325.s.2	Neen , gij zult niet sterven , maar de wreedste folteringen wachten u .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1329.s.1	Ook die zal ik verdraagen ; gij schrikt mij niet af : ik verwacht alles .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1347.s.1	Alle martelingen Mogen mij omringen , Ik verächt de smart en pijn .	Emotion_Sadness_Disgust
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1347.s.2	'k Zal ze all ' weêrstreeven , Dan eerst zoude ik beeven , Als , ik ontrouw konde zijn .	Fear_BodilyProcess_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1347.s.3	Laat u beweegen , Verschoon mij nu : Des hemels zegen Beloon dan u .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1347.s.4	Maar eischt gij mijn ' smarte , Willig , rein van harte , Kies ik alle pijn en nood .	Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1347.s.5	Dat uw drift zich voede , Koele , streele , en woede .	Emotion_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1347.s.6	Op 't laatst bevrijd mij toch de dood .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1356.s.1	Is dat een droom ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1356.s.2	Van waar heeft zij in ééns al dien moed verkreegen , om zich op deeze wijze tegens mij te gedraagen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1356.s.3	- Zou zij mogelijk eenig uitzicht hebben om te ontkomen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1356.s.5	daar zal ik zorg voor draagen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1356.s.6	( Hij wil vertrekken . ) Maar dat is het niet ; want dan zou zij veinzen , om mij daar door in slaap te wiegen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1356.s.7	Neen , het is wanhoop !	Emotion_Despair
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1356.s.8	Met strengheid zal ik niets bij haar uitrichten ; met bidden ook niet .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1356.s.9	Derhalven wat dreigen en verzoeken niet vermogen zal de list te weeg brengen .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.1360.s.1	Vijfde tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1364.s.2	de Bassa vertrekt , en Constanze is ook reeds weg !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1364.s.3	Zouden zij het met elkander eens zijn geworden ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1364.s.4	Neen , dat geloof ik niet , - Het goede meisjen heef haaren Belmonte te lief .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1364.s.5	Ik beklaag haar van harte .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1364.s.6	Maar zij is te aandoenlijk in haaren toestand .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1364.s.7	Zekerlijk weet ik niet hoe ik mij houden zoude , in-dien ik mijn Pedrillo niet hier had .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1364.s.8	Maar zo gevoelig zou ik toch niet zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1364.s.9	De mannen verdienen het waarachtig niet , dat men zich om hen dood zoude kwellen .	HeavyHeartedness_Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1364.s.10	Mogelijk zou ik dan op zijn turksch denken !	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1371.s.1	Blonds , Pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1374.s.1	Bst !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1374.s.2	bst !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1374.s.3	is de weg vrij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1378.s.1	Kom maar , kom !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1378.s.2	De Bassa is weder te rug , en mijn ouden grijn heb ik zo even het hoofd wat gewasschen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1378.s.3	Maar wat hebt gij te berichten ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1382.s.1	ô Nieuwigheden , boven nieuwigheden , die u zullen verwonderen .	Emotion_Wonder
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1386.s.1	Nu spoedig dan , spoedig !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1386.s.2	wat is het ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1390.s.1	Voor dat ik u , mijn hartediefjen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1390.s.2	eenig bericht kan mededeelen , moet ik u een hartelijke kusch geeven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1390.s.3	Gij weet immers dat een gestoolen kusch het beste smaakt ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1394.s.1	Foei !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1394.s.2	foei !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1394.s.3	als dat uwe nieuwigheden zijn ...	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1398.s.1	pedrilio .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1399.s.1	Gekkin !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1399.s.2	maak daar toch geen geweld over .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1399.s.3	De oude schurk Osmijn staat zekerlijk hier of daar weêr op den uitkijk .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1403.s.1	Nu : en de nieuwigheden ?...	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1409.s.1	Zijn , dat het einde van onze slaavernij voor de deur staat .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1409.s.2	( Hij ziet zorgvuldig overäl rond , of hem niemand beluisterd . ) Belmonte , de beminde van Constanze , is aangekomen , en ik heb hem , onder den naam van een Italiaansche bouwmeester , hier in het Paleis gebragt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1413.s.3	Relmonte hier ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1417.s.1	Met lijf en ziel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1421.s.1	ô Dat moet Constanze daadlijk weeten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.stage.1423.s.1	( Zij wil vertrekken . )	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1427.s.1	Hoor eens , Blonde !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1427.s.2	hoor eens .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1427.s.3	Hij heeft een schip , niet verre hier van daan , gereed liggen , en wij hebben beslooten om u beiden deezen nacht te schaaken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1431.s.1	ô Allerliefst !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1431.s.2	allerliefst !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1431.s.4	Dat verdiend een kusch !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1431.s.5	daar !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1431.s.6	- Nu vliegend naar Constanze .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1438.s.1	Wacht !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1438.s.2	wacht !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1438.s.3	Laat ik eerst met u spreeken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1438.s.4	Om middernacht komt Belmonte , met een ladder , aan het vengster van Constanze : en ik , aan het uwe , en dan gaat het : marsch !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1442.s.1	ô Voortreflijk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1442.s.2	Maar Osmijn ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1446.s.1	Daar heb ik deezen slaapdrank voor gereed gemaakt ; dien meng ik hem , op de beste wijze , in zijnen drank : verstaat gij mij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1446.s.2	Ook heb ik hier een flesjen voor hem gevuld .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1446.s.3	Gaat het met de eene niet , dan gaat het met de andere .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1450.s.1	Zorg niet voor mij .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1450.s.2	Maar kan Constanze haar beminde niet spreeken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1454.s.1	Zodra het geheel duister is , zal hij hier in den tuin komen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1454.s.2	Ga heen , en bericht Constanze een en ander .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1454.s.3	Ik zal Belmonte hier verwagten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1454.s.4	Vaar wel , mijn hartediefjen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1454.s.5	Vaar wel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1458.s.1	Vaar wel , lieve Pedrillo !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1458.s.2	ô Welk eene vrolijke tijding zal ik overbrengen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1467.s.1	Welk genoegen !	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1467.s.2	welk een vreugd !	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1467.s.3	Maakt mijn gantsche hart verheugd .	Joy_Emotion_BodyPart
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1467.s.4	Uitstel kan dit niet gehengren , 'k Moet haar straks de tijding brengen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1467.s.5	'k Wek door juichen , hupplen , springen , Vrolijk lagchen , schertzen , zingen , Haar verslagen hart vol vreugd .	Joy_Emotion_BodyPart
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1474.s.1	ô Was alles maar reeds voorbij !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1474.s.2	waren wij maar in open zee , en hadden mij onze meisjens in den arm , en dit vervloekte land agter den rug !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1474.s.3	- Maar men moet het waagen : nu , of nimmer .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1474.s.4	Die waagt die wint .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1486.s.1	Kloek gestreeden !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1486.s.2	Spoedig vreede !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1486.s.3	Nu de laffe vrees verjaagd .	Fear_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1486.s.4	Zou ik beeven ?	Fear_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1486.s.5	Zou ik klaagen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1486.s.6	Niet mijn leven Moedig waagen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1486.s.7	Neen , ô neen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1486.s.8	het moet gewaagd .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.lg.1486.s.9	Kloek gestreeden , Spoedig vreede , Nu de laffe vrees verjaagd .	Fear_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.stage.1494.s.1	Osmijn , Pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1497.s.1	Ei , ei , zijt gij zo vrolijk ?	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1497.s.2	Het moet u verduiveld wel gaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1503.s.1	ô Waarom zou men geduurig het hoofd laaten hangen ?	HeavyHeartedness_BodyPart
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1503.s.2	Men wint , bij den drommel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1503.s.3	daar niets mede .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1503.s.4	De Pedrillo's zijn , misschien van Adams tijden af , altijd vrolijke lieden geweest .	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1503.s.5	Vreugde en , wijn kan de hardde slaavernij verzoeten .	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1503.s.6	Zekerlijk kunt gij , arme slokker !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1503.s.7	niet begrijpen , dat ' er zulk een vermaak in een goed glas wijn verborgen is .	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1503.s.8	Waarlijk , Mahomet heeft zijne aanhangers duivels bij den neus gehad , toen hij den wijn verbood ; maar hij dacht mogelijk , dat als alle de turken dien lekkeren drank dronken , dat hij ' er dan gebrek aan zoude hebben .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1503.s.9	Hoor eens , wanneer ' er die verwenschte wet niet was , dan zoud gij een glaasjen wijn met mij moeten drinken ; gij mogt dan willen of niet !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1503.s.10	( Ter zijde . ) Mogelijk tast hij toe : want hij lust hem heel graag .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1507.s.1	Wijn drinken , met u ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1507.s.2	- Ja , vergif !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1514.s.1	Altijd vergif en dolk , of dolken en vergif !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1514.s.2	Leg toch dat oud vooroordeel eens af , en wees verstandig .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1514.s.3	Zie eens , een paar flessen heerlijke cijpersche wijn !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1514.s.5	( Hij toont hem twee flesschen , van welke de een grooter dan de andere is . ) Die zullen mij heerlijk smaaken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1518.s.2	ter zijde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1519.s.1	Indien ik hem durfde vertrouwen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1525.s.1	Dat is wijn !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1525.s.2	ô Dat is heerlijke wijn !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1525.s.3	( Hij zet zich , naar de wijze der Turken , op den grond neder , en drinkt uit de kleine flesch . )	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1529.s.1	Is de groote flesch ook goed !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.1	Denkt gij mogelijk , dat ik ' er vergif in gedaan heb ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.3	ho !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.4	wees niet verleegen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.5	Zou het de pijn wel waard zijn , dat ik , om uwentwille , ter helle voer ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.6	- Daar , ziet eens , ik drink ' er zelf van .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.7	( Hij drinkt een weinig uit de groote flesch . ) Nu , bedenkt gij u nog ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.8	- Vertrouwt gij mij noch niet ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.9	Foei , Osmijn !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.10	gij moet u schaamen !	Emotion_Shame
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.11	Daar , neem !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1537.s.12	( Hij geeft hem de groote flesch . ) Of wilt gij de kleine ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1541.s.1	Neen , laat staan ; laat staan !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1541.s.2	Maar zo gij mij verraadt ?	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1544.s.1	( Hij {problem}iet zorgvuldig in 't rond . )	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1548.s.1	Even of wij elkander niet meer nodig hadden !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1548.s.2	Kom , frisch aangevat !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1548.s.3	Mahomet ligt reeds lang op zijn één oor , en heest geheel iets anders te doen , dan zich met uwe flesch wijn op te houden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1558.s.1	Vivat Bachus !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1558.s.2	Bachus leeve !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1558.s.3	Bachus was een dapper man !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1564.s.1	Zou 'k het waagen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1564.s.2	Zou ik drinken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1564.s.3	Als Alla het merken kan ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1570.s.1	Wat helpt dat talmen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1570.s.2	Drink hartig , drink luchtig .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1570.s.3	Gij hebt al te lang reeds gevraagd .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1576.s.1	Nu , dat 's gedronken , De wijn is gezonken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1576.s.2	Dat noem ik , waarachtig gewaagd .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1578.s.1	beiden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1582.s.1	Nu leeven de Meisjens , De blonden , de bruinen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1582.s.2	Zij leven lank !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1586.s.1	Dat smaakt lekker !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1591.s.1	Dat smaakt heerlijk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1598.s.2	dat is een Godendrank !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1598.s.5	Bachus vond dien Godendrank !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1601.s.1	Ja waarlijk , dat moet men bekennen , dat ' er niets is dat de wijn overtreft .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1601.s.2	Wijn is mij veel aangenaamer dan geld en meisjens .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1601.s.3	Ben ik eens verdrietig , of knorrig , dan neem ik mijn toevlucht tot de flesch , en naauwlijks zie ik ' er den bodem van , of alle mijne droefheid is verdweenen .	HeavyHeartedness_Emotion_Sadness_Annoyance
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1601.s.4	Mijn flesch kijkt mij niet zuur aan , zo als mijn meisjen , wanneer haar het hoofd niet wel staat .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1601.s.5	En men mag praaten wat men wil , van de zoetheid der liefde , en het genoegen van den echtenstaat , wijn op de tong smaakt boven alles !	Joy_Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.stage.1604.s.1	Bij Osmijn begint de wijn en de slaapdrank reeds te werken , zo dat hij , op het einde van dit Tooneel , telkens slaaperiger en loomer wordt .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1604.s.2	Echter behoort de Tooneelspeeler dit niet al te ver te trekken .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1604.s.3	Hij moet altijd half droomend en slaapdronken blijven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1608.s.1	Dat is waar , wijn ... wijn is een beer ... lijke drank ; en ... en ... onze groote Profeet .... moet ... het mij ... niet ... niet ... kwalijk neemen ... vergif ... en dolk !.. de wijn smaakt .... heer ... lijk !...	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1608.s.2	Niet waar .... broe ... broeder Pedrillo !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1612.s.1	Zeer zeker , broeder Osmijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1612.s.2	Zeer zeker .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1620.s.1	Men wordt ... aan ... stonds .... zo ... zo vrolijk ... ( Hij knikt somtijds met het hoofd . ) Zo ... zo opgeruimd .	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1620.s.2	Hebt ... gij ... nog meer ?.. broeder !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1620.s.3	( Hij reikt op eene belagchelijke wijze , naar de tweede flesch , die Pedrillo hem geeft . )	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1624.s.1	Hoor papa !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1624.s.2	drink maar niet te veel ; want het loopt in 't hoofd !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1630.s.1	Wees ... maar ... niet ... niet bezorgd ... ik ... ik ben zo , zo nuchter ... als mogelijk is ...	Worry_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1630.s.2	Maar , dat .... is waar ; .. ( Hij begint zich op den grond uit te rekken , en rond te wentelen . ) het smaakt .... heerlijk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1635.s.1	En het werkt ook heerlijk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1639.s.1	Maar ... verraaden , moet gij mij niet , broêrlief ... verraaden !.. want , indien Mahomet ... neen , neen ; de Bassa ... wist .... ziet gij ... lieve Blonde .... ja ... of .... neen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1647.s.1	Nu wordt het tijd , om hem weg te maaken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1647.s.2	( Overluid . ) Nu kom , oude !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1647.s.3	laat ons gaan slaapen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.stage.1649.s.1	( Hij helpt hem van den grond op . )	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1655.s.1	Slaapen ?... schaamt gij u niet ?	Emotion_Shame
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1655.s.2	- Vergif en dolk !.. wie zou zo slaaperig zijn ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1655.s.3	( Hij geeuwt . ) Het is .... naauwelijks ... middag .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1659.s.4	de zon is reeds onder .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1659.s.5	- Kom , spoedig , dat de Bassa ons hier niet betrapt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1663.s.2	in 't heen gaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1664.s.1	Ja , ja ... een flesch ... goede wijn ...	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1664.s.2	Bassa !.. gaat boven alles !.. goede ... nacht ... broer ... lief ... goede .. nacht .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.stage.1666.s.1	( Pedrillo leidt hem weg , maar komt aanstonds weêr terug . )	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1673.s.2	Osmijn nabootzende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.1	Goede ... nacht ... broer ... lief !.. goede ... nacht !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.5	Kan men u zo betrekken , oude ijzervreeter !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.6	met uw vergif en dolk ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.7	Gij hebt uwe laading .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.8	Maar , het is nog zo vroeg in den avond !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.9	Eer het middernacht is , moeten ' er nog drie uuren verloopen : en hoe ligtelijk kan hij dan weêr uitgeslaapen hebben ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.10	- St !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.11	St !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.12	mijnheer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.13	kom toch !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.14	Onze Argus is blind .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1674.s.15	Ik heb hem rustig toegedekt .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1682.s.1	Belmonte , Pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1685.s.1	ô Dat onze aanslag gelukte !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1685.s.2	Maar zeg , is Constanze noch niet hier ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1689.s.1	Zie daar komt zij juist , door de laan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1689.s.2	Spreek alles met haar af ; maar wees toch kort : want deverraader slaapt niet lang .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1699.s.1	Belmonte , Constanze , Pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1699.s.2	Blonde .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1699.s.3	Geduurende de gesprekken tusschen Belmonte en Constanze , spreekt Pedrillo zachtkens met Blonde , aan wie hij door gebaarden , het geheele Tooneel met Osmijn te kennen geeft , en deszelfs gedrag naarbootst : haar verder beduidende , hoe hij , om middernacht , met een ladder , onder haar vengster zal komen , om haar weg te voeren .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1702.s.2	Belmonte in de armen vliegende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1703.s.1	ô Mijn Belmonte !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1712.s.2	Na zo veele benaauwde dagen , na zo veel lijden , u , in mijne armen weder te zien .	Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1716.s.1	ô Dit oogenblik verzacht alle mijne rampen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1716.s.2	Doet mij alle mijne smarten vergeeten !	Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1720.s.1	Hier wil ik aan uwen boezem hangen , en schreijen !	Joy_BodilyProcess_Moved
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1720.s.3	heeden voel ik , dat de vreugde ook haare traanen heeft .	Joy_Emotion_BodyPart
+bren001scha01_01.TEI.2.text.body.div.div.lg.1735.s.2	Als de vreugde - traanen vloeijen , Lacht de liefde , den geliefden toe .	Joy_Emotion_BodyPart_BodilyProcess_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.1735.s.3	Paerlen , die op wangen gloeijen , Vangt men kussend , immer blij te moê .	Joy_Emotion_BodyPart
+bren001scha01_01.TEI.2.text.body.div.div.lg.1735.s.6	dit gelukken !	Emotion_Happiness
+bren001scha01_01.TEI.2.text.body.div.div.lg.1735.s.7	U , aan mijne borst te drukken , Kan mijn ziel op 't hoogst verrukken , Loont den ramp door ons gesmaakt .	Joy_EmotionalAction_BodyPart_BodilyProcess_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.1735.s.9	kroon ons onderwinden , Ach !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.1735.s.10	dat wij nooit weêr ondervinden , Welk een smart de scheiding maakt .	Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.p.1736.s.1	Ik heb hier , in de nabijheid , een schip gereed liggen ; om middernacht , wanneer alles in rust is , kom ik onder uw vengster ; ... en dan zij de Liefde onze beschermëngel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1739.s.1	ô Welk een vermaak !	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1739.s.2	Wat zoude ik met u niet waagen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1739.s.3	- Ik zal u verwachten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1744.s.1	Dus , lieve Blonde !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1744.s.2	pas maar wel op !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1744.s.3	Hoort gij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1748.s.1	Zorg niet voor mij !	Worry_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1748.s.2	- Het zou het eerste avontuurtjen zijn , dat een Meisjen versliep .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1752.s.1	Gij zult mijne aankomst spoedig merken , wanneer gij zo wat hoort brommen , zo als des avonds mijne gewoonte meest is : pas dan op , want dan moeten wij , met één sprong in het schip zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1752.s.2	Nu spoedig moed gevat , en niet gewanhoopt : want wie alles te verliezen heeft , moet alles waagen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1756.s.1	Als het maar wel afloopt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.1760.s.1	Wij moeten het hoopen - de Liefde zal onze leidsvrouw zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.1764.s.1	Quator .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1768.s.3	ach !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1768.s.4	mijn leven !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1772.s.3	mij hergeeven !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1778.s.1	Is het mooglijk ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1778.s.2	Welk verrukken !	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.1778.s.3	U aan mijne borst te drukken ; Na zo veele dagen smart .	Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.1785.s.1	Welk een blijdschap !	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.1785.s.2	u te ontmoeten !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1785.s.3	Dat kan alle ramp verzoeten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1785.s.4	ô Hoe vrolijk is mijn hart .	Joy_Emotion_BodyPart
+bren001scha01_01.TEI.2.text.body.div.div.sp.1789.s.1	Zie mijn vreugde traanen vloeijen !	Joy_BodyPart_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.1793.s.1	Kussend , mijne wang besproeijen ,	Joy_EmotionalAction_BodilyProcess_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.1797.s.1	Dat deez ' vloed de laatste zij !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1801.s.2	nog heeden wordt gij vrij .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1807.s.1	Dus , mijn Blondjen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1807.s.2	wil niets duchten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1807.s.3	Alles is gereed tot vluchten , Te twaalf uuren staan wij klaar .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1813.s.1	Zou mij dit bericht ontstellen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1813.s.2	De minuuten zal ik tellen , Waar ' het oogenblik reeds daar !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1815.s.1	allen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1820.s.1	Helder schiet de zon haar straalen , Door de donkre nevels heen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1820.s.2	Onze vreugde kent geen paalen , Wij zien 't eind van ons geween !	Joy_Emotion_BodilyProcess_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.1826.s.1	Dan , ach !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1826.s.2	bij 't eind der smart , Gevoelt mijn juichend hart , Nog veel geheime zorgen .	Joy_Emotion_BodyPart_BodilyProcess_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.1833.s.1	Wat is het , liefste ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1833.s.2	spreek !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1833.s.3	Wat deert u toch ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1833.s.4	- Ik smeek ... ô Houd mij niets verborgen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1837.s.1	Men zegt : gij zijt ....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1841.s.1	Nu ?... radder !	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1843.s.1	Belmonte en Constanze , zien elkander stilzwijgend en bevreest aan .	Fear_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1846.s.1	pedrillo , hij geeft door tekenen te kennen , dat hij gevaar loopt , om gehangen te worden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1849.s.1	Maar , Blondjen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1849.s.3	de ladder !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1849.s.4	Zijt gij wel zo veel waard ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1855.s.1	Loop gek !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1855.s.2	wat wilt gij praaten !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1855.s.3	Gij moest die vraag mij latten , Dan ging het naar den aart .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1859.s.1	Maar vrind Osmijn ....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1863.s.1	Laat hooren .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1866.s.1	constanze , tegen Belmonte .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1868.s.1	Hebt gij de spraak verlooren ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1878.s.1	ô Neen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1878.s.2	maar wordt niet boos , Wanneer ik roekeloos Slechts om 't gerucht , het waage , U siddrend , beevend vraage : Of gij den Bassa mint ?	Fear_Emotion_BodilyProcess_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.1886.s.1	Dorst vrind Osmijn , te loos , Ofschoon gij 't niet verkoos , Als heer niet iets te waagen , Dat ik u eerst zou vraagen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1886.s.2	Ik weet hij u bemind .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1890.s.1	constanze , schreijende .	Offended_BodilyProcess_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.1892.s.1	Hoe grieft gij mij , mijn vrind !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1895.s.1	blonde , hem een oorvijg geevende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1897.s.1	Daar , hebt gij 't antwoord , vrind !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1900.s.1	pedrillo , zijn hand op de wang houdende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1902.s.1	Nu ben ik gantsch verlicht .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1905.s.1	belmonte , knielende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1907.s.2	ach vergeef !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1910.s.1	blonde , Pedrillo toornig verlaatende .	Emotion_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.1912.s.1	Ik ken te wel mijn pligt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1915.s.1	constanze , zich zuchtende van Belmonte verwijderende .	Aquiescence_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.1917.s.1	Wie was 't die trouwer bleef ?	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.1919.s.1	Eerst alleen , daar na allen te saamen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1922.s.1	blonde , tegen Constanze .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1925.s.1	Die twijflaar vraagt mij nog : Of Osmijn iets kon winnen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1928.s.1	constanze , tegen Blonde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1931.s.1	En Belmont twijffelt , och !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1931.s.2	Ik zou den Bassa minnen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1934.s.1	pedrillo , de hand vóor de wang houdende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1937.s.1	Wordt Blondjen eens mijn vrouw , 'k Durf op haare eer dan zweeren .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1940.s.1	belmonte , tegen Pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1943.s.1	Constanze is mij getrouw , Geen twijfling kan haar deeren .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1949.s.1	blonde en constanze .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1954.s.1	Als mannen ons verdenken , Onze eer door argwaan krenken , Der vrouwentrouw versmaên , Dan moet men ben weêrstaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1963.s.1	Als 't vrouwen reeds kan krenken , Dat mans haare eer verdenken , Dan lagcht haar deugd ons aan , En de eisschen zijn voldaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1970.s.1	Kunt gij , Blonde 't mij vergeeven ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1970.s.2	'k Moet meer voor mijn hoofd thans beeven .	Fear_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.1970.s.3	Dan ik voor uw straks deedt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1976.s.5	Zoudt gij mij nu niet vergeeven , Dat ik deeze vraage deedt ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1982.s.1	Neen : gij dorst , te snood , gelooven , Dat ik iets , mij nooit te ontrooven , Aan dien ouden had besteed .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1988.s.1	Belmont !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1988.s.2	hoe !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1988.s.3	gij kunt gelooven , Dat men mij een hart zou rooven , Dat ik had aan u besteed .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1995.s.2	vergeef het !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.1995.s.3	Zie mijn rouwe !	Emotion_Sadness_Remorse
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.1999.s.1	constanze en blonde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2009.s.1	Ik vergeef het Aan uw rouwe .	Emotion_Sadness_Remorse
+bren001scha01_01.TEI.2.text.body.div.div.sp.2009.s.3	Braaf !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2009.s.4	nu 's alles afgedaan !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2009.s.5	Nu leeve de liefde !	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.2009.s.6	Zij blijve op den duur , zoet !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2009.s.7	Niets stooke den vuurgloed Van minnenijd aan !	Emotion_Envy_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.stage.2011.s.1	Einde van het Tweede Bedrijf .	None
+bren001scha01_01.TEI.2.text.body.div.head.2015.s.1	Derde bedrijf .	None
+bren001scha01_01.TEI.2.text.body.div.stage.2017.s.1	Het Tooneel verbeeld een open plaats voor het Paleis van den Bassa .	None
+bren001scha01_01.TEI.2.text.body.div.stage.2017.s.2	Aan de eene zijde bevindt zich gemeld Paleis , aan de andere zijde de wooning van Osmijn .	None
+bren001scha01_01.TEI.2.text.body.div.stage.2017.s.3	In het verschiet de Zee .	None
+bren001scha01_01.TEI.2.text.body.div.stage.2017.s.4	Het is middernacht .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2022.s.1	pedrillo , klaas draagende een ladder .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2025.s.1	Zo , waarde Klaas !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2025.s.2	leg de ladder hier maar neder , en haal nu de andere maar van boord .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2025.s.3	Maar vooral zacht , dat ' er geen gerucht gemaakt worde : want het is hier nu , in den volsten zin : Vrijheid !.. of de dood !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2028.s.1	klaas .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2029.s.1	Laat mij maar begaan , ik versta mij ook een weinigjen op die zaak .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2029.s.2	Hadden wij u allen maar aan boord .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2033.s.2	waarde vrind !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2033.s.3	ik geloof , dat wanneer wij met onze buit gelukkig in spanjen mogen aanlanden , Belmonte u in goud zal laaten beslaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2038.s.1	Evenwel niet in heet goud , want dat zou mijn blanke vel kunnen kwetsen , en dat zou jammer zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2038.s.2	Maar dat zal zich alles wel schikken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2038.s.3	Ik ga om de ladder .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2042.s.1	pedrillo , alleen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2045.s.1	ô Indien ik zeggen zou , dat mijn hart nu niet klopte , dan zou ik verschrikkelijk liegen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2045.s.2	Die duivelsche Turken verstaan in het minst geen spotternij ; en ofschoon de Bassa een Renegaat is , zo is hij toch , wanneer het op het koppenklooven aankomt , een volkomen Turk .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2045.s.3	( Klaas brengt de tweede ladder . ) Zo , braave Klaas !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2045.s.4	ligt nu uwe ankers maar , haal de zeilen in top , want eer een half uur verloopen is , hebt gij uwe volkomene laading .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2049.s.1	Bezorg ze maar spoedig , en laat dan verder de zorge mij aan bevolen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2058.s.2	- ik moet adem haalen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2058.s.3	- Mijn hart wordt te saamen getrokken , even of ik het grootste schelmstuk moest uitvoeren .	Fear_BodyPart_BodilyProcess_Other
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2058.s.4	- Maar !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2058.s.5	waar blijft mijnheer toch !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2063.s.1	belmonte , roepende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2068.s.2	daar is hij , als of hij geroepen was .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2072.s.1	Is alles gereed ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2077.s.1	Alles .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2077.s.2	Thans wil ik een weinig rondom het Paleis recognosceeren , om te zien , hoe daar alles uitziet .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2077.s.3	Zingt intusschen eens : ik heb dat alle avonden gedaan ; en wanneer gij iemand gewaar wordt , of ontmoet ; want alle uuren gaat hier een wagt van Janitzaaren rond : zo behoeft gij u , dien aangaande , niet te bekommeren , want ze zijn dit van mij reeds gewoon .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2077.s.4	En het is vast beter , dat men ons , op die wijze aantreft , dan dat men ons in stilte hier vindt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2081.s.1	Laat dit aan mij , en kom spoedig weder .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2087.s.1	belmonte ,	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2088.s.3	hoe klopt mij het harte !	Fear_BodyPart_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2088.s.4	Hoe meer het oogenblik nadert , hoe meer angst ' er in mijne ziele ontstaat !	Fear_Emotion_BodyPart
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2088.s.5	Ik vreeze en wensche , beeve en hoope .	Fear_Emotion_Hope_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2088.s.6	ô Liefde !	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2088.s.7	zijt gij mijne leidsvrouw !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2097.s.1	Ik voel mijn hoop door u versterken , 'k Vertrouw , ô Liefde !	Emotion_Hope_Love
+bren001scha01_01.TEI.2.text.body.div.div.lg.2097.s.2	op uwe magt .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2097.s.3	Daar gij zo veele wonderwerken , Reeds dikmaals hebt tot stand gebragt .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2097.s.4	't Geen ieder mensch onmooglijk scheen , Bragt gij , ô Liefde !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2097.s.5	toch bij een .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2105.s.1	Alles ligt op één oor .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2105.s.2	Het is zoo stil en zoo gerust overäl , als of het den eersten dag na den zondvloed ware .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2109.s.1	Welaan , dat wij haar dan nu in vrijheid stellen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2109.s.2	Waar is de ladder !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2113.s.1	Niet zo driftig , Ik moet eerst het teken geeven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2117.s.1	Wat belet u dan nog , om het doen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2117.s.2	Maak toch voort !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2121.s.1	pedrillo , op zijn Horologie ziende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2122.s.1	Juist van pas , op slag van twaalven !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2122.s.2	Ga daar op den hoek , en draag wel zorg , dat wij niet verrast worden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2127.s.1	Talm maar niet .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2130.s.1	Belmonte gaat aan het einde van het Tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2133.s.1	pedrillo , zijne Mandoline voor den dag haalende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2138.s.1	De stoutmoedigheid is toch een drommelsche aartige zaak !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2138.s.2	Wie ze niet bezit , kan ze met alle moeite maar niet verkrijgen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2138.s.3	Wat klopt mijn hart !	Fear_BodyPart_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2138.s.4	tik , tak , tik , tak .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2138.s.5	Mijn vader moet zeker een aarts-bloodaart , of een smit zijn geweest , want anders was dat kloppen onmogelijk .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2138.s.6	( Hij begint te speelen . ) Nu , ik zal het dan waagen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2138.s.7	( Geduurende het zingen speelt hij op de Mandoline . )	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.head.2141.s.1	Romanze .	None
+added-3.s.1	Een lieve meid , gitzwart van haair , Het aanzicht blank en rood , In moorenland gevangen waar , Riep dag en nacht , met groot misbaar , ‘ Wie helpt mij uit den nood . ’	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2155.s.1	Toen sprong uit vreemde landen voort , Een Ridder voor den dag : Die , door baar klaagstem aangespoord : Haar toeriep : ‘ 'k waag mijn hoofd en woord , ‘ Als ik u redden mag . ’	None
+bren001scha01_01.TEI.2.text.body.div.div.p.2156.s.1	Tot heden gaat alles nog goed .	None
+bren001scha01_01.TEI.2.text.body.div.div.p.2156.s.2	Ik hoor niets .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2160.s.1	belmonte , terug komende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2161.s.1	Maak een eind Pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2167.s.1	Het hapert geenzins aan mij , dat zij niet voor der dag komen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2167.s.2	Een van beiden is zeker , of zij slaapen vaster dan ooit ; of de Bassa is bij de hand .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2167.s.3	Wij zullen verder de proef neemen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2167.s.4	Blijf gij intusschen op uwen post .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2167.s.5	( Belmonte gaat weder te rug . )	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2175.s.1	‘ Ik kom in 't midden van den nacht , Tot u ; laat mij dan in .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2175.s.2	Ik vrees geen slot , geen muur , geen wacht , Hola !	Fear_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.lg.2175.s.3	hoor toe !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2175.s.4	om middernacht , Dan gaat het naar uw ' zin . ’	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2182.s.1	Hij sprak : hij kwam , toen 't twaalf sloeg .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2182.s.2	De Ridder liet niets na .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2182.s.3	Zij reikte hem de hand , en loeg .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2182.s.4	Men vond haar leêge plaats heel vroeg .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2182.s.5	Voort was zij : Heisasa !	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2184.s.1	Pedrillo hoest eenige maalen , Constanze opent het vengster .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2187.s.1	Zij doet open , mijnheer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2187.s.2	- Zij doet open .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2191.s.1	Ik kom !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2195.s.1	constanze , boven aan het vengster .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2201.s.2	Hier ben ik .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2201.s.3	- spoedig de ladder !	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2204.s.1	Pedrillo plaatst de ladder tegens het vengster van Constanze ; Belmonte klimt naar boven , wordende de ladder door Pedrillo vast gehouden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2209.s.1	Welk eene vreesselijke vertooning !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2209.s.2	( Hij ligt de hand op zijn hart . ) Het wordt hier hoe langer hoe erger , om dat het nu regt ernst wordt .	Fear_EmotionalAction_BodyPart
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2209.s.3	Wanneer zij mij hier eens aantroffen , hoe schoon zouden zij met mij omgaan ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2209.s.4	Kop af , spietsen , of hangen , ziedaar het gunstig vooruitzicht voor deezen mijnen getrouwen dienst !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2209.s.5	Dan , het begin is nu gemaakt , en te rug te keeren , is bijna onmogelijk .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2209.s.6	Het moet ' er dan nu mede door : Vrijheid !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2209.s.7	- of de dood !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2209.s.8	- Evenwel het laatste liever niet .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2213.s.1	belmonte , met Constanze beneden de deur uitkomende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2214.s.1	Nu , mijn lieve Constanze !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2214.s.2	nu heb ik u weder .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2214.s.3	Thans zijt gij weder geheel in mijne magt , en niets zal ons meer scheiden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2218.s.2	Hoe vreeslijk klopt mijn hart !	Fear_BodyPart_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2218.s.3	Ik ben naauwelijks in staat om staande te blijven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2218.s.4	Als wij maar gelukkig ontkomen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.1	Toe , toe , maakt voort !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.2	nu niet te praaten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.3	Als wij nu lang raadpleegen en zuchten , dan steekt de duivel of Osmijn , toch een stok in het wiel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.4	( Hij stoot Belmonte en Constanze voort . ) Toe , spoedig naar het strand !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.5	ik zal u daadelijk volgen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.6	( Belmonte en Constanze vertrekken . ) Nu , kleine liefdegod !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.7	magtige hartedief !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.8	houd gij nu de ladder vast ; en bedek mij , beneevens al dit tuig , met eenen dikken nevel , op dat geene turksche oogen , deeze onderneeming mogen zien , ( Geduurende het uitspreeken van de voorgaande woorden , heeft hij de ladder voor het vengster van Blonde , of de wooning van Osmijn , geplaatst , en is tot boven aan op geklommen . ) Blondjen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.9	Blondjen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.10	doe toch om 's Hemel wil open .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.11	Talm niet !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.12	want het is om hals en keel te doen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2231.s.13	( Het vengster wordt geöpend en hij klimt ' er in . )	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2237.s.1	Osmijn en een stomme Moor komen ter zijde , uit Osmijns huis , in het welk Pedrillo geklommen is .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2237.s.2	Osmijn nog half slaapdronken , heeft een lamptaarn .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2237.s.3	De stomme geeft aan Osmijn , door tekenen , te verstaan , dat het niet in orde is ; dat hij lieden gehoord heeft , enz.	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2240.s.1	Hoort gij gerucht ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2240.s.2	- Wat zal dat zijn ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2240.s.3	Mogelijk landloopers !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2240.s.4	- Ga heen , en zie overäl rond - en breng mij dan bericht .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2244.s.1	De stomme gaat het Tooneel rond , luistert hier en daar ; eindelijk wordt hij de ladder gewaar , welke tegen het vengster van Blonde staat : hij verschrikt , en toont dezelve aan Osmijn , die half slaapende , met de lamptaarn in de hand , tegens de post van de huisdeur leunende , staat te knikken .	Fear_Emotion_Wonder
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2249.s.2	wat is dat ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2249.s.3	- Wie durft in mijn huis klimmen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2249.s.4	- Dat zijn dieven , of moordenaars !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2249.s.5	( Hij loopt waggelende en slingerende over het Tooneel , en daar hij nog half slaapdronken is , sloot hij zich nu hier dan daar . ) Spoedig !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2249.s.7	haal de wacht !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2249.s.8	Ik zal hier intusschen oppassen .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2252.s.1	De stomme vertrekt .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2252.s.2	Osmijn plaatst zich tegen de ladder , houd de lamptaarn in de hand , en valt weder in slaap .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2252.s.3	Pedrillo agterwaards uit het venster komende , treed de ladder af , tot op den schouder of het hoofd van Osmijn : te gelijker tijd ziet Blonde , welke gereed staat om Pedrillo te volgen , dat Osmijn tegen de ladder staat , en roept tegen Pedrillo .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2255.s.2	- Pedrillo !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2255.s.3	- Wij zijn verlooren !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2259.s.1	pedrillo , merkende dat ' er iemand tegens de ladder staat , ziet om , en wordt Osmijn gewaar : waarop hij daadelijk verschrikt , weder het vengster inklimt .	Fear_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2260.s.2	welk een duivel heeft zich tegens ons verzwooren ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2265.s.1	osmijn , hij klimt Pedrillo op de ladder na .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2270.s.1	pedrillo , in 't opklimmen tegen Blonde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2271.s.1	Terug !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2271.s.2	terug !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2275.s.1	osmijn , nog boven op de ladder .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2276.s.1	Wagt gaauwdief !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2276.s.2	gij zult mij niet ontkomen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2276.s.3	Help !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2276.s.4	help !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2276.s.6	dieven !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2276.s.8	Wachten , spoedig help !	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2279.s.1	Pedrillo en Blonde koomen de deur beneden uit , terwijl Osmijn om hulp roept .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2279.s.2	- Zij zien sidderende na de ladder , en sluipen onder dezelve door .	Fear_BodilyProcess
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2284.s.1	pedrillo en blonde , in 't heengaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2285.s.2	sta ons bij !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2285.s.3	anders zijn wij verlooren !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2289.s.4	spoedig toch , maak voord !	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2292.s.1	Hij wil hen naloopen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2295.s.1	wachts , met fakkels , Osmijn tegenhoudende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2296.s.3	- waar naar toe ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2300.s.1	Daar naar toe !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2300.s.2	daar naar toe !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2303.s.1	de wachts .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2304.s.1	Wie zijt gij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2308.s.1	Vraagt mij toch niet langer , want anders komen die schelmen nog weg .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2308.s.2	Ziet gij dan niet ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2308.s.3	Daar staat de ladder oogt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2313.s.1	Dat zien wij wel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2313.s.2	Maar kunt gij die zelfs daar niet gezet hebben ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2317.s.2	kent gij mij dan niet ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2317.s.3	Ik ben Opzichter over de tuinen van den Bassa .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2317.s.4	Wanneer gij nog langer vraagt , dan zou het beter zijn , indien gij in 't geheel niet gekomen waart .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2322.s.1	Hal ha !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2322.s.2	eindelijk weêr terug !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2322.s.4	Zie ik regt ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2322.s.5	- Hoe !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2322.s.6	gij beiden ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2322.s.7	( Tegens Pedrillo . ) Ha schelm !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2322.s.8	uw kop heeft den langsten tijd reeds vastgestaan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.stage.2319.s.1	Eenige Wachts brengen Pedrillo en Blonde terug .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2328.s.1	Hoor eens , broeder Osmijn !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2328.s.2	Gij kunt immers wel boerterij verstaan ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2328.s.3	Ik wilde enkel een weinig met uw meisjen rondwandelen , om dat gij heden daar niet zeer geschikt toe waart .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2328.s.4	Gij weet het immers wel ( ter zijde tegen Osmijn . ) wegens den cijperschen wijn !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2332.s.1	Schurk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2332.s.2	meent gij mij te bedriegen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2332.s.3	Hier versta ik geene spotternij !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2332.s.4	uw kop moet af , zo waar ik een Muzelman ben.	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2337.s.1	En hebt gij daar eenig voordeel bij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2337.s.2	Wanneer ik mijn hoofd verlies , zit uw hoofd daar door dan zo veel te vaster ?	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2340.s.1	Een ander gedeelte van de Wacht , mede met fakkels voorzien , brengt Belmonte en Constanze terug .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2343.s.1	belmonte , zich nog verweerende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2344.s.2	laat mij los .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2348.s.3	jonge heer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2348.s.4	men komt hier zo gemakkelijk niet van daan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2354.s.3	Het gezelschap wordt hoe langer hoe grooter .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2354.s.4	Heeft mijnheer de bouwmeester ook eens een wandelingjen willen doen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2354.s.5	ô Gij schelmen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2354.s.6	Had ik geen gelijk ( tegen Belmonte . ) dat ik u niet in huis wilde laaten ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2354.s.7	Nu zal de Bassa zien welke braave lieden hij in zijnen dienst genomen heeft .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2358.s.1	Wij zullen daar thans niet over spreeken !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2358.s.2	Laat hooren , of men op geene redelijke wijze met u kan handelen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2358.s.3	Zie daar een beurs met zechinen ; hij is voor u , en nog tweemaal zo veel , indien gij ons los laat .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2362.s.2	laat u beweegen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2369.s.1	Ik geloof dat gij raazend zijt !	Emotion_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2369.s.2	Geld hebben wij niet noodig , dat hebben wij buiten u .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2369.s.3	Maar uwe koppen moeten wij hebben .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2369.s.4	( Tegens de Wachts . ) Sleept hen daadelijk naar den Basa !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2374.s.1	belmonte en constanze .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2375.s.1	Wees toch barmhartig !	Emotion_Compassion
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2375.s.2	Laat u beweegen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2379.s.1	Voor niets in de waereld !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2379.s.2	Ik heb lang gewenscht , om zulk een oogenblik eens te mogen aantreffen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2379.s.3	Thands is het mij gelukt .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2382.s.1	De Wachts brengen Belmonte , Constanze , Pedrillo en Blonde weg .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2402.s.2	ô Hoe zal ik zegepraalen !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2402.s.3	Als ze u naar de rechplaats haalen , Met de koorden om de keel ' .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2402.s.4	Hupplen zal ik , lagchen , springen , En een vrolijk liedjen zingen , Want nu wordt de rust mijn deel .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2402.s.5	Sluipt nu weêr weg , zonder druissen , Gij vervloekte harans muizen !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2402.s.6	ô Ons oor ontdekte u schoon , En eer gij ons kunt ontspringen , Zult ge op andre toonen zingen .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2402.s.7	Gij ontvangt welhaast uw loon .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2402.s.8	ô Hoe zal ik , enz.	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2404.s.1	Einde van het Derde Bedrijf .	None
+bren001scha01_01.TEI.2.text.body.div.head.2408.s.1	Vierde bedrijf .	None
+bren001scha01_01.TEI.2.text.body.div.stage.2410.s.1	Het Tooneel verbeeld een prachtige transpirant geillumineerde Zaal van den Bassa .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2416.s.1	selim , met zijn Gevolg : vervolgens osmijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2419.s.1	selim , tegen een Officier .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2420.s.1	Ga heen en onderzoek eens wat dit gerucht in het Paleis beduid .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2420.s.2	Het heeft ons in den slaap verschrikt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2420.s.3	En laat Osmijn hier komen .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2423.s.1	De Officier wil vertrekken , intusschen komt Osmijn driftig aanloopen , zijnde echter nog eenigzins slaapdronken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2426.s.1	Vergeef het mij .... mijnheer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2426.s.2	- dat ik het zo vroeg waage ... om uwe rust te stooren .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2430.s.1	Wat is het , Osmijn ?...	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2430.s.2	Wat wilt gij ?..	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2430.s.3	Wat beduid dat gerucht .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2434.s.2	de schandelijkste verraderij heeft in uw Paleis plaats ....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2438.s.1	Verraderij ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2443.s.1	Die lafhartige Christenslaaven , hebben onze vrouwen ... verleid .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2443.s.2	De groote bouwmeester , welke gij gisteren , op het loflijk getuigenis van den verrader Pedrillo , hebt aangenomen , heeft uwe ..... schoone Constanze geschaakt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2447.s.2	geschaakt ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2447.s.3	hemel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2447.s.4	Zet hun na ... zet hun na .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2451.s.1	ô Daar is reeds voor gezorgd .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2451.s.2	Gij hebt het aan mijne waakzaamheid te danken , dat wij hen weder bij den kraag gekreegen hebben .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2451.s.3	- Ook aan mij .... heeft de schurk Pedrillo ... eene gelijke eer beweezen ; ... en had mijne Blonde reeds bij den arm .... om met haar de waereld eens rond ... te wandelen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2451.s.4	Maar gif en dolk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2451.s.5	hij zal het mij ontgelden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2451.s.6	Zie , daar brengen zij hen .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2460.s.1	selim , osmijn , belmonte en constanze .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2460.s.2	De laatste worden door Wachts binnen gebragt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2464.s.2	verrader !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2464.s.3	is het mogelijk ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2464.s.4	- ô Gij bedriegelijke sijrene !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2464.s.5	Was dat het uitstel dat gij van mij be-geerde ?	Emotion_Desire
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2464.s.6	Misbruikte gij zo mijne toegeevendheid , om mij te bedriegen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2468.s.1	Ik ben strafbaar in uwe oogen ; ik erken dit , mijnheer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2468.s.2	Maar het is mijne geliefde , mijn eenige geliefde , aan wien ik reeds lang mijn hart verpande .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2468.s.4	alleen voor hem ; enkel om zijnent wille , verzogt ik u om uitstel .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2468.s.6	laat mij sterven !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2468.s.7	gaerne , zeer gaerne , zal ik den dood ondergaan , maar verschoon zijn leven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2472.s.1	En gij waagt het , onbeschaamde !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2472.s.2	om mij voor hem te bidden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2476.s.1	Nog meer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2476.s.2	om voor hem te sterven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2480.s.1	ô Bassa !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2480.s.2	Nimmer heb ik mij vernedert om iemand te bidden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2480.s.3	Nimmer heeft deeze knie zich voor een mensch geboogen : maar nu .... nu lig ik hier aan uwe voeten , en smeek u , om medelijdend te willen zijn .	EmotionalAction_Sadness_Desire
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2480.s.4	Ik ben oorsponglijk uit een aanzienlijk geslachte in spanjen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2480.s.5	Men zal alles voor mij betaalen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2480.s.6	Wees zo goed , en bepaal den losprijs voor mij , en voor mijne Constanze , zo hoog gij wilt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2480.s.7	Mijn naam is Lostados .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2484.s.1	selim , verbaast .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2485.s.1	Wat hoor ik !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2485.s.2	- De Commandant van Oran , is u die bekend ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2490.s.1	Die is mijn vader !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.1	Uw vader !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.2	Welk een gelukkige dag !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.3	De zoon van mijn ergsten vijand in mijne magt te hebben !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.4	Kon ' er immer wel iets aangenaamer zijn ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.5	Weet , rampzalige !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.6	uw vader , die barbaar !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.7	was oorzaak , dat ik mijn vaderland heb moeten verlaaten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.8	Zijne onbuigzaamheid ontrukte mij eene geliefde , die ik hooger dan mijn leven waardeerde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.9	Mij ontnam mij mijne ambten , beroofde mij van mijn vermogen , van alles ; in 't kort , bij vernietigde al mijn geluk !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.10	En de eenige zoon van dien man , heb ik heeden in mijne magt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2494.s.11	Stel u in mijne plaats : Wat zoudt gij doen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2498.s.1	belmonte , geheel ter nedergeslaagen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2499.s.1	Mijn noodlot zoude te beklaagen zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2505.s.1	Dat zal het ook zijn !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2505.s.2	Even zo als hij met mij gehandeld heeft , zal ik met u handelen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2505.s.3	Volg mij Osmijn , ik zal u de bevelen tot hunne straffe daadelijk geeven .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2505.s.4	( tegens de Wachts , ) Bewaart hen wel !	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2512.s.1	belmonte , constanze .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2522.s.1	Welk een noodlot !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2522.s.2	ô welk een smarte !	Emotion_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.2522.s.3	Heeft zich dan alles tegen mij verzwooren ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2522.s.6	door mij zijt gij verlooren .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2522.s.7	ô Welk een pijn !	BodilyProcess_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.2529.s.2	mijn geliefde !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2529.s.3	neem dit zo niet ter harte !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2529.s.4	Wat is de dood ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2529.s.5	' Er moet een rustplaats zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2529.s.6	En dan aan uwe zijde Geeft hij een voorsmaak van hoogst geluk .	Emotion_Happiness
+bren001scha01_01.TEI.2.text.body.div.div.sp.2536.s.2	mijn lief !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2536.s.3	gij voert mij ten strijde .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2536.s.4	En stort een troost in mijn verleegen hart : Gij leenigt reeds mijn grootste smart .	Joy_Emotion_BodyPart_BodilyProcess_Relief_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.2536.s.5	Maar ach !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2536.s.6	uw ramp , die alles tart ....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2546.s.1	Mijnentwegen zult sterven !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2546.s.4	zou 'k mijne oogen , Nog op d ' uwe vesten mogen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2546.s.5	Ik veröorzaak u den dood .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2554.s.2	gij sterft mijnentwegen , Ik slechts kond ' uw ' heil bederven , En ik zou niet met u sterven ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2554.s.3	- Neen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2554.s.4	dat onrecht waar te groot .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2556.s.1	Beiden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2561.s.1	Enkel , slechts voor u te leeven , Waar het doel van al mijn streeven , Zonder u , is 't wreede pijn , Langer op deez ' aard te zijn .	BodilyProcess_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.2565.s.1	Gaerne wil ik alles lijden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2569.s.1	'k Sterf gerust , en vol verblijden ,	Joy_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.2573.s.1	Als ik aan uw zijde sneev ' .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2577.s.1	Om u geliefde ,	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2581.s.1	Om u mijn liefste ,	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2590.s.1	Ik met vreugd mijn leven geev ' .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2590.s.2	ô Heil !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2590.s.3	onze achting waard ' , Na zo veel leed en zwoegen , Zien wij ons 't samen voegen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2590.s.4	Met oogen vol genoegen Verlaaten wij deez ' aard !	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2596.s.1	belmonte , constanze , pedrillo , blonde , de laatste worden door een ander gedeelte van de Wacht binnen geleid .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2600.s.3	wij zijn verlooren !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2600.s.4	Aan redding moeten wij niet meer denken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2600.s.5	Men mankt reeds alle toebereidzelen , om ons uit de waereld te helpen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2600.s.6	Het is verschrikkelijk , zo als ze met mij willen handelen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2600.s.7	In het voorbij gaan , hoorde ik , dat ik in olij gekookt , en dan gespietst zal worden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2600.s.8	Waarlijk , een heerlijk tractement !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2600.s.12	wat zullen ze met u niet doen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2604.s.1	Dat is mij thands geheel onverschillig .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2604.s.2	Daar ik toch éêns moet sterven , kan de wijze hoe , mij thans niet verscheelen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2608.s.1	Welk eene standvastigheid !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2608.s.2	Ik ben toch ook van een goed en oud christelijk geslacht in Spanjen afkomstig , maar zo onverschillig kan ik , omtrent den dood , niet zijn .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2608.s.3	Zijn alle uwe landgenooten , de Hollanders , zo onverschrokken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2608.s.4	- De duivel mag weeten ....... maar , ô hemel !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2608.s.5	hoe kan mij de duivel nu nog op de tong komen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.head.2612.s.1	Laatste tooneel .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2615.s.1	belmonte , constanze , selim , pedrillo , blonde , osmijn geheel verheugd .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2615.s.2	Gevolg van den Bassa .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2615.s.3	Wachten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2618.s.1	Wel nu slaaf !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2618.s.2	Rampzalige slaaf !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2618.s.3	Siddert gij ?	Fear_EmotionalAction
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2618.s.4	Verwagt gij uw vonnis ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2623.s.1	Ja , Bassa , met even zo veel koelheid , als gij het met hitte kunt uitspreeken .	Aquiescence_Emotion_BodilyProcess_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2623.s.2	Koel uwe wraake aan mij ; delg het onrecht uit , dat mijn vader u gedaan heeft - ik verwagt alles , en zal u niet berispen .	Emotion_EmotionalAction_Vindictiveness
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2627.s.1	Het moet uw geslachte dan geheel en al eigen zijn , onrechtvaardigheden te begaan , wijl gij dat vonnis reeds zo zeker voorondersteld .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2627.s.2	Maar gij bedriegt u .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2627.s.3	Ik heb veel te veel afkeerigheid voor het gedrag van uwen vader opgevat , dan dat ik in zijne voetstappen zoude kunnen treden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2627.s.4	Ik schenk u uwe vrijheid ; neem Constanze ; vertrek naar uw vaderland ; en zeg aan uwen vader , dat gij in mijne magt waart , dat ik u de vrijheid heb geschonken , om hem te kunnen zeggen : dat het mij tot veel grooter vermaak verstrekt , geleeden ongelijk , door weldaaden te kunnen vergoeden , dan kwaad met kwaad te vergelden .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2631.s.2	gij verbaast mij ten hoogste !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2635.s.1	selim , hem met verachting aanziende .	Emotion_Disgust
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2636.s.1	Dat geloof ik .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2636.s.2	Maar , vertrek ; en zo gij eenigzins menschelijker word , dan uw vader , dan zal ik mijne gunst genoeg beloond achten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2640.s.1	Vergeef het mij , mijnheer !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2640.s.2	tot hoeden waardeerde ik de grootheid uwer ziele , maar nu bewonder ik ....	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2647.s.1	Stil !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2647.s.2	voor de valschheid welke gij aan mij hebt betoond , wensch ik , dat het u nimmer moge berouwen , dat gij mijn hand en hart hebt afgeslaagen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2647.s.3	( Hij wil vertrekken , doch Pedrillo treed hem re gemoete en valt hem te voet . )	EmotionalAction_Desire_Despair
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2651.s.2	durven wij , ongelukkigen !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2651.s.3	het ook wagen , om uwe genade te verzoeken ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2651.s.4	- Ik was van mijne jeugd af aan , een trouw dienaar van mijnheer .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2655.s.3	laat u van dien vervloekten vlijer niet bedriegen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2655.s.4	Geene genade aan hem !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2655.s.5	Hij heeft meer dan honderdmaalen den dood reeds verdiend .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2663.s.1	Hij mag denzelven dan in zijn vaderland zoeken !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2663.s.2	( Tegen de Wachts . ) Men vergezelle hen alle vier tot aan het schip .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2663.s.3	( Een papier aan Belmonte geevende . ) Ziet daar uw vrijgeleide !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2667.s.2	zal hij mijne Blonde ook mede neemen ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.speaker.2671.s.1	selim , schertssende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2672.s.1	Oude !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2672.s.2	hebt gij uwe oogen niet liever ?	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2672.s.3	- Ik zorg beter voor u , dan gij wel denkt .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2676.s.2	Barsten zal ik van kwaadheid !	Emotion_BodilyProcess_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2681.s.1	Stel u gerust .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2681.s.2	Wie men door wel te doen niet kan winnen , die moet men van den bals schuiven .	None
+bren001scha01_01.TEI.2.text.body.div.div.head.2685.s.1	Vaudeville .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2694.s.1	Nooit zal ik uwe gunst vergeeten , Mijn dank blijve eeuwig u gewijd .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2694.s.2	Aan elke plaats , en 't allen tijd , Zal ik u groot en edel heeten .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2694.s.3	Verachting treffe en vrouw en man , Die zo veel gunst vergeeten kan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2708.s.1	Nooit zal ik , door den echt vereenigd , Vergeeten wat uw ' gunst mij schonk .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2708.s.2	Mijn hart , waar in de liefde blonk , Waardeert uw ' gift , die smarten leenigt .	Emotion_BodyPart_BodilyProcess_Love_Sadness
+bren001scha01_01.TEI.2.text.body.div.div.sp.2708.s.3	Verachting treffe en vrouw en man .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2708.s.4	Die zo veel gunst vergeeten kan .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2723.s.1	Indien ik immer kon vergeeten , Hoe veeg ik op de valreep stond , En welk een angst ik onderbond , Mijn duizlend hoosd zou 't mij doen weeten .	Fear_Emotion
+bren001scha01_01.TEI.2.text.body.div.div.sp.2739.s.1	Heer Bassa ! 'k dank u met genoegen , Voor spijs en drank en legersteê .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2739.s.2	ô Ik vertrek zeer wel te vreê , En 't zal Osmijntjes rust vervroegen .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2739.s.3	Beschouw hem eens : wat zegt ge ' er van , Of men zoo'n bok beminnen kan .	Emotion_Love
+bren001scha01_01.TEI.2.text.body.div.div.sp.stage.2736.s.1	Op Osmijn wijzende .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.2755.s.1	Verbranden moest men zulke honden , Die ons zo schandelijk verraên , Het is niet langer uit te staan : Mijn tong verstijft , als vast gebonden .	BodyPart_BodilyProcess_Anger_Vindictiveness
+bren001scha01_01.TEI.2.text.body.div.div.sp.2755.s.2	ô Mogr het naar mijn wenschen gaan ; Eerst onthoofd , Dan gehangen , Dan gespietst Aan heete stangen : Dan verbrand , Dan gebonden , Op 't laatst in zee Door 't nat verslonden .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2757.s.1	Hij vertrekt vol woede .	Emotion_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2761.s.1	Uwe dankbaarheid verrukt mij , ondanks de woede van dien ouden , die alleen zijne driften schijnt te volgen .	Joy_Emotion_BodilyProcess_Anger
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2761.s.2	Welaan Constanze !	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2761.s.3	ik zal toonen dat ik u mijne gunst niet ten halven wil schenken .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2761.s.4	Daar ik voorgenomen had , om u heeden tot mijne vrouw te neemen , zo waren de bevelen ook reeds gegeeven , om een bruiloftsfeest , naar onze gebruiken geschikt , in deeze Zaal te vieren .	None
+bren001scha01_01.TEI.2.text.body.div.div.sp.p.2761.s.5	Deeze bevelen moeten niet te vergeefsch gegeeven zijn : dat een vrolijke dans , daar dezelve onze liefde niet mag bekroonen , nu ten blijke van mijne volkomene vergeeving en vrindschap verstrekke !	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2771.s.2	De wraakzucht doet den mensch vernielen , Verwoest zijn heil : maar wijs beraad , Vergeeven zonder eigenbaat , Is slechts het werk van groote zielen .	Emotion_Vindictiveness
+bren001scha01_01.TEI.2.text.body.div.div.lg.2771.s.3	Hij , die alleen naar wraak wil staan , Dien zie men met verachting aan .	Emotion_Vindictiveness
+bren001scha01_01.TEI.2.text.body.div.div.lg.2778.s.2	Bassa Selim , leev ' voorspoedig .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2778.s.3	Ieder eer ' zijn braaf gedrag .	None
+bren001scha01_01.TEI.2.text.body.div.div.lg.2778.s.4	Hij blijv ' deugdzaam , hij blijv ' moedig Roem bekroon ' hem , elken dag .	None
+bren001scha01_01.TEI.2.text.body.div.div.stage.2780.s.1	Einde van het vierde en laatste Bedrijf .	None
+bren001scha01_01.TEI.2.text.body.div.head.2784.s.1	Inhoud van het ballet .	None
+bren001scha01_01.TEI.2.text.body.div.p.2820.s.1	Onder het speelen van een turksche marsch , verschijnen eenige Jamitsaaren en Moeren ; de eerste met koperen hekkens , de laatste met tambourijns , en andere turksche speeltuigen voorzien : met welken zij de muzijk accompagneeren .	None
+bren001scha01_01.TEI.2.text.body.div.p.2820.s.2	Daar op volgen eenige turksche mannen en vrouwen , draagende verschillende vrouwenkleederen en stoffen , als den gewoonen bruidschat zijnde .	None
+bren001scha01_01.TEI.2.text.body.div.p.2820.s.3	Hier op volgt constanze , in een draagzetel gedragen wordende , gevolgd van belmonte , benevenspedrillo en blonde , Vooraan op het Tooneel gekomen zijnde , plaatsen zich constanze en belmontein eene voor hen geplaatste Sopha , alwaar haar een mengzel van melk en honig wordt aangeboden : zettende pedrillo en blonde zich aan de andere zijde neder .	None
+bren001scha01_01.TEI.2.text.body.div.p.2820.s.4	Na den eersten dans verschijnt een cadi , of Richter , welke een lange stok aan constanzevertoont , welke zij in het midden van den grond helpt planten , wordende dezelve met een groenen krans , als mede met lange linten versierd : waar na een ronden Bruiloftsdans , om denzelven plaats heeft .	None
+bren001scha01_01.TEI.2.text.body.div.p.2820.s.5	Gedaurende deeze dans , komt de bassa , neemende zij-ne plaatse naast constanze ; waarna de turksche vrouwen den bruidschat , door haar aangebragt , constanzeaanbieden : wordende vervolgens , zo ter eere van den bassa , als ten genoege van constanzeen belmonte , door bovengemelde persoonen , beurtelings gedanst en alles door een groot Sluit .	None
+bren001scha01_01.TEI.2.text.body.div.p.2820.s.6	Ballet geëindigd .	None
+bren001scha01_01.TEI.2.text.body.div.cf.p.2824.s.1	Geen Exemplaaren zullen voor echt gehouden worden , dan die door den Secretaris van den Nationaalen Stads Schouwburg ondertekend zijn .	None

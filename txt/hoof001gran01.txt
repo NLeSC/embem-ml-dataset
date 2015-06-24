@@ -1,0 +1,790 @@
+hoof001gran01_01.TEI.2.text.body.div.head.885.s.1	P.C. Hooft GranidaSpel	None
+hoof001gran01_01.TEI.2.text.body.div.head.887.s.1	Inhoudt	None
+hoof001gran01_01.TEI.2.text.body.div.p.924.s.1	Granida eenige dochter , en erf-Princesse van Persia , op de jacht afgedwaelt van haren sleep , comt ter plaetsen daer sij Daifilo harder met Dorilea , die hij op minne vervolcht , vindt coutende ; dewelcke haer niet en cunnende onderrechten van het spoor der voorgereden jaegers , van haer gevraecht worden nae eenige fonteijne om den dorst te lesschen .	None
+hoof001gran01_01.TEI.2.text.body.div.p.924.s.2	Daifilo biedt de Princesse te drinken uit een schulp met soo heussche gene - genheit , dat deselve , gehulpen van soo weltepasse dienst , oock nae haer verscheiden van daer , der Prinssesse welgeval - lende naulijx uit den sinne gaet .	None
+hoof001gran01_01.TEI.2.text.body.div.p.924.s.3	Daifilo , ter ander sijden , besluit sich ten hove te begeven om de tegenwoordicheit , en diensten wille van soo waerdige Prinssesse .	None
+hoof001gran01_01.TEI.2.text.body.div.p.968.s.1	Daifilo , sich gegeven hebbende in dienst van Tisiphernes , op hoope dat die als een Prinsse van groote verdienste bij de croon van Persia , becomende het huwelijck van Granida , hij door dat middel aen haeren dienst mocht geraken , quijt hem soo dat sijn heer hem grootlijx vertrouwende , hem seijndt aen de Princesse , om haer jonste te hebben int eindelijck ver - soeck , dat hij nae soo lang vervolch om haer ging doen aen haeren vader ; alwaer hij ontseit wort van sijn tegenvrijer Ostrobas , soone van den coning der Parthen , tegens de welcke hij aenneemt des anderen daechs te vechten .	Emotion_Hope
+hoof001gran01_01.TEI.2.text.body.div.p.968.s.2	De Prinssesse soo becommert over 't aenstaende huwelijck , als beweecht door het nieu sien van Daifilo , comt dien avond aen de ven - ster , op geluck oft eenige passerende musijcke haer quellage wat versachten mochte , onder de welcke sij , door 't glas siende sonder gesien te wesen , hem passeren en hoorende versuchten , neemt het selve op voor teken van waerachtige liefde , haer daer - omme beclagende over d'ongelijckheit der staten des werelts .	EmotionalAction_BodilyProcess_Dissapointment_Desire
+hoof001gran01_01.TEI.2.text.body.div.p.994.s.1	Daifilo verclaert aen sijn heer sijn liefde , en d'oorsake waer - om hij in sijnen dienst gecomen is , hem biddende te lijden dat hij in sijn stede , en met sijn wapenen bedeckt , tegens den Parth moge strijden , tot het welcke hij hem met redenen be - weecht .	EmotionalAction_Desire_Despair
+hoof001gran01_01.TEI.2.text.body.div.p.994.s.2	Daifilo verwint en verslaet Ostrobas .	None
+hoof001gran01_01.TEI.2.text.body.div.p.994.s.3	Tisiphernes be - sluit des anderen daechs de Princesse te besoecken : maer Dai - filo , noch dien avondt onder haer venster passerende , wort door haer bevel geroepen van haer voedster .	None
+hoof001gran01_01.TEI.2.text.body.div.p.994.s.4	Sij ontdecken elckander haer onderlinge liefde .	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.p.994.s.5	Granida seyt gereedt om met hem te vertrecken , en een harderinnen staet getroost te sijn : welcke aenbiedinge hij , nae dat hij haer de swaericheden van sulx voor gehouden heeft , en verstaen de selve van haer al te vooren overwogen te sijn , met groote danckbaerheit aen - neemt .	Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.p.1024.s.1	De voedster van Granida , op haer sijde gewonnen sijnde , comt verclaren voor den Coning , ende Tisiphernes , dat de Princesse , met groot spoock , voor eenen Godt geschaeckt is .	None
+hoof001gran01_01.TEI.2.text.body.div.p.1024.s.2	Tisiphernes , siende op 't schoonste sijn hoop te leur gestelt , is om rasende te worden .	Emotion_Hope_BodilyProcess_Dissapointment_Anger
+hoof001gran01_01.TEI.2.text.body.div.p.1024.s.3	Maer Daifilo , die haestich ten hoof wedergekeert was om quaet vermoeden voor te comen , hem onderrechtende doet sijn gemoet wat bedaeren .	None
+hoof001gran01_01.TEI.2.text.body.div.p.1024.s.4	Hij noch - tans , walgende van de werelt , besluit met luttel geselschaps voortaen door 't landt te reisen , en verclaerende Daifilo waer - achtige verwinner van Ostrobas te wesen , levert hem sijnen staet over , dewelcke hij eerbiedelijck weigerende belooft gae - de te slaen , totter tijt toe , dat 's Prinssen gemoet wat besae - dighe .	BodilyProcess_Disgust
+hoof001gran01_01.TEI.2.text.body.div.p.1065.s.1	De geest van Ostrobas verschijnt aen sijnen vriendt Arta - banus , die met hem in Persia was gecoomen , hem opstutsende , om wrake te nemen op Daifilo , dewelcke den eersten mor - genstondt op 't landt met de Prinssesse sprekende , van hem en sijn volck , beijde gevangen worden om opgeoffert te sijn aan het graf van Ostrobas .	None
+hoof001gran01_01.TEI.2.text.body.div.p.1065.s.2	Maer Daifilo , siende d'overlast van banden diemen de Prinssesse aendede , breeckt de sijne , te weere rakende tegens sijn vianden ; op welck gerucht Tisi - phernes , die bij geval niet verre van daer sijnen wech volchde , de gelieven comt ontsetten , dewelcke bekent sijnde , beclagen haer deerlijck dat d'eene ramp d'ander jagende , het Geluck wel hardneckelijck scheen besloten te sijn tot haer bederf .	None
+hoof001gran01_01.TEI.2.text.body.div.p.1065.s.3	Maer d'eedelhartighe Prinsse , in plaets van hem tegens haer te verbitteren , verwondert sich over haer selsaeme liefde , en gebiedende haer goeden moedt te hebben , belooft en vercrijcht haer haeren soen van den Coning , diese beijde met blijen wellecoom onthaelende te saemen huwt .	Emotion_Love_Wonder
+hoof001gran01_01.TEI.2.text.body.div.head.1068.s.1	Personagien	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1070.s.1	granida	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1072.s.1	daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1074.s.1	tisiphernes	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1076.s.1	dorilea	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1078.s.1	coning	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1080.s.1	ostrobas	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1082.s.1	artabanus	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1086.s.1	voedster	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1090.s.1	rey van joffrouwen	None
+hoof001gran01_01.TEI.2.text.body.div.list.item.1094.s.1	rey van harderinnen	None
+hoof001gran01_01.TEI.2.text.body.div.p.1103.s.1	vs. 1 -4	None
+hoof001gran01_01.TEI.2.text.body.div.div.head.1107.s.1	Eerste deel	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.1	Het vinnich stralen van de Son Ontschuil ick in 't bosschage ; Indien dit bosje clappen con , Wat melde 't al vryage !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.2	Vryage ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.3	Neen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.5	Jae , Vryage sonder menen ; Van hondert harders ( ist niet schae ? ) Vindtm'er getrouw niet eenen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.6	Een wullepsch knaepjen altijt stuirt Nae nieuwe lust sijn sinnen : Niet langer als het weygeren duirt , Niet langer duirt het minnen .	EmotionalAction_BodilyProcess_Love_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.7	Mijn hartje treckt mij wel soo seer , Soo seer , dorst ick het wagen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.8	Maer neen , ick waeg ' het nemmermeer , Haer minnen sijn maer vlaegen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.9	Maer vlaegen , die t'hans overgaen , En op een ander vallen ; Nochtans , ick sie mijn vryer aen Voor trouste van haer allen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.10	Maer oft 't u miste domme maeght , Ghy siet hem niet van binnen , Dan 't schijnt wel : die geen rust en waeght , Can qualijck lust gewinnen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1180.s.11	Oft ick hem oock lichtvaerdich von , En 't bleef in dit bosschage , Indien dit bosje clappen con , Wat melde't al boelage !	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.1182.s.1	dorilea , daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.1	Daer is hij .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.2	Och hoe ben ick inde saeck beladen !	HeavyHeartedness_Worry_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.3	Best dat ick mij versteeck onder de bruine bladen , In 't diepste van het bosch , al eer dat hij mij siet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.4	Best is het , best ist .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.5	Jae , maer vondt hij mij dan niet ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.6	Weet ick wel wat ick wil ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.7	Ick ben vervaert voor 't minnen , Ontschuil mijn lief , en vrees dat hij mij niet sal vinnen .	Fear_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1205.s.8	Neen , beter blijfdij hier dan of ghij verder gingt , Hier comt hij doch voorbij ; maer luister wat hij singt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.1	Die geboden dienst versmaet , Wenscht'er wel om als 't is te laet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.2	Windeken daer het bosch af drilt , Weest mijn brack doet op het wilt Dat ick jage , Spreyt de hagen , En de telgen van elckaêr , Mogelijck schuilt mijn Nymphe daer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.3	vs. 39 -44 Nymphe , soo ras als ghy vermoedt , Dat mijn gang tot uwaerts spoedt , Loopt ghij schuilen , Inde cuilen , En het diepste van het woudt , Daer ghij met reên vervaert sijn soudt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.4	Vreesdij niet dat de Satyrs , daer U eens mochten nemen waer , En beknellen , 'T sijn gesellen , Die wel nemen t'uwer spijt 'T geen daer een harder lang om vrijt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.5	Sonder te dencken , dat in 't cruidt Dickwils slangen gladt van huidt Sijn verholen , Loopt ghij dolen , Maer nochtans hoe seer ghij vliedt , Dat ghij mijn haet , en dunckt mij niet .	Emotion_Hatred
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.6	Want doe wij laest van 's avonts laet Songen tot den dageraedt , Met elckander , En uit d'ander , Tot den dans ick u verkoos , Bloosden uw wangen als een roos .	BodyPart_BodilyProcess_Love_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.7	Mompelen hoord ' ick op dat pas , Dat dat geen quaet teken was , En wanneer , , jck Heel begeerlijck Kussen quam uw mondtjen teer , Repten uw lipjes , docht me , weêr . 'T weigeren , en d'afkeericheit Voecht soo wel niet , alsmen seyt Voor de vrouwen , 'T can haer rouwen , Die geboden dienst versmaedt , Wenschter wel om als 't is te laet .	EmotionalAction_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.8	Sus , sus , wat of ick daer mach hooren Ritselen inde hagedooren ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.9	Is sij 't , sij sal mij niet ontvlien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1322.s.10	Neen , Dorilea al gesien , Nu suldij hier met geen een kusjen óf , , raken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1328.s.1	Daifilo seg ick , ghy sult het te gróf , , maken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1328.s.2	Daifilo , laet mij staen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1328.s.3	Daifilo , laet mij gaen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1338.s.1	Maer Dorilea , moochdij soo afkerich , , sijn Van 't geen daer alle menschen nae begerich , , sijn ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1338.s.2	En vlieden stuirs van sin ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1344.s.1	Wat doch ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1348.s.1	De soete min .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1365.s.1	Ghij noemt het soete min , en segt dat gene lieden Behalven ick alleen , de soete minne vlieden , Voort hoor ick van de min soo veel quaets , dat ick gruw , Van yder een , en die geloof ick bet als u .	BodilyProcess_Disgust
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1365.s.2	Dus Daifilo , van nu , Laet mij voortaen te vreden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.1	Ach suldij dan dus schuw Uw groene jeucht besteden ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.2	Dees teder schoone leden En sijn u niet gegunt , Dat ghijse sonder vrundt Afgunstich soudt verslijten , En eens te laet becrijten , Dat ghij , om niemandt jonst , of wellust te doen aen , Versuimelijcken hebt u selfs te cort gedaen .	BodilyProcess_Sadness_Remorse
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.3	Wilt rekeninge maken Dat dese rose-kaken , En dese lippen varsch , Die gloeyen als een kars , Die nu een yder wenscht te kussen en te stroocken , Sullen van ouderdoom verwelcken , en verschroocken .	EmotionalAction_BodyPart_BodilyProcess_Love_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.4	Dit effen voorhooft net De diepe rimpels met ter tijt sullen ontslechten ; En dees welige vlechten , Die met veel strickjens gail , soo dertel sijn vertuit , Sullen haer gouden rock allensgens trecken uit ; En 't geen ghij voor fijn goudt mogelijck hielt voor desen , Suldij bevinden maer silver vergult te wesen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.5	Dees wacker oogen blij , Verleeren sullen sij Haer lodderlijcke treken , Die soo veel brandts ontsteken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.6	Dees vlugge gauwicheit , Daer grijse ' aelwaricheit Gaet sonder reên op gnorten , Dien zal den ouderdoom Die 't al maeckt suf , en loom , Sijn vleugels dapper corten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1446.s.7	Dan compt onnut berouw , als betrens tijt ontbreeckt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.1	Daifilo ' ick weet niet van wiens schoonheit dat ghij spreeckt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.2	Nae dat ick can bevijnen En ist niet vanden mijnen , Want onlangs heb ick dien Inde fontein gesien ; En 't beelt in't water stil mij op dat pas verschenen , Quam met uw seggen niet al te wel overeenen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.3	Maer siedij 't groene woudt , hoe lustich dat het staet , Hoordij de vogeltjens die voor den dageraet Danckbaerder sijnd ' als d'onvernoechelijcke menschen , De wellecome Son met sang goemorgen wenschen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.4	Siedij dees heuvels blondt , en het begraesde dal Met bloempjes veelerly gemarmort overal , 'T wellustige banket van de ruischende bijen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.5	Hoe vrolijck lacht het al in dese somer-tijen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.6	Maer als de guiren herfst comt met sijn buyen aen Sal desen dingen al haer vrolijckheit vergaen , En dees bloeyende jeucht des werelts , sal verkeeren In dorren ouderdoom , en haer cieraet ontbeeren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1509.s.7	Nochtans indien dat al De bouwliên spanden t'samen , En met een groot geschal , De goden bidden quamen Dat donder , blixem , windt , en hagels groot geweldt Mocht comen metter ijl vrijbuiten over 't veldt , Beroven d'Aerde van haer gespickelde rocken , De bergen van haer cruin , de boomen van haer locken , Om dieswil , dat doch eens d'aenstaende winter wreedt Het Aertrijck plagen zou met diergelijcken leedt ; Soudij niet seggen , 't was haer nutter dat sij baden Om redelijck verstandt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1515.s.1	Jae , trouwen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1538.s.1	Soudij raden Dat ick door Min , een buy met sonneschijn vermomt , Die lichtelijck vernielt wie dat sij overcomt , Dan crencken sou mijn jeucht , om dieswil dat de jaeren Dese schoonheden mijn ( genomen datse waren Gelijck als ghijse maeckt ) mij souden maken quijt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1538.s.2	Soud ' ick de schae des tijts gaen soecken voor den tijdt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.1	Dit doedij vast , want ick , o Dorilea , reken De lelijckheit soo goedt als schoonheit onbekeken ; En al bekeken , onbelonckt ; en al belonckt Noch ongenoten van den minnaer dien sij ' ontfonckt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.2	Wat's jeuchde sonder min vol onbeweechde coutheit Doch beter als versufte ' en stijf bevrosen outheit ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.3	En dat de soete min van u beschuldicht wort Als die de schoonheit crenckt , daer doedij hem te cort : Want noyt en sachmen hem het suivere besmetten , Maer wel recht anders , 't geen dat saluw was , blanketten , En leggen blosend root op tedre wangen bleeck , En 't hayr vergulden , dat te vooren vael geleeck : En geene sachmen oyt , het geen dat sij beminden , Lelijker dan het was , maer wel veel schoonder vinden .	BodyPart_BodilyProcess_Love_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.4	Maer , segdij , yder een Beclaecht hem met geween , Over de min vol swaerheit ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.5	Sij spreken buiten waerheit ; Al wort de min bescheldt , 'T is onmin die haer quelt , Onmin van lief vercoren ; Want quam haer min te vooren Van haer bemindes sij , Sij wierden 't eens met mij , En souden ras bekennen Dat minne niet can schennen , Maer dat gebreck van min alleen den minnaer crenckt , Die minnes honich soet met bitt're galle mengt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.6	Dus Dorilea , denckt Dat min van beyde sijen , Niet anders voort en brengt Als wellust en verblijen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.7	Daerom in dese tijen , Schijnt dat de werelt dus blijgeestich opgepronckt In 't harte min gevoelt , en t'eenemael verjongt .	Emotion_BodyPart_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.8	Den Hemel schijnt verlieft ; de visschen in de stroomen , De dieren in het cruidt , ' tgevogelt inde bomen , De Nymphen in het bosch natuiren van de min .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.9	Dat vogeltjen , dat nu vliecht uit den dennen , in Den boeckeboom , en schijnt onmoglijck om vermacken , Dan uit den boeckeboom weer inde myrte-tacken , En hippelt quelende soo licht , soo wilt , soo wuft , Waer 't van Natuir begaeft met menschelijck vernuft , Het soud seggen : ‘ Ick brand van min - ick brand van minnen ’ , Tjilpende door het woudt ; maer wel brandt het van binnen , En singt in sijne tael op lieffelijcke maet , Dat het sijn soete lief , sijn lieve lust verstaet .	Emotion_BodilyProcess_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.10	En luister , juist of sij 't om u te leeren dede , Antwoort sijn lieve lust : ‘ Van minnen brand ick mede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.11	’ De min het al verwint , Hemel en aerde mindt , Sal Dorileas siel mins crachten groot van waerden Alleene wederstaen , in hemel , en op aerden ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.12	Neen ; want een yder mensch wort van de min geraeckt , En diese jong ontgaet , bejaert sijn crachten smaeckt : De minne wil doch eens doen blijcken in ons harten Hoe veel dat hij vermach : dus vreest hem vrij te tarten , En weet dat grooter smart noyt yemand overquam , Als jeuckering van min in oude leden stram .	Emotion_BodyPart_Love_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.13	Het jonck hart , dat hij quetst , geneest de minne weder , En hoop hellept het op als 't leyt van pijne neder : Maer d'oude minnaer is geplaecht met dobble rouw , Die willend niet en mach , en mogend niet en wouw .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1683.s.14	Drooch hout ontsteken , brandt feller als groene spruiten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1730.s.1	Ghij ander vryers kent dees praetjens al van buiten , En brengt'er veel in't net ; Maer ick heb wel gelet Op 't geene dat ghij seyde Dat als de Min van beyde De sijden is geplant , Soo valt het soete brandt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1730.s.2	Oft ick dat schoon toestonde , Verclaert mij , met wat vonde Soud ' ick doch kennen mij Versekeren , dat dij De vlammen 't harte blaecken , Die ghij mij diets wilt maecken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1730.s.3	Of als dat al soo was , Dat ghij niet soudt , soo ras Ghij weermins jonst mocht voelen , Verkeeren , of verkoelen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1730.s.4	Gelijck wij vrouwen slecht Vaeck worden uitgerecht , Dewijl geveinsde Min , en lichte wispeltuiricheit Ons troonen met het soet , en loonen met de suiricheit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.1733.s.1	daifilo , granida , dorilea	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1739.s.1	Nymphe , maer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1752.s.1	Schoone nymph ' , en hebdij niet gesien Met breydeloose ren , hier eenige edelliên Vervolgen een wildt swijn ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1752.s.2	Weet ghij niet of sij 't vingen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1752.s.3	Of werwaerts reên sij op ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1769.s.1	Jagers , noch hovelingen En hebben wij gesien , maer wel gehoort gerucht : Dan 't scheen soo ver van hier te wesen dat ick ducht , Edele maecht , ghij sult haer swaerlijck rijden inne ; Sijdij een aertsche maecht , en anders geen Godinne , Uw aenschijn noch uw stem geensins de menschen slacht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1786.s.1	Soo grooten eer voorwaer ick mij niet waerdich acht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1786.s.2	Ick ben Granida ' , indient u liên bekent is , hoemen - Ten hove ' hoort de Princes , des Coninx dochter , noemen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1786.s.3	Dewijl 's geselschaps spoor u niet en is bekent , Soo bid ick , wijst mij doch waer dat ick hier ontrent Om 's heten middachs brandt een weynich te verfresschen , Uit coele beeck , of bron , mijn drooge dorst mach lesschen , Dat Ceres uw gewas , en Pan uw vee behoe .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1836.s.1	Het bidden laet voor ons , 't gebieden comt u toe , Alderheuste Princes , siet hier om u t'ontladen : Diana , moegejaecht , en soude nietversmaden Dees suivere fonteyns cristallinige vloedt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1836.s.2	Al sijn wij harders slecht , eenvoudich opgevoedt , Noch onse sorgen laech , door hoger vlucht te kiesen , Ons aengeboren bosch uit haer gesicht verliesen : Wij weten lijckewel dat wij dees groene laen , Dat wij de schaduw coel van dees dienstige blaên , Dees vrolijcke heuvels , dit heldere waters vlieten , En al ons levens lust van 's Coninx handt genieten . 'T en waer die 't wijsselijck al te versorgen wist , 'T verwoeste metter haest , door verquistende twist . 'T is hij , die de begeerten van sijn ondersaten Maticht bescheydelijck in soo verscheijden maten , Dat niemandts minders list sijn meerder yet ontruck , - Dat niemandts meerders macht sijn minder en verdruck . 'T is hij die sorge draecht alleene voor ons allen , Dat vreemdelingen wreedt ons niet en overvallen Met vernielende crijch en schennen in een uur De dracht van menich jaer door 't yser en het vuyr .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1836.s.3	Danckbaer behoortmen voor een aertschen Godt te eeren Dien 't lust , om anders lust , sijn eygen lust t'ontbeeren : Maer ons eerbieden is te laech nae sijn waerdij .	Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.1	Beleefden harder , noyt eenige wijnen mij Boven den frisschen dauw van dees fonteyn gevielen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.2	Ach geluckige rust van licht-vernoechde sielen , Die nijt noch spijt des hoofs versteurt haer soete vree !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.3	Wiens sorgen wijder niet en weyden dan haer vee .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.4	De lusten daer sich 't hof met moeyten om beslommert , Werpt u nature toe en is voor u becommert .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.5	Ghij treckt door honger , en door dorst uit dranck , en spijs , De lust van 't hof gelockt door soo veel leckernijs ; Het hof door drincken dorst , en honger soeckt door 't eeten En jaecht de lusten voor , u sijnse toegesmeten ; 'T lustsoeckend hof ontvliên de lusten daer 't om slóóft ; Ghij vollicht de natuir , wij sien haer over 't hóóft .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.6	Eer sal dit lichaem in een duister graf vernachten Beleefden harder , als mij gaen uit de gedachten Uw weltepasse dienst , en of 't gebeurden , dat - Mijn hulp u nut mocht sijn in 't hof , of inde stadt , Vertrout , dat mij geen saeck soo wichtich sal verletten , Of ick en salse ' om u wel aen een sijde setten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.7	Nu voecht mij wederom te keren daer ick acht Dat mij 't geselschap van mijn staetdochters verwacht , Welck ick gebood , van haer vermoeyde tellen , neder Te sitten in het gras , tot dat ick keerden weder ; Dewijl mij niemandt van haer allen volgen mocht , En mij de lust des jachts niet te versuimen docht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1892.s.8	Den hemel die bedauw uw jaren menich-vuldich Met geduirige rust .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1901.s.1	Wij sijn 't u alle schuldich , Alwaerdige Princes .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1901.s.2	Helas !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1901.s.3	hoe leedt is mij Dat ons vermogen min als ons begeerte sij !	Emotion_Sadness_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1901.s.4	Den hemel wil uw staet in eeuwicheit behouwen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1905.s.1	Vaert eeuwelijcken wel .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.1913.s.1	Is onder d'aertsche vrouwen Dan een , die waerdich is dat om haer dienst alleen Al d'ander men versweer ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.1	Hoe coel gaet hij daer heen Sonder dat hij van mij sijn afscheidt heeft genomen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.2	Best volge ick hem , en sie wat hem mach overcomen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.3	Hoe vrolijck is de geen die danckbaerlijcken leeft Bij d'ondanckbare mensch die geen vernoeging heeft !	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.4	Dees harder toont meer dancks voor not van bosch , en boomen , Dan menich eelman voor geschoncken vorstendoomen , Die vaeck sijn Prince danckt met oproer oft verraet , En acht maer elcke staet , een trap tot hoger staet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.5	Met welckeen ijver comt mij dees sijn dienste bieden ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.6	Al de dienstwillicheit geveinst der edellieden Is mij soo veel niet waert ; want dese die betoont Sijn heusheit , niet uit hoop van die te sien beloont : Ten hoof , op hoop van loon , is 't aenschijn vol genegenheit , Maer het onheus gemoet vol onwillige tegenheit .	Emotion_Hope_Love_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.7	Ghij , grootsche Princen , die door uw uitheemsche pracht Verwondring soeckt bij 't volck , om van het hooch geslacht Der Goden afgedaelt te schijnen , uw cieraeden , Uw scepters , croonen , en uw purpere gewaden En maken u niet soo grootachtbaer aengesien , Als de natuire maeckt een laech-geboren , dien - 'T haer lust , om lieffelijck de werelt te verbasen , Een eedel geest in't hart en in't gesicht te blasen : En cieren het aenschijn vol vrolijckheden soet Met defticheit gemengt , van hoofde tot de voet Besprengend ' overal de welgemaeckte leden Met goddelijcker glans als princelijcke cleden .	Honor_Emotion_BodyPart_Wonder
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.8	Gelijck d'eerwaerde Son is bij ons aertsche vuyr , Sulx is bij d'arme kunst , de kunst-rijcke natuyr .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.9	Wat handt heeft oyt haer soo vernuftich mercken laten Dat sij , bootseerende de conincklijcke vaten , Vormde 't gewrochte goudt in aerdiger manier , Als de natuir den sculp , daer ick uit dronck alhier ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.10	Dan 't hof en siet niet schoons in dingen licht-vercregen , Natuirs geboden dienst is het onwaert en tegen ; Maer ghij , eenvoudich volck , ontfangt haer gaven rijck Met open armen , en gebruicktse danckbaerlijck .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.11	vs. 365 -368 Ghij lodderlijcke Nymphen soet , Die nauwelijx een rosen-hoedt Om gouwen croon soudt geven , Hoe wel lust u uw leven !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.12	Uw lusten is u als een wet , Uw loncken is een tij-geset , Uw couten is vryage , Uw minnen is boelage .	EmotionalAction_BodilyProcess_Love_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.13	De schaduw die de cuilen heelt , Waerin ghij uw genoechjens steelt , En soudt ghij niet verwinssen , Om schaduw-throons van Prinssen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.14	Wanneer ghij aen de reye gaet , En dat het schalcke lietjen raedt Het diepst van uw gepeinsen , Hoe qualijck cundt ghij veynsen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.15	Maer soo 't uw lief niet beter can , En toont u dat sijn harte , van - Uw hartjen is gedreven , Wat isser om te geven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.16	Soo ruilden ghij dat deuntjen niet Om avondt-spel , of morge-liedt , Dat , voor princessen deuren , Haer dunne slaep comt steuren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.17	Een appel , die met jonste groot Uw boeltje werrept in uw schoot , Daer om soudt ghij versmaden 'S hofs tafel-overdaden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2093.s.18	Als van uw lief gemeldet wert , Sijn t'uwaerts overgeven hart , Soo sijt ghij bet te vreden , Als prinssen aengebeden . 'T eenvoudich leven haylich , , leidt Ghyliên in vreed ' en vaylicheit , Uw vrijheit gaet te boven De schijn-wellust der hoven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.stage.2002.s.1	rey van jofferen	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.2095.s.1	rey , granida	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.speaker.2097.s.1	rey	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2109.s.1	Mijn vrouw , God sij gedanckt dat ghij ons hier ontmoet . 'T geselschap is een deel te paerd , een deel te voet , Verstroyt om soecken naer u op bysondre straeten , En haer by-eencomst is daer ghij ons hadt gelaeten , In 't naeste dal , en sijn int keeren al misschien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2113.s.1	En 't wilt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2117.s.1	Gevangen is't , mijn vrouw , en sult het sien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2149.s.1	Daifilo , beydt wat , hoe ? 'T en gaet ten hoof niet toe Gelijck ghij u laet veurstaen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2149.s.2	En wilt soo licht niet deurgaen Met dat u wel gevalt ; Hoort hoe Palemon calt , Die seyt dat hij verdoorde , Doen hem de lust becoorde Van 't hof te volgen .	Emotion_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2149.s.3	Hij Meende , gelijck als ghij , Dat heusheit soet van zede , Vrientschap , en weelde meede Daer was in overvloedt , Gelijck de rijckdoom doet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2155.s.1	En als hij 't quam te proeven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.1	Doe vandt hij met bedroeven , Dat daer die dingen sijn Niet anders als in schijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.2	Wat sneuvel ( seit hij ) och wast voor mijn groene jaeren , Als ick mijn soete buirt , en vrijheit liete vaeren !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.3	En dienen ghing ten hoof ; ick meende 't was al claer - Goudt datter blonck , maer 't is een momme-vollick daer ; Het aenschijn vol sachtmoedicheits , 'T gemoedt vol felle woedicheits , Een minnelijck gelaet , 'T hart vol van nijdt en haet ; Saechdij de visschers oyt , om lichst de visch te trecken , Den scharpen angel-hoeck met lockend aes bedecken ?	Emotion_Hatred_Envy_BodyPart_Other_Benevolence_Anger
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.4	Recht gaet het soo ten hoof .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.5	De dienstbaerheit , die sij Soo mildt u bieden aen , is lockbedriegerij : Haer dienst , en hullep streckt maer om u te verrassen Met onvermoede slach , en door uw val te wassen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.6	Oprechte vrientschap , Godts-vrucht , onbevleckte trouw , Veilige ' onnoselheit , recht-uitheit sonder vouw , Waerheit van woorden , goedicheit , Worden daer voor cleinmoedicheit , Voor slechtheit ijl veracht , Beguigelt , en belacht . 'T is al geveinst ten hoof watmen ' er siet vertogen , Geveinst is haer gelaet , geveinst haer mondt , haer oogen , Geveinst haer Godsvrucht , jonst , haer vrientschap en haer vree , En g'lijck haer deuchden sijn , soo is haer weelde mee .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.7	Wanneer de hovelingen Een vrolijck liedtjen singen , 'T en is van vreuchde niet , Maer 't is , om het verdriet Daer 't hart af wort verbeten , Een weinich te vergeten .	Joy_Emotion_BodyPart_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.8	Haer lachen is van spijt , Of 't duirt de corte tijdt Eens oogenblix , tot dat 's gemoedts staedige plagen , Die 't weeren uit het hart , 't oock uit het aensicht jaeghen .	Emotion_BodilyProcess_Remorse
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.9	Wats al des werelts lust Als 't hart niet is gerust ?	Emotion_BodyPart_BodilyProcess_Other_Desire_Trust
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.10	Hierom , Daifilo , staeckt uw opset voorgenomen , Ghij weet waer dat ghij sijt , maer niet waer ghij sult comen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2231.s.11	Die wel is , blijf .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2239.s.1	Jae , maer Of ick niet wel en waer , Of of ick beter winste ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2250.s.1	Soo soudij doch ten minste Het hof niet volgen , dan Slaet yet wat anders an Sonder het groene woudt en dees landouw te laten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2256.s.1	Jae Dorilea , ghij noch al Palemons praten En sult mij meer sijn raedt doen volgen dan sijn daedt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2273.s.1	Soo mocht het u wel gaen gelijck het hem nu gaet , Die nae 't verdrach van soo veel slaevernij en snóótheit , Als hij verwachte 't loon van ingebeelde gróótheit , Is wijs geworden dat sijn hoop niet was dan windt ; En claecht , nu 't ommecomt , dat hij sich selven vindt In plaets van een jonck hoveling Geworden een oudt schoveling .	None
+hoof001gran01_01.TEI.2.text.body.div.div.head.2277.s.1	Tweede deel	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.1	Hoe aengenaem is in een schoon lichaem de deucht !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.2	Hoe lieflijck heusheit in de geen die mach gebieden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.3	En ghij die 't goedt doen lust , daer ghij wel quaet doen meucht , Hoe heerlijck is den strael des goetheits in uliêden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.4	Hoe veel schoonheden heeft de schoonheit t'saemgeveucht Eer s'haer vernoeghen liet aen 't schoon van een Granide !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.5	O schoone Son , als ghij verscheent in mijn gedacht , Doe leerde mij den dach dat ick in duistre nacht , Met vliesen overschaeuwt sijnde mijn oogen beyde , Bij 't rookrich licht eens lamps mijn dromich leven leyde .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.6	Want als begeerlijckheit in eigen lust verblindt , Die schoonheits lichaem meer als lichaems schoonheit mindt , Mij tot vereeniging van aertsch met aertsch dee póóghen Doen suiverde uwe glans de dickheit van mijn óógen , Optreckende ' haer gesicht tot uwaerts , waer door mijn Siel kennende ' haer waerdij , poocht met haer een te sijn ; Al sou sij , cleene mug , om in glans te verwanderen , Vliend ' in de Son met die vereenen door 't veranderen .	Emotion_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.7	Maer belcht uw schoone siel haer dat mijn siele cleen Altevermetel poocht met u te wesen een , Soo sal de wil mijns siels in als met d'uw gemeen , , sijn Behalven in ( dat sij niet can ) niet willen een , , sijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.8	Sij wil al willen dat ghy wilt , dat can sij niet , Sonder haer eigen doodt , soo lang ghij 't haer verbiedt : Maer gaefdij haer verlof , en wilde ghij dat mede , Soo maeckten liefd , en weerliefd ons vereende vrede ; Dat sou de vrientschap sijn waer nae mijn liefde tracht ; Dan ving ick dat ick jaegh ; doch alhoewel mijn jacht Is sonder hoop van vangst , nochtans mij lust te talen , , van - Naebij te volgen 't geen dat ick niet achterhalen , , can .	Emotion_Hope
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.9	Hoe qualijck vat ick selfs mijn eigen siels beroer !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2363.s.10	Ick heb de waerheit , maer ick heb haer aen een snoer , En sij vliecht ommendom met haer snorrende vlerken , Toonende ' een ander sijde ' , eer ick wel d'een can merken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.2365.s.1	tisiphernes , daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.1	Houdt , Daifilo , te hooch !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.2	Maar siet , hier comt mijn heer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.3	Hoe onbekent voor mij was dese naem wel eer !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.4	Maer om aen 't geen dat mij behaecht weer te behagen , Moet ickse leeren , met dienstbaerheit te verdragen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.5	Een ander soeckt om winst te dienen , en ick lij Om gaerne dienst te doen ongaerne slavernij .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2401.s.6	Ick soeck geen ander loon van dienst , als dienst ; mijn leven Granide , tot uw dienst ick over heb gegeven : Dees Prins te dienen schijnt om daer te raken an Het naeste middel , want wort hij uw echte man , Ick word ' uw staege slaef , en crijgh mijn hoop door desen ; En mach ick U niet sijn , ick sal dan d'uwe wesen .	Emotion_Hope
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2406.s.1	Siet hier de dienaer daer ick mij best op vertrouw .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2406.s.2	Daifilo ' , hoort hier .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2410.s.1	Mijn heer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2448.s.1	Gaet knielen voor mijn vrouw Uit mijnen naem , en meldt , dat ick door 't vyer gedreven 'T welck staech hoochaerdich climt , en wallecht vanden dael , In dese borst ontfonckt van haere schoonheits strael , Den croon van Persen eisch voor mij , om haer te geven .	EmotionalAction_Other_Dedication
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2448.s.2	Indien dat sij , dewijl ick eindelijck bescheyt Op mijn versoeck verbid , van 's conings mogentheit , Een windeken van jonst liet in haer harte waeyen Tot mijwaerts , 't waer een wenck voor 's hemels Goden blij , Waerop sij passende souden 't geluck tot mijn Van duisent aengesichten 't lachenste doen draeyen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2448.s.3	Bidt haer ootmoedelijck , dat sij daer 't al aen staet , Van mijn vernedert hart haer dit ontsmeken laet .	Emotion_BodyPart_Other_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2448.s.4	Gaet heen , ick gae ten hoof terstondt den Coning spreecken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.1	Aen mijn dienstwillicheit , mijn heer , salt niet gebreecken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.2	Mijn ijverighe moedt , door moeyelijcke quel Van lang vertoef , is sadt van uitstel op uitstel ; En mijn gedachten , die ten top van eeren strecken , Cunnen uit ydel hoop niet langer voetsel trecken ; Dat dese dach den draedt mijns hoops in stucken cort , Of mij vergelde 't bloedt met ruimten uitgestort In dienste van het rijck ; voor soo veel swaricheden , Voor arbeidt , lijfs-gevaer , voor hoogh en laegh geleden , Mij loonende ( naer eisch van saken uitgerecht ) Met 's Conings hoochste jonst , en de Prinsses ten echt ; Op dat de Persen sien , wie , als des Conings daghen Verloopen sullen sijn , de groote croon sal draghen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.3	De raedt is al vergaert , 't is tijdt om in te treên .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.4	Ayme , wat soeticheit vloeyt mij door al mijn leên !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.5	Mijn voorbarige siel haer wentelt in 't verheughen , Al eer de sinnen haer dat mededeelen meugen , En loopt haer boôn voorbij onlijdsaem van vertoef , Waer door ick vreuchd geniet al eer dat ickse proef .	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2507.s.6	Hemelsche Venus , drijft mijn tong door uwe goedicheit , Dat ick uitdrucken mach het minst van mijn ootmoedicheit , Van d'overgevenheit mijns harts tot haer , en van D'eerbiedicheit , die niet als haer verwondren can .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.2509.s.1	coning , ostrobas , tisiphernes	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2569.s.1	Loflijcke Prinssen , tot noch toe heb ick gelaeten Yemandt te noemen , die mijns dochters huwelijck Waerdt sijnd ' , aenvaerden mocht de breydel van dit rijck , En heerschappie van soo veel verscheiden staeten ; Om d'ingeseten door voorsichtich cloeck beleyt Tegen uitheemsch gewelt sorchvuldich te bewaeren , En voor mij nae 't verloop van mijn slippende jaeren , Te stieren met ontsich , en met lieftallicheit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2569.s.2	D'oorsaack , o Tisiphernes , dat ghij niet en trouden Te saemen overlang , naer uw verdienst en wins , Is niet dat ick ontken , mijn grootmoedige Prins , Hoeveel dit coninckrijck is in uw deucht gehouden ; Maer 't is dat Ostrobas , van hoochverheven stam , Wiens vroomheits lofgeclanck verdooft al 's werelts canten , Dit oock door brief op brief , gesanten op gesanten , Versocht heeft tot nu toe dat hij hier selve quam .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2569.s.3	Ons deucht-vruchtbaere tijt heeft , schijnt het , willen draegen Twee mannen even groot van achtbaerheit bij mij , Den eenen in verdienst , den andren in waerdij , Den welcken even seer ick wensche te behaegen ; Maer dat en can niet sijn ; nochtans ick boven al Niet meer op d'eene sijd ' , als d'ander sijd ' sal hellen , Maer ick begeer dat ghij , in 't vryen meegesellen , Comt overeen wie dat den andren wijcken sal .	Emotion_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2569.s.4	Een yder doe den andren blijcken sijne reden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2569.s.5	De bestgegrondste win , de swackste willich wijck , Of dat het lot u schey ' sijn uw reên gelijck ; Soo blijft binnen het rijck in rust , buiten in vreden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.1	Hoe nu ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.2	Een onderdaen , een slaef dien de voochdij Van hooger wetten dwingt , gelijcktmen die bij mij ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.3	Bij 't bloedt van Arsaces ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.4	Wiens grootheit hooch geresen De Parthen , 's werelts vrees , alleen ontsien en vresen ; De Prins voor wiens gewelt d'opgaende Sonne swicht , En nau sijn vrees ontslaet als hij sijn hielen licht .	Fear_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.5	Den donder van mijn naem sal Persen die versmaden Tot-dat het siet en voelt , de blixem van mijn daden ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.6	Ick wijcken ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.7	Jae , soo wijckt de Nijl wanneer hij vliet Met onbetoomde loop , noch letsel aen en siet Wat hij vindt inde weech , versleept boschage ' en dijcken !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.8	Puinbergen opgehoopt van uitgeroyde rijcken Die sullen mij den wech banen tot hoocheits top Daer mijn gemoedt nae staet , en om te climmen op Den throon van mijn opset , sullen dat sijn de trappen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.9	En of den Hemel viel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.10	Ick salder overstappen , Eer sijn getuimels drang mijn strenge moedt verdruck : Hij spuw sijn crachten uit , en 't buldrende Geluck Clatre vrij met sijn sweep , 't sal mij geen vrees in prenten ; Ick trotse sijn gewelt , en puf sijn dreygementen .	Fear_Emotion_Happiness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.11	Maer ghij , o tedre Pers , wat stadij nae mijn eisch ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.12	Die niet een senu taey hebt aen uw weecke vleisch , Ghij , halve-vrouw , laet mans d'oefning van't heerschen houwen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.13	Maer 't is u om de vrouw : ghij vindt wel ander vrouwen Waer mee ghij oeffenen de troetel-cunste meucht Daer ghij u op verstaet , en die ghij van uw jeucht Met geyle zeden leert , bedampt van wijn en róósen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.14	Sardanapalus comt en wil Atlas verpóósen , O Goden , wacht uw hals !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.15	Gelijck 't oneedel bloedt , Sulck uw hantering is .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.16	Maer ick ben opgevoedt Onder 't gekners van't stael , 't geberst van helm en swaerden , 'T gekrijs van't oorloochs-volck , en 't briesschen van de paerden ; De dulle trommel , en d'opstokende trompet Sijn mijn dertelste spel ; d'hard ' aerd ' , als 't nauwt , mijn bedt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.17	Aensiet uw swackheit om u selven te verschoonen : Ghij 't rijck van Persen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.18	Hoe ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.19	De last van soo veel croonen Kneusde ' u het beckeneel ; het pack van sulck gebiedt Druckte ' u de schouders in , geeft u daer onder niet : De voorstandt van soo veel t'samen - gegroeyde landen Vereischt een cloecker borst , en clem van grover handen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.20	Voorts die sich wil bij mij gelijcken in waerdij Moet daer geen proef van doen door lot of praterij , Maer door de deucht alleen : dat vroomheit in het vechten Sich tegens vroomheit stel om ons geschil te slechten , Het rijck en de Prinsses sij des verwinners prijs .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2688.s.21	Dan ghij sult , mijnen raet volgende , sijdij wijs , ( Hoewel een onderdaen geen dienst soo menichvuldich Can doen , of hij en blijft noch veel sijn Prinsse schuldich ) U laten loons genoech voor uw verdiensten sijn Dat u de Coning hier geleken heeft bij mijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2776.s.1	Wanneer 's moeds buyen dul des redens toom ontslippen , Gelijck den storm , dien ghij blaest uit verwaende lippen , Ist onbesuisde windt die vaeck het minste schaedt , Maer scheurt sijn eigen cracht op onbeweechde clippen ; Soo doet uw raserij op Coning , Mij , en Raedt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2776.s.2	De rij van Prinssen oudt , uit welcker brave saedt Ghij u gesproten roemt , en wort hier niet versmeten ; Maer dat ghij d'eer van mijn doorluchtich huis versmaedt , Om dat een oppervoocht is boven mij geseten , Ick en dees Persen al uw bittren ondanck weten .	Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2776.s.3	Want onse Coning valt ons niet soo wreedt en wrang , Noch wij den onsen , als ghij , die trots en vermeten Uw verblufte gemeent in slavernije strang Ondrachelijck verheert met hart gewelt , en dwang : Waer door uw moed verheft dat ghij 't met uw braveren Den Goden , soo ghij waendt , des hemels , maeckt te bang , Die , ( lachens ' er niet om ) 't u ras sullen verleeren : Maer ons bijsonder volck rechtvaerdich wij verheeren , En met bescheidenheit de Coning 't algemeen : Dees deuchden houden wij op 't alderhoochst in eeren , Die ghij , verkeert , vervreemt van alle recht en reên , Soo smaedelijck gewoon met voeten sijt te treên , En moedeloosheit noemt een ondeucht in den helden : Waer door ten aensien van uw overdwaelsche zeên Ghij mij en dese , comt voor halve vrouwen schelden .	Emotion_Pride
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2776.s.4	Maer niet meer als uw dulle gramschaps ijl-gewelden , Vrees ick sonder belul uw groove lichaems cracht ; En 't viel licht dat ghij noyt tot uwent nae vertelden De troetelingen van dees halve vrouwen sacht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2776.s.5	Dan of 't gebeurde , dat ghij mij al ommebracht , Soo souden u nochtans dees Persen cloeck , en moedich Niet kennen voor haer Prins , ( ken ick haer ) maer verwacht Van al het rijck , en elck bijsonder wraeke bloedich : Want sijliên nemmermeer sullen het heerschen woedich , En uw uitheemsche trots lijden in plaets van mij , Noch laten wraeck te doen over een Prinsse goedich , Van wiens verdiensten en loflijcke daden , sij Gunstiger oordelaers en kenners sijn als ghij .	Emotion_Sadness_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.1	Een lecker trotst mijn cracht , ( wat sal mij noch ontmoeten ? ) En hij leydt niet vertreên aen mortel van mijn voeten ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.2	Ostrobas , wat u beurt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.3	Ghij dreicht mij met gevaer Van uwe wraeck ; ick tart de Persen allegaêr .	Emotion_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.4	Daer leydt den handtschoe , d'eerst van soo veel onvervaerden Tast sonder beven aen , en hef hem van der aerden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.5	Soo lang ' er een sal sijn , die mij darf tegenstaen Van allen , en sal ick niet weygeren te slaen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2796.s.6	Ghij meucht u vrij met keur van wapenen versorgen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2807.s.1	Mijn is dan d'eerste beurt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.2807.s.2	Nu dat dan tegen morgen , Rechtvaerdich Coning , ons een plaetse werd bestelt , Op dat de bleecke doodt in een besteken veldt , Een van ons beyden doe sijn stijf opset vergeten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.1	Sijn uw gramschappen op elckander soo gebeten , Dat sachter middel niet can einden uw crackeel , Soo laet ten minsten u de roof van 't afgereten Harnas uws vyants , sonder hem te moorden heel , Volle verwinning sijn , en slechting van 't verscheel .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.2	Wanneer het aertrijck van des ruwen Winters plagen , En sijn ontijdich coudt omhelsen wort ontslagen , Gevoelt sij in haer hart oprekenen de schier Heel uitgedoofde cracht van haer begraven vier ; Door dien de Lenten soet , in sijn verliefde weecken , Haer streelt , en ondergaet met minnelijcker treken , Wanneer dat hij vernieuwt den outsbekenden brandt ; Levende ritseling doorcruipt haer 't ingewant ; Alsoo gevoel ick veel gepeisen in mij wecken Uit haeren diepen slaep , en door mijn leden trecken , Die oorspronck naemen in mijn teer-beweechde geest , Als ick eerst wierd gewaer het schoone , dat mij meest Behaechde van al 't geen dat mij oyt is verscheenen ; Want nae 't verlies van dien , allensjens sij verdweenen , Met de gedaente , die mij in den sinne lach , En nu door dien ick 't eens behaechde schoon hersach Met meerder hefticheit sij op een nieuw verrijsen , Om mij de schoonheit van een harder aen te prijsen .	Emotion_BodyPart_Moved
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.3	Maer sacht , Granida ' , houdt op , houdt op , want waer toe dient Dus hooch te setten een dien ghij tot heer , en vriendt Geensins verkiesen meucht ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.4	Maer leyden moet uw leven Met , dien u andren keur uit weijnige sal geven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.5	Wat leyder boodtschap , uit wat aengenaemer mondt Helas !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.6	was , Daifilo , die ick van u verstondt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.7	Ayme !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.8	Wat vriendtschap in uw voorhooft stondt geschreven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.10	Het schijnt dat op de staten hooch-verheven vs. 727 -733 Wij sitten met gebiedt , maer die 't wel ondertast , Vindt ons verheert , verdruckt onder haer overlast .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.12	Meer droefheit vreest mijn hart dan 't hoopt verblijding : Ick gae vernemen doch nae de verlangde tijding .	Fear_Joy_Emotion_Hope_BodyPart_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.13	Wat stort al gaven groot , Bewoonders vander Aerden , Den Hemel in uw schoot , Als ghijs ' ondanckbaer snoodt Niet met de voet en stoot , Maer vorder sorgen doodt , Om 't aengeboôn t'aenvaerden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.14	Maen , starren , 's nachts cieraet , D'eerwaerde Sonnestraelen , 'T Aertrijck met vloedt doorwaedt , Daer cruidt , en boom beblaedt , Bij blije bloemkens staet , 'T schoon menschelijcke saedt Met lust u 't ooch onthaelen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.15	Het braef of soet gespeel Van windt , of tedre snaeren , Het lieffelijck gequeel Van mensch of vogels keel , Spel en sang-menging eel Door 't oor , met lust , geheel Ter sielen innevaeren .	Joy_EmotionalAction_BodyPart
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.16	De Wieroock , diemen met De Mirrhe plach te veugen , Musc , Ambre , scharp Civet , Groen cruidt , en bloemkens net , Roos , Lelij , Violet Met reuken onbesmet Verstercken , en verheugen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.17	Een vollen overvloedt Van veele dranck , en spijsen , Des menschen lichaem voedt Als hij met lusten soet Sijn gragen honger boet ; Maer bruickt hij 's meer , daer moet Gebreck , en last uit rijsen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.18	Van alle 's werelts lust Is soete brandt van Minne Voor d'heftichste bewust , Wanneer sij wort geblust Als lief bij lieve rust ; Daer aertsche mondt gekust Voldoet voor een Godinne .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.19	Dees lusten allegaer , En duisent van gelijcken , Als oefnen , aesmen maer , En d'ongetelde schaer Van al ons handtgebaer , Voor Liefd ' oprecht , en waer , Nochtans in vreuchde wijcken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.20	Sij doet dat vreuchd ' ontspring , In twee verbonden harten ; En maeckt dat yder ding Dubbele lust in bring , Door haer vereeniging ; Jae 't dragen onderling Treckt soetheit uit de smarten .	Joy_Emotion_BodyPart
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.21	Dees saligende deucht Op Aerden can doen smaken Een goddelijcke vreucht , Die luttel liên verheucht , Want meest een yder veucht Sich omme sijn geneucht Van leur , of niet te maken .	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.22	Och hoe swaer ist te raken Aen vrientschap onbevleckt , Daer vrienden keur ontbreckt !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.23	Dien lust tot staet en eeren Boven de maet verheft , Moet deze lust ontberen Die 't alles overtreft .	Emotion_BodilyProcess_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.24	Want onder luttel lieden Daer hij uit kiesen gaet , Can 't swaerelijck geschieden , Dat een hem annestaet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.25	vs. 793 -796 Wat vrientschap vol van trouwen En van geneuchten blij Can Liefd ' en Minne bouwen , Daer geen behagen sij ?	Emotion_Love_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.26	De nacht comt opter Aerden Gevallen met haer schim , En met haer bruine paerden Berijden onse kim .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3066.s.27	Morgen 't gevecht sal maken Mijns vrouwen huwlijck claer , En in soo grooten sake Kiest het geluck voor haer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.3069.s.1	granida , daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.1	Ach wat becommeringen Comen mijn siel bespringen !	Worry_Emotion_BodyPart
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.2	De nacht , die 't al ontlast , Maeckt dat mijn sorghe wast .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.3	De swaricheit genakende Houdt mijn gedachten wakende : Villicht dat hier voorbij Coom sang of spel , om mij Wat uit den sin te stellen De sorgen die mij quellen .	Worry_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.4	Maer wie comt gins gegaen Bij 't schijnen van de maen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.5	Wat !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3090.s.6	Soudt Daifilo sijn , ick sal de venster sluiten , Van binnen can ick sien door 't glas , hij niet van buiten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.1	Kond 't lichaem als de siel vervolgen daer 't nae staet , 'T was nu bij mijn Godin , en niet hier op straet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.2	Maer 't soeckt , nae sijn vermeugen , Sich , volgende te veugen Daer 't van sijn leitsman 't hart Henen getrocken wert .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.3	Ayme , Granida !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.4	Doel van mijn genegentheiden , Hoe nood ' is Liefde van haer lieve lief verscheiden ?	Emotion_Love_Dedication
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.5	Maer wat vertoeve ' ick lang ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.6	Best ist , dat ick vertreck , Eer yemandt , mij gewaer hier wordende , begeck Mijn lieven als verwaent , en sonder grondt verheven Castelen inde lucht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.7	Dan , ick ben niet gedreven Door een begeerte van besit gelijck als sij , Nae dienst is dat ick tracht , en niet naer heerschappij .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3124.s.8	Juppijn , Princesse waerdich , Sij voor u sorrechvaerdich , En 't hayr van 's hemels Goôn De wacht van uw Persoon .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.1	Hoe menich claecht van Liefd ' een onbeproefde smarte ?	Emotion_Love_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.2	Dees openbaertse niet daer hijse voedt in 't harte : Maer sij ontdeckt haer selfs , en ongeveinsde vlam Wierd noyt verbogen dat sij niet te voorschijn quam .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.3	O rechten sonder reên !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.4	O wetten sonder weten !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.5	Met recht macht 't opperst recht wel 't opperst onrecht heten : Besit van staet , van landt , van gelts ontelbre som , Dat deilt ghij nae 't geluck , niet nae de reden om , Des vaeck , de slechtste crijcht hier van de grootste winste , En die het meeste waert is lijdt hem met het minste : Van d'erfgoên die Natuir ons achterliet gemeen , Deyldij den eenen veel , den andren ganslijck geen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.7	Verkeerder menschen lust , en snoode schelmerijen Hebben u voortgebracht ; want in de gulden tijen , Doen ' swerelts kintsheit soet niet deed , dan sliep , of loech , Doe niemandt vorder als voor noodruft sorge droech , En hadder niemandt veel , maer yder had genoech .	Emotion_Unhappiness_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.8	Doe waerdij onbekent , maer nu , door boosheits woeden , Sijdij een noodich quaet , om quaeder te verhoeden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.9	Doe koosmen Lief nae lust , nu dwingt het onderscheydt Van staten , vaken ons te maken Lief van leydt : En d'overvloedt die maeckt den aldermeest van machten Behoeftich van het geen dat aldermeest is t'achten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.10	Twee eischen mij tot lief , de strijdt sal rechter sijn , En wie dat wint , helas ! 't verlies is altoos mijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.11	Want wien mij 't blindt geluck van beyden toe sal leggen Het cost mijns leven rust .	Aquiescence_Emotion_Happiness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.12	Soo luttel heeft te seggen Een Coningin , in saeck , die haer soo seer betreft .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3193.s.13	De spits is hooch , maer eng , daer 't Luck ons op verheft .	None
+hoof001gran01_01.TEI.2.text.body.div.div.head.3199.s.1	Darde deel	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3207.s.1	Ghij lieft Granida ' en hebt ten hove dienst genomen Om haer te dienen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3222.s.1	Jae , mijn heer , en ben gecomen In uwen dienst , op hoop , dat sij uw echte vrouw , En door dat middel ick haer dienaer worden souw , Om te besteden , in alsulcken dienst , mijn jaeren , Daer alle menschen toe , docht mij , geschapen waeren ; Dat mij de reden wijst , can ick niet laten nae , Versuimen 't anderliên haer eygen schuilt en schae ; Dies dat ick voor haer strij , jae sterve , dats mijn leven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3230.s.1	Voorwaer , van edel Godt is uw gemoedt gedreven : Dan dat ghij voor mij vecht , mijn eere niet en lijdt .	BodyPart_BodilyProcess_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3235.s.1	Maer wie sal weten , heer , dat ghij het niet en sijdt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3235.s.2	Uit een besloten helm sal 't niemandt kunnen ramen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3239.s.1	Ick selfs soudt weten , en mij in mijn harte schamen .	Emotion_BodyPart_Shame
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3244.s.1	Men vecht hier om uw Lief , en 't rijck , en niet om eer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3248.s.1	Dats waer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3252.s.1	Kiest , wijslijck , dan het sekerste , mijn heer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3256.s.1	Maer of hij u versloech ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3261.s.1	Dat hij dan u verbeyde , Soo 't u belieft .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3268.s.1	Jae , want gans Persen hij ontseyde .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3268.s.2	Maer proev ' ick het soo goedt dan niet ten eersten ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3293.s.1	Neen , Want hij lijdt meer gevaers van tweeliên , als van een .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3293.s.2	En of de wreede Parth niet en was te vernielen , Als met den onderganck van bey de vechters sielen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3293.s.3	Wat cond 't u baten dat ghij hem ter hellen sondt , Indien ghij ( God behoedts ) bleef dootelijck gewondt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3293.s.4	Maer soo dat mij gebeurt , wat isser aen gelegen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3293.s.5	De vruchten van de winst door mijne doodt vercregen En sullen niet met mij verrotten in het graf , Maer erven ghij , mijn heer , sult het genot daer af , En de Princesse , dien 't veel saliger sal wesen Te leven met een Prins der Persen uitgelesen , Als met een walscher raeu , en overdwaels tyran .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3300.s.1	Daifilo ' , uw reên sijn groot , doet dese wapens an .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3300.s.2	De Goden willen u en mijn het best verleenen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3308.s.1	'T is hooge tijt , mijn heer , vaert wel , ick spoey mijn heenen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3308.s.2	Op dat mij niemandt ken van die ons vechten sien , Soo sal ick sonder spraeck 't geselschap eere biên .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.3311.s.1	ostrobas , daifilo , coning	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.1	Waer blijft mijn vijandt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.2	Leyt hem 't hart in ijle reden ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.3	Heeft hij berouw ?	Emotion_Remorse
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.4	Of is het harnas noch te smeden , Om datter geen gemaeckt in 't hele Persen sij Daer hij sich in gerust vertrouwe tegens mij ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.5	Maer al beswoer 't Vulcaen met dubbel hardichede , Soo sal het wederstaen mijn punte , noch mijn snede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.6	Die sorch verlet hem niet , dacht hij soo ver , ick acht Veel eer dat hij sich bet sint gister heeft bedacht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.7	Dan , soud ' hij daer wel sijn ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3328.s.8	Soo wilt tot bloedich teecken Van den aengaenden strijdt flux de trompette steecken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3341.s.1	Eeuwighe Goden groot , verstreckt mij nu de cracht , Waermede , doen ick noch was harder , ommebracht De vreesselijckste van de wrede wilde dieren ; Voor al Granida ghij , die mij gaet herwaerts stieren , Verdubbelt mij den moedt , en crachten onder 't slaen : Mijn vijandt wacht op mij ; daer gaet het teecken aen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.1	Persen , uw Prinsse wint !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.2	Verheucht , mijn ondersaten , Den Hemel vecht voor u .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.3	Ontslaeghen sijn mijn staten Van d'ijsselijcke vrees : daer leyt de Parth gevelt .	Fear_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.4	Dat Tisiphernes leef ' !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.5	Geluck , grootmoedich helt !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.6	Den groten scepter ghij sult voeren nae mijn leven , En uw gewenschte lief ick u ten echt sal geven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.7	Ontwapent u terstont en nae de ruste tracht , Op dat uw wonden , of vermoeitheit sij versacht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.8	Laet ons de Goden gaen met danckbaerheit vereeren , Die op des vijants hooft sijn dreygementen keeren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.9	Opperste Goden , en ghij opperste Godin Granida , die uw throon in 't diepst hebt van mijn sin , U comt de zege toe , oock sult gh'er 't nót af erven , En mij ist nóts genoech om uw nót , nót te derven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.10	Wat naeckt u blijde maer , o Tisiphernes , sal Uw siele cunnen wel de blijschap draeghen al ?	Joy_Emotion_BodyPart
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.11	Het sal schier sijn van nood dat ick u die verberge , Op dat haer hefticheit niet al te veel en verge Uw ingenomen hart met overige feest , En haer omhelsen streng verdelgh ' uw swacke geest .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.12	Lof , goedertieren Goden , waert te vieren , Die , doen wij weenden , Cracht , en moed verleenden Over ons sije , In het bitter strijen Om d'heerschappie .	BodilyProcess_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.13	vs. 947 -953 Doen 's werelts jaeren Jong , en onervaeren In boosheits listen , Van geen eigen wisten , Kenden de lieden Dienen , noch gebieden , Wat het bedieden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.14	Yder behoefden Luttel ; d'Aerde proefden Ploegen noch delven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.15	Willich , uit haer selven , Droechse de goeden , Die de menschen voeden In overvloeden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.16	Maer 't overtreden Van nootdrufticheden , Dat dompt ' een ijder Inde sorghen wijder , Doende , met pijnen 'T veele luttel schijnen , Hen quam het mijnen .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.17	Want , doen het vechten Daer s'haer eerst nae rechten , Haerlie beswaerde , Sij verdeelden d'Aerde : Graften en staeken Sachmen doen eerst maeken , Muiren en daeken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.18	Voorts met elckandren , Om met crijch den andren Niet meer te stooren , Sij een coning kooren , Die haere twisten Met sijn oordeel sliste Dats' oprecht gisten ; Die haer oock tegen Volcken bij gelegen , Die'r overvielen Om haer te vernielen , Leyde ten strijde , Daer hij t'geenen tijde , Sich selven mijde .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.19	Dese rechtvaerdich Waeren 't rijcke waerdich , Maer haer naesaten , Hebbende verlaten D'oprechte wegen , Lust in 't heerschen cregen , En 't ontucht plegen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.20	Soo dat ( daer d'ouden Liever dienen souden ) Een coning heden Nau en is te vreden Met sijne plecken , Om 't gebiedt te recken Haer sinnen strecken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.21	D'oude niet gaeren Heerschten , daerse waeren Daer toe gebeden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.22	Dese , niet te vreden Met die 't haer bieden , Dwingen oock de lieden Die voor haer vlieden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.23	Wat ongelucken Comen 't landt verdrucken 'T welleck moet lijen Vreemde tyrannyen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.24	Nevens het plagen Des tyrans , 't moet dragen Sijns vollix knagen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.25	Lof , goedertieren Goden , waert te vieren , Die , doen wij weenden , Cracht en moet verleenden Over ons sije , In het bitter strijen Om d'heerschappie .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.26	Al peinsend ' op sijn bed ick leggen vandt mijn Heer , Gemat van hoop , en vrees , door 't trecken heen en weer .	Fear_Emotion_Hope_BodilyProcess
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.27	Mits hij mij wiert gewaer , vlooch op met heftich vraeghen , Wats d'uitgang van den strijdt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.28	Uw vijandt is verslaeghen , Seyd ' ick ; waerop hij mij omhelsend ' heeft geseydt , Geen eeuw sou wisschen uit sijn heete danckbaerheit ; Noch mijn getrouwe dienst uit sijn gedachten vlieden , Soo lang als in sijn siel Granida sou gebieden , Dewelcke morgen hij te gaen besoecken dacht Indien sijn blijschap hem liet leven desen nacht .	Joy_Emotion_EmotionalAction_Relief_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.29	Morgen , dat waer te lang , indien sijn ingeboren Geneichtheit t'haerwaerts hem met aenhoudende spooren Prickeld ' als doet de mijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.30	De naere nacht verspreydt Haer schaduw over 't cruidt , en d'eedel Sonne weydt Sijn afgeronnen jaght achter de steyle bergen ; De sorgen , die des daechs het woelich vollick tergen , Die slapen met den mensch ; 't gevogelt en het vee Sijn stom , de maene slaept , en licht Granida mee : Maer altijt leeft mijn liefd .	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.31	Een treck om te vereenen Drijft mij nae mijn Godin .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.32	Sij drijft mij herwaerts heenen Soo naer als 't lichaem can .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.33	Dit sijn de vensters dees , Daer , als de Son opging , de tegen-Son verrees , En joech hem schaemten aen .	Emotion_Shame
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.34	Uit dese vensters plach Te togen mijn Godin haer aenschijn op den dach : Als op 't onwaerde volck haer jonste sij laet reghenen , En 't haer belieft daermeed ' Hemel en Aerd te seghenen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.35	Ach , salich ick die 't sie !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.36	Soo salich niet misschien Is die 't genieten sal , en niet soo wel sal sien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.37	Aymij !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.38	Ick vocht , ick wan , een ander sal braveeren !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3611.s.39	Dats niet ; maer die 't sal sijn can u niet vol waarderen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.3613.s.1	granida , voedster , daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3620.s.1	Hoe nu , Granida ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3620.s.2	Cloeck , en vaerdichlijck besluit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3620.s.3	Voedster .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3624.s.1	Mijn vrouw .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3630.s.1	Daer gaet Daifilo , treedt eens uit , Om hem te roepen , ras , want ick uit sijnen monde , Gaeren , de staet , waerin sijn heer mach sijn verstonde .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3634.s.1	Dochter , ick vlie .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3670.s.1	Nu dan , dat swackheit van gemoe U niet het minst gegrondt in reden kiesen doe , Siet dapperlijcken toe .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3670.s.2	Dat ingesoghen waen , die 't merch en 't hart soo naer , , leyt , Door dien van kintsheit af sij ons wort ingeplant , Niet met haer nevel deck de claere naeckte waerheit , Die de Natuire prent in 't redelijck verstandt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3670.s.3	Voorgangen overleg met reden van gewicht , En d'ondervinding selfs heeft mij wel onderricht Dat soeter lust en rust gemeenlijck wort genoten In hutten , als ten hoof , oft op beveste sloten .	Aquiescence_Emotion_BodilyProcess_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3670.s.4	Als dat al niet en waer , maer dat een harders staet Was vol van arbeyt , moeyt , vol sorchs en commers quaet , En ick daerinne mocht soo trouwe liefd bejagen , Wat vreuchde soud 't mij sijn daeromme smart te dragen !	Joy_Emotion_Love_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3674.s.1	Daifilo !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3674.s.2	Hij keert .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.2	Aym ' !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.4	Wat beswaer Cond mij quetsen bij u , ten waer 't het uwe waer ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.5	Granida , dese tijt is jonst van Godt vercregen , Dient ' er u van .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.6	Hij naert .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.7	Ick gae beneên hem tegen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3684.s.8	Het swaerste meest moet wegen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3689.s.1	Mijn vrouwe , siet mijn hier tot uwen dienst bereyt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3689.s.2	Belieft u yet van mijn ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3700.s.1	Niet anders als bescheit , Daifilo , van de wel of qualijckvaert uws heeren , Mijn vrouw comt sellefs of , en seit dat sij begeeren Heeft , om uit uwen mondt het selve te verstaen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3706.s.1	Voedster , 't believ ' u aen een sijde wat te gaen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3714.s.1	Hooghe Prinsses , ick bid den hooghen Prins der Goden Dat hij u wenschen geev ' de cracht van sijn geboden , En danck hem dat mijn dienst u yet wat comt te stae .	EmotionalAction_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3719.s.1	Ach , Daifilo !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3724.s.1	Hoe mijn vrouw ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3742.s.1	Neen laet dat nae .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3742.s.2	Daifilo en hadt ghij mij niet verre boven allen , Doen ick u eerstmael sach , verheucht en welbevallen , En uw te passe dienst mijn hart geneicht tot dij , Soo soud ' uw heusheit trouw gepleecht ten hoof , bij mij De jonst hebben verweckt die ick u droech te vooren .	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3742.s.3	Nu heeftse die vermeert ; maer in mij is gebooren Een lust om weten wat het sijn mach , dat u hier Dus in de naere nacht ontrent mijn vensters stier ; Ontdeckt het vrijelijck en antwoordt op mijn vraeghen .	Emotion_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.1	Een oprecht hart , mijn Vrouw , darf van sijn grondt gewaeghen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.2	Princesse ' , als mij verscheen dit heilsaem aenschijn schóón , Dit seltsaem wesen , dat soo rijcklijk stelt ten tóón De grootheden uws siels , haer hooghe ' en heussche goedicheit , Haer ernst , oprechticheit , bescheidenheit , cloeckmoedicheit ; Had een vierigen Godt mijn hart doe niet geleert , Dat u den hemel aen de werelt had vereert Op voorwaerde , dat al , die kenden uw waerdije , Souden voor 't hoochste goedt kiesen uw slavernije , Soo moest ick van 't geslacht der eyckenboomen hardt , Of wel een rootse sijn die niet beweecht en werdt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.3	Grootachting uws persoons is voocht van al mijn sinnen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.4	Die dreef mij van het veldt , en deed mij 't hof beminnen , Om de genegenheit mijns siels te uitren ; want Die soeckt haer aen het schoonst te geven dat sij vandt , En met dat een te sijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.5	Maer waerdste der Godinnen , Hoe wel ick daer nae wensch , ick hoop het niet te winnen ; Soo waerdt en acht ick niet bij een Godin een mensch : Om mijn ootmoedige ' hoop , verschoont mijn trotse wensch .	Emotion_Hope_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.6	Ick wensch het niet , maar sou daer wenschen aen te raeken , Mocht ick door wenschen eerst mij self dies waerdich maeken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3787.s.7	Dit doet , mijn vrouw , dat ick op 't naest uw bij sijn soeck , En ver van u te sijn mij valt de swaerste vloeck .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.1	Ach Daifilo !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.2	Door 't glas verstond ick de geruchten Van uw verliefde clacht , en ongeveinsde suchten : Noch 't is nu d'eerste mael dat ick die heb verstaen , Noch 't is nu d'eerste mael dat ick bespeurdt heb aen Uw uiterlijcke jonst , uw innerlijcke vlammen . 'K en acht geen beuseling van onderscheidt der stammen , De deucht maeckt eedel ; u en overtreffet dan Ter werelt , dat ick weet , geen Prins noch edelman .	BodilyProcess_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.3	Daifilo ' , ick heb u lief en sal uw liefd betaelen Het dierste dat ick can .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.4	De tijdt verbiedt te draelen In 't openbaeren van mijn ongemeten vier .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.5	Daifilo , dits mijn raedt , leydt mij terstondt van hier , Een harderinnen cleedt , in plaets van goudt , en sijde Ben ick vrolijck getroost .	Aquiescence_Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3816.s.6	Indien ghij u cundt lijden Met mijn in sulcken staet , soo vliên we ' eer dat het daecht .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3846.s.1	Ick kus d'aerde , mijn Vrouw , die uwe voeten draecht .	EmotionalAction_Love_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3846.s.2	Een hartseer doodt mij , groot , maer lieflijck boven maeten , Dat ick soo grooten jonst moet onvergolden laeten , Door dien mij macht gebreeckt .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3846.s.3	Maer overlegt , mijn vrouw , ( Want liever als uw druck had ick mijn eighen rouw ) Van welcken hoocheit ghij soudt climmen gansch beneden : Een Coninginne , niet geëert , maer aengebeden , Haer geven tot een staet , Daer niemandt acht op slaet ?	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3846.s.4	Het braef , opsichtich , groots , en hemel-hooch verheven , Van duisenden gewenscht voor salich-maekend leven , Soudij verlaten , om een leven soet , en sacht , Maer ongesien , en laech , slecht , nedrich , ongeacht , Het welck u mocht bedroeven , Wanneer ghij 't quaemt te proeven .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3846.s.5	Men raeckt ' er lichtlijck in , maer swaerelijcker uit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.1	Daifilo ' , en houdt het mijn voor geen verijlt besluit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.2	Eer ick met dese saeck dus ver ben voortgetoghen , Heb ick in juiste schael de dingen overwoghen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.3	De Prinsselijcke staet veel nutheits innebrengt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.4	Maer ( Goon ! ) wat tegenwicht is met dat nut gemengt !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.5	Ach eenvoudige rust der harders laech-geseten , Die luttel van 't geswindt ramps overromplen weten !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.6	Ick sie nau , dat ick yet , o Daifilo , verloor , Indien dat ick die staet slechts om haer selven koor ; Nu kies ' icks ' niet alleen om 't schuwen der verdrieten , Die mij naekende sijn , maer meer , om te genieten En te vergelden dier uw liefd ' , die mij verwan ; De waerdste vreuchde , die den hemel deelen can : Om welcke ' in midden 't vyer ick sou te leven dóógen .	Fear_Joy_Emotion_EmotionalAction_Love_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.7	Maer wat , ick doe't alree , ghij siet de proef voor óógen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.8	Wat last ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.9	Wat smarte ?	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.10	Wat quellage soud ' op mijn Hart heften connen als ick een met u mocht sijn ?	Emotion_BodyPart_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.11	Daifilo , hoe dus verbaest ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3879.s.12	Heeft u dees maer verslaeghen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.1	Verslagen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.2	Jae , mijn Vrouw , noyt droefheit in mijn daeghen Vermeesterde mijn hart met sulcken overlast , Gelijck de blijschap nu dat heftich annetast .	HeavyHeartedness_Joy_Emotion_Other_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.3	Wat eer ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.4	Wat lof ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.5	Wat danck can u de werelt geven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.6	Mijn gedacht is te cleyn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.7	Ach lief , en salich leven Mijns ootmoedighe siels !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.8	Ach mocht mijn siel , van nu Eeuwelijck metter woon vaeren uit mijn in u !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3893.s.9	En , in dees wooning schoon uws siels , altijt nae desen Onscheidelijck , haar trouw-nechtige dienstboo wesen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3899.s.1	Daifilo ' , ons corte tijdt moet sijn genoomen waer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3899.s.2	Vindij mijn voorslach goedt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3910.s.1	Mijn vrouwe , dat wij daer Niet langer op beraên .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3910.s.2	Uw voorsicht heeft veel verder , Prinsses , en bet gesien , als uwen slechten harder .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3910.s.3	Wat u belief ' geschie .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3921.s.1	Nu Daifilo , dat wij Mijn voedster dan terstondt gaen winnen op ons sij , En onderrechten haer de saeke te bestellen , Dat mijn verlies op 't minst mach mijn heer vader quellen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.head.3925.s.1	Vierde deel	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.1	Onder soo veel , soo veel cieraden eel en braef Vant vrouwelijck geslacht , en ist de minste gaef Des hemels niet , dat sij schielijck een raedt versinnen , Die nae veel overlegs , een man nau soude vinnen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.2	Soo ras de voedster had haer tegen-reên geseit , Waerense van mijn vrouw wel crachtich wederleyt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.3	Soo ras de voedster sach dat van verandring spreken In haer voornemen , was voor steene rootsen preken , En ons haer dienste bood , soo hadden sij , om 't stick Lichst uit te voeren , in min als een oogenblick , Listigen raedt bedacht , om soo seer te verblenden Coning , en heele hof , dat sij niet eens haer wenden Souden , om ondersoeck nae de Prinsses te doen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.4	De saken sijn bestelt , en niemant sal vermoên Hebben op mij .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.5	Neen , want int west noch niet gedaen , , sijn , De bruine grijnsen van des hemels vrolijck aenschijn ; Scharp 's Uchtens gouden cruin in 't oosten schittert , mit Haer verschgevlochten crans van roosen roodt , en wit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.6	Niemandt van 't hofgesin is , weet ick , noch geresen , En acht mijn heer sal mee noch bij sijn bedde wesen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.7	Maer , later diende 't niet !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3964.s.8	Siet waer hij mij ontmoet , De blijschap steurt den slaep meer dan de droefheit doet .	Joy_Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3997.s.1	Spoeydt u , eerwaerdich licht , om op mij uit te spreyden 'T beginsel , en 't vervul van mijn geluckicheiden ; O Blosende ' Uchtent , boet mijn onrustich gewach , Voorloopster van de Son , vroemoeder van den dach .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.3997.s.2	En ghij , glinstrende star , deckt uw verliefde stralen Wat eer als uw gewoont , en om weer te verhalen Uw tijtverlies soo wilt u t'avondt liever spoên Wat vroegher , als uw licht mij beter dienst sal doen : Stelt uw brageeren uit , soete Godin , tot t'avondt , En neemt soo veel ghij nu te cort comt aen den avondt ; Indien ick willich volch der minnen hete brandt , Noch Godtheit boven d'uw verhef in mijn verstandt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4001.s.1	Ich wensch mijn heer van daech 't hoochste geluck te proeven .	Emotion_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4008.s.1	Daifilo , sijdij daer ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4008.s.2	Gaen wij ten hoof vertoeven , Tot dat de Coning rijs ' , om dan van stonden aen , Gelijck besloten is voort nae mijn vrouw te gaen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4008.s.3	Maer siet : haer voedster .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4008.s.4	Wat of haer dus vroech mach quellen ?	Emotion_Other_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4017.s.1	Misschien , mijn heer , ist om de staessy te bestellen , Die tegen uw coomst moet heerlijck sijn bereêt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4021.s.1	Roept haer , op dat ick yet vande Prinssesse weet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4024.s.1	daifilo , voedster , tisiphernes	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4028.s.1	Mijn vrouw !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4032.s.1	O groote Goôn !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4038.s.1	Mijn heer soud ' u yet vragen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4042.s.1	Waer is de Coning ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4047.s.1	Wel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4047.s.2	Voedster , hoe dus verslagen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4047.s.3	Wats van Granida ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4047.s.4	He ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4052.s.1	O Goden wonderbaer !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4057.s.1	Hoe , en ist niet wel met haer ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4057.s.2	De saeck betreft mij mee , segt wat'er mach gebreken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4061.s.1	Datmen den Coning weck , ick moest den Coning spreken !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4068.s.1	Datmen den Coning weck .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4068.s.2	Maer geeft ons wat bescheits , Ist qualijck of ist wel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4072.s.1	Qualijck , en wel , van beydts .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4076.s.1	Qualijck en wel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4076.s.2	Hoe soudmen hier bescheyt uit merken ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4081.s.1	O eeuwichlijcke macht !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4081.s.2	O wonderlijcke werken Die d'aertsche sinnen , en vernuft te boven gaen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4086.s.1	O Goôn , wat sal dit sijn ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4093.s.1	Terstondt suldij 't verstaen , Mijn heer , de Coning is geweckt , en voort geresen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4097.s.1	Siet of hij comt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4101.s.1	Mijn heer , hij sal terstondt hier wesen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4105.s.1	Daer is de Coning , nu uw bootschap , voedster , doet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4107.s.1	coning , voedster , tisiphernes	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4113.s.1	Voedster , wat brengdij ons dus schichtich ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4113.s.2	Quaedt of goedt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4121.s.1	'T believe ' u , heer , uit mij te hooren de geschiedenis , En selfs te oord'len oft voor quaet of goedt te dieden , , is .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4121.s.2	De Coning met gedult aenhoore mijn vertreck .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4125.s.1	Spreeckt claerlijck , niemandt en sal steuren uw gespreek .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.1	Hoewel een eedel hart van uitgenomen sinnen Alle ' eedel harten vroom , en deuchtsaem moet beminnen , Soo heeft Natuir nochtans gehecht aen ons gemoedt Een treek , die verre , d'een voor d'ander kiesen doet , Om door vereende liefd daer mee te sijn verbonden .	Emotion_EmotionalAction_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.2	Als sulcken wederpaer getreft wort , of gevonden , Wast liefd ' heftich en ras , soo datse , naer mijn vijndt , Geen nieuwe vrientschap , maer vrientschaps vernieuwing schijnt : Recht oft die sielen met elckander onderlingen Gepaert hadden geweest , al eer sij lijf ontfingen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.3	Des Tisiphernes sich niet belge , dat mijn vrouw , Als sij gistr ' avondt haer tot slapen geven souw , Om 't aenstaend ' huwelijck was droevich en t'onvrede , Alsoo 't aen haer gemoedt niet ganschlijck en voldede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.4	De treurighe Prinsses seer veel , en ijvrich badt De groote Goden , haer te jonnen 't geene dat Die beter dan sij selfs voor 't best en schoonste kenden , En conden , was het haer Godlijck believen senden . 'T woelend gedacht had nau van 't bidden eindt gemaeckt , Als sij , en corts daerop , ick ben in slaep geraeckt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.5	Ick lach in diepe rust , mijn leden overgoten Met sachten slaep , en al mijn sinnen toegesloten , Mijn siel gedompelt in een grondeloos vergeet , Soo dat de droomen oock , die buitens tijts met leedt En daechschen arrebeyt des lichaems , comen quellen , Met haer vernieuwing niet vermochten die t'ontstellen ; Wanneer een groot geluit schielijck mijn ooren sloech , En overclaere glans mijn vaeck uit d'oogen joech .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.6	Ick hoorde soo , en sach , ( O Goden , leert mij seggen ) Dat d'opgetoogen siel 't lijf onbeweecht liet leggen .	Joy_Emotion_BodyPart
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.7	Siet daer , de camer leeft , en tsiddert op de clanck , En lieffelijcke maet van hemelsch spel en sanck Der Godinnen , gecroont met groene laurentelgen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.8	D'ontsprongen vensters op en cunnen niet verswelgen Het helle licht waer van de volle kamer blaeckt , Vloer , want , tapisserij , het welfsel vlammen braeckt En alles sonder brandt , niet om vernielen móórdich , Maer tot erkentenis des Godtheits tegenwóórdich .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.9	De sangsters schicken haer int ronde ' , en midden in Den fraeygevoechden ring , verheft haer een Godin ; Granid ' in als gelijck ; van welgeschickte leden , Van eerwaerdich gelaet , van trony net besneden , Van oly-cleurt gesicht , van dichte vlechten blondt , Van bleeckheit des gedaents , en roo coralen mondt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.10	Het hooft , tot teecken van haer mannelijcke luimen , Dat deckt een blancken helm , en blickert door de pluimen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.11	Haer voorsichtighen arm gewapent schijnt te sijn Met eenen schilt van claer doorsichtich cristallijn ; Maer dat sij 's wijslijck bruickt , en niet en soeckt door desen Als soete vrede , blijckt aen haer besaedicht wesen , En den olijventack , een tegenteecken van 't Crijchsduyend gras , die sij reyckt met haer rechter handt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.12	Sij wendt haer tot Granid ' en goddelijcke zeden Ontsluiten haeren mondt , met dus-danige reden ; Welck goddelijcke cracht Diep druckt ' in mijn gedacht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.13	Granida ' , ontwaeckt , dat rust u buiten slaepe vinde , Siet hier Minerva , die noch inde wiech u minde En haer genaede sandt .	Emotion_Love_Compassion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.14	Geen mensch valt u te lót , Maer in des hemels throon , de Liefd , een eeuwich Gódt .	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.15	Uw liefde tot de Liefd , doet Liefd in liefde blaken , Die kiest u tot sijn Lief ; ick sal het huwlijck maken , Ghij sult de weerliefd sijn , sijn bruidt , en sijn Godin , Een vrouw van staeghe liefd , niet van de wulpsche Min. Uw vrijer wacht om hooch , wij sijn u coomen haelen .	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.16	Godinnen , voert haer mee , de doorschijnighe saelen vs. 1325 -1333 Des hemels sullen haer niet schaemen dit cieraet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.17	Nieuwe godin , uw hart van aertsche last ontslaet .	Worry_Emotion_BodyPart_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.18	Uit hadse .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.19	Mit ontsteeckt het wellustige speelen Der negen sangsters , daer sij lieflijck onder quelen : Nu ontslaet u d'Aertsche last , Beter past U de Godtheit aen te trecken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.20	Salige Godinne , wij Voeren dij Nae des hemels hoochste plecken , Plecken altijt hel en claer , Plecken , daer Nemmer last can lust bevlecken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.21	Soo ras sij desen sanck met spelen heffen óp , Ontlast sich het palais tot boven in den tóp , Het gulde welfsel splijt , en de gemetste dacken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.22	Granida voerens ' op olijf en laurentacken , Dus singend ' hemelwaerts , al hooch , en hoger heen , Vervolcht van mijn gesicht , tot dat s'er uit verdween .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.23	Doe voechden sich 't gebouw en alles in sijn stede , Bedaerend ' als ick mee ten langen lesten deede .	Aquiescence_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.24	Suffe verbaestheit van mijn leên allensjens streeck , Ick rees ' en 't geen ick wel besien had overkeeck .	Emotion_BodyPart_Wonder
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.25	Granida's lege coets tuicht dat der oude vrouwen Gesichten niet altijt voor droomen sijn te houwen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4320.s.26	Hier is mijn geest af vol , dit coom ick dienen aen , De coning oordeel nu nae dat hij 't sal verstaen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4326.s.1	Mijn dienaers , gaet terstondt wat'er af is bespooren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4332.s.1	Mijn heer , de vrouwe raest .	EmotionalAction
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4336.s.1	Soo deed sij noyt te vooren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4341.s.1	Voor seker raestse nu , al raesd'se noyt misschien .	Other_Anger
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4345.s.1	Noch oyt , noch nu .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4349.s.1	'K en weet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4354.s.1	Men salt haest cunnen sien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4354.s.2	Ick spoey mij derwaerts heen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.1	Doet daerin uw behagen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.2	En laet op 't rascht aen ons de tijding herwaerts dragen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.3	O Goden groot , soudt ghy mij wel hebben gespaert Tot 't alderlaetste van den ouderdoom bejaert , Op dat ick troosteloos daerin soude versmachten , Berooft van 't geene dat alleen haer leedt kon sachten ?	Emotion_BodilyProcess_Other_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.4	Maer hoe ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.5	Indien alsoo de saken sijn gestelt , Als ons de voedster voor de waerheit heeft vertelt , Soo loov ' ick danckbaerlijck uw goedtheit hooch van waerden , Hoewel ick eensaem blijv ' en mis mijn lust op aerden .	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.6	Want als ghij mij onttrockt dit eenich pandt soo soet Door ongeval of doot , gelijck misschien ghij doet , Soo soud ' ick tegens u en mij misdoende dwalen , Indien ick op uw wil , en wetenschap ging smalen , Mij steurende dat ghij quaemt wedereisschen 't geen Dat ick soo lang van u genoten had te leen : Recht of ick bet als ghij wat oorbaer was verstonde , Recht of ick mij en haer meer goets , als ghij ons , jonde .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.7	Men soeckt ; en soomen haer noch doodt noch levend vindt , Soo neem ick 't blijcklijxt aen , en houd dat sij besint Van een verheven Godt ten hemel is gevaeren : Want de bescheiden reên , en 't deftige verclaren Des voedsters brengen 't mee , wiens trou-bevonden mondt Noyt spreken was gewoon versuft of ongegrondt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4397.s.8	Maer siet de vrouwen daer , die brengen nieuwicheden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4399.s.1	rey van jofferen , coning	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4410.s.1	Grootachtbaer heer , het slot , van boven tot beneden , Hebben wij heel doorsocht , en omgekeert ter vlucht , Granida ' is nieuwers , maer een lieffelijcke lucht , Met goddelijcke reuck vervult haer gansche camer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4426.s.1	O gróóte Pallas , noyt was mensch u aengenaemer Als Perseus door uw jonst gesegend wonderlijck ; En noch ter tijdt op sijn naesaeten in het rijck 'T welck van hem naeme voert .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4426.s.2	Godinne wijs van raede , Ghij duiren laet uw jonst , en anhoudt uw genaede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4426.s.3	Lof , seechbare Godin !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4426.s.4	Lof , hoochverheven Gódt !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4426.s.5	Eewige Liefde , die van aertsche bruiloft , tót Een hemels huwelijck Granida comt verheffen , Geen danckbaerheit , geen lof uw prijs can overtreffen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4475.s.1	Lof , eewige Liefde , wij Geven dij , Die uw hooge goetheits straelen , Door de dicke wolcken heen , Al beneên , Laet tot opter aerden daelen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4475.s.2	vs. 1390 -1395 Die op uwe crachten let , Ende set Boven al op u het óóghe , Treckt uw goetheit overschoon Inden throon Des besonden hemels hóóghe .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4475.s.3	Heilich , goedertieren , eel Sijdij heel .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4475.s.4	Die in uwe vlammen blaken , Cundij oock op aerden hier , Door uw vyer , Met een hemel salich maken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4475.s.5	Soo , wie dat u lieven sal , Suldij al , Niet alleen Granida schaeken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4478.s.1	tisiphernes , daifilo , coning , rey van jofferen	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4502.s.1	Daer leyt mijn throon in d'asch , en de beloften mildt Van 't schoonpratich Geluck , en te vergeefs gespilt Soo veel moylijcke last ter nauwer noot deurkropen , Soo veel gevaers , soo veel te leurgestelde hoopen , Soo veel ' anxstige vrees en arbeyt uitgestaen , Soo veel treffende sorch en soo veel weers gedaen , Soo veel gesochte ramps , soo veel verdriet geleden , Soo veel verbeten smarts , soo veel vertwijfeltheden .	Fear_Joy_Emotion_Happiness_Hope_Other_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4502.s.2	Ay dul geluck , ick ken uw onbescheyden cracht !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4510.s.1	Maer op een vroom gemoet , mijn heer , heeft sij geen macht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4519.s.1	Niet langer dan het selfs haer overlast wil lijen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4519.s.2	Dit sal mij 't laeste sijn .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4519.s.3	Mijn handt sal mij bevrijen , 'T is lang genoech geleeft .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4519.s.4	Gaen we .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4519.s.5	Mijn hart , verstout U tot een cort verdrach .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4525.s.1	Mijn heer , besindt u , houdt !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4529.s.1	Houdt , Tisiphernes !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4533.s.1	Ach !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4539.s.1	Heer , geeft de reden plaetse .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4543.s.1	'T Geluck en geeft haer geen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4547.s.1	Jae 't .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4557.s.1	Bedaert , en vaetse .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4564.s.1	Hoe nu toe , brave Prins ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4568.s.1	Gelijck mijn ramp mij jaecht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4572.s.1	Is dit de liefde die ghy tot Granida draecht ?	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4578.s.1	Ick liefde ' haer niet , 't en waer ick mij 't verlies liet rouwen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4582.s.1	Niet haer verlies , maar 't uw , want sij is hooch-behouwen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4586.s.1	Soo spuwt het wreedt Geluck op mij haer crachten uit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4592.s.1	'T Geluck en steurt u niet , maer dat ghij 't qualijck duidt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4596.s.1	Misjondij aen uw lief Granid ' een hemels houwelijck ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4600.s.1	Neen , maer ick vlie de smert van mijn misvallen grouwelijck .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4605.s.1	Liefde ghij haer , mijn heer , 't geen dat u is geschiedt , Soud u om haer geluck , lief sijn , en rouwen niet .	EmotionalAction_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4611.s.1	Haer ben ick quijt , en sie voort al mijn toeleg slechten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4617.s.1	De Goden vinden 't goet , wie sal haer onderrechten ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4622.s.1	Sij vinden 't goet ; maer dat ick door het sterven mij Bevrij , dat sullen ook geensins beletten sij .	EmotionalAction_Dissapointment_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4626.s.1	Ghij cunt leven dat u 't geluck soo seer niet hinder .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4631.s.1	Het is te wanckelbaer , en licht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4635.s.1	Vertrouwt het minder .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.1	Vertrouwen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.2	Ick vertrouwt nae desen nemmermeer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.3	Ick sie wel 't en verheft maer , om van boven neêr , Met ijsselijcker slach 't verhevene te smijten ; Gelijck den Arent trots , die niet in stucken rijten Den schiltpad ijserhardt met felle claeuwen con , Hem strengelijck om hooch , schier voert tot in de Son , Van waer sijn scharp gesicht kennende berch en dallen , Hij dan op rootsen hardt , hem laet te berste vallen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.4	Mij wallecht van de werlt ; en sal ick nu voortaen Leven , soo sal ick mij die levendich ontslaen .	Emotion_Disgust
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.5	De last , en het gebiedt van mijn beseten landen , Daifilo , lever ick van nu af in uw handen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.6	Sijt ghij voortaen de Prins .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.7	Ick levers ' u , door dien Daermede niemandt can waerdiger sijn versien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.8	Uw trouwe dienst is meer dan yemandt can versinnen ; 'T heeft u belieft voor mij uw eygen lief te winnen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.9	Dese versloegh den Parth , en gaf hem in gevaer Des vreesselijcke doots , willich , om mij en haer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4673.s.10	Grootachtbaer heer , wilt hem in mijnen staet bevesten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4677.s.1	O wonderlijck beleydt !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4677.s.2	Maer 't is beleydt ten besten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4687.s.1	Voor mij , ick ben terstondt het hof te laten , ree , Mijn peinsachtich gemoedt wil geen blijvende stee ; Maer mijn voorneemen is van d'eene tot den anderen , Met eensaem selschap clein te reisen en te wanderen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4687.s.2	Ick bid om oorlof voorts , want hier vertoev ' ick niet .	EmotionalAction_Desire_Despair
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4711.s.1	Ick danck mijn heer , die mij soo grooten eere biedt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4711.s.2	Een hooch en waerde gaef wort mij van hem gegeven ; Maer hij weet tot wat eindt ick coos ' het hoofsche leven , Te weten , om den dienst van de Prinsses , geensins Op hoop van voordeel , min van selfs te worden Prins , Welck pack voor mijnen hals sijnde te swaer om dragen , Een lagen harders rust mij beter doet behagen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4711.s.3	Maer wel sal ick , mijn heer , blijvend uw trouwen knecht , Uw dingen gaede slaen nae mijn bequaemheit slecht , Tot dat ghij wat ontlast vant schielijcke beswaeren , Met hulpe vanden tijt sult comen te bedaeren , Om met vernoeging weer te keeren tot den staet , Die 't lusteloos gemoedt door tegenheit verlaet : Mijn heer , soeck het , gelijck hij 't goet vindt , te besaedigen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4723.s.1	Ach luttel wenschend hart !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4723.s.2	Luttel can u beschadigen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4723.s.3	Ach wat onttreckt ghij , met begeerlijckheits verhoên , Het speelsiecke Geluck , al stofs om quaet te doen ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4723.s.4	Dats Prinslijck , Daifilo , geen prinslijckheit begeeren .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4727.s.1	Ick bid u oorlof , heer , om tot mijn reys te keeren .	EmotionalAction_Desire_Despair
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4731.s.1	Vaert wel , mijn Prins , vaert wel , en sijt getroost .	Aquiescence_Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4737.s.1	Ick tij Van stonden aen op reys ; vaert wel mijn heer , en ghij Daifilo wel .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4744.s.1	Ick sal mijn heer tot huis versellen , Om 't reddeloos gesin verbaest in rust te stellen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.head.4748.s.1	Vijfde deel	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4751.s.1	ostrobas , artabanus	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.1	Artabanus , siet hier uw Prins soo braef vernaemt , - Maer , hey , geweest !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.2	- met wien ghij hier in Persen quaemt , Wien , doen hij leefde , ghij getrouw pleecht aen te cleven , En nu versuimt sijn wraeck te nemen nae sijn leven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.3	Artabanus , siet hier uw Prins soo braef wel eer Vernaemt , wiens hooge roem nu leyt gevelt ter neer , Gevelt , niet van een Prins , ( ay spijt !	Emotion_Sadness_Remorse
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.4	en cundij slapen ? ) Maer van een harder slecht , vervalscht in Prinssen waepen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.5	Hey laster !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.6	Hey !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4770.s.7	Flux rijst Artabanus , en boet Mijn wraeckrasenden dorst , ten minsten , met sijn bloedt !	BodilyProcess_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.1	Wapen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.2	Ick volch mijn Prins , 't gebodt dat gij verclaerde , Ick volgh , mijn Prins , ick volgh , al waer 't tot inder aerde !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.3	Ghij sijt vertrocken , maer inwendich ick aenschouw Uw beeldt , en vast geprent in mijn gedachten houw Uw haer t'samengegroeyt met bloedt , uw bleeck geschonden Trony , uw cranck gesicht , en uw gapende wonden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.4	Hey wapen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.5	Wapen hey !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.6	Mijn Prinsse roept om wraeck .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.7	Flux op , Artabanus , verhaelt terstondt de saeck Aen uw geselschap , en ontsteeckt haer met uw woorden , Om op gelegen plaets den moorder te vermoorden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.8	Lang over middernacht ick 't al te wesen gis , Het licht dwerrelt gemengt onder de duisternis , Den blonden dageraet met haer blosende kaeken , En d'uur dat mijn Godin mijn coomst verwacht , genaeken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.9	Want , doen icks ' op het landt gebracht had , liet ick haer In het geselschap van mijn trouwe suster daer , En soo de corte tijt ons haestich dwong te scheyden , Besloten wij , dat sij mijn weercoomst souw verbeyden , Eer dat de tweede Son soud ' aen den hemel staen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.10	Siet hier den naesten wech , dit dient mij inteslaen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.11	Vaert wel scepters , vaert wel , vaert wel verheven thróónen , Verheven soo , dat mij van uwe steylheit ijst , Vaert wel dwingend gewaedt , en al te sware cróónen , Afgoden die met windt uw ijdle dienaers spijst .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.12	Uw ijdle dienaers ghij duisenderleye noot , , breyt , Door uw beloften loos die ghij soo qualijck houdt , Want sij , besietmen 't wel , verkleenen inde grootheit , Slaven in d'heerschappij , verarmen in het goudt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.13	Een laeghe ' en diepe rust mij beter mach verquicken Die mij te saemen smelt met een lief ander-Ick : Ick laet u , warrich hof , en kies voor soo veel stricken , Een al veel strenger , maer och , hoe veel soeter strick !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.14	Bedauwde bloemkens versch , en ghij bloosende róósen Die uwen mantel groen nu effen open doet , Welcoom , en danck dat ghij verquickt mijn amelóósen , En afgepijnden geest met uwen aesem soet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.15	vs. 1521 -1524 Nu biggelt op het gras , en cruidtjens onbetreden , Mijn laeuwe traentjens , die den dauw soo wel gelijckt : Traentjens niet meer van smart , niet meer van bitterheden , Maer van een teêr gemoedt , dat schier van vreucht beswijckt .	Joy_Emotion_Happiness_BodyPart_BodilyProcess_Moved_Sadness_Anger_Spitefulness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.16	O boomen schaduw-mildt , ootmoedelijck laet daelen Uw nijgend hooft als ghij 't eerwaerdich aenschijn siet , Leydstar en Morgenstar met weerlichtende straelen , Indien mijn blijschap slaept , waerom weckt ghij hem niet ?	Joy_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4874.s.17	Vrolijcke vogeltjens , die nu 't begint te daeghen , Met uitgelaeten sang het stille woudt ontrust , Ghij nachtegael voor heen , vlied uit de bootschap draeghen , Dat hij sich haest , ick wacht alhier mijn lieve lust .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4876.s.1	daifilo , granida	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4887.s.1	Ach , om mijn vliegend hart snellijcker te doen spoeyen , Hoeftmen geen vogeltjens noch nieuwe boôn te moeyen , De liefde port dat staech , en drijft tot sijn Godin Mijn eerwaerdige vrouw .	Joy_Emotion_BodyPart_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4895.s.1	Uw dienstmaecht , uw slavin , Die 't nemmermeer aen u te slaven sal verdrieten , Die om uw minste dienst haer leven souw vergieten , Handelt en leeft met mij naer uw sin , hoe ghij doet , Vercoopt mij , doodt me ' , ick wil't .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4904.s.1	Mijn vrouw , en al mijn goedt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4904.s.2	Hoe onlangs noch soud ' ick niet hebben darven dencken De vreucht die 't u belieft genadelijck te schenken Aen die 's onwaerdich was , die niet en had verdient Uw dienst , ick swijge ' uw jonst .	Joy_Emotion_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4918.s.1	Ayme , mijn groote vriendt , D'onwaerdeerlijcke prijs , en uitgenomen crachten Van uwe deuchden deên , dat noyt uit mijn gedachten O Daifilo , uw gedaent van siel en lichaem ging , Tsint ick door 's hemels jonst daer kennis af ontfing .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4918.s.2	Het sal voor uw waerdij altijt te luttel vallen , Wat ick u geven can .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4926.s.1	En ick u niet met allen , Al 't mijn van recht , en reên u toegeeygent wert .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4926.s.2	Ach mijn Godinne ' , hoe vol is van u al mijn hart !	BodyPart_BodilyProcess_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4930.s.1	Mijns hartsen bloedt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4941.s.1	Mijn Son , die boven d'ander claer , , is , Ick houd ' u in mijn arm , en twijfel oft het waer , , is .	EmotionalAction_BodyPart_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4941.s.2	Mijn siel is soo beroert , ( ayme ! ) dat ick daer van De grondelose vreuchd niet vol genieten can .	Joy_Emotion_BodyPart_BodilyProcess_Moved
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4941.s.3	Ick en gelove nauw mijn staet dus hooch geresen , En denck vast of ick wel Daifilo niet sou wesen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.4943.s.1	artabanus , granida , daifilo	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4953.s.1	Nu toe , gesellen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4953.s.2	Maer dat ghij niet dootlijck crenckt Den valschen moordenaer , die noch op boelen denckt ; Val aen gelijck , en crijcht hem levendich in handen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4953.s.3	Ghij sijt gevangen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4953.s.4	Stae !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4953.s.5	Knoopt hem in vaste banden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4958.s.1	Ach , ach !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4962.s.1	Hoe nu toe ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4962.s.2	wat wort'er vereyscht op mij ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4966.s.1	Het leven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4974.s.1	'T leven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4974.s.2	Och !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4974.s.3	Dat het geen onrecht zij !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4974.s.4	Draecht beter kennis van uw vyandt , eer gh'u verder Vergrijpt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4981.s.1	Kennis genoech , het is de valschen harder , De moorder van den Prins der Parthen wijt-vermaerdt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4986.s.1	Verwinner !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4990.s.1	De tyran was sulken straffe waerdt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4994.s.1	Wie eischt mijn leven ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.4994.s.2	Dat hij coom alleen en maeck , , strijdt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5001.s.1	Dat's Ostrobas , wiens bloedt , en bleecke schim om wraeck , , krijt .	EmotionalAction_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5001.s.2	Wij sullen , hem voldoende ' , u offren aen sijn graf .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5014.s.1	Laet hem , hij heeft geen schult , en keert op mij de straf .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5014.s.2	Siet hier Granid ' , om wien den Prinsse leyt verslaghen , Dees Godt heeft mij geschaeckt , en willich wech gedraeghen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5014.s.3	Verschoont hem , woedt op mij , den oorspronck van het quaet .	EmotionalAction_Anger_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5023.s.1	Granida ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5023.s.2	Jae , Granida ' .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5023.s.3	O wonderlijck verraet !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5023.s.4	Wij sullen , ( wilt haer oock met banden vast belaeden , ) De Princelijcke siel met beyder bloedt versaeden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5039.s.1	Daifilo , wat ghij siet !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5039.s.2	Granida lijdt , sij lijdt !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5039.s.3	En staet het aen een coordt , dat ghij haer niet bevrijdt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5039.s.4	Dat's stucken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5039.s.5	Goden nu , crachten , nu cloeckmoedicheit , Nu arbey al wat mach .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5043.s.1	Och , 't is vergeefsche woedicheit !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5049.s.1	Gef hem maer !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5049.s.3	Doot beter als ontvloôn !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5055.s.1	Och laet mij voorgaen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.5057.s.1	tisiphernes , artabanus , daifilo , granida	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5064.s.1	Houdt , houdt op wert u geboôn !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5064.s.2	Houdt op , houdt op 't gecrijs , vechters , en scheydt uw drangen !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5070.s.1	Vlienwe , sij sijn ontset , vlienwe !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5077.s.2	Artabanus , met wien ist dat ghij twistich sijt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5077.s.3	Sijdt ghij hier , Daifilo ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5077.s.4	Hebdij alleen den strijdt Tegen soo veel ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5086.s.1	Verstaet , Prinsse de valsche treken , En wilt uw ongelijck nevens het onse wreken .	EmotionalAction_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5091.s.1	Hoe dat ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5096.s.1	Ach , ramp op ramp !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5096.s.2	Uit d'een in d'ander last !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5100.s.1	Och , 't scheen ontset , maer las !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5106.s.1	Een meerder vyandt wast .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5110.s.1	Ach , hard Gelux besluit !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5121.s.1	Prinsse , ghij sijt bedroghen , Siet hier Granida ' , en al des voedsters reden loghen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5121.s.2	Siet hier den valschen Godt van wien sij is geschaeckt , En trouwheit daer ghij soo veel wercks af hebt gemaeckt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5121.s.3	Sij kiest een boer voor u , tot haer en uw verminderen , Een boer den adel hoont , en schaeckt der Prinssen kinderen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5121.s.4	Ick quam om Ostrobas te wreecken , wreeckt ghij nu , Op beyde , beyder leet van onsen Prins en u .	EmotionalAction_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5125.s.1	Wat's dit ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5130.s.1	Ach , wilt uw leet op mij alleen vergelden !	Emotion_EmotionalAction_Sadness_Vindictiveness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5139.s.1	Sijn trouw is onbevleckt , hem canmen niet beschelden ; Maer u op mij verhaelt , en coelt uw grammen moedt , Met wraecke , niet van 't quaet dat u Granida doet , Maer van het welck , op dat de doodt haer 't ooch souw luicken , Den Goden 't heeft belieft tot oorsaeck haer te bruicken .	Emotion_EmotionalAction_Hatred_BodyPart_BodilyProcess_Loyalty_Anger
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5145.s.1	O Liefde ' !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5145.s.2	O vreemt beloop !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5145.s.3	Daifilo , segt mij hoe De dingen wonderlijck dus sijn gecomen toe ; Mijn geest en can 't beleyt noch het vervolch niet vaeten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.1	Mijn heer , den laesten nacht , passeerd ' ick bijder straten Onder de venster van mijn vrouw , gelijck ghij weet , Dat ver van haer te sijn mij was het meeste leedt , En om haer bij sijn , ick ten hove was gecomen , En om haer dienst , van u ick hadde dienst genoomen .	Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.2	Mijn Vrouwe stondt voor 't glas , en soo sij mij sach gaen , Sondt sij haer voedster af , om mij te roepen aen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.3	Mijn Vrouw vernederde ' haer , en quam mij selve vraeghen , Wat oorsaack inder nacht mij daer ontrent mocht jaeghen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.4	Gevraeght , heb ick ontdeckt van mijn gemoedt den grondt , Waerop , O mijn Godin , ghij blijcken liet terstondt De jonst die ghij mij droecht , door dien ghij van te veuren De róóck van mijne vlam wel hadt cunnen bespeuren .	Emotion_Love_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.5	Te laten , boodse mij , haer conincklijke staet , Om met mij naer het landt te trecken op ter daet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.6	Onwaerdich kend ' ick's mij , en hiel de swaricheden Van sulck bestaen , haer voor : maer haer gegronde reden Vertoochden mij haer Liefd ' , en dat sij bet met mijn Soo cleenen staet , als met een Prins vernoecht souw sijn .	Emotion_Happiness_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.7	Den Hemel zij getuigh van ' tgeen dat ick oorkonde , Dat ick , tot die tijdt toe , Granid ' aen niemandt jonde , Als u , mijn heer , want mijn gedacht dus hóóch niet steegh .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.8	Maer , doen ick onderrecht van haer , 't gevoelen creech Dat dit haer best sou sijn , bestond ick het ten lesten , ( De Goden weten't ) meer om haer , als mijnen besten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5185.s.9	Maer , ach verblende mensch , hoe luttel kundij sien Of uwe wijste raedt tot schaed ' of voordeel dien !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5191.s.1	Prinsse , dus is't mijn schult , straft mij , 't wert u gebeden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5195.s.1	Neen eedel prins , maer sijdt met mijn alleen te vreden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.1	O wonderlijck beloop !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.2	O raedt der Goden rijck !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.3	O liefde gansch volmaeckt , en sonder sijns gelijck !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.4	Om haer getrouwe lief een groote Coninginne Verwisselt haeren staet , en wort een harderinne .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.5	Een harder weigert , om sijn lief te laten niet , Een prinsselijcke staet diemen hem annebiedt . 'T geen om elckanders wil ghij sijt t'ontbeeren vaerdich , Bet met elckander ghij sijt te besitten waerdich . 'T is recht dat ghij geniet , Daifilo , dat ghij wont , En ghij , Granida ' , uw Lief dien ghij de waerdste vondt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.6	Den hemel u vereent , den Hemel deed bereyden Den wech tot uw geluck .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.7	Neen , ick en sal niet scheyden Het echste paer dat oyt ter werelt is gesien .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.8	Gelieven sijt getroost , u sal geen leet geschien .	Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5220.s.9	Prinssesse rijst , en ghij , Daifilo , van der aerden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5224.s.1	Ach , eedele gemoedt !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5228.s.1	Ach , heusheit hooch van waerden !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5240.s.1	Ach onverwachte troost !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5240.s.2	Recht Prinslijck , eedel bloedt , Wie sal u dese deucht loonen , als uw gemoedt ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5240.s.3	Dat sal u lof en loon nae Deuchts waerdije geven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5277.s.1	Dits niet genoech dat ick u hier behoude 't leven , Maer ick begeere dat de Coning selfs volvoer Ulieden huwelijck , naedien 't den Hemel swoer .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5277.s.2	En op dat hij daer toe sich lichtelijcker leyde , Soo schenck ick u noch eens den staet die ghij ontseyde .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5277.s.3	Ick weet ick sal van hem verwerven ulie vree , En dat hij u verhef tot swaegher in mijn stee .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5277.s.4	Mijn vollick , wilt voor heen uw gang nae 't hof versnellen , En aen den Coning al dit vreemt beloop vertellen , vs. 1691 -1694 En mijn begeerte mee ; want valt het mij niet swaer , Ick acht het min voor hem sal sijn een droeve maer ; Dat mijn gemoedt beweecht sal sijn gemoedt beweghen .	Emotion_BodyPart_BodilyProcess_Moved_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5277.s.5	Wij volgen sachtelijck .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5284.s.1	Ach , groote troost !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5284.s.2	Vercreghen Op 't aldertroosteloost !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5284.s.3	Lof Prince , die 't dus veucht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5288.s.1	Het lust mij dus te doen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.1	Mijn heer , u lust de deucht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.2	Maer al verheft ghij mij boven uw eyghen saeken , Ghij sult mij nemmermeer meer als uw dienaer maken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.3	Grote Goden , niet om raken Is de grondt van uw besluit , 'T was uw lust dit huwlijck maken , Comt en voert de bruiloft uit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.4	Harder die in lasten druckich Van 's Gelux genae bestort , O geluckich !	Emotion_Happiness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.5	Overluckich !	Emotion_Happiness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.6	Hemel-hooch verheven wort !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.7	Niet dat u een staf van gouwe Soeter voorstaet als een bloem , Maer dat ghij vereent in trouwe Met uw waerdich hartsen roem .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.8	Liefd koos , doen ghij wiert gebooren , U voor eygen uitgesocht , En den Hemel , al te vooren , Had sijn jonst u toegedocht .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.9	Alsmen bij uw wiech quam queelen , Soo bevallijck loecht gh'er in , Dat u , vaeck , om mee te speelen , Staelen watr ' en bosgodin .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.10	Corts daer nae begon te blijcken , ( Want de tijdt haest henen vaert , ) Dat ghij van uw tijts-gelijcken Meester , geen gelijck en waert .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.11	T'hans , als d'eerste wol uw kaeken Vanden baert beschaeuwen dee , Harderinnen en ontstaeken Niet alleen maer Nymphen mee .	BodilyProcess_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.12	Duisendt wenschten om uw paeren , Duisendt quijnden om uw min , Maer den hemel wild ' u spaeren Voor een groote Coningin .	Emotion_Love_Desire
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.13	Groote Goden niet om raken Is de grondt van uw besluit , Luste't u dit huwlijck maken ?	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5368.s.14	Voerdt met jonst de bruiloft uit .	Emotion_Benevolence
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.1	Liefd en Min aen een vertuyt , Beyde siel en lichaem-mengers , Heilighe ' oppervrientschap-strengers Salicht bruidegom en bruidt .	Emotion_BodilyProcess_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.2	Boven de gemeene maeten Wild ' hij sien een lievend paer , Des den hemel keurich haer Las uit soo verscheyen staeten .	Emotion_Love
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.3	Dat ghij twee vereenicht blijft Blijckt de Goden te begeeren , En de Coning wil niet keeren 'T geen den hemel mercklijck drijft .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.4	Lang , al lang genoeg geleden , Blijx genoech van vaste tróuw ; Dat uw overleden róuw Dien tot meerder vrolijckheden .	Emotion_Loss_Loyalty_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.5	O Geluck , sijdt eenmael sadt Van ellenden op ellenden , En ten laesten moe van wenden Schut den loop hier van uw radt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.6	God en Coning willen staeken Der gelieven tegenspoedt , Liefd ' en minne , lof uw gloedt , Die nu sonder smart sal blaeken .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5443.s.7	Liefd en Min aen een vertuyt , Beyde siel , en lichaem-mengers , Heilighe ' oppervrientschap-strengers Salicht bruidegoom en bruidt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.stage.5445.s.1	tisiphernes , granida , daifilo , coning , rey van jofferen , rey van harderinnen	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5450.s.1	Verheucht , met blij gelaet comt ons het hof te moet .	Joy_Emotion_BodyPart_BodilyProcess
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5450.s.2	Siet daer den Coning selfs .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5455.s.1	Dat ick hem val te voet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5455.s.2	Ach vader !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5463.s.1	Wellecoom , mijn dochter , staeckt uw vresen ; En ghij die mij voortaen een waerde soon sult wesen ; Der Goden wille volch ick .	Fear_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5479.s.1	Heer , houdt dese voor De schoonste tempels , die de liefde sich vercoor Om eens voor al ten toon sijn heerlijckheit te stellen .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5479.s.2	Gunt , heer , dat eewelijck elckander sij versellen , En dat den Hemel bindt , mijn Coning , niet en scheydt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5479.s.3	Dit loon eisch ick alleen van uw grootachtbaerheit , Voor al de diensten die mijn leven haer oyt deede .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5483.s.1	Ach , eedel prinsse !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5490.s.1	Nu stelt uw gemoedt in vrede , Ach , twijfelt langer niet , mijn kindren !	Emotion_BodyPart_Relief
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5490.s.2	niet soo blindt En ben ick of ick sie , dat sonderling bewindt Der Goden besich is met u te samen hechten .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5494.s.1	Ach , onverdiende troost !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5500.s.1	Dochter , u op wilt rechten , En ghij , Daifilo , rijst .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5510.s.1	Laet , Goden , het geluck , In tegendeel van dit , met den voorgaenden druck Vernoeghen , oft , en ist daermee niet te betaelen , Laet het de rest op mij , niet op mijn Lief verhaelen ; Soo 't sijn can dat ick smaeck het geen sij niet en smaeckt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5510.s.2	Ach , Coning !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5525.s.1	Daifilo , mijn dochter is geschaeckt Van wijsheit en versocht verstandt , die haer bereyden Den alderhoochsten wech , en tot de Liefde leyden .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5525.s.2	Sij liet om uwentwil het overladend rijck , Besit het nu met haer voortaen min commerlijck ; Dits mijne , dits de wil der Goden wijs van rade .	Worry_Emotion
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5536.s.1	Cleen souw de danckbaerheit , en lof van uw genaede O Coning , bij mij sijn , indien dat ick verstondt Datse verclaerbaer waer met menschelijcke mondt : Des ick het minste niet bestaen mach uit te spreken .	Joy_Emotion_Other
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5547.s.1	Een soon van Persen can 't aen genen staet gebreken , Des , Tisiphernes , niet uw heerschappij verlaet .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5547.s.2	Wij dancken u dat ghij u selven , noch uw staet Verschoont en hebt , om dees gelieven t'saem te veugen : Ghij hiellept int verdriet , nu hellept int verheugen .	Joy_Emotion_Sadness
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5547.s.3	En ghij , gelieven , comt , verquickt u van uw moeyt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5554.s.1	Ick sie mijn wensch .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5554.s.2	Den Parth gevangen , en geboeyt Vergeeve ' ick sijn misdaet , wil't Daifilo vergeven .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5562.s.1	Sijn voorgenomen moordt ons diende tot het leven , Jae trouwen , ick vergeef't ; en Prinsse doet uw sin.	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5566.s.1	Lof Goden wonderwijs !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5570.s.1	Lof groote Liefd en Min !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5577.s.1	Godt en Coning willen staeken Der gelieven tegenspoet , Liefd en Minne , lof uw gloedt Die sij sonder smarte smaeken !	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5588.s.1	Groote Goden , niet om raeken Is de grondt van uw besluit , 'T was uw lust dit huwlijck maken Voert met jonst de bruiloft uit .	None
+hoof001gran01_01.TEI.2.text.body.div.div.sp.5603.s.1	Liefd en Min aen een vertuyt , Beyde siel en lichaem-mengers , Heilighe ' oppervrientschap-strengers Salicht Bruidegoom , en Bruidt .	None
+hoof001gran01_01.TEI.2.text.body.div.div.p.5605.s.1	EINDT	None
+hoof001gran01_01.TEI.2.text.body.div.div.p.5614.s.1	Al waelt het .3 1605 1	None

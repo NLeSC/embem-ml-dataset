@@ -1,0 +1,1017 @@
+vond001gysb04_01.TEI.2.text.body.div.head.296.s.1	Gysbrecht van Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.head.296.s.2	Treurspel .	None
+vond001gysb04_01.TEI.2.text.body.div.head.297.s.1	Het eerste bedryf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.299.s.1	Gijsbrecht van Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.1	HEt hemelsche gerecht heeft zich ten lange leste Ontferremt over my , en mijn benaeude veste , En arme burgery ; en , op mijn volx gebedt , En dagelijx geschrey , de bange stadt ontzet .	Fear_Emotion_BodilyProcess_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.2	De vyant , zonder dat wy uitkomst durfden hoopen , Is , zonder slagh of stoot , van zelf het velt verloopen .	Emotion_Hope
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.3	Mijn broeder jaeght hem na , zy nemen vast de wijck , En vluchten haestigh langs den Haerelemmer dijck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.4	Zoo stuift de zee voor wint met haer gedreve golven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.5	Zoo zagh men menighmael een kudde wreede wolven , En felle tigers vliên voor 't ysselijck geschreeuw Van aller dieren vorst , den hongerigen leeuw , Om niet al levendigh en versch te zijn verslonden Van hem , die op zijn jaght geen aes en had gevonden .	Fear_EmotionalAction
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.6	Hoe snel , hoe onverziens is deze kans gedraeit ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.7	Hier , daer het leger lagh , is 't veld alom bezaeit Met wapens en geweer , verbaest van 't lijf gereeten , Van ingebeelden schrick , en uit der hant gesmeeten , Om zonder hindernis te vlieden langs den wegh .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.8	Ja op 't verjaeren zelf van 't jaerige belegh Wort d'afgestrede muur van 't langh belegh ontslaegen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.9	Hoe zal het gansche lant van ons verlossingh waegen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.10	De Kermerlander had met Waterlander dier Gezworen duizentwerf , dat hy met zwaert en vier Vernielen zou eerlang de menschen , en de daecken , En tot een kerreckhof en asch en puinhoop maecken Mijn out , mijn wettigh erf , en delven al mijn eer In eenen poel , tot wraeck van Floris hunnen heer : Om wiens vervloeckte doot ick lijde zoo onschuldigh , Als yemant lijden magh , doch draegh mijn kruis geduldigh : Of zoo ick schuldigh ben , en heeft het my gemist , 't Is uit onnozelheit , en zonder ergh of list .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.11	Neef Velsen , lang geterght , van eige wraeck geprickelt , En Woerden hebben my hier listigh in gewickelt , En 't schoonste voorgestelt , en eerst de zaeck verbloemt Met wonderbaeren glimp : maer 'k heb hun wit verdoemt , Zoo dra als ick verstont , hoe grof zy zich vergreepen , Met den gevangen graef naer Engelant te scheepen , En sloeg dien voorslagh af , ten beste van 't gemeen , En riedt de ridderschap en al de groote steên Te roepen , om den vorst zijn ' moedtwil te besnoeien , En geene uitheemsche maght noch koningen te moeien , Noch overzees gewelt te haelen in het lant ; Veel min het hooft des lants te helpen aen een ' kant : Waer uit een springvloet is van zwarighêen gesproten , Die over steden ging en vast geboude sloten , En dorpen zonder endt , en menschen zonder tal , Van allerhande staet , dien 't eeuwigh smarten zal .	Emotion_BodilyProcess_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.12	Noch hiel de wraek geen ' stant , en gaf zich noit te vrede ; Al had zy uitgeroit , ten negensten gelede , Wat Velzens stam bestont , of van zijn maeghschap scheen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.13	De nieuwe ridderschap en steden in 't gemeen Verbonden zich wel streng , met diergezworene eeden , Handtastinge en geschrift , dat zy bezeglen deden , Van nu in eeuwigheit , met onverzoembren haet , Aen Woerden , Velzens bloet , en Aemstel , dezen smaet Te wreecken , en van zoen te reppen noch te roeren .	Emotion_Hatred
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.14	Ons maeghschap zit verdruckt , durf schilt noch wapen voeren , En geeft gewilligh schot en lot , om zoo gerust Te leven , en de glans des adels blijft gebluscht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.15	Hier holp geen tusschen spraeck van koningen en heeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.16	Men wou mijn trouwe stadt noch 't onderst boven keeren , Met burgery met al , wat my is houw en trouw .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.17	De hoop was , dat de tijt allengskens slyten zou De bitterheit des volx , en d'oude wrock versterven : Waerom ick my getrooste in ballingschap te zwerven Veel jaeren achter een .	Aquiescence_Emotion_Spitefulness
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.18	Of immers toen de zoon Van Floris wert gehaelt in aller zielen troon , Verhoopte ick , zonder last van deze burgerije , Te keeren in 't bezit en d'erref heerschappye Van Vecht en Aemstelstroom : dan laes : 't is al om niet .	Emotion_Hope
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.19	En was 't om my alleen , het waer een klein verdriet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.20	Ick liet my zelf van lidt tot lidr in stucken zaegen , En nam op my alleen de gruwelyxte plaegen , Die oit tyran bedacht ; was dan de schult geboet , En sprack men daer meê vry mijn al t'onnozel bloet , Mijn lieve gemalin , en willige onderzaeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.21	Ick wou , om hunnent wil alleen , mijn leven laeten , Of springen in een ' poel , en stoppen deze wel , En dempen met een ' sprong de nimmerzatte hel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.22	Dat weet hy , die het al bezichtight uit den hoogen , En wat in duister schuilt met zijn doorzichtige oogen Ontdeckt tot op den gront , en alle harten kent ; Waerom hy oock mijn recht gehanthaest heeft in 't endt , En met den zegekrans my heerlijck begenadight , En tegens al de maght der vyanden verdaedight ; Die licht slaen in den wint van outs genote deught , Waer aen wy volck en vorst verplichten van ons jeught , Zoo yvrig , zonder oit van trouwe te veranderen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.23	Mijn vader heeft gestreckt een hooft van Waterlanderen , En Kennemer in 't velt , en met gewelt alom ( Hoewel door noot geperst ) vervolght den adeldom , En aller vyantschap op zijnen hals geladen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.24	De koning Willem zou getuigen van zijn daden , Indien hy eenmael moght verrijzen uit het graf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.25	Ick heb Graef Floris trouw gehanthaeft by zijn ' staf , Zoo lang hy zat vervooght , en niet een woort kon spreken , 'k Heb hem zijn vaders doot rechtvaerdigh helpen wreken , Het koninglijck gebeente ontdeckt , den Vries getemt , En , als geheimen raet , in al zijn heil gestemt , Met Brero voor de vuist het Vlaemsche heir geslaegen , En in Kazant met kracht den standaert wech gedragen ; Toen Guido nijdigh was , dat Floris , al 't uitheemsch Gezint , zijn ' erfgenaem wou huwen aen den Teems , En Vlaendren , Walchren zocht te trappen met zijn rotten .	Emotion_Envy
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.26	Oock voer ick over zee , om hem de kroon der Schotten Te zetten op het hooft , hoewel het anders viel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.27	Ick stont den graef en 't volck ten dienst met lijf en ziel , En noch verzaemelt men in 't harnas zoo veel troepen , Die over Amsterdam en Aemstel wraecke roepen , En brullen nacht en dagh , en zien niet hoe de vlam Van dezen fellen brant haer ' eersten oirsprong nam Uit Floris geile borst , en 't schandelijck omhelzen , Het schennen van mijn nicht , die schoone bloem van Velzen , 't Verongelijcken van den adel , in zijn recht , Bezworen met zijn ' mont , verblinde menschen , zeght , Indien geen wrock en wraeck uw oogen dus verblinden , Zoudt ghy niet stofs genoegh tot Aemstels onschult vinden ?	Emotion_EmotionalAction_BodyPart_BodilyProcess_Vindictiveness_Spitefulness
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.28	Hoe zocht men hem van outs te maecken tot een slaef !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.29	Wat leedt hy niet al leeds van bisschop en van graef !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.30	Men wou zijn loflijck bloet in 't bisdom niet gedoogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.31	d'Aertsbisschop aen den Rijn kon met zijn nijdige oogen Niet aenzien ons geluck , gaf Gozewijn de schop , En zetten zijnen neef den hoogen myter op .	Emotion_Envy_BodyPart
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.32	Wy streeden om den staf , tot datze my en Woerden , Aen weêrzy van zijn paert , tot een triomfe voerden In Uitrecht , met veel smaets , van veder aengehoort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.33	Men heeft my 't Vrelantsch slot ontweldight , hem Montfoort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.34	'k Beken het slot was my met voorwaerde opgedragen ; Maer nergens om gebouwt , dan om mijn landt te plagen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.35	'k Heb 's graeven vangenis wel zeven jaren lang Bezuurt , en Zwaenenburgh noch afgestaen door dwang , Mijn erf in leen verkeert , en manscbap moeten zweeren ; Daer ick eerst Godt alleen , en anders geene heeren Oit kende in mijn gebiet , noch rekeninge gaf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.36	Noch dringt men evenwel op my zoo stijf en straf : Doch Haerlem draeght met recht de grootste schult van allen , Dat om zijn voordeel wrockt , en wenscht mijn sterke wallen Te slechten tot den gront , in schijn van 's graeven zaeck , En weet zijn baetzucht loos te decken met de wraeck , Misbruickt hier toe den Zeeuw , de Hollanders , en Vriezen , Om door mijn grootheit niet aen eere te verliezen .	Emotion_Greed
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.37	Zoo leght de zaeck by my , en daer op gae ick aen , En heb in 't zwaer belegh de stormen uitgestaen , En dagh en nacht voor aen geworstelt op de wallen , 't Vermoeide volck gesterckt , en rustigh uitgevallen , Mijn ' broeder Ot gequetst zien sterven in mijn ' schoot : Krackeelen neêrgeleght in brant , in hongers noot , Gelijck een vader , my voor 't algemeen gedraegen : En noit bezweeck mijn moedt in droeve nederlaegen : Noch 'k blies my zelven op in voorspoet , noch zocht roem In 's vyands ondergang : hoe noode ick vyant noem , Die onverzoenelijck zich tegens my verzetten , En wenschen met mijn bloet hun blanck geweer te smetten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.38	'k Vergeef hun deze feil , en domme onwetenheit , Beveel my in zijn hant , die recht van onrecht scheit , En streckt in 's hemels stoel der onderdruckten trooster .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.39	Maer 'k zie den vader daer van ons Katuizers klooster Genaecken van ter zy , op dat hy my begroet ' .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.40	Hy schijnt om ons geluck verheught en wel gemoedt .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.466.s.41	'k Zal best verstaen uit hem , die nimmer was besproken , Waerom het leger is dus schichtigh opgebroken .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.468.s.1	Willebord .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.1	MYn welgeboren heer , de zoete Jesus zy Met u en uwe stadt , en sta u eeuwigh by , In allerhande noot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.2	de broeders van onze orden , En ick , zijn zoo verblijdt , als ofwe levend worden Getrocken in den troon van Godts volmaeckte vreught .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.3	Ons klooster zingt , en klingt , en is niet meer verheught Op 't allerhooghste feest en heiligh jaer getije , Geviert van al de kerck , ter eere van Marije , De zuivre moedermaeght , en Christus , haren zoon , Die ons verloste aen 't kruis , en droegh een doornekroon , Als nu om uwent wil , die van de wreede plaegen Des goddeloozen krijghs verlost zijt en ontslagen : Nu al uw vyanden verbaest zijn doorgegaen , En laeten tenten , tuigh , en hunne hutten staen , En alles , wat zy meer uw volck ten beste geven .	Joy_Emotion_EmotionalAction
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.4	'k Geloof Godts engel heeft den vyant wechgedreven , Als 't heir des Assyriers , die zijn vermeetle stem Hiskia hooren liet , tot voor Jeruzalem , Het welck in eenen nacht zoo wonderlijck verkeerde , Toen een , die 't al regeert , dat stoffen hem verleerde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.5	Hoe menigh dreigement , en vloeck heb ick gehoort !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.6	Wat heeft men gift en gal gebraeckt , en brant en moort Getiert , en 't gansche jaer gescholden , en gekreeten , Niet anders , of zy u met tanden wouden eeten !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.7	d'Een zette u levende en geketent op een radt : Een ander rolde u naeckt in Velzens spijckervat : Een ander wou uw hooft , uw beckeneel , vergulden , En vatten het in gout . 't was byster hoeze brulden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.503.s.8	Zy deelden bloet voor wijn , uw vleesch voor voedsel uit , Krackeelden om 't geraemt , en dongen naer uw huit , En wouden die get out op eenen ketel spannen , Tot endeloozen schrick van schelmen en tyrannen : Maer Godt zy eeuwigh danck die hunne boos heit schut .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.505.s.1	Gys .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.517.s.1	Dien d'opperste beschermt , heeft eene vaste stut .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.517.s.2	Godtvruchte vader , dat u Godt en Christus loonen , Naerdien de broeders zich met u zoo gunstigh toonen Te my waert , ick vertrouwe uw vierige gebeén Die hebben dagh en nacht voor mijne stadt gestreên , De stormen afgekeert , en 't vier van onze daecken ; Want wapens zijn onnut , zoo d'engelen niet waecken , En 't yverigh gebedt van 't geestelijcke volck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.517.s.3	Wat hing u over 't hooft een droeve en donckre wolck Van zwarigheên , terwijl hier 't leger heeft gelegen : Gy zijt niet misgedeelt in 's oorloghs milden zegen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.519.s.1	Wil .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.526.s.1	Geen hair is ons gekrenckt , geen overlast gebeurt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.526.s.2	Men heeft het klooster noit in zijnen dienst gesteurt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.526.s.3	Wy hebben staêgh volhardt in onzen ouden yver : De boomgaert leed geen scha aen vruchten , noch de vyver Aen visschen , noch de kerck aen d'alderkleenste ruit .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.531.s.1	Wie heeft dan des soldaets baldaedigheit gestuit ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.531.s.2	Wat hiel zoo kort in dwang die breidelooze gasten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.539.s.1	Met geen inlegering wou Egmont ons belasten : Behalve dat hy zelf en zijne lijfwacht meê , Die altijt tuchtigh is , hier nam zijn legersteê , En boven onze poort , liet aenslaen 's graeven wapen , Daer wy in zekerheit gerust op moghten slaepen .	Aquiescence_Emotion_Trust
+vond001gysb04_01.TEI.2.text.body.div.sp.548.s.1	Dat doet my wel , gelijck een lieffelijcke lucht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.548.s.2	Ick zelf en al de stadt was meest om u beducht , En vreesde ofge lang verjaeght waert , en geplondert .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.548.s.3	Maer vader , zegh my eens ; een yeder is verwondert , Waerom 't verbittert heir zoo onverziens vertrock , En liever niet volharde in 't opzet van zijn ' wrock .	Emotion_Vindictiveness_Spitefulness
+vond001gysb04_01.TEI.2.text.body.div.sp.552.s.1	Verwonder u niet eens , de noot heeft hen gedrongen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.556.s.1	Mijn burgers lagen stil , en 't leger onbesprongen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.564.s.1	Van buiten wel , maer niet van binnen dat gy 't weet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.564.s.2	Het wintert fel , wanneer een wolf den andren eet : Zoo ging in 't leger toe .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.564.s.3	belieft het u te hooren , Al 't geen ick heb gehoort met dees mijn eigene ooren , En met mijne oogen zelf gezien noch dezen dagh ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.568.s.1	Eerwaerde vader , spreeck , ick luister naer 't verslagh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.1	Na dat ick d'oversten een wijl had hooren mompelen Van Amsterdam , al stil , by duister t'overrompelen , Rees tusschen Diederick en Egmont een krackeel , Dat uitborst meer en meer : een yeder trock een deel Van 't krijgsvolck op zijn zy , en zocht het stuck te stijven , En naer zijn eigen hooft den aenslagh door te drijven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.2	Veel Hoplién yverden te slissen het geschil .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.3	Maer Diedriek , hardt van hooft , die nimmer luistren wil Naer reden , noch bescheit , en 't velt behoudt met krîjten , Wert trotser , overmits de lange Klaes van Kyten , De Sparrewouwer reus , zoo onbeschoft als groot , In alles wat hy dreef hem hulp en bystant boodt , En Egmont met zijn klock en grove stem vervaerde , Hem dreef met eene vuist , dat hy een wijl ter aerde In zwijm lagh en voor doot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.4	die moetwil en die hoon , Den veltheer aengedaen , ging veelen aen hun kroon , En zonder het ontzagh des reuzen , fel gebeeten , Men had elckanderen terstont in 't hair gezeten , En onder een banier wraeckgierigh aengerant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.5	Men raesde een heele weeck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.6	de twist , het misverstant , En misvertrouwen wies .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.7	daer sporrelden de zinnen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.8	Men vreesde min de stadt , en meer verraet van binnen ; Tot dat al d'oversten verzaemelden heel stil In 't klooster , dezen dagh , tot slechting van 't geschil : Doch al vergeefs : men was veel eer gezint te vechten , En deze onesfenheit met degens te beslechten , Dan recklijck , en bedaert , te luistren naer verdragh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.9	Ick tradt'er in den hoop , gelijck ick zomwijl plagh , En sprack hen toe , en broght aldus hen aen 't bedaeren : Manhafte hopliên , Godt wil 't leger lange spaeren , In onderlingen pais , het eenigh dat'er magh Uw vyant , wie 't oock zy , gedijen tot ontzagh .	Emotion_Awe
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.10	De tweedracht is een pest , die allen staet te schroomen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.11	Gedenckt dat u de stadt , die 't rieckt , op 't lijf zal komen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.12	Wat middel is ' er , om den Aemstel 't hooft te bien , Nu elck , wantrouwigh , d'een naer d'ander om moet zien ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.13	Gy zijt , eer 't iemant gist , geslagen of gevangen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.14	Wanneer de herder dwaelt , wat padt , wat rechte gangen , Kan d'arme kudde gaen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.15	dus maeckt een kort besluit .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.16	Verdraeght het scheel , of schort den krijgh , en scheit'er uit , En keert van waer gy quaemt : waer toe veel werx begonnen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.17	Berockent zoo veel spels , als 't niet werd afgesponnen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.18	Ick merckte dat mijn raet niet weinigh hier vermoght .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.19	Men nam mijn woorden in .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.20	zy kreegen achterdocht , En zorge voor gevaer van uw gesteurde wallen , En dat de burgery en lantzaet uit moght vallen .	Suspicion_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.21	Daer liep een klein gerucht , gy waert al op de been .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.22	De dootschrick quam'er in .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.23	men ruckte 't heir by een .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.623.s.24	Men brack al heimlijck op , en zonder eenigh teken Van horen en trompet , of hut in brant te steecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.629.s.1	Gy hebt de stadt , en my geen ' kleinen dienst gedaen ; Een deught die nimmer zal uit mijn gedachten gaen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.629.s.2	Gedenck my in 't gebedt voor uw altaer ten goede .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.633.s.1	De lieve Jesus neeme u eeuwigh in zijn hoede .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.635.s.1	Arent zan Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.635.s.2	Gysbrecht van Aemstel : Vosmeer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.637.s.1	HEer broeder , zijt gerust , en luit van vreugt de klocken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.641.s.1	Waer is het heir ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.641.s.2	hoe verr ' waert gy het nagetrocken ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.643.s.1	Ar .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.645.s.1	Omtrent een booghscheut weeghs aen geen zy Slooterdijck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.649.s.1	Hoe gingh 't u op den toght .?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.658.s.1	Zy stoven al gelijck Voor uit , als voor den wolf een kudde onnoosle schapen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.658.s.2	Mijn volck hoefde op dien toght geweer noch eenigh wapen , En keert met rijcken buit .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.658.s.3	de Kermers scheenen stom : Want hoe men 't vechten zocht , zy zagen niet eens om , En reckten vast hun padt , van dootschen schrick bezeten .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.665.s.1	Noit kraeide haen , als hem de kam was afgebeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.665.s.2	Noit baste een dogh , maer droop heel stil , als hy 't verloor , Met ingetrocken staert , en hangende ooren , door .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.665.s.3	Wat vogel brengtge dus geknevelt , en gevleugelt ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.672.s.1	Het is een uit de vlucht van 't vluchtige geveugelt , Gegrepen buiten dijx , daer stack hy in het slick .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.672.s.2	Hoe beeft hy ! 't aengezicht ziet doots en bleeck van schrick .	Fear_Emotion_BodyPart_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.672.s.3	Hy is gesleipt , gesleurt , en heeft veel smaets geleden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.678.s.1	Een woedende gemeente en staet in recht noch reden , Wenze iemant over magh .	Emotion_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.678.s.2	men brengh hem hier voor my .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.678.s.3	Wie zijt gy ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.678.s.4	uit wat lant ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.680.s.1	Vos .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.690.s.1	Heer Gijsbrecht , strafme vry .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.690.s.2	Ick ben van 's vyants volck , en waerdigh om te sterven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.690.s.3	'k Heb meê gezocht uw stadt en burgers te verderven , En duizentmael verdient een schandelijcke doot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.690.s.4	Ick geef my in uw hant , geperst door hoogen noot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.690.s.5	Mijn ramp wil Kennemer en Waterlant behaegen : Maer 'k zal de doot van u met minder smert verdraegen Dan van mijn eigen volck , dat zich ondanckbaer toont , En mijn ' getrouwe dienst zoo onrechtvaerdigh loont .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.695.s.1	Wat zijtge voor een gast ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.695.s.2	of in wat lant geboren ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.1	Ick ben een Goyers kint , vervallen in Godts tooren , Te Laren opgevoedt . 'k ontliep mijne oudren vroegh .	Emotion_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.2	Mijn vader vielme hardt , want ickme paslijck droegh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.3	'k Heb al mijn leven langh gevolleght vreemde heeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.4	En buiten moeten 't geen ick t'huis niet woude leeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.5	De bittere armoe heeft mijn herssenen gewet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.6	'k Heb menigh stuck verziert , en 't lijf daer na gezet , Om door een braeve daet of aenslagh op te raecken , En door een anders scha eens mijn fortuin te maecken !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.7	Maer altijt heeftze my den rugge toegewent ; Doch noit zoo dwers als lest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.8	Godts schickinge , ick beken 't Is stercker dan de mensch , of zijn geboortestarre : En of ons brein iet bouwt , zy stoot het al om verre , En gaet een andren gangk .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.9	met wat een listigheit , Met wat een ' rijpen raet was d'aenslagh aengeleit , Om te vermeesteren uw lang bestormde muuren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.10	Zoo Vosmeer naar zijn ' zin dat schip had mogen stuuren , Gelijck het by hem lagh , zy hadden , het is waar , Gewonnen in een uur door list , dat in een jaer Door uiterlijck gewelt noch stormen wert verovert .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.719.s.11	Het schijnt dat d'oversten verblint zijn en betovert .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.723.s.1	Sta op en heel my niets van alles wat gy weet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.1	Nu ben ick immers vry van Hollants dieren eedt , En Egmont kan my hier niet heeten of verbieden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.2	Hy dreigtme met de doodt , en perstme hier te vlieden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.3	Mijn aenslagh is misluckt , en ydel en onnut .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.4	Heer Gyzelbrecht , gena .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.5	ick geef my in uw schut .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.735.s.6	Gy kuntme , wiltge slechts , een vrient en vader strecken , Naerdien ick u 't verraet volkomen wil ontdecken , En hoe 't geschoren lagh , in 's krijghs geheimen raet , Tot ondergang van u , en uwen heelen staet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.739.s.1	Ontbint den knecht , zoo magh hy onverhindert spreecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.1	De hopliên wenschten dick het leger op te breecken , Naerdien met storm op storm , en endeloos gevecht , Het heele ronde jaer , niet meer was uitgerecht Dan moeite en volck gespilt , en tijt onnut versleten : Het welck zoo menighmael den veltheer wert verweten ; Een smaet die lastigh viel : en hiel hem niet verplicht Zijn eer en eedt , hy hadt zijn ancker langh gelicht : En och , of 't waer gebeurt een goede wijl te voren , My waer dit ongeluck noch onheil niet beschoren : Want 't is een maent geleên , dat ick hem heimlijck riedt Te maecken op mijn woort , een ende van 't verdriet : En zoo hy was gezint een luttel volx te waegen , Ick wou hem in de stadt op bey mijn handen draegen , En stappen zelf voor aen , en maecken hun het spoor , Ick opende mijn wit , en sloegh het middel voor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.2	'k Had zomwijl door de graft , by duisternacht , gezwommen , En al de wacht bespiet , en 't groot rondeel beklommen , Dat aen den hoeck van 't Y uw stercke stadt bewaert .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.3	Hier lagen Blijden in , en ander krijghsgevaert .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.4	'k Nam aen , en 't kost geschien , door muur en al te booren Recht waterpas , zoo stil , dat niemant my zou hooren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.5	Wanneer nu door de breuck een krijgsman heenen moght , Zou 't braefste puick , hier toe gelot en uitgezocht , De graft , daerze ondiepst is , met rijs op Kersnacht dammen , En kruipen in 't rondeel , om d'eerste poort te rammen , Als d'afgewaeckte wacht gevelt lagh en vermoort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.6	Het heir dan over dam , en door geramde poort , Aen 't nederhouwen , wat op straet zich openbaerde , Terwijl de burgery kappel en kerck bewaerde : En 't was te nacht de tijt , en vraeghtge naer bewijs ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.7	Gy ziet , hoe daer een schip , het zeepaert leght vol rijs , Het welck men door de vlucht verzuimt heeft en vergeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.8	Wat werdt'er niet al tijts met kibbelen versleten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.9	De hoofden laegen vast elendigh overhoop .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.10	Men schoof de schult op my . 'k had menslevleesch goet koop : Noch wist niet wat ick dreef : zy zouden 't niet gehengen , Dat ick het volck zoo licht zou op de vleeschbanck brengen , En jagen in hun doot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.11	dus ging 't aen d'eene zy : Aen d'andre stemdemen eendrachtelijck met my : Tewijl verliep de kans , en d'aenslagh bleef vast steecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.12	Toen zochten'er een deel hun leet aen my te wreecken .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.13	Daer quamen , zonder slot , veel klachten t ' mijnen last .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.14	Ick was een toveraer , en daer op raeckte ick vast , En most , door pijn geperst , al 't opgedichte melden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.15	Men doemde my ter doodt , en heden zou 't my gelden : Maer gistren avont brack een vrient mijn boeien los .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.16	Ick vlughte langs den dijck , gelijck een hollend ros .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.17	Doch hielt'er niet , uit angst van 't leven te verliezen .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.18	Ick sloegh ter zijden af , en schoot'er in de biezen , En stack in diep moerasch al den verleden nacht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.19	Zy trocken my verby .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.20	Ick hielme stil , en zagh 't ; Tot dat uw burger quam de Kermers nagevlogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.21	Ick riep om hulp , en wert uit diep moerasch getogen : Want anders was ick daer gebleven en gesmoort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.801.s.22	Doch zoo ick sterven moet ; 'k wil liever voor uw poort , Aen wie ick 't heb verdient , dit lastigh leven laeten , Dan by mijn eigen volck , die my met onrecht haeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.814.s.1	Ga heene , ick schenck u 't lijf : het is geen straffens tijt , Wy zijn van onzen hals den grooten vyant quijt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.814.s.2	'k Ontfang u in mijn ' dienst , en zal u wel betaelen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.814.s.3	Ga help terstont het rijs en 't zeepaert binnen haelen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.814.s.4	De kou begint , en is noch verr ' van haer vertreck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.814.s.5	In 't wachthuis en op 't slot is hout en brant gebreck : Men maghze strax verzien , en barnen 't rijs tot asschen , Zoo kunnen zy hier meê de vesten niet verasschen , Ick hoor de Goyer doet de waerheit niet te kort , Want zijn vertelling stemt met vader Willebord .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.816.s.1	Rey van Amsterdamsche maeghden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.1	NU stelt het puick van zoete keelen , Om daer gezangen op te speelen , Tot lof van Godt , die op zijn ' troon Gezeten is , zoo hoogh en heerlijck , Van waer hy zien kon , hoe begeerlijck Het Sparen stack naer Aemstels kroon ; Hoe wraeck met zwaerden en met speeren De torenkroon van 't hooft wou scheeren Der schoone en wijd vermaerde stadt , En rucken door gewelt van benden Der vesten gordel van haar lenden , Een plondren haer kleinoot en schat ; En schenden d'edele en getrouwe , Gelijck de schender Velzens vrouwe , Wel ruim zoo waerdigh als Heleen , Den brant van een herboren Troje , En krijgh , die 't overschot verstroie , Na dat men jaeren heeft gestreên .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.2	Waer is de reus met al zijn stoffen , Die Gysbreghts stadt ter neêr wou ploffen , En om haer ' muur zijn armen slaen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.3	Wat ydle schrick heeft hem geslagen ?	Fear_Emotion_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.4	Wat ydle vreeze magh hen jaegen , Die nu met schande strijcken gaen ?	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.5	't Is tijt de kercken te stoffeeren , Te danssen , en te bancketteren , En met een ' uitgelaten geest Dees blyschap aen de vreught te huwen , Die vrolijcke englen ons vernuwen Met gezang , op Godts geboortefeest .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.6	Treck in , ô Aemstel , treck nu binnen , Die zonder slagh kunt overwinnen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.854.s.7	Treck in , ô brave burgery , Die u zoo moedigh hebt gequeten , Geen eeuw en zal uw eer vergeten , De hemel sta u eeuwigh by .	None
+vond001gysb04_01.TEI.2.text.body.div.head.856.s.1	Het tweede bedryf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.858.s.1	Willem van Egmont .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.858.s.2	Die drick van Haerlem .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.858.s.3	Hoplieden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.864.s.1	WY zijn by 't klooster weêr , daer Willebord in vreê Met al de broeders woont , en stort zijn avontbeê .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.864.s.2	't Zal noodigh zijn dat wy den hopliên openbaeren Het geen op handen is .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.866.s.1	Die .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.869.s.1	't Is tijdt , zy wisten garen Wat heimlijck by ons broeit : verlos hen van de pijn .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.871.s.1	Eg .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.1	Manhafte hopliên , hoort : wy hebben , onder schijn Van onderling krackeel , een ' aenslagh voorgenomen , Om beter tot ons wit op eenen sprong te komen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.2	Men heeft daer op het heir van daegh te rugh gevoert : Maer dat en is het niet , waer op de veltheer loert , Noch 't geen men onder 't volk veel dagen hoorde mompelen , Ons wit is dezen nacht den vyant t'overrompelen , Nu hy zich veiligh acht , en buiten krijghsgevaer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.3	Voor 't opgaen van de maen [ het duncke niemant zwaer ] Zal 't leger meester zijn van poorten en van veste .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.4	Wat is'er dan voor u een rijcke buit ten beste !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.5	Hoe zultge weiden gaen op 't slot , en in de stadt !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.6	Zoo yemant streeft naer eer ; ick toon hem 't rechte padt , De heirbaen van de deught , om moedigh op te steigeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.7	Zy offert u den prijs , 't en zy 't uw handen weigeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.8	Wie rustigh is die spreecke , en hou de wapens reê .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.9	Wie zich flaeuwhartigh vint , dat die te rugge treê .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.10	Ick heb my op dit stuck met weinigen beraeden , En 't zeepaert , dat eerst lagh aen 't Y , met rijs doen laden , Op dat'er de soldaet gerust in schuilen moght .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.905.s.11	De Sparewouwer reus , met yver aengezocht , Ging met de bloem des volx en 't puick van al de grooten Te nacht grootmoedigh scheep , op 't noemen van de loten : Mijn broeder Wouter zelf , Vianen , met de zorgh En hope van zijn huis : Abkou , en Ryzenborgh , Put , Grobber , Kuilenburgh , met Arckel , Borsslen , Vooren , En 't graeven zoonen beide : en 't schip , na dat wy hooren Uit ons ' doortrapten spie , is al in stadt gehaelt , Door Vossemeers beleit : zoo dat'er niets en faelt Dan nu te nacht , zoo ras zy poort en sloten breecken , En Zwaenenburregh viert , te letten op dat reken , En voort met alle maght te volgen op het licht Des schrickelijcken brants , van Vosmeers torts gesticht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.908.s.1	Hop .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.910.s.1	De Veltheer geef slechts last , aen ons zal niet gebreken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.914.s.1	Waer zal men best een deel van 't oorloghsvolk versteecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.918.s.1	't Katuizers klooster is ons 't reedst , het leght hier by .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.922.s.1	Dat volck is liefst verschoont , en van inlegring vry .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.926.s.1	't Is voor een korte wijl .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.931.s.1	Een Godtshuis zoo t'ontwyen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.931.s.2	Ick heb het lang verschoont .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.938.s.1	Laet my daer meê betyen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.938.s.2	Gy hopliên , voert terwijl den voortoght herwaert aen : Wanneer gy komt dan zal het klooster open staen , Of 't moest my aen de macht , dat zweer ick hen , ontbreecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.945.s.1	Ick gae terwijl naer stadt , om Vosmeer noch te spreecken , Die ter gezette tijt komt zwemmen door den boom .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.945.s.2	Versteur de broeders niet , maer hou u wat in toom , En roep niet luit , men mocht uw stem te verre hooren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.949.s.1	Een krijghsman laet zich van geen paepen ringelooren .	None
+vond001gysb04_01.TEI.2.text.body.div.stage.951.s.1	Poortier .	None
+vond001gysb04_01.TEI.2.text.body.div.stage.951.s.2	Diederick van Haerlem .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.953.s.1	Poor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.955.s.1	WIe klopt'er ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.959.s.1	Doe vry op , en vrees niet : 't is u vrient .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.964.s.1	't Is avont , en een tijt dat ons geen vrientschap dient : Koom morgen vroeg by daegh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.969.s.1	Wat zal ons hier gebeuren ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.969.s.2	'k Zegh anderwerf , doe op .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.974.s.1	Men opent hier geen deuren Zoo spaede : ga uw ' gang : koom morgen tijdigh weêr .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.978.s.1	Ick zegh voor 't lest , doe op , en doet gy 't niet , ick zweer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.1	Wie zijtge , die dus raest , als wilt en uitgelaeten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.2	Wy dochten langer niet om ruiters noch soldaten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.3	Heer maerschalck , wel hoe dus ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.4	wat jaeght u hier zoo spa ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.5	Men sloegh u 't heiligh kruis , toen 't leger optrock , na .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.6	'k Geloof niet dat gy ons al weder zoeckt te quellen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.7	En koomtge dus alleen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.987.s.8	waer zijn uw rotgezellen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.991.s.1	Ick koom alleen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.991.s.2	waer is uw meester Willebord ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.995.s.1	Ter kercke , daer hy vast , en zijn gebeden stort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.999.s.1	Ga roep hem , want ick moet dien goeden vader spreecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1004.s.1	O Jesus , sta ons by , dit is een mislijck teken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1004.s.2	Ick heb gebelt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1004.s.3	hy komt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1008.s.1	Ga roep den vader , flux .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1013.s.1	Soldaten brengen ons heel zelden veel gelux .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1013.s.2	Wy zienze noo van voor , en allerliefst van achter .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1019.s.1	Wie eenen hopman huist , die heeft een trouwen wachter , En ridderlijck beschut , en hoeft geen poort noch slot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1027.s.1	De beste wachter is de stercke en groote Godt , Die nimmermeer en slaept , en luistert naer ons zuchten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1027.s.2	Wy bidden staegh om pais , en haeten krijgsgeruchten , En hooren met verdriet het kraeien van dien haen .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1027.s.3	In oorlogh houden eerst abdy en klooster aen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1031.s.1	Gy zat hier in 't belegh voor alle moetwil veiligh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1036.s.1	Wy weten 't Egmont danck , en houden hem voor heiligh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1036.s.2	Daer is de vader zelf , zoo bleeck en afgevast .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1040.s.1	Heer maerschalck , wel , wat nu ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1044.s.1	Ick koom by u te gast .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1050.s.1	Gy zijt my wellekom , al komt gy ongebeden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1050.s.2	'k Verwachte u t'avont niet , en luister naer de reden Dat gy dus schichtigh keert : daer is wat meer aen vast .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1056.s.1	'k Verzoeck alleen op u , en dat door Egmonts last , Of ick wat krijgsvolck magh te nacht in 't klooster leggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1056.s.2	Het is een krijgsmans beê , gy mooghtze niet ontzeggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1060.s.1	'k Geloof gy deunt met my .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1065.s.1	't Is errenst , en geen spel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1065.s.2	En Egmonts eigen last : hy gafme dit bevel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.1	Hoe zal men dit verstaen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.2	heeft Egmont dat bevolen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.3	Hy stack noit Godtshuis aen , noch zocht zich by de kolen Te warmen van dat vier . 't is enckel misverstant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.4	Gy zijt my wellekom , mijn heer , daer is mijn hant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.5	'k Zal u en uwen stoet gewilligh innelaten Maer 't Godtshuis op te doen baldaedigen soldaeten Of ruitren , 'k ly niet : 'k vermagh 't met geen gemoedt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.6	Het klooster is Godts erf , en Jesus eigen goet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.7	Wie kloosters raeckt , die raeckt den appel van Godts oogen .	BodyPart_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.1078.s.8	Heer oversté , geloof , 't is buiten ons vermogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1084.s.1	't Is om een uur of twee te doen , ten hooghste dry .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1084.s.2	Ick blijf u borghr en hou uw kerck en klooster vry Van overlast en scha , en zal de boosheit straffen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1086.s.1	Wil :	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.1	Met krijghsmans borreghtoght en heb ick niet te schaffen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.2	Al waer 't de veltheer zelf , ick zey 't hem in 't gezicht : Dit is een overout en vorstelijck gesticht , Verzorght in vrede en krijgh met zegelen en brieven , Dat wie het quetst , gedencke een vorst des rijx te grieven , Die zeght : hy raeckt mijn kroon wie 't Godshuis yet misdoet .	Offended_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.3	Sint Andries is 't gewijt : het past geen ' krijgsmans voet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.4	't Zy verr ' dat Diedrick nu 's Katuizers vyant werde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.5	Twee Alexanders zelfs , de vierde en oock de derde , Gelijck de tweede Urbaen , bevestighden dit slagh Van Godtsdienst , daar men Bruin wel d'eer van geven magh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.6	Ja op dat geen gerucht zou steuren ons gemoeden , Magh niemant deze plaets , beneden hondert roeden , Betimmeren , veel min bezwaeren met den last , Dien d'oorlogh naer zich sleipt , of eenigh oorloghsgast .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1104.s.7	Wy staen op keizerlijcke en pauzelijcke wetten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1109.s.1	De wetten zwijgen stil voor wapens en trompetten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1109.s.2	De noot breeckt wet : gy mooght op geene wetten staen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1113.s.1	Ontwijtge dan 't gewijde ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1120.s.1	Als David heeft gedaen , Toen hy voor 't zwaert van Saul te Nobe quam gevloden , En zijnen honger boete aen priesterlijcke brooden , Dat niemant oit vermoght , 't en waer 't gezalfde hooft .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1130.s.1	De stoute Usia wert rechtvaerdelijck berooft Van zijn gezontheit , toen hy 't heilighdom ontwijde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1130.s.2	De priesters hebben Godt en d'englen op hun zijde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1130.s.3	Dit is het errefdeel , dat ons te beurte viel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1130.s.4	Hy laedt des graeven vloeck rampzalig op zijn ziel , Die 't Godtshuis in zijn recht en vrydom wil verdrucken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1130.s.5	Hebt gy een ' aenslagh voor , het kan u niet gelucken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1134.s.1	Hoe luit des graeven vloeck , dat ick u wel versta ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1143.s.1	Dat aller Heilgen toorne en eeuwige ongena Alleen niet treffen zal de kinders , en den vader , O gruwel !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1143.s.2	maer hy moet met Judas , Godts verrader , Met Lucifer en al zijne engelen vergaen , En schaemroot en verdoemt voor Jesus vierschaer staen .	BodilyProcess_Shame
+vond001gysb04_01.TEI.2.text.body.div.sp.1143.s.3	't Is schrickelijck , begint uw hart noch niet te beven ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1147.s.1	Ja 't klooster heeft dien vloek den lantsheer voorgeschreven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1153.s.1	Het zy daer meê zoo 't wil , men opent nu geen poort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1153.s.2	't Is Kersmis ; 't klooster viert Godts vrolijcke geboort ; De hooghste feest van 't jaer ; dus laet dit werreck steecken .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1161.s.1	Katuizerbroêr , hier gelt geen prevelen , noch preecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1161.s.2	Bewilligh mijn verzoeck , en sta mijn bede toe , Of anders ly dat ick het ongebeden doe .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1161.s.3	De tijt verloopt , 't is spa : daer komen mijn soldaeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1166.s.1	'k Getroost my eer de doot , dan ick dit toe zal laeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1166.s.2	Wat wilt ghy 't helsche vier op uwe halzen laên ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1171.s.1	Voort mannen , vaert vry voort , en steeckt het klooster aen : 't Is kout , zoo mogen wy ons by de kolen warmen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1178.s.1	Och maerschalck , hou gemack : och wilt u toch ontfarmen Het is geen Kristen mensch die brant in kloosters sticht .	Emotion_EmotionalAction_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.1178.s.2	Al wat het Godtshuis heeft , huisvesting , vier en licht , En spijs , en dranck , het is voor 't krijghsvolck al ten beste .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1182.s.1	Nu mannen , treckt vry in : treckt voor , ick blijf de leste .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1184.s.1	Vosmeer : Willem van Egmont ,	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1188.s.1	ICk koom al heimelijck gezwommen door de grachten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1188.s.2	Waer sammelt Egmont nu ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1188.s.3	hy zou my hier verwachten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1188.s.4	't Is doncker .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1188.s.5	ick ben nat , en klippertant van kou .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1193.s.1	Wel waer of Vosmeer blijft , ons afscheit was , hy zou Verzeker op dees uur alhier zich laten vinden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1198.s.1	Hier is de man al zelf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1198.s.2	wie zich derf onderwinden Een ' aenslagh , vol gevaers , moet passen op zijn tijt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1204.s.1	Weest welkoom , brave borst , nu blijckt het , datge zijt Een krijgsman , op wiens woort men wel een kerk magh bouwé .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1204.s.2	Hoe hebt gy 't met den heer van Aemstel al gebrouwen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.1	Zoo geestigh , dat'er niets aen dezen aenslagh faelt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.2	De burgery heeft zelf het zeepaert ingehaelt , Met zangen en triomf , als die van Troje deden .	Joy_Emotion_EmotionalAction_Pride
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.3	Ick stuurde en hiel het roer : maer 't oorloghsvolck , beneden In 't schip , liep groot gevaer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.4	de bodem slorpte 't nat , Door 't stooten op een ' pael , waer door een yeder zat In 't water tot de knie , en vreesde te versticken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.5	Het ongemack was groot , noch durfde niemant kicken : Doch 't leck geraeckte dicht , en stopte wonderbaer Van zelf , toen broght de hoest ons weder in gevaer ; Vermits men 't schor geluit bescheidelijck kon hooren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.6	Had Godt niet zelf verdooft des Aemsterdammers ooren , Wy waren van ons stem en eigen keel verraên .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.7	Ick gaf my zelven moedt , en hief eens rustigh aen Te zingen , dat het klonck , schoon hert en nieren krompen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.8	Dan trantelde ick van kou : dan viel ick eens aen 't pompen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.9	Zoo raeckten wy in stadt , daer , als een waterval , Al 't volleck schoot naer 't schip , van straet en burreghwal .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.10	De geest van out en jong door een scheen uitgespannen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.11	Men brocht het Vosmeer toe met kroezen en met kannen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.12	Maer 't zagh'er deerlijck uit , toen Gysbrecht liet gebiên , Men zou de naeste poort en 't slot van rijs verzien : Want door het lang belegh , en door de koude dagen Was al de torf verbrant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.13	ick holpze rustigh draegen , En scheen de gaeust van al , in 't bangste van dien noot : Want had het lang geduurt , de zolder waer ontbloot , Waer onder 't krijghsvolck lagh gedoken in zijn laegen ; Doch d'avont viel heel kort , en ick begon te klaegen , En hielme gansch vermoeit , en riep : van daeg genoegh Geslaeft ; men valle aen't werk , na'et hoogtijt , 's morgens vroeg .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.14	Het wachthuis is verzien .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.15	het is nu tijt van vieren , Naer dien gy van den schrick der Hollantsche banieren Genadigh zijt verlost , en ick'er 't lijf af broght .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.16	Men schonckze vry gelagh , en gafze gelt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.17	ick zocht , Geveinft den arrebeit om 't hooghtijt uit te stellen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.18	De tijt gehengt nu niet u alles te vertellen : Hoe zorghlijck het in 't schip en onder 't krijghsvolck stont , En elck verscheelde , en wat een yeder raetzaemst vont ; Hoe ickze menighmael met dreigen holp aen 't zwijgen , En konze , om 't leven zelf niet aen 't bedaeren krijgen : Hoe Arkel , heel verkoudt , zijn eigen ponjaert bloot Gezet had op den strot , en trooste zich de doot , Om al zijn mackers niet door 't hoesten te verklicken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.19	Nu schort'er dat wy elck ons werreck voort beschicken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1262.s.20	Het zeepaert , zwanger van gewapenden , zal gaen In arbeit , en van vracht , voor 't opgaen van de maen , Omtrent ter middernacht , verlossen , als de kercken Op 't hooghtijt zijn gepropt van menschen , die 't niet mercken : Dan zal de laegh in twee gedeelt , eer 't ymant hoort , Terstont vermeesteren de Haerelemmer poort , En rammenze met kracht : en ick , om u te lichten Van verr ' , zal daedlijck brant in 't holle zeepaert stichteu , Dat midden in de stadt by d'andre schepen leit .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1268.s.1	De maerschalck wacht op u in 't klooster , al bereit Terstont met duizent man de muuren in te trecken , En 't leger leght niet verre : ick ga het hun ontdecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1272.s.1	En ick al weêr naer stadt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1272.s.2	nu veltheer , pas op 't stuck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1276.s.1	Godt geef dat u en my dees aenslagh wel geluck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1278.s.1	Rey van edelingen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.1	Wy edelingen , bly van geest , Ter kerke gaen op 't hooghste feest Den eerst geboren Heilant groeten , En knielen voor de kleene voeten Van 't kint , waer voor Herodes vreest : Het kint waer voor een star verrijst , Die Wijzen met haer stralen wijst De donkre plaets van zijn geboorte , En leitse in Davids oude poorte , Daer d'allerhooghste 't laeghste prijst .	Joy_Emotion_BodyPart
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.2	Het oosten offert wieroock , gout , En bittre myr .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.3	de gave ontvouwt 's Kints Godtheit , priesterdom , vol waerde , En zijne sterflijckheit op d'aerde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.4	Hier leght hy , die 't al heeft gebouwt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.5	't Gevogelt , dat op wiecken zweeft Zijn nest , de vos zijn holen heeft , En woont in bergen , en in bosschen : Een stal van ezelen en ossen Den Schepper naeulyx herbergh geeft .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.6	De kribbe hem een wiegh verstreckt , Die 't aerdtrijck met den hemel deckt , En elleck dier bestelt zijn voeder .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.7	O kint , gy zijt , gelijck uw moeder , Met pracht noch hoovaerdy bevleckt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.8	Hier voert de neêrgedaelde Godt De trotse weerelt om met spot In zijn triomf , ten smaet der hoven .	Emotion_Pride
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.9	Het nedrigh hart voert hy naer boven Met hem in 't hooghgeboude slot .	BodyPart_Awe
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.10	Hier schuilt dat Godlijck aengezicht , Waer uit de zonne schept haer licht , En alle starren glans , en luister .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.11	Hier leght hy zonder glans in 't duister , Die englen tot zijn ' dienst verplicht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.12	Des hemels reien wiegen hem In slaep met hunne zoete stem , Die noit van vaeck en was beschoten , En weckt het hooft van alle grooten , In 't koningklijck Jerusalem .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.13	Augustus rijck verliest zijn eer : De Roomsche scepter reickt niet veer : Het oost versmaet Latijnsche naemen : Maer dees beheerscht het al te zaemen , Oock daer de zonne neemt haer ' keer .	Honor_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.14	De hemel 't aerdtrijck en de hel Scherp luisteren naer zijn bevel , En siddren voor de zuivre wetten , Die hy door visschers laet trompetten , En blasen over duin en del .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.15	De doecken , daer dit kint in leit Is 't purper van zijn majesteit , Waer in de herders hem aenschouwen , Dien Godt de zielen komt vertrouwen , Gelijck van outs was toegezeit : Dat Godt zijn kudde weiden zal , En hoên voor ramp en ongeval , En naer het afgedwaelde vraegen , Dat schaep op zijne schouders dragen Met vreught by 't overigh getal .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.16	Hier is de wijsheit ongeacht : Hier geld geen adel , staet , noch pracht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.17	De hemel heeft het kleen verkoren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.18	Al wie door ootmoet wort herboren , Is van het hemelsche geslacht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1351.s.19	Gy die der vorsten harten leit , Gelijck een beeck , en schift en scheit Het licht van dicke duisternissen ; Laet den tyran zijn ' aenslagh missen , Die den onnooslen laegen leit .	None
+vond001gysb04_01.TEI.2.text.body.div.head.1353.s.1	Het derde bedryf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1355.s.1	Badeloch .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1355.s.2	Gys breght van Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1355.s.3	Heer Peter .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1355.s.4	Bontgenoten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1355.s.5	Arend van Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1363.s.1	ICk trock zoo dra niet aen mijn beste en hooghtijts kleêren , Om in de kerck met al de stadt te triomfeeren Voor Godt , die 't leger dreef van d'aengevochte wal , En zich verneêren quam in Bethlems armen stal , Of raeckte in eenen stoel aen 't sluimeren en droomen , En ben benauwt en bang uit mijnen slaep gekomen ; Gelijck de dauw getuight , die op mijn kaecken leit .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1370.s.1	Mijn halve ziel , wat's dit ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1370.s.2	hoe zietge zoo beschreit ?	BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1370.s.3	Wat nevel van verdriet bezwalckt uw blinckende oogen , En heeft den hemel van uw aenschijn dus betogen ?	Emotion_BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1370.s.4	Nu zijt gerust , en zegh , wat is het dat u smert ?	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1372.s.1	Ba .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1376.s.1	My leght , helaes , my leght een zwarigheit op 't hart .	HeavyHeartedness_BodyPart_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.1376.s.2	Ick heb in mijnen slaep yet schrickelijx vernomen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1376.s.3	Een droom bezwaert mijn hart : gezichten doenme schromen .	HeavyHeartedness_BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1380.s.1	De droomen zijn bedroch : gy vreest uit misverstant .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.1	Nicht Machtelt , dochtme , stont voor mijne ledekant Bedruckt , en in dien schijn , waer in zy by haer leven My dick haer hartewee te kennen plagh te geven , Toenze in haer traenen smolt , en , van gedult berooft , De handen deerlijck wrong , het hair trock uit heur hooft , De blancke borsten krabde , en scheurde 't kleet aen flarden , En zagh begruist van stof , zoo dat ick 't nau kon harden , Noch hooren al 't gekerm , en jammerlijck misbaer , Noch 't schelden op den graef , voor schelm , geweldenaer , Verkrachter van een vrouw , zoo kuisch , zoo welgeboren .	HeavyHeartedness_Emotion_EmotionalAction_BodyPart_BodilyProcess_Sadness_Despair_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.2	Helaes !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.3	zy quam my niet in die gestalt te vooren , Gelijck haer zuivre ziel , van droefheit afgepijnt In 't leven , nu voor Godt en d'engelen verschijnt , Met eenen pallemtack in haer sneeuwitte handen , En in het sneeuwit kleet , en oogen , die nu branden In 't hemelsch paradijs , als starren aen de lucht .	Emotion_Happiness_BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.4	Ick sprackze al schreiende aen , na eenen diepen zucht : O adelijcke spruit van 't hooge huis te Woerden , Om welcker ongelijck de helden oorlogh voerden , Dat oorlogh , 't welck , na dat gy in den heemel trockt , Zoo onverzoenelijck tot noch toe smoockt , en wrockt ; Wat oirzaeck drijft u hier op ongeruste paden ?	EmotionalAction_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.5	Of komtge om onzent wil , met zwarigheit beladen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.6	Om d'uwen by te staen , in 't kommerlijck belegh ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.7	Nicht Machtelt , 't is vergeefs : de vyanden zijn wegh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.8	Wat treurtge ?	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.9	wy zijn vry van laegen , van bespringen : Dus help ons nu om hoogh by Godt triomfe zingen .	Joy_Emotion_EmotionalAction_Pride
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.10	Omring uw hooft met licht , in steê van lauwerkrans , En ley der englen rey met vrolijckheit ten dans .	Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.11	Zy schudde 't hooft , en scheen van gramschap te veranderen In 't aengezicht , en sloegh de handen van elkanderen , En steende , en zuchte zwaer , en borst in 't endt dus uit , Maer met een heesche keel en dof en schor geluit : Onnoosle , zijtge nu van vyanden ontslaegen ?	Emotion_EmotionalAction_BodyPart_BodilyProcess_Despair_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.12	En slaeptge zoo gerust ?	Aquiescence_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.13	en vreestge niemants laegen ?	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.14	Daer gy , om mijnent wil , op 't alleruiterst zijt , En naest aen uwen val ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.15	op op , het is geen tijt Van slaepen : het is tijt naer andere gewesten Te vlieden van dit huis .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.16	de vyant heeft de vesten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.17	De zeestadt staet in brant : het is met haer gedaen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.18	Oom Gijsbreght heeft vergeefs zijn burgers voorgestaen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.19	Geen tegenworstelen noch strijden magh u baeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.20	Godts Heilgen hebben kerck en outers lang verlaten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.21	Op op , bergh Gozewijn , voor al mijn eenigh pant , Klaris , mijn eigen hart , eer 't heiligh klooster brand ' , Eer eenigh booswicht haer mishandele en misbruicke , Naer zijn ' vervloeckten lust , en zy haer oogen luicke .	BodyPart_BodilyProcess_Shame
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.22	Al zjjn de straeten dicht bezet , en naeu bewaert ; 'k Zal Gijsbreght , ongequetst van spiets of eenigh zwaert , En , zonder eene nop van 't kleet door 't vier te zengen , Geleiden , en gezont op dezen drempel brengen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.23	Verlaet dan flux dit slot : steeck af , op Godts gena , En geef u zeewaert in .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.24	voort , voort , eer 't wort te spa .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.25	Al d ' englen zullen u voor stormen en voor stranden Behoeden , dat de vloot behouden magh belanden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.26	Gedenck eens welck een schrick mijn slaeprigh hart beving .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.27	Mijn hair dat rees te bergh , en aen een yder hing Een droppel nats : het zweet begost my uit te breecken .	Fear_BodyPart_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.28	Mijn lijf wert kil , als ys : ick wou , en kost niet spreecken , En schoot uit mijnen droom , al bevende en bevreest , Greep toe , en zocht vergeefs t'omhelzen haeren geest , Die door mijn armen droop , en wechstoof uit mijn oogen , En lietme heel verbaest , en van het spoock bedrogen .	Fear_Emotion_EmotionalAction_BodyPart_BodilyProcess_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.1449.s.29	Dit is het datme steurt , en in de zinnen speelt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1453.s.1	't Is loutere ydelheit , die zich het brein verbeelt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1458.s.1	Och of het ydel waer !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1458.s.2	ick heb mijn uur verslaepen , Om naar de kerck te gaen . 't is spade .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1460.s.1	Pe .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1462.s.1	Wapen , wapen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1467.s.1	Bescherm ons , goede Godt : behoe ons voor gevaer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1467.s.2	'k Hoor onraet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1467.s.3	och ick zorgh mijn droom is al te waer :	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1472.s.1	Heer Peter , wel hoe dus ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1472.s.2	wat port u zoo te roepen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1472.s.3	Wat jaeght u hier by nacht ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1477.s.1	Godt lof , dat ick de troepen Des vyands ben ontvloôn , ter doot toe afgemat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1481.s.1	Wat vyant ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1481.s.2	hoe ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1481.s.3	ghy raest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.1	De vyant is in stadt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.2	Het is met Amsterdam en met zijn hooge wallen Gedaen : zy is de wraeck in 't endt te buit gevallen .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.3	De gruwelijcke Reus heeft eene poort vermant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.4	Het zeepaert lost zijn vracht , en Vosmeer sticht den brant , In 't barnen van 't gevecht , met schimpen en braveeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.5	De wachters vechten flaeu , en zien hen niet te keeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.6	Het leger treckt vast in met duizenden , een maght Zoo groot als Waterlant noch oit te velde braght , En Kennemer , en Vries , en Zeeu en Hollant t ' zaemen , Met allen die , op ons gebeeten , herwaert quamen .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.7	De Kersnacht heeft gedient tot dit verraeders werck , Bestaen voor maeneschijn , toen 't volleck in de kerck Met offren bezigh was , en zingen in de kooren ; Terwijl de stadt , volvreught , als Christus scheen herboren , Wy weder uit de muil der bleecke doot verlost .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1503.s.8	Vergeefs heeft dit belegh u zoo veel zweet gekost , En bloet en arrebeyt , nu alles loopt verlooren .	Fear_BodyPart
+vond001gysb04_01.TEI.2.text.body.div.sp.1508.s.1	Ick zal terstont om hoogh gaen zien van Schreiers toren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1508.s.2	Gy dienaers , brengt mijn ' helm en harnas by der hant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.1	Helaes wat gaet my aen , in dezen droeven stant !	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.2	Is dat triomf ?	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.3	heet dat zijn vyanden verjaegen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.4	Nu kent men Haerlem eerst : nu blijcken Egmonts laegen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.5	Nu lachenze om mijn stadt , zoo lang van hun benijt .	Emotion_Envy
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.6	Mijn goede vrome man gaet quijnen , en verbijt Zijn leet des daeghs , en brengt de nachten door met waecken .	Aquiescence_Emotion_EmotionalAction_BodilyProcess_Sadness_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.7	Ick vind hem menighmael met traenen op de kaecken : En vraegh ick wat hem deert : hy zucht , en antwoort niet , En kropt zijn hartewee , verdubbelt mijn verdriet .	Emotion_EmotionalAction_BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.8	Hoe veel geluckiger zijn arme en slechte dorpen , En hutten laegh gebouwt , min stormen onderworpen Dan eenigh heerenhuis , dat door 't geboomte steeckt , En daer het bulderen des wints zijn kracht op breeckt .	Emotion_Happiness
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.9	Weet hier van eenigh mensch , ick weet'er van te spreecken : Als ick den ganschen tijt mijns levens overreken , Van mijne bruiloft af , van dat ick zat verlooft : Wat stormen waeiden my niet sedert over 't hooft ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.10	Wat toren is zoo hoogh , van waer mijn oogh de baren , De zee kan overzien van al mijn wedervaeren ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.11	En wie ziet noch het endt van dien begonnen strijt ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1532.s.12	Hier meê ga ick mijn'man , naest Godt mijn toevlught , quijt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1536.s.1	Gedult mevrouw , gedult ; Godt proeft zijn uitverkoren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.1	Ick kan bescheielijck en klaer 't geklicklack hooren En rammelen van 't stael : 't geluit koomt dichter by .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.2	De schepen branden al , en schitteren in 't Y , En in de Diemermeer en alle burreghwallen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.3	Ick zagh het groot gebou , Jan Witten gevels , vallen : Het naeste huis daer aen staet rede in lichten brant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.4	De klocken kleppen vast .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.5	de heele waterkant Is al in rep en roer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.6	het bloedigh zwaert gaet weien .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.7	Men steeckt'er de trompet : men hoort de menschen schreien .	BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.8	Brengt hier mijn harrenas .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.9	voort dienaers , schaft geweer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.10	Al wie in 't harnas sterft , die sterft met krijghsmans eer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.11	Waer vrienden in den noot ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1552.s.12	waer zijn ons bondgenooten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1561.s.1	Voor 't huis vergaderen de treflycksten , de grooten ; Heer Heemskerck , die vol viers om uwe zuster quam , Oudshoren , en Polaen , hoe grijs hy is en stram , Heer Zwieten , Teilingen , en Waermont , en uw broeder , En Kuick , en Kraienhorst .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1561.s.2	geen leeuwen zijn verwoeder , Om aen te gaen op roof .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1565.s.1	Men roep ' hen voor den dagh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1567.s.1	Bont .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1570.s.1	Mijn heer , 't is vechtens tijt , zoo vechten helpen magh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1570.s.2	Wy zijn getroost met u te leven en te sterven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1579.s.1	Gy zult in eeuwigheit by Godt uw loon verwerven , Voor dezen trouwen dienst , in mijnen lesten noot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1579.s.2	Gy ziet hier anders niet voor oogen dan de doot : Doch zooge zijt gezint den vyant te verletten , Zoo veel ons mooghlijck zy , en 't leven op te zetten By stadt en burgery , zoo volghtme : dat 's u voor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1583.s.1	Wy volgen algelijck , en houden 't zelve spoor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1587.s.1	Beschermt mijn ' lieve man , dat bid ick , vroome heeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1591.s.1	Mevrouw , betroume vry , 'k zal zonder hem niet keeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1593.s.1	Rey van Klaerissen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.1	OKersnacht , schooner dan de dagen , Hoe kan Herodes 't licht verdragen , Dat in uw duisternisse blinckt , En wort geviert , en aengebeden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.2	Zijn hooghmoedt luistert naer geen reden , Hoe schel die in zijne ooren klinckt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.3	Hy pooght onnooslen te vernielen , Door 't moorden van onnoosle zielen , En weckt een stadt - en lantgeschrey , In Bethlehem , eu op den acker , En maeckt den geest van Rachel wacker , Die waeren gaet door beemt en wey : Dan naer het westen , dan naer 't oosten .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.4	Wie zal die droeve moeder troosten , Nu zy haer lieve kinders derf ?	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.5	Nu zy hun ziet in 't bloet versmooren , Vergaen , die naulijx zijn geboren , En zoo veel zwaerden root geverft ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.6	Zy ziet de melleck op de tippen Van die bestorve en bleecke lippen , Geruckt noch versch van moeders borst .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.7	Zy ziet de teêre traentjes hangen , Als dau , aen druppels op de wangen : Zy zietze vuil van bloet bemorst .	BodyPart_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.8	De winckbraeu deckt nu met zijn booghjes Gelokene en geen lachende ooghjes , Die straelden tot in 's moeders hart , Als starren , die met haer gewemel Het aenschijn schiepen tot een ' hemel , Eer 't met een mist betrocken wert .	Joy_Emotion_BodyPart_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.9	Wie kan d'elende en jammer noemen , En tellen zoo veel jonge bloemen , Die vroegh verwelckten , eerze noch Haer frissche bladeren ontloken , En lieffelijck voor yder roken , En 's morgens droncken 't eerste zogh ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.10	Zoo velt de zicht de korenairen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.11	Zoo schud een buy de groene blaeren , Wanneer het stormt in 't wilde wout .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.12	Wat kan de blinde staetzucht brouwen , Wanneerze raest uit misvertrouwen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.13	Wat luit zoo schendigh dat haer rout !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1644.s.14	Bedruckte Rachel , staeck dit waeren : Uw kinders sterven martelaeren , En eerstelingen van het zaet , Dat uit uw bloet begint te groeien , En heerlijck tot Godts eer zal bloeien , En door geen tiranny vergaet	None
+vond001gysb04_01.TEI.2.text.body.div.head.1646.s.1	Het vierde bedryf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1648.s.1	Gozewijn van Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1648.s.2	Klaeris van Velzen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1648.s.4	Gysbreght van Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.1	HEt loopt met Amsterdam , gelijck gy hoort , ten ende , En wy verwachten deel aen d'algemeene elende , 't En zy dat elck van ons zich daetelijck verzie .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.2	Voor my , 'k ben out en traegh : my voeght niet dat ick vlie ; Zoo veele moeiten is dit leven my niet waerdigh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.3	Belieft het Godt , hy koom '; zijn dienaer staet al vaerdigh : Hy hael my in zijn ' troon en aengenaeme rust .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.4	Maer gy , mijn dochter , wien het leven beter lust , En in het bloeienst zijt van uwe jonge jaeren , Zet gy 't op vluchten aen , of Jesus u wou spaeren , En helpen in der noot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.5	Klaerisse , reine maeght , Die t ' onrecht noch den haet van vader Velzen draeght , Begeef u op de vlught : al d'andren zullen volgen .	Emotion_Hatred
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.6	De vyant , blint van wraeck , is bitter , en verbolgen , En allermeest op u , ô moeder , vlught voorheen .	Offended_Emotion_BodilyProcess_Vindictiveness_Spitefulness
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.7	Ick help u in dien noot met traenen , en gebeên , En volge u met mijn hart , daer my geen voeten brengen .	BodyPart_Love_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1668.s.8	Ga hene , Machtels kint , of Godt het wou gehengen Dat gy geborgen wert : 'k ben meest met u begaen .	Worry_Emotion_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1670.s.1	Kla .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.1	Och , vader Gozewijn !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.2	waer zietge my voor aen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.3	Zoo ick u dus begaf , hoe zou dat my betaemen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.4	Gy zijt mijn maeghschap toch , naer vleesch en geest te zaemen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.5	Zou ick u hier alleen verlaeten tot een ' roos , Die my een vader streckte , en 't Christelijck geloof In 't herte prente , vroegh van kints been af herbaerde , Den geest versterckte , en 't lijf in reinigheit bewaerde ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1679.s.6	'k Verlaet u nimmermeer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1681.s.1	Rey .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1683.s.1	Dit outer is ons wijck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1685.s.1	Go .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.1	O edel maeghdeke , hoe zijtge zoo gelijck Van aert die Klaere zelf , naer wien gy heet Klaerisse ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.2	Waer vinde ick onderscheit in dees gelijckenisse ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.3	Toen 't Sarazijnsche heir vermeesterde al de stadt Daer Sinte Klaere was , hoe droeghze zich ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.4	zy tradt Grootmoedigh in de poort van 't klooster , daerze woonde : En zagh den vyant wech , zoo ras hy zich vertoonde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.5	Haer moedt , haer sterck geloof , en yverigh gebedt Verstreckte haer een zwaert , en harnas , en helmet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.6	Gy mooght dan , nu gy hebt die zelleve gedachten , Met my , voor dit altaer , de vyanden verwachten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.7	Maer treckme ( dat mijn doot zy verr ' van schande en smaet ) Eerst aen dit stramme lijf mijn staetighste gewaet , Gelijck een Bisschop voeght , eer krijgsliên ons verrassen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.8	Zet my den mijter op : hy zal niet qualijck passen Op mjjn gezalfde kruin .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.9	breng hier den gouden ringk , En steeck aen deze hant , die beeft , den vingerlingk , Daer ick de bruit van't Sticht , de Roomsche kerck , meê troude .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.10	Geef my den herdersstaf , tot steunssel van mijne oude , Daar ick Godts kudde meê gehoedt heb , en geweit : 'k Heb noit de tekens van het Bisdom afgeleit Met wil , maer door bedwangk : al leef ick als gebannen ; Al ruimde ick Henrick plaets , en Willem , en twee Jannen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.11	En 't waer een klein verlies , al had men my verkort In naem en eer , was slechts geen Christensch bloet gestort , En zoo veel zaets vertreên van mensche - en paerdevoeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.12	Most niet onschuldigh volck de schult der heeren boeten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1716.s.13	Nu kinders , zet u hier , en dat een yder non Met my den lofzang zing van ouden Simeon .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1732.s.1	Vergun , ô Godt op zijne bede , Naer uw belofte , uw ' knecht verlof ; Op dat hy reize in ruste en vrede Om hoogh naer 't hemelsche vredehof : Naerdien ick met mijne eigene oogen Den algemeenen heilant zagh , Die als een zon schijnt uit den hoogen ; Daer yder zich in verblijden magh : Een schoone zon , die met haer straelen Het blinde Heidendom verlicht , En Jakobs huis en Isrels paelen Verheerlijckt , en noch veel vaster sticht .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.1	Dat Godt u allen spaere , is 't hier noch tijt van zingen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.2	De vyant zackt vast neêr , om 't klooster te bespringen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.3	Oom Gozewijn , koom hier : gy zijt stockout en traegh ; Gedoogh dat ick u op mijn beide schouders draegh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.4	Klaerisse nicht , gy zult my volgen met dees reien , Waer Godt , of 't goet geluck ons allen wil geleien .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.5	Nu vader , volgh mijn ' raet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.6	de vyant woedt en raest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1743.s.7	Wie 't leven bergen wil , die bergh het in der haest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1747.s.1	Gemack , mijn trouwe neef , gy mooght dees moeite derven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1751.s.1	Wy zijn alleens gezint , en wel getroost te sterven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.1	Hoe nu ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.2	heeft Godt my dan , door water en door vier , Door spiets en zwaert geredt , en menigh blanck rappier , Dat ick den Bisschop noch voor 't outer zou zien slaghten , En in het laeuwe bloet de nonnekens verkrachten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.3	Dat werde nimmer waer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.4	ô Goddelijck geslacht !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.5	Nicht Machtels geest verscheen mijn liefste dezen nacht : Een stem belaste my haer kint en oom te bergen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.6	Haer schimme waert om u : en moet ick 't u noch vergen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.7	En maecktge zelf uw ziel noch schuldigh aen dien moort ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.8	De krijgslien zijn niet verr ' van deze kloosterpoort , Die leght met eenen slagh ter aerde neêrgeworpen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.9	Dees godtgewijde vloer zal 't kuische bloet haest slorpen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.10	Het krijgsvolck nadert vast , ick hoor het aen 't gedruis .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.11	Ick bidt om zijnent wil , die levendigh aen 't kruis Om ons genagelt hing , voor Sions wreede muuren : Ick bidde u om zijn hant-en voet-en hartquetsuuren , En om de doorne kroon , die 't hooft verplette en brack , En om de scherpe spiets , die in zijn zijde stack ; Vergunme dezen troost , in zoo veel zwaericheden , Dat ick uw leven berge : ô vader ; dat ick heden Onschuldigh blijven magh aen uwer aller bloet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1781.s.12	Dit eenige is mijn wensch : en kan ick uw gemoedt Door smeecken noch gebeên noch bittre traenen buigen ; Zoo neem ick Godt en al zijn heilgen tot getuigen , Dat geenerley gevaer , noch zelf de felle doot , My hinderden uw lijf te bergen in den noot .	EmotionalAction_BodyPart_Sadness_Desire_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.1	Gy hebt godvruchtigh , neef , u neffens ons gequeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.2	Wy zullen 't noch voor Godt noch engelen vergeeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.3	Den grooten Godt alleen zy eer in 't hemelrijck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.4	Wy bidden u , sta op : gy doet ons ongelijck , Dat gy ter aerde knielt voor sterffelijcke menschen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.5	Hoe zou ick schooner doot na ' et lange leven wenschen , Dan hier voor martelaer , op deze heilge steê , Te offeren mijn bloet , in 't vierighst van mijn beê , Op 't allerhooghste feest van Godts geboortenisse !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.6	Waer of de doot vertreckt ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1799.s.7	ick heb een rein gewisse , En haeckte lang te gaen naer aller zielen bedt ; Al sedert dat ick uit mijn ' zetel wert gezet , Toen Uitrecht , dat den vorst , gelijck zijn ' vader , eerde , Door staetzucht opgeruit , my wars den neck toekeerde : Van die tijt was ick al dit lastigh leven moe .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1805.s.1	Daer is de vyant zelf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1805.s.2	ick vliegh naer boven toe , En zal , zoo lang ick magh , de kloosterpoort beschutten , Of mijne hulp noch kost uw leven onderstutten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.1807.s.1	Badeloch : Arent van Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1810.s.1	HEer broeder , wel wat 's dit ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1810.s.2	hoe keertge dus alleen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1810.s.3	O Godt , waer blijft mijn heer ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1810.s.4	is hy gebleven ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1814.s.1	Neen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1818.s.1	Wat tijding brengtge dan ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1818.s.2	zegh op , is hy gebleven ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1822.s.1	Ick liet hem voor 't stadthuis gezont en noch in 't leven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1827.s.2	waer magh hy zijn , mijn troost , mijn hoop , mijn hooft .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1827.s.3	En keertge zonder hem ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1827.s.4	dit hadge niet belooft .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1831.s.1	Versla u niet , maer toef .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1831.s.2	gy zult hem haest aenschouwen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1837.s.1	Dat toeven valtme bang .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1837.s.2	och was hy slechts behouwen , In 't onweêr , dat de staet in zee drijft zonder roer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1837.s.3	Ick bid , verhaelme toch al wat u wedervoer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.1	Gy eischt een ' zwaren eisch .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.2	wie zou daer niet voor gruwen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.3	Het zal ons hartewee en droefheit slechts vernuwen .	Emotion_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.4	Wie hoort dit treurspel aen , die niet zijn tranen laet ?	BodyPart_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.5	Al stont hier Grobber zelf , en 't heiloos bastertzaet , Het waer onmogelijck dat hy dit hooren konde , Het is een nieuwe slagh in mijne versche wonde .	BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.6	Oock steeckenwe alle bey noch midden in den druck : En wachten op den slagh van 't uiterste ongeluck , Ten zy het Godt verzie , en zet de wraecke paelen : Doch nu gy 't zoo begeert , hoor toe , ick zal 't verhaelen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.7	Wy quamen niet zoo haest omtrent den middeldam , Daer wat vergaering was van burgren , men vernam , Hoe 't ingetrocken heir de nieuwe zyde alreede Vermeestert had , het volck onnutten weêrstant dede ; Dies Gysbreght liet gebiên , men zou in vaerdigheit De bruggen , daer de stadt zich recht in 't midden scheit , Verbranden , en voor al den Middeldam bezetten ; Om 's vyants overkomst , waer 't mooghlijck , te beletten , En dat men d'oude zy moght vrijen voor gevaer , Schoon of het krijghsvolck van de nieuwe meester waer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.8	Hy zellef was de voorste , om elleck moedt te geven , En ging daer op met ons naer merckt en raethuis streven , En broght met al zijn maght de burgers op de been , Die ruckten hier en daer van allesins by een .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.9	Men spande ketenen , voor 't haestige verrasschen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.10	Men stopt den toegang dicht met zacken , kisten , kassen , En alles wat men reedst kon vinden by der hant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.11	Toen vlogen wy met hem te zaemen naer den brant , Om , waer het mogelijck , daer orden op te stellen : Maer laes !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.12	het was te spa .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.13	wat mont kan u vertellen Den zuuren arrebeit van dezen naeren nacht , En met hoe groot een ' moort die over wort gebraght ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.14	Men zagh de doôn gestroit langs burreghwal , en straeten : Geen ' kruiswegh , die niet dicht bezet was van soldaeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.15	Men ziet'er allesins verbaestheit , en men hoort Zich mengen onder een bloetstorting , brant en moort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.16	De groote aeloude stadt , vermaert in oorelogen , Zoo scheeprijck , en voor wie zich zee en stroomen bogen , Den vreemde en nagebuur , en rijcken tot ontzagh , Gaet plotselijck te grond , en zinckt met eenen slagh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.17	Wy worden niet te min door wanhoop aengedreven , Dat menig graefsgezinde en Kermer kost zijn leven : En 't Amsterlantsche bloet en sneuvelt niet alleen .	Emotion_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.18	De lijcken groeien aen , en leggen onder een , Het aenzicht naer de straet gekeert , of op hun ruggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.19	De kennis van den wegh , van stegen , straeten , bruggen , En stadts gelegentheit , by schijnen van de maen , Quam dapper ons te baet , en hiel de drommen staen Der vyanden , die dick het zeeten op een loopen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.20	Dan ging'er eens een deur , en dan een venster open , Wy groeiden in getal en moedt , en ruckten voort , Of 't mooghlijck had geweest de Haerelemmer poort , Die overweldight was , met dooden te verkroppen ; En weêr met kracht al wat in steê was uit te kloppen ; Maer quamen voel te spa .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.21	de nau ontslipte wacht Verhaelde ons hoe alree de voortoght met de kracht Der ruitren binnen was : wie zou daer tegens mogen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.22	En schoon men hier en daer een brugh had opgetogen , Men rechte weinigh uit .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.23	de brant nam ymmer toe .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.24	d'Ontsteltheit was te groot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.25	men wist niet waer , of hoe .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.26	Mijn broêr , proost Willem , quam , geladen onder d'armen Met overschot van 't kruis des heilants : helpt beschermen Ons hooftkerck , rijck gebout ter eere van Katrijn , En Jesus moeder zelf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.27	ô burgers , berght Kristijn , Heer Gysbreghts zuster toch ; en naulyx kost hy spreecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.28	Ick hebze in 't vrouwekoor al bevende versteecken , En raeckte naulyx uit .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.29	de lantreus is'er veur .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.30	Men hoort zijn stem .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.31	hy loopt met boomen op de deur .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.32	Om Godts wil , gaet de kerck op 't hooge feest ontzetten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.33	Wy schieten derwaert aen , om 't onheil te beletten , Als tygers , die , by nacht van honger uitgejaeght , Gebeeten zijn op roof .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.34	wy vliegen onvertsaeght Door vier en zwaerden heen , om 't al voor Godt te waegen : Maer vinden voor ons komst de kerckdeur opgeslaegen , En hooren eenen galm , die uitberst over straet , En over al de stadt , en Godt voor 't voorhooft slaet , In zijnen hoogen troon , als eer de kerck der Joden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.35	d ' Altaeren en het koor zijn opgehoopt met dooden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.36	Wat bleef'er ongeschent !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.37	wat kreegh'er niet een ' krack !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.38	't Gevlughte volleck zit op trans , gewelf , en dack , En biet noch tegenweer , en quetst ons zelfs met steenen En hout uit misverstant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.39	men hoort de vrouwen weenen , En kinders , die vol schrick krioelen hier en daer , De binnetranssen langs .	Fear_Emotion_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.40	De kaerssen op 't altaer Zijn zommigen gebluscht , en zommigen die blaecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.41	De kerreckschenners woên , en passen wat te raecken , En vechten om den buit , en plondren 't al , oock zelf Het Marianum , dat te pronck hing aen 't gewelf , Wort afgeruckt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.42	men zet in 't glibbrigh bloet zijn stappen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.43	Men torst'er kelcken uit , kassuiffelen , en kappen , Die stijf staen van gesteente , en parlen en root gout , Om 't heerelijckst , als 't plagh , wanneer men hooghtijt houdt , En koor en outerkleên .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1936.s.44	de Kersnacht lagh in stucken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1940.s.1	Hoe ging 't u met Kristijn ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1940.s.2	hoe most dit Gysbreght drucken !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.1	En my : bedenck dat eens .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.2	hoe staet my 't schouspel voor !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.3	Men sleipteze by 't hair uit ons lievrouwe koor , Om d'armen dun en teêr met koorden stijf gebonden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.4	Hoe diep ging dit in 't hart , die naer haer huwlijck stonden !	BodyPart_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.5	Doch Heemskerck meest , die dol dit langer niet verdroegh , Toen zy naer's hemels troon haer blaeckende oogen sloegh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.6	Wy sloten ons wel dicht , en volghden hem altzamen , En rucktenze uit de maght des knevlers : daer op quaemen De Gelderschen , de Zeeu , de Vries en Kennemaer Van allesins te hoop , vol spijts , op 't groot misbaer , En om d'ontruckte maeght : men zagh'er 's graeven zoonen , Men zagh'er d'Egmonts zelfs en Diedrick meê zich toonen Om 't moedighste in dien strijt , met Grobber , helsch van aert .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.7	De winden buldren zoo , eer 't bijster weêr bedaert Des winters , tegen een , en weeten van geen strijcken , En zetten in gevaer de dammen en de dijcken , Door 't perssen van den vloet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.8	de vyant wert te sterck , En groeide , en deê met kracht ons deizen uit de kerck , En wijcken naer den Dam , om versch te zijn gesteven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.9	Neef Heemskerck had by 't koor alreê den geest gegeven , Die ridderlijcke helt en eere van zijn ' stam .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.10	Polaenen viel'er by , die hem te hulpe quam , En niemant weeck in moedt noch billijckheit van oordeel , En Kuick , hem zeer gelijck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.11	hier had de deught geen voordeel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.12	Het heilighdom van 't kruis den proost deê weinigh nuts .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.13	Geen stool beschutte hem , noch geen vierkante muts , Noch geen godtvruchtigheit kon Jesus priester helpen , Toen wy , ô Willem broêr , uw bloet niet moghten stelpen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1973.s.14	Daer gy te sneuvlen quaemt , recht over 't hoogh altaer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1980.s.1	Wat hoor ick hier al leeds !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1980.s.2	hoe voel ick my zoo naer !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1980.s.3	Verhael my evenwel al d'overige elende .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.1980.s.4	't Begin vernoeghtme niet : 'k verlang met schrick naer 't ende .	Fear_Emotion_Desire
+vond001gysb04_01.TEI.2.text.body.div.sp.1980.s.5	Hoe kost mijn droeve man zoo scheiden van zijn bloet ?	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.1	In zoo veel rampen hiel hy al den zelven moedt , En yverde om den Dam te houden onbezweecken , Waer langs de vyant zocht geweldigh in te breecken : Gelijck een waterstroom gewelt baert op een sluis , En elx gehoor verdooft met ysselijck gedruisch .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.2	De deuren kanten zich geweldigh tegens 't wringen Des springvloets ; voor een wijl , tot dat zy open springen , En geven 't water ruimt , den springvloet vryen toom , Die wint dan velt , en ruckt de wortels met den boom , En huis en hof om veer , en zet de laege landen In eene baere zee , met groene en nieuwe stranden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.3	Dus ging 't , na dat men wel een heel uur lang den Dam Verdadight had , zoo dra de burgery de vlam Ten daecke van de kerck ten hemel uitgeslaegen , En 't heerelijck gebouw zagh branden lichter laegen , En hoorde 't moortgeschrey des volx , dat out en jong Van boven , om het vier t'ontgaen , te berste sprong , Of in de spietsen viel ter aerde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.4	dit gezichte Benam hun al den moedt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.5	De helsche Grobber stichte Met een gewijde toorts den brandt in 't heiligh dack .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.6	Hoe leedt het Godt , dat hem de moort niet eer en stack !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.7	Toen was het elck voor zich , een yder bergh zijn leven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.8	Mijn broeder riep , ick zou my flux op 't slot begeven , En zijne gemaelin en kinders gade slaen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.9	Hy zelf weeck op 't stadthuis , en bleef de leste staen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2011.s.10	Ick wert op wegh verlet , en koom den burgh bewaeren , En hoop de goede Godt zal mijn ' heer broeder spaeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2016.s.1	Een hoopelooze hoop .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2016.s.2	och Gysbreght , lieve heer , Ick reken u al doot , en zie u nimmer weêr .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2018.s.1	Rey van Edelingen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.1	WAer wert oprechter trou Dan tusschen man en vrou Ter werelt oit gevonden ?	Emotion_Loyalty
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.2	Twee zielen , gloênde aen een gesmeet Of vast geschakelt en verbonden In lief en leedt .	BodyPart_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.3	De bant , die 't harte bint Der moeder aen het kint , Gebaert met wee en smarte , Aen haere borst met melck gevoedt , Zoo lang gedraegen onder 't harte , Verbint het bloet .	BodyPart_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.4	Noch stercker bint de bant Van 't paer , door hant aen hant Verknocht , om niet te scheiden , Na datze jaeren lang gepaert Een kuisch en vreedzaem leven leidden , Gelijck van aert .	BodyPart_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.5	Daer zoo de liefde viel , Smolt liefde ziel met ziel , En hart met hart te gader .	Emotion_BodyPart_BodilyProcess_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.6	Die liefde is stercker dan de doot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.7	Geen liefde koomt Godts liefde nader , Noch is zoo groot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.8	Geen water bluscht dit vuur , Het edelst , dat natuur Ter weerelt heeft ontsteecken , Dit is het krachtighste ciment , Dat harten bint , als muuren breecken Tot puin in 't endt .	BodyPart_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.9	Door deze liefde treurt De tortelduif , gescheurt Van heer beminde tortel .	Emotion_Love_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.10	Zy jammert op de dorre ranck Van eenen boom , verdrooght van wortel , Haer leven langk .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.11	Zoo treurt nu Aemstels vrou , En smilt , als sneeuw , van rou Tot water en tot traenen .	Emotion_EmotionalAction_BodyPart_BodilyProcess_Love_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.12	Zy rekent Gysbrecht nu al doot , Die om zijn stadt en onderdaenen Zicht geeft te bloot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2068.s.13	O Godt , vetlicht haer kruis , Dat zy den helt op 't huis Met blijdschap magh ontfangen , Die tusschen hoop en vreeze drijft , En zucht , en uitziet met verlangen Waer Aemstel blijft .	Fear_Joy_Emotion_Hope_BodilyProcess_Desire_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2073.s.1	My dunckt ick hoor gerucht : daer roept een aen de poort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2073.s.2	Godt lof , het is mijn heer : ick heb zijn stem gehoort .	None
+vond001gysb04_01.TEI.2.text.body.div.head.2075.s.1	Het vyfde bedryf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2077.s.1	Gysbreght van Aemstel Badeloch .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2077.s.2	Bode .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2079.s.1	MYn lief , hoe hebtge dus uwe oogen uitgekreten ?	BodyPart_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2086.s.1	Nu gy behouden zijt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2086.s.2	is al mijn leet vergeten , Mijn trouwe bruidegom , mijn hooft , mijn troost , mijn schat : Nu gy behouden zijt , wat geef ick om de stadt , Om al het wereltsch goedt !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2086.s.3	hoe zijtge hier gekomen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.1	Na dat de vyant nu den Dam had ingenomen , Nam ick en 't overschot naer 't raethuis toe de wijck , En hiel hem staen met kracht , als water voor den dijck ; Daer 't lantvolck opgeklept zich zoeckt by nacht te redden , En brengt vast zoden aen , en stenen , paelen , bedden , En bulsters , en al wat den zeedijck stutten kan , Waer die is doorgeweeckt ; en zweet met alle man .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.2	Dat speet den grooten reus , die liet zich vreeslijck hooren , En stack met hals en hooft , gelijck een steile toren En spitse , boven 't volck en alle hoofden uit , En scheen een olyfant , die omsnoft met zijn ' snuit .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.3	Zijn spietse was een mast in zijne grove vingeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.4	Ick zagh hem man op man gelijk konijnen slingeren Wel driemael om zijn hooft , gevat by 't eene been , En kneuzen dan het hooft op stoepen of op steen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.5	Hy kan met zijnen pols een ' burghwal over springen , Hy proeft op grendelen de deught der staele klingen , Houwt fel met eenen slagh door yzer en door stael , En proeft zyn beckeneel op poorten van metael .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.6	Hy scheen een Polyfeem , het krijghsvolckscheen zijn kudde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.7	De toren van 't stadthuis beweeghde zich en schudde , Zo dick hy op een ' post , of op den gevel stiet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.8	Hy vreesde Herkles knods noch Samsons vuisten niet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.9	De Kermers volgen hem , en Noorderlantsche knechten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.10	Men voert den stormbock aen : men gaet de ladders rechten , En klimt , met d'eene hant ten gevel uitgestreckt , In d'ander met den schilt , die hals en hooft bedeckt Voor eene hagelbuy van steenen hout en pylen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.11	Ons jeught , daer tegens aen , die wentelt heele stylen En eicke balleken , en uitgelezen hout , En wat'er is van outs tot pracht en prael gebouwt , Van boven in den hoop ; en ofze luttel hoopen , Zoo dient het om hun huit ten dierste te verkoopen , En burgermeesteren en raeden voor te staen , Tot quyting van den eedt haer overheit gedaen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.12	Men ziet'er zelf het bloet der overheit verhitten , En stijven de gemeent : behalve die hier zitten Blootshooft , en half gekleet , en zonder weer te biên , Van zwacken ouderdom ; en durreven wel zien Zoo eetelijck een doot kloeckhartigh onder oogen ; En vechten met hun hart , nu handen niet en mogen .	BodyPart_Dedication
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.13	Een deel der burgery beneên met hellebaerd En sabelen en spiets de poort en muur bewaert .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.14	Ick steegh den toren op , die boven 't dack koomt rijzen , In 't midden van 't stadthuis ; van waer men u kon wijzen De tenten om de stadt , en hoe al 't leger lagh , En van wiens trans men flaeu den Dom van Uitrecht zagh , By klaer en helder weêr . 'k zagh hier uit hoeze streden , En met den storrembock de poort gewelt aen deden , En ramden reis op reis , verdadight door een dack Van schilden , dicht gevoeght .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.15	de deur gaf krack op krack .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.16	Wy stelden flux in 't werck de dissels , en de bijlen , En hieuwen in het ront in stucken alle stijlen , En stieten spits en al 't gevaert van boven af ; Het welck een ' slagh en roock de merreckt over gaf ; En maeckte een vreeslijck loch in zoo veel ysre koppen ; Dat anderen terstont , gevoeght in orden , stoppen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.17	Terwijle stack de kerck de naeste huizen aen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.18	Van daer begon de vlam in 't leien dack te slaen Van 't raethuis , en de roock en smoock verblinde ons oogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.19	De poort bezweeck , het volck quam razende ingevlogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2153.s.20	'k Was al mijn vrienden quijt , en stont verbaest en stom .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2157.s.1	En zaegtge toen noch niet naer vrouw en kinders om ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.1	In die verbaestheit scheen een nevel uit den hoogen En goddelijcke glans te blincken voor mijn oogen , En uit die heldre wolck quam eene stemme voort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.2	Ick heb het licht gezien , en zelf de stem gehoort : O Gysbreght , laetge nu Klaeris uw nicht verlegen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.3	Magh u oom Gozewijn , die grijze , niet bewegen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.4	En steltge huis en vrouw en kinders in gevaer ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.5	Toen schrickte ick , en steegh af , en packte my van daer , Door een ' verholen gang , die uitkomt in een ' kelder .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.6	'k Aenbadt het heiligh licht , dat voor my ging zoo helder .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.7	Ick raeckte op straet , en quam in 't klooster vranck en vry .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.8	Maer niemant gaf gehoor , noch luisterde nae my , Die tegens 't ongeval noch reuckeloos wou wrijten , En boven op het dack my in het uiterst quijten : Want eer ick boven quam , lagh poort en post om veer : Dies gleê ick by een touw in 't kloosterschuitje neêr , Dat juist noch achter lagh , en 'k voer den Aemstel over .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.9	Daer klom ick op een ' boom , nu dor en zonder lover , En luisterde hoe 't met Godts klooster voort verging .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.10	My docht dat ick 't misbaer met bey mijn ooren ving , En zagh , toen ick een poos verbaest had zitten proncken , Een ' dicken roock en smoock , en na den roock de voncken , Ick hoorde paerdevolck , dat langs de Doelebrugh Quam trapplen naer ons toe .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.11	mijn voeten werden vlugh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.12	Men had , ô groot verzuim , dees brugh niet afgesmeeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.13	Ick vloogh'er heen , en zocht te stillen die vast kreeten , En gaf hun moedt , en wou de ruiters houden staen : Zy zouden achter my de brugh in stucken slaen , Of steecken haer in brant : maer niemant durfde 't waegen .	EmotionalAction_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2197.s.14	Oock zagh ick d'oude zy nu branden lichter laegen ; Een voorbô van het geen was naderhant gebeurt , En dat de Middeldam alreê most zijn gescheurt ; Dies gaf ick 't op , en voort de gansche stadt ten beste , En waerschuwde yeder een , en gafme langs de veste Naer 't slot toe , met een sleip van menschen arm en rijck , Een ' troosteloozen hoop , die herwaert neemt de wijck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2199.s.1	Bo .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2202.s.1	Most ick den Bisschop noch zien sterven en d'abdisse ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2202.s.2	Och vader Gozewijn !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2202.s.3	och , reine maeght Klaerisse !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2206.s.1	Hoe is het mogelijck dat gy 't hebt konnen zien ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.1	't Is mooglijck , guntge my dat ick u daer op dien .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.2	Toen Heemskerck Borsselen gevelt hadt voor uwe oogen , Lagh 't lijck ter zijden 't koor , in eenen hoeck getogen , Na dat ick in den drang des vyants my verstack , Mits gy te rugge weeckt , en vielt dat pas te zwack .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.3	Zoo dra men , om den brandt , de groote kerck most ruimen , Ontwapende ick den doode , en zette helm en pluimen Van Borsselen op 't hooft , en toogh zijn rusting aen , En bond het zwaert op zy , om in dien schijn te gaen Ons vyanden bespiên , en letten hoe men 't maeckte .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.4	Ick volghde Haemste na , toen hy in 't klooster raeckte , En vloogh de kerckdeur in , daer Gozewijn noch zat , In 't midden van den rey , die even vierigh badt , En door een vast geloof op Godt zoo moedigh steunde , Dat niemant zich het woên der vyanden bekreunde .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.5	Hy scheen een zon gelijck , en zy de klaere maen ; Al d'andren starren , die met vreught ten reye gaen , En juichen om dees twee , daer zy haer ' glans uit scheppen .	Joy_Emotion_EmotionalAction
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.6	Men zaghze naulyx yet dan kuische lippen reppen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.7	Maer Haemste vaert hem toe met opgestroopten arm , Beklad en root , en van Kristijnes bloet noch warm , En vat hem by den baert met d'eene , met den degen Gereet in d'andre hant , bebloet en bloot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.8	toen stegen De nonnen op , en geen , hoe lieflijck van gemoedt , Die geen leeuwin geleeck , wanneerze brult en woedt , Dewijl de jaeger 't nest wil plondren en beroven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.9	Zoo quam oprechte trouw en eedle gramschap boven .	Emotion_Loyalty_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.10	Zy worstelen een wijl .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.11	Klaeris zet voet by voet , Omarremt Gozewijn , omringt van haeren stoet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.12	Wie zou 't godtvruchtigh hooft een hair bezeeren konnen , Omheint meet eenen muur van godtverloofde nonnen , Gestrengelt arm in arm ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.13	ô Christelijcke knoop !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.14	Ick zie de deughden zelfs , Geloof , en Liefde , en Hoop , Met haere zusteren , die tegens Ondeught strijden , En naer de zege staen door kruis en medelijden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.15	De vyant stont versust , en deisde om deze zaeck : Maer 't aenzien van Klaeris beweeghde 't hart tot wraeck , En braght hem in den zin den moort van zijnen vader , En dat zy d'afkomst was van Velzen , den verrader .	Emotion_BodyPart_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.16	Hy blaeckte , en kreegh een koorts , en door de koortse dorst Naer heur en Aemstels bloet , en stiet eerst door de borst Met zijn ' bebloeden dolck dan d'eene non , dan d'andere .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.17	Zy vielen overhoop , en lagen by elckandere In 't ront , gelijck een krans van roozen , wit en root .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.18	Toen stond Klaerisse daer by Gozewijn , ontbloot Van menschelijcke hulp .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.19	gy zoudze bey zien proncken , Als bloemen op haer ' steel , in eenen beemt , verdroncken Van eenen rooden plas .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.20	d'een zuchte noch , en d'een Vertrock het hooft , die d'arm , en deze noch haer been .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.21	Een ander had den geest zoo daetelijck gegeven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.22	De Bisschop .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.23	schoon hy stont op d'oevers van zijn leven , Betoomde zich niet eens van gramschap en van rouw .	Emotion_Sadness_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.24	Uw vader ley de hant wel eerloos aen een vrouw , Maer zoop noit vrouwenbloet , of is daer om gelastert .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.25	Dus blijckt het datge zijt een overwonnen bastert , Naer lichaem en naer geest ; nu gy uw aert betoon Aen nonnen , die altijt in 't woeden zijn verschoont .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.26	En d'ander antwoort hem : gy zult deze eedle reien , Als bastertbisschop , dan gaen volgen , en geleien .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.27	Hardtneckige , legh nu den valschen mijter neêr .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.28	Zoo sprack het bastertzaet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.29	en ruckte hem om veer Met stoel met al in 't bloet : de mijter viel'er mede .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.30	Klaerisse viel'er by , toen zy haer beste dede , En hiel hem even sterck om zijnen hals gevat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.31	En scheen gevormt albast , met purper overspat .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.32	Hy duwde 't bloedigh zwaert in 's grijzen stramme zijde , Tot aen 't vergult gevest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2281.s.33	zoo zagh men eer , ten tijde Van 't blinde Heidendom , voor 't aengesteken vier , Met 's priesters mes gekeelt een witte offerstier , Met gulde hoornen , en wiens rugh de kranssen decken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2285.s.1	Hoe droegh Klaerisse zich ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.1	Zy holp den degen trecken Uit 's ooms gewonde zijde , en zette hem terstont Den mijter op het hooft , en kust den bleecken mont .	EmotionalAction_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.2	Hy opent pijnelijck zijn halfgelokene oogen , En zietze noch eens aen , en schijnt met haer bewogen , Die hem zijne oogen luickt .	Emotion_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.3	hy geeft den lesten zucht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.4	Zy vangt den veegen geest , en die benaude lucht , En zwijmt een poos van druck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.5	maer Haemstede , eerze weder Bekomt , die worrept haer op 't doode lichaem neder , En boet'er schendigh meê zijn ' godtvergeten lust .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.6	z ' Ontwaeckt in 't ende , en wort van 't schellemstuck bewust , En roept : mijn bruidegom , zie neder hoe ick lije , En hoe men my schoffeert .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.7	ô zuivre maeght Marije !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.8	O Klaere , aenschouwtge dit ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.9	vrouw Machtelt , zie uw kint .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.10	De booswicht slaet heur klaght en woorden in den wint , Gelijck een vogel grijp 't gepiep der simple duiven , Als hy'er uit de vlught een vast krijght in zijn kluiven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.11	Ga hene , zeght hy , klaegh uw moeder uwe smart .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2311.s.12	Hy trappeltze op de buick , en op 't benaeude hart , Dat haer het bloedt ten neus en monde uit quam gevlogen , En zy den den dootsnick gaf , en sloot die hemelsche oogen , En uitging ofze sliep , in 's Bisschops open arm .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2317.s.1	Hoort Godt dan langer niet het jammerlijck gekerm Van zijn gewijde bruit ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2317.s.2	of lust het hem de boosheit Te stijven in haer quaet , door zijne strafteloosheit ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2322.s.1	Was toen zijn moedt gekoelt van alle schendery , En d'oude wrock gepaeit .	Emotion_Spitefulness
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.1	Het bleef'er noch niet by .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.2	Niet verre van 't altaer , vereert met rijcke gaven , Stont een albaste tombe : in deze lagh begraven Het kostelijck gebeente en d'overheilige asch Van een ' , die om 't geloof aen Godt gemartelt was ; Daer most de snode schelm zich zelven noch aen wreecken .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.3	't Is wonder , als Godt zwijght , dat dooden niet en spreecken , Hy schonze , en sloegh'er aen zijn klaeuwen , vuil van bloet , En brackze brullende op met grooten overmoedt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.4	Terstont quam hem een geur en yet wat lieflijcks tegen : Maer die verwaten mensch , [ wat zou zijn hart bewegen ! ] Vaert grimmigh voort , en stroit de beenders hier en daer , En smijt de tombe in twee ; en breeckt 't gewijde altaer , Gebiet terstont den brant in 't kloosterdack te steecken .	HeavyHeartedness_Emotion_Anger
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.5	Het vier nam d'overhant , waer voor de plondraers weecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.6	Ick quam omtrent de Beurs , te water uitgebouwt , Nu half gebrant , en zagh al 't zilverwerck en gout , Geplondert heylighdom , tapijten , en schildrijen , Scharlaken , en fluweel , langs heen de gaelerijen Geworpen overhoop , daer Grobber hiel de wacht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.7	De vlamme speelde in 't gout , en schitterde by nacht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.8	Men zagh'er by een schaer van weduwen en weezen , Bekreeten en bedruckt , en die noch erger vreezen .	HeavyHeartedness_Emotion_BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.9	Zoo raeckte ick onbekent door 't krijghsvolck heen by 't slot , Tot berging van mijn lijf . 'k vertrouw my u en Godt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.10	De wint steeckt op ; men hoort hem in de vlammen bruizen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.11	Een zee van gloet verdrinckt al d'overige huizen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2355.s.12	De burgh lijt last . 't waer best dat ghy een ' uytval deed , En dan de brugh afbraeckt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2359.s.1	Mijn broeder staet gereet	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2361.s.2	Arent van Aemstel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.1	WAt zien we te gemoet ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.2	de burghzaet komt gevloden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.3	Mijn man loopt weêr te rugh , en zoeckt vast by de dooden Zijn ' broeder , dien hy mist , en al te trouw bemint , En niet verlaeten zal , 't en zy dat hy hem vint , En levendigh of doot magh torssen op den rugge , In 't uiterste gevaer .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.4	daer sloopenze de brugge .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.6	wat gaet my aen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2369.s.7	waer vinde ick mijnen heer ;	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2373.s.1	Och , broeder , laetme los .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2377.s.1	Hoe is 't ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2381.s.1	Ik kan niet meer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2385.s.1	Hoe is het , Arent broêr ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2389.s.1	Nu doe ons eenigh teken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.1	Ick ben den adem quijt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.2	ick kan niet langer spreecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.3	Mijn hart bezwijckt door 't bloên .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.4	ick heb mijn plicht voldaen , Mijn vaderlijcke stadt ten ende voorgestaen , Nae dat ick heb zoo lang in ballingschap gezworven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.5	Heer broeder , 'k neem verlof , en als ick ben gestorven Zoo voer , indienge moet verlaeten deze plaets , Mijn lijck met u , op dat de wraecklust des soldaets Het niet onteere , en gun het een gewijde stede .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.6	Gedenck mijn ziel voor Godt , ô priester , in uw bede .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.7	Ick schey , ick zwijm , ick sterf .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.8	mijn tijt is hier geweest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2403.s.9	Och vrienden , bid voor my , ô Godt , ontfang mijn ' geest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2407.s.1	Hy is bereght , en heeft gena by Godt verworven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2413.s.1	Hy is met krijghsmans eere in 't harrenas gestorven , En volght zijn ' broeder Ot in 't hemelsch vaderlant , En triomfeert by Godt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2417.s.1	Gy mist uw rechte hant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2420.s.1	R.v.E.	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2426.s.1	Nu zal hy zich voortaen ten uitval niet beledigen , Noch 't Vrelandsch slot noch dit met zulck een ' moet verdedigen , Noch 't Amsterdamsche recht beschutten met zijn zwaert , En draeven door het heir op een luid brieschend paert , Om prijs en eer in 't stof door zweet en bloet te winnen .	Honor_Emotion_BodyPart
+vond001gysb04_01.TEI.2.text.body.div.sp.2430.s.1	Men trecke 't lichaem uit : men draeg ' den doode binnen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2432.s.1	De heer van Vooren met den trompetter .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2439.s.1	MYn heer , uw ongeluck is ons van harte leet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2439.s.2	Wy staen voor deze graft tot storremen gereet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2439.s.3	't Waer tijdt en meer dan tijt , dat gy u kort beraede , En gaeft het huis voort op , met hope van genade , En schutte d'ongena .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2439.s.4	ick eisch 't in 's graeven naem , Door veltheer Egmonds last .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2445.s.1	Gy eischt dat ik 't my schaem .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2445.s.2	Ick schey'er zoo niet af , als met mijn eigen leven , En eer ick sterref zal noch menigh met my sneven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2447.s.1	Vo .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2449.s.1	Is 't eere dat een helt zich zelf verreuckeloos ' ?	Honor_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2453.s.1	Men houdt de plaets op hoop .	Emotion_Hope
+vond001gysb04_01.TEI.2.text.body.div.sp.2458.s.1	Hier is geen hoop altoos .	Emotion_Hope
+vond001gysb04_01.TEI.2.text.body.div.sp.2458.s.2	Met houden is hier niet met allen uit te rechten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2462.s.1	Dat magh men dan bezien .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2462.s.2	wy zullen ' er om vechten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2473.s.1	't Was vechtens tijt , eer noch de vyant uwe stadt , De poorten , en de vest geheel vermeestert hadt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2473.s.2	Toen alle klocken brant en moort en onraet klepten , En burger en soldaet om 't zeerst hun handen repten : Nu die verweldight zijn , het raethuis afgebrant , En wat in 't harnas blonck , gesneuvelt en vermant , Is 't al vergeefs het slot en overschot verdadight .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2473.s.3	Bera u kort , gy wort misschien noch begenadight .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2477.s.1	't Is mijn gewoonte niet te bidden om gena .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2483.s.1	't Is wijsheit dat men zich uit noot te buiten ga , En zijn gewoonte staecke , en stel 't gevaer voor oogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2483.s.2	Zy kiezen 't best van twee , die beter niet en mogen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2487.s.1	'k Verwacht een uitkomst dan , en geef het op aen Godt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2492.s.1	Wat uitkomst wachtge toch ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2492.s.2	gy zult terstont dit slot Van alle kanten zien beladdren , en bespringen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2499.s.1	Men zalme van het Y zoo lichtelijck niet dwingen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2499.s.2	Ick heb noch over al veel vrienden op mijn hant .	BodyPart_Loyalty
+vond001gysb04_01.TEI.2.text.body.div.sp.2499.s.3	Mijn toeverlaet , naest Godt , is Y en waterkant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.1	Geloofme , 'k zoeck u niet met woorden te vertsaegen , Ghy zult het van dien kant zoo heerlijck op zien dagen , Met schuiten zonder tal , eer u de zon beschijn ' .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.2	Wat riemen voert of zeil heeft amirael Persijn Beslaegen in zijn ' dienst by Vries en Waterlanderen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.3	Al 't omgelegen volck ruckt haestigh by elckanderen , En treckt vast op den brant van kerck en torens aen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.4	Hoe is het mogelijck die maght te wederstaen , Met zoo een hant vol volx , dat door de nederlaegen Der versch vernielde stadt vol schrix is , en verslaegen ?	Fear_Emotion_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.5	Gy vielt , 't is waer , van 't slot op uwen vyant uit : Wat holp 't ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.6	men dreef u in .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2516.s.7	gy waert zoo kort gestuit , En keerde op uwen burgh met roô bebloede koppen , Van vreeze dat men u den toegang toe moght stoppen .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2523.s.1	'k Ontfing geen leedt , alleen mijn boezem zagh bemorst Van bloet , vermits een kay , geslingert langs mijn borst , Het vel had afgeschuurt , en effen 't vleesch gewreven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2523.s.2	Geen dootschrick dreef ons meer dan wy ons zelven dreven .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2527.s.1	Daer niet gewonnen wort is 't ydel dat men strijt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2531.s.1	Een krijgsman wint genoegh , al wint hy niet dan tijt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2535.s.1	't Was raedzaemst by verdragh , en niet uit noot gegeven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2541.s.1	Mijn moeder leerde my , dat ick geen ' raet zou leven Met vyanden , waer van men 't arghste moet vermoên .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2541.s.2	Mijn heer , ick heb uw ' raet voor dees tijt niet van doen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2549.s.1	Mijn meesters harte treckt naer alle brave helden , Die voor hun eere en erf zich vroom ter weere stelden .	Honor_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2549.s.2	d'Onmatigheit van wraeck , gepleeght na Velzens doot , Heeft Egmont noit bestemt , noch yemants schult vergroot .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2549.s.3	Ick ken hem , als my zelf : hy mint u in 't byzonder .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.1	Hy mint my , als het blijckt , en keert het bovenste onder .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.2	Hy mint my averechts .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.3	zijn liefde staet ons dier .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.4	Wie heeft de stadt vernielt , verwoest met zwaert en vier .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.5	En al den nacht gewoedt , als wilt en uitgelaeten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.6	Wie stopt den Aemstel toe met dooden ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.7	wie de straeten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.8	Waer ziet men niet de vlam van dien gestichten brant ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.9	Wat grafsteê , wat altaer , wat kerck heeft 's roovers hant Verschoont ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.10	wat heilighdom , kapellen , kloosters , nonnen Zijn van die klaeuwen niet geschantvleckt , en geschonnen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2566.s.11	Op dat ick niet en repp ' , hoe gruwzaem zijn soldaet Na'et schennen martlen durf den godtgewijden staet ; Daer al de volgende eeuw met laster van zal spreecken , En dat Godts streng gerecht te zijner tijt wil wreecken .	Emotion_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.1	Dit , leider !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.2	was een nacht vol ramps , vol ongevals : Maer dat men oversten wil schuiven op den hals Al wat'er is misdaen by krijgsliên zonder orden , En die door geen gezagh in toom gehouden worden By die gelegentheit , dat lijdt de reden niet , Noch leert d'ervarentheit , en is wel meer geschiet ; Byzonder daer het hart van wraecklust was bezeten .	Emotion_BodyPart_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.3	Wie keert een ' dollen leeuw , na 't breecken van zijn keten ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.4	Hy volght zijn ' wreeden aert , en vlieght met eenen loop , En grabbelt blindelingh den reedsten uit den hoop .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.5	Wanneer 't verbolgen zwaert geraekt uit's krijgsmans scheede , Het keert ' er langsaem in , en acht gebodt noch bede , Ziet vorst noch veltheer aen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.6	het zwaert , geterght van wraeck En gramschap , vint in 't bloet des vyants zoeten smaeck .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.7	De duisternis des nachts maeckt alle ding oock gruwelijck : Dan schijnt het , wat men daeghs zich schamen zou , min schuwelijck , In dees bloetdronckenschap , en blinde en dartle lust , Die tot een vonxken toe al 't licht van reden bluscht , Uit tamme menschen schept onredelijcke dieren , Men moet , men wil of niet , dan 't heir den teugel vieren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.8	Mijn meester toen hy eerst voor uwe vesten quam , Wou wel bemaghtigen de muur van Amsterdam , Maer in den gront de stadt zoo schendigh te verdelgen , Was noit zijn wit , en 't valt hem bitter te verzwelgen : Hoewel het krijghsrecht hem verschoont ; hy verreght niet Het uiterst van zijn recht , en straft noch met verdriet : Is tot verzachting en verschooning meer genegen , Dan al te stijf te staen op 't punt van zijnen degen .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2599.s.9	Verschoon uw leven toch , en gun dees eer aen my .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2605.s.1	Ick ben met eenen doot voor al mijn leven vry .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2605.s.2	Vertreck , en wacht u my meer tijdingen te brengen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2605.s.3	'k Getroost my al wat Godt u toelaet te gehengen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2607.s.5	Adelgund .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2607.s.6	Veenerick .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2607.s.8	Rafaël .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2622.s.1	WY gaven Vooren kort en duidelijck bescheet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2622.s.2	Gy hoort , hoe 't oorloghsvolck tot stormen staet gereet : Waerom het noodigh waer , eer zy dit huis besluiten Van achter met een vloot van schepen en van schuiten , My van onnut gezin , en die geen nootweer biên , t'Ontslaen , en met de bloem der mannen te voorzien , Die machtigh is 't gewelt des vyants af te keeren , Het welck ons komt aen boort met storrembrugh en leêren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2622.s.3	Mijn liefste , geef u scheep : al is het scheiden pijn , 't Is noodigh .	BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2622.s.4	Peter zal uw trouwe leitsman zijn , En dit gevlughte volck en u en uwe kinderen Vervoeren naer een wijck , daer niemant u kan hinderen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2622.s.5	Getroost u daer een wijl te wachten , tot dat Godt Ons weder t'zamenbrenge , en gunne een beter lot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2633.s.1	Helaes , wat ga ick aen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2633.s.2	wat komt my weder over ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2633.s.3	Waer zentge my , mijn lief , Persijn den grooten roover Uw ' vyant in den mont , die op ons vlamt en loert Uit Zwaenenburgh , daer hy des graeven vlagge voert ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2633.s.4	't Verdriet hem zulck een slot en vasten burgh te derven , Die ongerechte gift .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2633.s.5	uw zaet , uw wettige erven Te blusschen in haer bloet , is al zijn wensch en wit , Op dat hy onverlet volharde in 't nieuw bezit .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2637.s.1	Mevrouw , zijt wel getroost : ick zal u zelf geleiden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2641.s.1	'k Neem oorlof met een kus .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2646.s.1	Ick zal van 't huis niet scheiden Noch scheep gaen zonder u , mijn heer , mijn waerde man .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2650.s.1	Ick volg u eer gy 't weet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2654.s.1	Daer weetge luttel van .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2659.s.1	De stroom is wijt genoegh , al stoptmen deze haven , Een schuit ontslipt het licht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2664.s.1	Men zal u hier begraven , Bestulpen onder 't puin .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2664.s.2	ick zie dit huis in brant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2668.s.1	d'Onsterffelijcke Godt heeft alles in zijn hant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2673.s.1	Och , of de goede Godt zich mijnes wou ontfermen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2678.s.1	Mevrouw , betrouw op hem : hy kan ons wel beschermen , En voert zijn eigendom door water vier en vlam .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2682.s.1	Gelijck de brant getuight van 't gloeiende Amsterdam .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2686.s.1	't Is zijn gehengenis .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2686.s.2	wie durf zich daer in mengen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2690.s.1	Wanneer ons leet geschiet , dan zal hy 't oock gehengen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2694.s.1	Mijn lieve gemaelin , gy stelt u 't zwaerste voor .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2698.s.1	Uw droefheit houd geen maet , 't benevelt brein geen spoor .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2702.s.1	Nu vollegh raet , mevrouw , en laet u toch gezeggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2704.s.1	Adel .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2707.s.1	Och , moederlief , wat raet ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2707.s.2	zy komen 't huis beleggen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2707.s.3	Bewaer mijn reinigheit , mijn ' maeghdelijcken staet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2715.s.1	Och , dochter , moeders troost is krancke toeverlaet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2715.s.2	De klockhen deckt vergeefs het sidderende kiecken Voor een ' doortrapten vos met schaduw van haer wiecken : Hy grijptze beide , en stroit de pluimen in de wint , En koelt zijn ' lust , en ruckt de moeder van het kint .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2719.s.1	Zult gy dan oirzaeck zijn dat beide uw kinders sneven ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2723.s.1	Ick zou om eenen man wel bey mijn kinders geven .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2727.s.1	Beweeght uw kroost u niet , dit jongske kleen en teêr ?	BodilyProcess_Love_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.2731.s.1	Niet luttel , maer mijn man beweeghtme noch al meer .	BodilyProcess_Love_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2733.s.1	Ve .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2735.s.1	Wat schreitge moederlief ?	BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2735.s.2	zijt gy bedroeft om vader ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2739.s.1	Om vader schrey ick , kint , om u en ons te gader .	BodilyProcess_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2743.s.1	Uw moeder keert zich niet aen u noch uwe smert .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2750.s.1	Met smerte baerde ick 't kint , en droegh het onder 't hart .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2750.s.2	Mijn man is zelf het hart . 'k heb zonder hem geen leven .	BodyPart_Dedication
+vond001gysb04_01.TEI.2.text.body.div.sp.2750.s.3	'k Zal u om lief noch leedt bezwijcken noch begeven .	Emotion_Happiness_Unhappiness
+vond001gysb04_01.TEI.2.text.body.div.sp.2750.s.4	'k Beloofde u hou en trouw te blijven tot de doot .	Emotion_Love_Loyalty
+vond001gysb04_01.TEI.2.text.body.div.sp.2754.s.1	't Is oock getrouwigheit , wanneer men scheit uit noot .	Emotion_Loyalty
+vond001gysb04_01.TEI.2.text.body.div.sp.2758.s.1	Men scheit om beters wil , om weder te verzaemen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2762.s.1	Indien ick van hem schey , wy komen nimmer t'zaemen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2766.s.1	Gy scheide menighmael , en zaeght hem weêr gezont .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2770.s.1	Ick scheide noit , daer 't zoo bedroeft geschapen stont .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2774.s.1	De weerhaen van de kans kan lichtelijck verkeeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2778.s.1	't Verkeerde noit zoo snel , of 't was om my te deeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2782.s.1	't Was best de kinders dan in zekerheit gebroght .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2786.s.1	't Was best , en hielme niet de bant des echts verknocht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2791.s.1	Een vrouw gedijt tot last : zy weet niet uit te rechten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2796.s.1	Bestelme slechts een zwaert , ick ben bereit te vechten , Te sterven aen de zy van mijnen vromen man .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2800.s.1	Gy hebt een vrouwenhart .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2808.s.1	Neem eens de proef daer van .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2808.s.2	Heldinnen stonden eer als onbeweeghde posten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2808.s.3	De faem van vrouwen roemt , die stadt en volck verlosten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2808.s.4	Uw moeder Baerte toont hoe veel een vrouw vermagh , Wanneer zy Ysselstein verdaedight jaer en dagh .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2817.s.1	Ick waerschouw u , mijn heer , eerwe overrompelt worden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2817.s.2	De triomfeerder stelt zijn vaendels in slaghorden , En d'eer des eersten storms verguntmen aen den Vries , Die 't volck in orden stelt : ons dient geen tijdtverlies .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2817.s.3	Men voert de stormbrugh aen : men steeckt'er de trompetten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2817.s.4	't Is over tijdt den muur en torens te bezetten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2822.s.1	Al lang genoegh gemart : dewijl de noot u prest , Gehoorzaem uwen heer , en kus hem eens voor 't lest .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2835.s.1	Zeer gaerne , brave helt , vergunme slechts een bede , En ruck , het is mijn wil , dit lemmer uit de schede , En stoot het door dees borst , en doop het in dit bloet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2835.s.2	't Is beter dat gy 't zelf dan Vries of Kermer doet , Als ick u heb den geest zien geven door uw wonden , Mijn zoontje zonder hooft , mijn dochterke geschonden , En hoor al 't huis vervult met brant met moortgeschreeuw .	EmotionalAction_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2835.s.3	Zoo sterf ick noch uw vrouw , geen kinderlooze weeuw !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2835.s.4	Zoo magh mijn kint , of gy noch bey deze oogen luicken , Naerdien ick 's levens licht niet langer magh gebruicken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.1	O gruwel , Badeloch , ben ick van zulck een ' aert , Dat ick een vrouw , en noch mijn eigen , met mijn zwaert , Zoo eerelijck voor haer , voor kinderen , en magen , En deze goe gemeent mijn leven lang gedragen , Vermoorden zou , gelijck een gruwelijck tyran ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.2	Zoo ben ick langer niet uw bedgenoot , uw man : Zoo hebt gy onbekent dus lange my versleten , En ick mijn Christendom verzaeckt , mijn ' plicht vergeten .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.3	Hoe laetge zulck een woort uw ' kuischen mont ontgaen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.4	Of wiltge , dat ick u altzamen zal verraên , En my aen uwe doodt en schennis schuldigh maecken ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.5	't Is tijt om weer te biên : de vyanden genaecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.6	Het godloos bastertzaet , beweeght door geen misbaer , Dat onze nicht Klaeris van Velzen , voor 't altaer En 't kruisbeelt , in 't gezicht haers bruidegoms verkrachte , En trappelde op het hart , en om den dootsnick lachte , Zal daetlijck dezen burgh veroveren verwoet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.7	Ick zal mijn vrouw , mijn zaet zien in elckanders bloet Versticken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.8	Grobber zal 't in eenen beker schincken , En dat , zoo laeuw als 't is , den vader op doen drincken , Op dat d'ontruste geest doorwaer ' zijn ingewant , En pijnig ' voor zijn doot het los en vlot verstant .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.9	Waer zijtge dienaers ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.10	waer mijn lijfwacht ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.11	waer mijn knapen ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.12	Brengt herwaert mijn geweer , op mannen , wapen , wapen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.13	Het is de jongste dagh , en met dit huis gedaen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.14	Noch zal het wraeckeloos zoo niet te gronde gaen : Daer moet een groot getal met ons ten hemel vaeren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2868.s.15	Komt volghme , daerwe flus in 't harnas bezigh waren , In 't midden van den moort . 'k gevoel een nieuwe kracht .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.1	Waer wiltge heene ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.2	uw zelf verdrincken in de gracht ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.3	De slotbrugh brant vast af .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.4	of hebtge voor te sterven , Zoo neem ons t'zamen meê : hier zijn uw wettige erven , De huwbaere Adelgund , d'onnoosle Veenerick .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.5	Mijn hairen staen te bergh : hoe klopt mijn hart van schrick !	Fear_Emotion_BodyPart_BodilyProcess
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.6	Och vader , 't is mijn schult : och , zijt zoo niet verbolgen .	Offended_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.7	Bedaer wat : ick ga scheep : ick zal den Deken volgen , Te water en te land : hy voerme waer 't hem lust , Of naer den wilden Yr , of aen de noortsche kust .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.8	Nu vrees ick geen gevaer , noch geene uitheemsche stranden .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.9	Ick neem verlof .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.10	ick ga : ick kus voor 't lest uw handen , Gehoorzaem u , gelijck een Christe vrouwe past .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.11	Ick schrey en klaegh vergeefs .	EmotionalAction_BodilyProcess_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2884.s.12	och mannen , houdt hem vast .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2889.s.1	Mijn heer , ontferm u toch om uw bedruckte vrouwe : Zy luistert naer uw ' raet : zy zwijmt : zy sterft van rouwe .	Emotion_EmotionalAction_BodilyProcess_Compassion_Sadness_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2893.s.1	Och , vader , moeder sterft .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2893.s.2	wat gaet my leider aen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2897.s.1	't En zy gy wat bedaert , het is met haer gedaen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2902.s.1	Om Godts wil , geef gehoor : gy ziet hoe zy u minnen .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.1	Wat razery is dit !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.2	wat onverzetbre zinnen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.3	Men recht met jammeren noch jancken hier niet uit : De traenen doen 't hem niet .	EmotionalAction_BodyPart_Sadness_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.4	de wreetheit wort gestuit Met dapperheit en moedt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.5	waer laet gy u vervoeren !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.6	Het kermen is onnut : men moet de handen roeren .	EmotionalAction_Despair
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.7	Scheep , scheep .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2911.s.8	nu zijt getroost , mijn lief , de tijt is kort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2917.s.1	Voor 't scheiden , laetme toe dat ick mijn bede stort .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2917.s.2	Heer Peter , bid voor ons , dat Godt deze arme schaere Door zijne engel stuure , en mijnen heer bewaere .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.1	Gy die der vromen schilt en wisse toevlught zijt , En van den hemel af den jammerlijcken strijt Der menschen gade slaet , en ziet de steden daelen , En wentelen , en zet de heerschappijen paelen ; Erbarm u over dit bedruckt belegert slot : Bescherm 't rechtvaerdigh hooft , en bergh het overschot Der uitgeroide stadt , genootzaeckt door de baeren , In lange ballingschap , op Godts gena , te vaeren , Gy hebt het huisgezin van Noah wel behoed , Dat op de baeren dreef en hoogen watervloet ; Toen 't water immer wies , tot daer de sterren bloncken , Toen 't hemelhoogh geberghte en alle spitsen zoncken , En al de weerelt lagh in eene baere zee Gedompelt over 't hooft , en kende strant noch ree .	EmotionalAction_Compassion
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.2	Gy trooste door de duif die overbleve zielen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.3	d'Olijftack zey haer aen hoe alle watren vielen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.4	Vertroost ons desgelijx in droeve ballingschap .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.5	Gy weet daer van de maet , en kent den lesten stap .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2940.s.6	Uw geest die blaeze in 't zeil : uw heilige engel stiere Het roer , en zette ons op , daer elck u vrolijck viere .	Joy_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.speaker.2942.s.1	Ra .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.1	O Gysbreght , zet getroost uw schouders onder 't kruis U opgeleit van Godt . 't is al vergeefs dit huis Verdaedight ; hadden wy 't in ons behoed genomen , Het waer met Amsterdam zoo verre noit gekomen : Dus wederstreef niet meer uw trouwe gemaelin .	Emotion_Loyalty
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.2	Verlaet uw wettigh erf , en quel u nergens in .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.3	Al leght de stadt verwoest , en wil daer van niet yzen : Zy zal met grooter glans uit asch en stof verrijzen !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.4	Want d'opperste beleit zijn zaecken wonderbaer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.5	De Hollantsche gemeent zal , eer dry hondert jaer Verloopen , zich met maght van bontgenooten stercken , En schoppen 't Roomsch altaer met kracht uit alle kercken , Verklaeren 't graefflijck hooft vervallen zijn recht , En heerschen staetsgewijs ; het welck een bits gevecht , En endeloozen krijgh en onweêr zal verwecken , Dat zich gansch Christenrijck te bloedigh aen wil trecken .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.6	In 't midden van den twist , en 't woeden nimmer moe , Verheft u stadt haer kroon tot aen den hemel toe , En gaet door vier en ys een andre weerelt vinden , En dondert met geschut op alle vier de winden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.7	Uw afkomst midlerwijl zal geensins onder gaen , Maer eeuwigh adelijck en eerelijck bestaen , Op sloten en in steên ; en loffelijck regeeren , En Aemstels oude naem zal geenen lof ontbeeren ; Als uw naemhafte stadt haer ' Schouburgh open doet , En voert op 't hoogh tooneel uw daeden te gemoet Den burgermeesteren , en drymael twalef raeden , Gezeten op uw ' schilt , van kruissen overlaeden .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.8	Dus geef u haestigh scheep : 't is tijt , want zonder Godt En onze hulp , 't was ongekomen met dit slot .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.9	Ick zal u met een ' mist en dicken nevel decken , En voorgaen met mijn ' glans , den volcke een leidstar strecken , In 't midden van den stroom .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.10	schep moedt , en wanhoop niet , Maer volgh gehoorzaem na het geen u Godt gebiet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.11	Zijn wil is , dat gy treckt naer 't vette lant van Pruissen , Daer uit het Poolsch gebergt de Wijsselstroom komt ruisschen , Die d'oevers rijck van vrucht genoeghelijck bespoelt .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.12	Verhou u daer , en wacht tot dat de wraeck verkoelt .	Emotion_BodilyProcess_Vindictiveness
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.13	Gy zult in dit gewest een stadt , Nieuw Hollant , bouwen , En in gezonde lucht , en weelige landouwen , Vergeten al uw leet , en overbrogten druck ; Waer door uw naezaet klimt den bergh op van 't geluck .	Emotion_Sadness
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.14	Valt u 't verwoesten der godtsdienstigheit te lastigh , Volhardt by 't out geloof en Godts altaer stantvastigh , Op 't spoor der ouderen , u moedigh voorgetreên .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.2991.s.15	Zoo draeft men recht naer Godt , door alle starren heen .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.1	Zijt gy dat Rafaël ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.2	zijt gy dat zelf , die beyde Tobias en zijn bruit zoo veiligh t'huis geleide ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.3	Of liever d'afgezant des hemels , die zoo klaer Voor Moses trock , gelijck een vierige pilaer ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.4	Of die den vromen Loth noch berghde , eer 't vier van boven De steden stack in brant ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.5	of die den gloênden oven Verkoelde , en brogt'er gaef dry jongelingen uit ?	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3002.s.6	Wy volgen op uw licht : wy zien 't is Godts besluit .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.1	Nu buigh ick my voor Godt , mijn lief , mijn uitverkoren .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.2	Nu weiger ick geenfins naer uwen raet te hooren , En legh hier 't harnas af .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.3	hier baet geen tegenweer : Nu Godt dit huis verlaet , en gelt'er zwaert noch speer .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.4	Al 't volck ga voor , dan 't lijck , en niemant hoef te vreezen ; Ick zelf met mijn gezin zal d'allerleste wezen .	Fear_Emotion
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.5	Heer Peter , 'k bid u , tast dit heïligh kruisbeelt aen , Dat voor mijne oudren lang heeft op 't altaer gestaen , En my is aenge-erft .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.6	ick storte in tijt van vrede En oorlogh menighmael hier voor mijn vierge bede , Zoo wel des nachts als daeghs .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.7	hoort mannen , hoort na my .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.8	Wanneer men uit den stroom en Pampus raeckt voorby , Zoo doet ter slincke hant in zee zich op wat weilant , Dat Marcken heet van outs , een laegh en visschers eilant , Het welck een klooster draeght genaemt Mariengaerd , Een rijcke en oude abdy : wy zullen derrewaert Ons spoên , voor wint voor stroom , met riemen en met zeilen , En daer de vloot verzien , en voorraet ommedeilen , En leven wijder raet .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3025.s.9	gaet scheep in die gestalt , Gelijck ick heb belast .	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3030.s.2	hoe bitter valt Het scheiden van zijn lant , daer alles loopt verloren !	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3034.s.1	De liefde tot zijn lant is yeder aengeboren .	Emotion_Love
+vond001gysb04_01.TEI.2.text.body.div.sp.3038.s.1	Verdelghde stadt , wy gaen , en komen nimmer weêr ,	None
+vond001gysb04_01.TEI.2.text.body.div.sp.3042.s.1	Vaer wel , mijn Aemsterlant : verwacht een ' andren heer .	None
+vond001gysb04_01.TEI.2.text.body.div.p.3044.s.1	UIT .	None

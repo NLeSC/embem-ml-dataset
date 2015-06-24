@@ -1,0 +1,647 @@
+weye002holl01_01.TEI.2.text.body.div.head.158.s.1	De Hollandsche zinnelykheid , Bly-spel .	None
+weye002holl01_01.TEI.2.text.body.div.head.159.s.1	Eerste bedryf .	None
+weye002holl01_01.TEI.2.text.body.div.head.160.s.1	Eerste toneel .	None
+weye002holl01_01.TEI.2.text.body.div.stage.161.s.1	MEVROUW KEIZERS-THEE , CLARINDE .	None
+weye002holl01_01.TEI.2.text.body.div.sp.speaker.162.s.1	CLARINDE .	None
+weye002holl01_01.TEI.2.text.body.div.sp.165.s.1	FOey Spadulano !	None
+weye002holl01_01.TEI.2.text.body.div.sp.speaker.166.s.1	M. KEIZERS-THEE .	None
+weye002holl01_01.TEI.2.text.body.div.sp.176.s.1	Foey Alfonso !	None
+weye002holl01_01.TEI.2.text.body.div.sp.176.s.2	Respecteert De wyze faculteit : Coquette , spreckt , wat deert Aan Spadulano ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.176.s.3	wie zag ergens gladder vloeren , Zoo zuiver als kristal , of Ormus paarlemoeren ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.176.s.4	Hy is d'Elixer van de netheid .	None
+weye002holl01_01.TEI.2.text.body.div.sp.176.s.5	't Blinkend gout , Gestoelte en Cabinet die spieglen zig in 't hout : 't Kraakt alles wat hy heeft : ja die maar eens ziet pronken Ter loops zyn porcelein , word wis als dol en dronken Uit liefde tot ...	None
+weye002holl01_01.TEI.2.text.body.div.sp.speaker.178.s.1	KLARINDE .	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.1	Ha !	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.2	ha !	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.3	bestaat verdienste dan In 't boenen van een vloer , of schuuren van een pan ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.4	Wykt dan Alfonso , om dat juist zyn zaal en stoelen Niet glimpen als vernis : is wassen , plassen , spoelen Het Minnewerktuig van het zoete Venus-wigt ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.5	Of is een bezemsteel zyn scherpe liefde-schigt ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.6	Dat 's fraay !	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.7	zwigt dan een pluim en zwierige Equipagie Voor 't doodlyk magazyn en duffe zalf-stellagie ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.8	( 't Geen Spadulaan misdoopt een heilzaame Apotheek ) Of moet hy in zyn hoed de fulpeborstelstreek En koddige omtrek van een molesteen vertoonen ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.9	Of moet een oude pruik beschaad'we neus en koonen , Die vyf à zesmaal daags naauwkeurig word gesmeert Met water , 't geen hy zelfs uit eijeren disteleert , Op datze in glans niet hoeft voor vloer en zaal te wyken ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.10	Moet me in een plank , als in een glas zig zelfs bekyken ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.11	ô !	None
+weye002holl01_01.TEI.2.text.body.div.sp.196.s.12	Dat is aardig .	None
+weye002holl01_01.TEI.2.text.body.div.sp.219.s.1	Zwyg , zwyg Juffrouw Papegaay , Die d'Uil kiest voor een valk , en 't krassen van een kraay Voor 't zoete boom-muzyk van lente-nagtegaalen .	None
+weye002holl01_01.TEI.2.text.body.div.sp.219.s.2	Die ligtmis ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.219.s.3	foey , u aan !	None
+weye002holl01_01.TEI.2.text.body.div.sp.219.s.4	ja 'k derf het niet verhaalen Hoe schelms hy heeft de glans van 't groot Salet vermoord , Toen hy zyn afscheid nam , gepluimt , geleerst gespoord , En heel de vloer bedurf met fransche complimenten .	None
+weye002holl01_01.TEI.2.text.body.div.sp.219.s.5	Dat was een scheur ( als of m'er pruimen op zou enten ) Die 't beste Kabinet kreeg door zyn helsch rapier , Op 't laatste nog een sprong na d'alamode zwier : Daar viel een Gardefeu ; gins bey de Gerridonnen , Chineesche Goodjes ...	None
+weye002holl01_01.TEI.2.text.body.div.sp.219.s.7	wie zou het noemen konnen Wat smaad en schaade ik van Mejonker heb geleen : Men zette schier geen voet , of 't was ter halver been In slyk en poeder , daar de vloer mee was betrokken , Als of een Maartsche buy van sneeuw en wintervlokken Daar neer gestort was : maar 't en zal niet meer geschien , 't Uur van acces is uit ; ook zal me in 't kort u zien Een wettige Huisvrouw van een deftige Apotheeker .	None
+weye002holl01_01.TEI.2.text.body.div.sp.219.s.8	Hier is het vonnis Nigt .	None
+weye002holl01_01.TEI.2.text.body.div.sp.219.s.9	't Is vast .	None
+weye002holl01_01.TEI.2.text.body.div.sp.230.s.1	Neen 't is onzeker , Neen 't is onmooglyk zelfs , dat zweer ik u Mevrou : 't Is zeker dat ik eer van hertzeer sterven zou Als dat te stemmen : Ag !	BodilyProcess_Sadness
+weye002holl01_01.TEI.2.text.body.div.sp.230.s.2	hoe zal ik my begeeven , Om met dien steene Antyk in 't houte juk te leeven , Ik , die steeds van de bloem der jongheid word geëert .	None
+weye002holl01_01.TEI.2.text.body.div.sp.230.s.3	Myn Oom heeft dan vergeefs zyn penn'gen gespendeert Aan Juffrouw Spadulaan : ik zal tot 't uiterst komen Eer ik Alfonso derf .	None
+weye002holl01_01.TEI.2.text.body.div.sp.234.s.1	Tut tut , al Meisjes droomen ; Weet dat u Capitaal hier onder my berust .	None
+weye002holl01_01.TEI.2.text.body.div.sp.238.s.1	Mevrouw .	None
+weye002holl01_01.TEI.2.text.body.div.sp.248.s.1	Myn Heer u Oom , die naar de Spaansche kust Zig voor twee jaar begaf , is dood naar apparentie ; Hier is zyn laatste wil , die strekt tot een sententie En toom aan 't hollent paard van Juffrouws zotte drift .	BodilyProcess_Anger
+weye002holl01_01.TEI.2.text.body.div.sp.248.s.2	't Is tyd dan zoetert , datje eens 't goed van 't quaade schift .	None
+weye002holl01_01.TEI.2.text.body.div.sp.248.s.3	Kies 't wis voor 't ongewis , nooit zal 't u wel gelukken , Ten zy je ootmoedig u genegentheen doet bukken Naar Spadulano .	None
+weye002holl01_01.TEI.2.text.body.div.sp.248.s.4	Hoe !	None
+weye002holl01_01.TEI.2.text.body.div.sp.speaker.250.s.1	KLARINDE met een flaauwe stem .	None
+weye002holl01_01.TEI.2.text.body.div.sp.252.s.1	Onpasselykheid , Mevrouw .	None
+weye002holl01_01.TEI.2.text.body.div.sp.258.s.1	Daar is geen zwarigheid , kom Antonette gouw .	None
+weye002holl01_01.TEI.2.text.body.div.sp.258.s.2	Ha , 'k zie door 't masker van geraffineerde traanen De ligte Alfonso , die de wegen ende baanen Van Nigjes eerbaarheid onveilig heeft gemaakt .	BodyPart_BodilyProcess_Sadness
+weye002holl01_01.TEI.2.text.body.div.sp.261.s.1	Ik zweer Matante .	None
+weye002holl01_01.TEI.2.text.body.div.sp.269.s.1	Ja dat poppezweeren raakt My niet op 't alderminst : ik ken die sex haar kermen .	BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.sp.269.s.2	Kom vliegens Antonet , of 't schaap stikt in myn ermen .	None
+weye002holl01_01.TEI.2.text.body.div.sp.269.s.4	Juffre traanen , waarje opregt zo wel als fyn , Gy zoud als beendren van Santinnen by 't dozyn Miraklen werken .	BodyPart_BodilyProcess_Sadness
+weye002holl01_01.TEI.2.text.body.div.sp.269.s.5	Hey !	None
+weye002holl01_01.TEI.2.text.body.div.sp.269.s.6	kom lustig Antonette .	None
+weye002holl01_01.TEI.2.text.body.div.div.head.271.s.1	Tweede toneel .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.272.s.1	M. KEIZERS-THEE , KLARINDE , ANTONETTE .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.273.s.1	ANTONETTE .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.278.s.1	Hier ben ik .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.278.s.2	Heer Mevrouw is dat een brandklok zetten , Ik schrik , ag Juffrouw , ag !	Fear_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.278.s.3	wie heeft dat lam verstoort ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.278.s.4	Mevrouw 't is zeker zonde en schande , gy vermoort Uw Nigt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.281.s.1	Foey Spadulaan !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.282.s.1	ANTONET .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.286.s.1	O my , dat doet haar stikken , Dat gy dat brokje naamt , gy zoud u niet verslikken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.286.s.2	Mevrouw uw keel is , naar ik denk , niet half zoo naauw .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.293.s.1	Wel onbeschaamde duif , en geile spinhuis-paauw ; Dat kooitje zal nog eens uw stouten bek beteuglen , 't Is regt een plaatsje pop voor ligtgehielde veuglen ; Want 't is u voorbeeld 't geen dien indruk in haar hert Gemaakt heeft , spinnekop .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.294.s.1	ANTON .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.297.s.1	'k Worde appelgraauw en zwert Uit eerbre schaamt .	Emotion_BodilyProcess_Shame
+weye002holl01_01.TEI.2.text.body.div.div.sp.303.s.1	Uw schaamt , zwygt aangebrande panne ; Uw dronke Jan en was nog de eerst , nog laatste , hanne , Die zig verstrikten in u geile spinneweb .	Emotion_Shame
+weye002holl01_01.TEI.2.text.body.div.div.sp.306.s.1	Wie eerlyk is Mevrouw ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.307.s.1	M. KEIZERS-TEE .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.311.s.1	Zwyg Basilikus Neb .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.311.s.2	Saffraan met thee verfrist .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.311.s.3	Dees flaut ' zal haar verdwynen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.311.s.4	Adieu tot wederziens , gehoorzaame Cozyne .	None
+weye002holl01_01.TEI.2.text.body.div.div.head.313.s.1	Derde toneel .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.314.s.1	KLARINDE , ANTONET .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.321.s.1	't Was ruim zo goed dat gy in 't kooitje liep als ik ; Het spinhuis seldrement , 't is wonder zo 'k niet stik .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.321.s.2	Neen dat apartement zoud u veel beter passen , Want veegen , schrobben , het geboen en 't morssen , wassen , Zyn zaak en daar Mevrouw zig steeds me diverteert .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.324.s.1	Ag , Antonet de Apteek !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.340.s.1	Tut tut , dat word gekeert Dat sta ik nimmer toe .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.340.s.2	Ey , 't zal nog mooijer komen , In plaats van zoet gezang , zo zouje stadig droomen Van kopre vyzels , die uitgalmen door den nood En smert der kranken , 't helsch muzyk van graf en dood , In stee van u Salet galant te zien behangen Met leer of schoon tapyt , zo zouje drake en slangen , Egdissen , padden , krokodillen , naar gespens Rondom de muuren zien , 't geen sidd'ren doet een mensch ; Die Spadulano ( ha ! 'k zou uit myn vel schier springen , Uitschreeuwt voor wond'ren en uitheemsche raare dingen ; Gy zoud een Circe zyn by al dat vuil gebroed .	Fear_BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.div.sp.340.s.3	Neen Juffrouw geen Apteek , dat keur ik nimmer goed .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.346.s.1	Maar hoe is deze buy haar dog in 't hoofd gestegen Van de oude Apteeker , die zig nooit of ooit geneegen Betoonden voor ons Sex ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.346.s.2	Vertel my 't Antonet Indien j'er iets van weet .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.369.s.1	Precysjes en heel net Is my 't geheim bewust , ik weet het op myn duimtje , 't Was Zusje Fenix die het bloemtje en het schuimtje Van properheid zig noemt , die van d'Apteker sprak Hoe dat geheel zyn huis , ja zelfs het klein gemak , Blonk als een diamant , hoe duizend fyne kopjes Verçierden 't Kabinet , hoe veel japanse popjes Uit amber , zee-koraal , en roosverf , paarlemoer , Vervulden 't groot Zalet ; ja dat de planke vloer Zo glad geboend was , dat men tafels kon doen glyden Van 't een tot 't ander end , dit kon Mevrouw niet lyden ; Maar riep heel wat'rig , span de koets in Bastiaan ; Wip met ons drien daar in , en zo naar Spadulaan , Quansuis om Salvolaat , grau Amber , Kreeftenoogen , Etretra , op te doen , d'Apteeker kwam gevloogen Op 't vreeslyk schellen van Matantes ongeduld , Die straks gebragt wierd in 't zalet , 't geen fraay gevuld Was met een compagnie van Juffren en twe Heeren ; D'een was Heer Klatergoud , die zesmaal daags zyn kleeren Veranderd , en altoos blinkt als een goude tor .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.372.s.1	En de ander ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.376.s.1	Wel een gek , men noemt hem Jonker snor , Om twee Moustaches , die zyn malle bakkes cieren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.383.s.1	Dien grooten raasbol , die altoos de uitheemsche zwieren En nieuwe snufjes volgt , verguld langs alle kant , Gelyk de koets van Staat , van Vrankryks afgezant ; Die hand en vingers met manchetten toe gaat dekken , Op dat geen mistig weer zyn mooijering zou vlekken	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.423.s.1	Dezelve : nevens hem zat Juffrouw Suikerriet , Mevrouw Pistache en Roos ... maar zeker 't is my niet De pyn eens waart elks naam en toenaam uit te leggen , Ik zal alleenlyk van het thee-banket iets zeggen : In 't midden van de zaal daar stond een Gueridon , Op 't zelve een keteltje , zo blank gelyk een zon ; 't Trekpotje was bekleed met zuiver zilver laken , Op dat geen vogt het goud van 't lofwerk zou mismaaken Waar meed het was beleid ; de schoteltjes in 't rond Van onder net beplakt met zagte stukjes bont , Uit vrees dat 't porcelein het lakwerk mogte schaaren Van 't lief Japansche blad , 't geen ruste op drie pylaaren Van sakerdaan , kaneel , en pikzwart ebbenhout ; Het schenken van de thee wierd Juffrouw Roos vertrouwt , Die evenwigtig thee en water wist te mengen , Schoon doodlyk ongerust , uit schrik van iets te plengen , 't Geen dog per ongeluk nog toequam , elk wierd bleek ; De vroome Spadulaan , die vreeslyk sober keek , Riep : ô !	Fear_HeavyHeartedness_Worry_Emotion_BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.div.sp.423.s.2	wat ongeluk , wat onbarmhertig storten , 'k Zou graag een derdendeel myns leevens af zien korten Indien 't niet was geschied , wat ongeluk is dat !	Emotion_Unhappiness
+weye002holl01_01.TEI.2.text.body.div.div.sp.423.s.3	Dat 's zoo zey Jonker Snor , 'k zag al zoo lief een gat Als zulke vlekken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.423.s.4	Daar op liet de Apteker haalen Een flesjen Aqua vit , met lelytjes van dalen , Om de arme Roosje , die als aan een slinger hong , En uit haar boenziek vel , door schrik en schaamte sprong , Te laaven .	Fear_Emotion_BodilyProcess_Shame
+weye002holl01_01.TEI.2.text.body.div.div.sp.423.s.5	Hier op zey Mevrouw de verdre vrinden Adieu , ook Spadulaan , die naauw kon woorden vinden , Maar stil en zedig bragt Madame aan haar karos , Doe was het , ô !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.423.s.6	wat man , doe wierd de tong eerst los , Wyl Zusje Fenix mond meer rammelde als de rad're Of hoeven van 't gespan , zyn netheid hadde de ad'ren Deurkroopen van Matant , ja zelfs haar ziel bezet , t'Wyl me u voor 't offer koos , dat aan 't Rubarber bed Zou werden opgeveild : dit's de oorsprong van haar kennis .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.423.s.7	Juffrouw daar hebjet al .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.429.s.1	Alfonso zal die schennis Pareeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.429.s.2	'k Heb zyn woord , hy komt van avond hier .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.429.s.3	Daar is een brief die flus , ja naaulyks een quartier Geleen , my wierd besteld deur de ordinare bode .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.stage.433.s.1	Zy leest de Brief .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.458.s.1	Laat Seneca zyn les , Morale snapster d'uur die nadert , 't slaat daar zes , Ik wagt den Held die 't zwart gespook haast zal verwinnen : d ' Apteek en 't porcelein bezwykt voor trouwe minne .	Emotion_Love_Loyalty
+weye002holl01_01.TEI.2.text.body.div.div.head.460.s.1	Vierde toneel .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.461.s.1	ALFONSO , JAN , beide gekleed als Reizigers .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.462.s.1	ALFONSO .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.473.s.1	Als een ontstelde klok , te langzaam of te ras Gaat u den bek .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.473.s.2	Gants bloed hoe komt dit nu te pas .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.473.s.3	Wie dat de weelde smaakt , moet de armoede ook verdraagen ; Het geld is op : fiat , al 't kroggen en het klaagen Doet niets tot onze zaak .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.473.s.4	Wanneerje in Roomen zat , En meer in een maal als een Abt of Bisschop vrat , Meer wyn verslond als een volwasse walvis , water , Waar bleef toen Katoos les ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.473.s.5	nog eens , hou toe de snater , Of anders ... neen 't kredyt raakt gantschlyk met u uit .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.474.s.1	JAN .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.481.s.1	Zoo is 't al lang geweest , geen Jood die ons een duit Meer toebetrouwt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.481.s.2	Dat ik myn Heer tragt t ' onderregten , Is loutre liefde , want ( 't krakkeelen en het vegten Maar uitgezondert ) wat voor yver toonde ik niet Doe 'k Don Andreas vrouw , die tot zyn huis u liet , En om een bevaart ging , zelfs in u bed beschikten ?	Emotion_EmotionalAction_Love_Loyalty_Annoyance
+weye002holl01_01.TEI.2.text.body.div.div.sp.484.s.1	Zwyg snappert .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.485.s.1	JAN	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.489.s.1	Doen ik gaf de schoon met goud gestikten En zyden fynen das u Spagnolette pop , Hoe dikwils dagt ik , ag !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.489.s.2	verander in een strop .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.492.s.1	Schelm !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.497.s.1	Doeje 't huis beklom van 't Paduaans Doctoortje , En 't maagdelyke Fort van 't jonge Leonoortje Bestormden , was ik niet verloore sentinel ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.500.s.1	Zwyg langtong .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.504.s.1	Doeje laatst kreeg rusie om het spel , Met Don Bernardo , wierd ik niet half dood geslaagen ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.507.s.1	Poltron !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.513.s.1	't Is wonder dat myn hals 't nog heeft ondragen , Wanneer ik de oude Jood een valsche diamant Verkogt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.516.s.1	Bedrieger .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.522.s.1	Doen ons huis langs alle kant Omringt met hapschaars was , om u te apprehenderen , Wat grooter helbaart-storm moest toen myn rug niet keeren , Waar van de meeste helft was u geregte part .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.531.s.1	Morbleu !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.531.s.2	daar liegje schelm , zoo gy myn gramschap tart , Zal dit een borstel zyn om u den rok te veegen , Zwyg ; eertyds was het huis , geloof ik , hier gelegen Van myn Klarinde : ja , ô !	Emotion_EmotionalAction_Anger
+weye002holl01_01.TEI.2.text.body.div.div.sp.531.s.3	ja dit is de poort ; Jan , wyk geen voet van hier , al wierdje half vermoord ; 'k Zal in myn Logement dit reis-tuig gaan verandren , In zes minuten Jan , zoo zien wy weer malkandren .	None
+weye002holl01_01.TEI.2.text.body.div.div.head.533.s.1	Vyfde toneel .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.546.s.1	Dit is helaas het loon van alle dienstbre Geesten , Het eerste compliment is vagebont of schelm , En naar een lange reeks , poltronnen , schurke en beesten , Zo bruid menze op den kop , al droeg me een staalen helm : Weg papegaais-coleur van fulpe passementen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.546.s.2	Ik lag voortaan met levery , Want 'k zie Confraters digte by , Die rollen nu als brave venten , In koetzen by den akrementen !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.546.s.3	En 'k heb zoo veel verstand als zy .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.549.s.1	ANTONETTE , JAN .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.550.s.1	ANTONETTE gemaskert .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.562.s.1	Ey !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.562.s.2	wat een Postiljon , men zou Ronduiten bouwen Op zulk een lighaam : Heer !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.562.s.3	hoe çierlyk zyn gevouwen Die graauwe leersjes , als blaasbalken van een smit , Het hoedje blinkt als kryt , zyn lobbetjes als git .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.562.s.4	Dat pruikje moet gewis een paarde-kam friseeren , En 't pluimtje dat zoo net past by zyn andre veeren , Geloof ik dat een haan zyn staart ontstoolen is : Dat zy-geweer komt van Kastieljes Veldheer wis ; En 't Reis-kapotje met die regenboogsche kleuren , Schynt wel een uithang-bord , 't geen opgaat met twee deuren ; 't Postuurtje ken ik , of ik ben geen Antonet .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.568.s.1	Dat stukje lykt wel een bordeeltje van Biset .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.568.s.2	Zulk soort van duifjes kan ik met een daalder wenken : Ik ken dat vinkje ; 'k moetme daar eens opbedenken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.568.s.3	Bloed is dat nygen !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.568.s.4	Wel ik toonme meed beleeft .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.572.s.1	't Is Jan ; ik moet eens zien , wat kneepen dat hy heeft .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.576.s.1	Wel aan , ik zal dit kind eens zwierig courtiseeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.576.s.2	Juffrouw wat isser nieuws ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.579.s.1	Groene erte en suikerpeeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.582.s.1	Het haakt ... wel àpropo , 't is een betrokke logt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.585.s.1	Die word malà propo , misschien by u gezogt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.588.s.1	Het waait hier vreeslyk kout ... ik heb nog ryke vrinden .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.591.s.1	't Waait gekken hier te Land , en dat met alle winden .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.594.s.1	Ik heb een groot verstant , maar tamelyk onbekent .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.597.s.1	'k Loof alsje stil zwygt , datje zeer wel-spreekend bent .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.603.s.1	Dat steuit ... kom , kom , ik moet het blaadje anders keeren : Uw duistre schoonheid , Lam , braveert de zwarte veeren Van Rave en Bontekraai , en flikkert in de nagt Gelyk een stalkaars .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.607.s.1	Onder dat faveur zoo tragt Het Heerschap mogelyk zig wat te diverteeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.613.s.1	Indien ik door 't barrier van 't masker speculeeren Mogt , uw lieve oogjes ... zou dees tong een compliment U schenken , niet na dat	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.619.s.1	Is 't mogelyk , Heer je bent Een zoete Kortisaan , loop puikje van de gekken , Klimt op een duivekot , daar kenje trekkebekken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.619.s.2	De olyf kleur-prys die daald : ey !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.619.s.3	sta wat uit de zon .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.624.s.1	Indien ik door 't behulp van twee paar zesjes kon Langs Venus ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.624.s.2	Casimat ... na waarde nooit gepreezen : Met u verlof Juffrouw , hoe laat zou 't mooglyk wezen ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.630.s.1	Ik word bewogen door uw zesjes en gebeen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.630.s.2	Een sterke beezemsteel , gelegt op arm en been , Dit vaak gerepeteert , zou dat u minnevlagen Niet aanstonds helpen ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.630.s.3	hê , wat heeft de klok geslagen ?	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.632.s.1	Zy neemt haar masker af .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.636.s.2	Toveresje lief , bekoorlyke Antonet : Nu met authoriteit .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.638.s.1	Hy wil haar kussen .	EmotionalAction_Love_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.643.s.1	Neen zoetjes Jantje , zet Al die gemeenzaamheen een beetje van ter zyden .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.643.s.2	Hoe vaart Alfonso ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.647.s.1	Wel der drommel is dat ryden In minder als een week van Napels hier ter stee .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.651.s.1	Dat luid wat apokryf .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.657.s.1	Maar Cupido quam mee .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.657.s.2	Ik zat op d ' eene wiek , en 't Heerschap zat op d ' ander , Dat gongje post à post : wy huilden met malkander .	BodilyProcess_Sadness
+weye002holl01_01.TEI.2.text.body.div.div.sp.657.s.3	Hy dagt op Spadulaan , en ik op Herbamuf .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.668.s.1	Zet gekken aan een zyde , u talmen maakt my suf .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.668.s.2	Hoe zal u Heer die buy op 't beste nu ontwyken ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.668.s.3	Want Spadulano zal wis met de beuit gaan stryken Van Juffrouws gulde vlies .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.668.s.4	Madame Keizers-thee Is vreeslyk koppig , en haar oude Aptheker mee .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.668.s.5	Hy heeft Mevrouw haar woord , dat is wat nieuws 't geen waar is , En 't wagt maar na 't contract , welks Dubbeld den Notaris , Die ook een lit is van Matantes Maatschappy , Zal krabb'len .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.681.s.1	Geen gevaar , het Regt kiest onze zy .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.681.s.2	Ik zal Matant doen zien , in spyt van d'Apotheken , Dat vaak 't verstand logeert in ongeleerde Leeken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.681.s.4	't Reizen Antonet , dat maakt een schrandre knegt ; Gy zult in 't kort of lang , nog worden onderregt Van myn bequamigheen ... maar à propo , myn Leeven , Indien ' er in passant iets over is gebleeven Van hamelpootjes , fricadel of hoenderbout , Zoo bid ik neem 't Request , van de arme maag , die kout En half gerabraakt is deur 't vasten , in genade !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.687.s.1	Kiest Jantje watje lust , gezoden of gebraaden , Kom smulbroer , cellebroer , welkom avonturier , De keukendeur hangt nog op de eige plaats , het bier En wyn	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.693.s.1	Wat dat belangt , die zal ik nooit vergeeten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.693.s.2	ò !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.693.s.3	Meisje dat muzyk , dat ramm'len van de speeten Is 't zoetste klokkespel dat ooit de maag bedagt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.693.s.4	Ik volgje , met verlof , waar toe dus lang gewagt .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.695.s.1	Hy loopt binnen .	None
+weye002holl01_01.TEI.2.text.body.div.head.698.s.1	Tweede bedryf .	None
+weye002holl01_01.TEI.2.text.body.div.sp.703.s.1	Ag !	None
+weye002holl01_01.TEI.2.text.body.div.sp.703.s.2	Antonet ik beef , Matant zal ons verrassen .	Fear_BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.sp.708.s.1	Daar is geen zwarigheid , ik zal te wel oppassen : Ook is zy beezig met een porceleine kom Te kussen .	EmotionalAction_Love
+weye002holl01_01.TEI.2.text.body.div.sp.711.s.1	Watje spot !	None
+weye002holl01_01.TEI.2.text.body.div.sp.720.s.1	'k Mag lyden dat ik stom Blyf zoo 't niet waar en is .	None
+weye002holl01_01.TEI.2.text.body.div.sp.720.s.3	riepze , dat zyn bloemen , Dat is een zuiver blaauw !	None
+weye002holl01_01.TEI.2.text.body.div.sp.720.s.4	dat wit derf ik beroemen .	None
+weye002holl01_01.TEI.2.text.body.div.sp.720.s.5	Braveert de lelijen , ja sneeuw in blanke verf !	None
+weye002holl01_01.TEI.2.text.body.div.sp.720.s.6	Mits vielze op bey haar knien , al schreeuwend ' ik besterf Het waarlyk ; kan men hier geen weerga toe bekommen !	None
+weye002holl01_01.TEI.2.text.body.div.sp.723.s.1	Haar Geest is byster met die zotheid ingenomen .	None
+weye002holl01_01.TEI.2.text.body.div.sp.729.s.1	Ik heb haar uuren lang , steroogende gezien Op bieze matjes , die geen stuiver agt à tien Ophaalden in waardy ; dogt 't zyn altoos geen vrouwen Die op de geks-kap van een leur 't vernoegen bouwen .	None
+weye002holl01_01.TEI.2.text.body.div.sp.755.s.1	Ja d ' agtb're mannen scheelt het mee vaak in de kruin , Die weekelyks een dag zes zeven in haar tuin Verslyten om een tulp , oranje of plantgewassen t'Aanschouwen .	None
+weye002holl01_01.TEI.2.text.body.div.sp.755.s.2	Eer de zon zyn zweet heeft afgewassen , Verlaat het Heerschap zyn Madame , die van spyt Gelyk gegomt fluweel uitraaffelt , de uur en tyd Vervloekt , darze om een tulp , een roos verwaareloozen ; Opbrallen 't zwarte blad , misagten 't altoos bloozen .	Emotion_EmotionalAction_Sadness_Anger
+weye002holl01_01.TEI.2.text.body.div.sp.755.s.3	Ik sprak nu laatst een Heer die niet genoemt wil zyn , Die schatten Floraas gift verr ' boven graan en wyn : Klarinde , riep hy , admireerd dees malsche tulpen !	None
+weye002holl01_01.TEI.2.text.body.div.sp.755.s.4	Wat ongevoelge ziel en moet niet overstulpen Uit loutre blydschap , op 't gezigte van die schat , Die al het schoon in de omkring van een bloem bevat !	Joy_Emotion
+weye002holl01_01.TEI.2.text.body.div.sp.755.s.5	Beschouw eens de Espinoy , die waard is duizend gulden , Dat 's een Conquest van my , het geen nooit makker dulden , Ontrent zyn zuiver wit of kantwerk .	None
+weye002holl01_01.TEI.2.text.body.div.sp.755.s.6	Dees Bisaart Heeft zes coleuren , welk om 't zoetste saam gepaart , Het dert'le kunst-pinceel en 't Schilders brein braveeren .	None
+weye002holl01_01.TEI.2.text.body.div.sp.755.s.8	Myn Typhone die geen sterveling waardeeren Oyt kon na waarde , uw verf trotst 't goud in hooge kleur .	None
+weye002holl01_01.TEI.2.text.body.div.sp.755.s.9	Dit Kabinet Royaal , is ook geen lor of leur , Maar 't puikje der Bisaards .	None
+weye002holl01_01.TEI.2.text.body.div.sp.778.s.1	Die wil ik juist niet doemen , Een schoone tulp verstrekt een Koning voor de bloemen .	None
+weye002holl01_01.TEI.2.text.body.div.sp.778.s.2	Een trotsje Auriculaas , 't zy Engelsche ofte Luiks , Is Floraas favoryt , iet aangenaams en puiks .	None
+weye002holl01_01.TEI.2.text.body.div.sp.778.s.3	Maar 'k weet Kabalen van Moderne , gekke snaken , Die al haar beezigheen van vlinder-uiltjes maken ; Van torren , ruspen , spinnekoppe en 't vliegend hert , In 't rond te zaam gespelt , gelyk een Uilebert .	None
+weye002holl01_01.TEI.2.text.body.div.sp.778.s.4	Dees heeft weer hoorentjes , en houd die voor zyn Goden , Schoon vaak een voorspook van de kranssen à la Mode .	None
+weye002holl01_01.TEI.2.text.body.div.sp.778.s.5	Die gadert Nesjes vol met eijeren by 't dozyn .	None
+weye002holl01_01.TEI.2.text.body.div.sp.778.s.6	Een ander is voor 't munt van Caesar , Constantyn , D'eerwaarde Nero .. en zulk soort van Potentaaten , Zo duister als Moskeen van Mahomet , of gaten Van 't heilig Romen , die men Catacombes noemt .	None
+weye002holl01_01.TEI.2.text.body.div.sp.778.s.7	Dan hebje een ander soort , die onkruid , wild gebloemt , Vereeren met de naam van raare plant-gewassen , Waar op zy dag en nagt met al hun yver passen , Niet denkende op hun vrouw , kind , maag of naaste bloed , Zoo min als u Galant , hoe hy zyn schuld voldoet .	None
+weye002holl01_01.TEI.2.text.body.div.sp.781.s.1	Is dan Alfons zoo los gelyk de luiden zeggen ?	None
+weye002holl01_01.TEI.2.text.body.div.sp.792.s.2	Neen , maar Jan zyn Knegt die weet het uit te leggen , Die zeit , Alfons leeft als een heilig ' Antonet , Zweerd deur gewoont , betaalt zyn schulden altemet ; Zes zevenmaal ter week gebruikt hy kaart en steenen : Maar tienmaal op een dag , zoo zal hy geld gaan leenen Op triple intrest , loopt maar eenmaal yder uur By d'een of d'and're pop ; ook is hem niets te duur Zo 't maar is op credyt .	None
+weye002holl01_01.TEI.2.text.body.div.sp.792.s.3	En na 'k besef de zaken Stuurt myn beminde Jan zyn kours op 't zelve baken .	None
+weye002holl01_01.TEI.2.text.body.div.sp.795.s.1	Dat is een teken dat 't fortuin hem tegen gaat .	None
+weye002holl01_01.TEI.2.text.body.div.sp.801.s.1	Zo denk ik dat de Bank van Leening 't ook verstaat .	None
+weye002holl01_01.TEI.2.text.body.div.sp.801.s.2	Want ik weet zeker dat die Respective Heeren Meer op die beurs , als d'Amsterdamsche negotieeren .	None
+weye002holl01_01.TEI.2.text.body.div.sp.804.s.1	Hou stil , ik hoor gerugt .	None
+weye002holl01_01.TEI.2.text.body.div.sp.804.s.2	Maar hebje ook wis bescheid .	None
+weye002holl01_01.TEI.2.text.body.div.sp.811.s.1	Of Jan verbeurd een groot stuk van zyn zaligheid .	None
+weye002holl01_01.TEI.2.text.body.div.sp.811.s.2	Indien Alfons niet komt : maar 'k derf ' er wel op vast gaan , Want dat hy my bedroog , hoe zou hy voor de mast staan !	None
+weye002holl01_01.TEI.2.text.body.div.sp.811.s.3	Ik ken hem deur en deur , hy 's altoos vroom geweest .	None
+weye002holl01_01.TEI.2.text.body.div.sp.811.s.4	Daar komt uw Minnaar wis , of voor het minst zyn Geest .	None
+weye002holl01_01.TEI.2.text.body.div.stage.813.s.1	Antonet binnen .	None
+weye002holl01_01.TEI.2.text.body.div.sp.816.s.1	Alfonso , ja hy komt !	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.818.s.1	KLARINDE , ALFONSO .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.823.s.2	tedere Klarinde ; Zo groet Diane , omringt met sterren , haar beminde Endymion ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.828.s.2	myn Alfonso , Claraas ligt !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.828.s.3	Is 't myne Alfonso , voor wiens oog de vreeze zwigt ?	Fear_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.828.s.4	Is 't mooglyk ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.828.s.6	myn ziel word uit haar as bewogen !	BodyPart_BodilyProcess_Moved
+weye002holl01_01.TEI.2.text.body.div.div.sp.837.s.1	Het is uw Minnaar , die geboeid door twee schoone oogen Zyn min ... hoe !	Emotion_Love
+weye002holl01_01.TEI.2.text.body.div.div.sp.837.s.2	Clara schreid : zoo weend de balzem-spruit Met heil'ge dropp'len : ag !	BodyPart_BodilyProcess_Moved_Sadness
+weye002holl01_01.TEI.2.text.body.div.div.sp.837.s.3	myn blanke lely , stuit De dierb're peerlen-vloed van uw bedoude ligten .	BodyPart_BodilyProcess_Moved_Sadness
+weye002holl01_01.TEI.2.text.body.div.div.sp.837.s.4	Onsterffelyde Goon !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.837.s.5	wat tooverende schigten Doordringen deze ziel !	BodilyProcess_Love
+weye002holl01_01.TEI.2.text.body.div.div.sp.849.s.1	Alfonso , zoete smert !	Emotion_Sadness
+weye002holl01_01.TEI.2.text.body.div.div.sp.849.s.2	Herstelder van myn rust , dog pynbank van myn hert , Wat ziel-verrukkend gif , schuild in verliefde blikken : Helaas !	BodyPart_BodilyProcess_Love_Sadness
+weye002holl01_01.TEI.2.text.body.div.div.sp.849.s.3	dees tedre borst zal in haar zugjes stikken ; Myn adren borlen , en myn vingren zyn vol gloed , De pols slaat stervend , wyl 't gekookte minnebloed Blaakt als een Etna : speeld gy niet met myn verlangen ?	Emotion_BodyPart_BodilyProcess_Love_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.849.s.4	Heeft niet een Roomsche pop , wiens spinnewebben hangen , Arglistig uitgespreid uw weifelende ziel Met geile min ontfonkt ?	Emotion_BodyPart_BodilyProcess_Love_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.859.s.1	'k Zweer dat ik nimmer viel : 'k Zweer by het zwanewit van uw vergode leden : 'k Zweer by uw vierige en uw ziel-verlokkende eeden : 'k Zweer by uw boezem , by 't belommerd nagt-altaar Van 't schuimend zee-kind ; by de boeijen van u hair : 'k Zweer by uw zugjes , die langs koralyne lippen Myn adem stuiten , die myn looslyk tragt t ' ontglippen , By Roozekaken .....	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.872.s.2	hy stoort zig aan geen Een Wie toelegt op bedrog .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.872.s.3	Beloften snellen heen , En zyn onstraf baar , t'wyl ons blanke borsjes zwellen , De snoode Theseus vlugt als Aryadnes schelle En treurge klagten Goon beweegen : Enoë Schonk Paris 't maagde-zoet , die flux 't onnoosle vee En droeve Nimph verlaat , om 't geile schoon der Grieken .	BodyPart_BodilyProcess_Love_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.872.s.4	Ondanbre laffe min ! 't is dan 't genot , 't geen wieken Kweekt aan een snode .	Emotion_Love_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.872.s.5	Eylaas !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.872.s.6	de ontrouwe volgt het zoet , En blust de kuische vlam van Cypris minnegloet .	Emotion_Love_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.878.s.1	Moet dan uw minnaar ( om dat Theseus gladde kielen Ontzeilden 't druif-gewas van Bagchus , of de hielen Van Paris Enoë ontvlugten ) voor die smaad Onschuldig boeten ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.886.s.1	Neen : maar 't voorbeeld leerd hoe haat De min als schaduw volgd , na dier-verlangt genieten Van 't rype minnezoet , de traan-revieren vlieten .	Emotion_Hatred_BodyPart_BodilyProcess_Love_Sadness_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.886.s.2	Als 't nypend na berouw de vliezen van ons oog Heel onmedoogend rukt , dan zietme naar om hoog Met duistre wolken .	Emotion_BodyPart_BodilyProcess_Remorse
+weye002holl01_01.TEI.2.text.body.div.div.sp.897.s.1	Neen myn kind , uw eer is veilig : Myn trouw is ongekreukt , 'k bewaar deeze eeden heilig , En 't onbewust geheim : heb ik u 't maagdezoet Ontydig afgeperst , dees hand die feil vergoet .	Emotion_Loyalty
+weye002holl01_01.TEI.2.text.body.div.div.sp.897.s.2	Eer Titans blaauw gespan komt uit de golven hupp'len , Zal ik de nektar van uw mond , met roozedrupp'len Bedauwt , als egte man op Hymens Bruilofts-bed Lief kozend zuigen .	EmotionalAction_Love
+weye002holl01_01.TEI.2.text.body.div.div.sp.901.s.2	d ' onmooglykheid ontzet Dees bange boezem , met ziel-prangende ongenugten .	Fear_Worry_Emotion_BodyPart_BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.div.sp.906.s.1	Vreeze is de voorsmaak van gewyde minnevrugten .	Fear_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.906.s.2	Omhels stantvastigheid , op dat die onverwrikt Als zuil uw onderschraag ...	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.909.s.1	CLARINDE , ALFONSO , ANTONETTE .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.914.s.2	My , is dat geschrikt !	Fear_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.914.s.3	Ik heb Matant gehoort : ey wilt uw post dog ruimen Myn Heer Alfonso , 't oude spook legt op haar luimen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.922.s.1	Dat is onmooglyk !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.922.s.2	ik vertrekken Netje ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.922.s.4	neen , Ik ben in min Jupyn , Klarinde myn Alcmeen .	Emotion_Love_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.922.s.5	Nooit boog een pelgrim , naar een lange weg nu veilig , Met meer devotie zig voor zynen dierb'ren heilig Als ik : ja zelf 't gestarnt is medepligtig ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.940.s.2	Dat is Rodrigoos rol : hoor kinders luistert toe .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.940.s.3	Ik heb een middel om u beide vast en zeker Aan een te lymen , spyt 't contract met d ' Apotheker .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.940.s.4	Daar is een koopvrouw , die 't curieuste porcelein , Gestoelte en kabinet , en pronkgoed groot en klein Hier in den Doel tans veilt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.940.s.5	Mevrouw heeft haar ontboden , En watertant , om 't nieuwste snofje van die mode t'Ontginnen : Jan uw knegt , myn alderbeste maat , Is van myn onderrigt , om in een vrouws gewaar De graagte van Matant zoo vierig aan te hissen , Dat Spadulaan het spoor van Klaraas bed zal missen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.940.s.6	En verders zal men ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.940.s.8	ik hoor een wedergalm Van hoesten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.940.s.9	Pakje voort , en eindig uw getalm : Jan zal u verder van 't byzonderste onderrigten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.940.s.10	Adieu tot wederziens , behartig beide uw pligten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.945.s.1	Vaar wel Alfons .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.950.s.1	Vaar wel .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.950.s.2	Helaas !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.950.s.3	dat wreede woord Bestolt myn boezem in een ysberg , en deurboort Dees mingewyde ziel met doodelyke steeken .	Fear_BodyPart_BodilyProcess_Sadness
+weye002holl01_01.TEI.2.text.body.div.div.stage.952.s.1	binnen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.955.s.1	Zoo treurt de zonnebloem , als Phoebus is geweeken .	Emotion_Sadness
+weye002holl01_01.TEI.2.text.body.div.div.sp.963.s.2	Juffrouw nog zo laat in een betrokke lugt ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.963.s.3	Of benje voor geen krak in u persoon bedugt ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.966.s.1	Deeze aangenaame koelt heeft my gelokt na buiten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.975.s.1	Ey spaar die koelte nu , men zal de deur gaan sluiten , Die avond-lugjes kind , bederven vaak een roos ; Als 't weer op bloemen valt , verslenst haar frisschen bloos .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.975.s.2	Ook heb ik wel gezien , dat op het minst ontstellen Veel Juffren borsjes , door die avondlugjes zwellen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.975.s.3	Een horssel vliegt zo wel by duister als by daag ; Altoos in myne jeugd was 't een gemeene plaag .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.977.s.1	Klarinde binnen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.981.s.1	Al 't geen men ondervind , daar kan men best van spreeken ; Ligt is Mevrouw toen van een horssel ook gesteeken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.986.s.1	Ik heb uw dienst van doen , verstandige Antonet : Hoort dees commissie aan , loopt zonder 't minst belet Na d ' oude Doel .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.995.s.1	Mevrouw , geen mensch is meer begeerig Als uwe dienares ; commissien zyn smeerig : Dat 's apparent om Juffrouw Vinkepoot ( die 's jaars Hier over komt , met pronk-juweelen , 't fynste raars Van Oostersche Aardigheen , en nieuw-hervormde stukken ) Te spreeken .	Emotion_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.1004.s.1	Antonet , ag !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1004.s.2	kon het dog gelukken Om 't eerste en 't beste van haar stacy-praal te zien ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1004.s.3	Ik zou ... maar zegt dat ik precys ontrent ten tien Of hallif elf op 't langst , alhier haar af zal wagten ; Dan zal 't muzyk van Spadulaan , die al zyn kragten Inspant om 't hert te treffen van Klarinde , wel Ten eind ' zyn .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1004.s.4	Nu tot flus .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1018.s.1	Zo ik dat narrespel Niet binnen korten tyd gants vreeslyk kom t ' ontroeren , Moet d ' heil'ge Sintreklaas my in 't oud manhuis voeren : Ontfangt de Juffer geen meer munt ( na myn vermoen ) Als 't uw , zo zal z ' haar maal op rozewater doen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1018.s.2	En Spadulaan ( de dood , wie zou dat immer droomen ) Die zal gewapent hier met Musikanten komen , Gevolgt van Herbamuf , die als Sint Rochus hond Zyn meester naloopt , om den zoeten avondstond T'ontrusten door 't gehuil van oude herbergs-klanken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1018.s.3	Dat 's 't voorspel .. dog van 't laatst zal hy zig niet bedanken .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.1021.s.1	SPADULAAN , HERBAMUF , gevolgt van Musikanten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1022.s.1	SPADUL .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1029.s.1	Muf , houd een oog in 't zeil , past wel op uw geweer : Gewis een mensch die sterft , komt nooit of zelden weer : Nooit dient 't gevaar veragt ; wie weet hoe 't af zal loopen ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1029.s.2	Zo ons Alfonso rook , ons huit die zou 't bekoopen , En dan was 't werk verbrod .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1029.s.3	Ook is een erge steek Vry twyffelagtig .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1030.s.1	HERBAMUF .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1040.s.1	Wis , het geen nog onlangs bleek Aan Juffrouw Marssepein , en Jonker Kasuaris ; Men koos toen in de plaats van Dokter een Notaris , Die steuitten 't accident eer 't quaad zig had gezet .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1040.s.2	Maar 'k lag met zwarigheid ; uw spit , myn bajonet Die zouden hem en Jan , wel deeglyk werk beschaffen : Wy hebben 't doodslaan wis , en agten niet het blaffen Van jonge lekkers , die d'Outaaren met den bek Stout tergen , maar met vuist of degen , pad , nog slek .	HeavyHeartedness_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.1054.s.1	Ik altereer vry ligt voor gruwelyke vloeken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1054.s.2	En die methode , Muf , is niet heel verr ' te zoeken By hemen Jan , die steeds in wyn - en koffy-huis Zo buldren , dat men stil en vreedzaam als een muis Moet loeren : ô !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1054.s.3	die maats die zweeren by 't krakeelen , Rinkinken , kreplen waart , nagtraven , dobble en spelen : Daags in de schermschool , dansplaats , kaats - en maly-baan , En 's avonds vol en dol , dat men kan gaan nog staan .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1054.s.4	Zy vraagen nergens na : men mag haar min betrouwen Als speelders eeden , of 't geween van jonge vrouwen , 't Ja van een quaker , of 't woord van een Polityk .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1060.s.1	Daar is het venster , ag ! 't verlangen maakt me een lyk : 'k Wou nu wel amber zyn , dan kon my Netje ruiken , Maar zo de zoete slaap haar oogjes heeft gaan luiken , Wat raad dan ?	Emotion_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.1068.s.1	Ons muzyk , dat is de beste raad .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1068.s.2	t'Sa , datme eenparig als een brandklok toonen slaat .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1068.s.3	Ik zal een mannestem met fleuit en veelen paaren , En toonen wat een brand schuilt onder gryze hairen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1068.s.4	Apol ( ter eeren van uw zoon , onze Esculaap ) Vermeer dees harmony , en stoor haar zagten slaap .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.1070.s.1	De Muzyk speelt een Ouvertuure .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1073.s.2	zingt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.lg.1081.s.1	Al beevende stampten ik zaaden en kruiden ( Met zoeter muzyk als klokken die luiden ) In een Mortiertje Korinthis Metaal : Als 't naakte Galantje , het zoet Cupidootje Der liefde Galenus , 't voortteelende Goodje Kwam huppelend springen in onze zaal .	BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.div.sp.lg.1089.s.1	Gewapend met pyltjes van salse parilla , En vlerkjes veel zoeter dan spaansche banilla , Of stroop van Althea , en Mel Rosaad .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.lg.1089.s.2	Stout lagchende riep hy : weg weg met uw poeders ; Aposemaas en Haustus , gevult in voeders , Zoo vol virtuiten als oude salaad !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.lg.1097.s.1	Myn schigt is gewisser dan alle uw dranken , Linimenten , ptisanen , die de arme kranken Doen rammelen als een hout tiktakbert !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.lg.1097.s.2	Zoo spreekende , spande het fieltje zyn boogje , En mikkende scherp met 't lonkende oogje , Schoot snorrend een schigje dwars in myn hert .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.lg.1105.s.1	Met boeve grimmasjes zoo teeg hy aan 't vlugten , En ruischende wiekjes , t'wyl bittere zugten Ontschooten den boezem van Spadula .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.lg.1105.s.2	Zo bitter zyn Coloquintische Greinen , Catholische extracten , Absinthii wynen , En 't oude Grieks Hiera Pikera .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.lg.1114.s.1	Verzoet dan dees Dosis van bittre Opiaten , Met heele Manipels van Honingraaten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.lg.1114.s.2	Schenkt mee uit lipjes van Karmozyn Palliative zoentjes , schoon datze niet helpen De source der quaalen , 't is zeker zy stelpen Voor 't minste een groot gedeelte der pyn .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.1117.s.1	Antonet opent het venster .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1123.s.1	Krik krak , ja sellement !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1123.s.2	ha , ha !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1123.s.3	myne Antonet , Wel zuivre nagt-princes , 'k dogt datje nog te bed Laagt met een Incubus van fraaije competentie , En dat dit de oorzaak was ( schoon kind ) van uw silentie .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1131.s.1	Indien het niet en was uit maagdelyke schaamt , Verroeste zanger , die een koekoeks stem beschaamt , Weet zeeker dat ik zou die zotte bek en koonen Met 't volle pis-lampet , op 't aller-cierlykst kroonen .	Emotion_Shame
+weye002holl01_01.TEI.2.text.body.div.div.sp.1131.s.2	Gy wekt nu kat en hond , die zoetjes zyn in rust .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1131.s.3	Loop na het dolhuis nar , en stoort geen meisjes rust .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1134.s.1	Slaapt uwe Juffer , Lam ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1140.s.1	Ja deftige Apotheker , Chineesche Nagt-god , met die lange mensche steeker , Wat isser van uw dienst , doorlugte musikant ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1140.s.2	Ey ! 't is mirakeleus , Messieurs , het ys dat brand .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1145.s.2	spot niet zoete meit : zy zal gewis ontwaken En opstaan .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1148.s.1	Morgen ja .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1154.s.1	Loop gaat haar wakker maaken Ik heb twee schoteltjes , dog eventjes geschaart , En drie paar kopjes , dog by voorval ongepaart , Die zal u Herbamuf tot een vereering brengen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1162.s.1	Klarinde schroomt voor 't vuur , het poesje mogt haar zengen .	Fear_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.1162.s.2	Gy bent al t'amoreus , geleerde kruidervent .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1162.s.3	Nu pakje flux van hier , straatlooper alsje bent .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1162.s.4	Zy kan het stampen van uw vyzels en mortieren Niet hooren , nog 't gehuil van dokters , die als gieren , De boodschap krassen van een dood of stervend aas .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1166.s.1	Zwyg kruitje roertme niet , met al uw bits geraas : Ik heb het woord , geen once of dragma zal ik missen .	EmotionalAction_Anger
+weye002holl01_01.TEI.2.text.body.div.div.sp.1175.s.1	Heer , dat is assurant , men zou zig schier bepissen .	Fear_BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.div.sp.1175.s.2	Geen once of dragma : stil , myn doodlyk Quid pro quo , Klarindes bed en heeft tans geen klisteer van noo .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1175.s.3	Gy zoud ook nimmermeer te samen akkordeeren : Gy bent voor d'oudheid ; zy voor linten , moesjes , veeren : Uw spaansche marsch mishaagt Mejuffers lugte tret : Uw smaak is drooge visch , de haare 't Huiwlyksbed .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1180.s.1	Ik ben zoo droog niet lam , al schyn ik hoog in jaaren , En zou de Huiwlyk-zee , het als Alfons bevaaren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1192.s.1	Gy d'Huiwlyks - zee !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1192.s.2	je blaakt ( 'k moet lagchen by myn ziel ) Als doode schelvis in een schevelingsche kriel ; Gy bent komkommer-heet , verwarmend als aardbeijen , Zo blank als 't goude leer , of oude turkse spreijen .	BodyPart_BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.div.sp.1192.s.3	Myn Juffers koets schrikt voor een meerzwyn of een kalf , Met pooten olyvet van populiere zalf .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1192.s.4	Wat drommel zouje doen , als 't schaap by nagt te quellen ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1192.s.5	Een Juffer wil geen klok by ronkers toonen tellen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1192.s.6	Want ofje slaapt of waakt , ( 't zy opentlyk gezeit ) Je bent een kegel , die of zwikt of nederleit .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1198.s.1	Ik ben geen kegel , kind , geen meerzwyn , ligte Juffer , Komkommer of tapyt , nog een bekruiden suffer .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1198.s.2	Wat meer beleeftheid .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1198.s.3	Wat de duiker , ja en neen , Zo zeker als ik leef ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1210.s.1	De duivel , dat zyn Eén !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1210.s.2	d'Apteker vloekt zoo zoet als fransche confituuren ; Nu , 't geen niet hevig is , kan eeuw en tyd verduuren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1210.s.3	Maar voor uw eigen eer ( volg eens een meisjes raad ) Zo vloekt by rottekruid , de dood , of sublimaat , By maankop , helsche quik , purgaatsjen en klisteeren , En zulke Recipees , die menschen ruïneeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1210.s.4	Laat voor een fyne zus , en mennoos effe doek Die protestaatjen van banket en peperkoek .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1219.s.1	Ah !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1219.s.2	Antonette lief , ey wilt ons niet begeeven !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1219.s.3	Ik zal gelyk een musch aan Venus lymtak kleeven , Ik zal my slingren als groen veil om uwe leen ; Kom doet uw deurtjen op , en loop zo ras niet heen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1219.s.4	Laat Herbamuf de piek van egte liefde planten Op uw fortresse , laat my klautren langs de kanten Van 't snee-wit Bastion , tot op het zoet gebergt .	Emotion_Love
+weye002holl01_01.TEI.2.text.body.div.div.sp.1222.s.1	Weg kleine Ciampion , dat was de mond getergt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1227.s.1	Het spreekwoord is , lang stroo geeft dikmaals weinig kooren , Een hoogen berg kort gras ; indien ik kon deurbooren Uw wreedheid kind , je schold me voor geen endje worst .	EmotionalAction_Anger
+weye002holl01_01.TEI.2.text.body.div.div.sp.1230.s.2	dat zou wis een vlieg zyn op een kallifs borst .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1231.s.1	SPAD .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1233.s.1	Zie daar , 'k vereerje een prent van Ceuta , Stad der mooren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1238.s.1	Al gaafje het Koningryk , nog was de moeit verlooren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1238.s.3	schrandren Spadulaan , blyft dog by d'Apotheek , De Juffer past u als een preekstoel aan een leek .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1242.s.1	Wel Kamenier der maan , uw tong is vreeslyk vaardig .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1243.s.1	ATNONET .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1245.s.1	Gezalfden substituit , myn is ruim d'uwe waardig .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1246.s.1	HERBAM .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1248.s.1	Ik had beleefder taal voor ons muzyk verwagt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1251.s.1	Doodbidders komen daags , maar nimmermeer by nagt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1252.s.1	HERB .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1257.s.1	Wel sletvink , kamerkat , gevleugelde bodinne , Beplaastert popje , faktores van duistre minne , Geplukte koolmees , half-gezengde winterhes , 'k Lagch met uw stoute tong , geraffineerde tes .	Joy_Emotion_EmotionalAction_Love_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.1263.s.1	Decoktje-ketel , zalf , klisteer en pleisterkruijer , Besmeerde traanton , moordklok , schelmsche vyzel-luijer , Die kopre doodbus , door quaatspreekentheid bewoont , Is waardig datze word met deze krans bekroont .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.1265.s.1	Zy werpt de waterpot op zyn hoofd .	EmotionalAction_Anger
+weye002holl01_01.TEI.2.text.body.div.div.stage.1265.s.2	Spadulaan en de Muzikanten vlugten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1278.s.1	Wie dat de zoete rust verlaat om geile poppen , Of als een uil , de nagt kiest voor het zonneligt , Word dikmaals overstulpt met diergelyke soppen , Van pispot , bezemstok , of krabben in 't gezigt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1278.s.2	Zie jongens wat een loon 't nagtraven en rinkinken Ons geeft in deze serenaad , My walgt die saus , 'k bespuw 't gebraad , En slyt voortaan met vrolyk drinken Den dag en nagt , en laat dat vinken , Waar van 't berouw volgt na de daad .	Emotion_Disgust_Remorse
+weye002holl01_01.TEI.2.text.body.div.head.1281.s.1	Derde bedryf .	None
+weye002holl01_01.TEI.2.text.body.div.stage.1284.s.1	MEVROUW KEIZERS-THEE , ZUSJE PHENIX , SPADULAAN .	None
+weye002holl01_01.TEI.2.text.body.div.stage.1284.s.2	Het Toneel vertoont een Salet .	None
+weye002holl01_01.TEI.2.text.body.div.sp.1287.s.2	hoe verdrietig is 't , na 't geen men wenst te wagten .	Emotion_Desire
+weye002holl01_01.TEI.2.text.body.div.sp.1291.s.1	Dat's waar Mevrouw , en zo zyn alle Minnaars klagten , Al myn verlangen is naar uw beminde Nigt .	Emotion_Love_Desire
+weye002holl01_01.TEI.2.text.body.div.sp.speaker.1292.s.1	ZUSJE FENIX .	None
+weye002holl01_01.TEI.2.text.body.div.sp.1297.s.1	Tut tut , daar's niet het geen voor 't huis cieraad niet zwigt .	None
+weye002holl01_01.TEI.2.text.body.div.sp.1297.s.2	Een Juffer is voor 't bed , maar al die raarigheden Zyn schatten die de ziel van onze sex bekleeden .	None
+weye002holl01_01.TEI.2.text.body.div.sp.1297.s.3	Daar komt de Dame zelf !	None
+weye002holl01_01.TEI.2.text.body.div.sp.1301.s.1	Zo komt d'Amandel - vogt En laaft een sterveling !	None
+weye002holl01_01.TEI.2.text.body.div.sp.1306.s.1	Zo word de zee bezogt Van Phoebus flonkrend ligt !	None
+weye002holl01_01.TEI.2.text.body.div.sp.1310.s.1	Zo ziet m'een roos verwikken .	None
+weye002holl01_01.TEI.2.text.body.div.sp.1310.s.2	Door dauw en 't zilvre nat .	None
+weye002holl01_01.TEI.2.text.body.div.sp.1314.s.1	Zo komt na 't doodlyk hikken Een Apoteekers kroes met hyacinth Siroop !	None
+weye002holl01_01.TEI.2.text.body.div.sp.1320.s.2	nader zonneligt , myn kind , myn zoetste hoop .	Emotion_Hope
+weye002holl01_01.TEI.2.text.body.div.sp.1320.s.3	Kom wand'lend Kabinet , vervult met dierbre schatten , Ah ! 'k ben onmagtig om 't genoegen te bevatten Van dees u blyde komst .	Joy_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.stage.1322.s.1	ANTONET , JAN in vrouwe klederen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1327.s.2	wat ik zie is glans , En zo naauwkeurig of het met een goud balans Verdeeld was .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1330.s.1	Ja , Juffrou gelieft dat zo te zeggen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1334.s.1	'k Moet bersten zo m ' een zier of vezeltje ziet leggen , Ja niet een stofje zelfs van d'alderminste soort .	BodilyProcess_Disgust
+weye002holl01_01.TEI.2.text.body.div.div.sp.1341.s.1	d'Ondeelbre vezeltjes die ruimen straks de poort , Wanneer Mevrouw dees plaats bezoekt met kurke muilen En een vergroot-glas , op dat niets zig zou verschuilen Voor hand of oogen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1348.s.1	ey !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1348.s.2	myn Heer ik kryg een kleur Als conchenylje : myn Salet !	BodilyProcess_Shame
+weye002holl01_01.TEI.2.text.body.div.div.sp.1348.s.3	foey !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1348.s.4	wat een leur , Een Garderob-kantoor by 't uw te vergelyken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.stage.1344.s.1	Jan spreekt terwyl stil met Zusje Fenix .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1352.s.1	Mevrouw die zou gewis met 't vonnis heen gaan stryken , Zo Zusje Fenix daar ontrent zig uiten wil .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1354.s.1	ZUSJE FENIX , heel opgetogen .	Joy_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.1356.s.1	Is 't waar ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1356.s.2	ah !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1356.s.3	porcelein gestoelte .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1360.s.1	Zoetjes stil , 't Is my alleen bewust .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1366.s.1	Neen Juffer , geen secreeten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1366.s.2	Mevrouw , Mevrouw , dit nieuws dat moetje vliegens weeten , Gestoelt van porcelein , ah !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1366.s.3	dat de staat dog let Op dees inventie !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1378.s.1	Ah is 't mogelyk !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1378.s.2	ik wil net Myn Groote zaal met twee dozynen flux zien pronken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1378.s.4	Met wat liefde en drift zal ik die dan belonken !	Emotion_Love_Dedication
+weye002holl01_01.TEI.2.text.body.div.div.sp.1378.s.5	Weg nu met zilvre stof , gestoelt van porcelein !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1378.s.6	Weg zyd damast , fluweel , gestaag door 't stof onrein , En die ik in een dag vyf zesmaal af moet stoffen , Want meisjes zyn te leuy , die zouden dat versloffen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1378.s.8	porcelein gestoelt , ja alles komt tans myn Voor 't oog als porcelein .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1389.s.1	Nog zou 't wat anders zyn Zaagt gy eens tafeltjes van 't fynst Japanse linnen , Met maagde-parkement gevoert , uw ziel en zinnen Die zouden voor gewis onrustig zyn tot dat UE .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1389.s.2	in eigendom een half dozyn bezat .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1389.s.3	Die splyten door geen zon , die kan men altoos wassen , Zo blank als maagde-was ; die schaaren nogte krassen , Al hebje meisjes uit de Meijery of Twent , Maar buiten my Mevrouw zo zyn die onbekent .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1395.s.1	Mejuffer 'k zal dees dag van vreugden , eeuwig vieren , En flus myn Kamenier naar u verblyf toe stieren , ô !	Joy_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.1395.s.2	Lieve Koopvrouw van scribaan en porcelein Gestoelte !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1400.s.1	Ik heb nog iets , dat zou u gading zyn .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1400.s.2	Die matten zyn kurieus , en glimmen als sucade Dog vreeslyk ouwerwets .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1411.s.2	doet my de genade , Juffrouw is ergens iets van 't nieuwste , schoon vry duur ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1411.s.3	Ik heb nooit geld gespaart , ja dat me een Garnituur Van goud of zilver lind , gebruikte in plaats van matten , Ik volgden flux die trant , spyt al het tegenspatten Der mans op modes ; z ' is een slegthoofd , die haar stoort Aan dwarse Grieken , want het nieuws altoos bekoort De zinnen van een vrouw .	EmotionalAction_Disgust
+weye002holl01_01.TEI.2.text.body.div.div.sp.1417.s.1	Gewis dat is waaragtig , Mans woorden gelden niet , wanneer maar ietwets pragtig Van Oost of West , of Fransche of Engelsche aardigheen Ons sex bevalt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1421.s.2	stoort ons niet in deze reen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1421.s.3	Juffrouw die mode ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1424.s.1	Die is tans point de Marselje .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1427.s.1	Ay my !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1427.s.2	is 't mooglyk !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1432.s.1	Zoetjes nu Mevrouw ontstelje Zo heevig niet .	Emotion_Awe_Wonder
+weye002holl01_01.TEI.2.text.body.div.div.sp.1432.s.2	Ik heb nog andre rarigheen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1432.s.3	By voorbeeld ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1442.s.2	Juffrou , hoe sidderen al myn leen .	Fear_BodyPart_BodilyProcess_Shame
+weye002holl01_01.TEI.2.text.body.div.div.sp.1442.s.3	Ik zie geen oogenblik dees matten voor myn oogen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1442.s.4	Foey , foey , ik zinnelyk , oh neen , ik ben bedroogen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1442.s.5	Ik ben een morsebel , een Domheers kamenier Van 't Mofs Westphaalen , foey !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1442.s.6	ik brand van spyt als vier .	Emotion_BodilyProcess_Remorse
+weye002holl01_01.TEI.2.text.body.div.div.sp.1442.s.7	Ik zal myn zuivre vloer met deze matten spreijen , Al zoud een brief van Ces my binnen 't jaar geleijen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1473.s.2	Dat is niet met al , ik heb tapissery Van zuiver berg-kristal , klaar-blinkend als kandy ; De Lyst is staal verguld , een konstwerk van Milaanen , De lambrisseering is vol goude en zilvre zwaanen , Festoenen van agaat , en 't Ormus paarlemoer Verdeelen 't stuk voor stuk .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1473.s.3	Wat denkje , dat de vloer Is plankwerk , spiegelglad als deze ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1473.s.4	bagatelle !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1473.s.5	Neen , 't is een pronkstuk 't geen uw magtig zoude onstellen .	Emotion_Moved_Wonder
+weye002holl01_01.TEI.2.text.body.div.div.sp.1473.s.6	Myn vloeren zyn verlakt , verzilvert of verstaalt , De keuken wanden zelfs zyn om ende om bemaalt Met Fresco , Schilderkonst van Italiaansche Meesters , Bataaljes , bloemgewas , bosschaadjen vol van Heesters , Valeijen , Meermans , Amasonen , tovery ; Ja duizend dingen meer , maar zet die aan een zy .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1473.s.7	Ik heb een porceleine grot vol Hagedissen , Van jaspis , zee-koraal , met goude en zilvre lissen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1473.s.8	Prins Robberts stoofjes , die met atlas zyn bekleet , Met voorloop-lampjes , want die blyven altoos heet .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1473.s.9	Ik brand nooit turf nog hout , nog koolvier , neen Madame , Myn huis is my te waard , 'k zou my dees botheid schamen : Een steentjen uit een pers , olyf of melkoton , Dat is een heldre vlam , zo zuiver als een zon .	Emotion_Shame
+weye002holl01_01.TEI.2.text.body.div.div.sp.1473.s.10	'k Heb Kabinetten met uitheemsche rariteiten , Medaaljes , Mineraal , veel Peerlen , Crysolyten , Turkois en Esmaraud , Saphier en Hyacinth : 'k Heb een Japansche Pop , veel grooter als een kind , Uit paarlemoer gesneen , de oogjes zyn granaten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1473.s.11	Ik heb ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1474.s.1	M. KEIZERS TH.	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1486.s.2	ah ik stik , wat kan het my nu baaten Dat Zusje Fenix , Marmelade en Spadulaan , Ja Delft en 's Gravenhaag my roemen als een zwaan Van zinlyk huis çieraad : ah my !	BodilyProcess_Shame_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.1486.s.3	ik zal gaan sterven .	BodilyProcess_Shame_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.1486.s.4	Wyk Spadulaan , die bromd , dat niemand ooit zou derven In punt van nettigheid , zig voegen nevens uw .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1486.s.5	Hier is een diamant .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1486.s.6	Vlugt als de nagt-uil , schuw Voor 't heldre zonneligt .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1486.s.7	Ik zal vergulde Altaaren Opbouwen t'uwer eer : ja nimmer reukwerk spaaren , Juffrou , maar daaglyks met gebooge en bloote knien Uw offren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1492.s.2	Juffrou , gy zult my nooit verbien Dat ik uw schoenen kus , of boord van uwe kleeren .	EmotionalAction_Awe_Dedication
+weye002holl01_01.TEI.2.text.body.div.div.sp.1492.s.3	Ik ben een poddegroes , een quab-aal ; 'k zou graag leeren Het minste en slegtste deel van al u zinnelykheen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1504.s.1	Zo immer een Doctoor wierd in uw huis geleen , Om met een slagboom van purgatien , kruiden , dranken , Te stutten 't woedend heir van quaalen , die de kranken Bestormen dag en nagt : zo immer een klisteer Door d'Apothekers hand gezet ( ter tyd wanneer Natuur verbolgen was ) u hinderst kon behagen : Gun dat ik door uw hulp , d ' uit spoor geholde wagen Van 't superfyne net , herstel op d ' egte baan : Ey !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1504.s.2	Juffrouw , neemt myn dienst met mededoogen aan .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1507.s.1	Mevrouw ik heb	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1515.s.2	laat ons niets van hebben hooren , ô !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1515.s.3	Al dat hebben priemt my als een scherpe dooren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1515.s.4	Ik heb nog geld Juffrouw , indien het maar een reis Op prys gestelt word : lam , ey lieve doet een eis .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1515.s.5	Eist , vraagt , ik heb nog geld , eischt halve Republyken , Ik ben een Dame díe geen mensch behoeft te wyken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1518.s.1	'k Heb waterpotjes die ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1521.s.1	't Gedult dat word gestoort .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1527.s.2	droef geheb .	Emotion_Sadness
+weye002holl01_01.TEI.2.text.body.div.div.sp.1530.s.1	Ik word hier schelms vermoort .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1533.s.1	Die waterpotjes zyn	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1537.s.1	Juffrou ik bid genade .	Emotion_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.1540.s.1	Fluweel ,	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1543.s.2	hebd niet meer , u hebben is ons schade .	Emotion_Greed
+weye002holl01_01.TEI.2.text.body.div.div.sp.1549.s.1	Ik kan niet meer .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1552.s.1	Ik heb .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1555.s.1	Helaes !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1555.s.2	ik sterf .	HeavyHeartedness_BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1556.s.1	IAN .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1559.s.1	M. KEISERS-THEE .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1561.s.1	Geen leeven meer , ten zy ik iets verwerf .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1572.s.1	Zo ooit een bee verhoord wierd by een Koning , Verzoek ik hebt gedaan .. eischt huizen , land en woning ; Eist 't geen ik niet en heb , of nimmermeer bezat , Ik zal het geeven voor die dierbre netheids schat Eischt al myn huis-çieraan , juweelen , wissel-brieven , Karos en paarden .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1578.s.1	Eischt Juffrou met uw believen Zeemonsters , Armodils , een Walvis vyf a zes , Pisdiefjes , Kaimans ... een gebalsemde Princes , Rynosters ....	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1585.s.1	Hoord my beed , al ben ik van de lesten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1585.s.2	Ik geef de zuiverheid myns maagdoms graag ten besten Zo die tapissery van blinkend bergkristal Daar veil voor is .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1591.s.3	neen Juffer 'k ben niet mal . 'K zal geen spiauter voor ducate-goud ontfangen ; Men word te dikwils in die koopmanschap gevangen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1591.s.4	Mevrouw met uw verlof .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1598.s.2	Met authoriteit , Princes , Godinne van de fynste nettigheid .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1598.s.3	Gebied , eist alles , vraagt , ik ben tot uw kommanden , Myn leeven of myn dood staan in uw lieve handen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1598.s.4	Dog haastig , schielyk ; want ..	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1602.s.1	Heeft ook Mevrouw een man ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1602.s.2	Want koopmanschap ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1607.s.1	Daar 's niets dat ons beletten kan .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1607.s.2	Myn man is tot uw dienst : ik zal me doen onttrouwen , Indien ik 't tiendepart mag van uw schat behouwen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1615.s.1	Dat is 't niet , maar een man is meester naar ik gis , En vrouwe koop is nul , voor 't minste ongewis ; Schoon dat ik met Mevrouw mogt komen t'accordeeren , Myn Heer , als meester , mogt daar tegen protesteeren , En dan was 't falikant .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1639.s.1	Myn man , ja wel 'k word dul , Die protesteeren , die 't accoort verklaaren nul !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1639.s.2	Neen , neen , d ' authoriteit der mannen is hier veilig , Als zynde onbekent : een vrouw haar woord is heilig En bondig hier te Land , De man .. de man zwygt stil , Is onderdanig en gehoorzaam aan de wil Van zyne huisvrouw , kind .. myn man .. zie par exempel , Zo ras zyn voeten maar genaaken onzen drempel , Doet flux zyn schoenen uit , en trekt zyn muile naan Van leer of vilt , die digt ontrent den ingang staan ; Legt stok en degen af , als of hy een gevangen Bezogt , dan moet de meit zyn oude nagt-rok langen , En fulpe nagt-muts , dus gebakert , stil en tam Sluipt 't Heerschap na 't Cantoor , heel zedig als een lam , En zit gedoken in papier en oude boeken , Gelyk een huisrat ; komt hem iemand eens bezoeken , Die gaat nooit verder als de grenspaal van 't kantoor : De rest van 't huis is ons , van agteren tot voor Somtyds gebeurt het , dog 't is raar en by gedogen , Dat vrienden , dees of geen , een glaasjen drinken mogen Op 't blaauwe plaatje , of wel ten hoogste in 't klein Salet , Maar dat is by gena , en 't beurt maar altemet .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1648.s.1	Men zegt dat Engeland is 't Paradys der vrouwen , Dog zo dat deurgaat , moet men 't wis met Holland houwen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1648.s.2	Wel aan , 'k weet raad Mevrouw , dat die tapissery , Gestoelte en Kabinet , ja alles datter by Behoort , in eigendom met ap - en dependentie U kost en schadeloos geworde .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1652.s.1	Wat sententie !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1652.s.3	Juffer ga niet voort , maar laat my ..	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1653.s.1	SUSJE FENIX	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1656.s.1	Laat my d'eer Om eerst te spreeken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1660.s.1	Zoet , ey !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1660.s.2	doetje dog geen zeer , Ik ben hier Heer en Voogd , en zal het vonnis stryken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1664.s.2	Dat is tyranny , die nooit in Republyken Geleeden is Mevrouw .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1665.s.1	M. KEISERS THEE	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1669.s.1	Ja 'k lagch met tyranny : Het geen my niet behaagt , dat stel ik aan een zy .	Joy_Emotion_BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.div.sp.1669.s.2	Laat dog d'Apteeker daar , en Zusje Fenix teemen	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1673.s.1	Ah ! 't geen onmoog'lyk is , dat zal ik onderneemen , Ik bid en smeek , myn pols slaat onbeweeglyk stil !	EmotionalAction_BodyPart_BodilyProcess_Desire_Despair
+weye002holl01_01.TEI.2.text.body.div.div.sp.1677.s.1	Ik sterf !	BodilyProcess_Desire_Despair
+weye002holl01_01.TEI.2.text.body.div.div.sp.1677.s.2	het is gedaan ; ik voel zelfs dat de spil Waar op het leevens rat snel omdraait , is aan 't zakken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1681.s.1	Ik neem myn afscheid , want de dood zit m ' op de hakken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1685.s.1	De vlugge deeltjes in dees aarden alembek Zyn al geconstipeert .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1688.s.1	Myn Geest is zelver ziek .	BodilyProcess
+weye002holl01_01.TEI.2.text.body.div.div.sp.1693.s.2	wilt die doodgalm voor uw Apotheek bewaaren Heer Spadulano .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1693.s.3	Zusje Fenix stelt de snaaren Wat laager , of aanstonts ruimt beide myn Salet .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1696.s.1	Mevrouw 'k gehoorzaam uw beveelen als een wet .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1699.s.1	Ik was de eerste niet die bersten door het zwygen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1710.s.1	Ha , ha !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1710.s.2	men zal in 't end nog audiëntie krygen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1710.s.3	Mevrouw ik heb een broer , schoon , jeugdig , fris en ryk , Die ruim zoo proper is als ik of myns gelyk , Vol vuur en dertel bloed , in 't bloemtje van zyn leeven , Die zeer begeerig is , om zig per post te geeven In d'Huiwlyks - fuik van Kats : UE .	Emotion_Desire
+weye002holl01_01.TEI.2.text.body.div.div.sp.1710.s.4	nu heeft een Nigt , Klinkt die te zamen door een band , zo hegt en digt , Dat niet als dood of kruid die schaaden kan of krenken , Op deeze voorstel kan Mevrouw haar eens bedenken .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1717.s.1	Ik my bedenken ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1717.s.2	geen minuit ofte oogenblik !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1717.s.3	De koopmanschap gaat deur .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1717.s.4	Wat ben ik in myn schik !	Joy_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.1717.s.5	Ja , kan Klarind hem niet na waarde contenteeren , Zal myn persoon 't gebrek ten vollen repareeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1722.s.1	Mevrouw ik heb uw woord , Klarinde komt my toe : Spyt alle Novateurs , Descart of Bontekoe , Spyt Circulatien , ofte al ..	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1730.s.1	Heer Apotheker , Wat minder hevigheid : gy hebt myn woord , 't is zeker , Ik sta dat toe , maar legt dat raar en ongemeen Tapyt , gestoelte , grot , en d'andre kostlykheen In d'eene weegschaal , en in d'ander uw pretentie : 't Staat vast dat dan uw eisch vervalt in decadentie .	Emotion_Other
+weye002holl01_01.TEI.2.text.body.div.div.sp.1738.s.1	Die zwarigheid is klein , stelt dat aan d'eene zy , Neemt Zusje Fenix , dat 's een lekk're batery , Die min dan d ' eersten , uw met tegenweer zal quellen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1738.s.2	Gelieft Mevrouw haar hand tot teiken dan te stellen ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1738.s.3	Ik heb hier een Contract , waar aan dat niets mankeert Als dat de naamen zyn in blanco .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1745.s.1	Dat en deerd De zaak in 't minste niet .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1745.s.2	Loopt Netje roept Klarinde .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1745.s.3	Maar uw Monfreer Juffrouw , waar is die nu te vinden , Want jonge juffertjes staan vast op 't point d'honneur .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1750.s.1	Die wagt uw ordres op Mevrouw , ontrent de deur .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1750.s.2	Hy is nog blood en jong , ik zal hem binnen nooden .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1750.s.3	Madame met verlof .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1754.s.1	Het hoeft niet , al myn boden Zyn tot uw dienst juffrouw .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1758.s.1	Voor een minuit of zes Is 't noodig dat ik ga ..	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1758.s.2	Mevrouw uw dienares .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.1760.s.1	Jan uit .	None
+weye002holl01_01.TEI.2.text.body.div.div.stage.1763.s.1	M. KEIZERS-THEE , SPADULAAN , ZUSJE FENIX , ANTONET , CLARINDE .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1783.s.1	Schoon ik bewust ben van Alfonsoos min , Klarinde , Die uw een jaar geleen , wat vierigjes beminde ; Als meede uw weerzin , die gy toonde om Spadulaan Uw trouw te schenken , komt een derde hier ter baan .	Emotion_EmotionalAction_Love_Disgust
+weye002holl01_01.TEI.2.text.body.div.div.sp.1783.s.2	Uw eerste minnaar was vry losjes , en den tweeden Te stemmig , daar 's een Heer , die zal haar plaats bekleeden ; Men heeft dog vaak gezien in 't Huwelyks besluit Een derde Campioen gaan stryken met de Bruid .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1783.s.3	Ook is het tans wat raars , in al dees Krygs-rumoeren , Een jongman uit het veld , op Hymens Koets te voeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1783.s.4	Oh !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1783.s.5	Nigje datje wist het kostelyk genot , Gy trouwde hem , al was hy dul of stapelzot .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1783.s.6	Gestoelt en porcelein , tapissery en stoofjes ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1783.s.7	Weg Zusje Fenix , roosje en diergelyke sloofjes , Weg Spadulaan , Mevrouw Sucade en Klatergoud !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1783.s.8	'k Word opgenomen , Lam : word haastig dog getrouwt : Of anders ..	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1783.s.10	myn hoofd ..	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1790.s.1	Mevrouw en dat zoo vaardig ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1790.s.2	Ik ken my zoo veel eer en gunst schier als onwaardig .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1790.s.3	Dog wat ik bidden mag , verschoon myn tedre jeugd .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1790.s.4	Ik ben pas agtien jaar , en kan de Juffren vreugd Zo onbedagt voor 't jok van Hymen niet verwiss'len .	Joy_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.1799.s.1	Is 't uw devoir dan Nigt myn ordres te bediss'len ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1799.s.2	En wat uw jeugd belangt , een Juffer is als 't fruit , Het overryp is laf , zoo mede een oude Bruid .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1799.s.3	Een malsche zomerkers , op haren tak vergeeten , Splyt door de zon , of word een musch of spreeuw zyn eeten .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1799.s.4	Een agtien-jarig kind is 't sausje van een haas , Azyn en suiker , dog het zoet speelt altoos baas .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1803.s.1	Mevrouw ik stem uw wil , by form van excuseeren ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1807.s.1	Zal d'arme Spadulaan uw hand en trouw ontbeeren ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1807.s.3	tyd , ô !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1807.s.4	zeden ...	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1815.s.1	Ha ! 'k moet lagchen Spadulaan , Gy tragt naar iets , waar van 't gebruik uw zon verraan , 't Geen tegenstrydig is kan nimmer akkordeeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1815.s.2	Komt overlegt de zaak eer d'uitslag u doet leeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1815.s.3	Juffrouw Klarinde d'eer die komt u toe als Bruid .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1815.s.4	Welk is de hinderpaal die uw genoegen stuit ?	Joy_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.sp.1818.s.1	Ik kan met drank nog kruid uw zieken niet gerieven .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1821.s.1	Ik ben geen Baal-Heer , die Coquettes kan believen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1824.s.1	Ik haat een vyzeltoon .	Emotion_Disgust
+weye002holl01_01.TEI.2.text.body.div.div.sp.1827.s.1	En ik vyoolen-klank .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1830.s.1	Uw inborst is te doots	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1833.s.1	Uw spraak-lit is te lank .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1834.s.1	KLAR .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1836.s.1	Ik lag met porcelein en Chinaas schilderijen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1839.s.1	Ik kan 't Bazette-spel , Piket nog Ombre lijen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.speaker.1841.s.1	KLARINDE	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1843.s.1	Gy zoud een gier zyn aan myn vrolykheen en lust .	Joy_Emotion_Love
+weye002holl01_01.TEI.2.text.body.div.div.sp.1846.s.1	En gy een spook , dat 's nagts verhind'ren zou myn rust .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1849.s.1	Daar 's iets nogtans , waar in wy konnen akkordeeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1852.s.1	Te weten ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1855.s.1	Vriend'lyk van malkaar te separeeren .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1858.s.1	Zet vriend'lykheid apart , als strydig aan myn Geest .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1861.s.1	Fiat , want myne is nooit voor drank of gif geweest .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1864.s.1	Noord .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1867.s.1	Zuid	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1870.s.1	Oost .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1873.s.1	West .. zoo ver als beide polen scheelen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1876.s.1	Zal onze trouw en hand voor eeuwig zig verdeelen .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1884.s.1	Voorwaar die Cermony is aardig !	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1884.s.2	menig paar , Schoon lang vereend , tragt na zulk scheiden van malkaar .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1884.s.3	Zie zoo Heer Spadulaan , men straft uw , als vermetel .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1884.s.4	Vaar wel dan , grondvest daar de dood zyn beend'ren zetel Op boud .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1884.s.5	Wat dunkje nu van zulk een Juffrenzwier ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1891.s.1	Het geen den Satyr van Guarini dagt van 't vier .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1891.s.2	Wel aan Mevrouw ik zal u keus niet tegenvroeten Zoo Zusje Fenix dit verlies gelieft te boeten Met haar perzoon .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1891.s.3	Ik wagt myn vonnis zoete kind , Als een patient die zig omringt met Dokters vind .	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1897.s.1	Of schoon 't een maagd niet voegt zo losjes iets t'aanvaarden , Zal ik ( verzekert van uw zuivre min en waarde Ook d ' overeenkomst der humeuren ) van den tyd En liefdens-pligt , de rest afwagten	Emotion_Love
+weye002holl01_01.TEI.2.text.body.div.div.sp.1904.s.1	Loop met vlyt Naar buiten Antonet : waar blyft die suikre broeder ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1904.s.2	Het voedzel van de vlam der netheid , en behoeder Van onze levens-lamp ?	None
+weye002holl01_01.TEI.2.text.body.div.div.sp.1904.s.3	loop vliegens Antonet En roept hem .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.stage.1906.s.1	M. KEIZERS-THEE , KLARINDE , SPADUL .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.stage.1906.s.3	JAN , en ALFONSO , stemmig gekleed .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1914.s.1	't Is niet eens van noden .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1914.s.3	hoe net En proper is dien Heer , hoe stemmig hoed en kleeren ?	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1914.s.4	Dat is wat anders als Alfonsoos haneveeren , Manchetten , pruiken en kokardes schoon van schyn , Welk veeltyds die Messieurs al haar verdiensten zyn .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.stage.1916.s.1	Alfonso buigt zig tegen M. Keizersthee en 't gezelschap zonder iets te zeggen .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1922.s.1	Mevrouw laat ons de zaak doen zonder veel te spreeken : Hy 's bloode , en zou zig in een scheurtje schier versteeken ; Dog dat zal door de tyd wel slyten .	Emotion_Other
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1922.s.2	Die een ram In stuursheid is , word vaak na 't Huwlyk wel een lam .	BodilyProcess_Other_Anger
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1928.s.1	Oh ja !	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1928.s.2	waar is 't contract ? 'k voel myn verlangen steigren Naar al uw pronk-çieraan , ik zal 't u geensints weigren .	Emotion_BodilyProcess_Desire
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1928.s.4	Porcelein gestoelt , en kristalyn tapyt , Gy zyt myn huisgoon , en vermaaken van myn tyd .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.stage.1931.s.1	Zy teikent het Contract .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.stage.1931.s.2	Alfonso en Klarinde desgelyks .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.speaker.1933.s.1	ALFONSO , zig ontdekkende .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1947.s.1	't Is tyd het masker van uw dwang eens af te rukken .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1947.s.2	Nu zal ik met vermaak dit zoet juweel gaan plukken Dit sneewit Offer-lam , d'Aptheker toegeschikt , Is door uw naam ontboeid , en door u pen ontsrikt .	Joy_Emotion
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1947.s.3	Haar ziel en lighaam , lang aan my door kuische eeden Verknogt , was al te waard aan suffers te besteeden .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1947.s.4	Hy warm zig by de vlam van Susje Fenix gloed , Die zig met huis-çieraan en voddery voldoet .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1947.s.6	Myn Klarinde , tedre ziel !	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1947.s.7	ik zal u waarde Ootmoedig eeren , die myn min tans komt t ' aanvaarde Zo genereus en vry : en 't zy in vreugd of pyn Door trouw u man , door eerbied steeds u Minnaar zyn .	Emotion_Love
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1967.s.1	Is 't moog'lyk !	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1967.s.3	ik sterf , ik berst , ik mis myn zinnen !	BodilyProcess_Disgust
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1967.s.4	In Englen schyn zo brengt men hier een Satan binnen Een ligtmis , dobbelaar , straatschender , die de hel Spoog uit zyn binnenst op het aardryk , met een vel Gelyk een mensch bekleed : die in myn herrefstdagen Haar maagdebloeisel roofd , en 't myn my komt t ' ontdragen .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1967.s.6	Kristalyn tapyt , en Porcelein gestoelt , Prins Robberts stoofjes , daar myn kiesheid op gedoelt Heeft , met Marseilles point in stee van gladde matten , En 't puikje van al d ' Oost - en Westers netheids schatten !	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1967.s.7	Uw derf ik voor altoos , bekooring , die de ziel Van onze Sex verrukt .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1967.s.9	myn levens-wiel En kookend bloed dat stremt : ô !	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1967.s.10	Kamerdoeksche tafels , Verrader , moordenaar , die gloeijend dient met gafels Van een gerukt , ik wens u 't knaagen van een gier : Of worg u in het lint van dat geborgt rapier , Of springt in 't water om een koorde te bespaaren .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1967.s.11	Men moord ... ik kan niet meer .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1979.s.1	Geluk op 't heenen varen .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1979.s.2	Die storm was kort , maar goed en zonder eenen traan .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1979.s.3	Dog 't manlyk scheepje zwigt nooit voor een huilorcaan .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1979.s.4	't Gevaar is weg : zy slagt het dreigen van de blooden Die 't alles zweeren met haar slappe kling te dooden , En ondertusschen komt het uit op lor of leur : Den berg zal baaren en een muis kruipt uit de scheur .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.speaker.1981.s.1	JAN tegen Antonet .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1998.s.1	Maar à propo de scheur .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1998.s.2	Laat ons 't nu ook eens klikken , Soet kind , wat zegjer toe ?	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1998.s.3	Ja 'k zie het aan u blikken Hoe weigrig is een meit ontrent het trouw-geval , Gelyk een Practisyn die geld ontfangen zal .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1998.s.4	Hier ziet m'hoe hert het valt een vrouwe-smaak te tergen Ontrent beloften die men geensints kan voldoen , Sa let Messieurtjes die met klap de Juffers voen , Belooven Reuzen en op 't hippen zyn 't nauw dwergen ; Maar dat 's wat anders .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.1998.s.5	Nu wat d ' overdaad en pragt Belangt , waar mee men tragt zyn meerder t'evenaaren , En die hier scherssend word op 't Schouw-toneel belagt , Op hoop , etcetera ... dat 's hoop op wind en baren ; Want als de kiesheid heeft een vrouwe ziel besmet , Is pronk het Outer , en de zinnelykheid haar wet .	None
+weye002holl01_01.TEI.2.text.body.div.div.div.sp.stage.1987.s.1	Tegen de Aanschouwers	None
+weye002holl01_01.TEI.2.text.body.div.div.div.stage.2000.s.1	EYNDE .	None

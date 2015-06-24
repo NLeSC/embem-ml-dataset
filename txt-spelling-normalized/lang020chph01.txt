@@ -1,0 +1,1356 @@
+lang020chph01_01.TEI.2.text.body.div.head.357.s.1	doen spiegelen de vaderlands koopman .	None
+lang020chph01_01.TEI.2.text.body.div.head.360.s.1	eerst bedrijf .	None
+lang020chph01_01.TEI.2.text.body.div.stage.362.s.1	hebben toneel verbeelden een Kamer , zijn in Ernst in een hoek , aan een Tafeltje daar een schotel spys op staan , zitten te slapen .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.363.s.1	eerst toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.365.s.1	ernst , michel , zoetekauw .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.367.s.1	michel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.372.s.1	Oldvooder , door stoot een schotelken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.372.s.2	willen stoe nigt vreten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.372.s.3	doen spies zijn kold worden : ik sol ' er een luttel vuur onderzetten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.374.s.1	zoetekauw .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.380.s.1	doen Kok zijn in het voorhuis , mede doen venezoenen , doen pastei en hebben koud gebraad , die t ' avond op tafel moeten komen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.380.s.2	Mogen zij hier inkomen , Kamaraad ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.380.s.3	ik volk zijn ' er ook mede doen piramide .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.385.s.1	Wat behoeven stoe die te vroogen , Banketbakkerken ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.385.s.2	loot zien die bi doen deern in doen Keuken droogen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.390.s.1	mennen , komen mare binden , in orde , achter malkaer .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.392.s.1	doen knecht vinden de Banketbakker en de Kok dragen , een voor een , achter elkander , piramide vinden banket , confituur , tempel vinden suikerwerk , venezoenen , gebraad en pastei in schotel ; zijn met zijde vervolgens weder binden gaan in een ander zyscherm .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.394.s.1	Tweede toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.398.s.1	lichthart , losbol , joris , ernst , slaapende , michel , zoetekauw .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.402.s.1	zoetekauw , tegen lichthart .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.406.s.1	Heer Tractant !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.406.s.2	die zijn goed !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.406.s.3	zien ik uw daar ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.406.s.4	Ik wensen uw velen geluk mede doen vermeerdering vinden u jaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.408.s.1	lichthart .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.410.s.1	Ik danken uw , vriend zoetekauw .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.414.s.1	Ik wensen uw langen wel te varen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.421.s.1	Ei , meest zoetekauw , blyf hier een weinig staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.421.s.2	zeggen flus aan u volk die zijde doen achterdeur moet uitgaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.428.s.1	mijnheer Lichthart , ik hebben zode velen werken mede doen suikertafel klaar te maken , die ik niet weten hoe ik ' er mede fatsoen door zullen geraken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.428.s.2	Ik practizeer om al uittevoeren mede doen uiterst kunst , En hopen zode velen genoegen te geven die ik zullen blijven in u gul .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.433.s.1	mare , meest zoetekauw , ik zijn nieuwsgierig hoe gei doen tafel zullen stofferen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.440.s.1	zode alles ik braden hebben in de Haag bij Ambassadeurs en groot heer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.440.s.2	Ik hebben duizend figuur , die ik bewaren in fijn engels glas .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.444.s.1	mare zeggen ; wat zinnebeeld brengen jouw op deze Verjaarmaal te passen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.465.s.1	doen torn vinden Babel zullen vinden wit suiker staan , in hebben mijden vinden een ' vijver , Volgens doen prenten in Flavius Josephus , de joods Historie-schryver .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.465.s.2	u naam en jaardag zullen boven de ingang schrijven staan in gouden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.465.s.3	doen vijver zullen rondom mede grotwerk zijn , sierlijk opbouwen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.465.s.4	Venus zullen ' er mede zij schelp in laveren ; en daar zullen walvis in zwemmen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.465.s.5	jouw zullen ' er Nepthunus mede zijn ' drietand in zieden , die doen zee zullen temmen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.465.s.6	Daar zullen twee Oostindische schip in zeil , na Batavia gedestineerd .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.465.s.7	Bemand mede suikeren lichtmis , die zij goed aanzien verteren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.465.s.8	doen nemen vinden doen schip zijn doen Faeton , en doen Icarus , die op hebben Stadhuis zijn uithouwen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.469.s.1	Ja , zijn beeltenis kunnen ik voor doen desolaat Boedelkamer aanschouwen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.475.s.1	doen Schreijershoeks torn zullen voortaan op hebben grotwerk staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.475.s.2	En daar zullen ik doen lichter aanzien , daar hebben volk met na Tessel zullen gaan	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.479.s.1	zijn die u eigen inventie ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.483.s.1	Neen , deze hebben u Vader ik zode gelieven te beduiden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.492.s.1	alles jouw die op doen tafel zetten , zullen ik al jouw suikeren pop en ornament in stuk bruijen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.492.s.2	wan hebben zijn een paskwil , en hebben raken ik fatsoen .	Honor_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.496.s.1	hebben zijn ik zode geordonneerd : ik hebben ' er verder niet met te doel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.500.s.1	maken Papa een wakker , Michel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.505.s.1	Oldvooder !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.505.s.3	doen moeten ontwooken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.505.s.4	Wel hij sloopt zode vasten die ik hij nig wakker kunnen mooken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.521.s.1	wie zullen hij daar naar wel spreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.521.s.2	hebben kunnen wel zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.521.s.3	Ik weten die hij zulk luis hebben , die oud tagryn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.521.s.4	mare , meest zoetekauw , zij jouw die niet veranderen kunne ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.521.s.5	jouw hebben zode velen figuur .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.526.s.1	alles ik ' er de tempel vinden Mercurius voor in doen plaatsen zullen zet , hebben ik werken tot negen uur .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.530.s.1	Gaa , doen die dan .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.532.s.1	Derde toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.535.s.1	joris , lichthart , losbol , michel , ernst , Slaapende .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.537.s.1	losbol .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.542.s.1	die hebben jouw vaar mede voordagt braden Om wij te verwijten die wie mede ' er tij na Oostindie zullen moet gaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.542.s.2	En die weten Joris wel goed , wan die hebben altijd ons boek houwen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.542.s.3	Niet zijn , Joris ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.544.s.1	joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.547.s.1	Ja , ik heer , mare ik zeggen jouw in vertrouwen die gei in doen laatst jaar zode zeer zijn achteruit geteerd ....	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.551.s.1	Daar wil wie niet vinden horen , Joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.555.s.1	Ik zeggen , die hebben ik vinden hart deren .	Worry_BodyPart_BodilyProcess_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.562.s.1	vinden daag zijn hebben geren dagge , Joris , om te zucht of te zorg .	Worry_Emotion_BodilyProcess
+lang020chph01_01.TEI.2.text.body.div.div.sp.562.s.2	Ik zijn jarig .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.562.s.3	hebben jouw iets te zeggen , spreken dan morgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.562.s.4	jouw zullen met t ' avond souperen , en mede doen vriend vrolijk zijn .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.564.s.1	joris	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.566.s.1	En doen oud mennen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.578.s.1	Die zullen wie wel een staartje wijn Of wat rijstebrij op die tafeltje geven , daar Papa aan zitten te slapen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.578.s.2	Daar worden hij wakker : hij wrijven zijn oog en beginnen te gapen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.578.s.3	hebben jouw een uiltje knappen , Vader ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.578.s.4	zijn gij nu wat goed te vreen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.580.s.1	ernst .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.587.s.1	Daar zij ik geren rijden toen aanzien .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.587.s.2	moed ik niet , en brui mare heen na u uitzuipers , die jouw de honing om de mond weten te smeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.591.s.1	Wel , Knorrepot !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.591.s.2	hier zijn niet ander dan fatsoenlyke dame en heer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.600.s.1	die kunnen zijn : mare hebben zijn geren lied vinden zulk een ' staan , die jouw zij behoeven te trakteren mede zode velen overdaad .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.600.s.2	velen minderen die jouw ik en ik ' Broeder zode versmaadelyk uiten hebben gezelschap behoeven te schuiven , En laten wij allee aan die tafeltje kluif .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.606.s.1	gei zijn immers oud patriot : gei behoren niet meer bij doen vreugde .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.623.s.1	En gei zijn jong lichtmis , die geren schaamte hebben nog deugd .	Honor_Emotion_Shame
+lang020chph01_01.TEI.2.text.body.div.div.sp.623.s.2	alles ik weten hebben die gei zode zullen trakteren , en zode overdadig leven , Ik zouje zulk een groots kapitaal mede te huwelijk aanzien geven , Daar ik ik zelf met bederven hebben , en geraken zijn buit staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.623.s.3	Wat meenje , Neef Losbol , die hebben ik niet te hart gaan die gei u ' oude Vader , die ik broeder zijn , zode schandelijk durven versmaden ?	Emotion_EmotionalAction_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.623.s.4	Hoe !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.623.s.5	denkje niet die ik weten die ik zode en gei uw te samen hebben beraden Om wij uiten hebben huis te zet ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.623.s.6	mare die zullen zode niet gaan : wie aanzien elk nog zes duizend gulden onder uw op rente staan , En gei durven doen stoutheid aanzien om wij in het Oudenmannenhuis te bezorgen !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.629.s.1	Wel ja , paai , die weten ik wel : die hebben ik hij raden deze morgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.637.s.1	die zijn genereus , jong : aanzien wie uw niet beide opvoeden ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.637.s.2	En hebben jouw vergeten die doen weten zeggen die ik zijn ouder eren moeten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.641.s.1	die knor zijn al langen genoeg .	EmotionalAction_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.641.s.2	Ik willen ' er ik kop niet meer met breken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.649.s.1	Ik beloofje , vogelen !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.649.s.2	ik zullen uw wel een stokje in het wiel weten te steker .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.654.s.1	Wat willen jouw dan aanzien ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.661.s.1	die gei wij behandelen mede fatsoen , gelijk al eerlijk kind in zulk een geval zullen doel .	Honor_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.665.s.1	En wat nog meer ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.672.s.1	die ik jouw waarschuwen , Verwaarloozers vinden u ding !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.672.s.2	die gei wij kapitaal zullen opbrengen : wan wie vrees die gei in kort dag zullen spring .	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.678.s.1	Om zulk reden te vermijden zijn gei aan doen tafel niet noden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.678.s.2	gei zijn ' er niet te goed toen , al leiden gei al ons zaak voor hebben geheel gezelschap bloot .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.682.s.1	die zijn mare doekjes voor het bloed : wie zijn wijze genoeg om wij daar voor te wacht .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.690.s.1	die zij te bezie staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.690.s.2	mare daar schikken ik iets in doen gedachte .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.690.s.3	hebben gei de Banketbakker , die tegenwoordig doen desserttafel stofferen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.690.s.4	Zulk een fraai concept opgeven , en aan hij geordonneerd Om de Babilonschen torn en twee Oostindische schip op doen tafel te zet ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.695.s.1	Ja , die hebben ik braden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.701.s.1	Wel !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.701.s.2	Paai !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.701.s.3	die zullen wie hij wel beletten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.701.s.4	gei kunde al fraai zinnebeeld bedenken : gei zijn een manna vol vinden geest .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.701.s.5	hebben wie hij niet gesprooken , hebben hebben waarachtig avond op doen tafel wezen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.705.s.1	ik dunken die hebben al vrijen toepasselijk zijn op u lossen en overdadig leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.711.s.1	Ik geloven die j'er op studeren om wij gedurig knorhaan en droog bokkens te geven .	EmotionalAction_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.718.s.1	Daar zijn Oom Kwylbaart ook .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.718.s.2	laten wij binden na doen toebereidsels een kijken gaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.718.s.3	Die Paai zij Papa helpen , en dan hebben ik nog in geren uur braden .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.720.s.1	vieren toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.722.s.1	hendrik , ernst , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.724.s.1	hendrik .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.728.s.1	Broeder , hoe gaan hebben al ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.728.s.2	zijn hebben wel mede u genoegen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.728.s.3	Wat doen gei hier allee te zetten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.728.s.4	wie kunne wij immers bij doen vriend vervoegen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.732.s.1	Neen , Broederlief , wie zijn niet noden : wie moet hier allee allee zetten kluif in een hoek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.740.s.1	hebben kunnen ik weinig verschil : wan hebben zijn een gezelschap die ik niet zoeken , schonen hebben mogelijk braaf lied zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.740.s.2	Ik kennen zij geren vinden al .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.751.s.1	hebben zijde zode het willen : hebben gezelschap zij ik tegenwoordig niet bevallen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.751.s.2	Ik hebben vinden kwaadheid niet wil eten .	Emotion_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.751.s.3	hebben gei een doos in u ' zak ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.751.s.4	Ik hebben tegenwoordig een ' natuurlijk trekken tot een pijp tabak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.751.s.5	Ei , Joris , willen jouw een een paren pijpen krijgen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.751.s.6	wie zullen een roken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.751.s.7	Broeder , hebje lusten tot die kliekje ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.756.s.1	Neen ik willen ook wel een smoken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.756.s.2	hebben jouw ook iets nieuw ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.761.s.1	Welja .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.761.s.2	ons jong zijn wij moede .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.761.s.3	zijde wil wij doen kosten niet meer geven : wie moet na het Oudenmannenhuis toen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.766.s.1	Wel , die denken ik immers niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.780.s.1	Ja manna , wie zijn oud , en wie worp lastig .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.780.s.2	Ik voor ik , ik willen hebben wel weten : ik zijn vrijen wat kwastig .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.780.s.3	hebben capitaaltje , die wie nog hebben , aanzien wie onder ons kind staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.780.s.4	mare hebben spijt ik , broeder : wie aanzien zeer onvoorzichtig braden .	Emotion_Remorse
+lang020chph01_01.TEI.2.text.body.div.div.sp.780.s.5	Nu stoten zijde wij mede de voeden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.780.s.6	hebben wie hebben brood onder de arm houwen , Dan zullen zij wij geren smaad kunne aandoen , die ik nooit vinden zij hebben kunne vertrouwen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.793.s.1	Ach , Broeder !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.793.s.2	hebben wijden in tijd ergens ons kosten kopen , Dan zullen wie niet zieden die wij goed dus worden doorgebrogt .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.793.s.3	mare die spijt ik het meest die zij zeggen die wie vinden zij moet leven .	Emotion_Remorse
+lang020chph01_01.TEI.2.text.body.div.div.sp.793.s.4	aanzien wie zij niet elk vijftig duizend gulden te huwelijk geven , kunne wie gebeteren die wij doen hemel bezoeken hebben mede tegenspoed ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.793.s.5	zijn hebben wel om te vergeten die ik in zijn ' ouderdom zulk een ondankbaarheid ontmoeten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.793.s.6	hebben zijn ons kind : eis wie wij gelden op , ik zij zij ruineeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.799.s.1	wie zullen dan moet zieden die zijde hebben in dertelheid verteren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.799.s.2	wie moet na het Oudenmannenhuis , broeder , of wie wil of niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.803.s.1	Ja wel , zode die gebeuren moeten , zullen ik sterven vinden verdrieten .	Emotion_BodilyProcess_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.807.s.1	die brok zullen ik verzwelgen moet , al zijn wie nog zode onverduldig .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.812.s.1	hebben doen negotie wij tegen lopen , wie zijn echter niemand schuldig .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.818.s.1	zijn wie niet altijd deftig koopman wezen , en daarvoor op doen Beurs bekennen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.818.s.2	zijn ' er wel iemand een duit bij wij te korten komen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.818.s.3	ik zullen treuren tot ik einde ' .	Emotion_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.824.s.1	Mynheeren , ik hebben een ' engels brief ontvangen , die aan uw zijn schrijven ; En ik hebben geren gelegenheid hebben om hij allee in u hand te geven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.829.s.1	hij zullen vinden de Heer Jork zijn , ons vriend en Correspondent , Die ons lotbriefjes hebben .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.833.s.1	Ja , doen hand vinden het opschrift zijn ik bekennen .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.836.s.1	ernst openen de brief en lezen .	None
+lang020chph01_01.TEI.2.text.body.div.div.q.862.s.1	ik heer , Ik hebben bij deze doen eer uw te feliciteren mede twee hoog prijzen uiten doen loterij vinden Londen .	None
+lang020chph01_01.TEI.2.text.body.div.div.q.862.s.2	namelijk , doen een vinden teen duizend , en doen ander vinden vijf duizend pond : En dewijl hebben kapitaal rijden ontvangen zijn , en onder ik berusten , Zende ik , bij provisie , voor vijftig duizend gulden aan remizen : dewijl ik zijn bewustDat u Ed. doen penning zullen kunne beleggen .	None
+lang020chph01_01.TEI.2.text.body.div.div.q.862.s.3	Geliefd verder te ordonneren , Op week wijze ik hebben overig kapitaal zullen transporteren .	None
+lang020chph01_01.TEI.2.text.body.div.div.q.862.s.4	Ik blijven mede achten u Ed. Dienaar en Vriend , jork .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.866.s.1	Ik beven vinden ontsteltenis !	Emotion_BodilyProcess_Moved
+lang020chph01_01.TEI.2.text.body.div.div.sp.871.s.1	Ik ook , Broeder !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.871.s.2	deze zijn een geluk die boven al verwachting zijn , Ach , Jorisje !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.871.s.3	geven wij een glas wijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.871.s.4	het zijn of ik been onder ik bezwijken .	Happiness_BodilyProcess_Moved
+lang020chph01_01.TEI.2.text.body.div.div.sp.875.s.2	ik hand beven : laten wij doen remizen een bekyken .	BodilyProcess_Moved
+lang020chph01_01.TEI.2.text.body.div.div.sp.879.s.1	zijde zijn trekken op bekennen koopman in deze Stad .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.889.s.1	Joris , wie aanzien altoos velen vertrouwen op uw oprechtheid hebben .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.889.s.2	gei hebben wij altijd getrouw dienen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.889.s.3	gei moeten wij geluk nog niet ruchtbaar maken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.889.s.4	vooral moet het ons kind niet weten : wie zullen uw gebruik in al ons zaak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.894.s.1	zien daar : gei moeten deze wissel laten accepteren : steken zij in u brievetas .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.902.s.1	Mynheeren , velen geluk !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.902.s.2	ik bedanken uw .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.902.s.3	Daar zijn elk een glas .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.902.s.4	Ik hebben hebben wel weten die ' er loot door uw inleiden waar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.907.s.1	Ja , die wassen nog uiten wij capitaaltje , die wie stillen aanzien weten te besparen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.911.s.1	Nu , Mynheeren , ik gaa daar heen .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.913.s.1	vijfde toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.918.s.1	ernst en hendrik , zitten aan zij tafeltje te roken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.922.s.1	Ik twijfel nog of ik waken , of dromen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.935.s.1	wie moet deze nog wat verholen houwen , en zieden doen katten uiten de bodem .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.935.s.2	wan ik hebben merken die ' er mede Lichthart een bommel staan uiten te breken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.935.s.3	alles doen wissel accepteren zijn , moet wie ons oude kassier aanspreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.935.s.4	wij kapitaal moeten voor eest in doen bank : doch wie aanzien ook wat kasgeld vinden doel ; En verders zullen wie een huis huren of kopen , na wij fatsoen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.939.s.1	laten wij bij elkander wonen en een oud zorgen vinden een Meid huren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.944.s.1	die zijn goed : wie zullen ' er Joris wel een op uiten sturen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.944.s.2	Daar komen ik kleinzoon : hij schijnen niet wel in zijn ' schikken .	HeavyHeartedness_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.head.947.s.1	Zesde toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.953.s.1	ernst en hendrik alles voorn ; sybrand .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.955.s.1	sybrand .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.959.s.1	ik lief groot Papa !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.959.s.2	ik hebben iets horen , niet zonder schrik .	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.959.s.3	Gaa jouw mede Oom in het Oudenmannenhuis wonen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.959.s.4	kunnen ik deze geloven ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.959.s.5	die zij ik aan het harden gaan .	BodyPart_BodilyProcess_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.964.s.1	Ja , Kind , doen oud lied worp verschuiven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.968.s.1	Ei , doen die niet , ik lief groot Papa !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.968.s.2	blyf nog wat in huis .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.983.s.1	ik lief Sybrand !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.983.s.2	gei hebben ik dikwijls vertroosten in ik ' tegenspoed en kruis .	EmotionalAction_Compassion
+lang020chph01_01.TEI.2.text.body.div.div.sp.983.s.3	hebben zullen uw wel gaan , kind ; gei hebben uw altijd vrome en naarstig gedragen , En ik , die u Grootvader zijn , ondersteunen in mijn oud dag .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.983.s.4	doen heer Rykerd , bij wieden gei nu zes jaar op hebben kantoor hebben staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.983.s.5	hebben altijd mede lof vinden uw spreken , en jouw staan hij zode wel aan , die ik geloven , zode jouw lusten hebben om jouw in het huwelijk te begeven , die hij , schonen gei geren duit bezitten , zijn enig Dochter mede uw wel zij wil doel leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.988.s.1	Om uw doen waarheid te zeggen , Grootvader , die staan al op een ' goed voeden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.988.s.2	doen Juffrouw en ik zijn het een .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.995.s.1	die verheugen ik : zijde zijn nederig opvoeden .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.995.s.2	Ik hebben zij , vinden een kind af , kennen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1000.s.1	horen , groot Papa ; zode ik hebben geluk hebben vinden mede zij te trouw , kunde gei mede Oom Hendrik bij wij wonen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1004.s.1	Goed : dan zullen wie wij zode langen buit het Oudenmannenhuis houden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1008.s.1	ik lief zode !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1008.s.2	zorgen niet voor wij : wie aanzien geren ' node .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1012.s.1	zode langen ik een stuiver in doen wereld hebben , zullen gei ' er doen helft vinden aanzien tot brood .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1017.s.1	hebben geren jouw daar zeggen , ( denken ' er op , ) zullen jouw duizend gulden baten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1024.s.1	mare schonen ik hebben mede doen Juffer een zijn , ik durven ik op zij ' Vaader niet verlaat .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1024.s.2	hij hebben niet velen krediet voor ik ' Papa ; wan hij hebben een ' wisselbrief tot zijn lassen Die protesteren zijn vinden nonbetaaling ; waarin Papa zeer hebben mistasten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1029.s.1	zorgen daar niet voor : ik hebben een ' vriend , die hij hebben gelden deze dagge zullen beschik .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1034.s.1	Daar spreken jouw een woerd , groot Papa !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1034.s.2	daar jouw ik harden met kunde verkwikken .	Joy_BodyPart_BodilyProcess_Relief
+lang020chph01_01.TEI.2.text.body.div.div.sp.1041.s.1	Neef Sybrand , zijn jouw lief niet met genodigd op deze feest ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1052.s.1	Grootvader , zijde zijn te middag ook mede ik op doen maaltijd wezen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1052.s.2	zijde zijn nog in huis , en zullen mede Mama , en moei Zoetje een kopje thee drinken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1052.s.3	Wat wassen zijde verbazen door all ' doen juweel die zijde zien blinken !	Emotion_Wonder
+lang020chph01_01.TEI.2.text.body.div.div.sp.1052.s.4	zijde kennen geren woerd spreken : zijde hebben nooit zulk een plegen aanschouwen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1057.s.1	zode velen te goed : die zijn een tekenen die zijde zien nederig hout .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1061.s.1	Daar komen zijde zelf .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.1063.s.1	Zevende toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1065.s.1	rykje , sybrand , hendrik , ernst .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.1067.s.1	rykje .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1069.s.1	Sybrand , laten gij ik allee ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1069.s.2	waarom zijn gij ik zode stillen ontweeken ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1073.s.1	Liefje , gei waard immers bij Mama : ik moeten Oom en Grootvader spreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1078.s.1	Wel , uw lieden , hoe varen gei al ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1078.s.2	zijn gei nog fris en gezond ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1082.s.1	Ja , zoet Juffertje .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1086.s.1	Hoe komen hebben die ik uw op doen maaltijd niet vinden ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1091.s.1	wie zijn te oud vinden jaar , en kunne wij goed in ons eenzaamheid vermaken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1091.s.2	Wat dunken ' er uw vinden ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1102.s.1	het zijn of ik in een ' dromen zijn , daar ik niet uiten kunnen ontwaaken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1102.s.2	Ik hebben ' er geren vermaken in , wan daar zijn geren juffer vinden ik soort .	Emotion_Other
+lang020chph01_01.TEI.2.text.body.div.div.sp.1102.s.3	Ik geloven die hebben meest Franssen zijn , en ik verstaan vinden die talen geren woerd .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1102.s.4	ik Papa hebben ik nooit schuilen wil liggen bij doen Franssen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1102.s.5	Ik kunnen wel zingen en spel : mare ik hebben nooit lederen dansen ...	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1102.s.6	Daar hebben jouw het gans gezelschap .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.1104.s.1	Achtste toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1110.s.1	lichthart , rijmer , zoetje , losbol en kwistgoed , volgen vinden enig heer en dame , uiten een zijvertrek komen ; hendrik , ernst , rykje , sybrand , michel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.1112.s.1	kwistgoed .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1123.s.1	dame en heer , wie verzoek doen wij doen eer En komen , zode ras alles het uw mogelijk zijn , tot ons weer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1123.s.2	wie aanzien een dubbel en een enkel logies laten bespreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1123.s.3	wie zullen sleedjes bezorgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1123.s.4	Ik bidden uw , blyf niet in gebrek .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1125.s.1	enig heer lijden doen dame na hun huis , en ander gaan aan tafeltjes zetten om te spel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.1127.s.1	zoetje .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1129.s.1	wil wie een kopje thee drinken , Nichtje , terwijl ' er spelen worden en roken ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1133.s.1	Michel , vragen een aan doen meid of hebben theewater al koken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1147.s.1	het zijn wel Jonferen ; willen stoe te hoop theewater zoepen , Dan sol ik een Moget of twee , om joe te dienst , roep .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1147.s.2	Elsken !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1147.s.4	bringt de theekettel mede woter en koppekens aan de bak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1147.s.5	Femmeken !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1147.s.7	Ja , Michel wie komen strak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.stage.1144.s.1	vinden binden worden roepen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1153.s.1	Dan moeten ij wat hoozevet onder doen toffelkens smeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1153.s.4	komen oonstonds bi doen Jonfers ond heer .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.1156.s.1	Negende toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1159.s.1	hebben vorig Gezelschap ; elsje , femmetje .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1161.s.1	doen meid gaan mede Michel doen scherm uiten en in , om theewater , confituur en ander kleinigheid aan te brengen , en hebben Gezelschap te bedienen ; het welk duren moeten tot hebben einde vinden hebben bedrijf .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.1163.s.1	rijmer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1167.s.1	Wat dunken uw , Heer Ernst ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1167.s.2	mijnheer u zode trakteren wij kordaat .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1172.s.1	die zijn geren wonder , mijnheer , wan hij zijn een manna in staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1177.s.1	alles ik hebben doel kunnen , moeten ik op zijn ' jaardag zijn vriend treffelijk onthaalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1177.s.2	hebben geschieden mare eens in het jaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1181.s.1	Ja , mare hier scheiden meer zulk gastmaalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1201.s.1	Ik bekennen die ik nooit in iemants huis zode heerlijk zijn trakteren : mare ik hebben somtijds aan een rijk en deftig paren wel een bruiloftsvaars vereerd , Waarvoor ik in gezelschap vinden verscheiden voornaam poeet , In hebben heer logement en de doel prinsselyk hebben aangezeeten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1201.s.2	hebben spijt ik die ik voor de heer Lichthart geren verjaardicht hebben maken .	Emotion_Remorse
+lang020chph01_01.TEI.2.text.body.div.div.sp.1201.s.3	Ik hebben hebben wel beginnen ; mare hebben zijn niet te einde geraken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1201.s.4	Ik weten hebben niet vragen genoeg , en daarom hebben hebben niet wil lukken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1201.s.5	schonen hebben vijg naar Paasschen zijn , ik zullen hebben nog doel , en laten hebben druk .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1228.s.1	zijn die uiten de geest , Papa ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1228.s.2	of hebje het uiten een boek schrijven ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1232.s.1	Ja , wel zijn hebben uiten de geest : hij zijn in zulk schimpdichtjes bedreven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1237.s.1	Wel Papa , gei stelen ik harden .	BodyPart_BodilyProcess_Benevolence
+lang020chph01_01.TEI.2.text.body.div.div.sp.1237.s.2	zijn gij zulk een liefhebber vinden doen poezie ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1237.s.3	Dan hebben ik velen respect voor uw : geloven ik vrijen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1257.s.1	Ik plegen wel een een dichten te maken op ik maagschap en vriend : mare ik hebben somtijds een paren uur werken om hebben rijmwoord te vinden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1257.s.2	Ook hebben ik een in ik jeugd in een Kunstgenootschap wezen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1257.s.3	mare ik moeten hebben verlaat : wan ik wassen niet verheffen genoeg vinden geest .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1257.s.4	Ik hebben een drie jaar aan een frans Treurspel gerymd , en alles ik hebben zien geluk , kennen ik hebben niet spelen krijgen : eindelijk scheuren ik hebben aan stuk , Om die ik ' er goed vertaling vinden zien .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1257.s.5	ik eigen vinding waar ook onnut : wan doen besteden stof tot treuren - en Blyspelen waar uitputten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1257.s.6	Ik hebben zien die ik wel twintig jaar te laten in doen wereld zijn komen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1257.s.7	All ' wat fraai zijn , vinden ik vertaald .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1257.s.8	En worden ' er een nieuw stuc in het frans vernemen , Dan val ' er aanstonds een vijf zes poeet te gelijk op , die doen rymkunst verstaan : En eer een ander beginnen hebben , aanzien zijde altemaal al braden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1261.s.1	hebben zijn ' nut die zij zelf een goed speld uiten hebben hoofd kunnen maken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1266.s.1	Dan moeten ik doen talen en doen tooneelwetten verstaan , en een ' geest aanzien tot verheven zaak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1270.s.1	Daar zijn evenwel vaderlands spel , waarmee doen dichter lof aanzien verdienen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1274.s.1	die bekennen ik : mare zij getal zijn zeer klein , ik Vriend .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1278.s.1	Wel , vonder en hoofd dan ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1286.s.1	hun spel zijn heerlijk , zinrijk en verheffen : mare zijde waar in die tij meer in doen talen en dichtkunst , dan in doen tooneelwetten bedreven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1290.s.1	gei zijn een Liefhebber , Papa .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1304.s.1	doen Schouwburg trekken al meenigen schelling uiten ik ' zak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1310.s.1	Heer Lichthart , waarom nemen gij de oude manna niet altijd met in de Bak ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1314.s.1	die zij hij niet wil doel ; wan hij hebben eigenzinnig gril .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1318.s.1	zode hij ik Vader waar , ik zij hij altijd met aanzien wil .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1323.s.1	Neen , hij zijn zode bekennen onder doen heer en dame en ryksten vinden doen stad , die hij zien schamen zij alles zijde weten die hij ik tot een ' Vader hebben .	Emotion_Shame
+lang020chph01_01.TEI.2.text.body.div.div.sp.1329.s.1	zulk droog bokkens moeten ik de gans dagge vinden hij verdragen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1334.s.1	Bezorg ik in het Oudenmannenhuis , dan zijn gij vinden ik ontslaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1338.s.1	Wat dunken uw vinden doen speler ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1338.s.2	zijn zij wel zode goed alles in vroeger tij ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1343.s.1	mijnheer , sommige zijn goed , ander wat minderen : elk doen zijn vlijt .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1350.s.1	Ik moeten uw iets vragen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1350.s.2	dunken uw niet die doen acteur velen goed dan voor deze spel , Sedert die hebben heen vergunnen zijn jaarlijks doen vrucht vinden twee toneelstuk te deel ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1363.s.1	Ja , die hebben ik wel opmerken : die aanzien doen heer zeer wel bedenken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1363.s.2	wan door goed beloning worden doen Schouwburg in staan brengen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1363.s.3	Indien zij nog verder geliefde te gaan ; en op die wijze ' doen poeet te belonen , Dan zij ik haasten op de Schouwburg nieuw en fraai stuk zieden vertonen , En veel oud prul zullen mede ' er tij raak aan een ' kanten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1367.s.1	En waarin zij die beloning bestaan ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1377.s.1	gelijk in Vrankryk en in Engeland .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1377.s.2	alles ' er een toneelstuk vinden eigen vinding worden vertonen binden Londen , Dan worden ' er een speld voor de dicht spelen , en doen voordeel hij thuis zenden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1377.s.3	die wekken doen geest op , en maken doen liefhebber kloek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1377.s.4	Dan zullen ' er geren fraai spel half afdoen blijven liggen in een ' hoek , En ik zij zieden die ons Natie ook bekwaam wassen om groot geest aan te kweken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1381.s.1	ons poeet zullen velen te genereus wees om vinden zulk ding te spreken	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1388.s.1	En waarom zijn ' er doen groot dichter in Vrankryk , en onder ander Voltaire niet te genereus toen wezen , Die duizend ontvangen hebben voor doen vrucht vinden zijn ' geest ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1388.s.2	zijn hebben geren schande voor doen schilder die zijde belonen worp , hebben zijn geren schande voor doen poeet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1388.s.3	wan doen Dichtkunst en Schilderkunst zijn zuster , gelijk wie weten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1392.s.1	mijnheer , u discours zijn uiten , merken ik .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1392.s.2	lusten uw een kopje thee ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1397.s.1	alles hebben uw gelieven , Mejuffer : ik drink wel een kopje met .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1397.s.2	mare zullen gei doen oud lieden ook niet een kopje presenteren ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1401.s.1	Die zeggen die ' er doen hand vinden beven : zijde zullen het niet begeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1406.s.1	Wel , Madame , die zijn excellent thee !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1406.s.2	zijde zijn geurig , en zij zijn alles fluweel in de mond .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1418.s.1	mijnheer , hebben zijn iets raar : zij kosten ik honderd gulden hebben pond .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1418.s.2	Ik hebben ' er een katje vinden twee pond door een vriend vinden gekreegen , hij hebben zij vinden een ' Mandaryn vinden Canton , die hij zeer wassen genegen .	Emotion_Benevolence
+lang020chph01_01.TEI.2.text.body.div.div.sp.1418.s.3	ik verzend zij nooit : zijde worden allee vinden de Keizer vinden China en zijn vrouw gebruiken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1423.s.1	Wel ik moeten bekennen die zij door doen heel kamer ruiken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1423.s.2	Ik weten niet die ' er zulk thee wassen : ik hebben zij nooit zode drinken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1428.s.1	zijde worden , gelijk ik zeggen hebben , allee aan hebben hof voor de Keizer schenken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1428.s.2	Wat dunken uw daarvan , Juffrouw Rykje ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1432.s.1	Mama Kwistgoed , hebben zijn weergaalooze thee .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1437.s.1	Ik zullen ' er uw een half pondje vinden present doel in een zilveren bosje : alles jouw gaan , nemen hebben dan met .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1442.s.1	Wel heer , Mama !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1442.s.2	daar kunnen ik wel een jaartje of twee wel vinden varen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1442.s.3	Ik zullen zij mare drinken alles ik niet wel ben.	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1447.s.1	die zijn wijselijk in zulk jong jaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1456.s.1	Wel zode , Dochter !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1456.s.2	hebben jouw twee honderd gulden aan twee pond thee verbruien ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1456.s.3	Die moeten jouw vinden een ' smous kopen aanzien : ik weten hoe die volkje somtijds de mens snuiten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1460.s.1	Ik willen nog wel een zode snuiten zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1460.s.2	menen jouw die ik niet kunnen proef ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1464.s.1	Wel Kind , alles ik zulk ding horen , moeten ik ik in ik ' geest bedroeven .	Emotion_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.1472.s.1	Wel die twee schoteltjes mede ortolaan , die te middag op doen tafel aanzien staan , aanzien ik ' manna zestig ducaaten kosten , en die zijn altemaal opgaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1476.s.1	En wat zijn die voor kosten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1480.s.1	klein frans vogeltjes ; een zeer delicieus eten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1490.s.1	Wel hebben jouw dan geren braden kikkerboutjes en champigjons eten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1490.s.2	die zijn ook lekker knap .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1490.s.3	ik doen tocht al op zijn frans .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1494.s.1	Neen , op zijn engels ook .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1505.s.1	Wel dan zijn ' er dubbel kans Voor al soort vinden naaister , engels en frans snidders .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1505.s.2	gei gelijken wel Marquizinnen , en u man Milords of engels ridder .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1505.s.3	Wat hebben jouw die speelreisje kosten na het landen vinden kleef ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1515.s.1	die zijn jouw vergeten , Papa .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1515.s.2	menen jouw die hebben gezelschap daar beven ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1515.s.3	Neen ; wie zijn na Berlyn wezen , om daar doen prachtig hofhouding te beschouwen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1519.s.1	die zullen al een duitje kosten aanzien aan twee lichtmis vinden man en twee dartel vrouw .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1525.s.1	hebben zijn wonder die Oom vinden ons Amazoons kleedjes niet spreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1538.s.1	Wat zijn die voor prul ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1538.s.2	Ik geloven die gei ' er doen gek met steken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1538.s.3	gei hebben mede u beide zode velen galanteryen , doosjes , strik en kwik , die ik ' er op doen kermis wel een dubbel kraam met zij kunne opschikken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1538.s.4	zijn gei Amazoonen worden ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1538.s.5	Ik weten wel vinden u coqueluchons .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1538.s.6	mare hoe velen gelden die zij kosten aanzien , zullen gei wel zwijgen aan wij .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1546.s.1	Om die jouw vinden doen kermis spreken zullen ik jouw voorthelpen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1546.s.2	Ik hebben een ' waaier , En een tabatiere , vrijen wat kostelyker en fraaijer Dan ' er ooit op doen kermis wezen zijn : hebben jouw die wel zien ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1554.s.1	Ja , die kost u ' manna wel twintig of dertig rijder misschien .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1554.s.2	mare wat komen hebben daar op aan ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1554.s.3	hij hebben uw die tot een gedachtenis geven : En die zijn ding die ik bewaren moeten voor al zijn leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1554.s.4	mare ik hebben geren bedragen in u kleed , nog op zijn engels , nog op zijn frans .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1560.s.1	Wel zij ik dan een Spaansche huif dragen , alles Dieuwertje , in hebben speld vinden Jan Claaszen en Saartje Jansz ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1564.s.1	Papa , gei zitten nu op u praatstoel : zeggen een hoe wij behoren te leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.1	Ik hebben nu een goed luim : die zullen ik jouw door een historie te kennen geven .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.2	ik zijn verhalen die ' er een deftig aanzienlijk Heer zijn wezen , Die all ' zijn neef en nicht noden hebben te feest .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.3	zijde kwaamen mede koets en paard voor doen door : altemaal in prachtig kleed .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.4	hij ontvangen zij minnelijk , en stellen zij op doen eetzaal in reien en geleederen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.5	alles hij doen dame een welkomkusje geven hebben , worden zij elk na rank aan doen tafel brengen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.6	Daar niets op staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.7	alles ik enig tij hebben wachten , worden ' er geren ander schotel opdissen dan mede god , water en brij , en boekende koek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.8	doen dame trekken doen neus op , en zeggen ;  hebben Oom wij op zulk misselijk kosten laten verzoek ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.9	  Ja , kind , ( spreken doen Tractant :) Door hebben eten vinden zulk spys aanzien ons voorouder hunn ' rijkdom vergaren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.10	doen zuinigheid en naarstigheid vinden doen oud Hollanders wassen bij al natie vermaard .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.11	zode zijn wij landen opkomen ; zode zijn hebben machtig worden om zijn vijand te overwinnen  .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.12	 wie geloven uw wel , Oom , ( zeggen doen juffer , ) mare die oud patriot hebben ouderwets zin .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.13	die zijn doen mode niet meer  .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.14	Ook wassen ' er niet een die ' er een lepel vol vinden eten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.15	torn die spys afnemen wassen , worden ' er niets opdissen dan kalfs - en schaapennat .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.16	snijboon , vorst , grauw erwt , gebraade kalfsborsten en harst .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.17	sommige peuzelden daar wat vinden : mare ander scheen te vrees die zij ' er aan zullen barsten .	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.18	 zien daar , ( spreken doen Oom , ) zode aanzien doen familie elkander in volgend tijd geregaleerd : En torn zijn doen koopman in wij landen zeggen achteruit geteerd .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.19	zijde zonde meerder schip in zee dan nu ; zijde negotieerden mede winst op al kust .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.20	ik beven in staan om geheel vloot uiten te rust .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.21	wie worden benyd en vrezen , en om ons handelen bij al volk achten  .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.22	 die geloven wie wel , Oom ; ( spreken een vinden doen nicht :) mare wie hebben een ander traktement verwachten  .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.23	deze spys met afnemen zijn , zien ik ' er faizanten , patrijs , en kostbaar willen verschijnen , piramide mede banket en confituur , florentijns , rins en ander keurlyke wijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.24	Fluks geraken ik aan het eten en drinken , onder luiden vinden een heerlijk muziek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.25	Waarop doen Heer Tractant zeggen :  Al zijn wie nog zode machtig en rijk , Door deze wegge worp veel inwoner vinden wij landen buit staan om zij rekening te kunne maken ; En zode kennen wij Vaderland , hoe machtigen hebben zijn , arm en geheel te grond geraken  .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1610.s.26	zijde bedankten de Oom wel voor zijn les ; mare of zijde die opvolgen aanzien , weten ik niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1623.s.1	die sprookje hebben groot Papa honderdmaal vertellen : mare ik twijfel of hebben wel ooit zode zijn geschieden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1623.s.2	hij verhalen ook wel die doen burgemeester , alles ' er staatszaak waar te verhandelen , mede knapzakken onder de arm , op holsblokken na de Haag gaan wandelen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1623.s.3	En meer diergelyke historien , daar ik hedendaags met spotten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1623.s.4	zode zij gebeuren zijn , wassen hebben in doen tijd vinden Maarten vinden Rossum , of Warenar mede doen potten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1631.s.1	ik lief manna !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1631.s.2	ik hebben ook al overdadig leven in doen oud dag .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1631.s.3	die zien ik in doen doel wel , aan doen oud patriot mede hun bef en kraag .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1631.s.4	Hoe smakelijk eten en drinken zij !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1631.s.5	Hoe gloeien hun tronie vinden de rins wijn !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1635.s.1	die wassen alles zij doen schutter trakteren : die moeten dan zode zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1643.s.1	alles ik doen oud klucht lezen vinden die tij , zijn zij niet zode schandaleus en vuil schrijven , die ik zij nu niet zij spel , zode zij aan de Schouwburg worden geven ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1657.s.1	Ik geven mare te kennen die ik in het algemeen zuinig hebben leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1657.s.2	zonde en gebrek waar ' er al vinden oud ; het welk in wij verschillen nemen nog geven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1657.s.3	doen man snooven ' er goed op uiten , om wat te sparen en te winden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1657.s.4	doen vrouw zitten mede doen meid voor het huishouden een webbetje te spin .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1662.s.1	Wel , die zijn een exercitie , daar ik schat met winden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1662.s.2	het zijn jammer die ik onder doen dame zode weinig liefhebberij daar in vinden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1671.s.1	Zoetje , wil wie die mode een invoeren op doen amsterdams salet ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1671.s.2	ik zij ' er , in plaatsen vinden speeltafeltjes , wel een vyfentwintig spinnenwielen kunne zet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1684.s.1	alles ik altijd op doen spaarzaamheid zij studeren , ik lief vriend , Dan hebben doen meest kunst en ambacht immers uitdienen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1684.s.2	Banketbakkers , kok , frans kramer , zijden - en Lakenwinkeliers mogten wel opkraamen , En vooral doen Galanteriewinkels , alles ' er geren koper komen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1684.s.3	Indien ' er geren prachtig huis timmeren worden , hoe komen doen timmerman en metselaar aan doen kosten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1684.s.4	En zode velen Zaalemakers en Wagemaakers , alles ' er niet worden rijden en rossen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1693.s.1	die lieden vinden vermogen , die hun inkomst niet half kunne verteren , huis en hofstede bouw , en in koetzen rijden , daar moeten heen doen heel wereld om eren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1693.s.2	die zijn lieden vinden doen eerst klasse : mare alles burger die naar wil doel , Dan moet zij te grond gaan , en zij verlies al zij fatsoen .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.1695.s.1	tiend toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1698.s.1	hebben vorig Gezelschap ; zoetekauw , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1702.s.1	Gelieven doen heer en juffer doen fondament vinden doen Suikertafel een te beschouwen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1706.s.1	heer , hebben gei ' er lusten toen , staan op : wie zullen zij een bezie mede ons vrouw .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1711.s.1	Broeder die zijn ding , daar wie wij zeer weinig op verstaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1711.s.2	Ik zien daar Joris ; laten wij mede hij terwijl een straatje ronden gaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1713.s.1	Einde vinden hebben eerst bedrijf .	None
+lang020chph01_01.TEI.2.text.body.div.head.1717.s.1	Tweede bedrijf .	None
+lang020chph01_01.TEI.2.text.body.div.stage.1719.s.1	hebben toneel verbeelden doen vorig Kamer .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1725.s.1	lichthart , losbol , kwistgoed , zoetje , rijmer , zitten mede een Gezelschap vinden heer en juffrouw aan verscheiden tafeltjes op doen kaart te spel ; joris , michel , en meid .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1739.s.1	heer en Jonfers , alles stoe gedoon hebben mede zingen en troef , Dan kunde stoe vertrek , wan doen koetzen en sledekens zonde ' er al , om oe no doen komedie te schoeven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1739.s.2	zien zullen vinden Giesbertken vinden Amstel spel : verzuimen dan geren ' tied hebben lopen ' er zode vol , die alles stoe nig goot , dan rookt stoe doen plootsen kwiet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1744.s.1	staan dan op , heer : ik dienen dan niet lang te verbeiden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1744.s.2	gelieven , alles u speld uiten zijn , doen dame na doen komedie te lijden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1749.s.1	heer en dame , u Dienaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1749.s.2	gaan mare vooruit : wie zijn nog niet reden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1749.s.3	ons vrouw zullen uw volgen : ik kunnen niet met gaan : het zijn ik lijden .	Emotion_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.stage.1752.s.1	hebben Gezelschap nemen , naar enig compliment , afscheid , waarna doen dame door doen heer uitleggen worp ; en Kwistgoed , Zoetje en Michel na binden gaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1756.s.1	lichthart , losbol , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1760.s.1	Joris , gei moeten een een zakje schelling verwisselen tegen half rijder en dukaaten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1764.s.1	Voor ik ook , Joris ; gaa heen : wij zullen ' er wij op verlaat .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1768.s.1	Mynheeren , die hebben ik niet : hebben laatst gelden geven ik uw deze morgen vragen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1772.s.1	wie weten wel goed , Joris : wie aanzien immers gelden genoeg .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1779.s.1	Ik hebben uw in tijd waarschuwen die doen wissel manqueeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1779.s.2	Ik moeten al rekening en assignatien uitstel , die weten doen heer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1783.s.1	die weten wie niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1783.s.2	kijk te degen , Joris , in doen ijzeren kissen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1791.s.1	die zijn vergeefs , Heer Losbol : die hebben gei voorleden wijken al uitvissen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1791.s.2	hebben zijn te verwonderen zijn het gelden zode schielijk zijn blijven ; Ik hebben doen heer nog koorts twee duizend gulden geven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1797.s.1	zijn Neef Losbol hebben gelaten hebben , die weten ik niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1797.s.2	mare ik hebben ik wijf een delen gelden geven , eer deze traktement zijn geschieden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1797.s.3	gei moeten denken , Joris , die ik deze mede geren nootendoppen kunnen beginnen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1803.s.1	Ja , mijnheer , die hebben gei niet braden mede welberaaden zin .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1803.s.2	Ik hebben uw genoeg waarschuwen die ' er geren gelden zijn bij kast .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1803.s.3	gei moeten hebben ik niet verwijten .	EmotionalAction_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.1807.s.1	Ik denken die ' er nog genoeg wassen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1812.s.1	Ik hebben duidelijk zeggen die ' er geren gelden voor aanstaande wijken zijn te wacht .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1812.s.2	zijn het wel mogelijk !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1812.s.3	vliegen uw die zode schielijk uiten u gedachte ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1816.s.1	lopen dan aanstonds voor wij beide na de Kassier .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1820.s.1	Die hebben immers al gelden weigeren , voor een dagge drie vieren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1824.s.1	zijn doen tij vinden doen betaling de indigo , die wie afgeleverd aanzien , niet verschijnen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1829.s.1	Over veertien dag eest .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1834.s.1	Dan moeten gei doen cacao zieden te belenen , Die in het pakhuis staan ; of doen koffie , opdat ik ik vinden doen penning bedienen ' .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1838.s.1	Ik kunnen vinden daag doen koopman niet spreken : die kunnen zode schielijk niet geschien .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1842.s.1	Daar komen ons vrouw : die zullen het nog aan geren gelden ontbreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1846.s.1	kwistgoed , zoetje , lichthart , losbol , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1851.s.1	zijn gei hier , mennen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1851.s.2	wie aanzien uw noodzakelijk te spreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1851.s.3	ons beurs zijn ledig .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1851.s.4	het zijn goed die gei hier staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1855.s.1	hebben gei geren gelden meer ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1855.s.2	wel dan zijn ik desperaat .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1859.s.1	laten Joris gelden bezorgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1863.s.1	Die weten hebben nergens te vinden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1867.s.1	wie moet gelden aanzien .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1867.s.2	wie zijn mijden in het trakteren vinden doen vriend .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1872.s.1	Ik weten wel raden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1877.s.1	Joris , daar spreken een Engel uiten u ' mond Wat hebben gij ' er op vinden ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1886.s.1	zenden Michel en doen meid in het ronden na de Schouwburg en doen huis ; en laten mare zeggen die ik beide doen juffrouw te bed hebben moet liggen ; die zij een overval gekreegen aanzien ; en die hebben bol zijn uitstellen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1894.s.1	zijn zij ik dan mede doen spys heen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1894.s.2	doen muzikant komen evenwel om gelden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1894.s.3	En dan zijn ' er meer ander die ik niet kunnen borg .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1894.s.4	hebben gaa hoe het gaa , Joris , gei dienen wij gelden te bezorgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1898.s.1	Ik bedenken daar wat !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1902.s.1	Wel nu ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1907.s.1	Dan moet ' er u horologies en gouden snuifdoozen aan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1907.s.2	geven ik die : ik zullen ' er met bij een inbrengster in doen Bank vinden lening gaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1911.s.1	maken die niemand hebben merke .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1911.s.2	Ik zullen ik horloge en snuifdoos geven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1916.s.1	Daar zijn doen mijn ook .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1916.s.2	mare Joris , zijn gij in die ding wel bedrijven ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1916.s.3	Neef en Nichtje zullen wij ook wel helpen uiten de node ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1923.s.1	Ja Nicht ; doen som waarom wie verliggen zijn zijn niet groots .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1923.s.2	wie aanzien niet meer vinden nood dan om ' er een kaartje met te spel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1923.s.3	Manlief , geven over .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1923.s.4	Daar zijn zij ; mare Joris laten zij het uw niet ontstelen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1928.s.1	Hoeveel moeten ik ' er op negotieren ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1941.s.1	Zoveel alles gei kunde .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1941.s.2	mare gei moeten ' er half rijder of ducaaten voor nemen goed vinden munten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1941.s.3	daar worden schellen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1941.s.4	Daar worden schellen : maken doen door op : wie gaan te samen na binden , wie laten het op uw berusten , Joris : mare doen u zaak mede zin .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.1945.s.1	ernst , hendrik , sybrand , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1949.s.1	zijn gei daar , heer ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1949.s.2	Ik gade om een boodschap , en zijn in een half uur weer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1953.s.1	zij ik die boodschap niet mogen weten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1959.s.1	die weten ik niet , mijnheer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1959.s.2	mare evenwel ik durven zij uw wel in vrijheid vertrouwen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1959.s.3	Ik hebben al doen horologies en snuifdoozen vinden ik patroon en vrouw .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1964.s.1	Wat denken gei daarmee te doel ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1968.s.1	belenen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1975.s.1	Goed .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1975.s.2	wie aanzien wel gelden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1975.s.3	wie wil zij wel belenen , mits die gei wij niet te eerst melden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1979.s.1	geven ik doen horologies en snuifdoozen over .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1983.s.1	Wat zullen gij ' er ik bedrijf ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1987.s.1	die zullen gei zieden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1987.s.2	gei moeten een een kwitantie vinden zeel honderd gulden schrijven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.1990.s.1	joris , halen inkt en papier uiten zijn zak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1993.s.1	Ik begrijpen uw wel , Heer Hendrik : mare gei maken ik wat bang .	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.1993.s.2	zijde zullen kwaad op ik worp , alles zijde weten die ik het gelden vinden uw ontvang .	Emotion_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.1998.s.1	zijde zullen het vinden my-zelv ' ontvangen : daar zijn niet aan liggen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.1998.s.2	wie aanzien vinden de Kassier elk een goed goudbeurs krijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2004.s.1	mijnheer , gei nemen hebben goed in pand te min zonder interest aan ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2009.s.1	Ja , Joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2009.s.2	gei hebben ' er niet tegen , Broeder ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2014.s.1	All ' wat gei doen zijn wel braden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2014.s.2	zijde zijn niet in staan om ergens gelden te krijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2018.s.1	Ik zullen honderd half rijder geven .... mare daar komen zij ; laten wij zwijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2022.s.1	lichthart , losbol , kwistgoed , zoetje , ernst , hendrik , sybrand , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2027.s.1	Wanneer wild gei voor wij solliciteren , om te bezie Of wij in hebben Oudenmannenhuis kunne komen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2032.s.1	Overmorgen misschien .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2032.s.2	wan deze dagge en morgen aanzien wie hebben te druk mede ons zaak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2037.s.1	alles gei het mare bezorgd eer gei binden doen wafelijzer mogen raak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2041.s.1	praten gei met , Oom , gelijk Papa ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2041.s.2	Daar zijn het vierkant gat .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2045.s.1	Ik bedanken uw voor u beleefdheid , mare ik blyf nog wat .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2052.s.1	gei hebben gelijk : Papa zij aan u gezelschap te velen verlies .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2052.s.2	mare zulk redenering zij ik evenwel niet verkiezen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2052.s.3	Of Vader wij zulk droog bokkems toeduwt , die zijn wie gewennen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2058.s.1	Ja , doen achten die gei voor u ' Vader en ik hebben , zijn wij bekennen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2058.s.2	Broeder , gaa weer in die hoekje zetten : gei zijn moede , en moeten uw wat verkwikken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2058.s.3	doen zaak , die wie te verrichten aanzien , kunnen ik wel allee beschik .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2061.s.1	lichthart , tegen doen vrouw .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2064.s.1	maken uw reden om na doen komedie te gaan , wan hebben woord laten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2064.s.2	Ik kunnen niet begrijpen waarom Joris nog niet heen gaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2068.s.1	Neef Lichthart , ik merken die gei beide zeer om gelden zijn verliggen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2074.s.1	Wel Paai , hoe vragen gei die zode ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2074.s.2	zoeken gij wij de baard te vegen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2078.s.1	Wel Neefje Lichthart , ik vragen hebben omdat ik hebben weten moeten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2082.s.1	Indien die zode wassen zullen gei wij niet helpen , wan gei zijn een arm bloeden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2087.s.1	hebben gei gelden nodigen , zode spreken : ik Broeder hebben wel wat ledig liggen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2093.s.1	zijn wie mede gek gebruid , Losbol ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2093.s.2	horen paaien , die behoeven wij uw niet te zeggen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2098.s.1	wild gij een snuiven , jong ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2101.s.1	lichthart , snuivende .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2106.s.1	hebben gei zulk-een doos ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2106.s.2	Die zijn fraai .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2106.s.3	zij hebben gouden of pinchbek wees ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2106.s.4	Hoe komen gei daaraan , Paai ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2110.s.1	Bezie hij te degen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2110.s.2	zullen gei die horloge ook niet kennen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2121.s.1	het zijn waarlijk ik eigen !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2121.s.2	doen pikken moeten ' Joris schenden !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2121.s.3	Waarom hebben gei die overgeven aan die oude Saggelaar ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2121.s.4	gei hebben wij verraden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2121.s.5	Schelm !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2121.s.6	gei hout hebben mede hij en ik vaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2132.s.1	Zacht wat !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2132.s.3	ik hebben hebben in pand te min ontvangen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2132.s.4	En omdat wie merkel die gei na doen penning zullen verlangen , zij ik gaarne weten hoeveel gei benoodigd zijn , en wat specie gei begeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2140.s.1	Ik geloven zeker , Paai , die gei ' er doen gek met scheren ; wan die gei gelden zullen aanzien , zijn wij in jaar en dagge niet blijken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2145.s.1	hebben jouw honderd half rijder vinden doel ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2145.s.2	die zijn in die beursje : gei hebben mare te spreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2145.s.3	zien daar , wild gei zij zieden ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2151.s.1	Hoe drommel kunnen ik die verstaan ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2151.s.2	zijn hebben gei die beursje rollen , Oom ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2151.s.3	Hoe komen gei daaraan ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2155.s.1	het zijn vinden een zeker schuld , die ik vinden daag onverwacht hebben inkrijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2159.s.1	Wel Oometje lief , die zijn een buitenkansje .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2176.s.1	Papa lief , ik zijn zeer verliggen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2176.s.2	alles gei nog zulk een beursje hebben , dan waar ik buit node .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2176.s.3	gei overtuigen wij altemaal : u goedheid zijn groots .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2176.s.4	alles gei het hebben , zode geven hebben : ik zullen het gelden aanstaande wijken weer bezorgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2176.s.5	Ik hebben een ' harddraver kopen , die ik juist moeten betalen op morgen , wan ander raken ik ik krediet bij doen pikeur en liefhebber kwijt .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2176.s.6	Papa , hebben beestje kunnen vlieg , alles ik het mare na doen kunst beryd .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2176.s.7	Daar zijn in doen dorp al verscheiden zilveren zweep met gewinnen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2176.s.8	Ik hebben het op een ' drinken avond kopen voor twee honderd ducatonnen Gaa een mede ik met en bezie hebben op doen stelen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2182.s.1	Daar zij ik geren gelden toen geven , Losbol , al hebben ik hebben al .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2182.s.2	alles ik in het Oudenmannenhuis om tabaksgeld verliggen wassen , zij ik hebben uw moet vragen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2182.s.3	Ik zullen wel wijzer zijn : dan brengen ik mare een doos in doen lommerd , die ik in ik zak niet behoeven te dragen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2192.s.1	zijn het niet genoeg die Vader uw uiten de node helpen hebben ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2192.s.2	durven gei nog om meer gelden vragen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2192.s.3	die zijn onbeleefd .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2192.s.4	Al hebben doen manna nog zoveel , ik zij hij die niet raden : mare hij is even alles ik mede weinig penning beladen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2198.s.1	Vader , legje met een oortje in het zakje , en halen ' er een schelling weer uiten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2202.s.1	Daar zien gei doen dankbaarheid , Broeder : zijde acht het mare voor buiten .	Emotion_Other
+lang020chph01_01.TEI.2.text.body.div.div.sp.2209.s.1	Wat raken hebben uw , Papa ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2209.s.2	gei hebben ' er niet een zeer bij te verlies .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2212.s.1	joris , tegen Hendrik .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2214.s.1	lezen deze briefje een , mijnheer : zullen gei het zode niet verkiezen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2219.s.1	Ja ; deze moeten gij teken , Lichthart ; dan weten ik bij leven of sterven hoe doen zaak staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2219.s.2	zien daar , kind , nu zijn gei weer helpen ; nemen deze goudbeursje aan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2222.s.1	losbol , terwijl Lichthart tekenen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2225.s.1	gei praten vinden doen lommerd , Papa ; laten Joris doen doozen daar na toen brengen , Dan kunnen ik ik ' harddraver betalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2233.s.1	die zullen ik niet gehengen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2233.s.2	Wat bruid ik u krediet bij doen Paardekoopers en pikeur ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2233.s.3	hebben waar goed die gij u krediet bewaren hebben bij doen koopman op doen beurs .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2239.s.1	Dan behouden gij doen horlogies nog .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2243.s.1	Neen , gei zullen niets onder uw sleep .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2247.s.1	ik Broeder zullen wel wijzer zijn : hij hebben ondervinding vinden u knijpen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2254.s.1	gei zijn een slechten makelaar , Papa ; Ik geloven hebben niet die , alles gei een oud schuld hebben inkrijgen , deze belening waar geschieden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2260.s.1	gei hebben doen goudbeurs , kind : gei kunde hebben tal en deel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2260.s.2	Ik denken doen pand zode wel te verzorgen die niemand zij ik kunnen ontstelen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2260.s.3	wie wil samen binden gaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2266.s.1	ernst , mede doen hand onder het hoofd .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2270.s.1	zoeken gei wat te sluimeren , Grootvader ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2275.s.1	Ja , ik denken een uiltje te knap .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2275.s.2	Ik zijn vermoeid : wan ik hebben mede Oom Hendrik wat hard moet stap .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2279.s.1	Gaa dan lief op u kamertje .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2284.s.1	Ik zijn verwinnen vinden doen vaak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2288.s.1	het zijn hier wat woelig .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2292.s.1	liggen die ik in slaap geraak .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2294.s.1	Daar woord schellen en Sybrand doen openen .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2300.s.1	rijkaard , lichthart ; ernst , slaapende .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2302.s.1	rijkaard .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2304.s.1	zijn u Vader thuis , Sybrand ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2304.s.2	ik moeten hij over doen Wissel spreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2310.s.1	Ja , Patroon , ik zullen hij roep : mare hoe zullen hij verbleken vinden schrik , alles hij uw zien !	Fear_BodilyProcess
+lang020chph01_01.TEI.2.text.body.div.div.sp.2310.s.2	Ei , vallen hij niet te hard om mijn willen Papa !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2310.s.3	Papa !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2310.s.4	daar zijn ik Patroon .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2314.s.1	Daar komen hij .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2314.s.2	Gaa heen en houden uw stillen .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.2316.s.1	achtste toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2323.s.1	Heer rijkaard , u dienaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2323.s.2	Vader slapen ; gelief niet hard te spreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2330.s.1	Ik zijn verwonderd , Heer Lichthart .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2330.s.2	Waarom blijven gei in gebrek Om ik doen Wissel te voldoen , die te uw last vinden nonbetaaling zijn protesteren , En mede doen laatst pos mede contraprotest in ik hand zijn wedergekeerd ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2334.s.1	Ik verwachten mede doen naast pos remise ; dan zullen ik uw prompt betalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2340.s.1	mijnheer , u krediet zijn op doen beurs geheel en al aan het dalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2340.s.2	Ik zij tegenwoordig ik gelden moet aanzien tot een duit .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2344.s.1	die zijn ik onmogelyk .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2351.s.1	gei wild immers niet die ik besluiten ' Om ik vinden het wisselrecht te bedienen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2351.s.2	Ik willen ik kapitaal niet verminderen , wan die zij ik niet verantwoorden kunne aan ik kind kind .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2355.s.1	u kindskind !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2355.s.2	gei hebben immers mare eene enig Dochter , ik goed Patroon .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2364.s.1	gei moeten ik aanstonds betalen : ik hebben apprehensie op u persoon uiten kracht vinden het Wisselrecht ; ander zullen gei het moet gehengen die alles gei op straat kwaamt , ik uw in het wit wambuis zij laten brengen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2368.s.1	Beslaap uw daar een op : gei hebben immers te velen respect voor ik slachten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2373.s.1	die zijn zijn ; mare gei nemen u respect zelf niet in achten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2373.s.2	u Vader slapen : ik hebben de oude manna iets te zeggen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2378.s.1	Ik gade binden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2378.s.2	Heer rijkaard , u dienaar !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2378.s.3	Ik hopen die gei doen zaak nader zullen overleggen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2378.s.4	maken hij mare wakker .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2383.s.1	rijkaard ; ernst , slaapende .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2386.s.1	rijkaard , Ernst aanstoten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2388.s.1	nemen niet kwalijk die ik uw storen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2392.s.1	Neen , mijnheer , ik slaap niet : ik hebben al horen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2401.s.1	Joris hebben ik een ' Wissel uiten London brengen , om te accepteren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2401.s.2	hij zijn goed , volgens advys ; en ik zullen hij honoreeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2401.s.3	Daar zijn hij , Patroon ; ik weten niet die gei nog zoveel kapitaal bezitten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2419.s.1	Heer rijkaard , ik zij niet graag zieden , gelijk gy-zelf wel bevatten , die ik zode mede een affront raken uiten zijn zaak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2419.s.2	doen boedel zijn in doen warren : mare wie weten ' er wel reddering in te maken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2419.s.3	Daar zijn enig schreeuwschulden ; en doen erg zijn u Wisselbrief .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2419.s.4	zode wie mede elkander kunnen rescontreren , hebben waar ik lief .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2423.s.2	Gaa dan met na ik huis .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2423.s.3	u wissel zijn groot : gei kunde hebben surplus ontvangen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2433.s.1	geven ik u wisselrecht over : wan hebben zijn ik belang ik ' zode in angst te houwen .	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.2433.s.2	hij moeten niet weten die ik uw hebben betalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2433.s.3	mare laten wij na u huis gaan , zode worden uw doen rijden daarvan verder verhalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2433.s.4	Ik zullen openhartig mede uw gaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2433.s.5	ons Sybrand aard niet na zijn ' Vader .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2433.s.6	hij hebben ik iets ontdekken weg u Dochter ....	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2433.s.7	mare wie spreken malkaer wel nader .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2433.s.8	Ik twijfelen niet of gei zullen in ik voorstellen genoegen nemen , ik Vriend .	Emotion_Benevolence
+lang020chph01_01.TEI.2.text.body.div.div.sp.2439.s.1	Ja hij zijn een oprichten jonkman : hij hebben ik eerlijk en vlijtig op ik kantoor bedienen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2443.s.1	kind !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2443.s.3	Ik gade mede de Heer rijkaard een wandelen .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2447.s.1	lichthart , losbol , zoetje , kwistgoed , michel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2451.s.1	Wat of die oud Praatvaers mede elkander aanzien te verhandelen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2454.s.1	kwistgoed , tegen Lichthart .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2456.s.1	Wat hebben rijkaard uw te zeggen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2461.s.1	die doen engels fonds zijn gedaald , Omdat ' er verscheiden kwaad tijding uiten oogst - en West - Indien worp verhalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2465.s.1	aanzien wie daar belang in ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2469.s.1	Neen ; mare verscheiden vinden ik goed vriend .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2475.s.1	Ja , doen zeetijding zijn meest zode lossen alles doen wind , En zijde worp dikwijls uitstrooien door doen Actionisten en doen Assuradeurs .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2482.s.1	wie zullen doen zekerheid wel horen uiten doen courant , of op doen beurs .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2482.s.2	mare , Kind , geven ik een een bocaaltje : ik hebben niet velen lusten om te spreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2482.s.3	Ik beven een weinigje , en doen spys beginnen ik wat op te breken .	Worry_BodilyProcess
+lang020chph01_01.TEI.2.text.body.div.div.sp.2486.s.1	zien daar , Mannetje-lief , daar zijn een vol bocaal .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2491.s.1	die doen ik goed , Hartje lief : zode komen ik weer wat op ik verhalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2491.s.2	Daar worden schellen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2491.s.3	Michel , doen een openen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2497.s.1	door zijn die olde wief met ' et mandeken , om pastelien te verkoopen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2497.s.2	zij moeten doen Jonfer sprekken : zien hechten altied wat roors te zieden .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.2499.s.1	Elfde toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2501.s.1	diewertje , kwistgoed , zoetje , lichthart , losbol , michel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2503.s.1	diewertje .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2523.s.1	die spijt ik , Juffrouw , die spijt ik ; gei zijn niet allien .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2523.s.2	zien daar ; die zijn een koopje uiten een erfhuis : die zijn nog vinden die oud lang lyzen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2523.s.3	die kannetje zijn honderd en vijftig jaar : alles jouw het zien zelje het prijzen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2523.s.4	Ik komen eest bij uw , wan ik zijn wat verliggen om gelden , Omdat ik wat velen in doen Keizerskroon hebben kopen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2523.s.5	Ik hebben de Afslager tot overmorgen uitstellen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2523.s.6	Ik hopen die Juffrouw ik morgen mede wat gelden zullen gerieven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2523.s.7	Tegen Lichthart te zijden , terwijl Kwistgoed hebben porselein bezien .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2523.s.8	 doen sleper , die voor doen door staan , zijn ik zode ; gei moeten in huis blijven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2523.s.9	 Daar worden op jouw passen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2530.s.1	Diewertje , ik zullen uw morgen spreken , gaa nu na huis .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2530.s.2	nemen u porselein mare met : hebben mogen hier breken bij abuis ; wan wie aanzien hier tegenwoordig een gastmaal , en wat velen vriend .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2534.s.1	 mijnheer , gei zijn waarschuwen : gei zullen hebben zode bevinden .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.2536.s.1	Twaalfde toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2538.s.1	kwistgoed , lichthart , zoetje , losbol .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2542.s.1	Wel manna !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2546.s.1	Wel Vrouw !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2546.s.2	hoe zuchten gei zode ?	Worry_BodilyProcess
+lang020chph01_01.TEI.2.text.body.div.div.sp.2546.s.3	Hoe zijn gei zode bedroefd ?	Emotion_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.2550.s.1	Ik weten niet wat ik schorten : het zijn of ik harden worden toegeschroefd .	Fear_Worry_BodyPart_BodilyProcess
+lang020chph01_01.TEI.2.text.body.div.div.sp.2554.s.1	zijn hebben om doen snuifdoozen en doen horlogien ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2561.s.1	Neen ; die zijn wel wederom te krijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2561.s.2	mare ik merken die uw iets op het harden liggen , die gei voor ik zoeken te zwijgen .	HeavyHeartedness_BodyPart_BodilyProcess
+lang020chph01_01.TEI.2.text.body.div.div.sp.2565.s.1	Michel !	None
+lang020chph01_01.TEI.2.text.body.div.div.head.2567.s.1	Dertiende toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2569.s.1	lichthart , kwistgoed , losbol , zoetje , michel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2573.s.1	Wat believen stoe , mijnheer ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2577.s.1	lopen aanstonds na de chirurgijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2582.s.1	reppen uw wat , Michel , gei moeten dadelyk wederom zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.2584.s.1	Veertiende toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2586.s.1	lichthart , kwistgoed , losbol , zoetje .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2595.s.1	Wat zijn ' er gaande ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2595.s.2	zij ik doen zaak niet mogen weten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2595.s.3	Ik hebben wel zien die gei te middag zeer ongerust aan doen tafel hebben zitten : mare ik denken die gij om Grootepapaas praatje zode wassen storen .	Worry_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.2601.s.1	hebben moeten ' er dan een uiten , omdat hebben vinden niemand dan vinden ik vriend worden horen !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2601.s.2	Ik hebben lang tij een ' schrik hebben voor het nazien vinden ik boek ; En nu hebben ik Joris waarschuwen die een ander zij zullen onderzoeken .	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.2606.s.1	In die vrezen , Neefje , zijn ik meer alles vieren jaar wezen .	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.2606.s.2	hebben hebben ik tot nog toen aan geren gelden ontbreken , en daarom zijn ik altijd vrolijk vinden geest .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2611.s.1	weten gij ook raden om ik mede vieren duizend gulden te gerieven , Die ik aanzien moeten tot betaling vinden lopen wisselbrief ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2623.s.1	Ik zij Joris flus die commissie niet geven aanzien , wassen het zode slechten niet bij ik stellen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2623.s.2	Hier in vryigheid zeggen , ik Kassier willen ik niet meer gerieven mede gelden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2623.s.3	hij hebben ik rekening sluiten , en daar worden niets over vinden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2623.s.4	Of ik al zeggen die ik wissel verwachten uiten Parijs en Londen , hebben zijn vergeefs .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2623.s.5	Al bieden ik een percent per maand voor zijn verschot , hebben zijn vergeefs gefluit , Neefje , zijn kast zijn in slot .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2628.s.1	ik zaak staan willen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2628.s.2	Ik hebben wel remise te verwachten , Doch zijn hebben aan haperen gaan buit ik gedachte .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2632.s.1	doen alles ik : beleen doen koopmanschap die in u pakhuis staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2636.s.1	hebben geren gei ik aanraad , hebben ik te deel al langen braden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2642.s.1	Dan moeten gei zieden of gei bij d'een of d'andren Vriend gelden a deposito kunde krijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2642.s.2	Daar komen ons Vriend doen poeet : laten wij vinden uw zaak zwijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.2644.s.1	vijftiende toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2646.s.1	lichthart , kwistgoed , losbol , zoetje , rijmer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2656.s.1	Ik hebben doen vriend na doen komedie brengen , mare ik gaan heen ; ik hebben die speld dikmaals zien .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2656.s.2	Daar malen ik een bruiloftsvaers in het hoofd , die af moeten binden een dagge of teen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2656.s.3	hebben dienen wat fraais te zijn , wan zij zullen hebben laten druk .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2656.s.4	t ' zijn zulk een afzagen stof , die hebben na ik zijn niet zullen geluk .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2656.s.5	Ik komen hier een ombertje spel , mare alles ik iets bedenken , liggen ik doen kaart neder .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2663.s.1	gei zijn wij een getrouw boezemvriend : mogen ik uw iets vragen , mijnheer ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2663.s.2	hebben gij ook bij geval een vieren , vyfduizend gulden , die gei niet weten te beleggen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2663.s.3	wie wil wel enig goed belenen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2676.s.1	Neen , vriend ; om doen waarheid te zeggen , ik Vader vrezen die ik arm zij worp , en daarom hebben die zorgvuldig manna Al mijn goed fidei-commis maken , en daar leven ik vrolijk vinden .	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.2676.s.2	hebben geren ' er verders jaarlijks overschieten , kunnen geren twee zakjes zesthalven bedragen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2676.s.3	mare ik willen ik ' Oom , die daar voogd over zijn , hebben wel een vragen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2676.s.4	zode velen hebben ik altijd voor mijn vriend over : twijfel daar niet aan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2680.s.1	zij jee wel een aanstonds bij u ' Oom wil gaan ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2690.s.1	die zij vergeefs zijn ; hij zijn voorleden wijken mede doen pakketboot na Engeland gevaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2690.s.2	En wanneer hij wederkomen , hebben hij ik vergeten te verklaren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2690.s.3	Ik zijn tot u dienst : mare hoe komen hebben die gei dus neerslachtig zien ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2690.s.4	zijn ' er in ik afzijn iets , die uw krenken kunnen , geschieden ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2690.s.5	Ik zijn immers u boezemvriend : gei kunde hebben ik in vrijheid verhaal .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2694.s.1	Ik moeten vinden daag een ' wisselbrief ...	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2699.s.1	En ik morgen een ' harddraver betalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2706.s.1	hebben spijt ik die gei zode in doen naarheid zijn : ik willen uw helpen uiten de node .	Emotion_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.2706.s.2	zullen gij het mede een zakje zesthalven kunne doel ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2710.s.1	Neen ; doen som zijn te groots .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2717.s.1	Nooit hebben ik in zulk een benauwdheid wezen vinden al ik leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2717.s.2	hebben gezelschap zijn na doen komedie ; mare ik wensen die zij mare achter blijven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2717.s.3	Heer rijmer , mogen ik uw in vertrouwen iets zeggen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2721.s.1	Ja , zeggen hebben mare .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2728.s.1	Die wisselbrief vinden rijkaard brengen ik in het uiterst gevaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2728.s.2	En Joris zeggen , ik kunnen geren goed belenen voor morgen ; Ik zijn radeloos , en willen ik mede een springen ontlasten vinden all ' ik zorg .	Emotion_Despair
+lang020chph01_01.TEI.2.text.body.div.div.sp.2728.s.3	Ik durven aan doen door niet komen ; wan ik weten die ik op ik passen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2732.s.1	die doen ik in ik harden zeer .	BodyPart_BodilyProcess_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.2732.s.2	maken dan datje niet worden verrassen	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2740.s.1	dewijl hebben gezelschap in langen uiten doen komedie niet weer zullen karn , zij ik in vertrouwen wel een dienst vinden uw begeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2740.s.2	Ei lief , halen de Solliciteur Wargaren hier een in stilligheid .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2747.s.1	die zij ik gaarne doel : mare doen manna zijn gisteren , causa movens , achter af leiden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2751.s.1	Waarom ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2759.s.1	Een gevangene manna worden veeltijds bezwaren ; en daar worden dikwijls onder geloogen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2759.s.2	zij zeggen die hij doen crediteurs vinden een ' voornaam ' Koopman schandaleus hebben bedriegen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2759.s.3	mare ik twijfel daaraan : hij staan bij ik te boek voor een eerlijk manna , En hij zijn zode verstandig die hij doen zaak wel goed maken kunnen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2763.s.1	Hebje dan geren kennis aan een ' Advocaat , die een eerlijk manna zijn ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2768.s.1	Ik kennen ' er niet een ' .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2773.s.1	Ik wel : laten een zieden hoe zijn vinden zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2773.s.2	hebben schikken ik niet in .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2796.s.1	gei hoeven immers niet verliggen te wees , Messieurs .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2796.s.2	hebben krielen vinden advocaat , notaris en Practisyns rondom doen beurs .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2796.s.3	doen geheel Stad door vinden ik hun nemen aan doen deur schrijven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2796.s.4	Ik geloven die die altemaal eerlijk lied zijn , en in doen praktijk bedreven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2796.s.5	zijde aanzien krediet : zijde bewonen aanzienlijk huis in hebben voornaam vinden doen Stad .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2796.s.6	doen een zijn het goed op adviseren , en doen ander op hebben pleit vatten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2796.s.7	Daar zijn ook nog zode velen jong Practisyntjes , die wijzer wil zijn dan ervaarene en bedaagd mennen , die ik wel wensen die zij op een Oorlogschip worden bannen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2796.s.8	Dan zullen zij tegen doen turk kunne pleit .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2796.s.9	mare daar bedenken ik ' er een ' , die overal zijn beroemd , En in doen wandeling Brandarius Nazo worden genoemd .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2796.s.10	zij zeggen die hij door en weerdoor eerlijk zijn : hij maken niet velen gekakel , gelijk sommige Practizyns gewoon zijn : elk woerd zijn een orakel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2801.s.1	mijnheer en Vriend , halen hij , alles het uw believen , te eerst hier .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2809.s.1	die zullen ik doel , vriend : ik zijn altijd tot u plaisier .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2809.s.2	Ik gaa aanstonds heen , en denken niet langen wegge te blijven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2809.s.3	alles ik een vers inschieten , zullen ik hebben mede een potlood in ik zakboekje schrijven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2809.s.4	Vaarwel !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2809.s.5	ik zien de Heer Ernst .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.2811.s.1	Zestiende toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2813.s.1	ernst , lichthart , losbol , kwistgoed , zoetje .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2818.s.1	Wel kind !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2818.s.2	ik zijn bedroefd en ontstellen .	Emotion_Dissapointment_Sadness_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.2818.s.3	Daar worden op uw passen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2823.s.1	Ei lief !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2823.s.2	Wat voor een praatvaar hebben uw deze gemeld ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2827.s.1	die hoefje zode bits niet te vragen , geldverkwistende janhen !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2835.s.1	Papa , gei hebben hier in huis zode velen praat niet bedingen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2835.s.2	gei zijn mare een ootje in het cijfer : ruiken mare een pijp , en houje wat stillen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2835.s.3	Daar zijn Oom Kwylbaard ook : wat of die weer aanzien willen .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.2837.s.1	Zeventiende toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2839.s.1	hendrik , ernst , lichthart , losbol , kwistgoed , zoetje , michel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2848.s.1	Ik hebben jouw vergeten geluk te wensen mede doen vermeerdering vinden u jaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2848.s.2	Ik hopen die gei voortaan niet verder achteruit zullen varen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2858.s.1	Nu gei wij helpen hebben , durven gij wij al verwijten ; niet zijn , oud Tagryn ?	EmotionalAction_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.2858.s.2	gei komen mare om twisten te berokkenen , na al schijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2858.s.3	gedurig komen gei hier om ik ' oude manna zwaarmoedig te maken .	Worry_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.2858.s.4	Wat beduiden hebben die gei uw telkens bemoeien mede ons zaak ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2858.s.5	Of hebben gij nog meer half rijder om snuifdoozen te steker in u broek ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2861.s.1	hendrik , tegen Ernst .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2863.s.1	ik durven immers geren goed doel in doen wereld .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2869.s.1	gade naast Papa zetten kwylen in die hoek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2869.s.2	Michel , geven zij een staartje wijn of twee , die te middag zijn overgebleeven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2877.s.1	Die hebben ik oetedronken : ik sol doen mannekens wel een kommeke brij op die tofelken geven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2882.s.1	Daar zullen wie geren mond aanzetten : wie lust die verschalen staartjes niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2882.s.2	die ik hier komen , zijn allee uiten noodzakelijkheid geschieden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2886.s.1	stoppen dan een pijp : gei kunde uw aan die tafeltje zet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2889.s.1	michel , mede een komen brij .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2891.s.1	Oldvooders , door zijn een lekkers kommeke brij .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2895.s.1	Mof , die kunnen jouw zelf vreten .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2897.s.1	Hendrik gooien Michel doen brij over het lijf .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2901.s.1	I , woe no !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2901.s.2	wat pots zieden die ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2901.s.3	ik binnen er woorlyk vinden ontstellen .	Fear_Emotion_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.2907.s.1	Papa hebben gelijk .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2907.s.2	Michel , doen doen door openen , en zien wij daar schelden .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.2909.s.1	Achtiende toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.2912.s.1	Een dronke sleper , hendrik , ernst , lichthart , losbol , kwistgoed , zoetje , michel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.2914.s.1	sleper .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2922.s.1	Wel heer en juffrouw , verstaan jouw wel ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2922.s.2	ik willen niet lang in doen koude staan blaauwbekken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2922.s.3	ik paren worden zode stijf , die hebben jouw niet na doen komedie zullen kunne trek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2922.s.4	Ik hebben voor tydkorting al een borlesoesje of zes in doen maag .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2926.s.1	wie gebruik een koets : ook gaan wij niet na doen komedie vinden daag .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2930.s.1	Wel , jouw zullen ik evenwel voor ik wacht ik borrel moet betalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2934.s.1	Daar zijn drie zesjes .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2943.s.1	mijnheer , om die jouw een uw kennis zijn zullen ik jouw iets verhaal .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2943.s.2	Daar zetten twee dienders in ik slede te wacht na jouw .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2943.s.3	Die aanzien orde die ik jouw in hebben wit wambuis brengen zij .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2943.s.4	Daarom komen niet uiten hebben huis : jouw zullen zij niet ontslippen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2943.s.5	lopen doen achterdeur ook niet uiten ; wan daar staan ' er ook twee om jouw te knip .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2943.s.6	Ik zullen zeggen die jouw niet thuis zijn , en rijden na stelen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2947.s.1	Daar zijn nog een daalder voor jouw waarschuwen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2957.s.1	Ik zijn wat drinken bij geval .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2957.s.2	mare zeggen niet die ik geklikt hebben , wan dan zij hebben ' er mede ik hond .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2963.s.1	Michel , ik willen die ' er altijd na die eerlijk sleper worden zenden .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.2966.s.1	Negentiende toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2972.s.1	Wel Lichthart , ik zijn verwonderd .	Emotion_Wonder
+lang020chph01_01.TEI.2.text.body.div.div.sp.2972.s.2	Staan uw zaak zode slechten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2977.s.1	zij kunne ik niet uiten ik huis halen , Papa : ik staan op ik burgerrecht .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2983.s.1	Och !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2983.s.3	ik zijn zode bedroefd .	Emotion_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.2983.s.4	Wat ongeluk aanzien wij te vrees !	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.2983.s.5	Ik twijfel niet of doen zaak zullen op doen beurs al ruchtbaar wees .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2983.s.6	En nu krijgen wij liggen al doen crediteur te gelijk op hebben lijf .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2987.s.1	Daar hebben jouw wel voor kunne wees , verkwistend en dartel wijf .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2991.s.1	hebben jouw ik in tijd waarschuwen , ik hebben ik graag wil modereeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2997.s.1	Praatjes !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2997.s.2	gei hebben ik ruineren mede u kostelijk huisraad en prachtig kleed .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2997.s.3	Door u salet , visite en contravisiten , bij doen rykste dame vinden doen Stad .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.2997.s.4	Puur of ik all ' doen gouden - en zilvermijn vinden Mexico en Peru in ik bezitten hebben .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3001.s.1	Michel , zien zijn doen chirurgijn blijven : ik nicht dienen noodzakelijk te worp gelaten .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3003.s.1	Michel binden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3014.s.1	Ik zij zode velen kunne zeggen ; mare ik zijn te ontstellen om te praten .	Fear_Emotion_Moved
+lang020chph01_01.TEI.2.text.body.div.div.sp.3014.s.2	alles ik uw all ' doen fout verwijten zij , die gei staan wij huwelijk hebben braden , Daar zijn ' geren einde ' aan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3014.s.3	plegen gei niet al avond mede Losbol in doen munten of in het heerenlogement te gaan ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3018.s.1	gei en nicht Zoetje zijn in staan een koningsgoed te verkwisten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3022.s.1	gei niet minderen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3026.s.1	wijf , maken ik bloeden niet verder aan het gissen .	BodyPart_BodilyProcess_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.3036.s.1	Hoe dikwijls komen jouw zijn morgen drinken thuis !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3036.s.2	wij weten wat gelden gei hebben verteren , alles jouw doen geheel nacht hebben optrekken , gezoopen , en gekwinkeleerd ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3036.s.3	gei weten niet een hoe u zaak staan ; die hebje allee op Joris laten aankoomen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3042.s.1	wijf , alles jouw niet zwijgen , zullen jouw vinden de duivel droom .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3046.s.1	Zacht wat , kind !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3046.s.2	zacht wat , spreken elkander mede fatsoen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3050.s.1	houden jij ' er jouw buit , Vader ; jouw hebben ' er niet mede al met te doel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3063.s.1	Hoe velen zakjes gelden hebben jouw ik niet wel afgetroond om onnodig ding te kopen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3063.s.2	worden wij huis niet al dag vinden drempelmeiden , naaister , frans kramer en smous aflopen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3063.s.3	Dan hebben jouw uitdraagsters , dan porceleinwyven mede allerlei kostelijk en vreemd goed .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3069.s.1	durven jij geren honderd gulden besteden , alles jouw een nieuw pruik aanzien moeten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3069.s.2	hebben jouw niet een ' Atlas vinden drie duizend gulden kopen , die jouw nog moeten betalen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3069.s.3	hebben jouw geren Telescopen , Microscopen , en een Camera obscura laten halen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3074.s.1	Die hebben ik ook : die zijn een teken die wij liefhebber vinden kunst en wetenschap zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3074.s.2	wie studeren in doen natuurkunde .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3078.s.1	Ja , in doen natuurkunde vinden champagne en rinsse wijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3082.s.1	wie zijn dikwijls heel uur bezig om te draaien , en glas te slijpen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3096.s.1	Ja , in de kelder vinden de Wynkoper , die kunnen ik begrijpen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3096.s.2	Of ander brui jouw mare aan doen zwier , na doen hofstede , en hier en daar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3096.s.3	Hoe velen okshoofd wijn zuipen jouw wel uiten in een Jaar ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3104.s.1	jouw rekenen doen gans consumptie , denken ik , vinden het huishouden en het trakteren vinden doen vriend .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3104.s.2	alles jouw daar nieuwsgierig naar zijn , dan kunnen jouw zij in doen Wynkopers rekening vinden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3104.s.3	mare hebben zullen niet half zode velen wees , alles gei mede u banket , confituur en snoeperij verteren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3104.s.4	wan gei hout gedurig salet , zode dikwijls alles jij het begeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3109.s.1	alles doen Kok en doen Bottelier kijven , zien ik zijn doen spys en drank zijn blijven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3109.s.2	houden een op mede die verwijten : hebben zullen te velen verwijdering geven .	EmotionalAction_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.3114.s.1	Ei , Nicht , zwijgen mare stillen , gelijk ik doen ; dan vergrijpen gei uw niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3121.s.1	ik lief Nicht !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3121.s.2	ik zullen ik zelf nog te korten doel vinden hartzeer en verdrieten .	Emotion_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.3121.s.3	Ik hebben vijftig duizend gulden te huwelijk hebben , en die zijn altemaal vervliegen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3125.s.1	En ik ook zode velen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3129.s.1	alles gei het wel aanleggen hebben , waard gei lieden vinden vermogen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3133.s.1	Ach , Papa !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3133.s.2	zwijgen stillen : wan elk woerd die jouw spreken , zijn een steken in ik harden .	BodilyProcess_Sadness_Remorse
+lang020chph01_01.TEI.2.text.body.div.div.sp.3137.s.1	hebben jouw doen historie volgen , die ik dikwijls verhalen hebben , dan wassen u buidel zode niet verwarren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3142.s.1	ons Zoetje schijnen ' er geren erg in te aanzien : zijde doen niet alles zwijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3146.s.1	wie zullen ook wel kijven ; mare wie kunne wij kapitaal daar door niet wederom krijgen .	EmotionalAction_Anger
+lang020chph01_01.TEI.2.text.body.div.div.sp.3151.s.1	Ik zwijgen wel ; doch ik denken niet te minderen : ik houden zeer velen vinden ik ' manna .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3151.s.2	Ook hebben ik zelf zode velen schuld , die ik hij niets verwijten willen nog kunnen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3159.s.1	schreien niet , ik lief Zoetje !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3159.s.2	al zullen wel te besteden komen , zode dra wie de raden vinden de Practisyn aanzien innemen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3159.s.3	die volk weten al , hoe verwarren , te ontwarren op een haar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3159.s.4	Ei , Lichthart en Kwistgoed , zwijgen , en kijven niet weder mede malkaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.3161.s.1	Twintigste toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3163.s.1	michel , dokter , apotheker , chirurgijn , hendrik , ernst , lichthart , losbol , kwistgoed , zoetje .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3169.s.1	Door zijn doen Dokter , doen Barbier en doen Apenteker .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3173.s.1	Wat zijn u begeren ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.3175.s.1	dokter .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3177.s.1	zijn zijn doen patient die ik hier moeten aderlaten en visiteren ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.3181.s.1	losbol , tegen Michel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3183.s.1	Wat doen hier zode velen volk ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3183.s.2	wie wacht niemand dan de Barbier .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3187.s.1	Om die stoe oltemool gelaten en geklisteerd moeten worp , brengen ik zij hier .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3192.s.1	zwijgen , lomp Gek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3192.s.2	Dokter , gei zijn door wij niet ontbooden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3192.s.3	die hebben doen mof uiten zichzelf braden : wie aanzien doen chirurgijn mare vinden nood .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3200.s.1	nemen dan niet kwalijk die ik het alles een visite op doen rekening stellen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3200.s.2	Ik zullen die schildwagt een aflossen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3200.s.3	Salus Patriae , vriend !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.stage.3197.s.1	hij zien een bokaal wijn , die hij aanvat en uitdrinken .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3202.s.1	doen Apotheker en Michel binden .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.3204.s.1	Een-en-twintigste toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3206.s.1	brandarius , rijmer , dokter , chirurgijn , hendrik , ernst , lichthart , losbol , kwistgoed , zoetje , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3212.s.1	u Dienaar , Brandarius !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3212.s.2	denken jouw avond in Maltha te wees ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.3214.s.1	brandarius .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3217.s.1	Ja , mijnheer ; daar zullen comparitie zijn : ik hebben daar enig crediteurs iets voor te lezen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3224.s.1	Ik moeten ' er ook komen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3224.s.2	zalf Procurator diverteer uw hier wat .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3224.s.3	jouw zullen hier goed wijn aantreffen : ik hebben ' er een klein proefje vinden hebben .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3226.s.1	doen Docter binden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3230.s.1	Die lusten ik velen lief alles u besteden poeijers en pil .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.3232.s.1	kwistgoed ,	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3236.s.1	laten wij mede de chirurgijn binden gaan ; doen man zullen mede malkaar allee spreken wil .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.stage.3234.s.1	tegen Zoetje .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.3238.s.1	Twee-en-twintigste toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3240.s.1	brandarius , rijmer , ernst , hendrik , lichthart , losbol , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3244.s.1	welk wijn verkiezen gei , Heer Procureur ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3248.s.1	Een roemertje rins wijn , mijnheer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3252.s.1	zien daar : proeven die een .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3257.s.1	u gezondheid , heer : die wijn zijn zacht en delicaat : ik willen strak wel een weer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3257.s.2	mare zeggen ik , wij vinden doen heer hebben ik op deze plaatsen ontbieden ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3265.s.1	mijnheer , wie aanzien u advies in een gewichtige zaak vinden nood .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3265.s.2	Adviseer hier rusten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3265.s.3	Een mijn goed vriend verzoek uw om raden , Hoe ik goed zijn ' buidel zullen redden : wan hij zijn buit staan Om hebben zelf te doel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3265.s.4	zijn zaak zijn wat in doen warren lopen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3273.s.1	Een buidel kunnen zode verwarren niet zijn , of hij zijn wel te ontknopen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3273.s.2	geven ik zijn ' staan een op : wat bezitten hij nog aan reeel kapitaal ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3273.s.3	Ik die zijn debet en krediet te weet tot een duit toen , altemaal .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3273.s.4	hebben hij balanssen gemaak , daar ik zien op zij durven betrouwen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3281.s.1	ik Boekhouder hebben sedert enig jaar ook zijn boek houwen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3281.s.2	Joris , u Heer en meest hebben ik nadrukkelijk zeggen die hebben zijn willen zijn die gei de Procureur grondig onderregt ; En die kunde gei doel , Joris ; wan gei weten en kennen al zijn ding .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3287.s.1	Procurator Brandarius Nazo , alles hij niet redden worden , zullen hij moet spring .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3287.s.2	Daar lopen een Wissel tot zijn ' lassen , die aanstonds betalen moeten worp , mijnheer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3287.s.3	hebben schorten hij aan contant .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3292.s.1	hebben zijn niet nodigen die ik daar op adviseer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3292.s.2	Dan moeten hij gelden negotieren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3298.s.1	Wel die kunnen hij niet krijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3298.s.2	ik kunnen immers geren wisselbrief betalen mede paardenvygen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3304.s.1	Hoe velen hebben hij vinden nood ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3304.s.2	alles hij twee suffisante borg hebben , hebben ik wel een vriend , die hebben voor twee per sent in een maand geven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3304.s.3	alles ik zijn ' buidel zullen redden , moeten ik zijn ' staan onderzoeken ; die moeten hij dulden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3315.s.1	Daar zijn omtrent honderd twintig duizend gulden aan effect , en honderd duizend aan schuld .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3315.s.2	zode die ' er twintig duizend gulden over kunnen schieten , alles al redderen worden , na ik gissen : Mits die ik de inboedel , porselein , zilveren , gouden , juweel en all ' wat ' er zijn , Mitsgaders doen koopmanschap en effect moeten verkopen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3315.s.3	Daar zijn velen hoorn en schelp onder , die tot hoog prijzen kunne lopen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3320.s.1	hij moeten ik zijn boek aan huis zenden , en houwen zien wat om een hoek ; wan ik hebben enig tij nodigen die ik zijn rekening onderzoeken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3324.s.1	die behoeven niet : ik hebben zij wel onderzoeken ; daar kunnen ik niet in dwaalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3334.s.1	Ja , mare uiten doen een pos zijn wat meer , en uiten doen ander wat minderen voordeel te halen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3334.s.2	die verschillen somtijds doen helft : sommige ding kunnen ik verduisteren en ander niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3334.s.3	ik dienen te minst te maken die ' er tachtig per sent overschieten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3334.s.4	En alles die gelukken , zullen hij zien meesterlijk voor al gevolg kunne dekken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3338.s.1	Dan zullen doen crediteur te minst veertig per sent vinden zij kapitaal trek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3348.s.1	Neen , ik wild aanzien die ' er heimelijk zode velen voor de Faliet worden sparen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3348.s.2	ander wassen hebben doen pijn niet waardig die hij zien bankroet hebben verklaren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3353.s.1	die zijn velen te velen : ik zij hebben gans ander verkiezen ; En alles ik crediteur wassen , zij ik niet graag zode velen op een reizen wil verlies .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3358.s.1	Wel , posito , gei waard een Faliet , zij jouw dan zode velen uiten de buidel niet halen alles jouw kennen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3363.s.1	Wat ik doel zij , weten ik niet ; mare ik weten wel alles ik die beginnen die ik geren gerust conscientie zij aanzien vinden al ik leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3368.s.1	Wel hoe velen zijn ' er wel die nog minderen dan teen per sent aanzien geven ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3368.s.2	Dan dicteert u conscientie gans ander .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3375.s.1	Ja , gans ander dan die vinden een ' Practisyn en een ' Faliet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3375.s.2	willen jij een conscientie bij een ' Practisyn zoeken ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3375.s.3	die aanzien zij niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3375.s.4	Die moet zij niet aanzien ; wan dan zullen zij zij meester niet kunne bevoordelen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3387.s.1	Neen , zacht wat , oud Heer !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3387.s.2	zode moeten gei niet oordelen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3387.s.3	ons conscientie bestaan daar in , en die volgen wie altijd , die wie ons meester zoeken rijk te maken , door list en door vlijt .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3387.s.4	alles een Practisyn die niet doen , dan doen hij zonde .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3387.s.5	hij zijn immers aan zijn ' meest , en niet aan doen crediteur verbond .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3387.s.6	doen conscientie vinden een ' ander betreffen wij niet mede al .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3387.s.7	Elk zorgen in doen wereld voor zichzelf : die bevinden ik overal .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3387.s.8	mare die overslaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3387.s.9	zijn u meest trouwen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3391.s.1	Ja .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3395.s.1	zij ' er dan geren huwelijks voorwaarde wees ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3399.s.1	die weten ik niet : wan die aanzien zij ik nooit voorlezen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3404.s.1	deze moeten ik weten : wan die maken in doen directie een groots onderscheid .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3408.s.1	Neen , mijnheer , daar zijn geren huwelijks voorwaarde ; deze hebben ik vriend ik zeggen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3420.s.1	Daar zijn wel huwelijks voorwaarde pro forma gebruiken , en die ding Verstrekken dan tot bullebak , om doen crediteurs tot hebben tekenen vinden een akkoord te dwingen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3424.s.1	gaan die dan ook volgens doen conscientie vinden een ' Practisyn vinden eer ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3428.s.1	ik onderzoekt hebben niet nauw , ik stellen die op doen conscientie vinden de Faliet , mijnheer .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3435.s.1	alles ik Crediteur wassen , ik zij ik evenwel zode niet doek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3435.s.2	Ik zij hebben Origineel wil zieden , en of hebben echt wassen nauwkeurig onderzoeken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3440.s.1	alles ik zodanig buidel alles deze zijn , moeten redden , zij ik volgens ik gemoed , doen crediteur te vol betalen , naar doen verkoping vinden hebben goed .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3453.s.1	die voorstellen zijn eerlijk , zode u vriend daar toen zijn genegen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3453.s.2	Op deze wijze ' willen ik hij ook wel bedienen : laten hij hebben een overwegen : Al zijn hebben nu geren kostuum meer , ik geven uw gelijk .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3453.s.3	mare volgens u raden maken gei u ' meest arm , en doen mijn maken hij rijk .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3453.s.4	eerlijk of oneerlyk te zijn , schelen hij mogelijk tachentig duizend gunnen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3453.s.5	En komen ' er vinden zijn ' buidel minderen dan gei denken , dan blijven hij beladen mede schuld .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3460.s.1	Daar hebben ik geren zorgen voor ; in hebben alderminste niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3460.s.2	Ik hebben ik rekening ruimen nemen : mogelijk die ' er velen meer overschieten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3460.s.3	doen buidel zijn in doen warren : daar zijn geren contant om doen negotie voor te zet ; En te ander zijn ' er crediteur onder , die het bankroet kunne beletten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3464.s.1	Een accoordje , mijnheer ; een accoordje : die zijn doen besteden raden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3468.s.1	het zijn zijn : ik zullen ik ' vriend kennis geven hoe die ik ' er met staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3473.s.1	hebben gelden voor doen Wissel kunnen hij morgen voor twee per sent in doen maand krijgen , Op conditie alles zeggen zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3481.s.1	Neen ; daar zullen ik lief vinden zwijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3481.s.2	hebben zijn woeker , mijnheer : denken hebben zijn vier-en-twintig per sent in het Jaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3481.s.3	hij zullen dan lief wat koopmanschap belenen om zien te redden uiten hebben gevaar .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3481.s.4	doen interest zijn ook zode oog die hij het zien zij moet schamen voor zijn borg : En zode zijde suffisant waar , zullen zij hij hebben gelden lief zelf bezorgen .	Emotion_Shame
+lang020chph01_01.TEI.2.text.body.div.div.sp.3487.s.1	hebben zijn ik zaak gans niet : hebben raken allee ik ' vriend .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3487.s.2	hebben duren dikwijls mare een maand die ik ' er zien in verlegenheid vinden bedienen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3487.s.3	Wat besluit doen heer dan ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3493.s.1	zijde zullen ' er zien niet langen over bedenken , En uw bescheid laten weten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3497.s.1	gei moeten tot afscheid de Procureur een fris roemer schenk .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3502.s.1	Ik hebben niets te verzuimen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3506.s.1	nemen hebben niet kwalijk : wie wacht beletten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3510.s.1	Tot weerziens dan , Mynheeren : ik zijn op de wijn ook niet zetten .	None
+lang020chph01_01.TEI.2.text.body.div.div.head.3512.s.1	Drie-en-twintigste toneel .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3514.s.1	rijmer , ernst , hendrik , lichthart , losbol , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3531.s.1	Ik geloven die ' er evenwel goed procureur zijn , die niemand zullen doek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3535.s.1	Voorzeker , die zijn ' er wel te vinden , mare ik moeten ' er zeer nauwkeurig na zoeken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3540.s.1	Al genoeg hier vinden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3540.s.2	laten wij een gaan zieden of doen Vrouwtjes zien aanzien doel laten vinden de chirurgijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3540.s.3	En dan zullen wie verders hebben gezelschap inwagten onder hebben drinken vinden een glaasje wijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3542.s.1	rijmer , Lichthart en Losbol binden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3547.s.1	wie zullen volgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3547.s.2	Joris , ontdekken nu dadelyk doen gelukkig tijding die wie uiten Engeland aanzien krijgen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3547.s.3	zode zijde te redden zijn , zullen wie hebben doel door eerlyker weg .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3549.s.1	Einde vinden hebben Tweede bedrijf .	None
+lang020chph01_01.TEI.2.text.body.div.head.3553.s.1	Derde bedrijf .	None
+lang020chph01_01.TEI.2.text.body.div.stage.3556.s.1	lichthart , joris .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3562.s.1	zij doen Schouwburg nog niet uiten zijn , Joris ?	None
+lang020chph01_01.TEI.2.text.body.div.sp.3562.s.2	hebben zijn al meer alles acht uur .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3562.s.3	doen Klucht , die ' er spelen worden , zijn korten , zodat hebben niet langen kunnen duren , Of hebben gezelschap zullen verschijnen .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3578.s.1	Hoe , mijnheer !	None
+lang020chph01_01.TEI.2.text.body.div.sp.3578.s.2	denken gei ' er niet om die hebben afspreken zijn die zij altemaal zullen spel voor mom ?	None
+lang020chph01_01.TEI.2.text.body.div.sp.3578.s.3	zijde zullen verschijnen , zijn het zeggen , in maskerade kleed : En daarom zullen zijde mede doen koetzen eest na huis rijden , en vermomd hier wederkeren .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3590.s.1	die hebben gei dromen , Joris' : wan daar weten ik niet vinden .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3590.s.2	Of Kwistgoed moeten hebben zode beschikken aanzien , die wel wees kunnen .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3590.s.3	wie aanzien die te Berlyn zien ; en het staan helen vreemd en aardig .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3590.s.4	hebben wassen verrukkelijk , briljant en verwonderingswaardig , Nu begrijpen ik die zij wel een uur zullen wegblijven , na al schijn .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3590.s.5	mare Joris , zeggen een oprichten : zij hebben wel doen waarheid zijn die ons oud lieden gelden trekken aanzien uiten doen loterij vinden Londen ?	None
+lang020chph01_01.TEI.2.text.body.div.sp.3590.s.6	Ik hebben ' er iets vinden horen .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3594.s.1	Ja , zijde aanzien ik zelf , om doen wissel te laten accepteren , overal zenden .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3598.s.1	zijn hebben nog al wat vinden importantie , Joris ?	None
+lang020chph01_01.TEI.2.text.body.div.sp.3605.s.1	Ja ; gei moogt hebben wel weten , mijnheer ; wan die zijn ik belasten : mare zeggen hebben aan een ' ander nog niet weer .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3605.s.2	hebben bedragen aan hollands gelden over doen honderd en vijftig duizend gunnen .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3609.s.1	Ik spring op vinden vreugde ; dan raak wie uiten al ons schuld .	Joy_Emotion_EmotionalAction
+lang020chph01_01.TEI.2.text.body.div.sp.3613.s.1	die zij uw redden zullen mede zij gelden , daar twijfel ik niet aan .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3618.s.1	die zijn een tijding daar wel een traktement , alles deze , op mogen staan .	None
+lang020chph01_01.TEI.2.text.body.div.sp.3618.s.2	Losbol !	None
+lang020chph01_01.TEI.2.text.body.div.sp.3618.s.3	Kwistgoed !	None
+lang020chph01_01.TEI.2.text.body.div.sp.3618.s.4	Zoetje !	None
+lang020chph01_01.TEI.2.text.body.div.sp.3618.s.5	beliefje een hier te komen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3631.s.1	kwistgoed en zoetje , in Amazoons gewaad , losbol .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3631.s.2	alles een Scaramoes kleden , lichthart , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3635.s.1	Wat zijn ' er te doel ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3640.s.1	Ik hebben daar vinden ons - Joris een heerlijk tijding vernemen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3640.s.2	Honderd en vijftig duizend gunnen aanzien ons uw lieden trekken uiten doen loterij .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3645.s.1	Wel Joris !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3645.s.3	zijn het mogelijk ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3645.s.4	Vertelje het ook uiten schelmerij ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3645.s.5	zijn zullen zijde het gelden gekreegen aanzien om in te liggen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3649.s.1	Ik hebben wel weten die zijde nog een stuivertje hebben , die zij uw niet aanzien wil zeggen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3653.s.1	Ik wensen uw geluk , Lichthart .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3660.s.1	En ik uw ook , Losbol .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3660.s.2	die komen onverwacht .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3660.s.3	Nu zullen wie vinden hart vrolijk kunne wees deze nacht .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3660.s.4	aanzien zij al wat reden gelden ontvangen , Joris , die wie te eerst zullen kunne gebruik ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3666.s.1	vijftig duizend gunnen aan wissel : mare ik vrezen die gei er niet aan zullen ruiken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3670.s.1	vrezen jouw die ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3670.s.2	ik vrezen hebben niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3674.s.1	En waarom die , Juffrouw ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3680.s.1	Wel omdat hebben doen groot onredelykheid vinden doen wereld wees zij die zijde hun eigen kind niet in de node zullen byspringen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3680.s.2	zijde zijn immers grondig onderrichten hoe hebben staan mede ons ding .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3685.s.1	Ik kunnen daar niets vinden zeggen : zijde zullen het schikken na hunn ' zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3685.s.2	mare boedel te redden alles deze hebben al velen in .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3689.s.1	Ik wensen die zijde hier komen , ik beginnen al na doen uw lieden te verlangen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3695.s.1	zijde zijn na de Kassier , om elk twee honderd gouden rijder te ontvangen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3699.s.1	Die zullen zij wij mogelijk uiten blijdschap present doel .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.3709.s.1	Neen die zijn mist .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3709.s.2	Omdat ik weten die doen ontvangst vinden deze gouden om een ander rijden zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3709.s.3	Ook zullen zijde de spijt die gei heen aandoen hebben zode liggen niet kunne vergeten : gei hebben heen versmaden ; na het Oudenmannenhuis wil zenden ; en altijd achteraf laten eten : die rekenen zijde voor een groots affront ; en zijde aanzien gelijk .	Emotion_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.3709.s.4	Ik twijfel ' er aan of gei ' er wel iets vinden trek zullen , al waar zij nog eens zode rijk .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3716.s.1	Daar zijn ik niet om bekommeren : doen uw lieden zijn goed : zijde zullen wij niet verlaat .	Worry_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.3716.s.2	mare , Joris , zullen gij ondertussen vinden de Kassier geren dertig a veertig ducaaten Op vader rekening voor wij kunne leen : hij zullen uw die niet weigeren ; en wie moet deze nacht Wat speeldgeld aanzien .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3724.s.1	mare , mijnheer , die hebben doen Kassier immers niet in zijn macht .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3724.s.2	Ik bidden uw , vergen ik geren onredelijk ding : ik willen het geren gei begeren aan doen uw lieden wel voordraagen ....	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3724.s.3	mare mogelijk zijn zijde daar zelf : nu kunde gij het aanstonds vragen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.stage.3722.s.1	Hier worden schellen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3728.s.3	doen een openen .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3738.s.1	ernst , hendrik , losbol , alles een Scaramoes kleden , kwistgoed en zoetje , in Amazoons gewaad , lichthart , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.3740.s.1	Zodra Ernst en Hendrik binden treden , maken Losbol , Lichthart , Kwistgoed en Zoetje heen herhalen compliment om heen te ontvangen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3744.s.1	u onderdanigste Dienaar , Vader en Oom : wat zijn wie verheugd ....	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.3749.s.1	Welkom , Papaatje !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3749.s.2	geluk mede ....	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3753.s.1	Papa-lief , wij aanzien mede onuitsprekelijk vreugde ...	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.3757.s.1	wij feliciteren jouw mede doen blijde tijding ....	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3761.s.1	Belief-je niet te gaan zetten ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3761.s.3	geven een stoel .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3765.s.1	zullen Papa of Oom ook iets gebruik ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3769.s.1	Een glaasje Caapse wijn ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3774.s.1	Een colombyntje ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3782.s.1	Wat willen tocht al deze woelen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3782.s.2	het lijken hier wel kermis : zijn deze kwant uiten doen Troep vinden Magito ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3782.s.3	wie zijn niet gewoon zode ceremonieel ontvangen te worp : hoe komen die zode ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3788.s.1	Papa , wij moet uw ons blijdschap betuigen weg u geluk : Neef Losbol en doen vrouw hebben rijden zij danskleeren aan , torn het wij komen te oor .	Joy_Emotion_Happiness
+lang020chph01_01.TEI.2.text.body.div.div.sp.3788.s.2	Nu verlangen wie na uw thuiskomst om ons plicht bij uw af te liggen na behoren .	Emotion_Desire
+lang020chph01_01.TEI.2.text.body.div.div.sp.3793.s.1	Daar zullen wie strak vinden spreken : gei zijn nu tot dansen reden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3793.s.2	die gaan voor : mare zijn gei niet bang voor doen Dienders ?	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.3799.s.1	Och ja !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3799.s.2	zode bang die ik ' er vinden zweten Wanneer ik ' er mare aan denken .	Fear_Emotion_BodilyProcess
+lang020chph01_01.TEI.2.text.body.div.div.sp.3803.s.1	Daar zetten ' er twee op de stoep : passen op niet buit doen door te komen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3808.s.1	Ik zullen ' er wel voor zorg .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3808.s.2	mare , Papa , alles gei ik redden wild hebben ik niets meer te schromen .	Fear_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.3808.s.3	Ei , zenden Joris na rijkaard , en laten hij zeggen die gei hij morgen betalen zullen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3812.s.1	zullen wie u ' Wissel betalen !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3812.s.2	gans niet : voldoen u ' eigen schuld .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3817.s.1	Wel , Papa , jouw zijn immers nu rijk genoeg : hoe kennen jouw zode wonderlijk wees ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3817.s.2	gei zullen wij nu niet verlaat : gei hebben wij wel meer helpen voordeezen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3821.s.1	Daar hebben ik berouw genoeg vinden hebben : daar hebben jouw ik slechten genoeg voor belonen .	Emotion_Remorse
+lang020chph01_01.TEI.2.text.body.div.div.sp.3825.s.1	Ei , helpen ik nog eens uiten de node : ik bidden uw die gei ik die gul betonen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.speaker.3828.s.1	losbol , tegen Hendrik .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3830.s.1	Papaatje , betalen morgen ik ' Harddraver mare , dan zullen gei ik verblyen .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.3835.s.1	In hoe kort tij zij jouw daar wel mede na Vianen kunne rij ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3840.s.1	die weten ik niet , Papa .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3845.s.1	Wel , propeer hebben een mede hebben opengaan vinden doen poort .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3845.s.2	Eer jouw in arrest raken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3849.s.1	Wel , Papa , hoe zijn jouw zode verstoren ?	Emotion_Annoyance
+lang020chph01_01.TEI.2.text.body.div.div.stage.3851.s.1	Gedurende deze gesprek worp doen piramide mede banket en confituur door doen banketbakkers knecht en ander over hebben toneel dragen en op een tafel , die in een ' hoek staan , zetten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3857.s.1	ik kunnen hier in vrijheid niet spreken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3857.s.2	Hoe zwerven hier zoveel hans ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3861.s.1	zijde kunne wij niet verstaan , Papa : het zijn meest mof en frans	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3865.s.1	Wel daar zijn ' er met wel onder die wij zullen kunne verstaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3869.s.1	geren node : zijde aanzien hebben te druk om doen tafel te schikken en heen en weer te gaan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3877.s.1	Nu , kind , gei hebben hebben thans zode volhandig die wij uw niet lang tot overlasten wil strekken : wie bedanken uw voor al blijk vinden tederheid , en zijn resolveren uiten deze huis te vertrek .	Emotion_Love
+lang020chph01_01.TEI.2.text.body.div.div.sp.3877.s.2	wie kunne nu ordentelijk leven vinden ons inkomst ; en daardoor zijn gei vinden doen zorgen bevrijden Om wij in het Oudenmannenhuis te plaats : vaarwel !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3877.s.3	leven altoos even vrolijk en verblijd .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.3887.s.1	Hoe , Papa !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3887.s.2	zullen gij wij nu verlaat , en wij te prooi stillen aan ons crediteur ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3887.s.3	die zij te ongevoelig wees : ik vleien ik die zulks niet zullen gebeuren .	Emotion_Other
+lang020chph01_01.TEI.2.text.body.div.div.sp.3887.s.4	ik bekennen die wij uw en Oom juist altoos niet na behoren aanzien handelen , tot u smarten : mare gei moeten hebben meer toeschrijven aan ons zorgeloos levenswijze en aard , dan aan doen kwaad gevoelen vinden wij harden .	Emotion_Hatred_BodyPart_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.sp.3887.s.5	wie zieden thans die deze vinden geren duur kunnen wees , en die , zode wij uw helpen ontberen , ons zaak niet redden kunne worp : derhalve moet wij wij tot uw goedheid karn .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3892.s.1	Wel , Papa , zullen gei ik ook in verlegenheid laten , daar gei nu zode rijkelijk vinden gelden zijn voorzien ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3892.s.2	die kunnen ik niet denken : gei zullen al het vorig wel vergeten , en wij fatsoen bewaren .	Honor_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.3900.s.1	gei al hebben hebben ' er weinig na maken : wie zullen misschien Wel meedoogen mede uw aanzien , zode wie niet vrezen die gei mede u vorig manier vinden leven zullen voortvaren , zode ras wij uw weer een ruim kast hebben geven .	Fear_Emotion_Compassion
+lang020chph01_01.TEI.2.text.body.div.div.sp.3900.s.2	Zodat wie denken die hebben goed zijn die wij wij gelden op lijfrente zet , dan kunne wie rijkelijk bestaan , En uw zelf wat mededelen , wanneer gij al zullen verteren aanzien , het geren niet langen zullen duren ...	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3907.s.2	Vader , wij hebben uw die geraden ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3907.s.3	u gelden op lijfrente zet !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3907.s.4	zullen gei dus u kapitaal vermindren ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3907.s.5	gei kunde schielijk sterven : en wat zij die een schade wees voor u kind !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3911.s.1	het kennen zijn die ik veranderde vinden besluiten : ik liggen iets op het harden ; misschien zullen ik nog wel een trouw .	BodyPart_BodilyProcess
+lang020chph01_01.TEI.2.text.body.div.div.sp.3916.s.1	wie hoop , Papa , die gij uw vinden zulk gedachte zullen onthouden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3916.s.2	gei zijn immers rijden te oud : hoe komen uw die in de zijn ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3922.s.1	Te oud !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3922.s.2	wel ik zijn nog mare vyf-en-zestig jaar , wat meer of minnen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3922.s.4	hebben zijn zulk een zoet lief Meisje .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3922.s.5	zijde spelen ik gestadig in doen gedachte .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3922.s.6	zij zijn nog geren twintig jaar oud : wat hebben ik nog zoet kind vinden zij te verwachten !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3926.s.1	Wel , noemen hebben Juffertje een .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3930.s.1	Annaatje , doen Schoenmaakers dochter , zijn jouw die bekennen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3938.s.1	Vader , alles jouw die beginnen verk laaren wij jouw voor innocent .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3944.s.1	Wel , een Vader zij niet mogen trouw of hij zij hebben zijn ' zode moet vragen !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3944.s.2	hebben zijn noodzakelijk voor ik ; wan dan worden ik nog dienen in ik oud dag .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3949.s.1	allerliefst Papaatje , wij zullen jouw dienst zode langen alles jouw leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3953.s.1	Ja , daar hebben ik doen proeven vinden hebben .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3957.s.1	Ik bidden jouw die jouw het wij vergeven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3961.s.1	Nu , Papa , wat zijn u voornemen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3961.s.2	hoe zullen gei mede wij handelen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3966.s.1	Ik menen ik gelden te bewaren , Sober te leven , en in ik testament u kind tot ik erfgenaam te verklaren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3970.s.1	En zullen wie vinden het kapitaal niemendal aanzien , die zijn zeker te hard .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3980.s.1	Dan zij jouw weer jouw uw gang gaan , en dan raken doen boedel nog meer verwarren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3980.s.2	gei zijn nog in staan om verscheiden kind te verwekken ; En naar ik dood kunde gei doen vrucht vinden ik nalatenschap trek .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3980.s.3	zijn zij sober , behelpje dan mede een potje papje op jouw schieten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3984.s.1	Neen , Papa , jouw zullen zode onbarmhartig niet wees : jouw goedheid zijn te groots .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3990.s.1	zijn het zijn , smeerschoen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.3996.s.1	alles jouw niet gezind zijn om wij te helpen zullen ik Brandarius ik zaak in hand moet geven : Die zullen ' er wel zoveel uithalen die wie ' er buit doen Stad vinden kunne leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4001.s.1	Daar zullen wij voor wees .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4001.s.2	sla u hand aan geren goed .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4001.s.3	wie zijn jouw Crediteurs , die wel weten hoe ik die behandelen moeten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4006.s.1	Mynheeren , dewijl gei nu in staan zijn om het fatsoen vinden uw kind te bewaren , dunken ik die hebben goed waar heen te helpen , en al het voorleden gunstig uiten u gedachte te laten varen .	Honor_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.4010.s.1	Wel nu , Joris , zode wie daartoe overgaan , wat zij ' er dan braden moet worp : ik verzoek die gei het zeggen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4027.s.1	doen heer dienen doen boedel over te nemen , en alles ik het dan wel overleggen , zullen ' er nog wel een zoet kapitaaltje overschot , schonen doen zaak zeer zijn verlopen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4027.s.2	Voor eest zullen ik in doen Keizerskroon al doen overtollig kostelijk meubel moet verkopen , En ook doen boek en liefhebberij , die doen heer bij elkander aanzien vergaren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4027.s.3	Ik hebben ' er aantekening vinden houwen : zijde zijn duizend woerd .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4027.s.4	vinden doen porcelynkassen hebben ik geren kennis , wan die aanzien doen juffrouw vinden tij tot tij vullen : daar zijn met al wat voor uitgeven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4027.s.5	En het voornaam zullen dan nog wees , in het vervolgen een ander manier vinden leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4031.s.1	die wil wij gaarne belooven , worp wij nu mare redden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4036.s.1	Broeder , zeggen mare het geren wie aanzien resolveren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4036.s.2	doen tij verlopen mare .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4042.s.1	Welaan , kind , zijn gei te vrede mede hebben geren Joris hebben geproponeerd ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4042.s.2	wild gij wij al overgeven , tot reddering vinden u zaak ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4042.s.3	Dan zullen wij voor uw zorg en ons verder mening uw bekennen maken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4046.s.1	zij ik ik porselein niet behoudens ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4051.s.1	die weten ik niet .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4051.s.2	wie zullen eest al taxeren , en zieden wat ' er overschieten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4055.s.1	Wat dunken uw , Losbol ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4059.s.1	Wat dunken uw , wijfje ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4059.s.2	zijn t ' niet billijk die wij resolveren ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4063.s.1	Ja , tocht .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4067.s.1	laten doen uw lieden hebben schikken zode alles zijde hebben begeren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4082.s.1	kind , stellen uw dan rusten : wie aanzien wij beraden tot behouden vinden wij en u fatsoen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4082.s.2	wie zullen wij gelden in doen negotie aanleggen , en mede uw in kampanje doel , Die dan zullen moet gaan op doen nemen vinden Ernst , Hendrik en zoon .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4082.s.3	deze huis zijn groots genoeg .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4082.s.4	wie kunne bij elkander wonen , En zullen al crediteur betalen tot een duit : mare dan zullen gei na ons zijn moet leven , of hebben huis uiten ; En dan zij jouw ongelukkig worp , en elders doen kosten moet zoeken .	Emotion_Unhappiness
+lang020chph01_01.TEI.2.text.body.div.div.sp.4082.s.5	wie zullen onder doen hand al doen liefhebberij vinden porselein , rariteit en boek Door de tij verkopen , mede doen jachten , hofstede , rijtuig en paard vinden doen stelen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4086.s.1	hebben danken , Papa , ik beloofje mede vlijt ....	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4090.s.1	En ik ook die ik oppassen zullen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4094.s.1	mare doen wissel vinden rijkaard , die ik gevangene hout , daarop dienen gij een te denken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4098.s.1	Die aanzien wij al betalen : daar moeten gei u hersenen niet meer met krenken .	Worry_BodyPart_BodilyProcess
+lang020chph01_01.TEI.2.text.body.div.div.sp.4106.s.1	Ach Vader ik bedanken uw te hoogst : daar vallen een pakken vinden ik harden .	BodyPart_BodilyProcess_Relief
+lang020chph01_01.TEI.2.text.body.div.div.sp.4106.s.2	Ik kunnen uw niet zeggen hoe ik die verbruien wissel hebben benard .	HeavyHeartedness_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.4106.s.3	ik zullen op hebben kantoor vlijtig oppassen , en al kwaad gezelschap verlaat .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4111.s.1	verkopen ik ' harddraver ook mare .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4118.s.1	Daar behoefje niet vinden te praten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4118.s.2	doen Heer , vinden wieden hij kopen zijn , hebben hij al zonder rouwkoop wederom halen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4118.s.3	wezen dan schikken , en dragen zorgen die gei vinden het spoor nooit weer dwaalt .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4122.s.1	wie aanzien groot rijden om Oom en Vader te bedanken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4128.s.1	wie zullen nauwkeurig achten op uw slaan : die niet oppast zullen in huis niet langen bank mare wie hoop die wie in genoegen mede elkander zullen leven .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4132.s.1	Papa , gei zullen niet te klagen aanzien over wij gedrag .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4142.s.1	dewijl ik gaarne u geheel huisgezin gelukkig zien .	Emotion_Happiness
+lang020chph01_01.TEI.2.text.body.div.div.sp.4142.s.2	En doen liefde vinden Sybrand voor zijn ' patroon Dochter hebben kunne bemerken , hebben ik , omdat ik hij gaarne mogen lijden , een huwelijk voor hij trachten te bewerken .	Emotion_Love
+lang020chph01_01.TEI.2.text.body.div.div.sp.4142.s.3	Ik zijn hebben ook rijden mede rijkaard een : ik zullen aan ik ' Kleinzoon te huwelijk geven zode velen alles Rykje krijgen vinden hij .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4142.s.4	Lichthart en Kwistgoed , u zode zijn minderjarig : dierhalve zullen gij u stemmen Tot die trouwen dienst te geven , indien zij uw kunnen behagen .	Emotion_Benevolence
+lang020chph01_01.TEI.2.text.body.div.div.sp.4147.s.1	Papa , wie staan verwonderd over u goedheid : tot zulk een goed zaak behoeven gij ons stemmen niet te vragen .	Emotion_Wonder
+lang020chph01_01.TEI.2.text.body.div.div.sp.4154.s.1	wij zij die niet toestemmen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4154.s.2	wan ik zode zijn ' er met bewaren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4154.s.3	Rykje zijn wel opvoeden , schonen , rijk , en vinden een ' zachtzinnigen aard ; Drie deugd , die ieder op zichzelf een ' Jongeling moet bekoren .	Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.4163.s.1	Ik verwachten hij straks mede zijn lief hier : Heer rijkaard hebben ik ook beloofd met te komen , om het uitsluitsel te horen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4163.s.2	En dewijl nu al schikken zijn , en doen kost maken zijn tot hebben gastmaal en bol , wil wie niet die hebben gezelschap vinden juffer en heer uw bespotten zullen : laten hebben de geheel nacht doorstaan mede dansen en banketteeren ; mare denken die hebben doen laatst malen zullen wees die wij uw zulk verkwisting zullen permitteren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4169.s.1	Ach !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4169.s.2	wie omhelzen uw : wan gei hebben wij fatsoen bewaren , en al ons smarten verzoeten .	Emotion_EmotionalAction_Love_Sadness
+lang020chph01_01.TEI.2.text.body.div.div.stage.4171.s.1	Kwistgoed en Zoetje omhelzen Ernst en Hendrik .	EmotionalAction_Love
+lang020chph01_01.TEI.2.text.body.div.div.sp.4175.s.1	Zacht , daar komen Heer rijkaard ....	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.4180.s.1	rijkaard , sybrand , rykje , ernst , hendrik , losbol , lichthart , kwistgoed , zoetje , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4184.s.1	het zijn ik lief die ik doen heer en juffrouw in zulk goed dispositien ontmoeten .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.4189.s.1	mijnheer , wie aanzien al rijden vinden vergenoeging vinden ons vader ontvangen .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.4189.s.2	En zode ik zode aan uw en aan Mejuffrouw u Dochter niet onaangenaam zijn , ontbreken ' er niets aan het geren wie verlangen .	Emotion_Desire
+lang020chph01_01.TEI.2.text.body.div.div.sp.4193.s.1	Heer rijkaard , ik hebben , volgens afspraak , doen zaak aan doen ouder vinden Sybrand voordragen , die het huwelijk mede genoegen zullen zieden .	Joy_Emotion_Benevolence
+lang020chph01_01.TEI.2.text.body.div.div.sp.4197.s.1	stem Vader en moer in ik geluk ?	Emotion_Happiness
+lang020chph01_01.TEI.2.text.body.div.div.sp.4197.s.2	dan kunnen ik ik harden en ik hand aan ik lief Rykje bieden .	EmotionalAction_BodyPart_Love
+lang020chph01_01.TEI.2.text.body.div.div.sp.4201.s.1	leven gelukkig samen , kind : ik stemmen mede vreugde in u ' echt .	Joy_Emotion_Happiness
+lang020chph01_01.TEI.2.text.body.div.div.sp.4206.s.1	Wat zijn ik te vrede , zoet Juffer , die gij uw hebben laten belezen door ik ' zoon genegenheid .	Emotion_Happiness
+lang020chph01_01.TEI.2.text.body.div.div.sp.4210.s.1	Ik hopen , Mejuffrouw , die ik ik u liefde waardig zullen maken .	Emotion_Love
+lang020chph01_01.TEI.2.text.body.div.div.sp.4214.s.1	Geluk , Neefje !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4214.s.2	geluk , aanstaande Nicht !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4219.s.1	Ik wensen uw met velen zege .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4224.s.1	wie zijn Oom en Tante zeer verplichten .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4224.s.2	Liefje , daar zullen ik uw een kusje op geven , alles ik aanstaande Bruid .	EmotionalAction_Love
+lang020chph01_01.TEI.2.text.body.div.div.sp.4229.s.1	wij zullen overmorgen al laten beschrijven Door de Notaris Scrib Scrap ...	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4229.s.2	mare wat zijn die ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4229.s.3	Ik horen daar geren kleintje razen en kijven .	EmotionalAction_Anger
+lang020chph01_01.TEI.2.text.body.div.div.stage.4233.s.1	michel , zoetekauw , ernst , hendrik , rijkaard , lichthart , losbol , kwistgoed , zoetje , rykje , sybrand , joris .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4240.s.1	doen Rekkel , daar doen zijn !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4240.s.2	sol stoe mich smieten ond sloon ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4240.s.3	Ich wol doen met ik knok zode veel geven , die stoe op kruk zoest mot goon .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4246.s.1	Daar , Spekmof !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4246.s.2	daar Burgemeester uiten Westfaalen !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4246.s.3	willen jouw al ik suikeren beeldjes , die jouw breken hebben , wel betalen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4250.s.1	houden op !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4250.s.2	houden op !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4250.s.3	hoe maken jouw zulk een schrikkelijk wellen ?	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4254.s.1	de hondsvot , de grasduvel sprekket mich oon om gelden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4264.s.1	Mynheeren , die dronke Mof zijn mede Elsje geraken aan het mal .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4264.s.2	hij gooien doen Meid op doen tafel ; en torn zijn doen heel toorn vinden Babel aan stuk geval .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4264.s.3	doen Oostindische schip zijn barsten ; Venus en Neptunus zijn arm en been kwijt , En doen haringpakkers toorn zijn ook beschadigen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4264.s.4	denken jouw niet die hebben ik spijt ?	Emotion_Dissapointment
+lang020chph01_01.TEI.2.text.body.div.div.sp.4268.s.1	die wij stoeien aanzien , Rekkel !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4268.s.2	die sol stoe mot liegen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4272.s.1	jouw zullen ik honderd daalders betalen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4277.s.1	Joo !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4277.s.2	honderd poordeviegen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4277.s.3	Menherren , hebben stoe vinden zulk ding ooit geheurd	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4281.s.1	doen fraai vijver zijn bederven , en daar liggen verscheiden lichter zinken en scheuren .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4286.s.1	Al jouw gesuikerd poppenwerk , die beschadigen zijn , moeten jouw weer maken .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4286.s.2	wie wil jouw schade niet : gaa heen en doen jouw zaak .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4291.s.1	Ik horen al koets voor doen door .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4291.s.2	vriend , hebben gezelschap komen aan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4291.s.3	passen op , Michel !	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4291.s.4	lopen heen om aan doen door te staan .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4296.s.1	Heer rijkaard , hier wassen al tot een bol bereiden , weg Lichtharts verjaring ; en dewijl al zijn schikken tot elk genoegen , aanzien wie het niet wil beletten : het kunnen mede een strekken tot viering vinden het sluiten huwelijk ; mare naar deze zullen ieder zien tot een geschikt levenswijze vroeg .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4302.s.1	Een behoorlijk omgang , mede goed vriend vinden gelijk staan zijn altoos goed : Mits die ik zien daar niet aan verslaven , en zijn ' tij en gelden onnodig verkwiste , het geren een Koopman vooral zorgvuldig mijden moeten .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.4306.s.1	ernst , hendrik , rijkaard , lichthart , losbol , kwistgoed , zoetje , rykje , sybrand , joris , rijmer .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.4308.s.1	Gezelschap vinden heer en dame , op verscheiden manier verkleden .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4314.s.1	Heer Lichthart , ik hebben , volgens u verzoek , u plaatsen waarnemen .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4314.s.2	En all ' d'honneurs braden : hier zien gij wij nu tot vreugde bereiden , te rug komen .	Joy_Emotion
+lang020chph01_01.TEI.2.text.body.div.div.sp.4314.s.3	wie verlangen na het dansen .	Emotion_Desire
+lang020chph01_01.TEI.2.text.body.div.div.sp.4314.s.4	Allons , Tractant , openen nu hebben bol .	None
+lang020chph01_01.TEI.2.text.body.div.div.sp.4319.s.1	doen vriend doel ik velen eer en plaisier ; ieder hebben mare te eis wat hij begeren : ik hopen die hebben Gezelschap zien wel diverteren zullen .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.4321.s.1	doen schutscherm worden ophalen , waardoor ik in een ' zadel zien , die geillumineerd zijn .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.4321.s.2	Lichthart en Zoetje open hebben bol , waarna door het geheel Gezelschap worden gedanst .	None
+lang020chph01_01.TEI.2.text.body.div.div.stage.4323.s.1	einde vinden hebben derde en laatst bedrijf .	None

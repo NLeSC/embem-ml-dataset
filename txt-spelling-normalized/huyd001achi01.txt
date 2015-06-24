@@ -1,0 +1,1117 @@
+huyd001achi01_01.TEI.2.text.body.div.head.900.s.1	Achilles , treurspel .	None
+huyd001achi01_01.TEI.2.text.body.div.head.900.s.2	eerst bedrijf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.head.902.s.1	eerst toneel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.904.s.1	Achilles , feniks .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.906.s.1	feniks	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.923.s.1	Wat zorg zijn het , ik Heer , die uw ziel ontstellen ?	Worry_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.923.s.2	Wat nieuw ramp , die uw zonder einde dus kwellen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.923.s.3	doen naar duisternis de nacht zijn nog niet gans verdwijnen , door doen komst en aangenaamen glans vinden het lief morgenlicht : doen griek en Trojaanen , vinden gisteren nog vermoeid , staan onder hun vaan nog niet scharen te strijd : en gei , gei hebben alreeds doen plaatsen vinden uw rusten , doen vryplaats uw leeds , verlaat , om alhier in eenzaamheid te zucht , schonen Troje vinden u arm geren ramp meer hebben te duchten .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.925.s.1	achilles	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.929.s.1	zijn ik Patroclus nog niet weergekeerd ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.934.s.1	nul neen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.1	Helaas !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.2	ik veel ik ' ziel vinden een vrezen bestreen , Die ik nooit hebben kennen in het fel vinden hebben strijd .	Fear_Emotion_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.3	Rechtvaarde gramschap , wat doen gei ik ' ziel niet leiden !	Emotion_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.4	zijn toeven gei , waard vriend ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.5	ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.6	worden gei ik ontroven , zode missen ik al ik ' vreugde .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.7	hebben gei ik niet beloofd , zode ras doen staan uw vinden hebben leger zijn blijken , Hier weder te karn ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.8	en gei blijven !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.9	zijn deze een tekenen , die mijn bede uw iets te hart gaan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.10	belonen gij Achilles dus , die uw zode zuiver een ' vriendschap tonen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.11	Een ' vriendschap , door geren tij , nog nijd , nog twisten te breken !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.12	mare feniks , horen gei vinden gisteren ook iets spreken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.13	doen woende Hector , mede doen bloem de Troische macht , belegeren wij thans zelf , zijn over ons gracht En schanssen heen rukken ; doen muur liggen neerslaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.14	deze zijn hebben , die wie zelf vinden ons schip zien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.15	ik hebben een de held vinden wij leger , ik weten niet wieden , kwetsen , en dodelijk , zode het scheiden , treffen , zieden wegdragen na zijn ' tent .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.16	Ik zuchten om zijn wond , En hebben Patroclus , om te zieden wij het zijde , zenden na het slagveld , roken vinden het grieks en Troische bloeden .	BodilyProcess_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.17	ik verwachten hij straks weder .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.971.s.18	Nu zuchten ik bang gemoed , En vrezen , of hij , misschien geraken in zijn vijand hand , Die boodschap mede zijn bloeden betalen hebben .	Fear_Emotion_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.990.s.1	zuchten gij , o schande , Alleenig om het gevaar vinden een vriend , een manna , Die zelf , na al schijn , nog levend zijn ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.990.s.2	en kunnen u ogen doen nederlaag vinden het gans heir aanschouwen , En blijven onvermurwd ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.990.s.3	Hoe zullen hebben uw berouwen , die gei , die Troje allee kosten winden door u zwaarte , hebben zelf in tegendeel allee behoud en sparen ; alles het droevig griek uw , die het eertijds plegen te rome , de eengen oorsprong vinden zijn ondergang zullen noemen ; uw vloek , om doen dood vinden menig dappren Held , die Hector , moedig door u afzijn , hebben vellen !	Emotion_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.1	ik verdienen , ik bekennen hebben , deze verwijten ; ja nog slim .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.2	mare ik hebben hebben Godendom gezworen , die ik nimmer weder tegen Hector , en zijn volk , te strijd zij gaan , zode langen zijde hun klauwen niet aan ik ' schip slaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.3	ik ' hand , wel eer zode graag na zijn vijand bloeden te storten , vrezen thans hebben leven vinden een Trojer te verkorten , sinds Agamemnon , die ontaarde en trots , ik zode wreed mishandelen , en zode fel gezond hebben .	Fear_Emotion_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.4	gei , gei zelf hebben zien , hoe hij ik , o smaad , o schande !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.5	Brizeis mede wellen rukken hebben uiten doen hand , mede week bits reden hij ik , in de vol raden , onteren hebben en gezond , alles zijn ik een soldaat , Die Griekenland nooit dienst braden hebben , onder het strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.6	nul neen , Achilles ziel kunnen zulk een honen niet leiden , En trachten na geren ' wraken .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.7	het zijn ik doen groot vreugde , Die ik te wacht hebben naar zode veel ongeneugt , die ik doen griek op hebben moordveld zien verslagen , En Agamemnon zelf zijn noodlot horen beklagen .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1031.s.8	Ik zijn hebben niet , hij zijn het , die griek brengen te vallen , Op wieden wij Vaderland zijn onheil wreken zullen .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.1	wild gei de roemen niet nog bevlekken uw daad , zode laten uw , het zijn nog tij , laten uw in het einde nog raden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.2	het zijn elk genoeg bekennen , hoe hij uw hebben gezond .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.3	doen groot nederlaag vinden het grieks leger tonen Elk klaar , die Peleus zode vinden hij zijn afvallen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.4	wie zieden die wreed rijden vloeken , gehaat vinden al .	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.5	ik geven doen schuld aan hij , en ieder spreken uw vrijen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.6	ik zuchten , ik wensen na uw , en haten zijn ' dwingelandij .	Emotion_Hatred_BodilyProcess_Desire_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.7	wild gij uw dan vinden hebben volk volkomen doel beminnen , zode moeten gij , o braaf Held , voor eest uw zelf verwinnen , u toren vergeten , en doen griek door u ' macht Herstellen , die door hij te slachtbank zijn brengen .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1057.s.8	mede welk een lustre zultge u naam niet doel herleeven , Wat eer , wat glorie zullen doen nazaat uw niet geven , alles gei u ' gramschap hebben verwinnen , de Trojaan , Thans zegepralen , uiten hebben oorlogsveld zullen slaan , En drijven in doen Stad , en het grieks heir te lest Verwinnaar maken vinden doen vijandelijk vasten !	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1064.s.1	Neen , rand doen vijand ik in mijn tent niet aan , ik zweren nog , die ik ik ' hand niet weder aan het zwaarte zullen slaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.1	doen zeventiende dagge rijzen thans mede nieuw straal , sinds ik uw het laatst het zwaarte zien uiten doen schede halen , torn gei reden staan , om doen smetten vinden zulk een honen Te zuiver in het bloeden vinden Atreus oudsten zode .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.2	En mogelijk zijn het geschieden , waard gei niet weerhouden Door d'ongeveinsden raden en reden vinden de oude En wijze Nestor .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.3	Hoe gelukkig zijn die manna , Die torn meer winnen , alles ik , naar zode velen dag , kunnen verkrijgen op u harden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.4	zien ook ik ' grijs haar ; herroepen doen moeite , die ik vinden u ' kinds jaar Voor uw hebben aanwenden ; mede welk een lusten en vreugde Ik uw gewezen hebben na het pad de heldendeugd .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.5	herdenken in het einde , mede welk een ijver , mede wat tranen , En teder kinderliefde , u Vader , doen Trojaanen , alles doen enig oorzaak , die gei scheiden vinden hij af , Vervloekende , uw aan ik mede droefheid overgeven .	Emotion_BodilyProcess_Love_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1108.s.6	weten ik uw ooit ik plicht en ijver klaar te toon ; u ' deugd te rome , en u ' zwakheid te verschonen ; In het korten , verdiend ik ooit de naam vinden Voesterheer vinden Held Achilles ; ik werf ik voor u ' voeren neder : laten uw ik smeken , laten ik zucht uw bewegen , Verjaag de vijand , geven u Vaderland de zege , die het hebben verliezen , die hechten zijn aan u ' klink , En die het weleer zode vaak vinden uw arm ontving .	Emotion_EmotionalAction_BodilyProcess_Moved_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1113.s.1	rijs op : mare geren Trojaan zullen ik in het veld ontmoeten , Voor ik Agamemnon zien , alles uw , aan mijn voeren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.head.1116.s.1	Tweede toneel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.1118.s.1	Achilles , feniks , Alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1122.s.1	WAt tijding brengen gei ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1122.s.2	zijn Patroclus weergekeerd ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.1125.s.1	alcimus	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1136.s.1	nul neen , ik Heer : mare ik zien u ' hater verneerd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1136.s.2	doen schrander Ulysses , en held Ajax , beide verheffen Door hun dapperheid , en onbesproken leven , verzoek , kunnen hebben zijn , een kort tij , gehoor , uiten Agamemnons naam .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1140.s.1	zijn wacht zij antwoord ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1146.s.1	Voor u ' legerplaats , daar zijde niet binden wil treden , Voor gei zij zulks bevelen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1154.s.1	Welaan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1154.s.2	horen hun rijden , beroemd Held !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1154.s.3	en gei , o god , kunnen hebben zijn , laten deze dagge hebben einde meebrengen ons pijn !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1158.s.1	Gaa , halen heen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.head.1161.s.1	Derde toneel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.1	vleien uw niet , o feniks , die ik hart Door hun klacht , of door doen algemeen smarten vermurwen zullen worp .	BodilyProcess_Benevolence
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.2	neen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.3	Ik zullen heen horen ; mare Alleenig om ik te verheugen in het gevaar , zijn in doen griek zien brengen zieden door hebben woeden vinden Agamemnon .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.4	laten hij zelf die schae vergoeden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.5	ik ' ziel onschuldig aan de ramp , die hij wij brouwen , wensen rijden , ik Vader weder te aanschouwen , daar hij oud En afgeleefd te Phthie in wreed zijn dag te einde brengen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1179.s.6	geren strijd kunnen ik thans meer behagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1203.s.1	Ulysses , hopen ik , zullen u ' ziel door zijn reden bewegen ; toon uw door zijn ' voorzigtigheen , die zulk een ' gramschap , hoe gronden en hoe rechtvaardig , u landen verraden , en Held Achilles zijn onwaardig .	Emotion_Hope_BodyPart_BodilyProcess_Compassion_Moved_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1203.s.2	terwijl doen dapper zode vinden Telamon , wie vuist gei zelf zode vaak mede bloeden de Trojers zagen begruist , doen gloriezucht weder in u harden zullen doel herleeven .	Honor_Emotion_BodyPart_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1203.s.3	mogen ik ik hoofd te zoenen vinden uw gramschap geven , Ik sterven gewillig , tot vermindringe uw schande , En tot behoudenis vinden het bang Vaderland .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1203.s.4	Ik zien heen nad'ren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.head.1206.s.1	vieren toneel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.1208.s.1	Achilles , Ulysses , Ajax , feniks , Alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.1210.s.1	ulysses	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.1	zode vinden Peleus , roemen de held , wie daad de Trojaan voor deze meer ontstellen , Dan wie al t ' zaamen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.2	zijn groeten uiten al naam .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.3	wie beide waar uw wel eertijds aangenaam , En hebben doen eer , die gij wij aanschouwen alles uw vriend , schonen wie die mogelijk nog niet genoeg verdiend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.4	Thans komen wie , beladen mede droefheid in hebben harden , uw kennis geven vinden ons algemeen smarten : Hoe ons vijand mede hun bondgenoot , Die gei , zode langen gei streedt , houden in zij waal besluiten , doen veest verlieten , wij in ons legerplaats Thans zelf belegeren , tot droefheid de soldaats ; Die , vol vinden wanhopen , in hebben mijden die gevaar , nog even macht hebben , om zijn ' schip te bewaren .	Emotion_BodyPart_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.5	doen vijand , moedig op die zege , vliegen steeds voor , zaaien overal de schrik , en droef wanhopen , moorden Al wij hij tegenstaan , terwijl hij zelf doen god , Door duizend teken , tot zulk een ' woede nood .	Fear_Emotion_Despair_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.6	doen dol Hector , mede de sabel in doen vuist , Gemoedigd door doen gul vinden Jupiter , vergruizen de muur mede stormen op stormen , om eindlyk zelf doen schip de vlam te offeren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.7	doen Griek , in het harden benepen vinden doods schrik , weten niet , wat hij in deze node Beginnen zullen , en zuchten om zijn aanstaande dood , Die hij rijden zeker schijnen .	Fear_Emotion_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.8	Wat hand weerhouden , naar het breken de keten , een leeuw , die , woedend om zien te wreken , Al , wieden hij vinden , verscheuren , geren vijand hebben , die hij Weerstaan kunnen , die niet schrikken en beven voor zijn stemmen ?	Fear_Emotion_EmotionalAction_BodilyProcess_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.9	zode woeden doen dapperste vinden al doen Trojaanen .	BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.10	hij staan alreeds reden , om zien een wegge te banen Tot aan doen schip zelf , daar hij mede eigen hand ( nul Hemel , kaar die slag ! ) nog deze dagge de branden In zoeken te steker .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.11	zijn , zijn zullen uw vriend , nul onverbidlyke , dan een schuilplaats vinden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.12	wij zullen hebben bang volk , in die bedroefd staan , Verlosschen kunnen vinden de overwinnaar hand ?	Fear_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.13	wij overblyven , om doen mare na huis te dragen , die al doen griek door doen Trojers zijn verslagen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.14	kaar , weergaelooze Held , kaar wederom te strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.15	gei zien u ' wraken volbrengen ; wie al zieden de tij , die gei allee wij kunde verlosschen , en de zege Weergeeven door u ' macht .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.16	Ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.17	laten uw tocht bewegen ; En denken om het naberouw , die uw ontstellen zullen , alles gei te laten zullen zieden , die gei allee de vallen de griek hebben verhaasten , en zonder mededogen uw zelf verraen hebben , tot vermeerd'ring vinden het vermogen vinden uw vijand .	Emotion_Compassion_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.18	alles het kwaad zijn uitvoeren , zieden wij ons schuld eest , die wij dan te laten ontroeren .	Emotion_Compassion_Moved
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.19	voorkomen die wroeging dan vinden u ontrust weten : willen eindelijk u toren , hoe wel gronden , vergeten .	Emotion_BodyPart_Anger_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1285.s.20	geven , geven wij het leven weder , en tonen , in deze staan , die doen eer uw Vaderlands uw nog te hart gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.1	Hier in allee zijn ik aan hij verplichten , ik ' heer , die hij ik nog mede u ' bezending willen vereren , Twee held , ik zode woerd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.2	mare , wild doen vriendschap ik , nog uw , hier spreken doen , ik ' vriend ; het staan ik vrijen , die ik uw ronduit zegg ' , die niets ik zullen bewegen ; schonen Agamemnon zelf , bekommeren en verliggen , Verzeld vinden het gans heir , ik aanbadt .	Worry_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.3	neen , ik ' ziel gedenken nog aan die honen , die zij zode pijnlijk vallen .	Offended_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.4	Wat danken bewyst ik ik voor ik gedurig strijd ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.5	Voor al doen moeite , die ik mede vreugde hebben wil leiden ?	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.6	Die zien bedekken hout in de node , en nauwelijks uiten zijn ' tent komen , hebben nochtans zijn delen ook in de buiten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.7	doen dapperste zien om een bloodaard zien versmaden : slepen sterven de roemen vinden zijn Heldendaaden mede zien in het graf , terwijl een ander woord beschreid , Die nimmer blijk geven vinden doen minst dapperheid .	EmotionalAction_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.8	Wat schikken ik over , vinden hebben gene ik , door gevaar En duizend moeilykheen , wel eer weten te vergaren ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.9	Niets .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.10	Ik zijn het evenwel , die zode langen achter een , mede zulk een ijver , voor doen griek hebben gestreen , Die twintig stellen rondom Troje hebben verslagen , En uiten doen zelf zode velen schat wegge gedragen : Die schat nochtans , het lot vinden mijn dapperheid , hebben ik mede eerbied voor doen voeren neergeleid vinden Agamemnon zelf , die , in zijn ' tent blijven , hebben minst gevaar niet hebben lopen vinden zijn leven ; Die al de buiten krijgen , ik en mijn volk een delen , te pryz ' vinden ons deugd , vereren vinden het geheel , En d'een en d'ander ook daar naar iets hebben schenken , wie vroomheid in de strijd vooral hebben uitblinken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.11	Elk hebben de prijs nog , die hij vinden zijn ' hand ontvangen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.12	Ik zijn het alleenig , die doen bits nijd hij dwingen het geven wederom te ontneemen , ja te ontroven mede schennis en mede kracht .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.13	Dus zijn het , die hij ik boven al ander hebben stellen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.14	dus zijn hebben , die hij tonen , Hoe hij doen dapper na zij verdiensten lonen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.15	mare wat zijn doen oorzaak , die wie Troje dus bestrijden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.16	die wie hebben grieks volk al hier zode velen doel leiden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.17	zijn het niet , om Helena aan Menelaus weder Te geven , hij ontroven ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.18	vinden hij hier door zijn eer Beledigd , en mogen ik ik ook niet vinden hij beklagen , die hij ik al ik ' vreugde en wellust hebben ontdraagen , torn hij Brizeis uiten mijn arm hebben rukken ?	Offended_Joy_Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.19	woord Troje , om het schaken vinden een ' Vrouw , dus onderdrukken vinden hij , die ik doen mijn , o smaad !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.20	zelf hebben ontnemen , En hij , die ander straffen , hebben die zelf niet te schromen ?	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.21	Ik achten zij , schonen slechts ik ' gevangen , alles mijn Vrouw .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.22	Nu hebben hij ik vinden doel ; en zenden uw vol vinden rouw , Om ik , zijn het mogelijk , te bewegen door u smeken .	Emotion_EmotionalAction_BodilyProcess_Moved_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.23	Neen , zijn ' trouweloosheid zijn ik eens genoeg blijken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.24	Ik kennen hij al te wel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.25	hebben zijn vergeefs , die hij ik weder te winden zoeken door list of veinzerij , die hij mede ander thans doen middel bedenke , En maake , die doen vlammen doen grieks vlieden niet krenken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.26	hebben hij ik niet gezond , hij zij ik de Trojaan zieden drijven in doen stad , of op hebben veld verslaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.27	ik zij hij meer dienst doel , alles zijn ' gracht of muur , verheffen , Om weder door Hectors arm te aarde te zijn drijven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.28	mare zijn toen zode velen reden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.29	gaan , mijn vriend , gaan , En zeggen hij , die ik nooit ik degen of ik raden Voor hij besteden zullen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.30	hij hebben ik een bedriegen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.31	doen tweedemaal zullen het hij mislukken . ik sluiten mijn oog Voor het medelijden .	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1390.s.32	die hij sterve , en gaa te grond , Die , ik te spijt , zode groots een gruwelstuk bestaan !	Emotion_Remorse_Spitefulness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.1392.s.1	ajax	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.1	u ' gramschap steunen op reden .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.2	mare kunnen nog Hectors zege , nog het uiterst gevaar de griek uw bewegen ; laten hij dan zelf , die u toren dus weten te voeden , uw weder bevredigen , nu hij uw willen voldoen .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.3	hij willen zien eindlyk voor doen rijden neerbuigen ; En bieden uw aan , voor al hebben leger te betuigen , die gei gezond zijn , en die hij uw hebben misdoen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.4	Hier bij bieden hij uw zelf nog velen geschenk aan , Die woerd zijn uiten doen hand vinden zulk een Vorst te komen , En vinden Achilles zelf te worp aannemen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.5	Verscheiden ' vaazen , schonen en kostelijk vinden stof , mare schoon door doen kunst de meester , die zijn lof Door zulk een werkstuk deedt tot aan doen ster rijzen : Een ' gift , die zelf Jupyn niet vinden doen hand zij wijze : mede twaalf paard , witten alles doen eest geval sneeuw , In snelheid alles een winden , in moede elk alles een leeuw , Die honderdmaal doen zorgen vinden hun Heer betalen , Wanneer zijde in hebben perk de eerst prijs behaalden : mede zeel maagd , schonen vinden lezen en vinden zichten , In het frischste vinden zij ' jeugd , weer oog , alles hebben liggen de heet middagzon , doen fierste hart blaken : Brizeis , die u ' ziel voor ander kunnen vermaken , Brizeis , doen eedle vrouw , aan wij die bits honen geschieden zijn , uw te spijt , door Atreus fier zode , zullen zij geleiden , zijn Achilles het zullen begeren .	Offended_Emotion_BodyPart_BodilyProcess_Desire
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.6	mare denken niet , die doen Vorst zij ooit bestaan te onteren : nul neen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.7	tot zulk een ' smetten wassen nooit zijn ' ziel bekwaam .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.8	Ja zulks zullen hij uw zelf betuigen , in de naam vinden het gans Godendom , wie klaar en alziend oog zijn zeggen en zijn doel aanschouwen uiten de hogen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.9	deze al , zode hier door u ' gramschap woord verzachten , woord aanstonds , op zijn order , in uw tent brengen .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.10	deze zijn voor deez ' tij .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.11	naar het veroveren de wal vinden het moedig Ilium , zullen hij uw onder al nog twintig maagd zelf aanbieden , die allee In schoonheid zwichten voor doen aanminnig Heleen , uiten Vorstelyken bloed , en die zij ' schoonheid paar mede deugd zonder vlek , in het bloeien vinden zij ' jaar .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.12	nog niet vernoegd door deez ' voldoening vinden die honen , bieden hij uw zelf nog aan de naam vinden zijn zode Te aanvaarden , alles wie weder in Argos zullen komen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.13	Wat kunnen hij meer doel , om u ' gramschap in te tomen ?	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.14	Drie schoon maagd , drie prinses , uiten hebben bloeden vinden Atreus stam telen , en prachtig opvoeden In Agamemnons hof , staan uw te dienst vaardig .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1476.s.15	hij geven uw zelf doen keuren , wij gei vinden drie waardig zullen acht tot die staan ; mare doelen voor al op doen eer , die hij een Held , alles uw , tot schoonzoon krijgen ' , ik Heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.1	gei hebben u lassen voldoen , ik uw horen , ik ' heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.2	gei kunde , zode het uw believen , weer na de Dwingland karn : En zeggen hij uiten ik naam , die zijn ' geschenk ik nog haatelyker zijn , alles zijn dwingelandij .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.3	ik begeren zijn ' dochter niet , hoe oog vinden elk gepreezen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.4	zijn gans slachten kunnen ik niet alles verfoeilyk wees .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.5	En eindlyk zeggen hij , die ik ik aanstonds zullen beraden , Wanneer ik mede ik ' vlieden weder denke in zee te gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1489.s.6	ik ' ziel , zode fel gezond , schijnen rijden vinden spijt te breken , die ik zode langen vinden die Tieran moeten horen spreken .	Offended_Emotion_BodyPart_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.1	gei weer in zee gaan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.2	gei u Vaderland , uw eer Aldus mede voeren te vertreden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.3	gei ik Heer !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.4	Achilles , die zode vaak zijn vijand hebben verdrijven , zullen in de groot node zien het eest te vluchten begeven , hebben gans leger vinden doen griek doel verslaan , Om Agamemnon , die allee hij hebben misdoen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.5	nul smarten !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.6	hoe zullen ik voor u Vader wederkeren , die het ik mede zulk een ' gul gelieven te vereren , torn ik , rampzalig , tot hebben uiterst brengen , Een ' schuilplaats bij hij vinden , die ik zolang vruchteloos zoeken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.7	Versteend en hard gemoed !	BodyPart_BodilyProcess_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.8	doen kleppen zij ik breken Door zulk een ' nederigheid , door zulk een vurig smeken , terwijl u harden , verstalen door wraakzucht en door spijt , u Vaderland verlaten in d'allerlaatsten strijd .	Emotion_EmotionalAction_BodyPart_BodilyProcess_Despair_Vindictiveness_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.9	wild gei in deze node niet meerder voor wij vechten , ik arm , hoe oud hoe stram , zullen wonder uitrechten , En vlieg vol vinden moede de vijand in het zichten ; En sterven , nu gei dus ontaard zijn vinden u ' plicht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.10	moeten ik deze horen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.11	ik deze aanzien !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1517.s.12	groot god !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.1	Ik luisteren wel eer , nog jong , na u ' gebod .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.2	doen moeite kunde gei nu wel sparen , na ik menen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.3	ik weten nu wat ik moeten doel , en volgen ik ' zinnelijkheid .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.4	wild gei ik op doen reizen na Phthie niet verzellen , gei kunde hier blijven , om ik namaals te vertellen , Hoe Hectors woedend vuist hebben grieks heir verslaan , En Agamemnon het stalen in het beven hart jagen .	Fear_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.5	En gei , ik ' heer , gaan : u ' moeite zijn hier verliezen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.6	gei kwaamt ik ' mening straks uiten mijn mond te horen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.7	Ik hebben uw ander niets te zeggen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1537.s.8	het zijn ik lijden , die gei hier uw tij zode vruchteloos hebben besteden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1548.s.1	wassen het Agamemnon , die u ' bijstand hebben vinden nood , allee , ik wassen het mede uw eens : die zweren ik bij doen god .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1548.s.2	mare nu gei het Vaderland verlaten in deze node , tonen gei ...	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1548.s.3	mare laten wij gaan , eer zijn toren vergroten .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1548.s.4	doen Hemel midlerwyl geven uw een goed zin , En lederen uw , hoe gei landen en vriend moeten beminnen !	Emotion_BodyPart_Love
+huyd001achi01_01.TEI.2.text.body.div.div.p.1550.s.1	Einde vinden hebben eerst bedrijf .	None
+huyd001achi01_01.TEI.2.text.body.div.head.1554.s.1	Tweede bedrijf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.1558.s.1	patroclus	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.1	benauwd , bekommeren en verliggen zuchten mijn ziel in deze node , nul griek , om u ' droef dood , nul Trojen , om u blijde zege .	Fear_Worry_Emotion_BodyPart_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.2	spannen Hemel , aard en Zee en al In het einde dan t ' zaam tot ons vallen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.3	doen gul de god zijn verdwijnen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.4	wie zenden vruchteloos wij zucht na om oog .	BodilyProcess_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.5	zij hart zijn verkeren in steen .	BodyPart_BodilyProcess_Spitefulness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.6	Een wolk vinden gramschap dekken zij ogen .	Emotion_BodyPart_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.7	Achilles , wreed in zijn woeden alles hongerig wolf , of leeuw , verheugen zien in wij bang geschreeuw , En kunnen , mare willen zulks niet vergoeden .	Fear_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.8	nul wraakzucht , gramschap , bitter haten , Wat brouwen gei het Vaderland al kwaad !	Emotion_Hatred_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.9	alles vriend zien vinden vriend scheiden , wij zullen de vijand in zijn ' woede dan weerstaan ?	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.10	hij gaan in bloedrivieren weide , En durven zijn ' hand aan het heil'ge slaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.11	Ik , die vinden mijn kinds jaar , Door vriendschap en door broedermin , Eens vinden gedachte , eens vinden zijn , ik ' ziel weten mede u ' ziel te paar ; moeten ik ook schuldig zijn , nu gei uw wreken vinden zijn dwinglands tieranny ?	Emotion_EmotionalAction_Love_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.12	Hier veel ik ik op het felst bespringen , Om het Vaderland in node ik ' bijstand aan te bieden : Hier schijnen u ' vriendschap ik te dwingen , mede vreugde uw hooners smarten te zieden .	Joy_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.13	nul vriendschap , edel in deze leven !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.14	zullen ik , tot mijn en mijn schande , Om uw , ik dierbaar Vaderland In deze jong node begeven ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.15	En aanzien mede een stillen gemoed , Hoe Troje trappen in het grieks bloeden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.16	nul eer , o Vaderland , o vriend !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.17	zullen ik stilzwijgend zieden , hoe het Troische vieren uw blaken , Om ik aan een vriend te binden , Die zien in al ramp vermaken , ik ' ziel , slingeren heen en weder , zien dan allee doen vriendschap aan ; woord weer nopen te strijd te gaan , Om d ' uitlaten Hector neder Te ploffen in het bebloede sant , te dienst vinden ik Vaderland .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.18	mare ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.19	Achilles te verstoren , zij het allerlaatst zijn , daar ik ik in node toen kaar : En gaan hebben grieks heir verliezen , zode sterven ik zonder roemen of eer .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.20	nul vriendschap , willen het ik dan vergeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.21	doen eer , doen eer zijn ik velen meerder woerd .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.22	ik zullen zonder eer hier niet op aarde , Al moeten ik zonder vriend leven .	Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.23	doen vriendschap wankelen in de node : doen eer blijven wij bij zelf naar doen dood .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.24	deze zijn onsterflyk , die kunnen eend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.25	Ik gaa .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1655.s.26	mare weigeren hij de Griek zijn ' helpen ; ik zweren , Of hij zullen ik te strijd zenden , Of ik , ik zijn zijn vriend niet meer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.1660.s.1	patroclus , alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1667.s.1	AChilles zelf , ik Heer , zullen uw hier komen vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1667.s.2	vertoeven nog wat .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1675.s.2	getrouwste mijn vriend , weten hij de staan vinden het heir , en blijven zijn stenig harden nog onbeweeglijk ?	BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1675.s.3	lachen hij nog mede ons smarten ?	Joy_Emotion_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.1	doen schrander Ulysses hebben zijn ' ziel wel iets bewegen , mede Ajax : mare helaas !	BodilyProcess_Moved
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.2	ofschoon hebben mededogen die wreed al eenigszins geraken hebben en ontroerd , hij woord gedurig door zijn ' gramschap weder vervoeren .	Emotion_Compassion_Moved_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.3	Dan grijpen hij het bloedig zwaarte een beven in zijn ' hand ; Dan zieden wie hij vinden spijt weder knarsen op zijn ' tand , die hij , die zien zode zeer verheugen in het stromen bloeden , de strijd vinden ver zieden , en zelf rust moeten .	Joy_Emotion_BodyPart_BodilyProcess_Anger_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.4	Dan schijnen hebben , die hij wat geraken zijn aan het bedaren ; Dan zwaard hij weder , nog Trojaan nog Griek te sparen , mare al te offeren aan zijn ' honen deugd ; En tonen zich om de node de griek gans verheugd .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.5	hij roepen doen god aan , om zijn rouw te wreken ; En bidden , die Hectors hand de veldheer mogen doorsteken : wan zode langen , alles die leven , en het grieks heir gebied , willen hij voor het Vaderland niet strijd ; ja ontzien zien zelf niet , na doen dood te wensen vinden zij al , zode hij de Dwingland slechts mogen aan zij zijde zieden val .	Emotion_EmotionalAction_Sadness_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1711.s.6	Dan willen hij mede zijn volk , en uitrusten hand , doen schae herstellen vinden het martelen Vaderland ; de zegepralen Trojaan te stad in drijven , En mede zijn moedig volk allee verwinnaar blijven : Op die geren ander deel in zijn oorlogsroem , En Griekenland allee hij zijn verlosscher noemen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1727.s.1	zode hebben hij rijden , zien in het kort te verblijden .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1727.s.2	wan zode hij deze dagge allee nog wachten mede strijd , zijn het al verliezen , en mede ons vlieden braden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1727.s.3	zode dan doen vlammen een in doen schip door willen slaan , zijn zullen het rampzalig volk dan enig uitkomst vinden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1727.s.4	Die wreed zullen wij op zij gemak verslinden , alles teder lam , die weerloos en stillen doen dood verdragen , alles het zij overwinnaar willen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1753.s.1	mare neen ; ik hopen nog op uw , die gei zijn ' gramschap neder zullen zet door u raden : hij achten , hij minnen uw teder ; hij hebben de gans nacht slijten in geklag , En droef zuchten , om die hij uw niet weder zien , Die hij beloofd hebben voor de avond weder te komen .	Emotion_EmotionalAction_BodilyProcess_Love_Dissapointment_Sadness_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1753.s.2	Om uwent willen allee hebben ik die held zieden schromen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1753.s.3	beschrijf hij dan de staan vinden het bang Vaderland Op het allerschrikkelykst : bezweren hij bij de band vinden vriendschap , die zijn harden aan het uw hebben verbond : zeggen hij , hoe gei doen bloem vinden het grieks heir wonden , en te dood toen afmatten , zagen vlucht na doen vlieden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1753.s.4	beschrijf hij het na luiden de gene , die half dood nog kermen op hebben veld , en trachten nog te spreken , Om hun ramp op hij mede woord slechts te wreken , wild zijde hij aanzien , alles doen bron vinden hun elend ; Hoe gei doen tranen , en hebben bloeden , zijn gei uw wenden , zien stroom lang de grond .	EmotionalAction_BodyPart_Sadness_Despair_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1753.s.5	beschrijf hij al doen naarheid , Die gei bedenken kunde ....	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1765.s.1	Ach ! ik hoeve allee doen waarheid Te zeggen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1765.s.2	mare hij , die Ulysses hebben horen , En al weerstaan , zullen die zien op ik woerd Bedwingen , en hebben zwaarte weder vat in doen hand ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1765.s.3	Neen , Alcimus , o neen , hij kunnen zien zonder schande Voor ik en mijn raden niet buigen , die zode fier Vorst Agamemnons bod , en zijn ' geschenk , weer gelijk hij zelf nauw zien hebben vinden zijn leven , Te rug zenden hebben , en smaadelyk verdrijven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1769.s.1	Wat middel dan voor wij , tot troosten in deze elend ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.1	Indien hij voortgaan hier rusten in zijn tent Te blijven zetten , zien niet moeiende mede strijd , zode hopen ik door ik arm doen griek te bevrijden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.2	Niet door ik ' dapperheid en vreselijk wellen , mare door doen wapen vinden die onverwinbren Held .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.3	ik dunken , wanneer ik die mogen gesp om ik ' lid , wapenen mede zijn zwaarte mogen in hebben strijdperk treden , Ik zij Sarpedon , ik zij AEneas , en doen bloem vinden Trojes oorlogsmagt , held Hector , die zijn roemen Thans door Achilles toren zien aan doen ster rijzen , Voor ik doel vlucht , of de wegge te affront wijze .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.4	ik veel , hoe die eerzucht rijden ik jeugdig harden beginnen Te strelen .	Honor_Emotion_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.5	god !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1796.s.6	die volvoeren , wat gij onderwind , gei , die ik aanleiding hebben tot deze zaak geven , kronen , kronen ik groots besluiten , al kosten het ook ik leven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1800.s.1	Daar komen Achilles zelf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.1804.s.1	achilles , patroclus , alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.1	zijn welkom , waard vriend !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.2	zijn driemaal welkom !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.3	danken zijde de Hemel ! ik vinden uw eindelijk dan weder , en , naar zode langen te zucht , doen uw wederkomst al mijn zorg vlucht .	Worry_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.4	gei leven dan nog !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.5	god !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.6	wat hebben ik voor uw vrezen !	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.7	mare ik zien mede vreugde , ik ' vrezen zijn zonder , grond wezen .	Fear_Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.8	mare hoe ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.9	gei staan en zuchten , en hout u ' droevig oog geslagen op de grond , wat hebben uw zode bewegen ?	Emotion_BodyPart_BodilyProcess_Moved_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.10	treuren gij om de slecht staan vinden het grieks Leger ?	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.11	of zijn uw uiten Griekenland , vinden Phthie , of elders , stof Tot droefheid aandienen ?	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.12	spreken op , laten ik uw horen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.13	doen droefheid , die ik in zijn boezem willen versmoren , groeien dagelijks aan , en slaan in het einde tot wanhopen uiten .	Emotion_BodyPart_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.14	gei zuchten , en zwijgen !	BodilyProcess_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1823.s.15	zeggen ik , zijn uw smarten uiten spruiten .	Emotion_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1836.s.2	kunnen Achilles ik na mijn droefheid vragen !	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1836.s.3	gei zijn ' er doen oorzaak vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1836.s.5	die uw oog zien , hebben geren ik hebben zien , u fier en stenig harden zij zien haasten zieden vermurwen door doen algemeen smarten vinden ons held , en manmoedige soldaat ; zode gij eenge menschlykheid slechts over hebben gelaten In u verstokt gemoed .	Emotion_BodyPart_BodilyProcess_Moved_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1843.s.1	Hoe staan hebben mede doen vlieden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1843.s.2	Hoe mede doen vorstin ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1843.s.3	spreken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1843.s.4	Hoe naar zijn wij doen node ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.1	zode naar , die uw hand allee wij kunnen bevrijden vinden ons ondergang , zode zijde voor wij willen strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.2	doen grieks vlieden zijn tot hebben uiterst brengen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.3	doen groot held zijn kwetsen ; hebben volk , vinden kracht , En moede bijna geheel beroven , weerstaat flaauwmoedig doen Troische krijgsmacht nog .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.4	hebben slagveld liggen gans bloedig mede grieks lijk opvullen , en , zijn ik zien , ik speuren geren ' teken , alles vinden wanhopen en verdrieten .	Emotion_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.5	doen Veldheer hebben de strijd verlaat , om zijn ' wond In zijn recht hand . ik hebben Tydeus zode vinden , die steunen vinden het grieks heir , door het mis vinden zijn bloeden , Schier leevenloos .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.6	ik zijn Eurypylus ontmoeten , mede een scherp schicht schieten in zijn ' dij .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.7	doen minder soldaat vallen zijn vijand raazernye te prooi , door het woeden en doen onwederstaanbre kracht vinden Hectors ijzeren vuist , en Trojes oorlogsmagt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.8	En gei , Achilles , blijven nog even onbewogen ; zien wij te vallen gaan , en blijven zonder mededogen !	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.10	die geren ' gramschap , zode nadelig , zode verwoed , ik ooit vermeestre , nog stelen grype in ik gemoed !	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.11	wild gei allee tot schade en onheil uw vriend Beroemd zijn ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.12	wij zullen troosten in uw bijstand vriend , Voor wieden bewaren gei tocht doen kracht vinden uw hand , naar gei die hebben ontzeid zelf aan u vaderland ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.13	En gei , gei zijn die manna , die Troje moeten vernielen , Die menig duizend vinden vijandelijk ziel te affront zenden moeten ; gei zijn die dapper Held , Die wij bewaren zullen , gelijk wij zijn spellen Door Priester Calchas mond !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.14	o Hemel !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.15	kunnen hebben wees ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.16	Een ongeluk , zijn voor ik eest niet scheiden te vrees , treeft wij velen nader , wennen het wij overkomen , alles iets , die een voorzichtig ogen langen vinden te voorn zien .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.17	Nu razen , nu knarsen hebben volk vinden spijt op zijn tand , terwijl doen Trojers heen vinden al zijden aanranden .	Emotion_BodilyProcess_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.18	zijde sneuvlen , een voor een , en verven mede zij bloeden de vijandelijk grond , terwijl doen moordlust woeden : En gei , daar al zij hopen wel eertijds op berusten , die elk in zijn ziel , alles zijn verlosscher , kussen , En strelen vol vinden liefde en vriendschap , zien deze aan , En laten u ' vriend door u ' vijand verslaan .	Emotion_EmotionalAction_Hope_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.19	ik dunken , ik horen , hoe zijde in het uiterst nog kermen : Achil ...	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.20	Achilles komen , ai willen wij nog beschermen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.21	zode sterven ' er menig niet u naam nog in de mond .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1923.s.22	Een ander , razend , en verbitteren door zijn ' winden , zijn vinden hij doen oorzaak uw alleenig toen durven schrijven , zwaard , zode hij weder bekomen , uw het stalen in het harden te drijven .	Emotion_BodyPart_BodilyProcess_Anger_Spitefulness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1928.s.1	En zullen ik zulk een volk ik ' helpen nog bieden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.2	Ontmenschte !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.3	zode u ogen in hun boezem zien , Hoe teder een ' vriendschap zullen gei daar voor uw niet vinden !	BodyPart_Love_Benevolence
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.4	Een onrechtvaarde toren kennen u gemoed verblind ; En gei keuren kwaad in zij , hebben geren gei zelf doen .	Emotion_BodyPart_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.5	doen wanhopen en doen spijt verheert ook zij gemoed .	Emotion_BodyPart_Despair_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.6	u toren zijn straffens woerd ; zij gramschap zijn rechtvaardig .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.7	zijde , uw altijd getrouw , zieden zien vinden uw onwaardig handelen in de node .	Emotion_Loyalty
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.8	gei zien doen grieks jeugd Rampzalig sneeven , en tonen uw daarom verheugd .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.9	Wel aan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1956.s.10	kaar nog te strijd , en tonen u ' metgezel , die zij weerwaardigheen uw eed'le ziel nog kwellen ; zode zullen gei zieden , hoe diep gei in zij boezem staan , En hoe u ' vriendschap zij ook nog te hart gaan .	BodyPart_BodilyProcess_Love_Compassion_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.1	Patroclus , ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.2	ik willen het allee voor uw belijden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.3	ik ' hand , zode langen rusten , verlangen om weder te strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.4	mare ik willen hebben uiterst eest afwachten , eer ik ik weder te strijd vervaardige , en in het bloedig slagveld kaar .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.5	ik willen Agamemnon , en gans Griekenland dus toon , die Held Achilles zien niet straffeloos laten honen .	Offended_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.6	Ik wensen uiten al ik harden , die zulks nooit zijn geschieden , het zijn ik een oorzaak vinden onlydelyk verdrieten .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.7	mare wild hebben zijn braden , willen ik niet tegenspreken , moeten ik ik op het allerfelst op die aarddwingland wreken .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.8	die trots !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.9	Neen , die vrijen doen Trojers woeden , en de tij waarnemen , die ik niet in het strijdperk zijn !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.1982.s.10	zode zullen doen wereld zieden , die Griekenland moeten vlijen , Wanneer Achilles hebben zijn bijstand niet willen bieden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.1	nooit wassen een sterveling zode wreed , nog zode verharden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.2	een eed'le en braaf ziel hebben meely mede doen smarten zelf vinden zijn vijand , en gei kunde vernoeging vinden In d'onverdienden ramp vinden u ' getrouwste vriend .	Emotion_BodyPart_Compassion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.3	het zijn onbegrijpelijk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.4	Of hebben doen vrezen ook plaatsen Gekreegen in hebben harden de moedigsten soldaats ?	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.5	vergeven het ik ; ik zeggen hebben niet , om uw hier door te honen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.6	gei weten u ' dapperheid wel eer zode klaar te toon , die niemand daar aan ooit twijfelen hebben .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.7	mare ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.8	Al uw roemen versterven op deez rampzaalgen dagge .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.9	ik weten , wat ik uw voorlang te Phthie dor voorspel , die gei de trots waal vinden Ilium zullen vel , doen bloem de Troische macht doel sneuvlen door u ' hand , mare nimmer karn , naar die zege , in Griekenland .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.10	zijn gei hier voor beducht ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.11	willen ik te strijd zenden , mede uw wapen , mede u ' Thessaalsche bende .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.12	Ik zullen , zode moedig alles Achilles niet , mare , mede zijn slagzwaard in doen hand , zijn helm op het hoofd zetten , velen moediger , alles ooit , de vijand tegen treden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.13	doen Trojer , langen verschrikken door uw dapperheid , zullen beven zien te vluchten begeven , alles hij wanen , die gei wij zelf de wegge te overwinning banen .	Fear_Emotion_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2012.s.14	zode hebben doen Griek weder tij , om zien in staan te stillen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.1	Neen , neen , ik waard vriend , ik liggen mede die voorspel : wan alles ik Troje een mogen zieden val door ik zwaarte , zode hebben ik langen genoeg zwerven hier op aarde .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.2	mare zeggen ik een , voor wieden zullen ik ik leven waag ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.3	Om Agamemnon , die ontmenschten , te behagen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.4	Om weder een ' schoon maag te winden , die hij ik Dan weder ontroven kennen door zijn dwingelandij ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.5	Neen , neen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.6	Brizeis , ik op het smaadelykste ontnemen , weten ik strydzieken arm en eerzucht in te tomen .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2028.s.7	doen Griek moeten zijn straffen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2035.s.1	straffen Agamemnon dan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2035.s.2	hij zijn doen dwingeland , hij zijn allee doen manna , Die uw misdoen hebben , mare die gei hebben volk doen sneeven Om zijn schuld , zijn iets , die ik uw niet kunnen vergeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2040.s.1	deze zijn hebben noodlot vinden de droef onderdaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2040.s.2	zijde leiden om hebben kwaad die doen overste begaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2044.s.1	staan ik ik ' bede dan toen , en laten ik voor uw strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2052.s.1	Of schonen u ' dapperheid , ik vriend , ik kunnen verblijden , Ik kunnen niet toestaan , die gij u leven waag zullen .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2052.s.2	Wanneer ik ogen uw , naast ik ' zijden , in het veld aanschouwen , zijn ik rusten ; dan kunnen ik uw ik bijstand bieden , Indien gei , bij geval , voor sterk macht moeten vlijen .	Fear_EmotionalAction
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2060.s.1	zode zijn het besluiten dan vasten nemen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2060.s.2	Griekenland woord , door u bitter toren , op het Frigiaansche stranden veroordelen tot zijn vallen !	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2069.s.1	Ja die doen griek sterven , Eer ik , om hunnentwil , zode waarde vriend zij durven !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2069.s.2	Neen , ik Patroclus , neen : gei zijn ik al te woerd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2069.s.3	het zijn goed uw allee , alles al hebben volk , sparen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2069.s.4	Tot zulk een prijs willen ik geren Ilium verwinnen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2080.s.1	Dan staan ik u ' gul te duur !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2080.s.3	denken een in u ' zin , Hoe gei dus zelf u roemen en eer mede voeren treden .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2080.s.4	Die heerlijk oorlogsdaen , die gei voor deze deedt , verdwijnen al , door deez schadelyken toorn .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2086.s.1	laten ik die wreed naam vinden eer niet meerder horen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2086.s.2	Ik hebben gene eer meer te verlies , naar die dagge , die ik door de dwingland ik zode fel beledigd zien .	Offended_Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2090.s.1	hij hebben uw immers weder voldoening aanbieden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2096.s.1	hij zelf zullen ik tot zijn ' vriendschap komen nood , En val ik te voeden , en smeken om genae , Eer ik ik bewegen laate , en weder te strijd gaa .	EmotionalAction_BodilyProcess_Compassion_Awe_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2116.s.1	moeten mijn dapperheid in het veld voor doen uw zwichten , gunnen ik die ik in deez ' zaak uw weder mooge onderrichten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2116.s.2	Rampzalig zijn hebben volk , wie Vorst en Opperheer zijn eigen zelfsbelang , zijn eigen wellust , meer alles zijn land welvaren achten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2116.s.3	Gaa heen , bestorm doen wal vinden het hatelijk Ilium ; doen zijn toorn val ; Verf uw klink in het bloeden vinden Hector ; bieden doen vlieden u bijstand weder aan in deze jong node : zode hebben gij uw in u plicht voor het Vaderland gekweeten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2116.s.4	kunde gei die bitter honen daar naar nog niet vergeten , wreken , wreken uw dan op hij , niet op het onschuldig volk , En wis die smaad uiten mede de punten vinden uw dolk .	Offended_Emotion_EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2116.s.5	zode kunde gij u Vaderland verlosschen , en mede een de Dwingland sterven zijn ' misdaad doel bewenen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.2121.s.1	achilles , patroclus , alcimus , automedon .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.2123.s.1	automedon	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.1	ik Heer , vertoeven gei nog doen vlieden u ' helpen te bieden , gei zullen de vijand haasten zelf in u ' schip zieden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.2	wie zijn in het uiterst .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.3	Ik zelf komen te aanschouwen , Hoe Ajax , die tot nog de vijand kennen weerhouwen , Vermoeid en afmatten door het strijd zonder einde , verzwakken door winden op winden , zien hebben te rug gewennen , de vijand meest vinden zijn ' schip hebben gelaten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.4	doen dol Hector , tros en moedig boven maat Door zulk een ' voorspoed , steken terstond mede eigen hand hebben vuur in doen eerst kiel , die licht laag branden .	Emotion_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.5	hebben volk , vol wanhopen , smijten doen wapen uiten doen hand .	Emotion_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.6	zij droefheid groeien op het zieden de schip , die rijden brand .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.7	u ' troep wil , in u weerwil , gaan te strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2146.s.8	het zijn tij , geducht Held , die gei doen vlieden bevrijden , te minst die geren , die nog over zijn blijven : Daar , daar vinden hand allee ons uitkomst , en wij leven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2157.s.1	hebben zijn genoeg .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2157.s.2	laten wij gaan zieden , hoe die hebben staan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2157.s.3	Indien ik zelf hebben vuur aanschouwen kunnen , ik laten uw gaan , ik waard vriend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2157.s.4	Daar wild ik slechts na wacht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2157.s.5	weerhouden de vijand , die te ver komen , door u ' kracht , En mijn wapen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2162.s.1	Ik zullen hij weerstaan , Of sterven op hebben bed vinden eer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2166.s.1	laten wij gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.p.2168.s.1	Einde vinden hebben tweede bedrijf .	None
+huyd001achi01_01.TEI.2.text.body.div.head.2171.s.1	Derde bedrijf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.2175.s.1	achilles , patroclus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2184.s.1	IK hebben hebben Troische vuur doen grieks vlieden zieden blaken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2184.s.2	terwijl ik ' bende zien te strijd vaardig maken , moeten ik uw , waard vriend , tot vordering vinden ik ' wraken , rechte lederen , hoe gij uw zullen gedragen in deez ' zaak .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.1	u willen strekken ik een ' weten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.2	wij kunnen ik goed lederen , alles gei , ik vriend , gewoon alom te triomferen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.3	uw onderwijzing geven een kind ervarenheid , En zullen ik harden voorzien mede kennis en beleggen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.4	u ' scherp klink , gewoon de vijand te doel beven , u ' wapen zullen ik meer kracht en sterken geven : Daar bij zullen doen ijver voor doen glorie vinden wij landen , En het na zichten de vlieden , die rijden aan een ' zijde branden , ik moede verdubbelen .	Fear_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.5	u ' dapper soldaat , Die gei zode langen de strijd in stilligheid hebben laten Aanschouwen , thans verhitten op moordlust en op wraken , Die zullen ik , in deez ' gewicht en groot zaak , oprecht blijk vinden zij moede en kracht geven .	Emotion_BodilyProcess_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.6	doen vijand , rijden vermoeid , doch blindelings drijven Door zijn voorspoed , en het geluk , die hij verzelt , zullen aanstonds vlijen , op het zichten vinden zulk een held , schonen door inbeelding , en een vals schijn bedriegen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.7	ik dunken , ik zien hij rijden het veld ruim voor mijn oog , Wanordelyk doen vlieden verlaat , en mede haasten doen poort winden vinden doen Stad , die zijde voor het laatst begeven aanzien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.8	zijn doen troep nog niet vaardig ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2225.s.9	ik ' ziel haken na de strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.1	gei zijn ik ' vriendschap waardig , nul edelmoedig !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.2	alles ik uw in het slagveld zien , zijn het griek even , of Achilles strijd , of niet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.4	u ' dapperheid kunnen mijn ziel ontroeren .	Emotion_BodyPart_Moved
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.5	Verlosch doen bang vlieden , mare laten uw niet vervoeren Door hopen vinden groot winst .	Fear_Emotion_Hope
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.7	die ik uw drukk ' In beide mijn arm ! ik vrezen , ik vrezen voor ongeluk .	Fear_Worry_Emotion_EmotionalAction_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.8	ik harden , benauwd , beklemd , te uiterst verliggen , voorspellen ik niet velen goed , schonen ik ik vinden de zege verzekeren houwen durve .	Fear_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.9	u ' jonkheid , niet gewoon , mede paard , zode gezwind , mede wapen , zode schonen , Te treden in hebben veld , zullen mogelijk verblinden , en Te roekeloos , zij graf in haare zege vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.10	keren , god , keren die slag !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.11	of zijn deze u besluiten , zode roeien mede mijn vriend vrijen al doen griek uiten !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.12	gei zien , ik waard vriend , doen tranen lang ik ' wang Neervloeien , door doen rouw , die ik mijn ziel veel prang .	Emotion_Loss_BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.13	deze zijn doen tweedemaal ik leven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.14	torn ik ik Door Agamemnon , en zijn ' trots dwingelandij zode bits beledigd zien , hebben ik u ogen zieden schreien .	Offended_Emotion_BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.15	Nu wie , helaas !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.16	misschien voor eeuwig , moet scheien , zien gei zulks wederom .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.17	deze beide wassen uiten rouw .	Emotion_Loss_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.18	mare alles ik naar de strijd uw levend weder aanschouwen , zullen gei te derdemaal ik ogen zieden natten vinden tranen .	Joy_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2265.s.19	Dan zullen het vinden blijdschap zijn .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2275.s.1	u vriendelijk vermanen strekken mijn ziel een spoor , om mijn hevigheid En moede te paar mede verstaan en goed beleggen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.1	hebben zijde uw niet genoeg de vijand te overwinnen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.2	bewaren het gedenken aan ik ' wraken in uw zin .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.3	doen griek aanzien ik vinden doel in deze staan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.4	zode gei het geluk dan hebben , die gei de vijand slaan , En weder te rug drijven , zode laten uw niet verleiden Door ijdel zuchten , om in hebben Troische bloeden te weide .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.5	ik zenden uw niet derwaarts , om de juichenden Trojaan Te drijven in doen Stad , of ganschlyk te verslaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.6	kunde gei doen schip vinden zijn ' woede slechts bevrijden , zode komen ik weerzien , en varen niet voor mede strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.7	Niet , die ik uw benyd de roemen , die gei verdiend .	Emotion_Envy
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.8	Ik minnen uw , alles ik zelf .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.9	gei moeten ik ook alles vriend u bijstand bieden in deze uiterst de zaak .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2305.s.10	wan zode gei het grieks heir de stad kosten meest maken , Hoe zij ik schimpen mede ik ' gramschap , alles ik zien , die Troje , zonder ik , in puin en as lach !	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2314.s.1	zode groots een werken , waarom wie meer alles negen jaar strijden aanzien , zullen hebben loten voor uw bewaren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2314.s.2	mare stellen ik zelf een perk , hoe ver die ik mogen gaan : ik zullen uw gehoorzaam zijn .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.1	tassen eest doen troep aan , Die het vijandelijk vuur in Ajax schip ontstaken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.2	Straks zullen uw Hector , die zij overste zijn , genaaken ; ik weten , die hij uw terstond zullen zoeken , alles hij zien , die gei , o braaf , ik ' Thessaliers gebied .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.3	hij hebben ik steeds zoeken : wie aanzien dik strijden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.4	moeten gei dan mede hij slaan , zode doen hebben , alles u ' lid nog onvermoeid zijn : wan ik kennen zijn ' sterken en kracht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.5	gei zijn , om Hector te weerstaan , niet opbrengen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.6	gei zijn Achilles niet .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.7	Doch , kunnen hebben mogelijk wees , ontvlieden zijn ogen ; mare geven geren blijk , die gei zullen vrees .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.8	jagen dan de vijand door de muur , en door doen gracht : mare gaa daar zelf met niet over .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.9	uw macht hebben uitdienen , alles gei heen zode ver hebben verdrijven , die zijde zien wederom voorbij doen gracht begeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.10	Dan zijn doen vlieden genoeg beveiligen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.11	wan zode gei , verlokken door u geluk , en door doen vleierij de weifelen fortuin , heen volgen tot doen vasten de vijandelijk stad , zode zullen gei uw te lest bedriegen vinden , door uw alte klein macht : Wanneer hebben heir , die voor uw vluchtte , nieuw kracht zij krijgen uiten doen stad , en uw , mede fris lid , uw , die vermoeid zullen zijn , zij komen tegentreeden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2356.s.12	denken ook , voor het laatst , aan het geren ik rijden zeggen hebben , die mijn eer uw streng verbieden te naderen aan doen stad .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.2360.s.1	achilles , patroclus , automedon .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2367.s.1	ik Heer , u ' troep staan rijden vaardig , en verlangen , Voor het laatst uw order tot de strijd door ik te ontvangen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.1	Op het naderen vinden de tij , veel ik ik ' vrezen in het harden Aangroeien .	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.3	ik vriend , gei zien mede welk een ' smarten Ik uw zien heen gaan .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.4	gedenken aan mijn rijden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.5	alles gei mede voordeel hebben een kort tij strijden , de vijand door de muur en over ons gracht drijven hebben , zode kaar , en matig uw macht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.6	En gei , Automedon , die , aan Patroclus zijden , ik ' paard mennen zullen , en voer hij te strijd , Beteugel het moedig paren ; gei moeten allee doen vlieden , En het overschot vinden het heir beschermen in deze node .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.7	ik verbieden uw , schonen hij vluchten , de vijand na te jagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.9	die mijn oog uw rijden weder verwinnaar zien , vinden welk een ' bitter zorgen zijn mijn ziel bevrijden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.10	gunnen die ik uw voor het laatst omhelzen mogen ! het woord tij .	EmotionalAction_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.11	varen wel , varen wel , ik vriend !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.12	ik hart schijnen te breken vinden droefheid .	Emotion_BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.13	Hemel kaar , ai kaar deze droevig tekenen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.14	varen wel , ik halsvriend !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.15	maken , die gei ik danken verdiend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.16	varen wel , Automedon !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2395.s.17	dragen zorgen voor mijn vriend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2407.s.1	gei staan ik eindlyk toen voor het Vaderland te strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2407.s.2	Ik vrezen doen dood niet vinden een ' Troische hand te leiden : mare willen hebben noodlot zulks , ik bevel uw mijn wraken ; En strekken zulks het landen tot heil , zode sterven ik mede vermaken .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2407.s.3	varen wel !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.1	WAt zeggen hij ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.3	hoe snijden deze woord ik door hebben harden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.4	helaas !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.5	wild gei uw laten moord , u leven offeren , op die door uw vallen doen Griek zien meest maken ' vinden Trojes hogen waal !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.6	Patroclus !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.7	ach ik vriend !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.8	mogen u Achilles kies ; hij willen doen zege niet , zode hij uw moeten verlies .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.10	een doods schrik bekruipen ik angstig harden .	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.11	zullen ik weder gaan te strijd , o dodelijk smarten !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.12	naar Hectors woende hand ik halsvriend hebben doorsteken !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.13	zullen ik ik waap'nen , om Patroclus dood te wreken !	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.14	Neen ; uw dood , ik vriend , slepen , tot wij al straffen , Achilles te gelijk mede uw in het naar graf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.16	laten u bijstand hij beteuglen in zijn woeden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.17	mare kunnen ik zelf niet nog die ongeluk verhoeden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.18	Ja .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2434.s.19	ik zullen hij volgen ; doch vinden ver , op die ik ' hand hij bijstand biede , indien doen node hij overmannen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.2439.s.1	achilles , brizeis , cephize .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2445.s.1	WAt zieden mijn oog ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2445.s.3	zijn het mogelijk ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2445.s.5	zijn het waarheid ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2445.s.6	of een spook te affront uitrijzen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2445.s.7	zijn gei hebben zelf ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.2447.s.1	brizeis	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2449.s.1	Ik zijn het , en vallen voor uw te voeden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.1	rijs op , Mevrouw .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.2	mare zeggen , hoe komen gei hier ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.3	wat doen , Wat zoeken gei ? ik staan verbazen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.4	wij hebben uw aangedreeven ik hier te zoeken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.5	wij hebben uw die lassen geven ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.6	hebben Agamemnon uw deez ' vrijheid toestaan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2462.s.7	willen hij ik tegen danken bevredigen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2471.s.1	Welaan , wie zijn hier nu allee .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2471.s.2	laten wij vrijmoedig spreken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2471.s.3	doen wijze Ulysses kennen u stenig harden niet breken , nog Ajax uw tros vermurwen .	Emotion_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2471.s.4	ik weten , ik wagen Zeer velen , die ik komen zieden , of ik uw nog behaag , alles eertijds .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2481.s.1	Hoe , Mevrouw ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2481.s.2	kunde gei ik zelf zulks vragen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2481.s.3	deze zijn het allee , die ik in uw niet kunnen behagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2481.s.4	hebben gei nog geren bewijs genoeg vinden mijn minnen ?	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2481.s.5	Om uw blyf ik steeds onveranderlijk vinden zijn : En om de bitsen honen , uw aandoen , te wreken , laten ik ik zwaarte mede rusten , en in doen schede steker .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2489.s.1	gei minnen ik alte zeer ; of , zode ik het zeggen mogen , gei minnen ik rechte verkeren .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2507.s.1	sinds uw ik ogen eest zien , torn ik , zenden door doen griek , om doen wal vinden u Lyrnessus mede ik ' troep te overval , doen Stad vermeesterde , hebben ik vinden u zichten hebben levendig beeld in mijn ziel stichten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2507.s.2	doen dwingland dor uw ik weder mede wellen ontroven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2507.s.3	Straks hebben ik al zorgen vinden mijn hals geschooven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2507.s.4	Ik gaa niet meer te strijd , ik laten de vijand woeden ; Hoe zeer hij bidden , die ik ik weder mede hij verzoenen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.1	moeten ik deze aanzien alles bewijzen uw trouwen ; Ik moeten bekennen , vinden wat zijden ik die beschouwe , ik begrijpen u ' mening niet .	Emotion_Loyalty
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.2	Wanneer ik vinden uw gaan , En zelf vinden uw de lassen , om met te gaan , ontving , storten ik een gans stroom vinden tranen uiten mijn oog .	BodyPart_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.3	Ik zien u fier gemoed wel door doen spijt bewegen , Die Agamemnon uw dor aandoen , tros vinden zijn ; mare ik zien in al u doel geren ' teken vinden minnen .	Emotion_BodyPart_BodilyProcess_Love_Pride_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.4	gei laten ik heen gaan , en kwaamt ik zelf niet zeggen hebben laatst vaarwel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.5	Hoe kennen , hoe moeten ik deze uitleggen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.6	In plaatsen vinden ik zelf te vertroosten in die staan , Sloegt gei , te nauw node , in het heen gaan , u gelaten Op ik ontstellen zichten .	Worry_BodyPart_BodilyProcess_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.8	kosten gei uiten mijn oog Niet zieden , hoe zeer ik door u ' droefheid worden bewegen !	Emotion_BodyPart_Compassion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.9	Hoe mijn ziel verlangen , om mede een kussen voor het laatst ik afscheid nog vinden uw te nemen !	Emotion_EmotionalAction_BodyPart_Love_Desire
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.10	gans verbazen , En tot doen dood ontstellen , zijn ik vinden uw scheiden .	Emotion_Unhappiness_Wonder
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2550.s.11	Hoe gaan ik treurig ogen in zijn tranen weide , zode ras ik eenzaam wassen ; en vrijheid hebben , ik ' rouw de teugel zonder maat te vier !	Emotion_Loss_BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.1	Ach Mevrouw !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.2	herroepen die droef tij niet weder in u ' gedachte .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.3	doen vrouw uiten zien mede woord en mede klacht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.4	ik ' tong wassen niet bekwaam tot spreken .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.5	neen , ik harden wassen al te zeer beklemd door zulk een honen en smarten .	Offended_Emotion_BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2560.s.6	hebben ik uw niet beminnen , ik hebben uw zelf geven , En Agamemnon hebben niets tegen ik misdrijven .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.1	En ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.2	zode gei ik nog , gelijk gei zeggen , beminnen , Hoe kunnen hebben mogelijk zijn , die gij uw niets onderwind , Om ik weder in u ' macht te krijgen , alles voor deze .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.4	zien hebben zelf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.5	zijn deze geren ' rijden om te vrees Voor een ' verliefd ziel ?	Fear_Emotion_BodyPart_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.6	nog doen gei meer : en schonen ik Agamemnon zelf uw weder hebben aangeboon ; hebben enig , denken ik , daar ik Held na zullen verlangen , wild gei ik in tegendeel niet weder vinden hij ontvangen .	Emotion_Desire
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.7	hij voegen doen heerlijk geschenk daar nog bij : Doch niets kunnen u gemoed veranderen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2582.s.8	Daar gei , Om ik vinden uw liefde op het zeker te overtuigen , geschenk geven moeten , om zijn gemoed te buigen , Om ik daar door weder te verkrijgen in u ' macht , zien ik ik zelf vinden uw op het smaadelykst verachten .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2591.s.1	mare , ik bidden , hoe komen gei hier ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2591.s.2	zijn gij uiten uw zelf doen band En slaaverny ontvluchten vinden het hoofd de dwingeland ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2591.s.3	Zondt hij uw herwaarts , tot verzoening vinden ik haten ?	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2591.s.4	Of zijn hebben op bevel en order vinden de raden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.1	torn Ajax weder komen mede Ulysses , en wij zeggen , Hoe gei vinden zij verwoed en meer vertoorend scheiden , alles ooit , zitten elk bedrukt .	HeavyHeartedness_Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.2	doen dwingland zuchten zelf , slaan beven zijn ogen na het hemels gewelf , En roepen doen god om helpen , daar hij zijn ' schuld bekennen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.3	doen droefheid en doen rouw wassen algemeen .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.4	In het eend spreken dus Laertes zode , op list steeds bedenken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.5	wie zieden , o held , wij in het uiterst brengen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.6	die fier harden zijn door geren ' rijden te overwinnen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.7	ik moeten iets ander , zode ik vorderen willen , beginnen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.8	ik zenden ' Brizeis zelf aan hij .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.9	zij schonen zichten , zijn voor hij eertijds , in de strijd zelf , hebben zwichten , hebben mogelijk op zijn harden doen zelfde kracht behoudens , schonen zijde elkandere in velen dag niet aanschouwden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.10	alles hij zij weder in zijn ' tent hebben , zullen misschien zijn toren verminderen , en wie hij weder zieden te strydgaan , daar wie hij in al die tij niet zien .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.11	het zijn tocht mede wij braden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.12	wie moet al waag .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.13	Elk keuren zijn zeggen goed .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.14	ik halen ik in de raad .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.15	ik tonen ik in het kort de beklaagelyken staan vinden het grieks leger ; en , om ik meer te bewegen , ik stellen ik voor hebben ogen , hoe Hector , die zijn zege vasten voortzetten , en verwoed rijden naderen aan u ' vlieden , uw zelf , ik waard Held , ook dreigen mede doen dood .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.16	Op die verbeelding worden ik ' ziel mede uw bewegen .	Emotion_BodyPart_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.17	ik denken , ik zien uw rijden neerstorten voor mijn oog .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.18	Ik weigeren nochtans weder na uw toen te gaan , zode langen ik uw willen niet zelf hebben verstaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.19	Ik vrezen mijn Heer en waarde te verstoren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.20	Tot die Ulysses zien dus ook voor ik laten horen : Mevrouw , wild gei u Held nog eenmaal weerzien , gei hebben deez dagge mare tij ; wan morgen gaan hij vlieden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.21	hij maken zien rijden reden , om weder in zee te steker .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.22	deze kosten allee het ontzag , die ik uw toedraag , breken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.23	ik besluiten terstond te gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.24	ik wouw ik lief velen eer nog eens verstoren , dan die ik hij nimmer weer Aanschouwen zij .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.25	willen ik doen waarheid tocht ontdekken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.26	zijn het zijn ik Heer ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.27	denken gei op morgen te vertrek ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2669.s.29	zode hebben zijn zijn , laten ik met gaan , op die ik geren meerder smaad geschieden , door zijn dwinglands tieranny .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2683.s.1	Ulysses hebben , Mevrouw , uw niet geheel bedriegen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2683.s.2	Ik hebben het zeggen : mare door de branden de vlieden bewegen , En zien hebben gevaar te naar , om lang stillen Te zetten , hebben ik , wild ik zelf niet strijd willen , Patroclus mede ik volk en wapen zenden , Om het hatelijk vuur , die rijden twee schip hebben verslinden , En Hectors raazerny mede moede te weerstaan .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2683.s.3	Nu weten gei zelf , Mevrouw , die ik niet in zee zullen gaan , zode langen ik Vriend niet weder zijn uiten hebben veld komen , En ik zijn ' dood , of zijn ' verwinning hebben vernemen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.1	zode zijn u volk , voor het eest , dan weder gaan te strijd !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.3	welk een ' vreugde , ik Heer !	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.4	hoe zijn ik ' ziel verblijd !	Joy_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.5	Ik vrezen alreeds , die ik , alles Helena in Trojen , hebben zaad vinden tweedracht zullen in het grieks leger stro , de droef ondergang bewerken vinden de geren , wie bijzijn ik vlijen moeten , doch om wie afzijn ik wee .	Fear_Emotion_EmotionalAction_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.6	de griek droef staan hebben uw in het einde bewegen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.7	zode veel ik al zorgen uiten ik gemoed vervliegen : zode zullen ik ik hier naar niet wijdte , die door ik doen Griek brengen zijn onder Trojes heerschappij .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.8	wan deze zijn het noodlot vinden doen onzaligste al vrouw .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.9	ik vrezen doen overwinning vinden ik Vaderland te aanschouwen , Ik vrezen doen nederlaag vinden hij , die mede wellen ik landen verwoesten , ik manna en broeder hebben vellen .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.10	deze droef herdenken persen doen tranen uiten mijn oog .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.12	indien u ' deugd ik ' ziel niet hebben bewegen , Hoe zoet zijn het ik wezen , te zieden , die ik zichten zode fel een vuur vinden haten hebben in u harden stichten !	Emotion_Hatred_BodyPart_BodilyProcess_Moved
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.13	ik moeten ik verheugen , die ik doen vriendschap hebben verbreken de grieks hoofd , die ik ik ' vriend hebben wreken , doen schim verzoenen hebben vinden ik broeder en manna .	Joy_Emotion_EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.15	in tegendeel die zelfde Achilles kunnen ik ' ziel , door zijn deugd , in zijn minnen doel blaken .	Emotion_BodyPart_BodilyProcess_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.16	Helaas ik Heer !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.17	gei zien doen tranen lang ik ' kaak Neervloeijen .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2714.s.18	belg uw niet ; ik bekennen uw , tot ik ' smarten , die ik uw haaten willen , doch min moeten in het harden .	Emotion_Hatred_Love_Sadness_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2718.s.1	gei wild ik haaten !	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2725.s.2	en hebben ik gene rijden , zode ik ik ' plicht niet te buit zijn treden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2725.s.3	En gei beminnen ik nog ?	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2729.s.1	zode zeer alles ooit , Mevrouw .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.1	dragen zorgen dan , die ik nooit die dwingland weder aanschouwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.2	Ik zijn , op zijn lassen , hier weder bij uw komen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.3	hij hebben ik mede wellen eest uiten u arm nemen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.4	Nu zenden hij ik wederom . het zijde gei dan blijven , of gaan , stellen ik niet meer te doelen voor zijn wrok en haten .	Emotion_Hatred_Spitefulness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.5	laten ik hier blijven ; wild doen griek ik aanschouwen , alles doen oorzaak vinden zij ramp .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.6	laten uw u toren berouwen , En gaa zelf weder te strijd , op die ik , tot ik ' rouw , Ook het overblijfsel vinden ik landen niet weder aanschouwen .	Emotion_Anger_Remorse
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.7	Hoe zullen een ieder vinden ik spreken , alles zijde zien , Hoe Held Achilles deugd Brizeis kennen behagen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.8	wan , schonen doen schaamte ik doen tong tot nog toen bond , gei , gei zijn doen enig , in hebben gans werrelds ronden , Daar ik , in mijn ramp , vernoeging bij kunnen vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2751.s.9	ik zien ik alom vloeken vinden vijand en vriend : Doch zode langen , alles gei ik niet wederom verlaten , troosten ik ik nog in deez beklaagelyken staan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2763.s.1	u afzijn hebben ik ' ziel meer , dan doen schae , doel leiden , Die griek hebben lijden , zode langen ik niet wouw strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2763.s.3	Mevrouw , ik doen mijn achtbaarheid te korten , Indien gei zelf ik niet weergegeeven woord Door Agamemnons hand .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.1	sparen , sparen u ' tranen .	BodyPart_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.2	ik zullen mede ik ' vlieden door zee geren wegge na Phthie banen , Of gei zullen mede ik gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.3	die zweren ik bij doen god .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.4	stellen uw rusten , ik Lief .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.5	mare om vinden deze honen ik op de dwingeland te wreken , zijn het vinden nood , die gei , een kort tij , nog horen na ik ' gebod .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.6	gei spreken na u liefde : ik oordelen na hebben geren mijn eer ik afvergt , naar zode velen weerwaardigheen .	Honor_Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.7	Ik moeten nog eengen tij u vriendlyk bijzijn durven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.8	wan zode Achilles geren ' voldoening kunnen verwerven , zijn hij Brizeis gans onwaardig .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.9	kaar , ai kaar , Al vallen hebben scheiden hard , dan na de dwingland weder .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2798.s.10	Ik pynig ik niet minnen , alles uw : mare ik hebben gezworen , Niet eer na uw liefde , en zijn ' gebeen , te horen , Voor hij zien zelf voor ik vernederen , en die spijt Dus wissen uiten mijn ziel , daar zijde zode velen om lijden .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.1	zijn deze die teder minnen , zijn met gei ik wild vlijen !	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.2	wie zijn bij een .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.3	gei dwingen ik zelf om weder te scheien .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.5	zijn uw ik zichten zode haatelyk !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.6	wel aan , Doorstoot ik barsten : wat hoeven gij uw lang te beraden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.7	Of vrezen die zwaarte , hebben geren ik ' broeder deedt sneeven , hebben geren ik Bedgenoot beroven hebben vinden hebben leven , zien in hebben einde ook te bezoed'len mede ik bloeden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2810.s.8	Te sterven vinden u ' hand zijn mijn ziel zode zoet , Ja zoet , alles , nu wie bij een zijn , weder te scheiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2821.s.1	hebben gij ooit zien , zelf daar ik ' hand in het bloeden gaan weide , die ik ik schuldig maken aan het moord vinden een ' vrouw ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2821.s.2	En zullen ik uw , die ik zode teder , zode getrouw beminnen , ontmenschte ! het stalen in uw boezem druk ?	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2821.s.3	Eer storten doen Hemel op ik hoofd al ongeluk , Die ooit een sterveling gevoelen hebben en beweend , Eer gei Achilles harden zode wreed zien , zode versteend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2832.s.1	Hoe kunnen u ' wreedheid voor elk oog klaar blijk ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2832.s.2	Omdat Mycenes Vorst uw dor verongelijken , brengen gei u Vaderland in d ' allergrootsten node , En dreigen hebben gans heir mede een wis dood .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2832.s.3	ik , die zode teder uw beminnen , in mijn zin , En die gei zelf veinzen zode trouwen wederom te min , ontzeggen gij uw bijzijn , en tonen , mede een fier gelaten , die mijn droefheid uw niet meer te hart gaan .	Emotion_BodyPart_Love_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2842.s.1	u ' liefde raken ik .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2842.s.2	mare zij strek ik tot geren hinder , die ik , om haarent willen , ik roemen en eer verminderen .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2842.s.3	Gaa dan , Mevrouw : ik verzoek het , alles minnaar ; en gebied het , alles voogd vinden ik ' gevangen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2854.s.1	Onlydelyk verdrieten !	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2854.s.2	wild gei hebben zode begeren , mogen ik niet tegenstreven : mare , zode gei zorgen hebben voor ik welzijn en ik leven , Verlosch ik ' bang ziel uiten deze slaaverny , kosten gij in ik harden zieden , wat ik om u afzijn lijden , Ontmenschte ...	Fear_Emotion_Loss_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2854.s.3	mare ik gaa , wild ik moeten gehoorzaam wees .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2861.s.1	het staan nog aan ik niet , om u ' droefheid te genezen .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2861.s.2	ik moeten zelf afwachten , wat doen dwingeland zullen doel , Om ik ' beledigen eer en glorie te vergoen .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2865.s.1	varen wel , ik Lief !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2865.s.3	hoe bitter vallen deze scheiden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2869.s.1	varen wel , Mevrouw ! ik zullen uw in veiligheid geleiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.p.2871.s.1	Einde vinden hebben derde bedrijf .	None
+huyd001achi01_01.TEI.2.text.body.div.head.2874.s.1	vieren bedrijf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.1	IK hebben uw wederom doel karn , Hoe zeer het uw smartte , o schoon vrouw !	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.2	u vriendelijk zichten te ontberen , strekken mijn ziel een ' groot rouw .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.3	Ik zien , wanneer wie moeten scheien , u ' minlyke oog bitter schreien .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.4	Ik houden ik ' smarten in , en ontveinsde ik verdrieten .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.5	mede droefheid hebben ik uw de dwingland weder geven : Doch ik kunnen zonder uw wel leven ; mare zonder eer leven Held Achilles niet .	Honor_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.6	Patroclus , waard mijn vriend , hebben ik het geluk , uw naar de strijd Verwinnaar wederom te vinden , Hoe zullen ik ' ziel dan zijn verblijd !	Joy_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.8	ik vrezen , gei zullen doen kracht vinden Hector mogelijk verachten .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.9	betrouwen uw niet te velen , alles gei die wreed zien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.10	Doch kunnen ik uw dood mijn eer weergeven , Ik kunnen ook zonder uw wel leven ; mare zonder eer leven Held Achilles niet .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.11	Brizeis , wat moeten gei niet leiden , Nu het schijnen , die ik uw weder verstoten !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.13	ik laten uw strijd , terwijl ik zelf blyf buit node .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.14	ik dunken , ik horen uw beide klagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.15	doen een gaan om ik zijn leven waag ; Daar doen ander zien om ik vinden elk verstoten zien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.16	Doch kunnen u ' droefheid ik mijn eer weergeven .	Honor_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.17	zode kunnen ik zonder uw wel leven ; mare zonder eer leven Held Achilles niet .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.18	gei , god , die ik woud voorspel , die mijn hand en dapperheid de muur vinden Ilium zij vel , hebben uw godsspraak ik misleiden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.19	In plaatsen , die elk ik eer zij toon , zien ik ik vinden Agamemnon honen ; terwijl hij ieder volgen , en mijn zijde verlaten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.20	die hij ik dan voldoen , of die zijde al sneeven , wan ik kunnen zonder zij wel leven ; mare zonder eer leven Held Achilles niet .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.21	mare neen ; ik zullen de uitslag wacht vinden deze allerlaatst strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.23	die doen vlieden zien door u ' kracht , Patroclus , weder zien bevrijden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.24	mare moeten gei voor de Trojer vlucht , En laten ik Agamemnon zucht , zode kaar ik na ik landen , en laten hij in het verdrieten .	Fear_Emotion_EmotionalAction_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2937.s.25	die dan doen griek op de Troischen oever sneeven , wan ik kunnen zonder zij wel leven ; mare zonder eer leven Held Achilles niet .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.stage.2942.s.1	achilles , feniks .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2949.s.1	HOe gaan hebben ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2949.s.2	hebben ik vriend vinden zijn moede rijden blijk geven ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2949.s.3	hebben gei rijden de vijand af zieden wijken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2949.s.4	verklaren doen zege zien voor wij ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2949.s.5	en zijn doen vlieden Door deze bijstand al beveiligen uiten de node ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.1	ik zullen uw verhaal , het geren ik zien hebben mede mijn oog .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.2	u moedig volk , al langen mede ons ramp bewegen , En haakend na de strijd , zien uw halsvriend aan , En wachten zijn order allee om verder voor te gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.3	Patroclus toeven niet langen , mare zien aan al zijden , zijn het nodig wassen , hebben eest de vijand te bestrijden , vliegen na doen schip straks vinden Ajax , en vinden Held Protezilaus , half verslinden door het wellen de vijandelijk vlammen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.4	Ik zien u ' braaf bende , Op zijn lassen , mede vreugde zien aanstonds derwaarts wonen .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.5	doen vijand zien u vriend , en denken , die gei hebben zijn .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.6	hij kennen u ' kracht nog , schonen hij in lang tij Die niet beproeven hebben .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.7	eest zode moedig en verbolgen , zien ik hij straks vlucht voor u ' troep , die hij volgen .	Fear_EmotionalAction
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.8	gelijk een watervloed , al wat hij stuiten of keren , Door het breken vinden een dijk , te neersmyt , overheert , En dikwijls mede zien slepen : zode zieden wie uw troep doen Trojers drijven , die vasten om genadig roep , het Geweer wegge werpen , en mede haasten zien na doen stad begeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2985.s.9	hebben gei zelf hebben zwaarte weder opvatten , Om d'overwinnaar dus op het vinnig te treffen , Hoe zij gans Griekenland u naam en roemen verheffen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2993.s.1	Neen feniks , Griekenland zijn zelf wel overtuigen , die , zode doen Troische macht voor ik Patroclus buigen , ik arm , indien hij weder de vijand willen weerstreven , de muur vinden Ilium de laatst krak kunnen geven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2993.s.2	mare hoe zijn het mede doen vlieden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.2993.s.3	hebben zijde velen schae lijden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3001.s.1	Wanneer u braaf vriend de vijand voor zien heen zien stuiven door hebben veld , hebben hij straks zorgen gedragen , doen vlammen te blussen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3001.s.2	torn al doen ander deze zien , Hoe zeer zij moede ook wassen verdwijnen mede zij macht , voegen elk zien bij u volk , en krijgen weder nieuw kracht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3008.s.1	mare hebben gei niet zien , of Hector , onder het strijd , ik vriend hebben aandoen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.1	zode ras aan al zijden doen schrik hebben Troische heir weder na doen stad deedt zieden , zien ik die groot Held , zode wel alles doen ander , vlieden .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.2	ik zien , hoe zijn ' paard , die in het run veel held verpletteren , mede schrik na het beven Troje snelden ; En denken , zijn het mogelijk , die zode moedig een soldaat , In een zode groot node , zode ras hebben veld verlaten !	Fear_Emotion_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.3	ik verheugen ik evenwel : wan daar die held gaan vlijen , wij vinden hebben Troische heir zullen wij dan weerstand bieden ?	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.4	veel ander nochtans , rijden tot aan de muur vluchten , de schrik vinden al zij volk aanschouwende , en beducht Voor groot nederlaag , staan pal , om tij te winden , Op d'oever vinden doen gracht .	Fear_Worry_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.5	Hier , denken ik , hier beginnen doen Trojers wederom te krijgen nieuw moede .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.6	doen gracht , rijden half vullen mede lijk en mede bloeden , woord mede hebben vlak veld vereffenen , door doen menigt ' vinden held , naar zij dood in deze plaatsen verenigen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3033.s.7	geren Griek , die , in die staan , geren ' wonder bedryft , Die zijn lof in het sant mede zijn vijand bloeden niet schrijven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3046.s.2	die ik zieden kunnen , die ik roemen nog gaan te hart !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3046.s.3	Ik danken uw voor deez ' gul .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3046.s.4	mare denken om mijn smarten , En het geren ik hebben lijden door een ' zode bits smaad .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3046.s.5	geven , die ik lief vriend verwinnaar kaar !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3046.s.6	mare laten hij niet geheel en al de vijand te onderbrengen , zode gei het herstellen vinden mijn eer ooit wild gehengen .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.1	ik hebben doen eer hebben , die gei , vinden uw eerst tij , Door ik bezorgen , bewaren , en onderwijzen zijn ; zelf torn gij u Vaderland , nu negen jaar lijden , verlaten , om , voor de waal vinden Troje , u ' dapperheid te proeven te stillen , hebben u Vader ik bieden , altijd een wakend ogen te houwen op zijn zode .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.2	hebben ik ik in ik plicht niet wel genoeg gekweeten ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.3	hebben ik ooit doen eerbied , die ik uw schuldig wassen , vergeten ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.4	Of kosten gij uw ooit mede rechte beklagen vinden ik raden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.5	horen dan nog een na ik in deez benauwen staan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.6	het zijn zijn , doen Trojers , die uw niet in het veld verwachtten , begeven zien te vluchten , torn zij uw te aanschouwen dachten ; torn u ' Thessaliers in het veld verschijnen , mede Een ' woede , daar geren heir , hoe sterk , zien tegen zetten .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.8	hoe schielijk kunnen die oorlogs kans verdraaien !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.9	wie zieden op een dagge verscheiden ' wind wade , mare sneller alles doen winden verkeerd hebben lossen geluk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.10	naar een kort vreugde volgen dikwijls zwaar druk .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.11	groots zijn doen braafheid vinden de trouwsten uw vriend : mare niet zode groots , die hij geren ' sterk hand kunnen vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.12	het zijn al geren Parissen , die hij in het veld ontmoeten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.13	Indien Sarpedon dan , of Hector , heten op bloeden ; Indien Anchizes zode , of ander vinden zij held , zien tegen uw vriend mede al zij macht een stellen ; hij zijn , ofschoon hij zijde voorzien mede u geweer , Niet onverwinnelyk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.14	bedenken deze wel , ik Heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.15	hebben dan een Trojer hebben geluk vinden hij te treffen , Hoe ras zullen zien doen moede weder in zij harden verheffen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.16	Hoe schielijk zij u volk , indien hij het onheil hebben Te sneuvlen , zijn zichten weder wonen vinden doen stad !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.17	gei hebben te velen wagen mede hij in het veld te zenden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.18	woord hij verwinnen , ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.19	hoe zien ik uw bende verschrikken en hopeloos weder vlucht na doen vlieden , En storten wij al t ' zaam in een ' gewis dood !	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.20	vinden een Held allee hand wij geluk en leven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.21	alles ik deze overdenk , hoe veel ik ik ' lid beven !	Fear_BodyPart_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.22	het zijn niet , omdat ik vrezen of zorgen hebben voor doen dood , mare omdat gei wij storten in een zode groot node .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.23	gei , gei Achilles , die doen trots en hoog wal vinden het machtig Ilium moeten door u ' hand doel val ; gei , vinden wie dapperheid en onverwinlyk stalen hebben grieks leger zien een ' blijde zegepralen beloven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.24	Gaa dan nog .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.25	gei hebben de god gezworen , Te karn in hebben veld , te matigen u toorn , zode ras gei het grieks vuur zullen zieden in ons vlieden .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.26	Zulks hebben gei rijden zien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.28	in deze node zenden gei allee u vriend , om voor hebben landen te strijd , En blijven zelf rust .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.30	kunnen deze u ' grootsheid leiden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.31	zode nu Patroclus u ' vermaning vergeten , Of zode een ' Troische hand die Held te aard smeden , mede welk een ' macht zullen gei de vijand weerstand bieden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.32	gei zullen u ' troep zelf , verbazen , verschrikken , zieden vlijen ; doen vijand naderen aan u ' schip ; en u ' hand geren ' vriend vinden , om hij eengen tegenstand Te bieden in die node .	Fear_Emotion_Wonder
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.33	Ach laten uw tocht bewegen !	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3129.s.34	Verlosch u vriend , en trekken voor het laatst de vijand tegen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3139.s.1	zode hebben ik vruchteloos zode lang tij wachten mede strijd . ik hebben vergeefs wij heir in node brengen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3139.s.2	ik willen die doen dwingeland ik zelf zullen komen smeken Om bijstand , eer ik weder ik moedig harden willen breken , Of strijd nevens hij .	EmotionalAction_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3143.s.1	ik zien Alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3148.s.1	achilles , feniks , alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3154.s.1	WAt hebben gij wij nieuw te brengen , die gei uw zode schielijk reppen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3154.s.2	spreken op .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3154.s.3	hoe varen ik vriend ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3154.s.4	hoe varen mijn bende ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3161.s.1	het gelieven u waarde vriend , ik na uw toen te zenden , zode ras zijn ' braaf vuist Sarpedon , d'eedlen Held , te neder geslagen , en manmoedig hebben vellen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.1	gei sterven , o braaf ziel , gelijk ik uw zien leven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.2	nooit wensen ik ander , alles voor het Vaderland , te sneeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.3	Zulks zijn ik ook voorspellen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.5	in deze staan woord ik zulks weder ontzeid door Agamemnons haten .	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.6	Sarpedon , ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.7	hebben gij ooit denken , die , naar u leiden , Achilles uw deez ' dood nog zelf zij benijden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.8	gei sneuvelen door doen hand vinden mijn waardsten vriend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.9	deze eer hebben uw deugd al lang tij verdienen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.11	moeten ik ook doen dood voor Trojes wal sterven , laten ik die vinden doen hand vinden Priams zode verwerven , vinden dappren Hector , die ik ' kracht evenaren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.12	geren ander zijn deze eer , vinden ik te treffen , woerd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.13	vinden een onwaarde hand de laatst steken te ontvangen , zijn iets , die mijn ziel nog naar ik ' dood zij prang .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.14	mare hoe zijn het toegegaan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3181.s.15	verhalen ik zijn dood .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.1	Patroclus , zien die doen vijand ons vlieden Op zijn komst verlaten , vervolgen doen vluchteling Tot aan doen gracht , daar zijde terstond weder order ontvingen , wij in te wacht , en mede moede te weerstaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.2	u ' troep , heten op wraken , vervoeren door gramschap , gaan de vijand moedig naar .	Emotion_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.3	Hier zieden wie hun held , Die tegen wij op nieuw zien in slagorde stellen , doen groot wonderen doel , die immer zijn zien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.4	Sarpedon , die zijn volk weder na doen stad zien vlieden , Weerstaat allee doen macht vinden u ' wraakzieke bende ; Tot die zijn ' troep zien weder tegen doen ons wonen , Op het horen vinden zijn ' stemmen .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.5	hij springen mede fris moede vinden zijn waag af , tot doen enkels toen in het bloeden , En spreken Patroclus aan : Achilles , ik zien , u toorn zijn eindelijk verzoenen ; aldus laten hij zien horen , Niet ander denkende , of gei zelf waard bedekken mede uw wap'nen , weer zichten elk schrik verwekken ; staan stillen , verwin ik , zode gei verder uw zege Vervolgen wild .	Fear_Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.6	u vriend springen aanstonds onverlegen met vinden de zijn af , en bieden , mede een wellen , alles of gei het zelf waard wezen , die groot Held de punten vinden zijn geweer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.7	ik horen hebben krygsvolk schreeuwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.8	Elk zien na deze gevecht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.9	geren ' hongerig leeuw Staan ooit zode onbevreesd , al strydenze om de buiten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.10	naar het vel vinden doen speer , halen elk zijn slagzwaard uiten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.11	zij moede verdubbelen op hebben zieden vinden zijn ander oog .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.12	het Volk staan om beide moede verrukken en opgetogen .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.13	Doch eindelijk u vriend treeft zijn weerparty mede een zode wis slag , die hij aan zijn zijde Neerstort , gans leevenloos .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.14	zijde , die deze strijd aanschouwden , Die , naar deze onheil , zelf zij kracht niet meer betrouwen , begeven zien te vluchten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.15	Patroclus , mede hebben bloeden vinden deze Held bevlekken , klimmen aanstonds weder vol moede Op zijn waag .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.16	mare helaas ! ik zien ondertussen Een , die zijn wraakvier , op u Halsvriend , niet kunnen blussen , zijn ' paard , dol vinden toren , bestrijden , en hij kwetsen hebben een in zijn buik .	Emotion_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.17	Automedon , op het lest heen niet meer machtig mede de teugel te bestieren , zien zien noodzaken , zij de vol tomen te vier .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.18	zijde vlieg door doen gracht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3244.s.19	u ' troep volgen hij , Gemoedigd door zijn varen , en , hoorende zijn ' stemmen , Die zijde door het krygsgeluid niet kunnen onderscheiden , geloven , die hij heen tot aan doen stad wouw lijden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3253.s.1	zode zijn ik ' voorzorg dan geheel onnut wezen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3253.s.2	Hoe maken ik deze mare op nieuw voor uw bevreesd , Patroclus , waard vriend !	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3253.s.3	doen god uw behoeden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3265.s.1	geren node , ik Heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3265.s.2	ik zien de vijand voor hebben woeden vinden u ' Thessaliers straks vlucht , en ontstellen te stad invliegen , om hebben schrikkelijk wellen vinden uw vriend te ontgaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3265.s.3	Ja zelf , zode ik mijn oog , Die zulks vinden ver allee zien hebben , niet bedriegen , lopen Troje groots gevaar , en zien zijn hogen waal Door uw vriend dreigen mede een gewis vallen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3272.s.1	die willen hebben noodlot en hebben Godendom verhoeden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3272.s.3	wat zullen ik dan mijn oneer weder vergoeden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3272.s.4	zij Troje zonder ik zien overwinnen zieden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3272.s.5	Neen , Alcimus , o neen : die zien gei nooit geschien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.1	zijn het nog geren tij , ik Heer , Patroclus bij te spring ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.2	Door zijn paard , die geren ' hand meer kunnen bedwingen , vervoeren en wegge rukken , en ver vinden ons vlieden , slepen hij wij al mede zien zelf in deze node .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.3	zode langen hij niet bestaan , die trots stad te naderen , bedekken hij zijn ' kruin mede groen lauw blaar : mare nu hij u verzoek en les dus verachten , vervallen hij uiten zien zelf in zijn vijand woede en macht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.4	blijven hij in het slagveld ; hoe zullen gei zijn ' dood beklagen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.5	verwinnen hij Ilium ; hoe zullen uw die mishagen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.6	Bezorg uw eer dan , of hebben leven vinden die Held .	Honor_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.7	zelf , schonen hij levend hebben vijandelijk wellen Thans weer ontkomen kunnen , doch evenwel moeten vlucht ; Ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.8	zullen gij om ons vallen en nederlaag niet zucht ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.9	gei zullen de Frigiaan , alles vinden de morgen , weder doen vlieden zieden blakeren , wij moedig krygsvolk neder zieden houden , gans verwoed , en , doch te laten , aanschouwen , Hoe weinig zijn mens helpen op aard zijn te betrouwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.10	doen god , langsaam in zij straf , toon klaar Door duizend tek'nen , in wat schrikkelijk gevaar gij wij en uw zelf storten : mare wil zijde zien wreken , het zijn vrucht'loos , die ik weder zij gramschap zoeken ' te breken .	Emotion_EmotionalAction_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.11	nemen deez ' vermaning dan eindlyk wel in achten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3308.s.12	zode gei u plicht , tot heil vinden het vaderland , betrachten , u ' gramschap weder verzoenen , en voor de Griek wild strijd , ik verzekeren uw , u ' hand allee kunnen wij bevrijden .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3313.s.1	achilles , feniks , alcimus , automedon .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3317.s.1	doen Hemel hoeden wij !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3317.s.2	hoe ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3317.s.3	gei hier Automedon ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3333.s.1	wie zieden de node op nieuw verdubbelen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3333.s.2	Ik kennen u ' paard , zwaard kwetsen , niet lang weerhouden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3333.s.3	doen vluchteling , die wij in wanorde aanschouwen , Staan weder pal : terwijl Vorst Priams dapper zode , die elk denken , die terstond doen stad wassen ingevloon , mede nieuw moede weerkeerde , en roepen tot zijn ' soldaat , die hij heen niet , uiten vrezen , lafhartig hebben verlaat , mare door zijn ' paard wegge voeren wassen , torn doen hand vinden uw vriend doen vlieden verloschte vinden de branden .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3338.s.2	leven ik vriend niet meer ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.1	torn ik hij hebben begeven , verdrijven u zorgen , ik Heer , hebben ik hij nog zieden leven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.2	de waag stuitende op een hogen stenen , vallen hij In het bloedig slagveld neder , en ploffen aan mijn zijde .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.3	wie spring over einde , en staan de vijand tegen , zode velen wij mogelijk zijn .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.5	ik zien de zege Straks ons zijden weder verlaat , en zode ras doen braaf Hector weder te strijd komen wassen , de vijand , hoe vermoeid , mede nieuw kracht strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.6	zode kunnen een ' dapper hand een ' gans stad bevrijden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.7	hij razen , hij woeden , hij schreeuwen , en denkende die gei u ' troep zelf weder te strijd voeren , hebben hij u naam steeds in de mond ; willen tegen uw zijn ' kracht nog een beproeven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.8	geren vinden doen uw durven hij wacht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.9	u braaf vriend allee blijven onverzettelijk staan , willen Hector , door zijn ' hand , in het ogen de stad verslaan , Of sterven door doen zijn .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.10	Ik zien doen braaf held , Die uw vriend getrouw in deze node verzelden , Op deze gezigte ontroerd .	Emotion_Moved
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.11	Vorst Menelaus , die Ik , voor al ander , bekommeren hebben zien Voor het leven vinden die Held , hebben ik na uw zenden , Om uw de slecht staan vinden het leger te verkonden .	Worry_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.12	denken , welk een vriend gei zullen verlies , deze dagge .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.14	die u ogen doen rouw vinden al doen held zien !	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.15	hij zelf allee staan pal , en , schonen hij het medelijden , vinden ieder op zien halen , willen Priams zode bestrijden , die zode gevreesden Held doel val door zijn zwaarte , Of blijven op doen plaatsen .	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.16	zijn hij uw dan zode woerd , zijn hij doen trouw altijd wezen vinden uw vriend , laten hij dan in u ' hand deze laatst bijstand vinden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.17	hij niet alleenig , mare wie al zijn in node .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3383.s.18	denken om uw zelf , ik Heer ; denken om doen bang vlieden , En het droevig Vaderland !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3390.s.1	nul god !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3390.s.2	die uiten de hogen , Al wat wie doel , beschouwen , hebben gei ik ook bedriegen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3390.s.5	vergeetge dus ik raden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3390.s.6	Wat lijden ik ' bang ziel een ' pijn in deze staan !	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.head.3393.s.1	vijfde toneel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3395.s.1	achilles , ulysses , feniks , alcimus , automedon .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3399.s.1	WAt brengen Ulysses wij ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3404.s.1	doen droevigste al meren , Helaas !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3409.s.1	Wat bang schrik komen mijn ziel bezwaren !	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3409.s.2	Hoe gaan hebben mede ik vriend ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3413.s.2	die leven niet meer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3417.s.1	Patroclus leven niet meer !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3422.s.1	zien hier doen vlucht , ik Heer , vinden uw haten , en onverzoenelyken toorn .	Emotion_Hatred_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3433.s.1	laten wij geren ' zucht horen , mare god u ' wapen aan , om , in deze laatst node , wij al , zijn het mogelijk , te verlosschen vinden doen dood !	BodilyProcess_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3437.s.1	vervloekt Dwingeland !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3437.s.2	gei zullen zijn ' dood betalen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3442.s.2	willen wij in hebben korten de droef staan verhaal vinden het grieks leger .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.1	Held Patroclus , lang tij zijn vijand weerstaan in deze laatst strijd , worden eindlyk door doen hand vinden Hector zode treffen , die ik hij leevenloos in het sant zien neerploffen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.2	hebben aardrijk schudden door de vallen vinden zulk een Held .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.3	geren Eikeboom , in het einde door slag op slag vellen , veroorzaken zulk een schrik , in het harden vinden die het aanschouwen , Op het naderen vinden zijn vallen .	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.4	doen griek , weer vertrouwen allee op hij berusten , en op zijn ' dapper hand , zieden al hopen mede hij neerstorten in hebben sant .	Emotion_Trust
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.5	doen zode vinden Priam , weer gemoedigd door die zege , verheffen zijn ' stemmen , en roepen zijn ' bende , die verliggen hebben bloedig slagveld rijden verlieten , weder bij een .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.6	eest drijven doen vrezen heen wegge ; nu drijven zij wij weder heen .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.7	mare Hector vinden zich zeer in zijn vreugde bedriegen , torn hij het martelen lijk ontwapenen , en , zijn oog Aanschouwende , mede smarten en droefheid merken , die hij Peleus groot zode niet overwinnen hebben .	Joy_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.8	ik kennen doen spijt en toren uiten beide zijn oog lezen .	Emotion_BodyPart_Anger_Annoyance
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.9	hij werpen nochtans , om dus u volk meer te doel vrees , zijn eigen ' wapen wegge ; nemen doen uw , en vliegen door't veld , gelijk een razend , die , wat zien tegenstelt , te neder werpen en verwoesten .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.10	Niets kunnen hij weerhouden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.11	gei zullen hij binden korten weder bij doen vlieden aanschouwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.12	u ' troep zijn verstrooien .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3476.s.13	Gelukkig zijn doen manna , roepen elk , die door doen vluchten zijn ' woede ontkomen kunnen .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.2	moeten gei ik tot zode velen ongeluk bewaren !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.3	Neen ; ik willen in deze staan ik zelf niet lang sparen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.4	ik ' dapperheid gezond door Agamemnons haten !	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.5	ik Vaderland in node tot wraken vinden deze smaad !	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.6	ik halsvriend leevenloos !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.7	ik ' wapen , o god !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.8	te dienst vinden Hector , tot bescherming vinden die snood , de wreed moorder vinden hebben waard die ik hebben .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3491.s.10	hebben ik het geweer nog zelf mare opvatten ; wassen ik gesneuveld door hebben woeden vinden die hand , Ik zien ik levend niet vol oneer en vol schande !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3498.s.1	doen vorstin smeken uw , die gei in deze staan heen wederom , ik Heer , voor het laatst niet verlaten !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.1	Ik zullen te strijd gaan ; ja .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.2	Niet op het verzoek de held , Die zode ondankbaar ik en mijn deugd vergelden : Niet op doen bede vinden de snood dwingeland .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.4	u ' dood , ik vriend , u ' dood zullen mijn hand weder wapen te strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.5	ik zullen u onheil wreken , u moorder straf , of hij zelf zullen ik doorsteken .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.6	mare , zode ik winnaar kaar , beven , Agamemnon , beven !	Fear_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.7	gei , gei zullen doen eerst zijn , die ik de doodsteek geven , alles Hector liggen vellen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.8	komen , gaanwe , mijn vriend .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3516.s.9	het woord tij , die ik die wreed in het einde doen ondervinden , die , schonen Patroclus liggen verslagen door zijn ' macht , Achilles evenwel mede zijn vermogen lachen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.p.3518.s.1	Einde vinden hebben vieren bedrijf .	None
+huyd001achi01_01.TEI.2.text.body.div.head.3521.s.1	vijfde bedrijf .	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3525.s.1	brizeis , cephize .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.1	zijn dwaalen wie ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.2	Ik zien geren ' mens .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.3	zijn zijde al , Die zode langen rusten , op de vijand uitvallen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.4	ik zien geren ' beweging ; ik horen niet hebben minst luiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.5	barsten nu , ik zijn een allee , ik ' tranen , barsten nu uiten .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.6	ik geven uw een vrijen lopen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.7	In week zwarigheid storten zien een stervling niet , die een hebben spoor de rijden verlaten , en , door doen drift vervoeren vinden zijn zijn , Te bits in het haaten , of te teder zijn in zijn ' minnen !	Emotion_Hatred_BodilyProcess_Love_Other
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.8	Achilles gramschap kosten zijn waardsten vriend hebben leven .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.9	Nu woord hij weder door een nieuw toren drijven ; willen al onderstaan , tot koeling vinden zijn moede , eest in Held Hectors , dan in Agamemnons bloeden .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.10	strijd hij dan voor de Griek , of voor doen Frigiaanen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.12	ik ' liefde geven ik groot stof tot tranen .	Emotion_BodyPart_Love_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.13	torn ik ik Vaderland zien val , groot god !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.14	Waarom moeten gei ik torn bewaren ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.15	welk een honen hebben ik in het grieks heir , naar die tij , niet lijden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.16	mare het wassen eest een beginnen vinden ik ' rampzaligheden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.17	Die hand , die mijn Heer , ik waarde Bedgenoot , Die mijn vriend , die ik ' broeder te dood brengen hebben , kussen ik zelf , o schande !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.18	en staan verliggen , die zijde ik ' vijand weerhoudt in hun zege .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.19	wassen het , al op een tij te verlies , niet genoeg Voor een ' rampzalig vrouw !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.20	mare neen , Brizeis dragen zij noodlot mede dulden , en denken , door vrome klacht , En een ' sneeuwwit deugd , die ramp te verzachten .	Aquiescence_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.21	mare , ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.22	die deugd lijden zelf ook schipbreuk in hebben einde .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3578.s.23	ik aanbidden de oorsprong vinden ik ' droefheid en elend ; ik smeken hij , mede tranen in het zichten , die hij zien wapen ' , Om het overschot ik land mede zijn legerknaapen Te val op hebben lijf , en gans te roeien uiten ; En ik zuchten , om die hij het oor voor ik ' bidden sluiten : Ja noemen hij zelf wreed , wild hij ik durven ontzeggen , doen stad , op ik verzoek , in puin en as te liggen .	Emotion_EmotionalAction_BodyPart_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.3580.s.1	cephize	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3585.s.1	doen vroomsten zieden zien het meest door het lossen geval bestreen gei zijn gene oorzaak vinden u ' wederwaardigheen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3596.s.1	zode nog Achilles ik beminnen , gelijk voor deze , het zijn zijn , ik hebben rijden om ik ' droefheid te genezen .	Emotion_Love_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3596.s.2	mare hebben gei niet zien , nog zelf vinden deze dagge , mede welk een tros , mede wat verachting hij ik zien ?	Emotion_Disgust
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3596.s.3	Hoe streng hij ik gebieden zijn bijzijn weder te ontvluchten ; En hebben gei hij , zelf op die woerd , wel een zieden zucht ?	Emotion_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3596.s.4	deze smarten ik het meest vinden al , die ik ik moeten zieden versmaden vinden hij , om wieden ik zelf mijn eer en plicht verraad .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3609.s.1	het wassen echter , om aan uw zijn ' trouwen minnen te toon , torn Agamemnon hij bestaan zode fel te honen , die hij de strijd verlaten , en rusten nacht en dagge , Hoe groots doen node ook wassen , daar hij wij al in zien .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3609.s.2	hij klagen , die hij u zichten zode langen moeten durven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3621.s.1	hij klagen , die hij geren ' voldoening kennen verwerven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3621.s.2	Brizeis niet te zieden , wassen hij een ' klein smarten ; mare zode langen zonder wraken te blijven , treffen zijn harden .	Emotion_BodyPart_Sadness_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3621.s.4	hoe woord ik ' ziel thans tussen hopen en vrees drijven !	Fear_Emotion_Hope
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3621.s.5	weten gei niet , wat doen oorzaak tocht mogen wees , die Agamemnon ik belasten hebben , aanstonds weer Te karn na doen tent vinden mijn Held ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3634.s.1	Wanneer Achilles het sterflot vinden zijn halsvriend hebben vernemen , zijn hij , vervoeren vinden toren , terstond in het veld komen , Om weder te strijd te gaan .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3634.s.2	Ik weten allee , die hij de Veldheer zijn ontmoeten in deze razernij , En hij gesprooken hebben in het aanzien vinden doen held .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3634.s.3	hebben overig zullen wij feniks mogelijk melde .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3634.s.4	Ik zien hij naderen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3640.s.2	hebben Achilles steeds doen les vinden die manna volgen , vinden wat al leeds hebben hij zien zelf bevrijden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3646.s.1	brizeis , feniks , cephize	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.1	ACh !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.2	troosten ik in ik leiden , getrouw feniks !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.3	mogen ik ik op u ' komst verblijden ?	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.4	zijn zijn Achilles ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.5	zijn doen Veldheer ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3655.s.6	Om wat reden Zondt Agamemnon ik terstond weder herwaarts heen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3666.s.1	droge uw tranen af , Mevrouw ; hout op vinden schreien hebben einde naderen vinden u ' ramp . ik durven ik vlijen , die , zode Achilles hebben geluk hebben , die zijn ' hand .	BodyPart_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3666.s.2	hebben vreselijk stalen in Hectors boezem planten , hij , die wij zijn wrok zode bitter deedt bewenen , zien in hebben korten weder mede de Veldheer zullen verenen .	Emotion_EmotionalAction_Sadness_Spitefulness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3682.s.1	het zijn zijn , Achilles hand zijn dapper : mare doen kracht vinden braaf Hector woord niet veiliglyk verachten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3682.s.2	alles deze doen grond zijn , daar ik ik ' blijdschap op moeten bouw ; ik bekennen , die ik op die hopen ik weinig durven betrouwen .	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3682.s.3	doen zode vinden Priam , mede doen wapen vinden ik Held , In het mijden vinden zijn volk , en meest vinden hebben veld , strijd mede te groots een moede voor Trojes hoog wal .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3682.s.4	En schonen hij het lossen geluk al tegen wild val , Hoe kunnen Achilles hand hij tocht beletten , die hij zijn woede ontwyke , en vluchten ' tot in doen stad ?	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3682.s.5	mare hebben Achilles mede de Veldheer rijden spreken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.1	torn Hectors woedend hand Patroclus hebben doorstoken , begeven wij heir zien straks te vluchten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.2	doen Frigiaan dor op een nieuw zijn klauwen aan ons schip slaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.3	hij wassen rijden bezig , mede doen vlammen daar in te steker , Wanneer Achilles komen , om zijn vriend te wreken .	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.4	doen vorstin waar rijden vergaderen bij doen vlieden ; En pleegden t'zaamen raden , wat zij in deze node Te doel staan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.5	Nestors en Held Tydeus braaf zoon Staan mijden in de kring , schonen zwaard kwetsen , en toon , zelf door zij voorbeeld nog , hoe elk zijn Vaderland behoren te dienst te staan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.6	doen Veldheer , mede zijn ' hand In een sluier , zoeken , terwijl hij niet kunnen strijd , Door goed raden , doen vlieden en het leger te bevrijden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.7	In deze staan treden hij Achilles te moeten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.8	zijn oog schitteren vinden gramschap ; gans verwoed torn hij de Veldheer zien , en hij beginnen te naderen .	Emotion_BodyPart_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.9	hebben wraakvuur deedt hij het bloeden meer koken in zijn ader .	Emotion_BodyPart_BodilyProcess_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.10	hij vliegen straks na hij toen , en , slaan zijn hand Aan het zwaarte , barsten hij dus uiten : nul passen vinden het Vaderland !	BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.11	boete , boete u lusten nu in Achilles heldentraanen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.12	verheugen uw in het geluk de snood Frigiaanen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.13	mare gei zullen uw niet langen verblijden in ik ' smarten .	Joy_Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.14	Verweer uw , of ik dryf uw het stalen door het snood harden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3732.s.15	doen schim vinden mijn vriend rusten eer niet , voor ik ' hand In het bloeden vinden Hector , en in het uw , zijn schande weder aanzien afwissen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3739.s.2	wat gaan ik aan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3739.s.3	weerhouden hij niemand dan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3739.s.4	hebben hij hebben stuc begaan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.1	vrezen niet , Mevrouw .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.2	doen wijze Ulysses , en doen held , Een afschrik hebben vinden zulk een ' wreedheid , stellen zien voor de Veldheer , die , tot zijn geluk , wonden , Niet machtig wassen , die hij die vijand wederstondt .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.3	Ulysses vatten hebben woerd , zoeken voor hij te beweren , Hoe hij zijn groot naam en deugd zullen onteren , zode hij hij aantastte , en dor kwetsen , die zijn ' hand brengen hebben buit staan , door het strijd voor zijn landen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.4	tonen hij in het kort ook , hoe doen Veldheer zijde genegen , zien weder mede hij te verzoenen ; hoe doen zege de Trojers zijn helpen vereisen voor doen vlieden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.5	Vorst Agamemnon zelf , bewegen door de node vinden het bang Vaderland , treden hij stoutmoedig nader , En spreken hij minnelijk aan : gei schelden ik voor verrader , Achilles ; ik , die al braden hebben , wat ik kennen , Op hopen , die ik in het einde u ' trotsheid een verwinnen .	Emotion_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.6	Ik doen ik plicht ; mare nog zullen ik uw klaar blijk doel zieden , hoe minnen ik denken , uw te verongelijken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.7	zode spreken hij , en bevelen mede een , die ik uw aan zij zeggen , aanstonds na Achilles tent te gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.8	Straks vliegen Achilles voor , en laten zien , onder het scheiden , Dus horen : groot god !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.9	wild mijn hand geleiden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.10	gunnen ik het geluk , die ik , wanhopen en verwoed , ik wraakvuur blussen mogen in Hectors heldenbloed !	Emotion_Despair_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.11	Of , varen hij voor , zijn ogen op Agamemnon slaan , zijn het sterflot vinden die Held voor ik nog niet aanstaande , En kunnen hij mijn woede ontvluchten in die node , u bloeden zullen mijn vriend verzoenen , naar zijn ' dood .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.12	gei zullen hebben offeren zijn , die ik voor hij zullen slacht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.13	zode spreken hij ; en begeven zien , moedig op zijn ' kracht , Straks , mede hebben overschot vinden zijn bende , na hebben heet vinden de strijd , hebben groot vinden het gevaar .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.14	k verwachten de Veldheer hier , die , knarssende op zijn ' tand , nog roemen , tot heil vinden het landen , zode groots een ' smaad en schande Te leiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3805.s.15	echter doen hij goed , alles u Held , Die zijn land welvaren minnen , alles eigen glorie , tellen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.2	ik vriend ; ik zullen de eerst mens nog vinden , Die zien door gene drift nog hartstocht laten verblind .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.3	Hoe schonen , hoe heerlijk zullen Achilles heldendeugd Niet blinken door het heelal ; indien hij vinden zijn ' jeugd Wat minderen hebben betrouwen op zijn ' gevreesde kracht !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.4	Nu willen hij , die hij elk , alles zijn Heer , zullen acht , Om die doen godsspraak hij voorspellen hebben , die zijn ' hand hebben moedig Troje zullen doel val in hebben sant .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.6	gei weten ik ' liefde , en kennen zijn aarde en zede .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.7	mogen ik staan maken op zijn ' gunst en tederheden ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.8	beminnen Achilles ik ?	EmotionalAction_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3820.s.9	hebben ik wel het minst delen In zijn toren hebben ?	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3826.s.1	nul ja , Mevrouw ; zeer velen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3826.s.2	Ik hebben hij dikwijls , om u afzijn , horen klagen .	EmotionalAction_Loss
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3826.s.3	gei kunde , geloven ik , gei kunde hij allee behagen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3831.s.1	deze stellen ik weder rusten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3831.s.2	Ik vrezen in deze staan , die zijn liefde ook wassen wijken voor zijn haten .	Fear_Emotion_Hatred_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3835.s.1	Ik zien de Veldheer vinden hebben grieks leger komen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3845.s.2	die de trots aarde de mens kunde betomen , En dwingen na u zijn !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3845.s.3	behagen uw ik gebed , bevredigen hebben gemoed vinden Held Achilles mede de Koning vinden Mycene , op die ik zelf met ik ' blijdschap eindlyk zien herbloeien door zij wreed !	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3853.s.1	agamemnon , mede zijn ' recht hand in een sluier , brizeis , ulysses , feniks , cephize .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.3855.s.1	agamemnon	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.1	MEvrouw , hebben loten moeten zien verklaren in hebben einde .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.2	wie sneuvlen deze dagge in doen algemeen elend , Of zieden de traag vallen vinden Trojes muur naderen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.3	Achilles , die hebben bloeden aan het koken raken in doen ader , Op het horen vinden doen dood vinden zijn waardsten vriend , rechte thans een bloedbad aan , terwijl hij , gans verblinden Door wanhopen , en door rouw verwoed , en uitlaten , Door het veld vliegen .	Emotion_BodyPart_BodilyProcess_Sadness_Despair_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.4	Duizend vinden doen dapperste soldaat zijn niet bekwaam , hij te weerhouden in zijn varen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.5	zode het gunstig noodlot thans die groot Held niet sparen , zode mogen wij wij , bedekken mede oneer en mede schande , begeven mede doen vlieden na afliggen ' strand .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.6	ik bekennen hebben ongelijk , die ik hij hebben braden ; En mogelijk weten gij , die , torn hij te strijd zij gaan , hij ik ontmoette ; mede wat dolheid , mede wat toorn , hij ik zijn fel haten , en zuchten tot wraken deedt horen ; Hoe hij ik zelf , hebben Ulysses het niet beletten , zijn bloedig zwaarte alreeds hebben op doen barsten zetten .	Emotion_Hatred_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.7	ik weten , ik hebben niet velen goed vinden zijn komst te wacht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.8	ik zullen echter pogen , om zijn ' gramschap te verzachten , Hier blijven , tot ik hij zien karn uiten hebben veld , En niet meer vrees voor zijn ' woede , nog wellen .	Fear_Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.9	de ramp , die het grieks volk nu zode langen hebben lijden , hebben ik voortkomen zieden uiten ons onenigheid .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.10	deze twisten hebben hij en ik rijden duur genoeg staan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.11	het woord tij , die elk vinden wij zien eenmaal zien voldoen , die wij wij bevredigen , en het grieks leger toon , Hoe zeer wie wensen , heen in het einde te verschonen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.13	wat kunnen ik doel , het geren ik niet hebben bezoeken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.14	Wat hebben die wreed tot bedaren ooit brengen ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.15	die toomeloozen , die , door ijdel gedachte vervoeren , wanen , die hij elk , gelijk een God , moeten acht : schonen ik vinden het algemeen , na billijkheid en eisen , alles Hoofd vinden het grieks heir benoemen zijn op deez ' reizen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.16	Doch het gaa , zode het willen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.17	ik zullen ik ' vijandschap vergeten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.18	En , god , hebben ik ik in mijn plicht gekweeten ; zode zijn ik ' ziel rusten , en zullen , zelf naar zij ' dood , Vertroosting vinden in u ' goedheid , daar geren node , geren ' wraakzucht vinden een mens ik immer zullen doel beven .	Fear_Emotion_BodilyProcess_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.19	ik veel rijden die bitter haten uiten ik gemoed verdrijven .	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.20	ik veel een ' voorspelling vinden een heerlyker geluk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3917.s.21	die dan Achilles het zwaarte in Hectors boezem drukk ' , Op die doen vijand zien een voor wij vernederen , En griek in hebben einde ....	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3927.s.1	ik zien Alcimus , ik ' heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3927.s.2	het schijnen uiten zijn ijver , of een ' zaak vinden groots gewicht hij aanperst .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3927.s.3	ik lezen doen vreugde uiten zijn vernoegd zichten .	Joy_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.stage.3932.s.1	agamemnon , ulysses , brizeis , feniks , cephize , alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3939.s.1	nooit zagen gei d'ondergang zode naar vinden Trojes wal , ik Heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3939.s.2	doen Hemel geven die zijde in het kort val !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3945.s.1	Wat tijding brengen gei wij ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3945.s.2	spreken , Alcimus .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.3945.s.3	wel aan : verhalen ik in hebben korten , hoe al zijn gaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.1	gei zagen hoe Peleus zode , verwoed door wraken en toorn , de vijand vallen op het lijf .	Emotion_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.2	zode ras doen Trojers horen , die hij weder in hebben veld keren zijn , en hij zieden , zien ik heen gans verbazen na hun vasten vlieden .	Emotion_Wonder
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.3	doen schrik wassen algemeen .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.4	hoe Hector schreeuwen en razen , het wassen al vruchteloos .	EmotionalAction_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.5	zijn ' stemmen kennen die verbaasd Niet weerhouden , nog doel stilstaan in zij vluchten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.6	doen griek heffen een gejuich aan , die doen luchten weergalmen aan al kanten , waardoor doen vijand meerder verslagen woord .	Joy_EmotionalAction_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.7	het wassen nu geren strijd meer ; het wassen velen eerder Een schrikkelijk moord .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.8	geren twintig griek zijn kwetsen , daar duizend vinden Trojers , door doen pijn , En het mis vinden zij bloeden , verzwakken , hebben veld beverven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.9	Die het niet ontvluchten kunnen , mogen geren ' genae verwerven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.10	Achilles midd'lerwyl zoeken Hector .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.11	deze Held , Die niet gewoon wassen , zonder weerstand , hebben veld Te ruim , wijken ; mare zode , die hij , zelf onder het wijken , velen , die hij naderen , doen storten op doen lijk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.12	mare hebben hij minderen moede , en meerder vrezen , hebben , liggen wassen hij mede zijn volk komen in doen stad .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.13	doen Koning Priam zelf , op het hoogst vinden zijn ' wal stijgen , zien zijn volk , d'een naar de ander , val ; laten straks , om meerder schade en onheil te verhoen , doen poort ontsluiten , om de vluchteling hebben woeden de Griekschen legerknaaps , zijn het mogelijk , te onttrekken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.14	doen dapper Hector , die zijn roemen niet willen bevlekken , komen vluchten achter aan , en strijd nog , daar hij vluchten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.15	Achilles volgen hij naar , en doen doen ruim luchten weergalm op zijn naam : doch weten hebben zode te maken , die Hector eindlyk niet weer bij zijn volk kunnen raak , nog naderen aan doen poort ; snydt hij de toegang af , En wapenen zijn arm tot een ' gestreng straffen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.16	het verbaasd volk , die rijden het geweer hebben wegge smijten , hebben ook het gevaar vinden die beminnen Held vergeten , En , durvende zijn ogen niet wonen achter uiten , laten hij Achilles woede en raazerny te buiten .	Emotion_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.17	hij roepen vergeefs om helpen , ontsluiten te laten zijn oog , En zien zijn ' reukloosheid .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.18	doen griek , nog bewegen Door het droevig noodlot vinden Patroclus , val aan , Om al te gelijk zijn moorder te verslaan .	Emotion_Moved_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.19	mare neen : Achilles deugd kunnen deze wellen niet leiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.20	zijn ' wraken willen , die hij zelf allee mede hij zullen strijd ; verbieden zijn ' troep hij te naderen , en treden na zijn vijand toen , de oorsprong vinden zijn lijden .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.21	het zieden vinden zijn ' wapen , daar Hector met pronken , het Herdenken aan doen dood vinden zijn vriend , ontvonkte zijn ' gramschap meer en meer .	Emotion_BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.22	in het einde barsten hij dus uiten : gei hebben uw langen genoeg gesierd mede deze buiten , Ontmenschte moorder vinden de waardsten mijn vriend !	BodilyProcess_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.23	gei zullen in mijn hand een ' streng wreekster vinden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.24	Of doen uw zullen ik zelf op deze plaatsen verslaan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.25	zode spreken hij , en vallen straks op zijn vijand aan .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.26	mare Hector , gans verschrikken , en zien zien begeven vinden al bijstand , laten zijn ogen nog eenmaal zweven na Trojes hogen waal , of hij in deze node nog enig uitkomst zien , tot uitstel vinden zijn ' dood .	Fear_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.27	mare vruchteloos .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.28	hij verweren zien eindlyk ; doch zijn ' kracht verflauwen lang hoe meer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.29	In het einde barsten hij in klacht En droef zucht uiten , terwijl Achilles hand hij winden op winden geven , en doen storten in hebben sant .	EmotionalAction_BodilyProcess_Sadness_Despair
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.30	hij bidden hij sterven , die hij zijn koud gebeente , Tot troosten zijn vader , en de droevig gemeente , willen zenden na doen stad .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.31	Achilles zien hij aan ; En spreken : Ontmenschte !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.32	eest moeten ik wraakvuur zijn voldoen .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.33	gei hebben Patroclus ook mishandelen , naar zijn sterven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.34	gei zullen , zelf naar u ' dood , vinden ik geren ' gul verwerven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4044.s.35	zode spreken hij , en drijven hij hebben stalen dwars door hebben harden , En Hector eindigt , mede zijn leven , zijn smarten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4051.s.1	laten nu Achilles wraken voldoen zijn , groot god !	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4051.s.2	laten hij ik ' vriendschap , die ik hij hebben aanbieden , Aanvaarden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4051.s.3	en die hij in het einde bemerke , hoe doen twisten de groot het volk strekken tot een geesselroe !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.1	Achilles , niet voldoen , die hij hij vinden hebben leven beroven hebben , roepen zijn volk bij een , die , aangedreeven Door wraakzucht , op hebben lijk nog woeden in die staan , Daar hij hebben zelf geven te prooi aan hun haten .	Emotion_Hatred_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.2	In het einde ontwapenen hij het , en binden hebben mede zijn ' voeren Aan zijn waag vasten , om dus de Vorst te ontmoeten , Die , mede Andromache , doen Huisvrouw vinden die Held , deze schouwspel aanzien vinden doen muur , en het wellen vinden Peleus zode vervloekt , en Hemel , Zee en aard Tot wraken roepen over een ' zode wreed en zode ontaarde Onmenschlykheid .	Emotion_EmotionalAction_Anger_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.3	Ik zien Andromache , verwoed , zij ' kleed'ren scheuren , en alreeds mede d'eenen voeden Op Trojes muur , om dus vinden boven neder te spring , En Hectors moorder het stalen in het wreed harden te wringen , Of op hebben lijk haars man te sterven .	EmotionalAction_Despair_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.4	hebben geween weergalmen vinden de waal , lang veld en oever heen ; terwijl Achilles het lijk , binden aan zijn waag , Door bloeden en etter slepen .	BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.5	al oog , die deze zien , Betuigen , ik bekennen het , een afkeer vinden zijn doel .	Emotion_Disgust
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4082.s.6	hij storen zien nergens aan , en varen steeds voor in het woeden .	EmotionalAction_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.stage.4081.s.1	Hier woord een luiden vinden veld muziek horen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4087.s.1	hij naderen rijden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4087.s.2	Ik kunnen hebben juichen onderscheiden de troep .	Joy_EmotionalAction
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4093.s.1	laten wij hier die groot Held verbeiden , En toon hij , in plaatsen vinden afgunst en vinden nijd , Hoe wij al , om zijn roemen en glorie , zijn verblijd .	Joy_Emotion_Envy
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4097.s.1	hij komen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4097.s.2	hebben heldenvuur stralen hij nog uiten zijn oog .	BodyPart_BodilyProcess_Other
+huyd001achi01_01.TEI.2.text.body.div.div.stage.4102.s.1	achilles , agamemnon , ulysses , brizeis , feniks , alcimus , automedon , cephize .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.4104.s.1	agamemnnon	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4112.s.1	zijn welkom , braaf Held !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4112.s.2	danken zijde u groots vermogen , die griek zien op nieuw in staan zien , Trojes waal En poort te naderen , alles voor heen , door Hectors vallen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4116.s.1	vinden ik uw hier , ik Heer ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4116.s.2	en uw , Mevrouw ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.1	In het eend zijn mijn ziel geraken door doen algemeen ellende vinden ons troep ; en ik zien die Griekenland zijn heil te wacht hebben allee vinden uw hand .	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.2	kwetsen , en machteloos , om ik zelf te verweren , zien ik ik vinden uw dreigen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.3	Nu ik uw weer zien karn , vertonen ik ik voor uw , en stellen ik zelf bloot Voor u ' wraakgierigheid .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.4	Wat toeven gei nog ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.5	doorstoot deze vijandelijk harden ; beroven ik vinden hebben leven , Indien ik vallen u ' wraken voldoening weten te geven .	Emotion_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4134.s.6	mare denken , die zulk een ' woede , een ' gramschap , zode ontzind , Om oog een wreker , in de raden de god , vinden .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.1	geveinsd !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.2	die , om het ogen de wereld te misleiden , u ' vals goedheid zoeken door het leger te verspreiden , u ' vredelievendheid te hoogst toppen ophalen , En ik , alles een Tieran , voor ieder oog malen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.3	wassen u gemoed zode vrome , nooit hebben gei durven denken , het Ontzag , die elk aan ik verschuldigd zijn , te krenken .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.4	gei zijn hebben Hoofd vinden het heir ; mare uw heerschappij strekken zien zode ver niet uiten , die die ook over ik Gebieden zij .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.5	Neen ; ik zijn komen voor deez ' wal , Om heen door mijn hand te neder te doel val : Niet , om te luisteren na Agamemnon ; niet , Om uiten te voer , het gene een ander ik gebied .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.6	Neen : geren Mycener schrijven Achilles zijn ' gebod .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4154.s.7	Ik strijd voor het landen ; en doen allee hebben geren doen god vinden ik begeren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4165.s.1	Ik bekennen , ik hebben uw gezond .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4165.s.2	mare , hebben ik ik berouw niet langen genoeg tonen : En hebben hebben vaderland nog niet genoeg lijden Om ons vijandschap , en bitter onenigheid ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4165.s.3	Wat hebben ik in hebben einde te wacht ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4165.s.4	spreken ik Heer .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4165.s.5	gei zelf zien ; ik hebben uw rijden Brizeis weer te hand stellen ; terwijl doen gift ....	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4171.s.1	het zijn geren ' gift , Of geven ; neen ik Heer , die ik gemoed en drift Bevredigen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.speaker.4174.s.1	agamemnon , zeer hevig	BodilyProcess_Other
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4178.s.1	Wat willen Achilles dan ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4178.s.2	of zijn het , naar zode velen ramp , tot voldoening vinden die twisten , nog niet genoeg , die Agamemnon uw komen smeken ?	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.1	zijn ik ' getrouwheid uw , o held , ooit blijken , En vinden gij ooit voordeel bij ik ' reden en raden , horen ik nog een , en denken niet meer om uw haten : En , schonen Ulysses tot geren Priester zijde verkiezen , versmaden doen waarheid niet uiten zijn mond te horen .	Emotion_Hatred_Loyalty
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.2	Elk kennen , o Peleus zode , u ' kracht in hebben veld .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.3	Ook hebben doen wijze mond vinden Calchas uw voorspellen , die uw dapperheid de Troischen waal zij slecht : En gei , gei hebben voor wij niet eerder wil vechten , Voor Priams braaf zode Patroclus hebben vellen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.4	doen dood vinden deze vriend , die weergaeloozen Held , kennen u gemoed allee bewegen ; torn wie zien , Hoe vaak doen onnozelen doen straf moet dragen vinden het geren een ander doen .	Emotion_Compassion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.5	Patroclus dapper hand zullen ook aan uw zijde nog strijd voor hebben landen , Indien doen aanbieding vinden de Veldheer uw hebben kunnen Vermurwen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.6	mare wat hij , wat wie al t'zaam beginnen , het wassen al vruchteloos .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.7	hebben noodlot , en doen god , Die gei tergen hebben , door het onthouden vinden die honen , Bewaarden uw , op die gei Troje zullen verwinnen ; mare straften uw in hij , die gei mede hart en zin beminnen .	BodyPart_BodilyProcess_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.8	het Godendom weten , die zijn ' dood allee uw , naar zode dol een toren , weder brengen zij tot reden .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.9	doen Veldheer hebben braden ( zode spreken ik zelf , zode spreken doen troep nevens ik ) om uw toren te breken , Al wat hij mogelijk wassen ; en , hebben hij uw gezond , hij hebben uw zijn berouw ook klaar genoeg tonen .	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.10	mare torn geren mens u tros en fierheid kennen verzachten , hebben uw hebben Godendom in het einde door sterk kracht dwingen .	Emotion_Pride
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.11	uw ziel , geraken door het ongeluk vinden uw waardsten vriend , verloschte wij uiten de druk .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.12	doen Trojers die wij zelf belegerden , zijn weder drijven in doen stad .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.13	doen dapper Hector , neder geslagen door u arm , vervullen door zijn vallen hebben harden vinden Priam zelf , en Trojes vegen waal mede een doods schrik .	Fear_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.14	wild gei uw nu bevredigen mede Agamemnon , die wel eer uw dor beledigen ; wild gei , aan zijn zijde , weder strijd in hebben veld , wie zieden die trots stad wel haasten in wij wellen .	Offended_EmotionalAction
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.15	Wel aan , ik Heer , tonen , die u ' ziel na rechte en rijden nog luisteren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.16	ieder hebben zijn ' zwakheid hier beneden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.17	Gelukkig , die zien nog verbeteren , eer doen haten de god zij dulden verwinnen !	Emotion_Hatred
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4241.s.18	Dan zijn het te laten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.2	die ik eindlyk geven , ik blind zichten te ontsluiten , wild , mede hebben einde vinden ik toren , ook d'uwen stuiten !	Emotion_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.3	Ik zijn straffen ; en zien die mijn schuld , o smarten !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.4	Patroclus , uw hebben stalen vinden Hector drijven door het harden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.6	u dood zullen ik gemoed altijd bezwaren .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.7	moeten , door ik ' vriendschap , uw deze onheil wedervaren !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.8	komen , Agamemnon , komen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.9	verzoenenwe wij !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.10	wel aan !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.11	het geren een zijn uitvoeren blijven te al tij braden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.12	de dood koe wie hebben liggen niet weergeven : mare laten wij zorg voor doen gene , die nog leven .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.13	het Volk hebben om ons schuld al smarts genoeg lijden .	Emotion_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.14	Ik buigen ik eindlyk voor u ' vriendschap , en doen reden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.15	ik omhelzen uw , alles ik vriend , en zweren bij het hoofd de god , die ik naar deze , meer alles eertijds , u ' gebod Betrachten zullen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4263.s.16	laten wij een ' vriendschap maken , die geren jaar , gene eeuw naar deze ooit weer breken zien !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.2	spreken Achilles mond zode vriendelijk een ' reden !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.3	zijn wie op nieuw verenen door een oprecht wreed !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.4	ik ' ziel , door zulk een ' vreugde verrukken , kunnen door de mond zien nog niet uiten .	Joy_Emotion_BodyPart
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.5	lezen , lezen uiten ik ogen de grond ik hart .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.6	gei , gei wild wij wederom beschermen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4272.s.7	gunnen , die ik uw ik vriend , moog ' druk in mijn arm .	EmotionalAction_BodyPart_Love_Benevolence
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4279.s.1	Nu hebben ik langen genoeg , o god , leven op aarde .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4279.s.2	Achilles in hebben einde tonen zien u ' gul weder woerd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4279.s.3	En gei , o held , die u ' deugd paren mede u ' kracht , Die trots stad zullen uw zode langen niet meer verachten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4291.s.1	En gei , Mevrouw , die vrezen in deze bedroefd staan , die gij ook te duchten hebben voor mijn toren en haten ; ik omhelzen uw , en willen uw op nieuw weder welkom heet In mijn tent .	Fear_Emotion_EmotionalAction_Hatred_Love_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4291.s.2	willen ook u ' droef zorgen vergeten .	Worry_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4291.s.3	Achilles minnen uw , alles voor heen .	EmotionalAction_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4291.s.4	stellen uw rusten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4291.s.5	ik ' liefde groeien weder , nu ik ' gramschap zijn blussen .	Emotion_Love_Anger
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4300.s.1	doen deugd de vrome kunnen voor kort tij wel zwichten , mare het vuur de rijden zullen zij altijd weder verlicht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4300.s.2	gei keren dan weder tot doen vriendschap , en ik ' minnen !	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4300.s.4	gij eren te gunstig u ' gevangen , en u ' slaavin .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.1	laten wij hebben leger straks deez ' vriendschap ook doel weten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.2	hebben zullen vinden staan aan zijn oude ramp vergeten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.3	En laten wij in hebben heir een ' prachtig offerande Bereiden voor doen god , te tekenen die deze band vinden liefde en vriendschap door geren ' twisten weder zijde te breken .	Emotion_Love
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.4	doen god moet hij , die weder gezond woord , wreken !	EmotionalAction_Vindictiveness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.6	zien ook u ogen deze zege aan , Wat zij het ik een ' vreugde zijn !	Joy_Emotion
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.7	Ik hebben u ' schim voldoen , mare ach !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.8	nog smarten ik u ' dood , en doen ik droevig zucht .	Emotion_BodilyProcess_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.9	gei stierft , gelijk een Held .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.10	ik hebben uw nooit zieden vlucht .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.11	ik zullen ook een uitvaart , na doen grote vinden u moede , Voor uw bereiden .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.12	ik zullen u lykvuur mede hebben bloeden vinden twaalf edel Trojaanen , die ik beven In hun vluchten vatten , en tot die einde levend bewaren hebben , voor hebben laatst besprengen .	Fear_BodilyProcess
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.13	In de tij vinden twaalf dag zullen geren Griek weder gaan te strijd .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.14	hebben gans leger zullen mede spel uw daad verheerlijken ; u graf mede groen lauwerbladen Bevlechten .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.15	Ik zullen zelf , mede droefheid en geklag , hebben lijk vinden Hector aan ik waag , dagge aan dagge , In het ogen de Troischen muur , rondom u houtmyt voer , En sleep lang hebben veld ; om dus hebben harden te ontroeren vinden Priam zelf .	Emotion_EmotionalAction_BodyPart_Moved_Sadness
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.16	Och of hij het aanzien vinden de waal !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4333.s.17	zode zuchten u vijand zelf , Patroclus , om u ' vallen !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4341.s.1	verdelen , verliezen wie velen duizend vinden ziel .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4341.s.2	verenigen , zijn wij in staan de vijand te vernielen .	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4341.s.3	Onthouden wie deze beide !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4341.s.4	en , god !	None
+huyd001achi01_01.TEI.2.text.body.div.div.sp.4341.s.5	geven die deze band vinden vriendschap nooit weer scheur ' tot smarten vinden het Vaderland !	None
+huyd001achi01_01.TEI.2.text.body.div.div.p.4343.s.1	Einde vinden hebben vijfde en laatst bedrijf .	None

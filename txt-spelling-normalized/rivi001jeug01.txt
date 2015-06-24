@@ -1,0 +1,351 @@
+rivi001jeug01_01.TEI.2.text.body.div.head.172.s.1	vertoner .	None
+rivi001jeug01_01.TEI.2.text.body.div.list.item.174.s.1	Michiel Adriaansz. doen Ruiter .	None
+rivi001jeug01_01.TEI.2.text.body.div.list.item.177.s.1	Alida Jansz .	None
+rivi001jeug01_01.TEI.2.text.body.div.list.item.177.s.2	, vinden Middelburg , moer vinden Michiel .	None
+rivi001jeug01_01.TEI.2.text.body.div.list.item.180.s.1	doen Heer Lampsins , meest vinden doen lijn - of Touwbaan .	None
+rivi001jeug01_01.TEI.2.text.body.div.list.item.182.s.1	kapitein .	None
+rivi001jeug01_01.TEI.2.text.body.div.list.item.185.s.1	Kornelia engel , vinden Vlissingen , eindelijk mede doen Ruiter gehuuwd .	None
+rivi001jeug01_01.TEI.2.text.body.div.list.item.188.s.1	Een leidekker .	None
+rivi001jeug01_01.TEI.2.text.body.div.list.item.191.s.1	Andries , Speelmakker vinden Michiel .	None
+rivi001jeug01_01.TEI.2.text.body.div.stage.194.s.1	hebben toneel zijn te Vlissingen .	None
+rivi001jeug01_01.TEI.2.text.body.div.head.199.s.1	doen jeugdig Michiel Adriaansz. doen Ruiter , Te Vlissingen , In doen Touwbaan , vinden doen heer Lampsins , blijspel .	None
+rivi001jeug01_01.TEI.2.text.body.div.head.200.s.1	eerst toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.speaker.203.s.1	Michiel , allee .	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.1	Wat komen , bij dagge en nacht , ik in doen zin werk !	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.2	Ik kunnen ik zelf nog bepalen , nog beperken , In het denkbeeld die ik hier doen Touwbaan hullen doen .	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.3	geren traagheid evenwel maken ik deze werk moede ; mare inspraak vinden het gemoed en werking mijn zin vertonen ik een ruim schets om lof en prijs te winden .	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.4	wassen eeuwig niet doen Zeeuw een Zeeleeuw voor zijn landen ?	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.5	Een steunen , een snoeren , een knoop vinden Neerlands-Eendragtsband ?	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.6	wij bouwd doen Zee zo kloek ?	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.7	wij laten zien minnen bepalen Dan het Zeeuws - en Hollands-Volk om buiten te Zee te halen ?	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.8	wij , wij winnen meer dan zijde in een Waterstryd ?	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.9	Nooit raken het Zeelands bloeden zijn kleur nog leven kwijt .	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.10	wij vrezen doen golf minnen dan wie , wie waar zeeuw ?	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.11	wie , wie zijn , inderdaad , doen oprecht Water-Leeuwen , Die het groot Zeegebrom de baar kloek weerstaan En lief tot de Zee - dan tot de Landkryg gaan , Waarom ik wij doen naam vinden zeeuw hebben geven En meer dan ander schier op Eilanden doen leven , Die , worden overal bespoeld vinden het pekelnat , Ontvangen in de schieten de aardryks rykste schatten : Dus willen ik eveneens alles Brit of Engelander , met zeeuw door zij loten , bekreunen d'Oorlogsstander .	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.12	wegge handwerk vinden doen Baan ; brengen ander aan hebben touwen !	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.13	Ik zijn en blijven een Zeeuw , een steunen aan het Staatsgebouw .	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.14	Ik willen , ik zullen , ik moeten een schild de vrijheid wees En doel ik in ik ' dood alles in ik leven vrees : Dus blyv ' doen Vlissinger hebben vechten de Vryheids-Vlesch , zijn uiten ik , in eeuwigheid , doen besteden vrijheid schetss ' .	Fear_Emotion
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.15	doen vrijheid blijven bepalen aan regel en weten , Om doen ongebondenheen zij perk en paal te zet , Om doen ongehoorzaamheid vinden ieder ' Onderdaan Te stuiten , zij te doel alles onderdaan staan Voor het stedehouder rechte en die de waar staat , weer knecht wij , alles Burger , zijn , en Nassauws Onderzaaten .	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.16	doen Prins blijven eeuwiglyk in zijn aeloud bewind !	None
+rivi001jeug01_01.TEI.2.text.body.div.sp.244.s.17	hij zijn Vader vinden wij all ' , elk Burger zijde zijn Kind , Ja hij , alles doen eerst stemmen vinden staan , blijven wij regeren , Om vuigen Burgerdwang en Slaaverny te weer .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.245.s.1	Tweede toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.249.s.1	Michinl , Alina Jansz .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.254.s.1	Al weder vinden u werken ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.258.s.1	Michinl , misnoegen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.263.s.1	Al weer , of weder niet ; ik Lagch Lampsins lijnbaan uiten ; ik zien voor ik , in het verscheiden , Een ruim spoor vinden eer ; ik moeten vechten en verwinnen ; zijde sterven roemryk , zijde , die het Vaderland beminnen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.268.s.1	Wat roemen verwerven gei tocht door jong af te slaan .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.268.s.2	alles Jongens-Admiraal , uiten Lampsins Touwspinbaan ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.271.s.1	Michinl .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.273.s.1	Ach !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.273.s.2	zwijgen tocht vinden die Baan !...	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.273.s.3	spreken vinden de wegge te eren !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.277.s.1	gei zijn kapitein in het kwaad , om jong af te smeren .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.280.s.1	Michiel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.283.s.1	alles janhen werken ik nog mede jong ; mare alles manna mede mennen , en alles Held spannen ik mede held an .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.287.s.1	gei zijn een schoon Held in het Vlissings-Toorenstygen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.291.s.1	Niets doen winden ik niets ; doen stom moet zwijgen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.295.s.1	zwijgen gei altoos dan stillen ; wan gei doen niets dan kwaad .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.299.s.1	het zijn goed dan die ik ik doen Zee bebouwen laten .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.303.s.1	leren het spin vinden hebben touwen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.308.s.1	Ik zijn een slechten Spinner Te landen , doch worden te Zee haasten groot overwinnaar .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.312.s.1	gei wild dan varen ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.315.s.1	Michiel , lustig .	Joy_Emotion
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.317.s.1	Ja .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.320.s.2	, zuchten .	Worry_BodilyProcess_Sadness
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.324.s.1	Wel !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.324.s.2	varen dan wel te Zee En slepen , op deze varen , ik zegenwens met .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.326.s.1	Derde toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.329.s.1	Michiel , allee , alles murmureerende , heen en weder lopen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.344.s.1	Een ijzeren slagswaard in doen wapen ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.344.s.2	Een Manshart , tot doen Zee geschapen ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.344.s.3	Een barsten vol vuur , een manna vinden stalen ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.344.s.4	Een Heldenhart , een Admiraal ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.344.s.5	die worden ik naar verloop vinden nog mare weinig jaar ; mare ik worden hebben nooit te landen en daarom willen ik varen ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.344.s.6	Ja , zeker , Admiraal worden ik vasten door de tij , Die schoon roos baard , in spijt vinden die het benyd .	Emotion_Envy
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.344.s.7	Een Manshart zijn en blijven hier binden : ik willen sterven of ik willen verwinnen , gelijk ik vaak , voor ik ' persoon , hebben overwinnen zijn gewoon ; wan wat partij ik komen te kies zien ik , in het vechten , nooit verlies .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.346.s.1	vieren toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.348.s.1	Michiel , Andries .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.350.s.1	Andries .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.352.s.1	Wel zo , Michieltje maat !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.352.s.2	wel janhen , staan gei daar ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.358.s.1	Een janhen zijn ik , mede een Manshart , die zijn zijn .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.358.s.2	hebben staan voldoen ik niet , hebben slapen nog hebben waken ; ik hoofd zijn boren vol vinden ander nut zaak .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.363.s.1	jouw kop zijn zo vol brein alles die vinden een garnaal .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.367.s.1	Om die ik dienst willen ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.370.s.1	Andries , lachen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.373.s.1	zijn voor ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.373.s.2	voor Zee-Soldaat , Of voor een ' Land-Matroos ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.373.s.3	of voor een ' knechten de knecht ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.383.s.1	Die om doen mosterd lopen ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.383.s.2	ik willen dienst om te vechten , Ja , vechten voor zijn land eer ; en die zulks durven bestaan zijn voor zijn Ovrigheen een nuttigen Onderdaan ; En hij die nuttigen zijn , hebben zijde die hij mogen varen , Of dienst doel op hebben landen , of het mogen alles Burger klaar , Of alles Regeerings Lid , zijn voor zijn Landsburgery Een nuttigen Lid vinden staan en vinden daar voordeelby .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.385.s.1	Andries	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.388.s.1	Ja , wie zijn schonne lid vinden staan , mare doen allerkleensten ; geren hoofd , vuist , nog harden , mare lid de gemeensten .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.393.s.1	Wat zijn dan ogen in het zeel ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.393.s.2	doen hand , doen voeden en bek ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.393.s.3	Wat zijn doen knie en doen arm ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.393.s.4	hebben oor , doen neuzen en nek ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.399.s.1	hebben ogen zijn zien voor uiten , doen voeren zijn hebben lopen , doen bek zijn babbelpraat , doen hand hebben schande kopen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.402.s.1	Michiel , hij slaan .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.407.s.1	doen vuist zijn klappers-baas voor uw extersmoel , doen neuzen doen vuisten-reuk , doen nek hebben knyp-gevoel , hebben oor zijn het varkens-zwoord , om , kookende , op te zwellen , En het ogen blaauwververs-baas , voor het sprookje te vertellen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.410.s.1	Andries , vluchten .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.412.s.1	helpen !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.412.s.2	helpen !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.414.s.1	vijfde toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.439.s.1	Dus moeten hebben gaan , zo ver hebben lopen mogen : Dus kloppen ik zij uiten die hier niet spreken mede ontzag .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.439.s.2	ik arm hebben kracht genoeg om zulk een huis te bouw , Daar ik wonen zullen en Vrouw en kind onderhouen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.439.s.3	Een harden , een heldenhart schuilen waarlijk in deze lijf , En ik hebben een barsten vol vuur , tot kloek en stout bedrijf .....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.439.s.4	mare ik moeten doen knie , nog doen voeren , niet vergeten , Die ik moeten gebruik , om een goed Matroos te heet , gelijk ik worp willen , om een een huis , zo oog Te bouw alles doen Kerk , te laai nog in ik ogen ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.439.s.5	Dus die ik , alles Matroos , het mastklimmen eest te lederen , Indien ik , alles Admiraal , een zullen een vlieden regeren .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.439.s.6	die zijn een , twee , drie , vieren , vijf , zes , zeel ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.439.s.7	die gaan goed .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.423.s.1	( hij smijten zijn ' hoeden in doen boogte . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.431.s.1	( zijn ' hoeden weder opwaards gooijende . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.436.s.1	( hij klimmen in doen hoogte . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.441.s.1	Zesde toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.443.s.1	Michiel , Kornelia .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.446.s.1	Kornelia , terwijl Michiel in doen hoogte blijven zetten .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.452.s.1	Ei , jong zien en kijk een wat doen Ruiter doen !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.452.s.2	Baasin !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.452.s.5	Baasinne !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.452.s.6	komen tocht buit !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.452.s.7	Strak vallen Michiel zien dood , zo gei hij niet komen stuiten !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.449.s.1	( binnenwaarts in de scherm roepen . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.454.s.1	Zevende toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.456.s.1	Michiel , Kornelia , doen leidekker .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.459.s.1	doen leidekker , doen ladder wegneemende .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.462.s.1	zo , Maatje !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.462.s.2	zitten gei daar ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.462.s.3	Nu kunde gei hoog gaan , Of vlieg laag neder .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.466.s.1	Michiel , in doen hoogte .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.469.s.1	laten daar doen ladder staan ; Of , zo ik neder daal ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.471.s.1	doen leidekker .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.474.s.1	Dan zullen gei moet spring , Of duiklen na ik toen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.480.s.1	Ik zullen uw fijn doel zingen , zo dra ik beneden komen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.485.s.1	Wel komen dan hier , Michiel ; Dan krijgen gei klap toen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.491.s.1	zo ik na doen laagte vallen , Dan wassen ik mogelijk dood .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.494.s.1	doen leidekker , spottende .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.497.s.1	ik zij na doen hoogte val , waar ik alles jij .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.500.s.1	Michiel , alles voorn .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.503.s.1	houden op , houden op , mede al die mal , En zetten doen ladder neder .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.507.s.1	vliegen dan , alles het zijn zeggen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.509.s.1	Kornelia .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.511.s.1	Straks bruid Michiel op straat .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.516.s.1	Dan klimmen hij drommel slechten .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.520.s.1	zo hij doen hals dan breken ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.523.s.1	doen leidekker , lachen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.526.s.1	Daar wassen niet aan liggen ; Dan sterven hij Admiraal en hebben zijn lot gekreegen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.529.s.1	Michiel , zijn ' hoeden eest opgooijende en voorts snel na beneden klimmen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.534.s.1	Nu vliegen ik na om laai , gelijk een Adelaar .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.534.s.2	veel nu een ' leeuwenklauw .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.532.s.1	( hij , slaan , te aard werpen . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.537.s.1	doen leidekker , te aard liggen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.539.s.1	laten lossen !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.539.s.2	laten lossen !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.542.s.1	Michiel , hij kloppen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.546.s.1	Bedaar En schreeuw zo luid tocht niet .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.546.s.2	dor gei ik leven waag , Uilskuiken vinden doen buren ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.546.s.3	die zullen gei uw beklagen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.555.s.1	ik zijn blij wanneer ik vechten mogen ; gelijk ik hopen te doel in meenig ' Waterslag .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.559.s.1	doen leidekker , te aard .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.561.s.1	laten lossen , gei dengeniet !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.565.s.2	Michiel willen dood !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.568.s.1	Michiel , hij schuddende .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.571.s.1	Om zulk een rogge te dood zijn weinig kracht vinden nood .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.571.s.2	zijn ik nog een Deugeniet ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.571.s.3	of zijn ik een Deugenal ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.574.s.1	doen leidekker , gedurig geslagen worden .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.579.s.1	Michiel , slaan blyvende .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.581.s.1	Een Deugeniet zullen ik blijven aan de waal .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.583.s.1	achtste toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.585.s.1	Michiel , Alida Jansz .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.585.s.2	Kornelia , doen leidekker .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.588.s.2	, op doen laatst rijden vinden Michiel uitkomen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.590.s.1	die dunken ik wel te rechte .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.590.s.2	ik zeggen , jong , laten hij lopen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.593.s.1	Michiel , hij , naar deze rijden , oplaatende .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.596.s.1	Dan moeten gei ik , alles Matroos , een Zeemans-pakje kopen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.596.s.2	ik willen varen , het gade hoe het gade .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.600.s.1	doen leidekker , opstaan , bij zien zelf .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.602.s.1	Ja , brui jouw moeder ' er bij .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.605.s.1	Michiel , in drift .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.613.s.1	wassen grootvader niet in dienst bij ons ruiterij , Waaruit wie naderhand doen naam doen Ruiter krijgen ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.613.s.2	hij dienen het landen , ik zijn de dienst te Zee genegen , En worden ik , vinden Matroos , eest Schipper vinden een boren , die Schipperdom brengen liggen hebben Kapiteinschap voor , En worden ik schouwen bij Nacht , dan zullen ik dagelijks dwingen , En zijn ik kunnen , of mogen , zijn land vijand bespringen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.616.s.1	doen leidekker , zien herstellende en rondom afschuijerende .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.619.s.1	Niet meer dan schouwen bij Nacht ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.619.s.2	neen , die zijn voor uw te schraal ; gei worden nog schouwen bij dagge , of nederland Admiraal .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.622.s.2	, lachen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.625.s.1	Wel waarom zij Michiel geren Ridder kunne wees ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.625.s.2	Baron , of Hertog ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.625.s.3	of ...?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.628.s.1	Michiel , mede levendigheid .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.652.s.1	Ja , ja , ik zullen , naar deze , Wel het een of ander zijn ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.652.s.2	mare treffen ik een het geluk die ik ik ' Medenmensch vinden dood of doods druk kunnen redden door ik macht en daarin wel mogen slag , En zo voor het Vaderland mogen lijf en leven waag , Daar tekenen vinden dragen , ja daar voor eindlyk sneef , Dan weten ik vasten die ik , naar mijn dood , herleef !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.652.s.3	Dan zijn ik heil volmaken , ik zegening volkomen !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.652.s.4	Dan bouwen ik zulk een Huis , waarvan ik nooit kennen droom In het lastig Lynbaanswerk , waarbij ik een gans dagge , Door het Draairad , enkel mare een stuiver winden mogen ; En zo ik al verder raken , mede achteruit te lopen , Deweg liggen voorwaarts op , om roemen en eer te kopen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.652.s.5	eest janhen , dan Matroos , dan Schipper , Luitenant , kapitein en zo al voor ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.652.s.6	Ik vechten voor het Vaderland , Ik leven en sterv ' daar voor , verzekeren die wij het leven allee lenen en om te sterven zijn geven .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.632.s.1	( In zeker verrukking . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.642.s.1	( zijn ' hoeden allerboogst opwerpende . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.654.s.1	Negende toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.656.s.1	Michiel , Lampsins , Alida Jansz .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.656.s.2	Kornelia , doen leidekker , Andries .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.659.s.1	Lampsins , Michiels laatst rijden geheel en al horen hebben .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.669.s.1	Michiel hebben groots gelijk , hebben zijn een slechten Soldaat , Of slechten Matroos , die niet na het Hoogkapteinschap staan .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.669.s.2	doen dood zwerven overal , te landen en op doen baar ; ik sterven nooit voor zijn ' tij , mare leven in dood gevaar , zo wel op zijn Koningstroon alles in de schamel hut .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.669.s.3	En hij zijn goed bewaren die god hand beschutten : zijde , die doen los Zee en het vasten landen bebouwen , Staan even lossen en vasten , wanneer wie het wel be schouen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.673.s.1	hij zijn te willen en woest .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.675.s.1	Lampsins .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.678.s.1	doen Zee maken wild tam ; Daar worden een stuur een Schaap , een Leeuw een weiden Lam .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.681.s.1	doen leidekker , na zijn rug voelen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.684.s.1	hij Schaapt en Lammert schonen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.684.s.2	Ik zij geren Lamren keel zo mak alles sinds Michiel , zo zwak in al deel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.687.s.1	Andries , tegen Alida Jansz .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.690.s.1	Ei , laten Michiel tocht gaan , wat ik uw bidden mogen , wild hij wij hier ontrust en af kloppen dagge op dagge .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.694.s.1	Ja , zenden hij wegge , Baasinne , om hier in vree te leven .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.698.s.1	het zijn wel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.698.s.2	Ik zullen hij dan een Vaarenspakje geven .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.701.s.1	tiend toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.703.s.2	, kapitein , Kornelia , doen leidekker , Andries .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.710.s.1	Ik nemen hij in ik ' dienst ; hebben landen zijn hij te koud , En door doen zulk worden doen Zee hebben goed bebouwen ; hij die daar heten na zijn kunnen daar doen hitte voelen ; zijde maken doen koud warm , en doen de gloed verkoelen .	BodilyProcess_Desire
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.713.s.1	Michiel , in verrukking .	Joy_Emotion
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.720.s.1	u aanbod , Heer kapitein , neeme ik mede blijdschap aan , bereiden om dadelijk , vinden het landen , in Zee te gaan .	Joy_Emotion
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.720.s.2	deze zijn doen Koningsslag , doen laatst brui vinden al , Die uw , uiten speelsheid nog , vinden ik te beuren zullen val .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.717.s.1	( hij geven Andries een ' klappen , gaan springen hinnen . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.722.s.1	Elfde toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.724.s.1	Lampsins , kapitein , Kornelia , doen leidekker , Andries .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.728.s.1	zijn hij zo willen , zo woest en lossen , gelijk ik zeggen ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.734.s.1	o Ja ; hij zijn een knaap die tienmaal lief vec ht Dan eed .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.737.s.1	Andries , na zijn hoofd voelen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.742.s.1	En zijn hij vechten hebben hij altoos verwinnen : Nooit zijn een hoopgevecht te Vlissingen beginnen , Daar hij geren meest beven , alles Jongens-Admiraal , En week zijde hij kiezen krijgen vasten doen zegepralen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.746.s.1	En wij doen hij gestadig niet ander dan mare plaag .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.752.s.1	ik Verzoek , Heer Kapitein , voor hij wel zorgen te dragen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.752.s.2	hij zijn dan zo hij zijn , geven tocht wel achten op hij ; zijn lezen schoeien op iets groot .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.755.s.1	doen leidekker , mede drift .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.758.s.1	ik geven daar toen ook ik stemmen ; dragen zorgen vooral om hij doen huid te laten smeren .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.761.s.1	Lampsins , mede kracht .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.776.s.1	gei doen niet braaf mede zulks zo driftig te begeren .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.776.s.2	Al wij een ' meest ooit dus aanhist op zijn ' knechten zijn laf en laai vinden ziel en handelen al te slechten : hebben zijn , integendeel , bieden aan al mens Te doel aan ander lien , het geren zijde vinden ander wensen Te ontvangen ; en al wassen die klank hier nooit horen , wettigen , nog gesterht , door het allerheiligst woerd , doen spreken weten de natuur en doen inspraak ons zin , zijde al , brengen wij die heilwet tocht te binden : hij zijde ik wij pryst of laken , els sterfling weten gewis Of zijn werking pryst - of laakenswaardig zijn .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.776.s.3	deze indruk de gemoed zijn nimmer te bedriegen , gaan paalvast door en kunnen in eeuwigheid niet liegen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.783.s.1	Ik haten en minnen Michiel ; hij zijn een schrander gast , Een knaap die potig zijn en tot de Scheepsdienst passen , zijn toen hij meer en meer , vinden jong af , schijnen geboren : Die hier niet deugen willen moeten na hebben kalfsvel horen .	Emotion_Hatred_Love
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.792.s.1	wie maken luiaarts kloek , en wild mak en tam , doen gek kundig en zelf doen edelsten vinden stam Veradeld ik nog meer ; wie kunne al maken Wat mare te maken zijn , om door doen Zee te raak ; En zo die rap knaap niet horen na ik gebod , zijn het endje dagge zijn lot en vuistlook woord zijn loten .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.808.s.1	hebben zullen niet nodigen zijn gestreng mede hij te leven .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.808.s.2	wennen hij zijn meester eerd en het hun weten te geven .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.808.s.3	Ik kennen hij in ik werken ; hij zijn leerzaam en beleefd , Iets hebben in zijn doel het geren ieder een niet hebben .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.808.s.4	hij zijn gauw gelijk doen winden , verstandig in zijn spreken En zinnelijk in kledij ; elk mens hebben zijn gebrek ; Doch hij hebben talen en tred en houding en beleggen die hij vinden zijn gelijk klaarzienlyk onderscheid : zo gei hij wel bestrert hij zullen misschien nadeezen doen steunen vinden nederland staan en Vlissings pronkstuk wees .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.808.s.5	Behandel hij niet streng , mare zacht gelijk het betamen , Dan worden gei mogelijk , hierna , door hij befaamd .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.811.s.1	Kornelia , ernstig .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.813.s.1	Och !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.813.s.2	ja Heer Zeekaptein , willen hij tocht wel behandlen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.817.s.1	laten hij in zinnelijkheid de zeeman lopen bewandelen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.822.s.1	die bidden ik ook , schonen hij ik dikwijls klap geven ; bejegenen hij , om ik , nog wij , niet stuur nog straffen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.826.s.1	ik Verzoek uw het zelfde met , in doen allerbest mening .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.831.s.1	Al het geren gei aan hij doen geven gei hij slechts te lening ; hij keren uw zulks welrasch mede woeker wederom .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.837.s.1	schonen hij ik hebben misdoen , mijn aanklagt blijven tocht stom , En elk die hij misdeed zullen geren vergelding vragen , zo minnen alles ik , die straks door hij zijn afslaan .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.845.s.1	gei gaaft daar rijden toen , wanneer gei , onbedacht , doen ladder vinden hebben dak voor hij hebben wegbrengen , zijn door ik zien die hij komen klauteren vinden de toorn , En , in die dalen , schier hebben leven hebben verliezen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.849.s.1	die zijn vrijen erg stuc dan het klimmen in de mast .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.853.s.1	Dus hebben hij , voor u werken , u ' lot mare afpassen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.859.s.1	Dan doen hij wel die hij die moeite aan uw betalen , wennen hij mede lyfsgevaar vinden boven nederdalen ; Hoewel het onmoglyk schijnen die gei ik al t ' saam ' vertellen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.865.s.1	zijn zwier tonen edelheid , zijn oogopslag een Held En blik vinden doen Admiraals die ik voordeezen tellen alles stut vinden deez ' staan en waar Waterhelden .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.868.s.1	doen kapitein , Michiel , die zien zelf bezien en dus heen en weder lopen , beschouwen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.872.s.1	Ik zelf vinden ook zo iets in deze janhen Gast , die goed aan een ' manna dan aan een ' janhen passen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.872.s.2	Daar komen hij , aankleden , gelijk een Zeeman , nader .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.875.s.1	Twaalfde toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.880.s.1	doen kapitein , tegen Alida Jansz .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.886.s.1	horen , moer , ik zullen u ' zode behandlen alles een Vader .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.886.s.2	wild gei terstond aan boord ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.886.s.3	of wild gij een dagge of teen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.886.s.4	Hier , in wij Vlissingen , de Zeedienst nog wat zieden ?	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.883.s.1	( mede vriendlykheid , tegen Michiel . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.889.s.1	Michiel , mede zeer velen aandoenlyke beleefdheid .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.906.s.1	Ik zijn in nederland dienst ; gei hebben slechts te gebieden , Heer Hopman ; doch indien hebben billijk kennen scheiden die ik mare , zonder goed , terstond aan boord mogen gaan , Ik lopen meteen vinden landen en nemen hebben Zeewerk aan .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.906.s.2	Hoe hoog druif wie vinden zijn Waereldwyngaart ruk , Hoe zij aangenaamer zijn en lekker naar het plukken .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.906.s.3	dunken elk doen Zeedienst zwaard , hebben zijn doen sterk manna Die het zwaar werken , mede vreugde en liggen , verrichten kunnen : Hoe groot lyfsgevaar zijn op doen Zee te vinden , Hoe meer zijde woerd zijn die zij ' bouwen zien onderwinden : Hoe sterk vijand macht ik voor zien buigen doen , Hoe meerder roemen ik d ' Overwinnaar geven moeten .	Joy_Emotion
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.893.s.1	( mede de hoeden in doen hand , zien beleefd nederbuigende )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.909.s.1	doen kapitein , hij verrukken aangrypende .	Joy_Emotion
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.911.s.1	Wel , janhen !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.914.s.1	Michiel , mede een beleefd gebelgtheid .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.923.s.1	Wel , kapitein !...	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.923.s.2	Ik die doen heer staat En Prins , en hebben aldus hebben jongensschap verlaat .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.923.s.3	Ik die wieden ik dienst moeten , in staan - , Stadhouderschap En verder , alles een manna ; of zo gei ik uiten doen grappen Slechts janhen noemen zijn het wel ; ik zijn , alles manna , een janhen ; Doch alles zoo'n Jongeling staan ik vasten voor mannesprongen : Gebie ik dan alles manna , schonen ik jong vinden jaar zijn ; wennen ik geren Jongensspel in Staatendienst erken .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.926.s.1	Lampsins ; mede verrukking .	Joy_Emotion
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.928.s.1	die zijn rechte Vaderlands , gelijk een Zeeuw , spreken !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.943.s.1	Die het kokschap lederen willen leren eest alles janhen koken , Daarna alles Kokjesmaat , tot hij , door kundigheid , Zelf Kok worden en doen spyze op het smakelijk bereiden .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.943.s.2	hebben zaad worden eest een planten , doen plant worp boom , doen boom leevren houden om over Zee te komen , En komen over Zee geraken ik weer te landen En zo al weer in Zee en weer uiten Zee aan het stranden , Tot die ik eindelijk niet verder kunnen geraken , mare al breken zien wat tij en vlijt kennen maken , En daarna blijven wij niets dan nagedachtenis , Die bij de een ' wat meer , wat minnen bij d ' ander zijn .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.946.s.1	Lampsins , hij bij doen hand vatten .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.953.s.1	Neen , gei zullen verder gaan door kundigheen en daad En wij beschaduwen mede groen lauwerbladen , Die zulk weldenkend harden verkrijgen hebben mede rechte : wij het Vaderland dus dienen , alles meest of alles knechten , zijn goddelijk in zijn ziel en eedle zielsgedagten ; vinden zulk een ' leerling zijn Meesterswerk te wachten .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.956.s.1	doen kapitein , mede blijdschap .	Joy_Emotion
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.961.s.1	hij zijn rechte na ik ' smaken ; al dragen hij zijn jong schoon , het zijn waar mennen , zijde , die mennen werk doel , En die zo manlijk denken , in leven en in sterven , Hoe jong hij wees mogen , zullen heldenloon verwerven .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.964.s.1	Michiel , mede overmaat vinden drift .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.966.s.1	Aan boord , Heer Kapitein !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.986.s.1	Ja wel aan boord , Michiel !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.986.s.2	ik zeggen ook , wij denken alles gei hebben een heldenziel ; groeien gei dus werken ' voor , gei worden doen roemen de zeeuw En Vlissings kroon vinden lof een eindeloos tal vinden eeuw , zijn ik ever duizend jaar hebben Draaiwiel nog vertonen Waaraan gei hebben werken en het huis daar gei wonen En voedsel hebben ontvaen en zijn gei zijn geboren ; Dus tonen ' ik ook hebben spits vinden Vlissings - Kerketooren , Waarvan gei , buit helpen vinden ladder , trappen en touwen , Te roekeloos nederklom en voorts vinden het Kerkgebouw , Op een en zelfde wijze , tot op doen straat geraakten ; En melden ik daar nog bij , hoe gei in liefde blaakten Voor nederland vrijen Gewest en u Geboortestad , Dan blijven gei Vlissingen een onwaardeerbre schatten , doen Nectar vinden zijn Vlesch , zijn burgerij te eren En ook niet minnen te glans vinden Vlissings - Stadsregeeren .	Emotion_BodilyProcess_Love
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.989.s.1	Lampsins , mede nadruk .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1002.s.1	Elk moeten zijn Moederstad altoos te lustre zijn En het Vaderland te steunen , vermydende al schijn vinden ongehoorzaamheid aan zij die weten geven , zijn buit , op deze aarde , geren mens kunne leven .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1002.s.2	Elk eer ' hier doen Ovrigheen , in stad - en Staatsbewind , zijn ieder Heer regeren alles Vader vinden zijn Kind .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1002.s.3	Elk Burger doen zijn ' plicht , gehoorzaam aan s ' Landswetten , Om al muiterye en tweedracht te beletten En al schaadlykheen te weer mede verstaan , te liefde vinden zijn Stad en het lief Vaderland : Dus binden doen Oranjeband doen zeel vrye pijl ; Dus rusten deze Staatsgebouw op onverwrikbre stijl .	Emotion_Love
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1005.s.1	Michiel , eest tegen Lampsins .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1010.s.1	Heer meest , mede verlof .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1010.s.2	Heer Hopman , gunnen aan ik , Een kundig onderwijs die ik te nut gedijen '; Op die ik lederen moog ' doen baar te doorsnyden , Om , uiten hebben Water zelf , wij landen een te bevrijden .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1018.s.1	hij doen zo velen die het landen door wijze raden behoeden , alles hij die het kloek beschermen te kosten vinden zijn bloeden : Gelegenheid en tij in al te overwegen , geven in de wreed rusten , in het strijd d ' oorlogs zege .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1021.s.2	schreijende ,	Worry_Emotion_Sadness
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1023.s.1	passen tocht wel op , Michiel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1026.s.1	Michiel , zijn moer kusschende .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1046.s.1	schreien niet om die ik gade : schonen ik alles janhen nog op Walchrens Eiland staan , ik zullen in ik eerlang een ' Oorlogsman beschouen , Die , alles ik meermaals zei , nog zulk een huis zullen bouw , En die , en die ....	Emotion_Sadness
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1046.s.2	 Bedaar Michiel en denken ' er an : die ik een jong Matroos geren janhen noemen kunnen , nog janhen heet mogen , te zijde hij alles een janhen , Of lief alles een Kind , zien hout bij kindrensprongen , gelijk ik aan de waal tot heden hebben braden , Op die ik eindlyk ik aan boord zij laten gaan .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1046.s.3	ik zijn nu geren janhen meer ; die zij de Zeedienst krenken En vinden wij manlijk werken alles kinderspel doel denken .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.1032.s.1	( Weder zijn ' hoeden oog opwaards smytende . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.1036.s.1	( hij bedenken zien en spreken , alles beschamen , bij zien zelf . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1049.s.1	( Andries , hij , mede schromen , half builende doen hand toesteekende . )	Emotion_Sadness
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1051.s.1	Vaarwel , Michieltje maat !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1054.s.1	Michiel , hij vrolijk in doen hand kloppen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1056.s.1	komen , huilen niet , nu ik lagch .	Joy_Emotion_Sadness
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1059.s.1	Kornelia , doen alles Andries .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1061.s.1	Genacht , Michiel !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1061.s.2	genacht !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1064.s.1	Michiel , zij , mede blijdschap , kusschende .	Joy_Emotion_EmotionalAction_Love
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1071.s.1	uw wensen ik goed dagge , Ja een veelduizend tal de allerbest dag ; mare naar het drie duizend zijn zullen ik uw te huuwlyk vragen , alles janhen , nog Matroos , neen , neen , alles Officier , zo gij uw slechts wel hout , Meid .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1071.s.2	gei zien ik haasten weer hier En mijnheer Lampsins ook .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1074.s.1	Lampsins , hij ernstig bij doen hand grypende .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1107.s.1	gedragen uw nooit te kwaad ; Betree de goed wegge ; laate uw te besteden raden .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1107.s.2	vechten , smijten nooit buit node ; doch zo gei vechten moeten Voor het Vaderland , wagen dan u leven , goed en bloeden , gelijk een braaf Zeeuw , in Walcheren geboren , laten veren , Vlissingen en Middelburg een horen , die gij op zij Eilands grond , te goed uur en tij ; te roemen vinden Zeelands naam en wij geboren zijn .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1107.s.3	hebben gij uw moer lief en zijn gij een Vaderlander , beschamen dan nimmermeer de vaderlands standaard , nog uw Stadgenoot , die gij altemaal verplichten , Wanneer gij , alles Held en mens , een goddelijk werken verrichten , In u heldhaftig zijn en menselijk te wees En meerder uw te doel beminnen dan te vrees ; Een druppel honigraat lokken meerder vlieg aan , Dan ton vol azijn , die voor een lokaas staan ; doen vriendlykheid brengen winst , doen norsheid doen verlies ; Daar het vriendschaps vuur verwarmen , doen ijs vinden haten bevriezen ; Wat gul vriendschap zaaien brengen blijde vrucht voor , Daar stroef af keerigheid de groei en bloei verstoren .	Fear_Emotion_EmotionalAction_Hatred_BodilyProcess_Love
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1107.s.4	Zaai , planten dus te ons eer , om een die klank te horen : doen Ruiter wassen een Zeeuw , in Vlissingen geboren !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1107.s.5	hij wassen , alles mensenvriend , doen waardig Oorlogsman Die enig Zeegewest op het aardrijk toon kunnen !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1107.s.6	doen Ruiter hebben door moede en vriendlykheen verwinnen , naar hij , in Lampsins baan , mede afkeer hebben spinnen , Om die hij in deze werken , waartoe hij het noodlot roepen , mede achteruit te gaan , te weinig voorwaarts lopen ; Doch naar hij een doen Zee , alles Zeeman , mogen bebouwen , zien ik , in het voorwaarts gaan , hij paal nog regelen houen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1110.s.1	Michiel , luchtig lachen .	Joy_Emotion
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1117.s.1	Een Ruiter op een Schip maken al een raaf figuur , En al wat aardig , raaf en zeldzaam zijn vallen duur , En duur zijn zijn goed , of dienen goed te val , wennen doen allerduurste stof , hebben besteden schijnen vinden al ...	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1117.s.2	mare ik merken hebben hoogtijd zijn terstond aan boord te treden : Ik vliegen , na ik fortuin , op doen eedle eerbaan heen !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1122.s.1	Ja , gade , om alles een liggen , een vuurbaak al vrome , In u ' geboortestad , hier naar wederom te komen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1125.s.1	al , te gelijk .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1127.s.1	Vaarwel , Michiel !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1127.s.2	vaarwel !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1130.s.1	Michiel , mede vrolijkheid .	Joy_Emotion
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1142.s.1	vaarwel !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1142.s.2	varen eeuwig wel !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1142.s.3	ik gade nu alles janhen , mare kaar haasten alles Bootsgezel En dan alles Stuurman weer , om spoedig te beleven die ik Heer Lampsins komen een Schip , alles Schipper , geven ; het Welk ik vertrouwen durven vinden doen edelmoedigheid ik oude meester , zijn ik dankbaar harden voor pleiten En steeds voor pleit zullen , mede wensen en bidden , die altijd zijn slachten moog ' doen eerst plaatsen bekleden In Vlissings-Stadsbestier , in Zeelands-Staatsvoogdy En Neerlands-Oppermagt en Vryheids-Maatschappy !	Emotion_Trust
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1145.s.1	doen Kapitein , tegen Michiel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1150.s.1	Hoe meer gij uw maken beroemen door loffelijk daad , Hoe meer gei Lampsins Stam mede lof zullen overladen , wie edelmoedigheid , hier zijn geren twijfel aan , uiten deze Heer , in zijn slachten zullen overgaan .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1153.s.1	Michiel , mede aandoening , tegen Lampsins .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1155.s.1	Vaarwel , Heer meest !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1158.s.1	Lampsins , hij vriendelijk doen hand op het hoofd liggen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1184.s.1	ik zullen u Draaiwiel wel bewaren , zo die ik het nog kunnen zieden een talloos tal vinden jaar .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1184.s.2	u oog zijn vol vuur , u harden zijn vol vinden moede , En uw dankbaarheid spruiten uiten verheven bloeden , In goddelijk gestel en eedle zielsgedagten ; vinden een ontdankbaar mens zijn nooit velen goed te wachten , wan uiten ontdankbaarheid vloeien al slechtheid voor : mare gei , gei tonen die gei doen stemmen de rijden horen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1184.s.3	klimmen dus tot hogen rank , om een , door tij en werk , gelijk een Adelaar , geenszins op was vlerk , de Ikarus gelijk , mede doen allerrapste vlucht , alles nederland Admiraal , te zweven door doen luchten , Te dalen tot wij neder , op zijn vleugel zegepralen , alles groot Admiraal , vinden al doen Admiraalen , Tot gei , alles Admiraal , op het laatst , roemruchtig sneven , En , sterven , aan u landen nog doen overwinning geven , Waarvoor , tot Vlissings eer en doen uw vinden gelijk , ik uw een Praalgraf bouwen ' die beide ' roemen doen blijk : Dus zegg ' ik , t ' ons lof : een jong , uiten Lampsins baan , Die al wij Zeeman wassen te boven zijn gaan , stijgen tienmaal hoog op , ja hondertmaal zo veel , Dan al , ooit doen naam vinden Zeeman toen te deel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.stage.1162.s.1	( hij mede opmerking beschouwen . )	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1187.s.1	Michiel , zijn ' hoeden oog opwerpende .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1194.s.1	Dus bouwen ik eindlyk dan , gelijk hebben zijn zeggen , Een huis zo oog , zo oog , alles besteden Meesterknecht , Of besteden Meestersbaas ooit in Europa bouwen , Of alles ik immer vinden een ' Machinist beschouden ....	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1194.s.2	Daar leggen ik d ' eerst stenen aan het huis , die ik zo oog , zo oog zullen bouw die hebben groeije uiten zijn mens ogen !	None
+rivi001jeug01_01.TEI.2.text.body.div.div.head.1196.s.1	Dertiende toneel .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.stage.1198.s.1	Lampsins , Alida Jansz .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1205.s.1	Ja , bouwen een huis zo oog , zo oog gelijk een toorn , Of hoog na u ' smaken ; ik zullen ' er nog vinden horen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1205.s.2	die onderstellen ik vasten .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1205.s.3	Ik gaan liggen ook te Zee , voeren ik die caesar heil en zo velen wensen met .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1217.s.1	doen wensen doel het hij niet ; ik moeten doen hand roer En werk bij het gebed , om wensen uiten te voer , Of eindlyk ons wensen te doel op voeren staan ; doen slaper winden een dromen ; die vorderen willen moeten gaan , En lopen niet te hard , om elk voorbij te lopen , wennen uiten gestadig gaan meer vordering zijn te hoop Dan uiten een Uilevlugt , die om hebben kaarslicht woelen , zien zengen door haasten en drift , en ras de dood gevoelen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1224.s.1	gei , gei Kornelia , schijnen voor Michiel geschapen : hij spreken alles manna , alles Baas vinden doen ander jong knaap En gei spreken alles een Vrouw , Baasinne vinden u soort ; het zijn meer dan kind talen die ik uiten u beide horen .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.speaker.1227.s.1	doen leidekker , zijn Rug betastende .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1232.s.1	En uiten zij beide voelen ; wie krijgen negenoog , uiten talen vinden zulk een kracht en handelyk vermogen ; En krijgen Michiel hier naar een Veersche dikkebaard , hij worden , in Middelburg , een hoofs waffel woerd .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1246.s.1	Nu , Heer kapitein , willen tocht op ik Michieltje lid ; hij zijn ik lief Kind , een janhen die doen weten vinden ouder slechts ontkruipt , door groot vaarenslust ; mare die geren schelmentrek , nog valsheid wassen bewust , nog ongehoorzaamheid , mede smaken of reuk de boos , Of mede brooddronkenschap , op het spoor der eereloozen : vinden torn hij het eerst spreken , tot deze tij af aan , beven altoos zijn tekst vinden op doen varen te gaan ; doen Inleiding wassen doen Zee , doen Prediking hebben varen , En zijn Toepassing beven hebben dobbren op doen baar .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1257.s.1	ik zeggen somwylen wel , ik liggen daar doen muts bij neder ; mare ik zetten muts en hoeden op ons Vryheids speer , Verweddende al ik goed , en bij ik goed ik leven , die doen eigen Michiel , in het einde , zo oog zullen streven In Zee en Zeemanskunst alles niemand zijn wezen ; wan zulk een lyfsgestel bezielen een groot geest , En het voegen Heer Lampsins goed zijn yvervuur te kweken , Om die in het korten te doel door damp en nevel breken .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1271.s.1	helpen gei hij eest te rechte in doen eedle Vaarenskunst , Ik zullen zijn helper zijn , veelmin uiten enkel gul Dan liefde voor ik landen , om het vuur die ik zien blik , In deze Jongeling , tot zulk een baak te schikken alles nimmermeer een gloed de Zeelien wassen voorheen , Een oogpunt vinden zij heil , die uiten hebben duister scheiden ; wan uiten de diepsten nacht de hoogst dagge te ontglooren , geven zijn ' ontsteeker roemen , doen zegezangen horen , Die uiten doen donkerheid in het schoon liggen doel staan hebben werken vinden doen Ovrigheid en vinden de Onderdaan .	Emotion_Love
+rivi001jeug01_01.TEI.2.text.body.div.div.sp.1286.s.1	Ja , ja , Heer Kapitein , gei moeten hij kundig maken ; En gei Heer Lampsins , gei , zullen hij doel hoog raak , In het eerst Meesterschap , of het eerst Scheepsgebied , zijn uiten ik d'Admiraal in het einde geboren zien : Dus zullen Heer Lampsins Stam zien in de ruiter strengelen En doen eer vinden d'eenen zullen zien in de ander mengelen ; Ja , ik zullen zeggen , niet uiten laf vleierij , hebben laag zielsgestel , mare onbedwongen , vrijen En frank , gelijk het betaamd : Heer Lampsins wassen doen Spruiter , doen Strooijer vinden hebben zaad de grootheid vinden doen Ruiter En wat doen Ruiter doen te welzijn vinden hebben landen zijn door Heer Lampsins eest , te groeijng , voortplanten .	None
+rivi001jeug01_01.TEI.2.text.body.div.div.p.1288.s.1	EINDE .	None
