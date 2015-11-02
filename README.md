@@ -24,10 +24,10 @@ Spelling normalized data can be found in the directory `txt-spelling-normalized`
 
 ## Citing
 
-If you use this dataset in your work, please cite: 
+If you use this dataset in your work, please cite:
 
 ```
-  @INPROCEEDINGS{7304072,
+  @INPROCEEDINGS{zwaan2015,
     author={Zwaan, {Janneke M. van der} and Leemans, Inger and Kuijpers, Erika and Maks, Isa},
     booktitle={e-Science (e-Science), 2015 IEEE 11th International Conference on},
     title={HEEM, a Complex Model for Mining Emotions in Historical Text},
